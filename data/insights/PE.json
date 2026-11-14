@@ -1,61 +1,63 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Perú vive días de mucha emoción por la visita del papa León XIV, que regresó a Chiclayo y celebra misas multitudinarias en Lima: la conversación es familiar, de orgullo nacional y llena de historias virales como la del conductor del Metropolitano. En consumo, la atención se mueve hacia Black Friday (27 de noviembre) y las ofertas tecnológicas, con lanzamientos de celulares y un mercado de telecomunicaciones en movimiento por la compra de Entel por Millicom. Con la gratificación de diciembre en camino, funciona el contenido de compras planificadas, regalos y orgullo peruano, siempre con respeto por lo religioso.",
+ "lectura": "El Perú vive con emoción la visita del papa León XIV, con misas multitudinarias en Lima y Chiclayo y momentos virales como el del conductor del Metropolitano. En lo económico, el BCRP subió su tasa de interés por primera vez en 45 meses, Millicom comprará Entel Perú y Grupo Romero adquirirá Talma, señales de movimiento en telecomunicaciones y logística. El calendario de compras apunta a Black Friday (27 de noviembre) y a la gratificación de diciembre. Funcionan los mensajes cercanos, el orgullo peruano y las compras planificadas con cuotas claras.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con lista y sencillo",
-   "idea": "Faltan dos semanas para Black Friday (27 de noviembre) y la gratificación llega a mediados de diciembre. Publica un carrusel 'Arma tu lista: qué comprar ahora y qué esperar a la grati'. Ayuda a planificar y posiciona tu tienda como aliada del bolsillo.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "La historia que emociona",
-   "idea": "El conductor del Metropolitano que se volvió viral muestra que en Perú conecta lo humano y cotidiano. Cuenta la historia real de un cliente o colaborador que trabaja duro para su familia. Tono cálido, sin usar la imagen del papa ni la fe como gancho de venta.",
+   "titulo": "Orgullo de Chiclayo",
+   "idea": "Chiclayo está en todas las conversaciones por la visita del papa. Restaurantes, turismo y productos regionales pueden mostrar con respeto lo mejor de Lambayeque: su comida, artesanía y destinos.",
    "formato": "Reel"
   },
   {
-   "titulo": "Celular nuevo para la grati",
-   "idea": "Llegan nuevos celulares al Perú y crecen las búsquedas de ofertas tecnológicas. Haz una comparativa honesta de 3 modelos por rango de precio, con pago por Yape o Plin y opción de cuotas. 'Paja y sin roche: elige bien tu próximo cel'.",
+   "titulo": "Tasa más alta, compra planificada",
+   "idea": "El BCRP subió su tasa clave. Haz un carrusel sencillo sobre cómo comprar en Black Friday sin endeudarse: pagar al contado lo que se pueda y comparar cuotas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Lo viral de belleza a precio real",
+   "idea": "Un corrector de ojeras económico es viral en TikTok. Tiendas de belleza: prueba honesta, precio en soles y tiempo de entrega en Lima y provincias.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Calor en Lima, antojos de verano",
-   "idea": "El Senamhi anuncia hasta 30 °C en Lima. Bebidas, heladerías, ropa ligera y protectores solares pueden lanzar ya la 'previa del verano' con yapa en el primer pedido.",
-   "formato": "Historias Instagram"
+   "titulo": "Celular nuevo para la gratificación",
+   "idea": "Llegan al Perú celulares con pantallas pensadas para muchas horas de uso. Tiendas de tecnología pueden lanzar hoy una 'lista de deseos para la gratificación' con modelos y precios finales.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Panetón con propósito",
-   "idea": "Diciembre en Perú es temporada de panetón y chocolatada. Si vendes alimentos o regalos corporativos, abre ya la preventa de canastas navideñas para empresas con fecha límite clara. Mensaje formal para el cliente B2B.",
-   "formato": "LinkedIn"
+   "titulo": "Latin Grammy con sabor peruano",
+   "idea": "Grupo Niche dedicó su Latin Grammy a Colombia y Perú y anunció regreso a Lima. Marcas de entretenimiento y eventos pueden activar playlists de salsa o sorteos para el próximo concierto.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "1998 ky26",
+   "color": "verde",
+   "por_que": "Curiosidad científica sobre un asteroide de comportamiento inusual; genera conversación ligera y educativa.",
+   "idea": "Contenido de curiosidades o '¿sabías que?' para marcas de educación, tecnología o juguetes científicos."
+  },
+  {
    "termino": "milo j",
    "color": "verde",
-   "por_que": "Búsqueda ligada a los Latin Grammy 2026: música y premiación, conversación positiva entre jóvenes.",
-   "idea": "Contenido de 'outfits de alfombra roja' o playlists para el fin de semana; ganchos musicales para Gen Z."
+   "por_que": "Ganador en los Latin Grammy 2026; conversación musical positiva entre jóvenes.",
+   "idea": "Playlists y contenido de música urbana para marcas que hablan a la Gen Z."
   },
   {
    "termino": "tv",
    "color": "verde",
-   "por_que": "Interés general por televisores y streaming de cara a la temporada de ofertas.",
-   "idea": "Guía rápida '¿qué TV comprar en Black Friday?' por tamaño de sala y presupuesto."
+   "por_que": "Búsquedas sobre televisores y cómo verlos mejor, en plena temporada de ofertas.",
+   "idea": "Guías de compra de televisores para Black Friday con precio final y garantía."
   }
  ],
  "ocultar": [
   "ebola",
   "óscar lópez",
   "keiko fujimori",
-  "EE.UU. ordena suspender los despegues en todo el país \"por motivos de seguridad\"",
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Jovencita reportada como desaparecida ya está en su hogar sana y salva | Noticias | El Blog - Noticias de El Salvador",
-  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
-  "«Abominable»: Israel asesinó a 245 niños en Cisjordania desde 2023, denuncia ONU",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "¡SEGÚN BLOOMBERG! Profesionales treintañeros de las finanzas y la tecnología comienzan a regresar a Venezuela",
-  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos"
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+  "El Tribunal Constitucional decidirá si Reinfo no va más",
+  "Embajador de EEUU confía en que Perú cumplirá requisitos para eliminación de visas"
  ],
  "audiencias": {
   "general": {

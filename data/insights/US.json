@@ -1,38 +1,38 @@
 {
  "pais": "US",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En EE. UU. la recta final hacia Thanksgiving (26 de noviembre), Black Friday (27) y Cyber Monday (30) domina el consumo: Walmart y otras cadenas ya adelantaron ofertas, y vuelve el interés por comprar en tiendas físicas. El viernes una falla de comunicaciones obligó a detener temporalmente los despegues en todo el país; los vuelos se reanudaron, pero hubo retrasos que pueden mover compras y envíos de temporada. En entretenimiento brillan los estrenos navideños y el regreso de 'Los juegos del hambre'. Para la comunidad latina: regalos para la familia en casa, presupuesto inteligente y fechas límite de envío.",
+ "lectura": "En EE. UU. ya empezó la temporada de compras navideñas: Walmart, Best Buy, Macy's y Crate & Barrel adelantaron sus ofertas de Black Friday y los medios publican guías de regalos y de compra segura en línea. El paro nacional de vuelos del viernes, causado por una falla de comunicaciones y levantado en pocas horas, dejó pasajeros varados y recordó lo frágil que es la logística en temporada alta. En entretenimiento suenan Hailey Bieber, Ana de Armas y la preventa de GTA VI. Para la comunidad latina es buen momento de hablar de regalos a tiempo para la familia y de compras con precio claro.",
  "semaforo": [
   {
-   "termino": "mel gibson",
+   "termino": "hailey bieber",
+   "color": "verde",
+   "por_que": "Contenido familiar y de estilo de vida de una celebridad con gran influencia en belleza.",
+   "idea": "Rutinas de cuidado de piel y regalos de belleza inspirados en su estilo."
+  },
+  {
+   "termino": "xrp",
    "color": "amarillo",
-   "por_que": "Conversación de cine con matices de polémica alrededor del actor.",
-   "idea": "Si lo usas, habla de cine de temporada en general, sin centrarte en la persona."
+   "por_que": "Criptomoneda en caída fuerte; tema volátil que puede generar ansiedad financiera.",
+   "idea": "Solo para educación financiera prudente; evita prometer ganancias o sugerir inversiones."
   },
   {
-   "termino": "new hunger games movie",
+   "termino": "ana de armas",
    "color": "verde",
-   "por_que": "Estreno muy esperado con elenco de primer nivel; conversación positiva entre Gen Z y millennials.",
-   "idea": "Contenido de 'qué ver este fin de semana', merchandising o noche de cine en casa."
+   "por_que": "Debut en alfombra roja con conversación de moda.",
+   "idea": "Looks de fiesta de fin de año inspirados en la alfombra roja."
   },
   {
-   "termino": "cillian murphy",
-   "color": "verde",
-   "por_que": "Interés de entretenimiento por un nuevo proyecto del actor.",
-   "idea": "Recomendaciones de películas y series para el fin de semana largo de Thanksgiving."
-  },
-  {
-   "termino": "emma watson",
-   "color": "verde",
-   "por_que": "Conversación de moda por su look en una salida reciente.",
-   "idea": "Inspiración de outfits de fiesta para la temporada: 'el minivestido de terciopelo vuelve'."
-  },
-  {
-   "termino": "jaden smith michele lamy",
+   "termino": "joseph zada",
    "color": "amarillo",
-   "por_que": "Rumor de farándula sin confirmar; puede derivar en burla.",
-   "idea": "Evita sumarte al chisme; si hablas de moda, céntrate en el estilo vanguardista sin opinar de su vida privada."
+   "por_que": "La conversación gira en torno a un vestido transparente en un evento; tema de moda pero con riesgo de comentarios fuera de tono.",
+   "idea": "Si lo usas, céntrate en tendencias de moda de gala, sin enfocarte en el cuerpo de nadie."
+  },
+  {
+   "termino": "gta 6 ultimate edition",
+   "color": "verde",
+   "por_que": "Lanzamiento de videojuego muy esperado, con fuerte intención de compra para Navidad.",
+   "idea": "Combos de regalo para gamers con precio total y fecha de entrega garantizada."
   }
  ],
  "audiencias": {
@@ -763,53 +763,45 @@
   }
  ],
  "ocultar": [
-  "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
-  "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
-  "US Army names officer held on ‘allegations of espionage’",
   "Ole Miss officials address another racist incident days after viral video",
   "School investigating after viral video shows 10th-grade girl punched, put in chokehold on Ohio school bus",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
   "Pete Hegseth condecoró al soldado que lo reprendió por las risas de su comitiva frente a la Tumba del Soldado Desconocido",
   "FBI alerta que hackers de Corea del Norte usaron falsas videollamadas de Zoom para robar USD 400 millones",
   "Who’s who in Zohran Mamdani’s administration?",
   "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
-  "dane cook",
-  "pentagon warning",
-  "The Los Angeles County Sheriff’s Department is aware of reports regarding the nationwide aviation ground stop and is closely monitoring the situation in coordination with our local, state, and federal partners. There are currently no reported impacts to our publ",
-  "O.C. sheriff investigates whether employees alerted ICE before man’s arrest",
-  "sarah huckabee sanders",
-  "noel fielding",
-  "Houston vs. Colorado prediction, odds, time: Week 11 Friday college football picks from proven model",
-  "Explanation of Vote for UNGA 81/3C Resolution \"The right to food\"",
-  "JUST IN: Army Looks to Autonomize Logistics in Indo-Pacific",
-  "Former Philadelphia Museum of Art Executive Charged $30K to Company Cards"
+  "Resumen de noticias del choque de un buque cisterna con un crucero fluvial cerca de Nueva Orleans, del 13 de noviembre",
+  "Rusia se muestra evasiva tras el anuncio de EE.UU. de que Europa participará las próximas conversaciones sobre Ucrania",
+  "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+  "The senators who could join Van Hollen's insurgency against Schumer",
+  "BBC undercover reporter is offered fake art and awards for talent visa",
+  "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
+  "Titans' Robert Saleh Talks 1st Matchup vs. Jaguars' Liam Coen Since Viral Video of Altercation"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Early Black Friday para latinos",
-   "idea": "Las ofertas anticipadas ya están activas. Haz un video en español con 3 compras que valen la pena ahora y 3 que conviene esperar al 27. Lenguaje cercano y precios reales.",
-   "formato": "TikTok"
+   "titulo": "Early Black Friday, en español",
+   "idea": "Las grandes cadenas ya lanzaron ofertas anticipadas. Haz un resumen semanal en español de las mejores ofertas de tu categoría y cómo comprarlas sin caer en estafas, un tema que también está en las noticias de hoy.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Envía antes del corre-corre",
-   "idea": "Los retrasos de vuelos del viernes recuerdan que la temporada se congestiona. Publica tus fechas límite para que los regalos lleguen a Latinoamérica antes de Navidad y anima a enviar con tiempo.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Cocina rica y barata",
-   "idea": "Un papá se hizo viral compartiendo recetas económicas. Marcas de alimentos y supermercados latinos pueden proponer el 'Thanksgiving con sazón latino' a bajo costo.",
+   "titulo": "Regalos que llegan a tiempo a la familia",
+   "idea": "Tras el paro de vuelos del viernes, la gente se pregunta por retrasos. Publica un calendario sencillo con las fechas recomendadas para enviar regalos a Latinoamérica antes de Navidad.",
    "formato": "Reel"
   },
   {
-   "titulo": "El influencer que llena tu local",
-   "idea": "Un restaurante oaxaqueño en Riverside multiplicó clientes tras el video de un creador. Pymes latinas: invita a un creador local a probar tu producto y ofrécele un código de descuento para su comunidad.",
-   "formato": "Instagram"
+   "titulo": "Cocina con poco presupuesto",
+   "idea": "Un papá se volvió viral con tips de cocina barata. Marcas de alimentos y supermercados latinos pueden hacer su versión: 'cena de Thanksgiving para 6 por menos de X dólares' con productos de su tienda.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Noche de película en familia",
-   "idea": "Los estrenos de temporada y la nueva película de 'Los juegos del hambre' generan conversación. Propón el combo de noche de cine en casa: snacks, cobijas o pantallas en oferta.",
-   "formato": "Carrusel Instagram"
+   "titulo": "El efecto del video viral en un restaurante",
+   "idea": "Un restaurante oaxaqueño de Riverside llenó su local tras el video de un creador. Si tienes un negocio local, invita a creadores pequeños de tu ciudad a probar tu producto y cuéntalo como caso.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "GTA VI como regalo",
+   "idea": "La preventa de GTA VI y su edición especial están en tendencia. Tiendas de tecnología y gaming pueden armar combos de consola, juego y accesorios con precio total claro para Navidad.",
+   "formato": "Copy para anuncio"
   }
  ]
 }

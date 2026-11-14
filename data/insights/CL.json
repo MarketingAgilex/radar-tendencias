@@ -1,71 +1,76 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile es uno de los mercados de comercio electrónico más maduros de la región y ya mira al Black Friday oficial de la Cámara de Comercio de Santiago, del 27 al 30 de noviembre, con medios que enseñan a comparar precios y evitar ofertas falsas. El fin de semana trae panoramas culturales y masivos: arrancó la Feria Internacional del Libro de Santiago (FILSA) en la Estación Mapocho, hay Noche de Museos y el festival Creamfields. La farándula de TV ('Primer Plano', 'Vértigo') domina las búsquedas no deportivas. Funcionan los mensajes de precio transparente, cuotas, despacho rápido y panoramas para disfrutar el inicio del verano.",
+ "lectura": "Chile se prepara para su Black Friday de cuatro días a fin de mes, y las notas recomiendan revisar el historial de precios para no pagar de más; también invitan a pymes de regiones a sumarse. Santiago tiene panoramas culturales fuertes: arrancó la Feria Internacional del Libro en la Estación Mapocho, viene la Noche de Museos con casi mil actividades y hubo un Creamfields masivo. La cancelación de algunos vuelos a EE. UU. por la falla de comunicaciones de este viernes recordó la importancia de informar plazos. Funcionan la transparencia en precios, el humor de farándula y los panoramas de fin de semana.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday CCS: arma tu lista",
-   "idea": "El Black Friday oficial será del 27 al 30 de noviembre. Publica 'Mi lista del Black: qué comprar y cuánto gastar' e invita a guardar el post. Los medios están enseñando a revisar si un precio bajó de verdad: muestra tu precio de referencia sin trucos.",
+   "titulo": "Historial de precios a la vista",
+   "idea": "Las guías de hoy enseñan a verificar si un producto realmente bajó de precio. Adelántate y muestra el precio de tu producto en las últimas semanas: ofertas transparentes antes del Black Friday.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Acceso anticipado con registro",
-   "idea": "En la Biblioteca de Anuncios de Meta se repite el 'acceso anticipado Black Friday' para quienes se registran. Captura correos o WhatsApp hoy con un beneficio concreto y avísales al tiro cuando parta la oferta.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Panorama FILSA",
-   "idea": "La Feria del Libro de Santiago está en marcha. Librerías, papelerías y marcas de regalos pueden proponer 'el libro como regalo de Navidad' con recomendaciones por perfil. Bacán para cuentas de cultura y educación.",
+   "titulo": "Pymes de regiones al Black Friday",
+   "idea": "Hay llamados a que las pymes regionales se sumen a los cuatro días de ofertas. Cuenta cómo despachas a regiones, en cuánto tiempo y a qué costo: es el principal freno del comprador fuera de Santiago.",
    "formato": "Reel"
   },
   {
-   "titulo": "Previa del verano",
-   "idea": "Con Creamfields y la temporada de festivales, moda, accesorios y belleza pueden mostrar 'el look para el carrete de verano'. Tono juvenil, con poleras, lentes y bloqueador.",
+   "titulo": "Libros para regalar",
+   "idea": "Arrancó la FILSA 2026. Librerías, papelerías y marcas de regalos pueden armar 'packs lectores' para Navidad y mostrarlos en la feria o en un video desde la Estación Mapocho.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cerezas rumbo a Asia",
-   "idea": "Empieza la temporada de exportación de cerezas, clave para Chile de cara al Año Nuevo Chino. Exportadores y empresas de logística pueden contar su operación de temporada y su cadena de frío.",
-   "formato": "LinkedIn"
+   "titulo": "Monitor gamer en el Black",
+   "idea": "Las guías para elegir monitor gamer están entre lo más leído de consumo. Tiendas de tecnología: comparativa simple de tres modelos por presupuesto y despacho al tiro.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Panorama de Noche de Museos",
+   "idea": "Casi mil actividades se inscribieron en la Noche de Museos. Cafés, restaurantes y tiendas cercanas pueden ofrecer un descuento a quien llegue con su 'ruta de museos'.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "inessa sorokina",
    "color": "amarillo",
-   "por_que": "Búsqueda de farándula por una entrevista en TV sobre una expareja; tono de chisme.",
-   "idea": "Úsalo solo como gancho de 'qué ver esta noche', sin opinar de su vida privada."
+   "por_que": "Farándula ligada a un programa de TV y a una ex pareja; da conversación, pero puede derivar en polémica personal.",
+   "idea": "Humor liviano de farándula sin tomar partido ni burlarse de nadie."
+  },
+  {
+   "termino": "china",
+   "color": "amarillo",
+   "por_que": "La búsqueda viene por la semana difícil de Nvidia y la competencia tecnológica; tema de negocios, no de consumo directo.",
+   "idea": "Para LinkedIn: qué significa para las pymes chilenas que importan tecnología."
+  },
+  {
+   "termino": "pronóstico del tiempo",
+   "color": "verde",
+   "por_que": "Búsqueda de servicio para planear el fin de semana.",
+   "idea": "Promociones según el clima: protector solar, ropa liviana, planes al aire libre."
   },
   {
    "termino": "creamfields",
    "color": "verde",
-   "por_que": "Festival masivo de música electrónica; conversación de panoramas y verano.",
-   "idea": "Looks de festival, hidratación, transporte de regreso y fotos del evento para marcas juveniles."
+   "por_que": "Festival masivo de música electrónica con alta conversación juvenil.",
+   "idea": "Contenido 'lo que dejó el festival' y ofertas para los próximos panoramas de verano."
   },
   {
    "termino": "afp uno",
    "color": "amarillo",
-   "por_que": "Tema financiero sobre pensiones: interesa, pero puede volverse técnico o polémico.",
-   "idea": "Para fintech y asesores: educación financiera simple sobre ahorro para el retiro, sin recomendaciones de inversión."
-  },
-  {
-   "termino": "pinilla en vertigo",
-   "color": "amarillo",
-   "por_que": "Momento incómodo en un programa de TV que generó críticas.",
-   "idea": "Evita sumarte; si hablas del programa, céntrate en el entretenimiento en general."
+   "por_que": "Tema de pensiones con propuestas de mejora; interesa, pero es sensible para el bolsillo.",
+   "idea": "Solo educación financiera neutral y clara; evita promesas de rentabilidad."
   }
  ],
  "ocultar": [
-  "Ruta 68 y carreteras del norte y sur: los puntos donde continúan las movilizaciones de camioneros",
-  "Revelan identidad de agresor de Luis Slimming: sería funcionario público",
   "\"No lo estimamos conveniente\": Undurraga explica por qué hubo duelo para Lelio y no para Guzmán",
   "Camila Bustamante, víctima del Sodalicio tras su reunión con el Papa: “Lo sentí preocupado y con un compromiso personal”",
   "Un petrolero hunde un ferry con más de 129 personas a bordo en el río Mississippi",
   "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
   "Agreden a famoso humorista en medio de show: su reacción ya es viral en redes sociales",
-  "Jóvenes privados de libertad participan en consulta para definir futuras actividades deportivas junto al IND",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela"
+  "Presupuesto 2027: Cámara rechaza partidas de ministerios de la Mujer y de las Culturas y visa recursos para Seguridad",
+  "La Moneda bajo presión: la tormenta de tres tiempos que nubla la primera gira de Kast en Asia",
+  "Corte de Santiago eleva a $50 millones indemnización a hijo de víctima ejecutada por agentes del Estado"
  ],
  "audiencias": {
   "general": {

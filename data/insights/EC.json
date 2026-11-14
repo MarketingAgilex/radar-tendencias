@@ -1,13 +1,13 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador vive un fin de semana de buen ánimo tras el triunfo de la selección en Quito, pero la conversación de consumo ya apunta a Black Friday (27 de noviembre) y Cyber Monday. Las ventas de camionetas crecen y entran modelos ensamblados en el país a competir por precio y confianza. En Guayaquil se anuncian lluvias fuertes para este sábado y la llegada del Atlético de Madrid como socio del Atlético de Guayaquil. Es buen momento para mensajes de precio final claro, compras planificadas y orgullo local.",
+ "lectura": "Ecuador amanece de buen ánimo tras el triunfo de la selección en Quito, pero la conversación de consumo útil está en las compras de fin de año: Black Friday cae el 27 de noviembre y las notas regionales recomiendan planificar para no endeudarse. La venta de camionetas crece 33% y modelos ensamblados en el país compiten con importados. En Guayaquil se esperan lluvias fuertes desde la tarde de hoy y el Atlético de Madrid compró la mitad del Atlético de Guayaquil, una noticia de marca y orgullo local. Funcionan los mensajes de precio final claro, compra planificada y servicio puntual.",
  "semaforo": [
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Señal de consumo real: las ventas crecen y modelos hechos en Ecuador compiten con importados.",
+   "por_que": "Señal de consumo real: las ventas crecen 33% y modelos hechos en Ecuador compiten con importados.",
    "idea": "Para repuestos, accesorios y seguros: comparativas honestas de precio, garantía y servicio."
   }
  ],
@@ -929,43 +929,34 @@
   "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
   "Caso La Reina: prisión preventiva para exreina de Guayaquil por presunto lavado de activos",
   "Lluvias en Guayaquil dejan a un padre y su hijo desaparecidos tras caer a una zanja",
-  "Dictan prisión preventiva para exreina de Guayaquil",
   "¿Quién está obligado a votar en Ecuador y quién puede no hacerlo?",
-  "Estudiantes exigen a ICE liberar a María Flores García y su madre",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "Mamdani lanzará un concurso de diseño de videojuegos para jóvenes de Nueva York con temática de transporte público",
-  "Jovencita reportada como desaparecida ya está en su hogar sana y salva | Noticias | El Blog - Noticias de El Salvador",
-  "Con velas, globos y peluches recuerdan a niños asesinados tras ejecución de John Allen Rubio",
-  "Cuatro niños hispanos de Marietta se encuentran separados de sus padres tras detención migratoria",
-  "Disparo accidental afuera de una joyería en North Miami deja una persona herida",
-  "¡SEGÚN BLOOMBERG! Profesionales treintañeros de las finanzas y la tecnología comienzan a regresar a Venezuela",
-  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
-  "Las exportaciones petroleras de Venezuela hacia Estados Unidos aumentan 9 % en la primera semana de noviembre"
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Video | Padre e hijo cayeron a una zanja durante las fuertes lluvias en Guayaquil, según el ECU 911 y Segura EP"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con cuentas claras",
-   "idea": "Faltan menos de dos semanas para Black Friday. Publica un carrusel 'Cuánto pagas de verdad' con precio, envío y costos adicionales, porque el ecuatoriano teme los cobros sorpresa. Cierra con '¿Te ayudamos a calcular el tuyo?'.",
+   "titulo": "Black Friday con presupuesto",
+   "idea": "Faltan menos de dos semanas para el 27 de noviembre y los consejos de hoy giran en torno a no endeudarse. Publica una plantilla de 'presupuesto de Black Friday' con tus productos como ejemplo y el precio final ya calculado.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Tu camioneta lista para diciembre",
-   "idea": "Las ventas de camionetas crecen y hay más marcas compitiendo. Talleres y tiendas de accesorios pueden mostrar 'lo que tu camioneta necesita antes del viaje de fin de año' con precios finales.",
+   "titulo": "Camionetas: el boom de los accesorios",
+   "idea": "Las ventas de camionetas suben 33%. Si vendes accesorios, repuestos, seguros o lavado, aprovecha con un 'primer kit para tu camioneta nueva' y una comparativa honesta de precio y garantía.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lluvia en Guayaquil, compra desde casa",
-   "idea": "Se anuncian lluvias fuertes en Guayaquil desde la tarde de hoy. Restaurantes y tiendas pueden activar 'pide sin mojarte' con entrega a domicilio y pago al recibir.",
+   "titulo": "Plan de lluvia en Guayaquil",
+   "idea": "Hay pronóstico de lluvias fuertes desde esta tarde en Guayaquil. Delivery, restaurantes y tiendas en línea pueden invitar a 'quedarse en casa y pedir', con mensajes de servicio y sin dramatizar.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Comparativa sin miedo",
-   "idea": "Haz un video comparando dos opciones de tu categoría (precio, garantía, servicio posventa). El consumidor ecuatoriano compara mucho y valora la honestidad.",
+   "titulo": "Probé lo viral de TikTok",
+   "idea": "Un corrector de ojeras económico y las ofertas anticipadas de belleza son de lo más visto esta semana. Tiendas de belleza: reseña real, precio final en dólares y tiempo de entrega a Quito, Guayaquil y Cuenca.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Regalos para la familia de afuera",
-   "idea": "Para la diáspora en EE. UU. y España, publica fechas límite de envío navideño y una idea de regalo 'con sabor a Ecuador'. Emoción y fecha concreta empujan la decisión.",
+   "titulo": "Fecha límite para regalos desde EE. UU.",
+   "idea": "La breve suspensión de vuelos en EE. UU. de este viernes recordó que en temporada alta los tiempos importan. Publica con calma las fechas recomendadas para comprar en tiendas de EE. UU. y recibir antes de Navidad.",
    "formato": "Copy para anuncio"
   }
  ]

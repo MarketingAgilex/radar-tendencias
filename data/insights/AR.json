@@ -1,0 +1,1011 @@
+{
+ "pais": "AR",
+ "actualizado": "2026-11-14T09:04:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "El consumidor argentino sigue muy pendiente del dólar y de los precios: 'precio dólar blue' y 'mercado cambiario' están entre lo más buscado de la semana, y se viralizan comparaciones de precios de supermercado en destinos de Brasil. Ya pasó el CyberMonday (2 al 4 de noviembre) y la próxima cita es el Black Friday del 27, con el verano encima: las notas de consumo hablan de ventiladores, electrodomésticos y los SUV más vendidos. Hoy hay alerta por tormentas en Buenos Aires y el Litoral. Ganan los mensajes con precio final en pesos, cuotas claras y comparativas honestas.",
+ "ideas_hoy": [
+  {
+   "titulo": "¿Cuánto sale de verdad?",
+   "idea": "Se viralizó un video que compara precios de supermercado en un destino de Brasil. Hacé tu versión: mostrá cuánto sale tu producto acá, con cuotas, frente a lo que costaría afuera con envío incluido. La comparación honesta genera confianza.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Verano: lista para el Black Friday",
+   "idea": "Las guías de hoy recomiendan elegir ventiladores y electrodomésticos pensando en el Black Friday del 27. Armá una lista 'lo que conviene comprar antes del calor' con tus productos y precio final en cuotas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Plan para un sábado de tormenta",
+   "idea": "Anuncian fuertes lluvias en Buenos Aires y alerta amarilla en el Litoral. Delivery, streaming, juegos de mesa y tiendas online pueden proponer el 'plan de sábado en casa' con envío en el día.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Noche de los Museos en tu barrio",
+   "idea": "Córdoba y Buenos Aires viven la Noche de los Museos, gratuita y masiva. Cafés y comercios cercanos pueden ofrecer un beneficio a quien muestre la foto de su recorrido.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Regalos para la familia que llega",
+   "idea": "Tini Stoessel y Rodrigo de Paul confirmaron que esperan un bebé y es tema de conversación. Tiendas de bebés y deco pueden aprovechar con un 'kit de bienvenida' para regalar en las fiestas, sin usar su imagen.",
+   "formato": "Copy para anuncio"
+  }
+ ],
+ "semaforo": [
+  {
+   "termino": "precio dolar blue",
+   "color": "amarillo",
+   "por_que": "Búsqueda diaria que refleja la ansiedad por los precios; útil para hablar de valor, pero el tema cambiario es sensible.",
+   "idea": "Mostrá precios en pesos con cuotas claras y evitá pronósticos sobre el dólar."
+  },
+  {
+   "termino": "clima tucuman",
+   "color": "verde",
+   "por_que": "Búsqueda de servicio con calor en el norte del país.",
+   "idea": "Promos de ventiladores, bebidas frías, protector solar y ropa liviana para el NOA."
+  },
+  {
+   "termino": "clima corrientes",
+   "color": "amarillo",
+   "por_que": "Hay alerta amarilla por tormentas en el Litoral; tema de servicio, sin dramatizar.",
+   "idea": "Mensajes útiles: horarios de entrega, retiro en sucursal y cuidado de compras en días de lluvia."
+  },
+  {
+   "termino": "cuánto salió argentina",
+   "color": "verde",
+   "por_que": "Curiosidad por comparar precios con el exterior: puro interés de consumo.",
+   "idea": "Comparativas de precio final (producto + envío + impuestos) frente a comprar afuera."
+  },
+  {
+   "termino": "rodrigo de paul",
+   "color": "verde",
+   "por_que": "Noticia familiar positiva junto a Tini Stoessel, muy comentada en redes.",
+   "idea": "Contenido de regalos para bebés y celebraciones familiares, sin usar su imagen ni su nombre en anuncios."
+  }
+ ],
+ "ocultar": [
+  "Los libertarios negocian, pero demoran en ceder a las exigencias",
+  "Susbielles alertó por el impacto de la reforma de biocombustibles en el empleo regional",
+  "El Fiscal General de la Ciudad fue distinguido como Miembro Honorífico del Instituto Peruano Argentino de Derecho Penal",
+  "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
+  "El brutal mensaje de Martín Migueles tras su video viral amenazando a Mauro Icardi"
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor argentino",
+   "resumen": "Experto en cuidar el bolsillo tras años de inflación: compara precios, calcula en cuotas y sigue el dólar a diario. Es muy digital (Mercado Libre y Mercado Pago son parte de su vida) y exige respuesta rápida. Valora la calidad, el humor y que le hablen de igual a igual. Buenos Aires concentra el consumo, pero el interior (Córdoba, Rosario, Mendoza, Tucumán) pesa y pide envíos confiables.",
+   "como_habla": "Usa el voseo siempre ('vos tenés', 'comprá', 'llevá') y lo espera de las marcas. Habla rápido, con ironía y muletillas como 'che', 're', 'posta', 'dale'. En redes es muy opinador y celebra el ingenio.",
+   "dolores": [
+    "Precios que cambian de una semana a otra",
+    "Ofertas infladas en fechas de descuento",
+    "Costos de envío altos al interior",
+    "Cargos o impuestos que aparecen al final"
+   ],
+   "motivaciones": [
+    "Cuotas sin interés",
+    "Ahorrar frente a otros canales",
+    "Envío rápido y gratis",
+    "Marcas con buena reputación en Mercado Libre"
+   ],
+   "frenos": [
+    "Precio final poco claro",
+    "Falta de reseñas",
+    "Atención lenta o automática"
+   ],
+   "tono": "Cercano, ingenioso y directo, con voseo.",
+   "evitar": [
+    "Tú/usted en redes (suena extranjero o distante)",
+    "Opiniones sobre economía o el gobierno",
+    "Promesas exageradas"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "TikTok",
+    "YouTube",
+    "Facebook"
+   ],
+   "mensajes": [
+    "'Precio final, en cuotas y sin sorpresas.'",
+    "'Comprá hoy, te llega al toque.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce argentino",
+   "resumen": "Miles de emprendimientos venden por Instagram, Tiendanube y Mercado Libre: indumentaria, cosmética, deco, alimentos y tecnología. Muy creativos con poco presupuesto y atentos a CyberMonday, Hot Sale y Black Friday.",
+   "como_habla": "Práctico y en voseo: 'envíos a todo el país', 'stock', 'cuotas', 'retiro por showroom', 'mayorista'.",
+   "dolores": [
+    "Competir en precio con grandes plataformas",
+    "Costos de envío y logística al interior",
+    "Reponer stock con precios que cambian"
+   ],
+   "motivaciones": [
+    "Vender más en fechas clave",
+    "Exportar o vender a argentinos en el exterior",
+    "Profesionalizar la marca"
+   ],
+   "frenos": [
+    "Miedo a invertir en pauta sin retorno",
+    "Trámites para exportar"
+   ],
+   "tono": "Motivador, práctico y concreto.",
+   "evitar": [
+    "Promesas de ganancias fáciles",
+    "Tecnicismos sin explicar"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "WhatsApp Business",
+    "LinkedIn",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Tu emprendimiento también puede jugar en el Black Friday.'",
+    "'Vendé al mundo lo que hacés acá.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Exportadores de vino, yerba mate, alimentos, cuero, maquinaria agrícola y servicios de software; importadores de insumos y tecnología. Muy atentos a normas cambiarias, costos y tiempos.",
+   "como_habla": "Formal y técnico: 'despacho', 'posición arancelaria', 'courier', 'puerta a puerta', 'tiempo de tránsito'.",
+   "dolores": [
+    "Cambios de reglas y costos",
+    "Tiempos de tránsito largos",
+    "Trámites aduaneros"
+   ],
+   "motivaciones": [
+    "Previsibilidad",
+    "Abrir nuevos mercados",
+    "Un socio logístico confiable"
+   ],
+   "frenos": [
+    "Cambiar de proveedor en plena temporada"
+   ],
+   "tono": "Profesional, sobrio y orientado a resultados.",
+   "evitar": [
+    "Opinar sobre política económica",
+    "Simplificar trámites que no son simples"
+   ],
+   "canales": [
+    "LinkedIn",
+    "WhatsApp",
+    "Correo",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Tu producto argentino, en manos de tu cliente afuera.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande / corporativo",
+   "resumen": "Empresas de consumo masivo, agro, energía, retail y tecnología con operaciones regionales. Buscan eficiencia, cumplimiento y socios con trayectoria.",
+   "como_habla": "Formal, con datos: 'eficiencia', 'compliance', 'trazabilidad', 'nivel de servicio'.",
+   "dolores": [
+    "Costos logísticos",
+    "Incertidumbre regulatoria",
+    "Coordinación regional"
+   ],
+   "motivaciones": [
+    "Eficiencia y control",
+    "Escalar a la región",
+    "Proveedores confiables"
+   ],
+   "frenos": [
+    "Procesos de compra largos"
+   ],
+   "tono": "Profesional y basado en evidencia.",
+   "evitar": [
+    "Lenguaje informal en exceso",
+    "Promesas sin respaldo"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo",
+    "Eventos del sector"
+   ],
+   "mensajes": [
+    "'Logística regional con métricas claras.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z argentina (18–28)",
+   "resumen": "Nativa de TikTok y streaming (Olga, Luzu y creadores de YouTube y Twitch). Compra moda, tecnología y belleza; busca reseñas reales y ama el humor absurdo. Muy atenta al precio y a la segunda mano.",
+   "como_habla": "Voseo y mucha ironía: 're', 'posta', 'cringe', 'flashear', 'manija', 'random'.",
+   "dolores": [
+    "Presupuesto ajustado",
+    "Desconfianza de la publicidad muy producida"
+   ],
+   "motivaciones": [
+    "Pertenencia y tendencia",
+    "Creadores en quienes confía",
+    "Descuentos y drops"
+   ],
+   "frenos": [
+    "Envíos caros",
+    "Procesos largos"
+   ],
+   "tono": "Divertido, rápido y auténtico.",
+   "evitar": [
+    "Forzar jerga",
+    "Memes viejos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube",
+    "Twitch"
+   ],
+   "mensajes": [
+    "'Lo viste en TikTok, te llega a tu casa.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials argentinos (29–44)",
+   "resumen": "Compran casi todo online, en cuotas, y equilibran trabajo, familia y ocio. Planifican viajes y grandes compras (tecnología, electrodomésticos) según el dólar y las promociones bancarias.",
+   "como_habla": "Voseo, cercano y práctico: 'conviene', 'en cuotas', 'envío gratis', 'me copa'.",
+   "dolores": [
+    "Poco tiempo",
+    "Presupuesto que se achica",
+    "Comparar mil opciones"
+   ],
+   "motivaciones": [
+    "Comodidad",
+    "Ahorro inteligente",
+    "Experiencias y viajes"
+   ],
+   "frenos": [
+    "Letra chica",
+    "Posventa deficiente"
+   ],
+   "tono": "Cercano, claro y útil.",
+   "evitar": [
+    "Infantilizar el mensaje"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "YouTube",
+    "Facebook"
+   ],
+   "mensajes": [
+    "'Comparalo y elegí tranquilo.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X argentina (45–60)",
+   "resumen": "Pragmática y desconfiada de lo nuevo; compra online pero valora la atención humana, la garantía y el respaldo de marcas conocidas. Toma decisiones de compra del hogar.",
+   "como_habla": "Voseo más formal; aprecia la claridad: 'garantía', 'factura', 'atención personalizada'.",
+   "dolores": [
+    "Estafas online",
+    "Atención automatizada"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Calidad que dure",
+    "Atención por teléfono o WhatsApp"
+   ],
+   "frenos": [
+    "Procesos complicados"
+   ],
+   "tono": "Claro, serio y amable.",
+   "evitar": [
+    "Jerga juvenil",
+    "Mensajes ambiguos"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "YouTube",
+    "Instagram"
+   ],
+   "mensajes": [
+    "'Garantía y atención de verdad.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers argentinos (60+)",
+   "resumen": "Usan WhatsApp y Facebook a diario y se animan cada vez más a comprar online, sobre todo con ayuda de hijos y nietos. Valoran el trato respetuoso y la confianza.",
+   "como_habla": "Respetuoso y pausado; voseo o usted según la región.",
+   "dolores": [
+    "Miedo a fraudes",
+    "Dificultad con apps"
+   ],
+   "motivaciones": [
+    "Cercanía con la familia",
+    "Atención paciente"
+   ],
+   "frenos": [
+    "Pagos digitales complejos"
+   ],
+   "tono": "Respetuoso, paciente y claro.",
+   "evitar": [
+    "Prisa",
+    "Tecnicismos"
+   ],
+   "canales": [
+    "WhatsApp",
+    "Facebook",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Te acompañamos en cada paso.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Producción local, segunda mano, reciclaje y marcas de diseño argentino con materiales nobles.",
+   "mensaje": "'Hecho acá, pensado para durar.'",
+   "evitar": "Hablar de sostenibilidad sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Es el perfil más fuerte del país: cuotas sin interés, promociones bancarias y comparativas de precio.",
+   "mensaje": "'El precio final, en cuotas, sin vueltas.'",
+   "evitar": "Descuentos sobre precios inflados."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas internacionales, tecnología de punta y experiencias exclusivas; valora el buen gusto sin ostentación.",
+   "mensaje": "'Lo mejor, sin tener que viajar a buscarlo.'",
+   "evitar": "Ostentación que choque con la realidad económica."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología, gadgets que llegan antes afuera y reseñas detalladas.",
+   "mensaje": "'Lo nuevo, antes que nadie.'",
+   "evitar": "Especificaciones confusas."
+  },
+  "wellness": {
+   "como_llegarle": "Running, gimnasio, alimentación saludable y bienestar mental; muy activo en Instagram.",
+   "mensaje": "'Cuidarte también es un plan.'",
+   "evitar": "Promesas de resultados milagrosos."
+  },
+  "familia": {
+   "como_llegarle": "Fiestas, vacaciones de verano y vuelta al cole; compra planificada con cuotas.",
+   "mensaje": "'Las fiestas, resueltas en una sola compra.'",
+   "evitar": "Mensajes que presionen a gastar."
+  },
+  "viajero": {
+   "como_llegarle": "Escapadas a la Costa, Brasil y Chile; compara precios de todo y busca promociones de vuelos.",
+   "mensaje": "'Viajá liviano, comprá inteligente.'",
+   "evitar": "Precios en dólares sin aclarar el total en pesos."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, PC gamer y streaming; muy atento a los precios de hardware y a lanzamientos como GTA VI.",
+   "mensaje": "'Tu setup, en cuotas.'",
+   "evitar": "Hablar como si no supieras de gaming."
+  },
+  "diaspora": {
+   "como_llegarle": "Argentinos en España, EE. UU. e Italia extrañan yerba, alfajores, dulce de leche y regalos para la familia.",
+   "mensaje": "'Un pedacito de casa, donde estés.'",
+   "evitar": "Nostalgia triste o dramática."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Che",
+   "significado": "Forma de llamar la atención o dirigirse a alguien.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Che, ¿viste la promo de hoy?",
+   "equivalentes": {
+    "CO": "oiga / parce",
+    "MX": "oye / güey",
+    "EC": "oye / ñaño",
+    "ES": "oye / tío",
+    "CL": "oye"
+   }
+  },
+  {
+   "expresion": "Laburo",
+   "significado": "Trabajo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Después del laburo pasá a retirar tu pedido.",
+   "equivalentes": {
+    "CO": "camello",
+    "MX": "chamba",
+    "EC": "camello",
+    "ES": "curro",
+    "CL": "pega"
+   }
+  },
+  {
+   "expresion": "Guita",
+   "significado": "Dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ahorrá guita con envío gratis.",
+   "equivalentes": {
+    "CO": "plata / billete",
+    "MX": "lana",
+    "EC": "plata",
+    "ES": "pasta",
+    "CL": "plata / lucas"
+   }
+  },
+  {
+   "expresion": "No tener un mango",
+   "significado": "No tener dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Fin de mes y no tenés un mango? Pagalo en cuotas.",
+   "equivalentes": {
+    "CO": "no tener ni un peso",
+    "MX": "no traer ni un peso",
+    "EC": "estar chiro",
+    "ES": "estar tieso",
+    "CL": "estar pato"
+   }
+  },
+  {
+   "expresion": "Copado",
+   "significado": "Genial, buena onda.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Un regalo re copado para estas fiestas.",
+   "equivalentes": {
+    "CO": "bacano / chévere",
+    "MX": "chido / padre",
+    "EC": "chévere / bacán",
+    "ES": "guay",
+    "CL": "bacán"
+   }
+  },
+  {
+   "expresion": "Re",
+   "significado": "Muy; intensifica lo que sigue.",
+   "uso": "Todo el país, sobre todo jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Está re lindo y llega mañana.",
+   "equivalentes": {
+    "CO": "súper / muy",
+    "MX": "bien / súper",
+    "EC": "full",
+    "ES": "súper / muy",
+    "CL": "súper / muy"
+   }
+  },
+  {
+   "expresion": "Bondi",
+   "significado": "Colectivo, autobús urbano.",
+   "uso": "Buenos Aires y gran parte del país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Te lo llevamos para que no tengas que tomar el bondi.",
+   "equivalentes": {
+    "CO": "bus / buseta",
+    "MX": "camión",
+    "EC": "bus",
+    "ES": "autobús",
+    "CL": "micro"
+   }
+  },
+  {
+   "expresion": "Pibe / piba",
+   "significado": "Chico / chica, joven.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ideal para los pibes que vuelven a clases.",
+   "equivalentes": {
+    "CO": "pelado / pelada",
+    "MX": "chavo / chava",
+    "EC": "pelado / pelada",
+    "ES": "chaval / chavala",
+    "CL": "cabro / cabra"
+   }
+  },
+  {
+   "expresion": "Chabón",
+   "significado": "Tipo, hombre (coloquial).",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "El chabón compró tres y le llegaron al toque.",
+   "equivalentes": {
+    "CO": "man",
+    "MX": "vato / cuate",
+    "EC": "man",
+    "ES": "tío",
+    "CL": "loco"
+   }
+  },
+  {
+   "expresion": "Quilombo",
+   "significado": "Lío, desorden, problema.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Comprá sin quilombos: precio final y envío incluido.",
+   "equivalentes": {
+    "CO": "despelote / embrollo",
+    "MX": "relajo / desmadre (vulgar)",
+    "EC": "lío / bronca",
+    "ES": "follón / lío",
+    "CL": "despelote"
+   }
+  },
+  {
+   "expresion": "Fiaca",
+   "significado": "Pereza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Fiaca de salir con lluvia? Pedilo online.",
+   "equivalentes": {
+    "CO": "pereza",
+    "MX": "flojera",
+    "EC": "vagancia / pereza",
+    "ES": "pereza",
+    "CL": "lata / flojera"
+   }
+  },
+  {
+   "expresion": "Bancar",
+   "significado": "Apoyar a alguien; también aguantar o tolerar.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Bancamos a los emprendedores locales.",
+   "equivalentes": {
+    "CO": "apoyar / estar con alguien",
+    "MX": "hacer el paro",
+    "EC": "dar una mano",
+    "ES": "apoyar",
+    "CL": "apañar"
+   }
+  },
+  {
+   "expresion": "Posta",
+   "significado": "De verdad, en serio.",
+   "uso": "Todo el país, sobre todo jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Posta, es el precio final.",
+   "equivalentes": {
+    "CO": "¿en serio?",
+    "MX": "¿neta?",
+    "EC": "¿en serio?",
+    "ES": "de verdad",
+    "CL": "en serio"
+   }
+  },
+  {
+   "expresion": "Al toque",
+   "significado": "Enseguida, rápido.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Pedilo hoy y te llega al toque.",
+   "equivalentes": {
+    "CO": "ya mismo",
+    "MX": "ahorita / al instante",
+    "EC": "de una / enseguida",
+    "ES": "en nada / ahora mismo",
+    "CL": "al tiro"
+   }
+  },
+  {
+   "expresion": "Joya",
+   "significado": "Excelente, perfecto.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Llegó bien? ¡Joya!",
+   "equivalentes": {
+    "CO": "listo / perfecto",
+    "MX": "perfecto / chido",
+    "EC": "de ley / listo",
+    "ES": "perfecto / genial",
+    "CL": "filete"
+   }
+  },
+  {
+   "expresion": "Bárbaro",
+   "significado": "Muy bien, perfecto.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Bárbaro! Ya confirmamos tu pedido.",
+   "equivalentes": {
+    "CO": "excelente",
+    "MX": "excelente / padrísimo",
+    "EC": "excelente",
+    "ES": "estupendo",
+    "CL": "excelente"
+   }
+  },
+  {
+   "expresion": "Garpar",
+   "significado": "Pagar.",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Esto garpa: calidad y buen precio.",
+   "equivalentes": {
+    "CO": "pagar / cuadrar",
+    "MX": "pagar / soltar la lana",
+    "EC": "pagar",
+    "ES": "pagar / apoquinar",
+    "CL": "pagar"
+   }
+  },
+  {
+   "expresion": "Trucho",
+   "significado": "Falso, de imitación o de mala calidad.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nada trucho: productos originales con garantía.",
+   "equivalentes": {
+    "CO": "chimbo",
+    "MX": "pirata / chafa",
+    "EC": "chimbo / de imitación",
+    "ES": "falso / de imitación",
+    "CL": "pirata"
+   }
+  },
+  {
+   "expresion": "Cheto",
+   "significado": "De clase alta o con aires de distinción.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No hace falta ser cheto para darte un gusto.",
+   "equivalentes": {
+    "CO": "gomelo / play",
+    "MX": "fresa",
+    "EC": "aniñado / pelucón",
+    "ES": "pijo",
+    "CL": "cuico"
+   }
+  },
+  {
+   "expresion": "Chamuyo",
+   "significado": "Labia, discurso para convencer o adornar.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Sin chamuyo: precio, plazo y garantía.",
+   "equivalentes": {
+    "CO": "carreta",
+    "MX": "choro / rollo",
+    "EC": "labia",
+    "ES": "rollo / labia",
+    "CL": "chamullo"
+   }
+  },
+  {
+   "expresion": "Birra",
+   "significado": "Cerveza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "La birra del finde, bien fría.",
+   "equivalentes": {
+    "CO": "pola",
+    "MX": "chela",
+    "EC": "biela",
+    "ES": "caña / birra",
+    "CL": "chela"
+   }
+  },
+  {
+   "expresion": "Finde",
+   "significado": "Fin de semana.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Promos de finde: solo sábado y domingo.",
+   "equivalentes": {
+    "CO": "finde / fin de semana",
+    "MX": "finde",
+    "EC": "finde",
+    "ES": "finde",
+    "CL": "finde"
+   }
+  },
+  {
+   "expresion": "Groso / grosa",
+   "significado": "Persona o cosa admirable, crack.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Sos un groso por apoyar lo local.",
+   "equivalentes": {
+    "CO": "un duro",
+    "MX": "un crack",
+    "EC": "un duro",
+    "ES": "un crack / un máquina",
+    "CL": "un crack / un seco"
+   }
+  },
+  {
+   "expresion": "Zarpado",
+   "significado": "Increíble o excesivo (según el contexto).",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Un descuento zarpado, solo hoy.",
+   "equivalentes": {
+    "CO": "tenaz / brutal",
+    "MX": "cañón",
+    "EC": "bestial",
+    "ES": "brutal / flipante",
+    "CL": "la raja (vulgar suave)"
+   }
+  },
+  {
+   "expresion": "Mufa",
+   "significado": "Mala suerte o persona que la trae.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Que no te agarre la mufa: comprá con garantía.",
+   "equivalentes": {
+    "CO": "salado",
+    "MX": "salado",
+    "EC": "salado",
+    "ES": "gafe",
+    "CL": "mala pata"
+   }
+  },
+  {
+   "expresion": "Dale",
+   "significado": "De acuerdo, sí; también para animar.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Te lo enviamos hoy? ¡Dale!",
+   "equivalentes": {
+    "CO": "listo / dale",
+    "MX": "va / órale",
+    "EC": "ya / de una",
+    "ES": "vale",
+    "CL": "ya / dale"
+   }
+  },
+  {
+   "expresion": "Changa",
+   "significado": "Trabajo ocasional o informal.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Con las changas de diciembre te das un gusto.",
+   "equivalentes": {
+    "CO": "rebusque",
+    "MX": "chambita",
+    "EC": "cachuelo",
+    "ES": "chapuza",
+    "CL": "pololito"
+   }
+  },
+  {
+   "expresion": "Rata",
+   "significado": "Tacaño (dicho con humor).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No seas rata: este regalo está en cuotas.",
+   "equivalentes": {
+    "CO": "amarrado / tacaño",
+    "MX": "codo",
+    "EC": "codo",
+    "ES": "rata / agarrado",
+    "CL": "codo / apretado"
+   }
+  },
+  {
+   "expresion": "Estar al horno",
+   "significado": "Estar en problemas o en una situación difícil.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Al horno con los regalos? Te los llevamos a tiempo.",
+   "equivalentes": {
+    "CO": "estar en la olla",
+    "MX": "estar en aprietos",
+    "EC": "estar frito",
+    "ES": "estar apañado",
+    "CL": "estar frito"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Argentina",
+   "#BuenosAires",
+   "#Córdoba",
+   "#Rosario",
+   "#Mendoza",
+   "#EmprendedoresArgentinos",
+   "#HechoEnArgentina",
+   "#BlackFridayArgentina"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Comparativas de precio 'acá vs. afuera'",
+     "Unboxing con precio final en pesos y cuotas",
+     "Humor de situaciones cotidianas",
+     "'Lo que pedí vs. lo que llegó'"
+    ],
+    "ganchos": [
+     "'¿Posta sale esto?'",
+     "'No compres en el Black sin ver esto'",
+     "'Te muestro cuánto me salió todo'"
+    ],
+    "horario": "19:00–00:00 entre semana; tarde y noche los fines de semana",
+    "hashtags": [
+     "#TikTokArgentina",
+     "#ArgentinaTikTok",
+     "#Unboxing",
+     "#Emprendimiento"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels de producto con voseo",
+     "Carruseles de guías de compra",
+     "Historias con encuestas y cuenta regresiva",
+     "Colaboraciones con creadores locales"
+    ],
+    "ganchos": [
+     "'Guardá esto para el Black Friday'",
+     "'3 cosas que conviene comprar antes del verano'"
+    ],
+    "horario": "13:00–14:00 y 20:00–23:00",
+    "hashtags": [
+     "#EmprendedorasArgentinas",
+     "#TiendaOnline",
+     "#ModaArgentina",
+     "#DecoArgentina"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas de tecnología",
+     "Vlogs de viajes y compras",
+     "Tutoriales para emprendedores",
+     "Streaming y charlas largas"
+    ],
+    "ganchos": [
+     "'¿Conviene comprarlo afuera?'",
+     "'Lo usé un mes: la verdad'"
+    ],
+    "horario": "Noches entre semana y fines de semana por la tarde",
+    "hashtags": [
+     "#YouTubeArgentina",
+     "#TecnologíaArgentina"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación de vino, yerba y software",
+     "Datos de comercio exterior",
+     "Aprendizajes de founders"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos vendiendo afuera desde Argentina'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#ExportarArgentina",
+     "#Logística",
+     "#Pymes"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Grupos de compra-venta por barrio",
+     "Publicaciones de ofertas con precio claro",
+     "Videos cortos para público adulto"
+    ],
+    "ganchos": [
+     "'Envío a todo el país'",
+     "'Consultá sin compromiso'"
+    ],
+    "horario": "12:00–14:00 y 19:00–22:00",
+    "hashtags": [
+     "#Ofertas",
+     "#ComprasOnline"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Hilos útiles cortos",
+     "Humor de actualidad no político",
+     "Atención al cliente pública"
+    ],
+    "ganchos": [
+     "'Hilo: cómo comprar en el Black Friday sin caer en ofertas truchas'"
+    ],
+    "horario": "8:00–10:00 y 18:00–21:00",
+    "hashtags": [
+     "#BlackFriday",
+     "#Ofertas"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Yerba, alfajores y dulce de leche para la diáspora",
+   "senal": "Hay comunidades argentinas grandes en España, EE. UU. e Italia, y en las fiestas crece la búsqueda de productos de casa.",
+   "desde": "AR",
+   "hacia": "ES",
+   "sector": "alimentos",
+   "accion": "Explorar packs de regalo de fin de año con fechas límite claras y validar requisitos sanitarios de cada destino."
+  },
+  {
+   "titulo": "Vino argentino en el mercado estadounidense",
+   "senal": "El Malbec es uno de los vinos importados más reconocidos en EE. UU. y diciembre es temporada alta de regalos.",
+   "desde": "AR",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Contenido de origen y maridaje para tiendas especializadas; revisar normas de importación de bebidas alcohólicas por estado."
+  },
+  {
+   "titulo": "Tecnología de EE. UU. con precio comparado",
+   "senal": "Los argentinos comparan precios con el exterior todo el tiempo (las búsquedas sobre cuánto sale comprar afuera lo confirman).",
+   "desde": "US",
+   "hacia": "AR",
+   "sector": "tecnologia",
+   "accion": "Contenido educativo de precio final (producto + envío + impuestos) para que el comprador decida con información."
+  },
+  {
+   "titulo": "Servicios de software y creatividad para Latinoamérica y EE. UU.",
+   "senal": "Argentina es un exportador reconocido de servicios del conocimiento y talento digital.",
+   "desde": "AR",
+   "hacia": "US",
+   "sector": "tecnologia",
+   "accion": "Casos de éxito en LinkedIn y alianzas con agencias; es una señal para investigar según cada nicho."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 16405,
+   "anunciantes": [
+    {
+     "nombre": "Punto Oferta",
+     "url": "https://www.facebook.com/ads/library/?id=1714071653664014"
+    },
+    {
+     "nombre": "Descuentos Argentina",
+     "url": "https://www.facebook.com/ads/library/?id=4717456675163584"
+    },
+    {
+     "nombre": "Luis Aguilar",
+     "url": "https://www.facebook.com/ads/library/?id=1409585104271777"
+    }
+   ],
+   "patron": "A casi dos semanas del Black Friday ya circulan precios 'exclusivos', fórmulas de 'comprá 1 y llevá 2' y precio anterior tachado. Muchos anunciantes son páginas genéricas de ofertas, lo que refuerza la necesidad de mostrar respaldo y reseñas para destacar."
+  },
+  {
+   "busqueda": "envíos internacionales",
+   "total": 287,
+   "anunciantes": [
+    {
+     "nombre": "The Argentino",
+     "url": "https://www.facebook.com/ads/library/?id=2348438255890176"
+    },
+    {
+     "nombre": "MBE 0002 - Neuquén",
+     "url": "https://www.facebook.com/ads/library/?id=1484851316848731"
+    },
+    {
+     "nombre": "DHL Latinoamérica",
+     "url": "https://www.facebook.com/ads/library/?id=1559518479314157"
+    }
+   ],
+   "patron": "El mensaje dominante es 'llevá tus productos de Argentina al mundo': se habla al emprendedor que quiere exportar, con franquicias locales de envíos que destacan la atención personalizada ('cada envío tiene necesidades diferentes')."
+  }
+ ]
+}

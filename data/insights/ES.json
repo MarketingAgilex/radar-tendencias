@@ -1,0 +1,1003 @@
+{
+ "pais": "ES",
+ "actualizado": "2026-11-14T09:04:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "España entra en la recta final hacia el Black Friday (27 de noviembre) con un consumidor escéptico: las notas de hoy advierten que habrá más subidas que bajadas de precio y proliferan los 'chollos' anticipados en belleza, moda y tecnología. Se espera que la IA participe en una parte creciente de las compras y la logística ya se prepara con rutas y puntos de recogida extra. Madrid enciende la Navidad con un muñeco de nieve gigante y rutas de luces, y la preinstalación de GTA VI dispara la conversación gamer. Ganan las ofertas transparentes, la entrega puntual y el tono cercano con humor.",
+ "ideas_hoy": [
+  {
+   "titulo": "Tu chollo, con historial de precio",
+   "idea": "Hoy se publica que en el Black Friday habrá más subidas que bajadas. Enseña el precio de tu producto en las últimas semanas junto al precio de oferta: la transparencia es tu mejor argumento frente al escepticismo.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Chollos de belleza por menos de 10 €",
+   "idea": "Un corrector viral de TikTok y un gel hidratante a 9 € están entre lo más leído. Si vendes cosmética, haz un 'top 5 por menos de 10 €' con tus productos y la fecha de entrega.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Compra con ayuda de la IA",
+   "idea": "Se prevé que la IA intervenga en una parte importante de las compras de este Black Friday. Explica en un vídeo corto cómo encontrar tu tienda o comparar tus productos con un asistente de IA, y asegúrate de que tus fichas tengan precio, tallas y plazos claros.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Ruta de luces de Navidad",
+   "idea": "Madrid presenta su muñeco de nieve gigante y abre reservas para recorrer las luces en autobús. Cafeterías, tiendas y restaurantes del centro pueden proponer su 'parada' en la ruta con una oferta para quien llegue con la foto.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Pack gamer para Reyes",
+   "idea": "La preinstalación de GTA VI está en tendencia. Tiendas de tecnología pueden lanzar un pack consola + juego + accesorios pensado para Navidad y Reyes, con el plazo de entrega garantizado.",
+   "formato": "Copy para anuncio"
+  }
+ ],
+ "semaforo": [
+  {
+   "termino": "vivienda",
+   "color": "amarillo",
+   "por_que": "Tema de gran preocupación por el acceso y los precios; útil para hogar y decoración, pero sensible y cercano al debate público.",
+   "idea": "Ideas para aprovechar espacios pequeños o decorar un piso de alquiler sin obras; evita opinar sobre políticas."
+  },
+  {
+   "termino": "rockstar games gta vi",
+   "color": "verde",
+   "por_que": "El lanzamiento de videojuego más esperado, con intención de compra para Navidad.",
+   "idea": "Packs de regalo gamer y contenido 'prepara tu setup' con precio total."
+  },
+  {
+   "termino": "wall street",
+   "color": "amarillo",
+   "por_que": "Caídas por las turbulencias de Nvidia; tema financiero volátil.",
+   "idea": "Solo contenido de educación financiera prudente; nada de recomendaciones de inversión."
+  },
+  {
+   "termino": "météo",
+   "color": "verde",
+   "por_que": "Bajada de temperaturas y heladas: búsqueda de servicio útil para el fin de semana.",
+   "idea": "Abrigos, mantas, calefactores y planes de interior con mensajes de temporada."
+  },
+  {
+   "termino": "mika",
+   "color": "verde",
+   "por_que": "Momento comentado de 'La Voz' en televisión; entretenimiento ligero.",
+   "idea": "Contenido de humor sobre 'recibir críticas' para marcas de formación, música o atención al cliente."
+  }
+ ],
+ "ocultar": [
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
+  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
+  "Una investigación encuentra en TikTok miles de cuentas dedicadas al contenido pederasta",
+  "Moeve, Eroski, Santander y El Corte Inglés se suman para retirar su publicidad en TikTok por su contenido pedófilo",
+  "Conversaciones de paz entre Ucrania y Rusia: líderes de la UE debaten a quién enviar",
+  "alberto núñez feijóo",
+  "juan carlos i",
+  "jordi wild pedro sánchez",
+  "entrevista jordi wild pedro sanchez",
+  "begoña gómez fernández",
+  "lara ferreiro",
+  "pobreza",
+  "seguridad ferroviaria",
+  "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
+  "El cara a cara entre Sánchez y Feijóo será el 19 de noviembre y estará organizado por la Academia de la Televisión",
+  "UGT y CCOO celebran el \"éxito\" de la huelga y reclaman atención a sus demandas sobre vivienda y salarios",
+  "Sánchez estuvo en Córdoba el mismo día que Corvillo asegura haberse reunido con él allí",
+  "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+  "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+  "¿Malgastó Madrid el dinero público con el ático de 6,3 millones? El Tribunal de Cuentas ve indicios de que fue mala idea",
+  "Cortada la AP-7 en Mont-roig del Camp en sentido Barcelona por dos accidentes con tres camiones implicados"
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor español",
+   "resumen": "Compra mucho online (Amazon, El Corte Inglés, Zara, Shein, Vinted y Wallapop) y espera devoluciones fáciles y envío rápido. Es comparador y escéptico con las ofertas, sobre todo en Black Friday, y muy sensible al coste de la vida y la vivienda. Paga con tarjeta y con Bizum, y valora la atención cercana. El calendario lo marcan Black Friday, Navidad, Reyes (6 de enero) y las rebajas de enero y verano.",
+   "como_habla": "Tutea a las marcas y espera que le tuteen. Usa 'vale', 'guay', 'mola', 'tío/tía' y mucho humor e ironía. En redes celebra el ingenio y castiga lo que suena falso o exagerado.",
+   "dolores": [
+    "Ofertas infladas",
+    "Envíos y devoluciones de pago",
+    "Plazos que no se cumplen en Navidad",
+    "Atención automatizada"
+   ],
+   "motivaciones": [
+    "Ahorrar y encontrar chollos",
+    "Comodidad y devolución gratuita",
+    "Marcas de confianza",
+    "Comprar local y de segunda mano"
+   ],
+   "frenos": [
+    "Gastos ocultos",
+    "Tiendas sin reseñas",
+    "Políticas de devolución confusas"
+   ],
+   "tono": "Cercano, directo y con humor; transparente con los precios.",
+   "evitar": [
+    "Lenguaje grandilocuente",
+    "Opinar sobre política",
+    "Jerga latinoamericana sin adaptar"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "TikTok",
+    "YouTube",
+    "Facebook"
+   ],
+   "mensajes": [
+    "'Precio claro, devolución fácil.'",
+    "'Llega antes de Reyes, palabra.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce español",
+   "resumen": "Pequeñas marcas que venden por Instagram, Shopify, Etsy y marketplaces: moda, cosmética natural, decoración, alimentación gourmet y artesanía. Compiten con grandes plataformas en Black Friday y Navidad.",
+   "como_habla": "Práctico: 'envío gratis a partir de', 'devoluciones', 'punto de recogida', 'stock', 'campaña de Navidad'.",
+   "dolores": [
+    "Competir con gigantes en precio",
+    "Costes logísticos",
+    "Gestionar devoluciones"
+   ],
+   "motivaciones": [
+    "Vender más en Navidad y Reyes",
+    "Llegar a Europa y a Latinoamérica",
+    "Construir comunidad"
+   ],
+   "frenos": [
+    "Miedo a invertir en publicidad sin retorno",
+    "Burocracia"
+   ],
+   "tono": "Motivador, cercano y concreto.",
+   "evitar": [
+    "Promesas de éxito rápido"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "LinkedIn",
+    "WhatsApp Business",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Tu pequeña marca también puede brillar en Navidad.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Exportadores de aceite de oliva, vino, embutidos, conservas, moda y calzado; importadores de café, frutas tropicales y productos latinoamericanos. Muy atentos a normativa europea y costes.",
+   "como_habla": "Formal y técnico: 'DUA', 'incoterms', 'tránsito', 'puerta a puerta', 'trazabilidad'.",
+   "dolores": [
+    "Normativa y trámites",
+    "Costes de transporte",
+    "Plazos de entrega"
+   ],
+   "motivaciones": [
+    "Abrir mercados en Latinoamérica y EE. UU.",
+    "Previsibilidad",
+    "Socio logístico fiable"
+   ],
+   "frenos": [
+    "Cambiar de proveedor en temporada alta"
+   ],
+   "tono": "Profesional y sobrio.",
+   "evitar": [
+    "Simplificar trámites complejos",
+    "Tono demasiado informal"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo",
+    "Ferias del sector",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Tu producto español, en manos de tu cliente al otro lado del Atlántico.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande / corporativo",
+   "resumen": "Grandes empresas de retail, alimentación, banca y turismo con fuerte presencia en Latinoamérica. Buscan eficiencia, cumplimiento normativo y sostenibilidad.",
+   "como_habla": "Formal con datos: 'eficiencia', 'cumplimiento', 'ESG', 'nivel de servicio'.",
+   "dolores": [
+    "Costes logísticos",
+    "Cumplimiento normativo europeo"
+   ],
+   "motivaciones": [
+    "Eficiencia",
+    "Expansión en Latinoamérica",
+    "Sostenibilidad medible"
+   ],
+   "frenos": [
+    "Procesos de compra largos"
+   ],
+   "tono": "Profesional y basado en evidencia.",
+   "evitar": [
+    "Informalidad excesiva",
+    "Promesas sin datos"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo",
+    "Eventos"
+   ],
+   "mensajes": [
+    "'Logística transatlántica con métricas claras.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z española (18–28)",
+   "resumen": "Vive en TikTok, Instagram y Twitch; compra moda en Shein, Zara y Vinted, cosmética viral y tecnología. Valora la autenticidad, el humor y la segunda mano.",
+   "como_habla": "Mezcla anglicismos y jerga: 'cringe', 'en plan', 'literal', 'mazo', 'me renta', 'es un mood'.",
+   "dolores": [
+    "Presupuesto ajustado",
+    "Publicidad que suena falsa"
+   ],
+   "motivaciones": [
+    "Tendencias y pertenencia",
+    "Precio y chollos",
+    "Creadores de confianza"
+   ],
+   "frenos": [
+    "Envíos caros",
+    "Procesos largos"
+   ],
+   "tono": "Divertido, directo y auténtico.",
+   "evitar": [
+    "Forzar jerga",
+    "Llegar tarde a los memes"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "Twitch",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Lo viste en TikTok, lo tienes mañana.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials españoles (29–44)",
+   "resumen": "Compradores online habituales, con poco tiempo y muy atentos al coste de la vida y la vivienda. Planifican la Navidad con el Black Friday y valoran la comodidad.",
+   "como_habla": "Cercano y práctico: 'me renta', 'merece la pena', 'envío gratis', 'devolución'.",
+   "dolores": [
+    "Falta de tiempo",
+    "Coste de la vida",
+    "Comparar demasiadas opciones"
+   ],
+   "motivaciones": [
+    "Comodidad",
+    "Ahorro inteligente",
+    "Experiencias y viajes"
+   ],
+   "frenos": [
+    "Letra pequeña",
+    "Posventa lenta"
+   ],
+   "tono": "Cercano, claro y útil.",
+   "evitar": [
+    "Mensajes condescendientes"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "YouTube",
+    "TikTok"
+   ],
+   "mensajes": [
+    "'Compáralo y elige con calma.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X española (45–60)",
+   "resumen": "Pragmática; compra online pero valora la atención humana, la garantía y las marcas conocidas. Decide las grandes compras del hogar.",
+   "como_habla": "Educado y claro; agradece la información completa.",
+   "dolores": [
+    "Estafas online",
+    "Atención automatizada"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Calidad",
+    "Atención por teléfono o WhatsApp"
+   ],
+   "frenos": [
+    "Procesos complicados"
+   ],
+   "tono": "Serio, amable y claro.",
+   "evitar": [
+    "Jerga juvenil",
+    "Ambigüedad"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "YouTube",
+    "Instagram"
+   ],
+   "mensajes": [
+    "'Garantía y atención de verdad.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers españoles (60+)",
+   "resumen": "Usan WhatsApp y Facebook a diario y compran online con más confianza que antes; valoran el trato respetuoso y la tienda de barrio.",
+   "como_habla": "Respetuoso; algunos prefieren el usted.",
+   "dolores": [
+    "Miedo a fraudes",
+    "Dificultad con aplicaciones"
+   ],
+   "motivaciones": [
+    "Cercanía con la familia",
+    "Atención paciente"
+   ],
+   "frenos": [
+    "Pagos digitales complejos"
+   ],
+   "tono": "Respetuoso, paciente y claro.",
+   "evitar": [
+    "Prisa",
+    "Tecnicismos"
+   ],
+   "canales": [
+    "WhatsApp",
+    "Facebook",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Te acompañamos en cada paso.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Segunda mano (Vinted, Wallapop), producto de proximidad, reparación y consumo responsable, muy valorados en España.",
+   "mensaje": "'Compra mejor, no más.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Chollos, cupones y comparativas; muy activo en Black Friday, Cyber Monday y rebajas de enero.",
+   "mensaje": "'Un chollo de verdad: este es el precio de antes y el de hoy.'",
+   "evitar": "Descuentos sobre precios inflados."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas premium, diseño y experiencias gastronómicas o de viaje; valora la elegancia discreta.",
+   "mensaje": "'Un capricho que merece la pena.'",
+   "evitar": "Ostentación."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología, IA aplicada a la compra y videojuegos como GTA VI.",
+   "mensaje": "'Lo nuevo, el primer día.'",
+   "evitar": "Especificaciones confusas."
+  },
+  "wellness": {
+   "como_llegarle": "Deporte, dieta mediterránea, cosmética natural y descanso.",
+   "mensaje": "'Cuidarte también cuenta.'",
+   "evitar": "Promesas milagrosas."
+  },
+  "familia": {
+   "como_llegarle": "Navidad y Reyes son la gran cita: juguetes, planes en familia y compras planificadas.",
+   "mensaje": "'Que los Reyes lleguen a tiempo.'",
+   "evitar": "Presionar a gastar."
+  },
+  "viajero": {
+   "como_llegarle": "Puente de diciembre, escapadas rurales y viajes a Latinoamérica para visitar a la familia en Navidad.",
+   "mensaje": "'Viaja ligero, lo demás te lo llevamos.'",
+   "evitar": "Precios sin tasas incluidas."
+  },
+  "gamer": {
+   "como_llegarle": "Twitch, consolas, PC y lanzamientos; comunidad muy activa en España.",
+   "mensaje": "'Tu setup, listo para Reyes.'",
+   "evitar": "Hablar sin conocer la cultura gamer."
+  },
+  "diaspora": {
+   "como_llegarle": "La comunidad latinoamericana en España (colombianos, ecuatorianos, venezolanos, peruanos, argentinos) envía regalos a casa en Navidad y busca sabores de su país.",
+   "mensaje": "'Tu regalo llega a casa por Navidad.'",
+   "evitar": "Estereotipos o nostalgia dramática."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Guay",
+   "significado": "Genial, estupendo.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué guay te queda!",
+   "equivalentes": {
+    "CO": "bacano / chévere",
+    "MX": "chido / padre",
+    "EC": "chévere / bacán",
+    "AR": "copado / genial",
+    "CL": "bacán"
+   }
+  },
+  {
+   "expresion": "Mola / molar",
+   "significado": "Gustar mucho; ser genial.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Este regalo mola mucho.",
+   "equivalentes": {
+    "CO": "me encanta",
+    "MX": "me late",
+    "EC": "me gusta full",
+    "AR": "me copa",
+    "CL": "me tinca"
+   }
+  },
+  {
+   "expresion": "Tío / tía",
+   "significado": "Forma de dirigirse a un amigo o a una persona.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Tía, mira este chollo.",
+   "equivalentes": {
+    "CO": "parce / man",
+    "MX": "güey / carnal",
+    "EC": "pana / ñaño",
+    "AR": "che / boludo",
+    "CL": "compadre"
+   }
+  },
+  {
+   "expresion": "Curro / currar",
+   "significado": "Trabajo / trabajar.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Pídelo desde el curro y recógelo al salir.",
+   "equivalentes": {
+    "CO": "camello",
+    "MX": "chamba",
+    "EC": "camello",
+    "AR": "laburo",
+    "CL": "pega"
+   }
+  },
+  {
+   "expresion": "Pasta",
+   "significado": "Dinero.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ahorra pasta con envío gratis.",
+   "equivalentes": {
+    "CO": "plata",
+    "MX": "lana",
+    "EC": "plata",
+    "AR": "guita",
+    "CL": "plata / lucas"
+   }
+  },
+  {
+   "expresion": "Flipar",
+   "significado": "Sorprenderse mucho; alucinar.",
+   "uso": "Toda España, sobre todo jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Vas a flipar con este precio.",
+   "equivalentes": {
+    "CO": "quedar loco",
+    "MX": "alucinar",
+    "EC": "quedarse loco",
+    "AR": "flashear",
+    "CL": "quedar loco"
+   }
+  },
+  {
+   "expresion": "Chulo",
+   "significado": "Bonito, atractivo (de cosas).",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué bolso más chulo!",
+   "equivalentes": {
+    "CO": "qué lindo / qué bacano",
+    "MX": "qué padre",
+    "EC": "qué lindo",
+    "AR": "qué lindo / qué copado",
+    "CL": "qué lindo"
+   }
+  },
+  {
+   "expresion": "Vale",
+   "significado": "De acuerdo.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Te lo enviamos mañana? ¡Vale!",
+   "equivalentes": {
+    "CO": "listo",
+    "MX": "va / órale",
+    "EC": "ya / de una",
+    "AR": "dale",
+    "CL": "ya / dale"
+   }
+  },
+  {
+   "expresion": "Quedada",
+   "significado": "Encuentro informal entre amigos o con una comunidad.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Quedada de clientes este sábado en la tienda.",
+   "equivalentes": {
+    "CO": "parche",
+    "MX": "junte / reunión",
+    "EC": "reunión",
+    "AR": "juntada",
+    "CL": "junta"
+   }
+  },
+  {
+   "expresion": "Finde",
+   "significado": "Fin de semana.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Ofertas solo este finde.",
+   "equivalentes": {
+    "CO": "finde",
+    "MX": "finde",
+    "EC": "finde",
+    "AR": "finde",
+    "CL": "finde"
+   }
+  },
+  {
+   "expresion": "Mazo",
+   "significado": "Mucho, muy (uso juvenil, sobre todo en Madrid).",
+   "uso": "Centro peninsular, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Me gusta mazo este color.",
+   "equivalentes": {
+    "CO": "full / un montón",
+    "MX": "un montón",
+    "EC": "full",
+    "AR": "re / un montón",
+    "CL": "caleta"
+   }
+  },
+  {
+   "expresion": "Currárselo",
+   "significado": "Esforzarse mucho en algo.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Te lo has currado con el regalo.",
+   "equivalentes": {
+    "CO": "se le midió / le metió la ficha",
+    "MX": "le echaste ganas",
+    "EC": "le metiste pilas",
+    "AR": "la rompiste",
+    "CL": "te pasaste"
+   }
+  },
+  {
+   "expresion": "Chaval / chavala",
+   "significado": "Chico / chica, joven.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ideal para los chavales que empiezan el insti.",
+   "equivalentes": {
+    "CO": "pelado / pelada",
+    "MX": "chavo / chava",
+    "EC": "pelado / pelada",
+    "AR": "pibe / piba",
+    "CL": "cabro / cabra"
+   }
+  },
+  {
+   "expresion": "Pijo / pija",
+   "significado": "De clase alta o con aire presumido.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No hace falta ser pijo para darte un capricho.",
+   "equivalentes": {
+    "CO": "gomelo",
+    "MX": "fresa",
+    "EC": "aniñado",
+    "AR": "cheto",
+    "CL": "cuico"
+   }
+  },
+  {
+   "expresion": "Ir de tapas",
+   "significado": "Salir a comer y beber en bares, picando raciones pequeñas.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Plan de finde: ir de tapas por el centro.",
+   "equivalentes": {
+    "CO": "salir a picar",
+    "MX": "botanear",
+    "EC": "piquear",
+    "AR": "picar algo",
+    "CL": "picotear"
+   }
+  },
+  {
+   "expresion": "Caña",
+   "significado": "Cerveza de barril en vaso pequeño.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Una caña después del curro?",
+   "equivalentes": {
+    "CO": "pola",
+    "MX": "chela",
+    "EC": "biela",
+    "AR": "birra",
+    "CL": "schop"
+   }
+  },
+  {
+   "expresion": "Estar tieso",
+   "significado": "No tener dinero.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Tieso a final de mes? Págalo en tres plazos.",
+   "equivalentes": {
+    "CO": "estar pelado",
+    "MX": "andar bruja",
+    "EC": "estar chiro",
+    "AR": "no tener un mango",
+    "CL": "estar pato"
+   }
+  },
+  {
+   "expresion": "Chollo",
+   "significado": "Ganga, oferta muy buena.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "El chollo del día: 30% en abrigos.",
+   "equivalentes": {
+    "CO": "ganga / papayazo",
+    "MX": "ganga",
+    "EC": "ganga",
+    "AR": "ganga / regalado",
+    "CL": "ganga"
+   }
+  },
+  {
+   "expresion": "Rebajas",
+   "significado": "Temporada oficial de descuentos (enero y verano).",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Adelántate a las rebajas.",
+   "equivalentes": {
+    "CO": "temporada de descuentos",
+    "MX": "ofertas / rebajas",
+    "EC": "ofertas",
+    "AR": "liquidación",
+    "CL": "liquidación"
+   }
+  },
+  {
+   "expresion": "Cutre",
+   "significado": "De mala calidad, chapucero o descuidado.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nada cutre: materiales de calidad.",
+   "equivalentes": {
+    "CO": "chimbo",
+    "MX": "chafa",
+    "EC": "chimbo",
+    "AR": "berreta",
+    "CL": "rasca"
+   }
+  },
+  {
+   "expresion": "Petarlo",
+   "significado": "Triunfar, ser un éxito.",
+   "uso": "Toda España, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Este bolso lo está petando en TikTok.",
+   "equivalentes": {
+    "CO": "la está rompiendo",
+    "MX": "está pegando",
+    "EC": "la está rompiendo",
+    "AR": "la está rompiendo",
+    "CL": "la está rompiendo"
+   }
+  },
+  {
+   "expresion": "Postureo",
+   "significado": "Aparentar, sobre todo en redes sociales.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Menos postureo y más comodidad.",
+   "equivalentes": {
+    "CO": "pantallería",
+    "MX": "presumir",
+    "EC": "pantallear",
+    "AR": "careteo",
+    "CL": "aparentar"
+   }
+  },
+  {
+   "expresion": "Majo / maja",
+   "significado": "Simpático, agradable.",
+   "uso": "Toda España.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "El equipo es majísimo, pregunta lo que quieras.",
+   "equivalentes": {
+    "CO": "querido / querida",
+    "MX": "buena onda",
+    "EC": "buena gente",
+    "AR": "buena onda",
+    "CL": "buena onda"
+   }
+  },
+  {
+   "expresion": "Ir a tope",
+   "significado": "Al máximo, con toda la energía.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Black Friday a tope: todo el fin de semana.",
+   "equivalentes": {
+    "CO": "a full / a mil",
+    "MX": "a todo",
+    "EC": "a full",
+    "AR": "a full / a pleno",
+    "CL": "a full"
+   }
+  },
+  {
+   "expresion": "Movida",
+   "significado": "Asunto, situación o lío.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Sin movidas: devolución gratis en 30 días.",
+   "equivalentes": {
+    "CO": "vuelta / rollo",
+    "MX": "onda / bronca",
+    "EC": "vaina",
+    "AR": "movida / quilombo",
+    "CL": "cuestión / onda"
+   }
+  },
+  {
+   "expresion": "Bocata",
+   "significado": "Bocadillo, sándwich de pan de barra.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Bocata y peli: plan perfecto para el finde.",
+   "equivalentes": {
+    "CO": "sánduche",
+    "MX": "torta",
+    "EC": "sánduche",
+    "AR": "sánguche",
+    "CL": "sándwich"
+   }
+  },
+  {
+   "expresion": "Hortera",
+   "significado": "De mal gusto, recargado.",
+   "uso": "Toda España.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Un jersey navideño nada hortera.",
+   "equivalentes": {
+    "CO": "lobo",
+    "MX": "corriente",
+    "EC": "de mal gusto",
+    "AR": "grasa",
+    "CL": "de mal gusto"
+   }
+  },
+  {
+   "expresion": "En plan",
+   "significado": "Muletilla juvenil: 'como', 'o sea', 'tipo'.",
+   "uso": "Toda España, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Es en plan cómodo pero elegante.",
+   "equivalentes": {
+    "CO": "o sea / como que",
+    "MX": "tipo / o sea",
+    "EC": "o sea",
+    "AR": "tipo",
+    "CL": "como que"
+   }
+  },
+  {
+   "expresion": "Me renta",
+   "significado": "Me compensa, me conviene (uso juvenil).",
+   "uso": "Toda España, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Con envío gratis, me renta pedirlo.",
+   "equivalentes": {
+    "CO": "me sale / me conviene",
+    "MX": "me conviene",
+    "EC": "me conviene",
+    "AR": "me conviene / me rinde",
+    "CL": "me conviene"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#España",
+   "#Madrid",
+   "#Barcelona",
+   "#Valencia",
+   "#Sevilla",
+   "#EmprendedoresEspaña",
+   "#HechoEnEspaña",
+   "#BlackFridayEspaña"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "'Chollos de la semana' con precio antes y después",
+     "Unboxing honesto con plazo de entrega",
+     "Humor de situaciones cotidianas",
+     "'Lo que pedí vs. lo que llegó'"
+    ],
+    "ganchos": [
+     "'Vas a flipar con este precio'",
+     "'No compres en el Black Friday sin ver esto'",
+     "'Esto lo está petando y te digo por qué'"
+    ],
+    "horario": "19:00–23:00 entre semana; mediodía y noche los fines de semana",
+    "hashtags": [
+     "#TikTokEspaña",
+     "#Chollos",
+     "#Unboxing",
+     "#BlackFriday"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels de producto",
+     "Carruseles de guías de regalo",
+     "Historias con cuenta atrás y encuestas",
+     "Colaboraciones con creadores locales"
+    ],
+    "ganchos": [
+     "'Guárdalo para Reyes'",
+     "'3 señales de una oferta falsa'"
+    ],
+    "horario": "14:00–15:30 y 21:00–23:00",
+    "hashtags": [
+     "#ComercioLocal",
+     "#ModaEspañola",
+     "#DecoraciónEspaña",
+     "#RegalosNavidad"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas de tecnología",
+     "Vlogs de viaje",
+     "Tutoriales para emprendedores",
+     "Directos de gaming"
+    ],
+    "ganchos": [
+     "'¿Merece la pena en Black Friday?'",
+     "'Lo he probado un mes'"
+    ],
+    "horario": "Noches entre semana y fines de semana",
+    "hashtags": [
+     "#YouTubeEspaña",
+     "#TecnologíaEspaña"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación a Latinoamérica",
+     "Datos de comercio exterior",
+     "Opinión de directivos"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos vendiendo en Latinoamérica'"
+    ],
+    "horario": "Martes a jueves, 8:30–10:30",
+    "hashtags": [
+     "#ComercioExterior",
+     "#Exportación",
+     "#Logística",
+     "#Pymes"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Grupos locales y de barrio",
+     "Ofertas con precio claro",
+     "Vídeos para público adulto"
+    ],
+    "ganchos": [
+     "'Envío gratis a toda la península'",
+     "'Pregúntanos sin compromiso'"
+    ],
+    "horario": "13:00–15:00 y 20:00–22:00",
+    "hashtags": [
+     "#Ofertas",
+     "#ComprasOnline"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Hilos útiles",
+     "Humor de actualidad no político",
+     "Atención al cliente"
+    ],
+    "ganchos": [
+     "'Hilo: cómo detectar un falso chollo en Black Friday'"
+    ],
+    "horario": "8:00–10:00 y 19:00–22:00",
+    "hashtags": [
+     "#BlackFriday",
+     "#Chollos"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Regalos de Navidad hacia Latinoamérica",
+   "senal": "España tiene grandes comunidades colombianas, ecuatorianas, peruanas y argentinas, y en diciembre crece el envío de regalos a la familia.",
+   "desde": "ES",
+   "hacia": "CO",
+   "sector": "logistica",
+   "accion": "Contenido de fechas límite y precio final del envío; es una señal a validar con cada cliente."
+  },
+  {
+   "titulo": "Café de especialidad latinoamericano",
+   "senal": "El consumo de café de especialidad crece en las ciudades españolas y el origen colombiano o ecuatoriano tiene buena reputación.",
+   "desde": "CO",
+   "hacia": "ES",
+   "sector": "cafe-cacao",
+   "accion": "Explorar alianzas con cafeterías de especialidad y contenido de origen; revisar normativa de importación de la UE."
+  },
+  {
+   "titulo": "Aceite de oliva y gourmet español para EE. UU. y Latinoamérica",
+   "senal": "España es el mayor productor mundial de aceite de oliva y el gourmet español es un regalo valorado en fin de año.",
+   "desde": "ES",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Packs de regalo corporativo con trazabilidad y plazos claros."
+  },
+  {
+   "titulo": "Sabores de casa para la comunidad latina en España",
+   "senal": "Las comunidades latinoamericanas buscan snacks, dulces y productos típicos, sobre todo en Navidad.",
+   "desde": "EC",
+   "hacia": "ES",
+   "sector": "alimentos",
+   "accion": "Validar requisitos sanitarios europeos y probar con pedidos pequeños en tiendas latinas."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "envíos internacionales",
+   "total": 338,
+   "anunciantes": [
+    {
+     "nombre": "ParaTigift",
+     "url": "https://www.facebook.com/ads/library/?id=1416330454899280"
+    },
+    {
+     "nombre": "Aoleao Adventure",
+     "url": "https://www.facebook.com/ads/library/?id=1863176741532675"
+    }
+   ],
+   "patron": "En España la búsqueda la dominan tiendas de regalos personalizados que ofrecen envío internacional con mensajes de Navidad muy emocionales ('Solo hay una primera Navidad', 'Esta Navidad ya sois uno más'). El regalo personalizado y con historia es el gancho de temporada."
+  }
+ ]
+}

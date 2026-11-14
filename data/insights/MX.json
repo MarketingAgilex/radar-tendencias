@@ -1,26 +1,38 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "México está en pleno Buen Fin y con fin de semana largo por el Día de la Revolución: es el momento más fuerte de compras antes de Navidad. Pero el consumidor llega con cautela: los medios hablan de presupuesto ajustado, de evitar deudas y de comparar precios, y una encuesta citada en prensa dice que la mayoría cree que algunas tiendas inflan precios antes del evento. Gana quien muestra precio real, envío claro y compra segura; el entretenimiento (el final de 'El Señor de los Cielos', 'La ley de Alicia', el Tropi Tour de Karol G) da ganchos para contenido ligero.",
+ "lectura": "México vive El Buen Fin 2026, con más de 200 mil negocios participando, y el consumidor llega cauteloso: una encuesta citada hoy dice que 84.5% cree que las tiendas inflan precios antes de la temporada, y abundan las guías para detectar ofertas falsas y quejarse ante Profeco. Al mismo tiempo, la conversación de entretenimiento está en Karol G en los Latin Grammy, los realities de TV Azteca y la serie 'La ley de Alicia' en Netflix. Gana quien muestre precio anterior y precio actual sin trucos, meses sin intereses claros y entregas puntuales.",
  "semaforo": [
   {
-   "termino": "guardería",
-   "color": "amarillo",
-   "por_que": "La búsqueda se asocia a una disputa laboral en guarderías públicas; tema sensible para las familias.",
-   "idea": "Si vendes para bebés y niños, habla de organización y cuidado en casa sin opinar del caso."
-  },
-  {
-   "termino": "rafael amaya",
-   "color": "amarillo",
-   "por_que": "Llega el final de una serie muy popular, pero su temática es delicada para marcas.",
-   "idea": "Úsalo solo como gancho de 'maratón de series' o de nostalgia televisiva, sin referencias a la trama."
-  },
-  {
-   "termino": "la ley de alicia reparto",
+   "termino": "votaciones la granja vip votar",
    "color": "verde",
-   "por_que": "Serie mexicana en streaming con conversación positiva sobre su reparto.",
-   "idea": "Contenido de 'quién es quién' adaptado a tu marca o promos para ver la serie en familia durante el puente."
+   "por_que": "Reality con mucha conversación y votaciones en vivo; entretenimiento ligero.",
+   "idea": "Encuestas en historias tipo '¿a quién salvas?' con tu producto como premio o comodín."
+  },
+  {
+   "termino": "karol g",
+   "color": "verde",
+   "por_que": "Latin Grammy y alfombra roja: conversación de moda y música muy positiva.",
+   "idea": "Looks inspirados y playlists para promociones de moda, belleza y eventos."
+  },
+  {
+   "termino": "clima obregon",
+   "color": "verde",
+   "por_que": "Búsqueda de servicio: fin de semana templado y despejado en Sonora.",
+   "idea": "Planes al aire libre, ropa de temporada y promociones de fin de semana para negocios locales."
+  },
+  {
+   "termino": "comercio",
+   "color": "amarillo",
+   "por_que": "Viene de la agenda agroalimentaria México–China; tema institucional, útil para pymes exportadoras pero no para consumo masivo.",
+   "idea": "Para LinkedIn: qué productos agroalimentarios mexicanos tienen demanda en Asia y qué preguntar antes de exportar."
+  },
+  {
+   "termino": "severance",
+   "color": "verde",
+   "por_que": "Serie de culto con conversación en redes por anécdotas del rodaje.",
+   "idea": "Memes de 'separar trabajo y vida' para marcas de productividad, oficina o bienestar."
   }
  ],
  "audiencias": {
@@ -859,46 +871,108 @@
    "accion": "Comparativas de precio con streamers mexicanos."
   }
  ],
- "anuncios": [],
+ "anuncios": [
+  {
+   "busqueda": "Buen Fin",
+   "total": 190203,
+   "anunciantes": [
+    {
+     "nombre": "OYSHO",
+     "url": "https://www.facebook.com/ads/library/?id=4751018035117401"
+    },
+    {
+     "nombre": "ALL Accor",
+     "url": "https://www.facebook.com/ads/library/?id=2152865178931290"
+    },
+    {
+     "nombre": "La Colada MX",
+     "url": "https://www.facebook.com/ads/library/?id=892144967255767"
+    },
+    {
+     "nombre": "Acacia Muebles",
+     "url": "https://www.facebook.com/ads/library/?id=1184746590649387"
+    },
+    {
+     "nombre": "Yamel Depilación con Hilo",
+     "url": "https://www.facebook.com/ads/library/?id=1149532537524609"
+    }
+   ],
+   "patron": "El Buen Fin lo pautan desde marcas globales hasta negocios de barrio. Se repiten tres fórmulas: el 2x1 o 'una noche gratis' en hoteles, el descuento en monto fijo grande ('hasta $50,000') en bienes durables y el 50% en servicios de belleza. Los muebles y los viajes compiten fuerte por el gasto de fin de año."
+  },
+  {
+   "busqueda": "envíos a Estados Unidos",
+   "total": 1597,
+   "anunciantes": [
+    {
+     "nombre": "NOPAL PACK Envíos a todo Estados Unidos",
+     "url": "https://www.facebook.com/ads/library/?id=1829762548053563"
+    },
+    {
+     "nombre": "MR POBOX Xpress",
+     "url": "https://www.facebook.com/ads/library/?id=1012378117836876"
+    },
+    {
+     "nombre": "Guibershop",
+     "url": "https://www.facebook.com/ads/library/?id=2017877478887373"
+    },
+    {
+     "nombre": "Ventifemme Mayoreo",
+     "url": "https://www.facebook.com/ads/library/?id=29207840692190189"
+    },
+    {
+     "nombre": "Vitaminas y Suplementos Americanos Mty",
+     "url": "https://www.facebook.com/ads/library/?id=1815255259782739"
+    }
+   ],
+   "patron": "Conviven couriers y casilleros que invitan a 'escribir por chat' con tiendas de ropa americana, suplementos y regalos que venden lo 'traído de EE. UU.'. El tono es directo y el llamado a la acción casi siempre es WhatsApp o Messenger, con 'cotiza tus regalos' como gancho de temporada."
+  }
+ ],
  "ocultar": [
   "pobreza en méxico",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
   "Trasladan de urgencia a Félix Gallardo a hospital de Guadalajara por problemas de salud",
-  "Abaten a seis presuntos integrantes del CJNG en Guanajuato",
   "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
   "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
   "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
-  "Capitán Marcos anuncia fechas, sedes y contactos en CDMX y estados para encuentro del EZLN con madres buscadoras",
   "Trasladan de urgencia al capo Miguel Ángel Félix Gallardo a un hospital de Guadalajara, Jalisco",
   "Trasladan de urgencia a “El Jefe de Jefes” a hospital de Guadalajara",
-  "Trasladan de emergencia a Miguel Ángel Félix Gallardo a hospital de Guadalajara",
-  "Se manifiestan frente a FGE por presunto fraude con paquetes de construcción; 30 personas reportan pérdidas"
+  "vadhir derbez",
+  "karely ruiz",
+  "guardería",
+  "Caso Vadhir Derbez: autoridades tienen ADN del presunto agresor de la joven que denunció al actor, reportan",
+  "Publican 'Ley antimemes' en Diario Oficial de la Federación",
+  "Ryan Wedding, ‘El Chapo’ canadiense, deja ‘lanota’ a México: Recauda 70.9 mdp con subasta de motos",
+  "UIF descongela cuentas de Rubén Rocha por orden del tribunal",
+  "Denuncian a Repartidores por Daños en la Benito Juárez, CDMX",
+  "Defiende METRÓPOLIS consulta ciudadana del Plan General de Desarrollo de CDMX",
+  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
+  "Trasladan a Félix Gallardo de Puente Grande a un hospital de Guadalajara",
+  "🚨 Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 Redes Sociales"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Precio real, sin trucos",
-   "idea": "Muchos compradores sospechan que algunos precios se inflan antes del Buen Fin. Muestra el historial de precio de tu producto o un 'antes y ahora' honesto. La transparencia es tu mejor oferta este fin de semana.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Meses sin intereses con cabeza",
-   "idea": "Los especialistas recomiendan planear y no endeudarse. Haz un carrusel 'Cuánto pagas al mes y por cuánto tiempo' para tus productos más caros. Ayuda a decidir y reduce devoluciones.",
+   "titulo": "Tu precio, con historial",
+   "idea": "84.5% de los mexicanos sospecha que los precios se inflan antes del Buen Fin. Muestra el precio de tu producto de las últimas semanas y el de hoy en una captura sencilla: es el argumento más fuerte contra la desconfianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Compra local en el Buen Fin",
-   "idea": "Este año se impulsa el consumo local y las mipymes. Si eres changarro o marca mexicana, usa el gancho 'hecho en México, chido y con envío'. Compártelo en grupos de tu ciudad.",
+   "titulo": "Checklist anti-ofertas falsas",
+   "idea": "Las notas de hoy explican cómo identificar tiendas 'fantasma'. Haz un TikTok con 5 señales de una tienda confiable (datos de contacto, reseñas, políticas de cambio) y muestra cómo tu negocio cumple cada una.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Evita la tienda fantasma",
-   "idea": "Las notas sobre ofertas falsas están en todas partes. Publica cómo verificar tu tienda: datos fiscales, redes activas, reseñas y atención por WhatsApp. Úsalo como anuncio de confianza.",
+   "titulo": "Meses sin intereses, explicado fácil",
+   "idea": "Los especialistas recomiendan planear y evitar deudas en el Buen Fin. Un video corto que compare pagar de contado contra a meses posiciona a tu marca como aliada del bolsillo, no solo como vendedora.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Pinta de alfombra roja",
+   "idea": "Karol G y los looks de los Latin Grammy están en tendencia. Tiendas de moda y belleza pueden recrear tres looks inspirados con productos propios y precios del Buen Fin.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Regalos que cruzan la frontera",
+   "idea": "En la Biblioteca de Anuncios hay más de 1,500 anuncios activos sobre envíos a Estados Unidos, muchos de ropa y regalos. Si vendes a familias con parientes allá, publica hoy la fecha límite para que el regalo llegue en Navidad.",
    "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Fin de serie, inicio de maratón",
-   "idea": "El final de 'El Señor de los Cielos' y 'La ley de Alicia' en Netflix tienen a la gente hablando de series. Propón el 'kit de maratón' (botanas, cobijas, pantallas en oferta) para el fin de semana largo.",
-   "formato": "TikTok"
   }
  ]
 }

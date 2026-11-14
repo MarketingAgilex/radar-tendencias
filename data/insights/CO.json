@@ -1,26 +1,32 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-14T05:30:00Z",
+ "actualizado": "2026-11-14T09:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia arranca el puente festivo con la cabeza en las compras de fin de año: los medios ya hablan de Black Friday (27 de noviembre) y de adelantar las compras de Navidad, y las grandes superficies se preparan para la temporada. El entretenimiento suma: Maluma anunció que empezará su gira mundial con cuatro conciertos en Bogotá en febrero de 2027, y en Medellín ya se anuncia el festival 'Que viva el buñuelo' de cara a diciembre. Funciona el contenido práctico (cómo planear compras, regalos, fechas límite) con tono cercano y orgullo local.",
+ "lectura": "Colombia está en puente festivo y la conversación de consumo ya gira alrededor del Black Friday (27 de noviembre) y de adelantar las compras de Navidad: los medios recomiendan planear la lista y comparar antes de comprar. El anuncio de la gira de Maluma, que arranca en Bogotá con cuatro fechas en febrero de 2027, abre un regalo de Navidad con fecha. La suspensión temporal de vuelos en EE. UU. por una falla de comunicaciones afectó salidas desde El Dorado, Medellín y Cartagena y recordó lo sensible que es el tiempo de entrega en temporada alta. Es momento de mensajes de planeación, fechas límite claras y regalos con experiencia.",
  "semaforo": [
+  {
+   "termino": "maluma",
+   "color": "verde",
+   "por_que": "Noticia positiva y de orgullo: su gira mundial arranca en Bogotá con cuatro conciertos.",
+   "idea": "Regalos de Navidad ligados al concierto: boletas, pinta para el show, maquillaje o transporte."
+  },
+  {
+   "termino": "peru",
+   "color": "amarillo",
+   "por_que": "El interés viene por la visita del papa León XIV a Chiclayo; es un tema emotivo y religioso que pide respeto.",
+   "idea": "Si tu marca tiene conexión peruana, comparte cultura y gastronomía; evita usar la figura del papa para vender."
+  },
+  {
+   "termino": "vuelos suspendidos estados unidos",
+   "color": "amarillo",
+   "por_que": "Fue una falla técnica de comunicaciones que se resolvió en pocas horas, pero generó dudas sobre retrasos.",
+   "idea": "Contenido de servicio: cómo planear envíos y viajes en temporada alta y a quién preguntar por el estado de un pedido."
+  },
   {
    "termino": "fenómeno",
    "color": "amarillo",
    "por_que": "La conversación sobre El Niño gira en torno al agua y la energía: preocupa, pero abre espacio a contenido útil.",
    "idea": "Tips de ahorro de agua y energía en casa, o productos que ayudan a consumir menos. Evita el tono alarmista."
-  },
-  {
-   "termino": "maluma",
-   "color": "verde",
-   "por_que": "Anuncio positivo: gira mundial que empieza en Bogotá; orgullo paisa y nacional.",
-   "idea": "Regalos de Navidad ligados al concierto: boletas, outfits, maquillaje o transporte para el día del show."
-  },
-  {
-   "termino": "peru",
-   "color": "verde",
-   "por_que": "Interés por la visita del papa León XIV a Perú, una noticia de tono emotivo y familiar.",
-   "idea": "Para turismo y gastronomía: rutas y sabores peruanos para viajar o probar en Colombia; habla con respeto, sin usar la fe como gancho de venta."
   }
  ],
  "audiencias": {
@@ -921,42 +927,40 @@
  "ocultar": [
   "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
   "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
-  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
   "Estos son los resultados de las loterías de Medellín, Risaralda y Santander de hoy, viernes 13 de noviembre de 2026",
   "Medellín albergará a partir de 2027 una prisión de gran capacidad",
   "Loterías de Medellín, Santander y Risaralda de hoy, viernes 13 de noviembre: consulte los resultados",
-  "Alerta por venta de lotes ilegales en Medellín: Distrito intervino “parcelación” en San Cristóbal | El Colombiano",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "La Cámara instala la Comisión accidental de Inteligencia Artificial",
-  "Loterías de hoy en vivo",
-  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
-  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos"
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "Las lecciones del caso paraguayo tras la caída de Ueno Bank",
+  "Alianza entre la Alcaldía de Barranquilla, Grupo Argos y Tecnoglass permitirá completar el corredor vial de la carrera 75A",
+  "YLAI, el programa de la embajada de EE. UU. que abre oportunidades para Barranquilla"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Puente festivo = lista de Black Friday",
-   "idea": "Aprovecha el puente para pedirle a tu audiencia que arme su lista antes del 27 de noviembre: qué comprar, cuánto gastar y en qué tienda. Un carrusel 'Arma tu lista en 5 pasos' conecta con las notas que hoy recomiendan adelantar las compras de Navidad.",
+   "titulo": "Tu lista de Black Friday en el puente",
+   "idea": "Aprovecha que la gente está en casa este puente para invitarla a armar su lista antes del 27 de noviembre: qué necesita, cuánto quiere gastar y dónde comparar. Varias notas de hoy insisten en adelantar las compras de Navidad, así que un carrusel con plantilla descargable conecta directo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalo para el fan de Maluma",
-   "idea": "La gira de Maluma arrancará en Bogotá con cuatro fechas en febrero. Si vendes moda, accesorios o experiencias, propón la boleta o el 'outfit para el concierto' como regalo de Navidad. Tono parcero y emocional.",
+   "titulo": "Regalo con fecha: el concierto de Maluma",
+   "idea": "La gira de Maluma empieza en Bogotá en febrero de 2027 con cuatro conciertos. Si vendes moda, maquillaje, accesorios o transporte, arma el 'kit para el concierto' como regalo de Navidad y muéstralo en un video corto con la pinta completa.",
    "formato": "Reel"
   },
   {
-   "titulo": "Diciembre empieza con buñuelo",
-   "idea": "En Medellín ya se anuncia el festival 'Que viva el buñuelo'. Marcas de alimentos, hogar y cocina pueden lanzar la receta familiar o un kit de natilla y buñuelos para la novena. Contenido nostálgico que se comparte en familia.",
+   "titulo": "Calendario de envíos para Navidad",
+   "idea": "La suspensión de vuelos en EE. UU. de este viernes dejó a mucha gente preguntando por demoras. Publica, con calma y sin alarmar, las fechas recomendadas para pedir y recibir a tiempo en Navidad, y responde dudas por WhatsApp. La claridad genera confianza.",
+   "formato": "Historias + WhatsApp"
+  },
+  {
+   "titulo": "Lo viral de belleza, con precio claro",
+   "idea": "Un corrector de ojeras de bajo costo es viral en TikTok esta semana y las ofertas anticipadas de belleza están entre lo más leído. Si vendes belleza, haz un 'probé lo viral' honesto y cierra con el precio final y el tiempo de entrega.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Compra segura en temporada",
-   "idea": "Con la temporada de descuentos crecen los engaños en línea. Publica 3 señales para reconocer una tienda confiable (datos de contacto, medios de pago, reseñas) y deja claras tus condiciones de cambio. Genera confianza justo antes del pico de compras.",
+   "titulo": "Plan de puente: Noche de Museos y buñuelos",
+   "idea": "Bogotá abre más de 80 museos gratis en la Noche de Museos y Medellín anuncia su festival del buñuelo para diciembre. Restaurantes, cafés y marcas locales pueden proponer un 'plan completo' con descuento para quien muestre su foto del evento.",
    "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Barranquilla, destino sostenible",
-   "idea": "Barranquilla entró al Top 100 de historias de turismo sostenible del mundo. Para negocios de turismo, gastronomía y artesanía de la Costa: cuenta tu historia sostenible y conéctala con la llegada de visitantes en temporada.",
-   "formato": "LinkedIn"
   }
  ]
 }
