@@ -36,9 +36,12 @@ def _normal(texto):
     return "".join(c for c in t if unicodedata.category(c) != "Mn")
 
 
+_SPAM = re.compile(r"(en vivo y en directo|online tv|live stream free|ver en vivo gratis|!\^!|\(\(|tendencia (bajista|alcista)|price prediction|precio de .{0,20}hoy)", re.I)
+
+
 def sensible(*textos):
-    """True si algún texto toca un tema excluido (config/filtros.json)."""
-    return bool(_PATRON and any(_PATRON.search(_normal(x)) for x in textos if x))
+    """True si algún texto toca un tema excluido (config/filtros.json) o parece spam."""
+    return bool(any(x and _SPAM.search(str(x)) for x in textos) or (_PATRON and any(_PATRON.search(_normal(x)) for x in textos if x)))
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 ERRORES = []
 

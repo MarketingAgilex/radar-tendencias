@@ -793,22 +793,22 @@
  ],
  "consultas": {
   "viral": {
-   "es": "viral OR \"se hizo viral\" OR \"se volvió viral\" OR tendencia OR trend OR tiktok",
-   "en": "viral OR \"goes viral\" OR \"went viral\" OR trend OR tiktok",
-   "pt": "viral OR viralizou OR tendência OR tiktok",
-   "fr": "viral OR buzz OR tendance OR tiktok",
-   "it": "virale OR tendenza OR tiktok",
-   "de": "viral OR Trend OR TikTok",
-   "nl": "viraal OR trend OR tiktok"
+   "es": "\"se hizo viral\" OR \"se volvió viral\" OR \"es viral\" OR \"video viral\" OR \"en TikTok\" OR \"trend de TikTok\" OR \"tendencia en redes\" OR \"furor en redes\"",
+   "en": "\"went viral\" OR \"goes viral\" OR \"viral video\" OR \"TikTok trend\" OR \"viral on TikTok\" OR \"trending on social\"",
+   "pt": "\"viralizou\" OR \"vídeo viral\" OR \"trend do TikTok\" OR \"nas redes sociais\"",
+   "fr": "\"devenu viral\" OR \"vidéo virale\" OR \"tendance TikTok\" OR \"buzz sur les réseaux\"",
+   "it": "\"diventato virale\" OR \"video virale\" OR \"trend su TikTok\" OR \"tendenza sui social\"",
+   "de": "\"viral gegangen\" OR \"virales Video\" OR \"TikTok-Trend\"",
+   "nl": "\"viraal gegaan\" OR \"virale video\" OR \"TikTok-trend\""
   },
   "consumo": {
-   "es": "\"más vendido\" OR \"más vendidos\" OR \"lo más buscado\" OR \"tendencia de consumo\" OR \"nuevo producto\" OR lanzamiento OR furor OR agotado",
-   "en": "\"best-selling\" OR \"best sellers\" OR \"sold out\" OR \"consumer trend\" OR \"new product\" OR launch",
-   "pt": "\"mais vendido\" OR \"mais vendidos\" OR esgotado OR lançamento OR \"novo produto\"",
-   "fr": "\"meilleures ventes\" OR \"rupture de stock\" OR lancement OR \"nouveau produit\"",
-   "it": "\"più venduti\" OR \"esaurito\" OR lancio OR \"nuovo prodotto\"",
-   "de": "Bestseller OR ausverkauft OR Produktlaunch OR \"neues Produkt\"",
-   "nl": "bestseller OR uitverkocht OR lancering OR \"nieuw product\""
+   "es": "\"más vendido\" OR \"más vendidos\" OR agotado OR \"se agotó\" OR \"Black Friday\" OR \"Buen Fin\" OR \"Cyber Monday\" OR \"Cyber Lunes\" OR \"tendencia de compra\" OR \"lo que más compran\" OR \"regalos de Navidad\"",
+   "en": "\"best-selling\" OR \"sold out\" OR \"Black Friday deals\" OR \"Cyber Monday\" OR \"holiday shopping\" OR \"shoppers\" OR \"most popular gifts\"",
+   "pt": "\"mais vendido\" OR esgotado OR \"Black Friday\" OR \"presentes de Natal\" OR consumidores",
+   "fr": "\"meilleures ventes\" OR \"rupture de stock\" OR \"Black Friday\" OR \"cadeaux de Noël\" OR consommateurs",
+   "it": "\"più venduti\" OR esaurito OR \"Black Friday\" OR \"regali di Natale\" OR consumatori",
+   "de": "Bestseller OR ausverkauft OR \"Black Friday\" OR Weihnachtsgeschenke OR Verbraucher",
+   "nl": "bestseller OR uitverkocht OR \"Black Friday\" OR kerstcadeaus OR consumenten"
   }
  }
 }
