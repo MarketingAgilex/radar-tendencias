@@ -237,8 +237,12 @@
   // ------------------------------------------------------------------ PULSO
   function tarjetaTrend(t) {
     const sem = (ins()?.semaforo || []).find((s) => norm(s.termino) === norm(t.termino));
-    const img = t.imagen ? `style="background-image:url('${esc(t.imagen)}')"` : "";
-    const not = t.noticias?.[0] || t.noticia;
+    // Google a veces adjunta una noticia o foto que no tiene que ver con la búsqueda: solo la mostramos si comparten palabras
+    const palabras = norm(t.termino).split(/[^a-z0-9ñ]+/).filter((w) => w.length > 2);
+    let not = t.noticias?.[0] || t.noticia;
+    const relacionada = not && palabras.some((w) => norm(not.titulo).includes(w));
+    if (!relacionada) not = null;
+    const img = t.imagen && relacionada ? `style="background-image:url('${esc(t.imagen)}')"` : "";
     return `<article class="tarjeta trend">
       <div class="trend-img" ${img}><div class="trend-insignias"><span class="insignia ${t.nuevo ? "nuevo" : ""}">${t.nuevo ? "NUEVO" : esc(hace(t.primera_vez))}</span><span class="insignia">${esc(t.trafico || "")} búsquedas</span></div></div>
       <div class="trend-cuerpo">
@@ -272,12 +276,12 @@
     trends = [...trends].sort((x, y) => (y.trafico_num || 0) - (x.trafico_num || 0)).filter((t) => coincide(t.termino + " " + (t.noticias?.[0]?.titulo || t.noticia?.titulo || "")));
     const lect = ins()?.lectura;
     const titulo = ciudad ? `${ciudad.nombre}` : `${p.bandera} ${p.nombre}`;
-    const nivel = ciudad ? (ciudad.trends ? `Tendencias de la región (${ciudad.nombre} y alrededores)` : "Google no publica tendencias por ciudad aquí: abajo verás los titulares locales") : "";
+    const nivel = ciudad ? (ciudad.trends ? `Lo que más está buscando en Google la gente del estado o región de ${ciudad.nombre}. Cada tarjeta es una búsqueda: el número indica cuántas veces se buscó (mínimo) y debajo va la noticia que la explica, cuando Google la publica.` : "Google no publica tendencias para esta ciudad: abajo verás los titulares locales") : "";
     const semana = (d.semana || []).slice(0, 12);
     return `
       ${lect && !ciudad ? `<div class="lectura"><div class="ico">✦</div><div><small>Lectura del momento · IA</small><p>${esc(lect)}</p></div></div>` : ""}
       <h2 class="titulo-sec" style="font-size:32px">${esc(titulo)}: <b>lo que está subiendo</b></h2>
-      <p class="sub-sec">${nivel || "Búsquedas en Google que más crecen ahora mismo, con la noticia que las explica y, cuando aplica, el semáforo para marcas."}</p>
+      <p class="sub-sec">${nivel || "Cada tarjeta es algo que la gente está buscando en Google ahora mismo: el número indica cuántas veces se buscó (mínimo), debajo va la noticia que lo explica y, cuando aplica, el semáforo te dice si conviene usarlo en tu contenido."}</p>
       ${trends.length ? `<div class="rejilla r3">${trends.slice(0, 12).map(tarjetaTrend).join("")}</div>` : vacio("Sin tendencias para esta vista", " Prueba otro periodo, otra ciudad o borra la búsqueda.")}
       <div class="rejilla r2" style="margin-top:28px">
         <div class="tarjeta"><h3>Lo más fuerte de la semana</h3>${semana.length ? barras(semana, "max_trafico", "Búsquedas aproximadas según Google (valor mínimo publicado). Pasa el cursor para ver detalle.") : vacio("Juntando historial", " Las gráficas se llenan con cada hora de recolección.")}</div>
