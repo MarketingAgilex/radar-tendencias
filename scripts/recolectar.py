@@ -33,10 +33,14 @@ def iso(dt):
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ") if dt else None
 
 
+UA_WIKI = "RadarTendencias/1.0 (https://github.com/MarketingAgilex/radar-tendencias; marketing Agilex)"
+
+
 def descargar(url, intentos=3, pausa=1.0):
     for i in range(intentos):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "es,en;q=0.8"})
+            ua = UA_WIKI if "wikimedia.org" in url else UA
+            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept-Language": "es,en;q=0.8"})
             with urllib.request.urlopen(req, timeout=25) as r:
                 return r.read()
         except Exception as e:  # noqa: BLE001
@@ -252,10 +256,11 @@ def modo_diario():
     wiki = {"actualizado": iso(AHORA), "paises": {}}
     for pais in CATALOGO["paises"]:
         articulos = []
-        for dias in (1, 2):
+        for dias in (1, 2, 3):
             d = AHORA - timedelta(days=dias)
             url = f"https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/{pais['id']}/all-access/{d:%Y}/{d:%m}/{d:%d}"
-            raw = descargar(url, intentos=2)
+            raw = descargar(url, intentos=3, pausa=3.0)
+            time.sleep(1.5)
             if not raw:
                 continue
             try:
@@ -274,9 +279,13 @@ def modo_diario():
                 })
                 if len(articulos) >= 30:
                     break
-            wiki["paises"][pais["id"]] = {"fecha": f"{d:%Y-%m-%d}", "articulos": articulos}
-            break
-        time.sleep(0.3)
+            if articulos:
+                wiki["paises"][pais["id"]] = {"fecha": f"{d:%Y-%m-%d}", "articulos": articulos}
+                break
+        if pais["id"] not in wiki["paises"]:  # conservar el dato anterior si hoy no hubo
+            anterior = leer_json("wikipedia.json", {"paises": {}}).get("paises", {}).get(pais["id"])
+            if anterior:
+                wiki["paises"][pais["id"]] = anterior
     guardar_json("wikipedia.json", wiki)
 
     # Festivos oficiales (año actual y siguiente)
