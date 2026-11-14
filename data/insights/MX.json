@@ -1,38 +1,38 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-14T13:04:00Z",
+ "actualizado": "2026-11-14T17:02:31Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin 2026 ya arrancó y domina la conversación: más de 200 mil negocios participan, las tiendas adelantan promociones y los consumidores comparan precios porque desconfían de los descuentos inflados. Profeco y los medios insisten en verificar precios, cuidar los meses sin intereses y evitar tiendas falsas, mientras crecen las búsquedas de INAPAM por descuentos para adultos mayores. En entretenimiento suenan Karol G tras los Latin Grammy, La Granja VIP y el final de El Señor de los Cielos. Gana quien muestre precio antes y después, condiciones claras y entrega garantizada.",
+ "lectura": "El Buen Fin está en su último fin de semana largo, con el puente del Día de la Revolución el lunes 16, y el consumidor mexicano compra con lupa: compara precios con Profeco, desconfía de ofertas infladas y busca meses sin intereses de bancos y tiendas departamentales. Los adultos mayores preguntan si el descuento INAPAM se suma al Buen Fin, una señal de que cada peso cuenta. El frío, las lluvias por el frente frío y planes como el Festival del Globo en León o conciertos en CDMX marcan el ánimo del puente. Funciona mostrar el precio real, la comparación honesta y la entrega antes de Navidad.",
  "semaforo": [
+  {
+   "termino": "pterodáctilo en ciudad juárez",
+   "color": "verde",
+   "por_que": "Un video viral de una supuesta criatura alada sobre Ciudad Juárez desató memes y teorías; es humor ligero.",
+   "idea": "Súmate con humor: 'lo que de verdad voló este Buen Fin fueron nuestras ofertas', con foto o video de tu producto."
+  },
+  {
+   "termino": "festival del globo",
+   "color": "verde",
+   "por_que": "Despegaron unos 200 globos en León durante el puente; es plan familiar, visual y muy compartible.",
+   "idea": "Turismo, moda y fotografía: contenido de 'qué llevar al Festival del Globo' o un sorteo de productos para la temporada de frío."
+  },
   {
    "termino": "inapam",
    "color": "verde",
-   "por_que": "Búsqueda masiva ligada a descuentos de El Buen Fin para adultos mayores: intención de compra clara.",
-   "idea": "Ofertas visibles con credencial INAPAM y contenido dirigido a hijos que compran para sus papás."
+   "por_que": "Los adultos mayores buscan el pago de diciembre y si su tarjeta INAPAM se suma a las promociones del Buen Fin.",
+   "idea": "Si aceptas INAPAM, dilo claro: una pieza con letra grande que explique tu descuento y cómo se combina con el Buen Fin."
   },
   {
    "termino": "karol g",
    "color": "verde",
-   "por_que": "Presencia fuerte en los Latin Grammy y conciertos en México: moda, belleza y música.",
-   "idea": "Looks inspirados en sus presentaciones, sin usar su imagen ni su marca sin permiso."
+   "por_que": "Sus looks en la alfombra de los Latin Grammy 2026 dan conversación de moda y belleza.",
+   "idea": "Moda y belleza: 'recrea el look' con tus productos y precio final visible, en formato antes y después."
   },
   {
    "termino": "votaciones la granja vip votar",
-   "color": "verde",
-   "por_que": "Reality de entretenimiento con conversación diaria y fans muy activos.",
-   "idea": "Contenido ligero de 'equipo favorito' o memes del reality para marcas de consumo masivo."
-  },
-  {
-   "termino": "apagón eléctrico",
    "color": "amarillo",
-   "por_que": "Rumor de 'apagón mundial' que genera curiosidad y algo de miedo.",
-   "idea": "Si vendes linternas, baterías o power banks, un contenido de 'kit básico para el hogar' sin alarmismo ni desinformación."
-  },
-  {
-   "termino": "alerta meteorológica",
-   "color": "amarillo",
-   "por_que": "Alertas por tormentas en varias zonas: tema de servicio, no de venta agresiva.",
-   "idea": "Impermeables, paraguas y entregas: avisa posibles retrasos y comparte tips para cuidar los paquetes."
+   "por_que": "El reality tiene audiencia fiel y votaciones activas, pero polariza a los fans.",
+   "idea": "Usa la mecánica de votación en historias para que tus seguidores elijan el producto de la semana, sin tomar partido por participantes."
   }
  ],
  "audiencias": {
@@ -932,55 +932,69 @@
   "karely ruiz",
   "guardería",
   "comercio",
+  "kings - trail blazers",
   "pobreza en méxico",
   "Trasladan de urgencia a Félix Gallardo a hospital de Guadalajara por problemas de salud",
-  "Trasladan de urgencia al capo Miguel Ángel Félix Gallardo a un hospital de Guadalajara, Jalisco",
-  "Trasladan a Félix Gallardo de Puente Grande a un hospital de Guadalajara",
-  "Trasladan de urgencia a “El Jefe de Jefes” a hospital de Guadalajara",
-  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
-  "Miguel Ángel Asturias vuelve a casa: Guatemala recibe con honores las cenizas del escritor que narró su alma",
-  "Refuerza SSP vigilancia en todo Zacatecas por El Buen Fin",
+  "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
+  "La caída de Jensen Huang de la cima de Nvidia",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
   "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
-  "Marchas y conciertos hoy 14 de noviembre en la CdMx: ve las calles y zonas afectadas",
-  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
+  "Emite SSPC Morelos recomendaciones para realizar compras seguras durante El Buen Fin 2026",
+  "Arrancan Javier Díaz e instituciones de seguridad el Operativo del Buen Fin 2026",
+  "CDMX: suprimen de programa urbano metropolitano el tema del predial",
   "🚨 Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 Redes Sociales",
+  "Cae en Guadalajara el “Raptor”, presunto operador regional del CJNG en Colima y Jalisco",
+  "Cae “El Raptor”, presunto jefe operativo del CJNG en Jalisco y Colima; Marina lo detiene en Guadalajara",
+  "Detienen en Guadalajara a \"Raptor\", jefe regional en Colima y Jalisco",
+  "Detienen en Guadalajara a Giancarlo 'N', Alias el 'Raptor', Presunto Jefe Operativo Regional",
+  "Detienen en Guadalajara a “Raptor” o “Lucifer”, presunto jefe operativo regional con presencia en Colima y Jalisco",
+  "Detienen a “Lucifer” en Guadalajara: Giancarlo “N” era presunto jefe operativo en Jalisco y Colima",
+  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
   "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "ONU advierte que bloqueo en Ormuz afecta el suministro de fertilizantes y alimentos",
+  "Pepe Chedraui fortalece el bienestar y desarrollo integral de las juventudes con el programa federal “Jóvenes Unen al Barrio”",
+  "Centros Comunitarios “México Imparable”, nueva etapa de desarrollo y bienestar para jóvenes",
+  "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
+  "Negar la quebradura en salud",
+  "La FCPyS coordinó la conferencia: Usos de la Inteligencia Artificial en seguridad y defensa",
+  "BUSQUE AYUDA PROFESIONAL Y NO DE LA INTELIGENCIA ARTIFICIAL",
+  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
   "Por enfrentamientos armados, más de 300 mil personas abandonan su hogar en el Congo",
-  "De huir de la violencia en Culiacán a un nuevo hogar: Abre Bioparc El Encanto en Mazatlán",
+  "Rescatan a 2 niños y una niña que deambulaban por calle de Reynosa; quedan bajo custodia de Casa Hogar",
+  "Mascotas sufren un infierno en Macuspana y Tacotalpa",
+  "En cateo, rescatan cinco perros maltratados en Cuautla",
+  "México presume aumento de recursos para la primera infancia, pero miles se enfrentan al reclutamiento, trata y violencia familiar",
   "Se rompe tubo en hospital IMSS-Veracruz; quema a 4, 2 bebés",
   "Aseguran 18 camionetas de lujo en bodega de Jalisco tras enfrentamiento armado",
-  "Zinacantepec reporta avances en obras y finanzas; Vilchis descarta demanda contra medio",
-  "Versión estenográfica. Inauguración de la Universidad del Deporte. Puebla, Puebla",
+  "¡Hallan camioneta que escapó! Aseguran bodega con 18 camionetas de lujo tras operativo en Ocotlán",
   "Aprueban reformas para impulsar la sostenibilidad en la obra, proteger la producción agrícola y fortalecer la seguridad",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Caso Vadhir Derbez: autoridades tienen ADN del presunto agresor de la joven que denunció al actor, reportan"
+  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”"
  ],
  "ideas_hoy": [
   {
    "titulo": "Precio real del Buen Fin",
-   "idea": "Hay consumidores que dicen que los precios casi no cambian. Muestra tu precio de octubre y el de hoy lado a lado, sin trucos; la transparencia es tu mejor anuncio esta semana.",
+   "idea": "Hay compradores que dudan por precios inflados y Profeco publica rangos de precios para pantallas y electrodomésticos. Muestra tu precio de octubre junto al de hoy, sin trucos; la neta es tu mejor anuncio esta semana.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Ofertas para adultos mayores",
-   "idea": "Las búsquedas de INAPAM se disparan por descuentos en El Buen Fin. Si tu negocio acepta la credencial o tiene algo para ese público, dilo claro y en letra grande, con un mensaje cálido para hijos y nietos que compran por ellos.",
+   "titulo": "INAPAM y Buen Fin, explicado",
+   "idea": "Muchos adultos mayores preguntan si el descuento INAPAM se combina con el Buen Fin. Si tu negocio lo acepta, haz un carrusel claro, con letra grande, que explique cómo aplica en tu tienda.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Checklist anti-fraude",
-   "idea": "Profeco y los medios alertan sobre tiendas 'fantasma'. Graba un video corto de 'cómo saber que somos una tienda real': dirección, facturación, políticas de devolución y seguimiento del envío.",
+   "titulo": "Último día del puente",
+   "idea": "El lunes 16 es festivo por el Día de la Revolución y cierra el Buen Fin. Publica una cuenta regresiva en historias con las ofertas que terminan el lunes por la noche para crear urgencia sin exagerar.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Lo que voló sobre Juárez",
+   "idea": "El supuesto pterodáctilo de Ciudad Juárez es de lo más comentado. Haz un TikTok con humor: 'lo único prehistórico aquí son los precios de antes', y remata con tu oferta vigente.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Meses sin intereses sin broncas",
-   "idea": "Las notas del día recomiendan no endeudarse. Explica en un carrusel cuánto pagarías al mes por tus productos más vendidos y cuándo conviene pagar de contado: educas y vendes al mismo tiempo.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Look de concierto",
-   "idea": "Karol G sigue en tendencia tras los Latin Grammy y los conciertos dejan derrama económica. Moda y belleza pueden lanzar un 'outfit bichota' o kit de maquillaje para conciertos y posadas de fin de año.",
+   "titulo": "Kit para el frío del puente",
+   "idea": "Se esperan lloviznas y frío intenso en zonas altas de CDMX, además de lluvias fuertes en varios estados por el frente frío. Arma un 'kit para el frente frío' con tus productos y entrega rápida en tu ciudad.",
    "formato": "Reel"
   }
  ]

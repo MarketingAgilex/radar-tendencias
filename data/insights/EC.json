@@ -1,26 +1,32 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-14T13:04:00Z",
+ "actualizado": "2026-11-14T17:02:31Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A trece días del Black Friday del 27 de noviembre, el consumidor ecuatoriano busca comprar con plan y sin endeudarse; los consejos de compras y las ofertas anticipadas de tecnología y belleza ganan espacio. La venta de camionetas crece 33% y llegan modelos ensamblados en el país, una señal de confianza para el sector automotor y sus accesorios. Las lluvias en Guayaquil y las demoras de vuelos desde Estados Unidos recuerdan la importancia de avisar a tiempo los plazos de entrega. Funcionan los mensajes de precio final claro, entrega puntual y compra planificada para Navidad.",
+ "lectura": "A trece días del Black Friday del 27 de noviembre, el consumidor ecuatoriano quiere comprar con plan: los consejos para presupuestar y las ofertas anticipadas de tecnología, celulares y belleza captan su atención. La venta de camionetas crece 33% y aparecen modelos ensamblados en el país, una buena señal para el sector automotor y sus accesorios. Las lluvias en la Costa y la suspensión de vuelos en EE. UU. recuerdan que, en temporada alta, avisar a tiempo los plazos de entrega vale tanto como el descuento. Funcionan los mensajes de precio final claro, entrega puntual y compra planificada para Navidad.",
  "semaforo": [
+  {
+   "termino": "cáncer",
+   "color": "amarillo",
+   "por_que": "La búsqueda responde a nuevas guías para detectar el cáncer de próstata en hombres mayores de 50; tema de salud delicado.",
+   "idea": "Laboratorios, clínicas y aseguradoras pueden informar con fuentes médicas y fomentar el chequeo preventivo; nada de humor ni ofertas agresivas."
+  },
+  {
+   "termino": "vuelos cancelados estados unidos",
+   "color": "amarillo",
+   "por_que": "La suspensión de despegues en EE. UU. generó retrasos en conexiones con Latinoamérica justo antes de la temporada de compras.",
+   "idea": "Si traes productos de EE. UU., avisa con calma cómo pueden variar los plazos y recomienda pedir con anticipación para Navidad."
+  },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Señal de consumo real: las ventas crecen 33% y modelos hechos en Ecuador compiten con importados.",
-   "idea": "Para repuestos, accesorios y seguros: comparativas honestas de precio, garantía y servicio."
+   "por_que": "Señal de consumo real: la venta de camionetas crece 33% y modelos hechos en Ecuador compiten con los importados.",
+   "idea": "Repuestos, accesorios y seguros: comparativas honestas de precio, garantía y servicio con un 'de ley' bien puesto."
   },
   {
    "termino": "peru",
    "color": "amarillo",
-   "por_que": "La búsqueda gira en torno a la visita del papa León XIV a Perú; tema religioso que exige respeto.",
-   "idea": "Turismo y artesanía religiosa pueden mencionarlo con sobriedad; evita usarlo como gancho de ofertas."
-  },
-  {
-   "termino": "visa",
-   "color": "rojo",
-   "por_que": "La conversación está ligada a restricciones de visados, un tema sensible que la plataforma no cubre.",
-   "idea": "Evítalo en contenido comercial."
+   "por_que": "La conversación gira en torno a la visita del papa León XIV a Perú; tema religioso que pide respeto.",
+   "idea": "Turismo y artesanía religiosa pueden mencionarlo con sobriedad; no lo uses como gancho de ofertas."
   }
  ],
  "audiencias": {
@@ -938,61 +944,72 @@
   }
  ],
  "ocultar": [
+  "sercop",
   "visa",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
   "La Armada de Ecuador incorpora la lancha guardacostas Isla Puná donada por Estados Unidos",
-  "Lluvias en Guayaquil dejan a un padre y su hijo desaparecidos tras caer a una zanja",
-  "Video | Padre e hijo cayeron a una zanja durante las fuertes lluvias en Guayaquil, según el ECU 911 y Segura EP",
-  "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
-  "¿Quién está obligado a votar en Ecuador y quién puede no hacerlo?",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
   "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Desmantelan una red de ciberestafas bancarias en TikTok",
+  "Dos fallecidos y dos desaparecidos durante las fuertes lluvias registradas en Guayaquil",
+  "Intensas lluvias en Guayaquil dejan dos fallecidos y dos desaparecidos",
+  "Suben a dos los fallecidos en medio de fuerte lluvia en ciudad ecuatoriana de Guayaquil",
+  "Lluvias en Guayaquil: padre intentó salvar a su hijo que cayó en una zanja",
+  "Lluvias en Guayaquil dejan a un padre y su hijo desaparecidos tras caer a una zanja",
+  "Lluvias en Ecuador: Quito tendrá lloviznas y 13 ríos siguen desbordados en la Costa",
+  "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
   "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "Ausencias de candidatas de Miss Universe en Puerto Rico generan cuestionamientos",
+  "elTOQUE y Café Fuerte lanzan proyecto conjunto para impulsar el periodismo en español en el sur de Florida",
   "Estudiantes exigen a ICE liberar a María Flores García y su madre",
   "Medicina para la paz: prevenir la violencia desde la salud",
+  "Un grupo que reúne a Meta, Google y TikTok demandó a Nueva York por los avisos de salud mental en redes",
   "La ADF quiere defender la medida sobre el deporte femenino en Washington y sostiene que el estado no puede representar plenamente a las deportistas",
+  "🚨 Hurtaban celulares en pleno recorrido de papa León XIV: aprovecharon la multitud para robar a fieles",
+  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
   "Mamdani lanzará un concurso de diseño de videojuegos para jóvenes de Nueva York con temática de transporte público",
+  "El plan para personas sin hogar de Gilroy carece de detalles sobre los próximos pasos.",
+  "«Nómadas, no sin hogar»: Por qué la visita de Haití a Estados Unidos a Miami se siente como un regreso a casa.",
   "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
-  "Jovencita reportada como desaparecida ya está en su hogar sana y salva | Noticias | El Blog - Noticias de El Salvador",
-  "“La luz de nuestro balcón continúa encendida”: Hogar Ruth celebra la Gala Topaz para sostener sus servicios a sobrevivientes de violencia",
-  "Con velas, globos y peluches recuerdan a niños asesinados tras ejecución de John Allen Rubio",
-  "Texas ejecutó a John Allen Rubio, condenado por decapitar a tres niños en Brownsville en 2003",
-  "Cuatro niños hispanos de Marietta se encuentran separados de sus padres tras detención migratoria",
+  "¿Adiós SNAP? El plan que dejaría a casi 2 millones de niños sin comidas escolares gratuitas",
+  "Tres veces presentada, tres veces traicionada: la ley de bebés robados y la impunidad del régimen del 78",
   "Disparo accidental afuera de una joyería en North Miami deja una persona herida",
-  "Un McLaren robado aparece en una reunión de autos en Detroit",
+  "Óscar López reivindica el papel de la educación pública y carga contra la gestión de Ayuso",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística",
+  "Kalshi y Polymarket encuentran un nuevo negocio en los reality shows y desafían a la industria televisiva",
+  "Canadá \"no aceptará\" un acuerdo comercial con EEUU que ponga en riesgo industria automovilística",
   "Bessent apunta a Lutnick por exportaciones de chips de Nvidia mientras se discute la destitución del secretario de Comercio",
   "Scott Bessent señala al Departamento de Comercio de EE.UU. por no restringir las exportaciones de chips de Nvidia",
-  "Estados Unidos busca restringir cupones de alimentos, ¿qué cambiará para los beneficiarios?",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "¡SEGÚN BLOOMBERG! Profesionales treintañeros de las finanzas y la tecnología comienzan a regresar a Venezuela",
-  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
+  "Ucrania aumentó en 10 meses los ingresos en divisas por las exportaciones de maíz en 24%, pero en octubre las exportaciones se redujeron 3,3 veces.",
   "Refundar la izquierda desde la sostenibilidad de la vida"
  ],
  "ideas_hoy": [
   {
    "titulo": "Presupuesto de Black Friday",
-   "idea": "Faltan menos de dos semanas para el 27 de noviembre y los expertos recomiendan planificar. Publica una plantilla de presupuesto con tus productos como ejemplo y el precio final ya calculado, para que el cliente decida sin sorpresas.",
+   "idea": "Faltan menos de dos semanas para el 27 de noviembre y los expertos recomiendan planificar las compras y evitar deudas. Publica una plantilla de presupuesto con tus productos como ejemplo y el precio final ya calculado, para que el cliente decida sin sorpresas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit para camioneta nueva",
-   "idea": "Las ventas de camionetas suben 33%. Si vendes accesorios, repuestos, lavado o seguros, arma un 'primer kit para tu camioneta' con precio cerrado y muéstralo en uso.",
+   "titulo": "Accesorios para la camioneta nueva",
+   "idea": "La venta de camionetas creció 33% y llegan modelos ensamblados en Ecuador. Si vendes accesorios, repuestos o seguros, muestra el 'kit básico para tu camioneta' con precios claros y garantía.",
    "formato": "Reel"
   },
   {
-   "titulo": "Entregas con lluvia",
-   "idea": "Se esperan lluvias fuertes en Guayaquil. Avisa en tus historias cómo cuidas los pedidos bajo la lluvia y si puede haber retrasos; la transparencia evita reclamos y genera confianza.",
+   "titulo": "Pide con tiempo para Navidad",
+   "idea": "La suspensión de vuelos en EE. UU. y la logística más lenta de temporada alta pueden retrasar envíos. Publica un calendario sencillo con la fecha recomendada para pedir y recibir antes del 24 de diciembre.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Lo viral de belleza a precio ecuatoriano",
-   "idea": "Un corrector económico de Maybelline es viral en TikTok. Si vendes cosmética, compara el producto viral con tus alternativas y di el precio final en dólares, ñaño, sin rodeos.",
+   "titulo": "Belleza viral a buen precio",
+   "idea": "Un corrector de ojeras económico se volvió viral en TikTok y crecen las ofertas anticipadas de belleza. Haz una prueba real de tu producto estrella, con precio final y sin filtros; eso es full confiable para el público.",
    "formato": "TikTok"
   },
   {
    "titulo": "Vende más en TikTok este Black Friday",
-   "idea": "Circulan claves de expertos para vender en TikTok en Black Friday. Comparte tu propia versión para emprendedores ecuatorianos: video corto, precio visible, prueba social y respuesta rápida por WhatsApp.",
-   "formato": "LinkedIn"
+   "idea": "Circulan claves de expertos para vender más en TikTok en Black Friday. Para emprendedores: un live corto mostrando tus ofertas, respondiendo dudas en vivo y cerrando por WhatsApp, chévere y sin presión.",
+   "formato": "TikTok"
   }
  ]
 }

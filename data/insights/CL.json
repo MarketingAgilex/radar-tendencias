@@ -1,32 +1,32 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-14T13:03:00Z",
+ "actualizado": "2026-11-14T17:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor chileno ya está en modo Black Friday: los medios informan fechas, marcas participantes y cuatro días de ofertas a nivel nacional, y las pymes regionales se están sumando. También crece la desconfianza: se habla de marcas que piden datos a cambio de cupones y de comparar precios con otros países, así que la transparencia vende. El fin de semana trae cambio de clima con lluvias en el centro-sur y, en Santiago, la FILSA y la Noche de Museos impulsan planes culturales. Funcionan mensajes al hueso, con precio real y beneficios concretos.",
+ "lectura": "El consumidor chileno ya piensa en el Black Friday: los medios explican fechas, duración y cómo saber si un producto bajó de verdad, y las pymes de regiones como Atacama se suman a los cuatro días de ofertas. Comparar precios con otros países, como en el supermercado frente a España, se volvió tema de conversación, así que la transparencia vende. El fin de semana trae lluvias y bajas temperaturas al centro-sur, mientras en Santiago la Feria del Libro en Estación Mapocho y el Creamfields mueven panoramas. Funcionan los mensajes al hueso: precio real, despacho claro y beneficios concretos.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin letra chica",
-   "idea": "Las marcas ya compiten por los datos de la gente antes del Black Friday. Diferénciate mostrando tu precio de hoy y el precio que tendrás en la fecha, sin pedir registros innecesarios.",
+   "titulo": "¿Bajó de verdad?",
+   "idea": "Los medios enseñan a revisar si un producto realmente bajó de precio para el Black Friday. Muestra hoy el precio actual de tus productos clave y promete mantenerlo visible hasta la fecha; así demuestras que tu descuento es real.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Pymes regionales, a la vitrina",
-   "idea": "Se invita a pymes de regiones a sumarse a los cuatro días de ofertas. Si eres una de ellas, cuenta tu historia de origen y arma un pack especial con despacho regional claro.",
+   "titulo": "Pyme regional en vitrina",
+   "idea": "Se invita a pymes de regiones a sumarse a los cuatro días de ofertas nacionales. Si eres una, cuenta tu historia de origen y arma un pack con despacho regional claro; lo local genera cariño y confianza.",
    "formato": "Reel"
   },
   {
-   "titulo": "Panorama lluvioso",
-   "idea": "Vuelven las lluvias al centro-sur por varios días. Prepara un carrusel de 'panoramas bajo techo' o un pack de abrigo y hogar para el finde; es contenido útil que se guarda y comparte.",
+   "titulo": "Panoramas con lluvia",
+   "idea": "Vuelven las lluvias al centro-sur y podrían durar varios días. Publica un carrusel de 'planes bacanes bajo techo' o un pack de abrigo y hogar para el finde; es contenido que se guarda y se comparte.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "FILSA y Noche de Museos",
-   "idea": "La feria del libro en Estación Mapocho y la Noche de Museos movilizan a público familiar y joven. Librerías, cafeterías y marcas de papelería pueden recomendar lecturas o rutas con descuento para asistentes.",
+   "titulo": "Lecturas de la FILSA",
+   "idea": "La Feria Internacional del Libro de Santiago celebra 45 años en Estación Mapocho. Librerías, cafeterías y marcas de papelería pueden recomendar tres lecturas para regalar en Navidad o un beneficio para quienes muestren su entrada.",
    "formato": "TikTok"
   },
   {
-   "titulo": "¿Más barato aquí o afuera?",
-   "idea": "Comparar precios entre Chile y otros países genera conversación. Haz un video honesto de comparación de tu categoría y explica qué incluye tu precio (garantía, despacho, devolución).",
+   "titulo": "Comparación honesta de precios",
+   "idea": "El video que comparó una compra de supermercado entre Chile y España despertó interés. Haz tu propia comparación de categoría y explica qué incluye tu precio (garantía, despacho, devolución); la honestidad diferencia.",
    "formato": "TikTok"
   }
  ],
@@ -34,51 +34,51 @@
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Cambio de clima con lluvias en el centro-sur durante el fin de semana.",
-   "idea": "Contenido de panoramas bajo techo, delivery y productos de abrigo ligero."
+   "por_que": "Lluvias y bajas temperaturas en el centro-sur durante el fin de semana.",
+   "idea": "Panoramas bajo techo, delivery y packs de abrigo ligero o hogar."
   },
   {
    "termino": "inessa sorokina",
    "color": "amarillo",
-   "por_que": "Tema de farándula televisiva: atrae atención, pero se presta a polémicas personales.",
-   "idea": "Úsalo solo para hablar de formatos de TV o entretenimiento, sin opinar sobre la vida privada."
+   "por_que": "Farándula televisiva que atrae atención, pero gira en torno a una supuesta infidelidad.",
+   "idea": "Habla solo de formatos de TV o entretenimiento, sin opinar sobre su vida privada."
   },
   {
    "termino": "mauricio pinilla",
    "color": "rojo",
    "por_que": "Conversación de escándalo personal; asociarse puede dañar la reputación de la marca.",
-   "idea": "Evitar. Mejor apostar por contenidos positivos de entretenimiento o música."
+   "idea": "Evítalo. Mejor apuesta por entretenimiento positivo, como música o panoramas."
   },
   {
-   "termino": "china",
-   "color": "verde",
-   "por_que": "Interés por el comercio electrónico chino y fechas como el 11.11.",
-   "idea": "Contenido educativo sobre cómo comprar o importar con seguridad: tiempos, garantías y costos totales."
+   "termino": "papa leon",
+   "color": "amarillo",
+   "por_que": "La visita del papa al Perú genera emoción, pero parte de la conversación toca temas delicados.",
+   "idea": "Si tu marca es de turismo o cultura, menciónalo con sobriedad y sin usarlo como gancho de ventas."
   },
   {
-   "termino": "diario financiero",
+   "termino": "supermercado",
    "color": "verde",
-   "por_que": "Interés en noticias de negocios como la venta de la filial de Entel en Perú.",
-   "idea": "Para B2B: análisis breves en LinkedIn sobre qué significan los movimientos empresariales para tu sector."
+   "por_que": "Interés por comparar precios de supermercado entre Chile y otros países.",
+   "idea": "Comparativas honestas de canasta o de tu categoría, mostrando qué incluye tu precio."
   }
  ],
  "ocultar": [
   "desalojo",
   "jesús owono",
   "estafa",
-  "Dos fallecidos tras choque entre dos camionetas en Ruta 5 Sur: Trabajador fue impactado mientras instalaba conos en la carretera",
-  "La Moneda bajo presión: la tormenta de tres tiempos que nubla la primera gira de Kast en Asia",
+  "maria camila pantoja",
+  "ximena lincolao",
+  "mauricio pinilla",
+  "Israel bombardea hospital en la Franja de Gaza y mata a al menos 6 personas",
   "Camila Bustamante, víctima del Sodalicio tras su reunión con el Papa: “Lo sentí preocupado y con un compromiso personal”",
-  "Un petrolero hunde un ferry con más de 129 personas a bordo en el río Mississippi",
-  "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
-  "Agreden a famoso humorista en medio de show: su reacción ya es viral en redes sociales",
-  "Corte de Santiago eleva a $50 millones indemnización a hijo de víctima ejecutada por agentes del Estado",
+  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
+  "Autora de poemario sobre el estallido social denuncia irregularidades en premio de Cultura: Ministerio anuló la decisión",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
   "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "“Hoy está muy de moda ser un personaje”: Ossandón critica actitud de algunos diputados en discusión del Presupuesto",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "[Tribunal Ambiental] Fundación Terram busca dejar sin efecto modificación del Reglamento de Suelos, Aguas y Humedales realizada por el Ministerio de Agricultura – Fundación Terram",
-  "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
-  "SINDICATO DE DOCENTES DEL SAMCA ARUMANTI ELEVARON CASO AL SEREMI DE EDUCACIÓN DE TARAPACÁ TRAS MARCHA CONVOCADA PARA HOY"
+  "La abogada que cobró $12 millones a desalojados de megatoma en Cerrillos",
+  "“No hagan un rescate militar”, pide subteniente secuestrada por el ELN",
+  "Nuevo round en MinCiencia: subsecretaria Rossi desconoce y rechaza despidos ordenados por Ximena Lincolao"
  ],
  "audiencias": {
   "general": {

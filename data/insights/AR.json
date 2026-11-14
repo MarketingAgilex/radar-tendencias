@@ -1,79 +1,80 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-14T13:03:00Z",
+ "actualizado": "2026-11-14T17:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los argentinos miran el cielo y el bolsillo: las búsquedas del clima explotan por las tormentas en Córdoba, Salta y el NOA, mientras el dólar blue y el mercado cambiario siguen marcando cada decisión de compra. Los supermercados ya adelantan el Black Friday con rebajas fuertes y cuotas sin interés, y crece la conversación sobre regalos de Navidad comprados con anticipación. La visita del papa León XIV a Perú despierta cercanía y emoción por su vínculo con Francisco. Ganan los mensajes con precio en pesos, cuotas claras y beneficios concretos.",
+ "lectura": "Los argentinos miran el cielo: la tormenta con granizo en Córdoba y las alertas en Salta y el NOA disparan las búsquedas del clima, que además supera las 100 mil consultas en la semana. El bolsillo sigue mandando, con el dólar blue y el mercado cambiario entre lo más buscado y una conversación creciente sobre comprar los regalos de Navidad con anticipación. En lo cultural, la Noche de los Museos, los shows de María Becerra y el Creamfields llenan la agenda, y el feriado del lunes 23 abre la puerta a escapadas. Ganan los mensajes con precio en pesos, cuotas claras y planes concretos.",
  "ideas_hoy": [
   {
-   "titulo": "Cuotas sin vueltas",
-   "idea": "Los súper ya adelantan el Black Friday con hasta 18 cuotas sin interés. Si vendés, mostrá en un solo gráfico cuánto queda cada cuota con tu producto estrella y el precio final, sin asteriscos.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Kit anti tormenta",
-   "idea": "Las alertas por tormentas en Salta, Córdoba y el NOA dominan las búsquedas. Armá un pack práctico (paraguas, linternas, alargues, impermeables) o contenido de 'cómo proteger tu casa o tu local', con tono útil.",
+   "titulo": "Kit anti granizo",
+   "idea": "El granizo en Córdoba fue de lo más buscado del día. Armá un pack práctico (fundas para auto, paraguas, linternas, alargues) o un video de 'cómo proteger tu auto o tu local', con tono útil y sin dramatizar.",
    "formato": "Reel"
   },
   {
-   "titulo": "Regalos de Navidad anticipados",
-   "idea": "Se viraliza la idea de que quienes compran regalos temprano son más organizados. Lanzá una 'lista de regalos con precio congelado' para quien compre antes del 30 de noviembre.",
-   "formato": "Historias de Instagram"
+   "titulo": "Regalos de Navidad, con tiempo",
+   "idea": "Circulan notas sobre lo organizadas que son las personas que compran regalos de Navidad con anticipación. Lanzá una lista de regalos por rango de precio en pesos y mostrá cuánto queda en cuotas; ayudás a planificar y adelantás ventas.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Dólar de hoy, precio de hoy",
-   "idea": "El dólar blue sigue entre lo más buscado. Si importás o vendés tecnología, publicá a diario un precio vigente con hora de actualización; la transparencia da confianza en un mercado sensible.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "SUV y autos más vendidos",
-   "idea": "Los rankings de SUV e híbridos más patentados generan interés. Talleres, aseguradoras y tiendas de accesorios pueden armar un 'kit para tu auto nuevo' según los modelos líderes.",
+   "titulo": "Escapada del finde largo",
+   "idea": "El lunes 23 es feriado y las escapadas a pueblos cerca de CABA están en agenda. Hoteles, gastronomía y tiendas de viaje pueden armar una 'ruta de finde largo' con lo que conviene llevar y reservar ya.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Precio del día, sin vueltas",
+   "idea": "El dólar blue y el mercado cambiario siguen entre lo más buscado. Si importás o vendés tecnología, publicá un precio vigente con fecha y hora de actualización; la transparencia da confianza en un mercado sensible.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Looks de recital",
+   "idea": "María Becerra arrancó diez shows en el Movistar Arena y el Creamfields convoca a miles. Moda, maquillaje y accesorios pueden mostrar 'qué ponerte para el show' con productos reales y precio claro.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "Tormenta fuerte en Córdoba con calles inundadas: tema útil, pero con vecinos afectados.",
+   "idea": "Contenido de prevención y cuidado del auto o la casa; evitá el humor y las ofertas oportunistas."
+  },
+  {
+   "termino": "creamfields",
+   "color": "verde",
+   "por_que": "El festival electrónico y el debut de Kevin Di Serna generan conversación joven.",
+   "idea": "Marcas de moda, bebidas sin alcohol o audio: contenido de 'qué llevar al festival'."
+  },
+  {
+   "termino": "maria becerra",
+   "color": "verde",
+   "por_que": "Abrió una serie de diez shows en el Movistar Arena con mucha repercusión.",
+   "idea": "Looks de recital, merchandising o planes previos al show para público joven."
+  },
+  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva por tormentas y cambios de temperatura en varias provincias.",
-   "idea": "Contenido útil de temporada: packs para lluvia, delivery y planes bajo techo."
+   "por_que": "Búsqueda masiva por lluvias y cambios de temperatura en varias provincias.",
+   "idea": "Packs de temporada para lluvia, delivery y planes bajo techo."
   },
   {
    "termino": "peru",
    "color": "verde",
    "por_que": "Interés por la visita del papa León XIV a Chiclayo, con tono emotivo y cultural.",
-   "idea": "Para turismo y gastronomía: contenidos de cocina peruana o viajes al norte del Perú, con respeto y sin usar imágenes oficiales."
-  },
-  {
-   "termino": "clima salta",
-   "color": "verde",
-   "por_que": "Alerta amarilla por tormentas en Salta este sábado.",
-   "idea": "Comercios locales: avisos de horarios, envíos y recomendaciones prácticas para el finde."
-  },
-  {
-   "termino": "precio dolar blue",
-   "color": "amarillo",
-   "por_que": "Tema central del bolsillo; útil pero sensible a promesas que no se cumplen.",
-   "idea": "Mostrá precios vigentes con fecha y hora; evitá prometer 'precios que no suben'."
-  },
-  {
-   "termino": "rodrigo de paul",
-   "color": "verde",
-   "por_que": "Noticia de farándula positiva: boda y familia que crece, con mucho interés social.",
-   "idea": "Marcas de eventos, regalos o bebés pueden hablar de celebraciones familiares sin usar la imagen de los famosos."
+   "idea": "Turismo y gastronomía pueden mostrar cocina peruana o viajes al norte del Perú, con respeto."
   }
  ],
  "ocultar": [
   "suquia",
   "luis caputo",
-  "La Justicia ordenó despojar a Lázaro Báez de su empresa agropecuaria: será liquidada para cubrir la multa de la “Ruta del Dinero K”",
+  "devolución",
+  "hugo moyano",
+  "página/12",
+  "Se espera que el río Paraná alcance el nivel de evacuación en los próximos días en Santa Fe",
+  "Estados Unidos propuso que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
+  "Buque choca contra crucero en puerto de Nuevo Orleans",
   "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
-  "El brutal mensaje de Martín Migueles tras su video viral amenazando a Mauro Icardi",
-  "Una camioneta melliza y una máquina de café permitieron detener a un sospechoso de cometer entraderas",
-  "Qué es el grooming, el delito digital que ya afectó a 170 mil niños y adolescentes en República Dominicana",
-  "Con sello mafioso: dos niños amenazados con una pistola",
-  "¡VIDEO! Cinematográfico golpe comando de cuatro ladrones armados en una exclusiva joyería de París",
-  "Hogar Santa Marta: qué denuncian los vecinos y por qué marchan este sábado",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”"
+  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
+  "Una rosarina busca a sus padres y el pedido se hizo viral en las redes",
+  "Calles inundadas, granizo y el rescate de un hombre arrastrado por un río durante la tormenta que azotó a Córdoba"
  ],
  "audiencias": {
   "general": {

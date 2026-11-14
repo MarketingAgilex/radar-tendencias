@@ -1,0 +1,1163 @@
+{
+ "pais": "FR",
+ "actualizado": "2026-11-14T16:59:14Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "A dos semanas del Black Friday del 27 de noviembre, el consumidor francés está en modo 'bon plan': compara precios, busca el descuento real sobre el precio de referencia y aprovecha ofertas anticipadas en tecnología, audio, aspiradoras robot y smartphones en Amazon, Darty y tiendas de marca. El lanzamiento de GTA VI dispara el interés por PS5, pantallas y accesorios, mientras los pequeños comercios intentan ganar su parte del Black Friday con trato cercano. También interesa el hogar y la reforma como proyecto de vida, y la preocupación por el coste de la vida sigue muy presente. Funcionan los mensajes de precio honesto, utilidad concreta, regalo de Navidad anticipado y entrega fiable a domicilio o en punto relais.",
+ "semaforo": [
+  {
+   "termino": "maison",
+   "color": "verde",
+   "por_que": "Gusta la historia de una pareja que compró una casona para renovar y hoy vive de contar sus obras: la reforma del hogar como proyecto y como contenido.",
+   "idea": "Marcas de hogar, decoración y bricolaje: serie 'avant/après' con presupuesto real por etapa y el producto como parte de la obra."
+  },
+  {
+   "termino": "hugues aufray",
+   "color": "amarillo",
+   "por_que": "Interés por el cantante de 97 años tras el aplazamiento de varios conciertos; tema de cariño generacional, pero sensible por su edad.",
+   "idea": "Solo para marcas de música, cultura o público senior: playlist o recuerdo de canciones francesas clásicas, sin hablar de su salud."
+  },
+  {
+   "termino": "brigitte bardot",
+   "color": "amarillo",
+   "por_que": "La Madrague, su casa de Saint-Tropez, abrirá al público el próximo verano: noticia de patrimonio y turismo con mucha nostalgia.",
+   "idea": "Turismo y moda: contenido sobre el estilo Riviera de los años 60 o planes en la Costa Azul para el verano 2027, con tono respetuoso."
+  },
+  {
+   "termino": "starship spacex",
+   "color": "amarillo",
+   "por_que": "Curiosidad por las pruebas del cohete Starship; atrae al público tecnológico pero es noticia de nicho y cambiante.",
+   "idea": "Marcas de tecnología o educación: video corto '¿cómo se atrapa un cohete?' explicado en 30 segundos, sin opinar sobre empresarios."
+  },
+  {
+   "termino": "rockstar games",
+   "color": "verde",
+   "por_que": "El éxito de GTA VI impulsa la compra de pantallas, mandos y consolas justo antes del Black Friday.",
+   "idea": "Tiendas de tecnología y gaming: 'el setup ideal para GTA VI según tu presupuesto' con packs de pantalla + mando + PS5."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor francés",
+   "resumen": "Exigente, informado y escéptico ante la publicidad. Compara mucho (sitios de comparación, reseñas, foros), valora la calidad, el origen ('Made in France', productos locales) y la relación calidad-precio. Muy atento a sus derechos de consumidor (devolución de 14 días, garantía legal de 2 años) y a las promociones reguladas: soldes de invierno (del 6 de enero al 2 de febrero de 2027) y de verano, Black Friday y French Days. La segunda mano está totalmente normalizada (Vinted, Leboncoin, Back Market).",
+   "como_habla": "Usa 'vous' con desconocidos y marcas formales; muchas marcas jóvenes tutean ('tu') en redes. En el día a día abundan expresiones como 'bon plan', 'c'est top', 'grave', 'trop bien'; los jóvenes mezclan verlan ('ouf', 'chelou', 'relou') y anglicismos. Aprecia el humor ingenioso, el sarcasmo y el juego de palabras.",
+   "dolores": [
+    "Coste de la vida y pérdida de poder adquisitivo",
+    "Falsas promociones o descuentos inflados",
+    "Gastos de envío y devoluciones complicadas",
+    "Atención al cliente difícil de contactar",
+    "Exceso de envases y consumo poco responsable"
+   ],
+   "motivaciones": [
+    "Hacer un buen negocio ('un bon plan')",
+    "Calidad duradera y origen claro",
+    "Productos locales, artesanales o 'Made in France'",
+    "Reseñas de otros compradores",
+    "Pago seguro con Carte Bancaire y opción de pago en 3 o 4 veces"
+   ],
+   "frenos": [
+    "Sitios desconocidos sin menciones legales claras",
+    "Textos mal traducidos o que no están en francés",
+    "Plazos de entrega largos o poco claros",
+    "Ausencia de punto relais o recogida en tienda"
+   ],
+   "tono": "Claro, ingenioso y respetuoso de la inteligencia del cliente. Argumentos concretos (precio, garantía, origen) antes que superlativos.",
+   "evitar": [
+    "Promesas exageradas ('le meilleur du monde')",
+    "Anglicismos en exceso: la publicidad debe estar en francés (ley Toubon)",
+    "Temas políticos, sociales o de manifestaciones",
+    "Clichés de boina, baguette y acordeón",
+    "Publicidad agresiva de alcohol (muy regulada por la ley Evin)"
+   ],
+   "canales": [
+    "Instagram y TikTok (descubrimiento de marcas)",
+    "Facebook y su marketplace (mayores de 35 y zonas rurales)",
+    "YouTube (reseñas y comparativas)",
+    "Marketplaces: Amazon.fr, Leboncoin, Vinted, Cdiscount, Fnac-Darty",
+    "Email y newsletters con códigos promocionales",
+    "WhatsApp y Snapchat para conversación entre conocidos"
+   ],
+   "mensajes": [
+    "'Le vrai prix, sans mauvaise surprise.'",
+    "'Livré chez vous ou en point relais, comme vous préférez.'",
+    "'Satisfait ou remboursé.' (Satisfecho o le devolvemos su dinero)"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce en Francia",
+   "resumen": "Ecosistema de autoentrepreneurs (micro-entrepreneurs) muy amplio: muchos venden en Etsy, Vinted, Shopify o en mercados locales mientras mantienen otro empleo. Les importa la logística barata (Colissimo, Mondial Relay, Relais Colis), la fiscalidad simple y la visibilidad en redes.",
+   "como_habla": "Directo y práctico; usa vocabulario del mundo startup en franglais ('scaler', 'le CA', 'la conversion', 'un side project').",
+   "dolores": [
+    "Cargas sociales y papeleo (URSSAF)",
+    "Coste de la publicidad en Meta y Google",
+    "Competencia de plataformas asiáticas de bajo coste",
+    "Gestión de devoluciones"
+   ],
+   "motivaciones": [
+    "Libertad e independencia",
+    "Vender productos con historia y origen",
+    "Crecer hacia otros países de la UE",
+    "Comunidad de emprendedores"
+   ],
+   "frenos": [
+    "Proveedores sin facturas en regla",
+    "Plazos de importación inciertos",
+    "Herramientas no traducidas al francés"
+   ],
+   "tono": "Colega experto: cercano, concreto y con datos.",
+   "evitar": [
+    "Promesas de 'hacerse rico rápido'",
+    "Tono de gurú",
+    "Ignorar las obligaciones legales (CGV, menciones legales)"
+   ],
+   "canales": [
+    "Instagram",
+    "LinkedIn",
+    "TikTok",
+    "YouTube",
+    "Grupos de Facebook de emprendedores"
+   ],
+   "mensajes": [
+    "'Vendez en France, livrez partout en Europe.'",
+    "'Moins de logistique, plus de temps pour votre marque.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora / exportadora francesa",
+   "resumen": "Pymes muy orientadas a la UE y a sus excolonias francófonas; fuertes en agroalimentario, cosmética, vinos, moda y lujo. Valoran la fiabilidad, el cumplimiento de normas europeas (CE, REACH, etiquetado en francés) y la relación a largo plazo.",
+   "como_habla": "Formal, con 'vous' y protocolo; aprecia la precisión técnica y los documentos claros.",
+   "dolores": [
+    "Normativa europea y aduanera compleja",
+    "Costes logísticos y de energía",
+    "Riesgo de cambio fuera de la zona euro",
+    "Encontrar socios fiables fuera de Europa"
+   ],
+   "motivaciones": [
+    "Diversificar proveedores",
+    "Calidad certificada y trazabilidad",
+    "Acceso a nuevos mercados (Latinoamérica, Norteamérica)",
+    "Ferias profesionales (Salon, SIAL, Maison&Objet)"
+   ],
+   "frenos": [
+    "Interlocutor que no habla francés ni inglés",
+    "Falta de certificaciones",
+    "Plazos que cambian sin aviso"
+   ],
+   "tono": "Profesional, sobrio y orientado a resultados.",
+   "evitar": [
+    "Familiaridad excesiva",
+    "Mensajes vagos sin cifras",
+    "Tutear en el primer contacto"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Email profesional",
+    "Ferias y salones",
+    "Cámaras de comercio (CCI) y Business France"
+   ],
+   "mensajes": [
+    "'Une chaîne logistique fiable, de l'origine à votre entrepôt.'",
+    "'Traçabilité et conformité européennes, documentées.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande / corporativo en Francia",
+   "resumen": "Grandes grupos (distribución, lujo, cosmética, energía, transporte) con procesos de compra largos, exigencias RSE (responsabilidad social) y fuerte peso de la reputación. Las decisiones pasan por comités.",
+   "como_habla": "Muy formal y estructurado; vocabulario de RSE, conformidad y rendimiento.",
+   "dolores": [
+    "Presión por reducir la huella de carbono",
+    "Cumplimiento normativo (RGPD, deber de vigilancia)",
+    "Costes y complejidad de la cadena de suministro"
+   ],
+   "motivaciones": [
+    "Socios con impacto medible",
+    "Innovación y eficiencia",
+    "Imagen de marca responsable"
+   ],
+   "frenos": [
+    "Proveedores sin políticas RSE",
+    "Falta de referencias en Francia",
+    "Riesgo reputacional"
+   ],
+   "tono": "Institucional, sólido y basado en pruebas.",
+   "evitar": [
+    "Lenguaje informal",
+    "Greenwashing",
+    "Prometer sin datos"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Eventos profesionales",
+    "Prensa económica (Les Echos)",
+    "Email directo"
+   ],
+   "mensajes": [
+    "'Une performance mesurable, une démarche responsable.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z francesa (18–28)",
+   "resumen": "Nativa de TikTok y Snapchat; reina de la segunda mano (Vinted), los 'dupes' y los 'bons plans'. Presupuesto ajustado (estudiantes, primeros empleos, alquiler caro) pero gasta en experiencias, moda, belleza y gaming. Muy sensible a la autenticidad y a las causas sociales y ecológicas.",
+   "como_habla": "Verlan y argot de internet: 'c'est ouf', 'de ouf', 'chelou', 'j'avoue', 'en mode', 'le seum', 'une dinguerie', 'masterclass'. Tutea siempre y mezcla anglicismos.",
+   "dolores": [
+    "Alquiler caro y precariedad",
+    "Presión por el coste de la vida",
+    "Sensación de que las marcas fingen ser jóvenes"
+   ],
+   "motivaciones": [
+    "Autenticidad y humor",
+    "Segunda mano y sostenibilidad",
+    "Pertenecer a la tendencia del momento",
+    "Creadores de contenido de confianza"
+   ],
+   "frenos": [
+    "Envío caro",
+    "Anuncios demasiado pulidos",
+    "Marcas sin compromiso real"
+   ],
+   "tono": "Auténtico, irónico, rápido y sin sermones.",
+   "evitar": [
+    "Jerga forzada o pasada de moda",
+    "Paternalismo",
+    "Contenido largo sin gancho"
+   ],
+   "canales": [
+    "TikTok",
+    "Snapchat",
+    "Instagram",
+    "YouTube",
+    "Twitch"
+   ],
+   "mensajes": [
+    "'Le bon plan qui va te faire kiffer.'",
+    "'Stylé, pas cher, et ça dure.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials franceses (29–44)",
+   "resumen": "Activos en lo profesional y lo familiar; compran mucho en línea, usan apps de pago y de comparación, y equilibran precio con valores (ecología, local). Grandes usuarios de Vinted, Leboncoin y Back Market para equipar la casa y a los hijos.",
+   "como_habla": "Informal pero cuidado; usa 'bon plan', 'c'est top', 'trop bien', algo de franglais del trabajo.",
+   "dolores": [
+    "Falta de tiempo",
+    "Presupuesto familiar ajustado",
+    "Vivienda cara en grandes ciudades"
+   ],
+   "motivaciones": [
+    "Practicidad y ahorro de tiempo",
+    "Calidad duradera",
+    "Consumo responsable y local",
+    "Experiencias y viajes"
+   ],
+   "frenos": [
+    "Entregas poco fiables",
+    "Procesos de compra largos",
+    "Falta de transparencia sobre el origen"
+   ],
+   "tono": "Cercano, útil y honesto.",
+   "evitar": [
+    "Promesas vacías",
+    "Exceso de urgencia artificial"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "YouTube",
+    "TikTok",
+    "LinkedIn",
+    "Email"
+   ],
+   "mensajes": [
+    "'Moins de stress, plus de temps pour vous.'",
+    "'Le cadeau parfait, livré à temps pour Noël.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X francesa (45–60)",
+   "resumen": "Mayor poder adquisitivo y fidelidad a marcas de confianza; compra en grandes superficies, en su 'drive' (pedido en línea y recogida en el súper) y cada vez más en línea. Valora la calidad, el servicio posventa y la garantía.",
+   "como_habla": "Estándar y educado, con 'vous' ante marcas; humor clásico y referencias a la cultura francesa de los 80 y 90.",
+   "dolores": [
+    "Preocupación por la jubilación y el ahorro",
+    "Coste de la energía y del carburante",
+    "Apoyo económico a hijos y padres"
+   ],
+   "motivaciones": [
+    "Calidad y durabilidad",
+    "Garantía y servicio posventa",
+    "Marcas reconocidas",
+    "Ahorro inteligente"
+   ],
+   "frenos": [
+    "Desconfianza ante pagos en línea en sitios desconocidos",
+    "Atención solo por chat automático"
+   ],
+   "tono": "Profesional, cálido y claro.",
+   "evitar": [
+    "Jerga juvenil",
+    "Infantilizar",
+    "Tecnicismos sin explicar"
+   ],
+   "canales": [
+    "Facebook",
+    "YouTube",
+    "Email",
+    "Instagram",
+    "Televisión y radio"
+   ],
+   "mensajes": [
+    "'La qualité qui dure, le service qui suit.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers franceses (60+)",
+   "resumen": "Grupo numeroso con tiempo y ahorro; fieles al comercio de proximidad, a la prensa regional y a la televisión. Compran cada vez más en línea (sobre todo regalos para nietos) si el proceso es simple y seguro.",
+   "como_habla": "Formal y cortés, con 'vous'; aprecia el lenguaje claro y la cortesía.",
+   "dolores": [
+    "Miedo al fraude en línea",
+    "Complejidad de las webs y apps",
+    "Aislamiento"
+   ],
+   "motivaciones": [
+    "Regalar a hijos y nietos",
+    "Seguridad y confianza",
+    "Productos de calidad y salud"
+   ],
+   "frenos": [
+    "Pagos complicados",
+    "Letras pequeñas",
+    "Atención solo digital"
+   ],
+   "tono": "Respetuoso, paciente y tranquilizador.",
+   "evitar": [
+    "Anglicismos",
+    "Ritmo frenético",
+    "Humor juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "Email",
+    "YouTube",
+    "Televisión",
+    "Prensa regional"
+   ],
+   "mensajes": [
+    "'Simple, sûr, et un conseiller à votre écoute.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, trazabilidad, reparabilidad y segunda mano; el índice de reparabilidad y la etiqueta ecológica pesan en la decisión.",
+   "mensaje": "'Fabriqué pour durer, livré de façon responsable.'",
+   "evitar": "Greenwashing: la ley francesa sanciona las alegaciones ecológicas engañosas."
+  },
+  "ofertas": {
+   "como_llegarle": "Soldes, Black Friday, French Days y códigos promo; compara en sitios de comparación y grupos de 'bons plans'.",
+   "mensaje": "'Le vrai bon plan, prix de référence affiché.'",
+   "evitar": "Descuentos inflados: el porcentaje debe partir del precio más bajo de los últimos 30 días."
+  },
+  "aspiracional": {
+   "como_llegarle": "Savoir-faire, artesanía, lujo discreto y estética cuidada; Francia es cuna de grandes casas de lujo y el público es exigente.",
+   "mensaje": "'L'élégance, sans ostentation.'",
+   "evitar": "Ostentación y lujo 'bling-bling'."
+  },
+  "early-adopter": {
+   "como_llegarle": "Pruebas técnicas, comparativas y acceso anticipado; muy activo en YouTube y foros tecnológicos.",
+   "mensaje": "'Testez-le avant tout le monde.'",
+   "evitar": "Especificaciones exageradas o no comprobables."
+  },
+  "wellness": {
+   "como_llegarle": "Bienestar natural, dermocosmética de farmacia, alimentación sana y apps de escaneo de productos.",
+   "mensaje": "'Du naturel, sans compromis.'",
+   "evitar": "Promesas de salud sin respaldo."
+  },
+  "familia": {
+   "como_llegarle": "Practicidad, seguridad y ahorro para el hogar; la vuelta al cole y la Navidad son momentos clave.",
+   "mensaje": "'Pour toute la famille, au juste prix.'",
+   "evitar": "Estereotipos de género en el reparto de tareas."
+  },
+  "viajero": {
+   "como_llegarle": "Escapadas en tren, vacaciones escolares por zonas y 'ponts' (puentes festivos); valora la autenticidad local.",
+   "mensaje": "'Partez léger, revenez avec des souvenirs.'",
+   "evitar": "Turismo masivo y clichés."
+  },
+  "gamer": {
+   "como_llegarle": "Twitch, YouTube y Discord; hoy GTA VI, PS5 y Nintendo Switch 2 concentran la atención y las ofertas.",
+   "mensaje": "'Ton setup, ton style, ton prix.'",
+   "evitar": "Hablar de gaming sin conocerlo o con tono condescendiente."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinoamericanas en Francia (estudiantes, profesionales, parejas binacionales) que buscan productos y sabores de casa y regalos para su familia.",
+   "mensaje": "'Le goût de chez vous, où que vous soyez.' / 'El sabor de casa, donde estés.'",
+   "evitar": "Tratar la migración como drama o tema político."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Kiffer",
+   "significado": "Encantar, gustar mucho.",
+   "uso": "Todo el país, todas las edades menores de 50.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tu vas kiffer nos nouveautés de Noël.",
+   "equivalentes": {
+    "CO": "me encanta / me fascina",
+    "MX": "me late",
+    "EC": "me gusta full",
+    "ES": "me mola",
+    "AR": "me copa"
+   }
+  },
+  {
+   "expresion": "Un bon plan",
+   "significado": "Una ganga, una buena oferta o una buena idea práctica.",
+   "uso": "Todo el país; omnipresente en comercio y redes.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Le bon plan du Black Friday, c'est ici.",
+   "equivalentes": {
+    "CO": "una ganga",
+    "MX": "una ganga / un ofertón",
+    "EC": "una ganga",
+    "ES": "un chollo",
+    "AR": "una ganga / una oferta"
+   }
+  },
+  {
+   "expresion": "C'est ouf / de ouf",
+   "significado": "Increíble, una locura (verlan de 'fou', loco).",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Des prix de ouf jusqu'à dimanche.",
+   "equivalentes": {
+    "CO": "una chimba",
+    "MX": "está bien chido",
+    "EC": "bacán / full bueno",
+    "ES": "flipante",
+    "AR": "re zarpado / una locura"
+   }
+  },
+  {
+   "expresion": "Chelou",
+   "significado": "Raro, sospechoso (verlan de 'louche').",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Un prix trop bas ? C'est chelou.",
+   "equivalentes": {
+    "CO": "raro / sospechoso",
+    "MX": "raro / sospechoso",
+    "EC": "raro",
+    "ES": "raro",
+    "AR": "raro / turbio"
+   }
+  },
+  {
+   "expresion": "Relou",
+   "significado": "Pesado, molesto (verlan de 'lourd').",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Les frais de port cachés, c'est relou.",
+   "equivalentes": {
+    "CO": "qué jartera",
+    "MX": "qué hueva",
+    "EC": "qué fastidio",
+    "ES": "qué rollo / qué pesado",
+    "AR": "qué embole"
+   }
+  },
+  {
+   "expresion": "Avoir la flemme",
+   "significado": "Dar pereza, no tener ganas.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "La flemme de sortir ? On livre chez toi.",
+   "equivalentes": {
+    "CO": "qué pereza",
+    "MX": "qué flojera",
+    "EC": "qué vagancia",
+    "ES": "qué pereza / qué palo",
+    "AR": "qué paja"
+   }
+  },
+  {
+   "expresion": "Avoir le seum",
+   "significado": "Estar frustrado o fastidiado por algo.",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Rupture de stock ? On a le seum aussi.",
+   "equivalentes": {
+    "CO": "quedar picado",
+    "MX": "quedar ardido",
+    "EC": "quedar picado",
+    "ES": "quedarse rayado / con mal cuerpo",
+    "AR": "quedar caliente"
+   }
+  },
+  {
+   "expresion": "Galère / galérer",
+   "significado": "Situación complicada; pasarlo mal con algo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Fini la galère des retours.",
+   "equivalentes": {
+    "CO": "un camello / una vuelta",
+    "MX": "un rollo / batallar",
+    "EC": "un cachito / un lío",
+    "ES": "un marrón / una movida",
+    "AR": "un quilombo"
+   }
+  },
+  {
+   "expresion": "La thune",
+   "significado": "El dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Économise ta thune pour Noël.",
+   "equivalentes": {
+    "CO": "la plata",
+    "MX": "la lana",
+    "EC": "la plata",
+    "ES": "la pasta",
+    "AR": "la guita"
+   }
+  },
+  {
+   "expresion": "Les fringues",
+   "significado": "La ropa.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Des fringues stylées à petit prix.",
+   "equivalentes": {
+    "CO": "la ropa / la pinta",
+    "MX": "la ropa / los trapos",
+    "EC": "la ropa",
+    "ES": "la ropa / los trapitos",
+    "AR": "la ropa / la pilcha"
+   }
+  },
+  {
+   "expresion": "Un pote",
+   "significado": "Un amigo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Parraine un pote et gagne 10 €.",
+   "equivalentes": {
+    "CO": "un parce",
+    "MX": "un cuate",
+    "EC": "un pana",
+    "ES": "un colega",
+    "AR": "un amigo / un chabón"
+   }
+  },
+  {
+   "expresion": "Une teuf",
+   "significado": "Una fiesta (verlan de 'fête').",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "La tenue parfaite pour la teuf du Nouvel An.",
+   "equivalentes": {
+    "CO": "una rumba",
+    "MX": "una peda / un reventón",
+    "EC": "una farra",
+    "ES": "una fiesta / un fiestón",
+    "AR": "una joda"
+   }
+  },
+  {
+   "expresion": "Chiller",
+   "significado": "Relajarse, descansar (del inglés 'chill').",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ce week-end, on chille sous le plaid.",
+   "equivalentes": {
+    "CO": "relajarse / parchar",
+    "MX": "chillear / relajarse",
+    "EC": "relajarse",
+    "ES": "estar de chill",
+    "AR": "estar de chill / relajar"
+   }
+  },
+  {
+   "expresion": "Grave",
+   "significado": "Totalmente, muchísimo (como adverbio).",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ce pull, je le veux grave.",
+   "equivalentes": {
+    "CO": "full / demasiado",
+    "MX": "un buen / bien",
+    "EC": "full",
+    "ES": "mucho / un montón",
+    "AR": "re / mal"
+   }
+  },
+  {
+   "expresion": "C'est chaud",
+   "significado": "Está difícil o complicado (también: está buenísimo o picante, según el contexto).",
+   "uso": "Todo el país, sobre todo jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Finir ses cadeaux le 24 ? C'est chaud.",
+   "equivalentes": {
+    "CO": "está berraco",
+    "MX": "está cañón",
+    "EC": "está complicado",
+    "ES": "está chungo",
+    "AR": "está complicado / está heavy"
+   }
+  },
+  {
+   "expresion": "Être fauché",
+   "significado": "Estar sin dinero.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Fauché après les fêtes ? Paie en 4 fois.",
+   "equivalentes": {
+    "CO": "estar pelado",
+    "MX": "andar bruja / sin lana",
+    "EC": "estar chiro",
+    "ES": "estar sin blanca / tieso",
+    "AR": "estar seco / en llanta"
+   }
+  },
+  {
+   "expresion": "Ça marche",
+   "significado": "De acuerdo, vale, perfecto.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Commande avant 14 h, livré demain ? Ça marche.",
+   "equivalentes": {
+    "CO": "listo / de una",
+    "MX": "va / sale",
+    "EC": "ya / de ley",
+    "ES": "vale",
+    "AR": "dale"
+   }
+  },
+  {
+   "expresion": "Un truc",
+   "significado": "Una cosa, un algo (cuando no se precisa el nombre).",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Le petit truc en plus pour tes cadeaux.",
+   "equivalentes": {
+    "CO": "una vaina / una cosa",
+    "MX": "una cosa / un chunche",
+    "EC": "una vaina",
+    "ES": "una cosa / un chisme",
+    "AR": "una cosa / un coso"
+   }
+  },
+  {
+   "expresion": "Une bagnole / une caisse",
+   "significado": "Un coche, un auto.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Les accessoires indispensables pour ta bagnole.",
+   "equivalentes": {
+    "CO": "un carro / la nave",
+    "MX": "un carro / la nave",
+    "EC": "un carro",
+    "ES": "un coche / un buga",
+    "AR": "un auto / una nave"
+   }
+  },
+  {
+   "expresion": "La bouffe",
+   "significado": "La comida.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "De la bonne bouffe, livrée chez toi.",
+   "equivalentes": {
+    "CO": "la comida / el algo",
+    "MX": "la comida / el refine",
+    "EC": "la comida",
+    "ES": "la comida / el papeo",
+    "AR": "la comida / el morfi"
+   }
+  },
+  {
+   "expresion": "Être crevé",
+   "significado": "Estar agotado, muerto de cansancio.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Crevé ? On s'occupe du dîner.",
+   "equivalentes": {
+    "CO": "estar mamado",
+    "MX": "estar muerto",
+    "EC": "estar molido",
+    "ES": "estar reventado",
+    "AR": "estar fusilado / muerto"
+   }
+  },
+  {
+   "expresion": "Vénère",
+   "significado": "Enfadado, molesto (verlan de 'énervé').",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Colis en retard ? Pas de quoi être vénère, on te tient au courant.",
+   "equivalentes": {
+    "CO": "emputado / bravo",
+    "MX": "enojado / encabronado",
+    "EC": "iracundo / bravo",
+    "ES": "cabreado",
+    "AR": "caliente / enojado"
+   }
+  },
+  {
+   "expresion": "Cimer",
+   "significado": "Gracias (verlan de 'merci').",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Cimer pour vos 10 000 abonnés !",
+   "equivalentes": {
+    "CO": "gracias / mil gracias",
+    "MX": "gracias",
+    "EC": "gracias",
+    "ES": "gracias",
+    "AR": "gracias / grande"
+   }
+  },
+  {
+   "expresion": "En mode",
+   "significado": "En plan, como si..., en actitud de...",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ce soir, en mode cocooning.",
+   "equivalentes": {
+    "CO": "en modo",
+    "MX": "en modo / en plan",
+    "EC": "en modo",
+    "ES": "en plan",
+    "AR": "en modo / tipo"
+   }
+  },
+  {
+   "expresion": "Trop stylé",
+   "significado": "Muy bonito, con mucho estilo.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ce sac est trop stylé.",
+   "equivalentes": {
+    "CO": "muy chimba / muy bonito",
+    "MX": "bien chido / bien padre",
+    "EC": "bien bacán",
+    "ES": "muy chulo",
+    "AR": "re lindo / re canchero"
+   }
+  },
+  {
+   "expresion": "J'avoue",
+   "significado": "Lo reconozco, totalmente de acuerdo.",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ce prix ? J'avoue, c'est cadeau.",
+   "equivalentes": {
+    "CO": "sí, de una",
+    "MX": "neta, sí",
+    "EC": "de ley",
+    "ES": "ya ves / total",
+    "AR": "posta / tal cual"
+   }
+  },
+  {
+   "expresion": "C'est cadeau",
+   "significado": "Va de regalo, es gratis (o es casi regalado).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "La livraison ? C'est cadeau.",
+   "equivalentes": {
+    "CO": "va de ñapa",
+    "MX": "va de pilón",
+    "EC": "va de yapa",
+    "ES": "va de regalo",
+    "AR": "va de yapa"
+   }
+  },
+  {
+   "expresion": "Une dinguerie",
+   "significado": "Una locura (en sentido positivo), algo impresionante.",
+   "uso": "Jóvenes, muy usado en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Cette promo, c'est une dinguerie.",
+   "equivalentes": {
+    "CO": "una chimba",
+    "MX": "una locura / poca madre",
+    "EC": "una bestialidad",
+    "ES": "una pasada",
+    "AR": "una locura / un flash"
+   }
+  },
+  {
+   "expresion": "Le boulot / le taf",
+   "significado": "El trabajo.",
+   "uso": "Todo el país, todas las edades ('taf' más juvenil).",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "La tenue idéale pour le boulot.",
+   "equivalentes": {
+    "CO": "la camella / el trabajo",
+    "MX": "la chamba",
+    "EC": "el camello / la chamba",
+    "ES": "el curro",
+    "AR": "el laburo"
+   }
+  },
+  {
+   "expresion": "Bosser",
+   "significado": "Trabajar.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tu bosses dur, fais-toi plaisir.",
+   "equivalentes": {
+    "CO": "camellar / trabajar",
+    "MX": "chambear",
+    "EC": "camellar",
+    "ES": "currar",
+    "AR": "laburar"
+   }
+  },
+  {
+   "expresion": "Râler",
+   "significado": "Quejarse, refunfuñar (rasgo cultural que los franceses asumen con humor).",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Même les plus râleurs vont adorer.",
+   "equivalentes": {
+    "CO": "quejarse / renegar",
+    "MX": "quejarse / rezongar",
+    "EC": "quejarse / renegar",
+    "ES": "quejarse / refunfuñar",
+    "AR": "quejarse / rezongar"
+   }
+  },
+  {
+   "expresion": "Laisse tomber",
+   "significado": "Olvídalo, déjalo estar.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Les files d'attente ? Laisse tomber, commande en ligne.",
+   "equivalentes": {
+    "CO": "olvídalo / déjalo así",
+    "MX": "olvídalo / ni modo",
+    "EC": "olvídate",
+    "ES": "olvídalo / déjalo",
+    "AR": "olvidate / dejá"
+   }
+  },
+  {
+   "expresion": "En avoir marre",
+   "significado": "Estar harto.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Marre des frais cachés ? Nous aussi.",
+   "equivalentes": {
+    "CO": "estar mamado",
+    "MX": "estar hasta el gorro",
+    "EC": "estar harto",
+    "ES": "estar hasta las narices",
+    "AR": "estar podrido"
+   }
+  },
+  {
+   "expresion": "Frérot",
+   "significado": "Hermanito; amigo muy cercano.",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Frérot, t'as vu la promo ?",
+   "equivalentes": {
+    "CO": "parcero / llave",
+    "MX": "carnal / bro",
+    "EC": "ñaño",
+    "ES": "tío / bro",
+    "AR": "hermano / boludo (confianza)"
+   }
+  },
+  {
+   "expresion": "Meuf",
+   "significado": "Mujer, chica; también 'novia' (verlan de 'femme').",
+   "uso": "Jóvenes; puede sonar irrespetuoso según el contexto.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "Avec ma meuf, on a craqué pour ce resto.",
+   "equivalentes": {
+    "CO": "la novia / la vieja",
+    "MX": "la morra / la novia",
+    "EC": "la man / la novia",
+    "ES": "la piba / la novia",
+    "AR": "la piba / la novia"
+   }
+  },
+  {
+   "expresion": "Craquer (pour)",
+   "significado": "Caer en la tentación, no resistirse a comprar algo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Vous allez craquer pour notre calendrier de l'Avent.",
+   "equivalentes": {
+    "CO": "antojarse",
+    "MX": "antojarse",
+    "EC": "antojarse",
+    "ES": "darse un capricho",
+    "AR": "tentarse"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#France",
+   "#Paris",
+   "#Lyon",
+   "#Marseille",
+   "#MadeInFrance",
+   "#BonPlan",
+   "#Entrepreneur",
+   "#ShoppingFrance"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Hauls y 'bons plans' con precio final",
+     "Antes / después (rénovation, look, setup)",
+     "Storytime de emprendedor ('ma petite entreprise')",
+     "Respuestas a comentarios con video"
+    ],
+    "ganchos": [
+     "'Le bon plan que personne ne connaît…'",
+     "'J'ai testé pour vous : ça vaut le coup ?'",
+     "'Ce prix, c'est une dinguerie'"
+    ],
+    "horario": "18:00–22:00 entre semana; mediodía y noche los fines de semana",
+    "hashtags": [
+     "#TikTokFrance",
+     "#BonPlan",
+     "#PourToi",
+     "#BlackFriday",
+     "#Vinted"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Carruseles de comparativas y guías de regalos",
+     "Reels de producto con estética cuidada",
+     "Historias con códigos promo y encuestas",
+     "Colaboraciones con microcreadores locales"
+    ],
+    "ganchos": [
+     "'Idées cadeaux de Noël à moins de 30 €'",
+     "'5 erreurs à éviter pendant le Black Friday'"
+    ],
+    "horario": "12:00–14:00 y 19:00–21:30",
+    "hashtags": [
+     "#IdéeCadeau",
+     "#MadeInFrance",
+     "#Noël2026",
+     "#ShoppingAddict",
+     "#PetiteEntreprise"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Tests y comparativas detalladas",
+     "Unboxing de tecnología y gaming",
+     "Vlogs de 'ma vie d'entrepreneur'",
+     "Shorts con trucos de compra"
+    ],
+    "ganchos": [
+     "'Le meilleur rapport qualité-prix de 2026 ?'",
+     "'J'ai acheté le produit le moins cher d'Amazon'"
+    ],
+    "horario": "18:00–21:00; domingos por la tarde",
+    "hashtags": [
+     "#Test",
+     "#Unboxing",
+     "#BlackFriday2026",
+     "#BonPlan"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Aprendizajes de temporada alta",
+     "Casos de pymes francesas que exportan",
+     "Datos de consumo y e-commerce en Francia"
+    ],
+    "ganchos": [
+     "'Ce que notre premier Black Friday nous a appris'",
+     "'3 chiffres sur le consommateur français avant Noël'"
+    ],
+    "horario": "Martes a jueves, 08:00–10:00 y 12:00–13:00",
+    "hashtags": [
+     "#Ecommerce",
+     "#Entrepreneuriat",
+     "#Export",
+     "#Retail",
+     "#PME"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones para grupos locales y de barrio",
+     "Videos cortos con ofertas",
+     "Eventos (mercados de Navidad, ventas privadas)",
+     "Marketplace para productos de segunda mano"
+    ],
+    "ganchos": [
+     "'Commerce de proximité : nos offres de Noël'",
+     "'Livraison gratuite en point relais jusqu'au 20 décembre'"
+    ],
+    "horario": "12:00–14:00 y 19:00–21:00",
+    "hashtags": [
+     "#CommerceLocal",
+     "#Noël",
+     "#BonPlan",
+     "#MarchéDeNoël"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Hilos de 'bons plans' en tiempo real",
+     "Reacción a lanzamientos tecnológicos y de videojuegos",
+     "Atención al cliente pública"
+    ],
+    "ganchos": [
+     "'THREAD : les vraies bonnes affaires du Black Friday'",
+     "'Dispo maintenant :'"
+    ],
+    "horario": "08:00–10:00 y 18:00–20:00",
+    "hashtags": [
+     "#BlackFriday",
+     "#BonPlan",
+     "#GTA6",
+     "#PS5"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Café de especialidad latinoamericano",
+   "senal": "Francia consume mucho café y crecen las cafeterías y tostadores independientes en París, Lyon y Burdeos, con interés por el origen y la trazabilidad.",
+   "desde": "CO",
+   "hacia": "FR",
+   "sector": "cafe-cacao",
+   "accion": "Señal para investigar: contenido de origen y finca dirigido a tostadores y tiendas gourmet francesas."
+  },
+  {
+   "titulo": "Cacao fino de aroma para chocolateros",
+   "senal": "Francia tiene una fuerte tradición chocolatera artesanal y la Navidad es su temporada alta; valora el cacao de origen.",
+   "desde": "EC",
+   "hacia": "FR",
+   "sector": "cafe-cacao",
+   "accion": "Explorar alianzas con chocolateros artesanales contando la historia del cacao fino de aroma."
+  },
+  {
+   "titulo": "Flores para la Fête des Mères y San Valentín",
+   "senal": "La rosa de Ecuador y Colombia llega a Europa a través de Países Bajos; en Francia el Día de la Madre se celebra el último domingo de mayo (30 de mayo de 2027).",
+   "desde": "EC",
+   "hacia": "FR",
+   "sector": "flores-agro",
+   "accion": "Señal para investigar: preparar contenido B2B para floristas franceses con antelación a San Valentín y mayo."
+  },
+  {
+   "titulo": "Dermocosmética francesa en Latinoamérica",
+   "senal": "Las marcas de cosmética de farmacia francesa son muy populares en redes latinoamericanas y el Black Friday francés trae fuertes descuentos en belleza.",
+   "desde": "FR",
+   "hacia": "MX",
+   "sector": "belleza",
+   "accion": "Contenido educativo sobre rutinas y autenticidad del producto, verificando las normas sanitarias de cada país."
+  },
+  {
+   "titulo": "Artesanía y decoración latinoamericana",
+   "senal": "Interés por la renovación del hogar y por objetos con historia y hechos a mano; la segunda mano y lo artesanal están normalizados.",
+   "desde": "PE",
+   "hacia": "FR",
+   "sector": "artesanias",
+   "accion": "Señal para investigar: tiendas de decoración y mercados de diseño franceses, con fotos de taller y certificación de origen."
+  }
+ ],
+ "anuncios": [],
+ "ocultar": [
+  "hautes-pyrénées",
+  "alexandre despallières",
+  "saint-avold",
+  "guillaume guérin",
+  "vigilance forte inondations",
+  "2027",
+  "mélenchon",
+  "loup",
+  "eau",
+  "épargne",
+  "Le Gard et les Bouches-du-Rhône placés en vigilance orange \"pluie-inondation\" dès 20 heures samedi",
+  "Volodymyr Zelensky affirme que les États-Unis ont proposé à l'Ukraine des concessions territoriales en échange d'une adhésion à l'Otan",
+  "Rodéo urbain : un adolescent de 15 ans tué lors d’une course de voitures sauvage près de Clermont-Ferrand",
+  "Les syndicats de fonctionnaires sortent remontés de Matignon et maintiennent l’appel à la grève le 17 novembre",
+  "Les défis d'une Francophonie fragilisée par la crise du multilatéralisme et les tensions internes",
+  "EXCLUSIF - Cyberattaque : ce prestataire externe par lequel les hackeurs ont accédé au coffre-fort d'Arkéa",
+  "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
+  "« La fanfare, la révolution » : comment cet hymne des manifestations est devenu viral en France et au-delà",
+  "«No Nut November»: une tendance TikTok qui invite à réfléchir à sa sexualité",
+  "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation",
+  "Protection de l’enfance, usage des armes, gilets jaunes… Un samedi de convergence des luttes pour cet acte V contre la vie chère en France",
+  "Direct Manifestation du 14 novembre à Paris : le cortège arrive sur la place de la Nation, de légères tensions",
+  "Quinté du 14/11/2026 à Paris-Vincennes : Jaifa de l'Iton, en plein épanouissement",
+  "Manifestation du 14 novembre à Paris : le parcours validé ce samedi",
+  "Manifestations du 14 novembre à Paris : ces 21 stations de métro seront fermées dès 11 h",
+  "Trafic de drogue et libertinage à Paris : les liaisons dangereuses du gendarme et du dealer pour personnalités médiatiques"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Black Friday sin trampa",
+   "idea": "En Francia, el descuento debe calcularse sobre el precio más bajo de los últimos 30 días y el público lo vigila. Muestra el 'prix de référence' junto a la oferta en cada producto: transmite honestidad a dos semanas del Black Friday del 27 de noviembre.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Setup GTA VI",
+   "idea": "GTA VI rompe récords y la prensa francesa habla de nuevas pantallas, mandos y PS5 agotándose. Graba un TikTok con tres setups (petit budget, moyen, de ouf) y el precio total de cada uno.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "El Black Friday del barrio",
+   "idea": "Los pequeños comercios también se suman al Black Friday. Si tienes tienda física, cuenta en un Reel por qué comprar cerca (asesoría, retiro en tienda, cambio fácil) y lanza un 'bon plan' exclusivo para clientes del barrio.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Avant/après de la casa",
+   "idea": "'Maison' fue de lo más buscado por una historia de renovación convertida en negocio. Marcas de hogar o decoración pueden abrir una serie semanal de antes y después con presupuesto real y consejos para el invierno.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Caja de regalo para Noël",
+   "idea": "Las cajas por suscripción ya lanzan códigos de Black Friday para regalar en Navidad. Propón tu propia 'box' o pack de regalo con precio cerrado y envío a punto relais incluido, y comunícalo antes del 27 de noviembre.",
+   "formato": "Copy para anuncio"
+  }
+ ]
+}

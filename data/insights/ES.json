@@ -1,100 +1,106 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-14T13:03:00Z",
+ "actualizado": "2026-11-14T17:00:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España entra en la recta final hacia el Black Friday del 27 de noviembre con ofertas anticipadas en belleza, móviles y moda básica, pero también con un consumidor desconfiado que lee que habrá más subidas que bajadas de precios. La gran novedad es la inteligencia artificial: se estima que una parte creciente de las compras pasará por asistentes y agentes de IA, lo que obliga a tener fichas de producto claras. La vivienda sigue siendo preocupación de fondo y el lanzamiento de GTA VI acapara a los jugadores. Ganan los mensajes honestos con histórico de precios y devoluciones fáciles.",
+ "lectura": "A dos semanas del Black Friday, el consumidor español quiere chollos pero desconfía: se habla de que habrá más subidas que bajadas de precios y de millones de personas que se endeudarán para comprar, así que gana quien enseña el precio real y ayuda a planificar. La IA empieza a decidir parte de las compras y la logística avisa de menos ritmo, por lo que conviene cuidar las fichas de producto y los plazos de entrega. El lanzamiento de GTA VI el 19 de noviembre, la belleza viral de bajo coste y las alertas por tormentas marcan la conversación del fin de semana. Funcionan los mensajes honestos de ahorro, la compra planificada y la entrega clara antes de Navidad.",
  "ideas_hoy": [
   {
-   "titulo": "Tu histórico de precios, a la vista",
-   "idea": "Circula que en Black Friday habrá más subidas que bajadas. Publica el precio de tus productos de las últimas semanas junto al de la oferta; esa transparencia es tu mejor argumento.",
+   "titulo": "Black Friday sin deudas",
+   "idea": "Se calcula que cinco millones de españoles se endeudarán para comprar en Black Friday y Consumo recomienda planificar. Publica una lista de compra con tus productos, el precio final y el precio de las semanas anteriores para demostrar que tu descuento es real.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Fichas listas para la IA",
-   "idea": "Se prevé que buena parte de las compras de Black Friday pasen por asistentes de IA. Revisa títulos, medidas, materiales y políticas de devolución de tu tienda online: lo que la IA no entiende, no lo recomienda.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Básicos que sí merecen la pena",
-   "idea": "Las guías de 'prendas básicas que vale la pena comprar' están circulando. Haz tu propia selección de 5 básicos de tu catálogo con por qué duran, en tono de consejo de amiga, guay pero sin exagerar.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Setup para GTA VI",
-   "idea": "La precarga de GTA VI dispara el interés gamer. Tiendas de tecnología y accesorios pueden armar un 'setup listo para el lanzamiento' con mandos, auriculares y almacenamiento.",
+   "titulo": "El chollo viral de belleza",
+   "idea": "Un corrector de Maybelline de menos de 10 euros es viral en TikTok. Si vendes cosmética, pruébalo frente a tus alternativas con luz natural y di sin rodeos cuál mola más y por qué.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Finde de lluvia en Madrid",
-   "idea": "Se esperan lluvias y cielos cubiertos en Madrid el fin de semana. Restaurantes, cines y tiendas de hogar pueden proponer planes de casa o bajo techo con una oferta solo para el sábado y domingo.",
-   "formato": "Historias de Instagram"
+   "titulo": "Fichas que entiende la IA",
+   "idea": "Se prevé que la IA haga más del 30% de las compras de este Black Friday en España. Revisa tus fichas: medidas, materiales, plazos y devoluciones claros ayudan tanto al cliente como a los asistentes que comparan por él. Cuéntalo como aprendizaje para tu sector.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Finde de tormenta, plan en casa",
+   "idea": "Hay alerta naranja y amarilla por tormentas y lluvia en Madrid este fin de semana. Propón planes en casa con tus productos (mantas, juegos, cocina, series) y avisa si puede haber retrasos en las entregas.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Cuenta atrás para GTA VI",
+   "idea": "GTA VI sale el 19 de noviembre y ya tiene precarga disponible. Enseña el setup ideal (mando, auriculares, silla, iluminación) con precios y pásalo como idea de regalo de Navidad.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
+   "termino": "renfe media distancia",
+   "color": "amarillo",
+   "por_que": "Renfe cambiará los colores de sus trenes (AVE azul oscuro, regionales morado) en un momento delicado para el servicio ferroviario.",
+   "idea": "Para diseño y branding: analiza el cambio de identidad visual con tacto, sin bromear con el servicio a los viajeros."
+  },
+  {
+   "termino": "plaga",
+   "color": "amarillo",
+   "por_que": "Preocupan las plagas en los cultivos de invernadero de Almería, además de la curiosa plaga de pulpos en Reino Unido.",
+   "idea": "Agro, jardinería y hogar: consejos prácticos de prevención y productos permitidos, sin alarmismo."
+  },
+  {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Preocupación de fondo por la falta de vivienda disponible; tema sensible para muchos hogares.",
-   "idea": "Para hogar y decoración: ideas para aprovechar pisos pequeños, con empatía y sin frivolizar el problema."
+   "por_que": "Preocupación de fondo por la falta de pisos disponibles frente a más hogares; tema sensible para muchas familias.",
+   "idea": "Hogar y decoración: ideas para aprovechar pisos pequeños, con empatía y sin entrar en el debate."
+  },
+  {
+   "termino": "supermercado",
+   "color": "verde",
+   "por_que": "Mercadona abre el lunes un nuevo supermercado en Aranda: interés por aperturas y cesta de la compra.",
+   "idea": "Comercio local: contenido de 'lo que no encuentras en el súper' y comparativas honestas de calidad y precio."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento esperadísimo con precarga disponible: máxima atención gamer.",
-   "idea": "Packs de accesorios, contenido de 'preparando el lanzamiento' y directos en Twitch o TikTok."
-  },
-  {
-   "termino": "spacex starship",
-   "color": "verde",
-   "por_que": "Curiosidad tecnológica por los ensayos de Starship.",
-   "idea": "Contenidos de divulgación o merchandising espacial para marcas de tecnología y educación."
-  },
-  {
-   "termino": "el tiempo en madrid",
-   "color": "verde",
-   "por_que": "Fin de semana con lluvias y cielo cubierto en la capital.",
-   "idea": "Planes bajo techo, delivery y ropa impermeable con mensajes de cercanía."
-  },
-  {
-   "termino": "wall street",
-   "color": "verde",
-   "por_que": "Interés por la volatilidad de los valores tecnológicos tras la semana agitada de Nvidia.",
-   "idea": "Para fintech y educación financiera: explicadores sencillos sin dar recomendaciones de inversión."
+   "por_que": "Lanzamiento esperadísimo el 19 de noviembre, con precarga ya disponible: máxima atención gamer.",
+   "idea": "Packs de accesorios, directos de 'preparando el lanzamiento' y guías de regalo gamer."
   }
  ],
  "ocultar": [
+  "comisión nacional de los mercados y la competencia",
+  "miniserie",
+  "jordi wild pedro sánchez",
+  "entrevista jordi wild pedro sanchez",
+  "sorteo cuponazo once",
+  "alberto núñez feijóo",
+  "juan carlos i",
+  "pedro sánchez pérez-castejón",
+  "crucero nueva orleans",
+  "peru vs bolivia",
+  "noruega - gales",
+  "ap7",
+  "seguridad ferroviaria",
   "angelina jolie",
   "a coruña",
   "kaja kallas",
-  "miniserie",
-  "pedro sánchez pérez-castejón",
-  "alberto núñez feijóo",
-  "juan carlos i",
-  "jordi wild pedro sánchez",
-  "entrevista jordi wild pedro sanchez",
   "begoña gómez fernández",
   "lara ferreiro",
-  "seguridad ferroviaria",
+  "pobreza",
+  "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
+  "Abascal pide el voto para el PP a quienes discrepen de sus propuestas: \"Hay que echar a Sánchez\"",
+  "El \"fact-checking\" del debate de laSexta: de las afirmaciones sobre las pensiones a la vivienda",
+  "La UCO implica a Corvillo, el empresario que hizo de chófer de Sánchez, en pagos a Ábalos",
+  "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
+  "Feijóo resume el sanchismo en la “corrupción, machismo, incompetencia y soberbia” de Ábalos y Puente en Transportes: “El cambio es decencia”",
+  "Buscan a un turista borracho por robar una estatua de un Cristo en Lituania y hacerla añicos en la calle",
+  "Cómo los ‘amores’ furtivos acabaron con altos cargos directivos antes del caso de Jensen Huang en Nvidia",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
+  "Desmantelan en España una red de ciberestafas bancarias en TikTok",
   "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
   "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
-  "Ofrecían 100 euros por abrir una cuenta bancaria: así funcionaba la captación en TikTok",
   "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Ofrecían 100 euros por abrir una cuenta bancaria: así funcionaba la captación en TikTok",
+  "Banco Santander, El Corte Inglés, Eroski y Moeve dejan de anunciarse en TikTok por el escándalo de los vídeos pedófilos",
+  "Quién es Ángel Gaitán, el mecánico que entrevistó a Santiago Abascal tras hacerse conocido en TikTok",
   "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
-  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
-  "Sánchez estuvo en Córdoba el mismo día que Corvillo asegura haberse reunido con él allí",
-  "La Unión Europea descartó un negociador único y designó un equipo para los contactos sobre Ucrania",
-  "Cómo ha votado España en las generales desde 1982, calle a calle",
-  "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
-  "Vaquero (PNV): PP-Vox nos tendrán enfrente, pero no cejaremos en trabajar por Euskadi",
-  "Los profesores de Madrid cumplen un mes de huelga y Zarzalejo acusa a los sindicatos por prolongarla: \"Los alumnos se juegan el curso\"",
-  "Sáhara Occidental | La manifestación de hoy llega cuando el futuro del pueblo saharaui vuelve a estar en juego",
-  "La Audiencia amplía la causa penal contra el exdirector de Educación",
-  "Los expertos ven inconstitucional la orden de Ayuso para prohibir mensajes en favor de la huelga educativa",
-  "Un McLaren robado aparece en una reunión de autos en Detroit",
-  "Bessent pide restringir las exportaciones de chips de Nvidia tras el escándalo de su exCEO y apunta al secretario de Comercio",
-  "Scott Bessent señala al Departamento de Comercio de EE.UU. por no restringir las exportaciones de chips de Nvidia",
-  "pobreza"
+  "Contemporánea Condeduque acoge la exposición ‘Fronteras del clima’, del fotoperiodista Santi Palacios",
+  "La vivienda centra la propuesta del PSN, con Barcelona como ejemplo de control de precios"
  ],
  "audiencias": {
   "general": {
@@ -994,19 +1000,50 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envíos internacionales",
-   "total": 338,
+   "busqueda": "Black Friday envío gratis",
+   "total": 5736,
    "anunciantes": [
     {
-     "nombre": "ParaTigift",
-     "url": "https://www.facebook.com/ads/library/?id=1416330454899280"
+     "nombre": "Zentitanium",
+     "url": "https://www.facebook.com/ads/library/?id=1418376503402833"
     },
     {
-     "nombre": "Aoleao Adventure",
-     "url": "https://www.facebook.com/ads/library/?id=1863176741532675"
+     "nombre": "Casa Isabella",
+     "url": "https://www.facebook.com/ads/library/?id=1130104876406610"
+    },
+    {
+     "nombre": "Souvibook",
+     "url": "https://www.facebook.com/ads/library/?id=2335101863997517"
+    },
+    {
+     "nombre": "Durii Editorial",
+     "url": "https://www.facebook.com/ads/library/?id=1330787425775889"
+    },
+    {
+     "nombre": "Valentina Massimo",
+     "url": "https://www.facebook.com/ads/library/?id=1711581760585498"
     }
    ],
-   "patron": "En España la búsqueda la dominan tiendas de regalos personalizados que ofrecen envío internacional con mensajes de Navidad muy emocionales ('Solo hay una primera Navidad', 'Esta Navidad ya sois uno más'). El regalo personalizado y con historia es el gancho de temporada."
+   "patron": "El Black Friday ya arrancó dos semanas antes: '-50% hoy', packs ('2 libros -41%', 'dos camisetas 59,90 €', '2 comprados = 4 en casa') y el regalo como gancho ('Regala… con un 50% OFF'). El envío gratis aparece como urgencia ('solo HOY'). Ojo: algunas páginas genéricas de 'ofertas' pagan en dólares; conviene que la marca muestre datos de empresa y devoluciones para diferenciarse."
+  },
+  {
+   "busqueda": "envíos a Latinoamérica",
+   "total": 29,
+   "anunciantes": [
+    {
+     "nombre": "Liberty Express España",
+     "url": "https://www.facebook.com/ads/library/?id=1414363087245037"
+    },
+    {
+     "nombre": "ZenMarket - Compras a Japón",
+     "url": "https://www.facebook.com/ads/library/?id=952815621001999"
+    },
+    {
+     "nombre": "Remitly",
+     "url": "https://www.facebook.com/ads/library/?id=2926562087707199"
+    }
+   ],
+   "patron": "Poca pauta específica de envíos de paquetería de España a Latinoamérica (unos 29 anuncios activos): aparecen courier, compras proxy y remesas, mezclados con cursos de negocio digital. El nicho de envíos para la comunidad latina en España tiene poca competencia publicitaria visible en Meta."
   }
  ]
 }

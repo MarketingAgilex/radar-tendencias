@@ -1,38 +1,38 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-14T13:00:00Z",
+ "actualizado": "2026-11-14T17:00:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor canadiense entra en la temporada navideña con el bolsillo apretado: las encuestas del sector anticipan menos gasto en regalos, más uso de puntos de lealtad, compras de segunda mano y comparación de precios con ayuda de IA. Al mismo tiempo, el Black Friday (27 de noviembre) ya arrancó con ofertas anticipadas y los mercados navideños locales en Toronto, Montreal y otras ciudades refuerzan el 'compra local / hecho en Canadá'. Las primeras nevadas en Ontario y el riesgo de tormenta en Quebec la próxima semana disparan las búsquedas de clima: buen momento para artículos de invierno y para comunicar fechas límite de entrega. Funcionan los mensajes de valor real, precio final transparente y producto local o con historia, en inglés y también en francés para Quebec.",
+ "lectura": "A menos de dos semanas del Black Friday del 27 de noviembre, el consumidor canadiense ya compara ofertas anticipadas en tecnología, cocina y relojes, pero planea gastar menos en regalos y se apoya en la IA, los programas de puntos y la segunda mano. Los mercadillos navideños de artesanos y los primeros copos en Ontario y Montreal marcan el arranque de la temporada de invierno. La polémica por un cargo de servicio del 20% en una cadena de restaurantes y las cancelaciones de vuelos por la parada aérea en EE. UU. muestran que hoy se premia el precio claro y la información puntual. Funcionan los mensajes de valor real, regalo útil y fechas de entrega confirmadas.",
  "semaforo": [
   {
-   "termino": "météo",
+   "termino": "ford's garage",
+   "color": "amarillo",
+   "por_que": "Polémica por un cargo de servicio del 20% que molestó a los clientes; la cadena se plantea revisarlo.",
+   "idea": "Úsalo como aprendizaje: comunica precios finales claros y sin recargos sorpresa, sin atacar a la marca."
+  },
+  {
+   "termino": "ana de armas",
    "color": "verde",
-   "por_que": "Es la búsqueda con más tráfico del día: Quebec sigue el pronóstico ante un posible temporal la próxima semana.",
-   "idea": "Contenido en francés de 'prépare-toi pour l'hiver': kits de invierno, ropa térmica y aviso de entregas antes de la tormenta."
+   "por_que": "Su debut en alfombra roja junto a Beto Montenegro en los Latin Grammy genera conversación de moda y estilo.",
+   "idea": "Para moda y belleza: recrea su look de gala con tus productos y precios por pieza."
+  },
+  {
+   "termino": "pont pierre laporte",
+   "color": "amarillo",
+   "por_que": "Obras nocturnas en el puente de Quebec dejan un solo carril por sentido durante varias noches de noviembre.",
+   "idea": "Negocios con reparto o tienda en la zona de Quebec: avisa horarios y rutas alternativas para recoger o recibir pedidos."
   },
   {
    "termino": "country music",
    "color": "verde",
-   "por_que": "La gala de premios de la música country, con grandes estrellas anunciadas, genera conversación de entretenimiento y estilo.",
-   "idea": "Playlists de marca, looks de inspiración western (botas, sombreros, denim) y guías de regalo para fans."
+   "por_que": "La 60.ª gala de premios de la música country, con grandes estrellas anunciadas, impulsa la conversación de entretenimiento.",
+   "idea": "Guía de regalos para fans y looks de inspiración western: botas, sombreros y denim."
   },
   {
-   "termino": "microsoft xbox playback",
+   "termino": "météo",
    "color": "verde",
-   "por_que": "Los resúmenes anuales personalizados ('tu año en…') vuelven a ser tendencia entre gamers.",
-   "idea": "Crea tu propio 'recap 2026' para clientes: lo más vendido, lo más pedido y una oferta de cierre de año."
-  },
-  {
-   "termino": "ontario snow forecast",
-   "color": "verde",
-   "por_que": "Llegan las primeras nevadas al sur de Ontario y la gente se prepara para el invierno.",
-   "idea": "Reel de 'lo que necesitas antes de la primera nevada' con tuques, botas, guantes y productos para el carro."
-  },
-  {
-   "termino": "clima",
-   "color": "amarillo",
-   "por_que": "Búsqueda en español: la comunidad hispanohablante también consulta el tiempo, pero sin una noticia concreta detrás.",
-   "idea": "Contenido en español para recién llegados: cómo vestirse por capas y qué comprar para su primer invierno."
+   "por_que": "Quebec sigue el pronóstico ante un posible temporal la próxima semana por un chorro de viento muy intenso.",
+   "idea": "Contenido en francés de preparación para el invierno: ropa térmica, kits para el coche y aviso de entregas antes de la tormenta."
   }
  ],
  "audiencias": {
@@ -1089,58 +1089,54 @@
   }
  ],
  "ocultar": [
+  "billionaires",
   "ukraine",
   "sarah huckabee sanders",
   "peoria",
   "katy perry",
-  "Danielle Smith says she’ll call up UCP officials not signing anti-separatism pledge",
-  "Activists call on Victoria MP to vote against bill to speed up major projects",
-  "Carney wraps meetings on security, trade with European leaders in Ireland",
-  "Federal government moves to overhaul airport security after CTV News investigation",
-  "Alberta announces royalty program as part of plan to double oilsands production",
-  "Melanie Joly puts ‘aggressive package’ to Stellantis in bid to stop sale of Brampton plant",
-  "Carjacking in Guelph leads to charges for Toronto man",
-  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
-  "Jewelry theft network involving young teens targeted by Montreal cops",
-  "Jewelry and cash targeted in Milton home break-in",
-  "Conservatives say government subsidizing foreign automakers by exempting EVs priced up to $150k from luxury tax",
-  "What’s behind Ontario education union strike votes?",
-  "62% of Ontarians disapprove of Ford's education policies, Torontonians react",
-  "2 people struck by a vehicle on construction site near Pickering City Centre",
-  "Ontario Begins Construction on New Bridges to Support Future Highway 413 Corridor",
-  "Ottawa, province hope ‘aggressive package’ can prevent Stellantis plant sale: Joly",
-  "Remembering Toukie Smith, a Trailblazer Who Redefined Runway Beauty",
-  "Galaxy Gaming director Boushy buys $17,775 in common stock By Investing.com",
-  "Budget 2026: Where do agriculture and food fit into Canada's Priorities?",
-  "Most Canadians back faster project approvals and expanded energy exports: poll",
-  "AI company behind FAA’s SMART tool denies link to ground stop, Duffy confirms",
-  "More electric vehicles exempt from luxury tax, Ottawa says"
+  "accident bateau croisière",
+  "blue jays",
+  "thunder vs clippers",
+  "ontario",
+  "U.S. floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says",
+  "Around the world, drug cases keep leading back to bag tags",
+  "The New Iron Curtain: Tracking the 5,000-kilometre journey between democracy and authoritarianism",
+  "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
+  "CFB Wainwright incident highlights reserve pay disparities: former bureaucrat",
+  "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
+  "Alberta changing royalty system to encourage oilsands production, new investment",
+  "Ottawa, Ontario working on package to persuade Stellantis to cancel sale of Brampton plant",
+  "Wemby Reacts to Draymond Green's Shove with Honest Response in Viral Video After Spurs Beat Warriors",
+  "South Philly 12-year-old says goodbye to part of his ‘53-man dad squad’ in viral video to Jordan Davis",
+  "Fans express concern after Sharad Kapoor’s video bidding farewell to pet dogs goes viral",
+  "Titans' Robert Saleh Talks 1st Matchup vs. Jaguars' Liam Coen Since Viral Video of Altercation",
+  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Guía de regalos con presupuesto",
-   "idea": "Las encuestas dicen que los canadienses gastarán menos esta Navidad y buscarán puntos, segunda mano y comparadores. Publica una guía de regalos por rangos de precio en CAD con tus productos y el precio final ya calculado.",
+   "titulo": "Regalos con cabeza",
+   "idea": "Un estudio muestra que los canadienses gastarán menos en Navidad y usarán IA, puntos de fidelidad y regalos de segunda mano. Arma una guía de regalos por rangos de precio (\"under 20 loonies\") que destaque durabilidad y utilidad, no solo descuento.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Black Friday anticipado, pero honesto",
-   "idea": "Las ofertas previas al 27 de noviembre ya circulan y el consumidor desconfía de descuentos inflados. Muestra el precio de antes y el de ahora, y explica en una línea por qué tu oferta es real.",
+   "titulo": "Lo que ves es lo que pagas",
+   "idea": "La queja de clientes contra un cargo de servicio del 20% en Ford's Garage se volvió tendencia. Lanza un anuncio que muestre el precio final con impuestos y sin cargos ocultos; en temporada de ofertas, la transparencia es un argumento de venta.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Listo para la primera nevada",
-   "idea": "Llegan las primeras nevadas al sur de Ontario y Quebec sigue el pronóstico de tormenta. Graba un 'lo que necesitas antes del primer frío' con tu producto como protagonista; para Quebec, versión en francés.",
+   "titulo": "Detrás del mercadillo navideño",
+   "idea": "Los mercados de artesanos y las noches de compras navideñas se multiplican en pueblos y ciudades. Si vendes hecho a mano, graba cómo preparas tu puesto o tu stock de temporada e invita a visitarte o a pedir online.",
    "formato": "Reel"
   },
   {
-   "titulo": "Compra local en mercados navideños",
-   "idea": "Abren mercados de artesanos y de temporada en Toronto, Montreal y otras ciudades. Si vendes en uno, haz un recorrido por tu stand y destaca que es hecho en Canadá o con historia de origen.",
+   "titulo": "Cuenta tu origen",
+   "idea": "Una caja de anillos cinética se hizo viral y acabó lanzando un negocio, y un restaurante llenó sus mesas tras el video de un creador. Cuenta en 30 segundos cómo nació tu producto y muéstralo en acción: la historia real engancha más que el anuncio.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Tu propio 'Playback' del año",
-   "idea": "Los resúmenes anuales personalizados de Xbox son tendencia y el público ama ese formato. Crea tu 'recap 2026': lo más vendido, la pregunta más frecuente y un agradecimiento con una oferta de cierre de año.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Fechas límite de pedido",
+   "idea": "La parada de vuelos en EE. UU. dejó cancelaciones en Toronto, Montreal y Vancouver, y llegan las primeras nevadas. Publica un calendario con la fecha límite para pedir antes de Black Friday y Navidad, y avisa con tiempo de cualquier retraso.",
+   "formato": "Historias Instagram"
   }
  ]
 }

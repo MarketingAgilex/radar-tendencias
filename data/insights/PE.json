@@ -1,65 +1,59 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-14T13:03:00Z",
+ "actualizado": "2026-11-14T17:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú sigue conmovido por la visita del papa León XIV: Lima y Chiclayo concentran la conversación, con historias virales de gente común y un fuerte orgullo local que también mueve turismo, gastronomía y recuerdos. En el bolsillo, el BCRP subió su tasa a 4,5% por el repunte de la inflación, así que el consumidor cuidará más el crédito y comparará antes de pagar en cuotas. Black Friday llega el 27 de noviembre y luego la gratificación de diciembre, por lo que hoy conviene sembrar listas de deseos y precios finales claros. El Niño costero vuelve a la agenda: oportunidad para productos de verano, ventilación, protección solar e hidratación con un tono preventivo.",
+ "lectura": "El Perú vive con emoción la visita del papa León XIV: Lima y Chiclayo concentran la conversación, y las historias de gente sencilla, como la del chofer del Metropolitano, son lo que más se comparte. En el bolsillo, el BCRP subió su tasa de interés por primera vez en 45 meses, así que el consumidor comparará más antes de comprar en cuotas, justo cuando llegan las ofertas previas al Black Friday del 27 de noviembre. La alerta por El Niño costero anticipa un verano caluroso y la música latina sigue viva tras los Latin Grammy. Ganan los mensajes cálidos, con precio final claro y utilidad concreta.",
  "ideas_hoy": [
   {
-   "titulo": "Chiclayo y Lima, rutas con orgullo",
-   "idea": "La visita papal puso a Chiclayo en el mapa de todo el país. Si vendes turismo, gastronomía norteña o artesanía, arma una guía de 'qué probar y qué llevarte' de la ciudad, en tono cultural y respetuoso, sin usar imágenes oficiales.",
+   "titulo": "Historias de gente sencilla",
+   "idea": "El chofer del Metropolitano se volvió viral por su emoción genuina, no por una gran producción. Cuenta en video la historia real de un cliente, repartidor o colaborador tuyo con ese mismo tono cálido; al peruano le llegan los relatos de 'gente como uno'.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Contado vs. cuotas, sin letra chica",
+   "idea": "Con el BCRP subiendo su tasa, el crédito se encarece y el consumidor se vuelve más cuidadoso. Publica una comparación simple del precio al contado y en cuotas de tu producto estrella antes del Black Friday; la transparencia genera confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Compra inteligente con tasas más altas",
-   "idea": "El BCRP subió la tasa de interés y el crédito se encarece. Publica una comparativa sencilla de pagar al contado vs. en cuotas con tus propios productos y muestra el precio final; eso genera confianza antes de Black Friday.",
-   "formato": "Reel"
+   "titulo": "Tu lista para el Black Friday",
+   "idea": "Las ofertas anticipadas de belleza, celulares y televisores ya circulan y faltan 13 días para el 27 de noviembre. Pide a tus seguidores que te digan qué quieren y avísales primero cuando baje el precio; llegas con audiencia lista y evitas competir solo por precio.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Lista de deseos para Black Friday",
-   "idea": "Faltan menos de dos semanas para el 27 de noviembre. Invita a tus seguidores a guardar su lista de deseos y avisa que recibirán primero las ofertas reales; así llegas con audiencia caliente y evitas la guerra de precios de último momento.",
-   "formato": "Historias de Instagram con stickers"
-  },
-  {
-   "titulo": "Verano con El Niño costero",
-   "idea": "Las alertas apuntan a un verano más caluroso. Si vendes ventiladores, ropa fresca, bloqueador o bebidas, prepara un 'kit para el calor' con consejos prácticos y un tono tranquilo, sin alarmismo.",
+   "titulo": "Kit para un verano más caluroso",
+   "idea": "El ENFEN advierte que El Niño costero podría extenderse hasta 2027. Si vendes ropa fresca, bloqueador, ventiladores o bebidas, arma un 'kit verano' con consejos prácticos y tono tranquilo, sin alarmar a nadie.",
    "formato": "TikTok"
   },
   {
-   "titulo": "El chofer viral y la buena onda",
-   "idea": "Las historias del conductor del Metropolitano muestran que al peruano le encantan los relatos de gente sencilla. Cuenta la historia real de un cliente o colaborador tuyo con el mismo tono cálido; humaniza tu marca sin subirte a la noticia.",
-   "formato": "Reel"
+   "titulo": "La canción de tu marca este año",
+   "idea": "Los Latin Grammy pusieron en tendencia a artistas como Milo J y Camila Fernández. Haz un 'si mi producto fuera una canción' o una playlist de fin de año para tu comunidad, ideal para moda, bares y marcas jóvenes. Usa audios disponibles en la plataforma.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "milo j",
    "color": "verde",
-   "por_que": "El artista argentino fue de los nombres fuertes de los Latin Grammy y su música mueve conversación joven.",
-   "idea": "Playlists o contenidos de 'mi canción del año' para marcas de moda, audio o eventos dirigidas a Gen Z."
+   "por_que": "El artista argentino fue uno de los nombres de los Latin Grammy y conecta con público joven.",
+   "idea": "Contenido de 'mi canción del año' o playlists de temporada para marcas de moda, audio o eventos dirigidas a Gen Z."
   },
   {
    "termino": "el niño costero",
    "color": "amarillo",
-   "por_que": "Alerta climática que preocupa, pero también anticipa un verano más caluroso.",
-   "idea": "Contenido preventivo y útil: hidratación, ventilación y protección solar; evita el tono alarmista."
+   "por_que": "Alerta climática que inquieta, pero anticipa un verano más caluroso y largo.",
+   "idea": "Contenido preventivo y útil sobre hidratación, ventilación y protección solar, sin tono alarmista."
   },
   {
-   "termino": "banco central de reserva del perú",
+   "termino": "camila fernández",
    "color": "verde",
-   "por_que": "La subida de tasa afecta créditos y compras en cuotas; el consumidor busca entenderlo.",
-   "idea": "Explicadores breves para fintech, cooperativas o comercios sobre cómo comprar planificado este fin de año."
+   "por_que": "Ganó su primer Latin Grammy y su historia personal generó cariño en redes.",
+   "idea": "Marcas de maternidad, belleza o música pueden hablar de logros y nuevas etapas, sin usar su imagen."
   },
   {
-   "termino": "minería",
+   "termino": "1998 ky26",
    "color": "verde",
-   "por_que": "La inversión minera apunta a su mejor nivel en una década: señal de dinamismo regional.",
-   "idea": "Para B2B: contenidos en LinkedIn sobre proveedores, servicios y talento para regiones mineras."
-  },
-  {
-   "termino": "tv",
-   "color": "verde",
-   "por_que": "Búsqueda ligada a televisores y hábitos de ver series, justo antes de Black Friday.",
-   "idea": "Guías de compra de televisores y accesorios por tamaño de sala, con precio final claro."
+   "por_que": "Un objeto espacial que despierta curiosidad científica; tema ligero y conversable.",
+   "idea": "Para educación, tecnología o juguetes: un dato curioso de astronomía con una pregunta para la audiencia."
   }
  ],
  "ocultar": [
@@ -67,17 +61,16 @@
   "ebola",
   "keiko fujimori",
   "prisión",
+  "maría camila pantoja",
+  "Informe técnico señala que escáner no utiliza rayos X en penal de Trujillo",
+  "Carabayllo: dueño de cancha deportiva embistió con su camioneta a sujetos que atacaron su negocio [VIDEO]",
+  "\"No sé qué hacer\": el angustiante audio de un estudiante que tuvo que aterrizar solo en plena emergencia aérea en EE.UU.",
   "Delitos contra las infancias en TikTok",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "El Tribunal Constitucional decidirá si Reinfo no va más",
-  "Reelección encubierta: quiénes son los 20 regidores que asumirían alcaldías tras la decisión del JNE",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "Uso de documentos falsos en un proceso de aumento de alimentos. Análisis de una sentencia de conformidad",
-  "Medicina para la paz: prevenir la violencia desde la salud",
-  "Mininter articula esfuerzos para garantizar servicios de salud policial ante El Niño",
-  "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
-  "¡Ni el estado de emergencia los frena! Banda asalta taller en SMP y roba S/ 20 mil en equipos y autopartes",
-  "Los expertos ven inconstitucional la orden de Ayuso para prohibir mensajes en favor de la huelga educativa"
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
+  "Canciller Espá destaca organización y civismo durante visita del papa León XIV al Perú",
+  "“Sinvergüenza” y “encima mal vestida”: Diputados rechazan presencia de Dina Boluarte en encuentro con el papa León XIV",
+  "Los mensajes desvelados por la UCO sitúan a Óscar López como impulsor de la reunión de Sánchez con el chófer de la trama: \"Todo es raro\"",
+  "Detienen a un hombre de origen marroquí en Manacor por agredir sexualmente a una mujer y robarle, sufrió heridas en la muñeca, la espinilla y el pecho, se le acercó y le pidió fuego"
  ],
  "audiencias": {
   "general": {

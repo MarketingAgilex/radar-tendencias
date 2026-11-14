@@ -1,38 +1,38 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-14T13:02:00Z",
+ "actualizado": "2026-11-14T17:00:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor británico entra en la 'golden quarter' con frío récord (heladas y avisos de clima frío) y con las ofertas anticipadas de Black Friday ya en marcha en tecnología, hogar y belleza. Hay cautela con el gasto: preocupan las estafas en compras online y las grandes cadenas de muebles reportan demanda floja, así que gana quien demuestra valor real y precio claro. Entretenimiento y videojuegos (GTA VI, el resumen anual de Xbox, Strictly Come Dancing) dominan la conversación de ocio, y los mercados navideños de artesanos locales crecen como alternativa al regalo genérico. Funcionan los mensajes cálidos, con humor británico, guías de regalo por presupuesto y pruebas sociales.",
+ "lectura": "El Reino Unido entra en modo invierno: temperaturas bajo cero en Londres y heladas empujan las compras de abrigo, calefacción y hogar. A menos de dos semanas del Black Friday ya circulan ofertas anticipadas en aspiradoras, relojes y menaje, mientras las subidas de precios en supermercados y la previsión de tipos de interés más altos hacen que el consumidor mire cada libra. Ganan fuerza las campañas para comprar regalos en el comercio local y los pop-ups navideños, y el entretenimiento (GTA VI, Strictly Come Dancing, Los Juegos del Hambre) domina la conversación. Funcionan los mensajes de valor, compra local y regalos para el frío.",
  "semaforo": [
+  {
+   "termino": "ana de armas",
+   "color": "verde",
+   "por_que": "Su primera alfombra roja junto a Beto Montenegro en los Latin Grammy genera conversación de moda.",
+   "idea": "Para moda y belleza: 'get the look' de gala con tus productos y precio por pieza."
+  },
   {
    "termino": "gta vi map",
    "color": "verde",
-   "por_que": "El lanzamiento de GTA VI concentra búsquedas y conversación gamer de alto volumen.",
-   "idea": "Para tiendas de tecnología y accesorios: guía de 'setup para GTA VI' (mandos, auriculares, monitores) como regalo de Navidad."
+   "por_que": "El lanzamiento de GTA VI concentra búsquedas; su edición física sin disco también da que hablar.",
+   "idea": "Tiendas de tecnología: explica qué incluye cada edición y arma packs de accesorios como regalo de Navidad."
   },
   {
    "termino": "snow forecast",
    "color": "verde",
-   "por_que": "Frío intenso y pronóstico de nieve: dispara compras de abrigo, calefacción y hogar.",
-   "idea": "Contenido 'kit de invierno' con abrigos, mantas, termos y productos para el auto, con entrega rápida."
+   "por_que": "Heladas, niebla y alertas por frío: el invierno dispara compras de abrigo, calefacción y hogar.",
+   "idea": "Contenido 'kit de invierno' con abrigos, mantas y termos, y fechas de entrega claras."
   },
   {
    "termino": "the hunger games: sunrise on the reaping",
    "color": "verde",
-   "por_que": "Estreno cinematográfico con interés en moda de alfombra roja y fandom.",
-   "idea": "Para moda y belleza: looks inspirados en el estreno y planes de cine con amigos."
+   "por_que": "El estreno de la nueva película de la saga llena la conversación de cine y moda de alfombra roja.",
+   "idea": "Plan 'noche de estreno': snacks, mantas o looks inspirados en la premiere; regalos para fans."
   },
   {
    "termino": "andy serkis",
-   "color": "amarillo",
-   "por_que": "Interés por el universo de El Señor de los Anillos y nostalgia de fans; nicho pero activo.",
-   "idea": "Coleccionables y regalos para fans con tono de nostalgia, sin usar marcas registradas sin licencia."
-  },
-  {
-   "termino": "microsoft playback",
    "color": "verde",
-   "por_que": "El resumen anual de Xbox invita a compartir 'mi año' en redes, un formato muy viral.",
-   "idea": "Crea tu propio 'recap del año' de marca o de clientes en formato carrusel o Reel."
+   "por_que": "El rodaje de 'The Hunt for Gollum' con Elijah Wood de nuevo como Frodo despierta nostalgia por la saga.",
+   "idea": "Contenido de nostalgia y regalos para fans de El Señor de los Anillos: libros, juegos de mesa, decoración."
   }
  ],
  "audiencias": {
@@ -1046,58 +1046,54 @@
   }
  ],
  "ocultar": [
+  "new orleans cruise ship collision",
+  "carlisle vs boston united",
+  "georgia vs hungary",
+  "winter fuel payment",
   "italy argentina",
   "ferne mccann",
   "abingdon fireworks",
   "l3harris",
   "you can see everything",
-  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
-  "{{‍�𝙀𝙓~𝙑𝙄𝘿𝙀𝙊~𝙓𝙓𝙓)𝙫𝙞𝙙𝙚𝙤 𝙛𝙞𝙡𝙩𝙧𝙖𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙫𝙞𝙧𝙖𝙡 𝙫𝙞𝙙𝙚𝙤}}",
   "hansika motwani video viral video clips original",
-  "South Philly 12-year-old says goodbye to part of his ‘53-man dad squad’ in viral video to Jordan Davis",
-  "Cameron Calls for UK to Quit Europe’s Human Rights Convention",
-  "My brother was an absolute genius - he should still be alive",
-  "Fifteen taken to hospital after deliberate fire at Glasgow flats",
-  "Piddington migrant camp a risk to women and girls, Government admits",
-  "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase",
-  "The hidden risks in Labour’s ‘pension for life’ promise",
-  "Young people should have legal guarantee of job or training, Milburn tells BBC",
-  "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
-  "Scottish Government 'failed to explain' need for AI data centres, campaigners say",
-  "Fiona Harvey’s $170m Baby Reindeer lawsuit against Netflix gets trial date",
-  "Russell Brand, David Walliams and Married at First Sight: Is this a reckoning for TV?",
-  "From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies",
-  "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-  "CofE charity hosts pro-reparations conference in luxury Jamaican hotel",
-  "Reframe business education around democracy, new book argues",
-  "Times Higher Education: UK Student Visa Applications Fall in October",
-  "Form 4 Galaxy Gaming Inc: John M. Boushy (Director) For: 12 November"
+  "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+  "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+  "Recap: M6 Cumbria southbound finally cleared after lorry blaze",
+  "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+  "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+  "Wemby Reacts to Draymond Green's Shove with Honest Response in Viral Video After Spurs Beat Warriors",
+  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
+  "~ ~(𝙵𝚄𝙻𝙻√𝚅𝙸𝙳𝙴𝙾𝚂!)*barmer patwari viral video",
+  "Fans express concern after Sharad Kapoor’s video bidding farewell to pet dogs goes viral",
+  "{{‍�𝙀𝙓~𝙑𝙄𝘿𝙀𝙊~𝙓𝙓𝙓)𝙫𝙞𝙙𝙚𝙤 𝙛𝙞𝙡𝙩𝙧𝙖𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙫𝙞𝙧𝙖𝙡 𝙫𝙞𝙙𝙚𝙤}}",
+  "Shoppers worry about Black Friday AI scams, but drop their guard at checkout, as Gen Z scam claims surge 56 per cent",
+  "Shoppers at Morrisons in Largs raise over £3k for Poppyscotland during appeal"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Guía de regalos por menos de 20 quid",
-   "idea": "El presupuesto aprieta y las ofertas anticipadas ya circulan. Publica una guía de regalos por tramos de precio (10, 20 y 50 libras) con tus productos y el precio final visible.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Kit para la ola de frío",
-   "idea": "Las heladas y los avisos de frío dominan las noticias de hoy. Muestra en 15 segundos tu 'kit de invierno' (abrigo, manta, termo, té) y cierra con entrega rápida antes del próximo frente frío.",
+   "titulo": "Un regalo más, del barrio",
+   "idea": "Los comercios de Cornualles piden a los vecinos comprar \"un regalo más\" en tiendas locales esta Navidad. Súmate con un video que muestre tu tienda, tu equipo y tus productos de temporada, y pide a tus clientes que te etiqueten al comprar.",
    "formato": "Reel"
   },
   {
-   "titulo": "¿Oferta real o inflada?",
-   "idea": "Preocupan las estafas y los descuentos falsos en Black Friday (27 de noviembre). Graba un video comparando tu precio de hoy con el de hace un mes y explica cómo comprar seguro en tu tienda.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Tu propio 'Playback' del año",
-   "idea": "El resumen anual de Xbox está en tendencia y los recaps se comparten mucho. Haz el recap de tu marca: producto más vendido, cliente más fiel y momento del año, en formato de tarjetas.",
+   "titulo": "Kit anti-frío por menos de 20 quid",
+   "idea": "Londres bajó de cero grados y hay heladas y niebla en el pronóstico. Reúne en un carrusel abrigo, mantas, termos o productos para el coche con precio final, pensado para quien está skint antes de Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Shop small en mercados navideños",
-   "idea": "Los mercados de artesanos vuelven este fin de semana en varias ciudades. Si participas, anuncia dónde estarás con un copy cálido y un código para quien te visite desde redes.",
+   "titulo": "Pop-up de Navidad",
+   "idea": "Un club de fútbol abrió una tienda temporal en Covent Garden para captar compradores navideños. Si tienes marca, cuenta cómo montarías tu propia experiencia física o colaboración con otra tienda, y qué aprendes del contacto cara a cara.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Precio estable, cliente tranquilo",
+   "idea": "Hay subidas de precios de un día para otro en supermercados de Londres y se esperan tipos de interés más altos. Comunica qué precios mantienes hasta Navidad o qué packs ayudan a ahorrar; la previsibilidad genera confianza.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Romantasy en la pista",
+   "idea": "Strictly Come Dancing prepara un número de grupo inspirado en la romantasía para su semana 8. Aprovecha la estética (capas, terciopelo, tonos joya) para presentar ropa, decoración o regalos con una coreografía corta o un antes y después.",
+   "formato": "TikTok"
   }
  ]
 }

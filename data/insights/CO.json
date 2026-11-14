@@ -1,38 +1,38 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-14T13:04:00Z",
+ "actualizado": "2026-11-14T17:02:31Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El colombiano llega al puente festivo con la cabeza en las compras de fin de año: los medios repiten que el Black Friday será el 27 de noviembre y recomiendan adelantar los regalos de Navidad sin desordenar las finanzas. La suspensión de vuelos en Estados Unidos dejó a muchos viajeros pendientes de reprogramaciones, y El Niño vuelve a poner el agua y el calor en la conversación. En entretenimiento, Maluma anunció que arrancará su gira mundial en Bogotá en febrero y Karol G brilló en los Latin GRAMMY. Funcionan los mensajes de ahorro planificado, envíos con fecha clara y regalos que lleguen a tiempo para diciembre.",
+ "lectura": "Con el puente festivo del lunes 16 de noviembre y el Black Friday del 27 a la vista, el consumidor colombiano quiere adelantar las compras de Navidad, pero sin desordenar sus finanzas. La suspensión masiva de vuelos en Estados Unidos, que también cerró por horas aeropuertos como El Dorado, recordó lo frágiles que pueden ser los tiempos de entrega en temporada alta. En entretenimiento suenan la gira de Maluma que arranca en Bogotá, el Salón del Automóvil y el regreso de títulos clásicos al gaming. Ganan los mensajes de compra planificada, precio claro y fechas de entrega realistas.",
  "semaforo": [
+  {
+   "termino": "suspenden vuelos eeuu",
+   "color": "amarillo",
+   "por_que": "La mayor suspensión de vuelos en EE. UU. en años, atribuida a una falla de comunicaciones, generó retrasos y cierres temporales en aeropuertos colombianos.",
+   "idea": "Si vendes o envías desde EE. UU., publica un aviso tranquilo con plazos actualizados y un canal de WhatsApp para dudas; evita el tono alarmista."
+  },
+  {
+   "termino": "cáncer de próstata",
+   "color": "amarillo",
+   "por_que": "Cambian las guías de detección para hombres de 50 a 69 años; es un tema de salud que pide rigor.",
+   "idea": "Marcas de salud y bienestar pueden invitar a la consulta preventiva con fuentes médicas; no lo uses como gancho de ventas."
+  },
   {
    "termino": "vuelos suspendidos estados unidos",
    "color": "amarillo",
-   "por_que": "Afectó a viajeros colombianos y genera ansiedad; sirve para informar, no para vender con miedo.",
-   "idea": "Agencias, aerolíneas y servicios de envío: guía práctica de reprogramación y alternativas, en tono calmado."
+   "por_que": "Misma noticia de la suspensión de despegues en EE. UU.; la gente busca saber cuándo se normalizan rutas y conexiones.",
+   "idea": "Para turismo y compras en el exterior: un carrusel de '3 cosas que revisar antes de viajar o comprar afuera en temporada alta'."
   },
   {
    "termino": "fenómeno",
-   "color": "amarillo",
-   "por_que": "El Niño preocupa por agua y calor; tema útil si se trata con datos y sin alarmismo.",
-   "idea": "Ventiladores, hidratación, ahorro de agua y protección solar: contenido de 'prepárate para el calor'."
+   "color": "verde",
+   "por_que": "Se habla de El Niño y de que sus efectos podrían extenderse hasta mayo de 2027: más calor y cuidado del agua.",
+   "idea": "Productos para el calor, ahorro de agua o ropa fresca: contenido útil de 'cómo prepararte para El Niño' con tu producto como solución."
   },
   {
    "termino": "weather",
    "color": "verde",
-   "por_que": "Búsquedas de clima en inglés, ligadas a viajes y planes de fin de semana.",
-   "idea": "Turismo y moda: recomendaciones de qué empacar según el clima del destino."
-  },
-  {
-   "termino": "maluma",
-   "color": "verde",
-   "por_que": "Anuncio de gira mundial que arranca en Bogotá con cuatro fechas: orgullo paisa y plan de consumo.",
-   "idea": "Outfits de concierto, maquillaje, transporte y hospedaje para quienes viajan a Bogotá en febrero."
-  },
-  {
-   "termino": "yamid amat",
-   "color": "amarillo",
-   "por_que": "Periodista reconocido; la conversación gira en torno a su salud y es sensible.",
-   "idea": "No usar en publicidad; si se menciona, solo con respeto y sin fines comerciales."
+   "por_que": "El clima entra en la conversación justo antes del puente y de las vacaciones de fin de año.",
+   "idea": "Arma un 'kit de puente' según el clima de cada destino (Cartagena, Medellín, Bogotá) con tus productos."
   }
  ],
  "audiencias": {
@@ -931,56 +931,62 @@
   }
  ],
  "ocultar": [
-  "base aérea de raf lakenheath",
-  "Delitos contra las infancias en TikTok",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "Exclusivo: los audios que dejó Alicia Graham, esposa de Juan De Bedout, sobre su intoxicación con talio, el mismo veneno que mató a su hija",
-  "“La Silla Vacía: el juguete que regala Papá”: artículo de opinión de Carlos Suárez",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
-  "Loterías de Medellín, Santander y Risaralda: resultados del viernes 13 de noviembre",
-  "Estos son los resultados de las loterías de Medellín, Risaralda y Santander de hoy, viernes 13 de noviembre de 2026",
-  "Loterías de Medellín, Santander y Risaralda de hoy, viernes 13 de noviembre: consulte los resultados",
-  "YLAI, el programa de la embajada de EE. UU. que abre oportunidades para Barranquilla",
-  "Alianza entre la Alcaldía de Barranquilla, Grupo Argos y Tecnoglass permitirá completar el corredor vial de la carrera 75A",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "Alerta por intoxicación de estudiantes con alimentos del PAE: autoridades investigan",
-  "La Cámara instala la Comisión accidental de Inteligencia Artificial",
+  "ricardo roa",
+  "dirección nacional de inteligencia",
+  "congreso de la república de colombia",
   "1xbet colombia que es",
-  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
-  "Investigan presunta red de exportaciones ficticias que operaba desde Ipiales",
-  "Destapan millonario entramado en la Dian: exportaciones ficticias de aceite y soya habrían movido $425.000 millones",
-  "Dian detectó presuntas exportaciones ficticias por más de $425.000 millones hacia Ecuador",
-  "Red de exportaciones ficticias habría ingresado más de $425.000 millones a Colombia",
+  "base aérea de raf lakenheath",
+  "Volcamiento de bus en la Ruta 45 deja ocho personas fallecidas y al menos 20 heridas",
+  "Exclusivo: los audios que dejó Alicia Graham, esposa de Juan De Bedout, sobre su intoxicación con talio, el mismo veneno que mató a su hija",
+  "Se afectó el cronograma de las obras del metro: Carlos Fernando Galán lo reconoció en público",
+  "Capturaron a alias ‘Primo Gay’, el hombre más buscado de Antioquia",
+  "Buque choca contra crucero en puerto de Nuevo Orleans",
+  "La caída de Jensen Huang de la cima de Nvidia",
+  "Delitos contra las infancias en TikTok",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
+  "Desmantelan en España una red de ciberestafas bancarias en TikTok",
+  "¿Escuchó estruendos en el norte de Bogotá durante la madrugada de hoy sábado, 14 de noviembre? Esto ocurrió",
+  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
+  "Resultados de loterías de Medellín, Santander y Risaralda: números que cayeron y ganadores | 13 de noviembre de 2026",
+  "En video | Agente de tránsito fue agredido por motociclista en operativos por el partido de la Selección Colombia",
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
   "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "'Estamos listos': así es el blindaje de alta tecnología para garantizar la seguridad en el amistoso entre las selecciones de Colombia y Chile en Cali",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros"
+  "“La alimentación de los niños no se negocia”: MinEducación denuncia ante entes de control contratos fantasma, software inoperante y presunto proselitismo en el PAE",
+  "Soacha articula acciones para prevenir el reclutamiento ilegal de niños y adolescentes en entornos escolares y digitales",
+  "Por qué una caja de huevos es un lujo en Gaza",
+  "$1,8 billones crecerá el presupuesto de Antioquia: prioriza educación, megaobras, seguridad y acueducto de Urabá | El Colombiano",
+  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”",
+  "Kalshi y Polymarket encuentran un nuevo negocio en los reality shows y desafían a la industria televisiva",
+  "Dian detectó presuntas exportaciones ficticias por más de $425.000 millones hacia Ecuador",
+  "Investigan presunta red de exportaciones ficticias que operaba desde Ipiales",
+  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Lista de regalos antes del Black Friday",
-   "idea": "Los medios insisten en adelantar las compras navideñas para aprovechar el 27 de noviembre. Publica una lista de 'regalos por menos de X' con tus productos y la fecha límite de entrega para que lleguen antes de diciembre.",
+   "titulo": "Compra navideña adelantada",
+   "idea": "Los medios recomiendan adelantar las compras de Navidad aprovechando el Black Friday del 27 de noviembre. Publica una lista de regalos por rangos de precio con la fecha límite para que lleguen antes de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Plan B para viajeros",
-   "idea": "La suspensión de vuelos en EE. UU. dejó a mucha gente reprogramando viajes. Si vendes turismo, maletas, seguros o envíos, explica en 30 segundos qué hacer si tu vuelo se cae y cómo mandar lo que no alcanzaste a llevar.",
+   "titulo": "Plazos claros tras el caos aéreo",
+   "idea": "La suspensión de vuelos en EE. UU. retrasó conexiones y cerró por horas aeropuertos en Colombia. Cuenta en video, con calma, cómo planeas tus envíos de temporada y qué fecha recomiendas para pedir sin afanes.",
    "formato": "Reel"
   },
   {
-   "titulo": "Ahorro de agua con estilo",
-   "idea": "El Niño y las reservas de agua vuelven a ser tema. Marcas de hogar, jardinería o aseo pueden mostrar tres trucos sencillos para ahorrar agua en casa y ligar sus productos de forma práctica, sin alarmismo.",
+   "titulo": "Plan para el puente festivo",
+   "idea": "El lunes 16 es festivo y hay pico y placa regional para el retorno a Bogotá. Propón un 'plan de puente' con tu producto (viaje, descanso, parche en casa) y una oferta que cierre el lunes por la noche.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Black Friday sin desorden",
+   "idea": "Varias notas insisten en comprar sin desordenar las finanzas. Haz un video corto de '3 preguntas antes de comprar en Black Friday' y muestra tu precio final sin letra pequeña; la transparencia genera confianza, parce.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Calentando la gira de Maluma",
-   "idea": "Maluma iniciará su gira mundial en Bogotá con cuatro conciertos en febrero. Moda, belleza y accesorios pueden armar un 'outfit para el concierto' y abrir preventa de regalos para quien ya tiene su boleta.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Cómo comprar seguro en línea",
-   "idea": "Entre los titulares de consumo aparecen alertas de fraude en Black Friday. Un carrusel de 'cinco señales de una tienda confiable' posiciona a tu marca como segura: datos de contacto, políticas de cambio y seguimiento del pedido.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Del Salón del Automóvil a tu vitrina",
+   "idea": "El Salón del Automóvil de Bogotá arrancó con fuerza y la gira de Maluma en Bogotá ya genera conversación. Si vendes accesorios, moda o experiencias, conecta tu producto con esos planes de fin de año en un anuncio con fecha clara.",
+   "formato": "Copy para anuncio"
   }
  ]
 }

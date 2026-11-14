@@ -1,38 +1,32 @@
 {
  "pais": "US",
- "actualizado": "2026-11-14T13:04:00Z",
+ "actualizado": "2026-11-14T17:02:31Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Estados Unidos ya está en modo compras navideñas: las grandes cadenas adelantan sus ofertas de Black Friday, que cae el 27 de noviembre, un día después de Thanksgiving, y el consumidor compara precios en cocina, tecnología, relojes deportivos y regalos. Tras la suspensión nacional de vuelos, muchos viajeros siguen reprogramando sus planes de Thanksgiving, y en Houston y Miami se buscan precios de gasolina y planes de la fecha. En entretenimiento suenan la nueva película de Los Juegos del Hambre, Timothée Chalamet y Hailey Bieber. Para la comunidad latina funcionan los mensajes de ahorro, regalos para enviar a la familia y fechas de entrega garantizadas antes de Navidad.",
+ "lectura": "Con Thanksgiving el 26 de noviembre y un Black Friday que este año arrancó antes que nunca, el consumidor en Estados Unidos ya compara ofertas tempranas de Walmart, Target, Amazon, Best Buy y la Nintendo Switch 2. La suspensión nacional de vuelos dejó miles de cancelaciones y recordó la importancia de comprar y enviar con margen. El Niño, la primera nieve en Nueva York y el estreno de contenido de GTA VI y Fortnite marcan la conversación de temporada. Para la audiencia hispana funcionan los mensajes de regalo con anticipación, precio claro y envío confiable a la familia.",
  "semaforo": [
+  {
+   "termino": "fortnite power hour today",
+   "color": "verde",
+   "por_que": "Los jugadores buscan los horarios de las 'Treasure Hours' de Fortnite; audiencia joven muy activa justo antes de Black Friday.",
+   "idea": "Gaming y tecnología: publica tus ofertas en 'horas de tesoro' con horario fijo, como en el juego, para crear urgencia divertida."
+  },
+  {
+   "termino": "el niño weather",
+   "color": "verde",
+   "por_que": "Un El Niño muy fuerte anticipa un invierno distinto según la región; la gente quiere saber cómo prepararse.",
+   "idea": "Ropa de invierno, hogar y viajes: guía de 'qué esperar en tu ciudad este invierno' con tus productos como solución."
+  },
+  {
+   "termino": "cancer",
+   "color": "amarillo",
+   "por_que": "La búsqueda se relaciona con la aprobación de un nuevo tratamiento oncológico; tema médico delicado.",
+   "idea": "Solo marcas de salud y con fuentes oficiales; para el resto, mejor no usarlo como gancho."
+  },
   {
    "termino": "billionaires",
    "color": "amarillo",
-   "por_que": "La conversación gira en torno a la sacudida en Nvidia; tema de negocios con tono de escándalo corporativo.",
-   "idea": "Solo para contenido de finanzas o tecnología con análisis sobrio, sin entrar en chismes."
-  },
-  {
-   "termino": "santa cruz beach closures",
-   "color": "amarillo",
-   "por_que": "Cierres de playas por olas gigantes en California: interés por el fenómeno, con componente de seguridad.",
-   "idea": "Turismo y deportes acuáticos: contenido de seguridad y alternativas de plan, sin incentivar riesgos."
-  },
-  {
-   "termino": "new hunger games movie",
-   "color": "verde",
-   "por_que": "Nueva película con reparto estelar: alta conversación entre Gen Z y millennials.",
-   "idea": "Merch, maquillaje temático y planes de cine; tráileres comentados y encuestas en historias."
-  },
-  {
-   "termino": "timothee chalamet",
-   "color": "verde",
-   "por_que": "Actor muy buscado y referente de moda para público joven.",
-   "idea": "Moda masculina y accesorios: contenido 'inspirado en' su estilo, sin usar su imagen."
-  },
-  {
-   "termino": "hailey bieber",
-   "color": "verde",
-   "por_que": "Celebridad de belleza con alta conversación en redes.",
-   "idea": "Skincare y maquillaje: rutinas de 'glazed skin' con productos propios."
+   "por_que": "La conversación gira en torno a la turbulenta semana de Nvidia y su liderazgo; hay ángulos personales que no aportan.",
+   "idea": "Tecnología y finanzas pueden hablar del impacto en el mercado de chips y gadgets, sin entrar en lo personal."
   }
  ],
  "audiencias": {
@@ -747,6 +741,33 @@
  ],
  "anuncios": [
   {
+   "busqueda": "Black Friday envíos",
+   "total": 278,
+   "anunciantes": [
+    {
+     "nombre": "VELE",
+     "url": "https://www.facebook.com/ads/library/?id=1123365500616942"
+    },
+    {
+     "nombre": "Smile Motors Miami",
+     "url": "https://www.facebook.com/ads/library/?id=1894899431691137"
+    },
+    {
+     "nombre": "Soccer jersery",
+     "url": "https://www.facebook.com/ads/library/?id=1455198392720035"
+    },
+    {
+     "nombre": "Harbor & Ash",
+     "url": "https://www.facebook.com/ads/library/?id=2142198243327793"
+    },
+    {
+     "nombre": "Cosmetics & More",
+     "url": "https://www.facebook.com/ads/library/?id=1142747608209855"
+    }
+   ],
+   "patron": "Mucho anuncio en español dirigido a la comunidad latina: concesionarios de Miami que invitan a cotizar por WhatsApp y a enviar motos a la familia en el Caribe, joyerías y cosmética con varias piezas a la vez, y mayoristas de camisetas de fútbol con 'Black Friday' y compra por volumen. El cierre por WhatsApp y el regalo a la familia en el país de origen se repiten."
+  },
+  {
    "busqueda": "envíos a Colombia",
    "total": 501,
    "anunciantes": [
@@ -763,58 +784,67 @@
   }
  ],
  "ocultar": [
-  "caitlin cunningham uss michael murphy relieved",
   "mired in",
-  "Ole Miss officials address another racist incident days after viral video",
-  "Ole Miss chancellor responds to viral video",
-  "School investigating after viral video shows 10th-grade girl punched, put in chokehold on Ohio school bus",
+  "caitlin cunningham uss michael murphy relieved",
+  "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
   "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
-  "The senators who could join Van Hollen's insurgency against Schumer",
-  "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-  "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+  "Schumer allies voice confidence, argue Van Hollen challenge about ending ‘filibuster’",
+  "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru",
+  "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says",
+  "A TikToker Went Viral for Kayaking 500 Miles of Congolese River—and Started an Even Bigger Conversation",
+  "Ole Miss chancellor responds to viral video",
+  "Ole Miss officials address another racist incident days after viral video",
+  "School investigating after viral video shows 10th-grade girl punched, put in chokehold on Ohio school bus",
+  "New York City Reels From Deadly Building Collapse",
+  "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+  "Who’s who in Zohran Mamdani’s administration?",
+  "Loved ones search for missing teen and toddler who disappeared in Los Angeles",
+  "Detectives from the Los Angeles County Sheriff’s Department are seeking assistance in locating At-Risk Missing Person, Zev Koch. He is a 20-year-old male White adult who was last seen on November 13, 2026, at 6:00 p.m. at the intersection of Sunset Avenu",
+  "Secretary Kennedy Takes MAHA to North Dakota to Advance Regenerative Agriculture and Strengthen Tribal and Rural Healthcare",
+  "US loses measles-free status as two more deaths reported",
+  "How Iran used data from social media, fitness apps and satellites to target U.S. bases",
+  "The case of Nvidia and the growing risk of AI and corruption",
+  "While Regulators Watch Prediction Markets, Trading-Card 'Packs' Enter the Gaming-Law Spotlight",
+  "City Copes With Cops Without Cars",
+  "Construction worker carries child to safety after Brooklyn building collapse",
+  "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+  "Bessent blasts Commerce on chip exports",
+  "JUST IN: Army Looks to Autonomize Logistics in Indo-Pacific",
+  "Texas could make significant education reforms, if lawmakers can reach across the aisle",
+  "The story behind the viral ad that helped Scott Colom win in Mississippi",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "Ella es Lori Huang, la influyente esposa de Jensen Huang, ex CEO de Nvidia: llegó a ganar más que él y desarrolló microchips en Silicon Valley",
+  "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
+  "Esta contienda por la alcaldía de Minnesota terminó en un empate técnico. Así que sacaron el nombre del ganador de una bolsa",
   "Pete Hegseth condecoró al soldado que lo reprendió por las risas de su comitiva frente a la Tumba del Soldado Desconocido",
   "Rusia se muestra evasiva tras el anuncio de EE.UU. de que Europa participará las próximas conversaciones sobre Ucrania",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "Who’s who in Zohran Mamdani’s administration?",
-  "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
-  "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
-  "Detectives from the Los Angeles County Sheriff’s Department are seeking assistance in locating At-Risk Missing Person, Zev Koch. He is a 20-year-old male White adult who was last seen on November 13, 2026, at 6:00 p.m. at the intersection of Sunset Avenu",
-  "Loved ones search for missing teen and toddler who disappeared in Los Angeles",
-  "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
-  "Man shoots, kills co-worker at construction site near Covington",
-  "Bessent blasts Commerce on chip exports",
-  "Bessent upset Lutnick didn't ban Nvidia chip exports to China-linked firm",
-  "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-  "Safe Haven Baby Box added at new fire station",
-  "Secretary Kennedy Takes MAHA to North Dakota to Advance Regenerative Agriculture and Strengthen Tribal and Rural Healthcare",
-  "Army Veterinary Services Food Safety Warrant Officers Celebrate 45 Years of Excellence",
-  "JUST IN: Army Looks to Autonomize Logistics in Indo-Pacific",
-  "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say"
+  "Fuerzas de Haití recuperan estadio bajo control de pandilleros",
+  "Si vas a mover dinero entre Rusia y Cuba, debes saber lo que acordaron La Habana y Moscú"
  ],
  "ideas_hoy": [
   {
    "titulo": "Early Black Friday honesto",
-   "idea": "Las cadenas ya anuncian ofertas anticipadas. Publica tu propia 'preventa' con el precio regular y el de oferta lado a lado, y una fecha de cierre clara para crear urgencia sin engaños.",
+   "idea": "Las grandes cadenas ya anuncian ofertas anticipadas, antes que en años anteriores. Publica tu propia preventa con el precio regular y el de oferta lado a lado, y una fecha de cierre clara para crear urgencia sin engaños.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Regalos para enviar a la familia",
-   "idea": "Diciembre es temporada de mandar regalos a Latinoamérica. Haz un carrusel de 'qué enviar y hasta cuándo' con fechas límite para que llegue antes de Navidad, en español y en tono cercano.",
+   "titulo": "Regalos para Thanksgiving y Navidad",
+   "idea": "Faltan menos de dos semanas para Thanksgiving y abundan las guías de 'early deals' para regalar. Arma una guía de regalos por presupuesto pensada para la familia que vive en Latinoamérica, con la fecha límite para que lleguen a tiempo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Thanksgiving sin estrés",
-   "idea": "Thanksgiving cae el 26 de noviembre y crecen las búsquedas de la fecha. Restaurantes, panaderías y tiendas de hogar pueden ofrecer un 'menú o kit listo' con pedido anticipado y recogida programada.",
+   "titulo": "Envía con margen tras el ground stop",
+   "idea": "La suspensión nacional de vuelos dejó miles de cancelaciones y retrasos en aeropuertos como Miami y Houston. Explica en un video corto por qué conviene enviar los regalos con anticipación esta temporada.",
    "formato": "Reel"
   },
   {
-   "titulo": "Viajeros reprogramando",
-   "idea": "Tras la suspensión nacional de vuelos hay viajeros cambiando planes. Agencias, maletas y seguros pueden publicar una guía rápida de qué hacer si cancelan tu vuelo en temporada alta.",
+   "titulo": "Switch 2 y gaming de temporada",
+   "idea": "Las ofertas de Black Friday bajan al menos 100 dólares la Nintendo Switch 2 y GTA VI domina la conversación gamer. Si vendes tecnología o accesorios, haz un 'setup gamer navideño' con precios claros.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cocina de presupuesto",
-   "idea": "Un papá se volvió viral compartiendo recetas económicas. Marcas de alimentos y cocina pueden sumarse con recetas de Thanksgiving por menos de 50 dólares usando sus productos.",
+   "titulo": "Cocina económica que se viraliza",
+   "idea": "Un papá se volvió viral compartiendo tips de cocina con poco presupuesto. Para alimentos y hogar: recetas de Thanksgiving que rinden y cuestan poco, mostrando tu producto en acción, no cap.",
    "formato": "Reel"
   }
  ]
