@@ -790,5 +790,25 @@
     "nl": "\"e-commerce\" OR \"online winkelen\""
    }
   }
- ]
+ ],
+ "consultas": {
+  "viral": {
+   "es": "viral OR \"se hizo viral\" OR \"se volvió viral\" OR tendencia OR trend OR tiktok",
+   "en": "viral OR \"goes viral\" OR \"went viral\" OR trend OR tiktok",
+   "pt": "viral OR viralizou OR tendência OR tiktok",
+   "fr": "viral OR buzz OR tendance OR tiktok",
+   "it": "virale OR tendenza OR tiktok",
+   "de": "viral OR Trend OR TikTok",
+   "nl": "viraal OR trend OR tiktok"
+  },
+  "consumo": {
+   "es": "\"más vendido\" OR \"más vendidos\" OR \"lo más buscado\" OR \"tendencia de consumo\" OR \"nuevo producto\" OR lanzamiento OR furor OR agotado",
+   "en": "\"best-selling\" OR \"best sellers\" OR \"sold out\" OR \"consumer trend\" OR \"new product\" OR launch",
+   "pt": "\"mais vendido\" OR \"mais vendidos\" OR esgotado OR lançamento OR \"novo produto\"",
+   "fr": "\"meilleures ventes\" OR \"rupture de stock\" OR lancement OR \"nouveau produit\"",
+   "it": "\"più venduti\" OR \"esaurito\" OR lancio OR \"nuovo prodotto\"",
+   "de": "Bestseller OR ausverkauft OR Produktlaunch OR \"neues Produkt\"",
+   "nl": "bestseller OR uitverkocht OR lancering OR \"nieuw product\""
+  }
+ }
 }

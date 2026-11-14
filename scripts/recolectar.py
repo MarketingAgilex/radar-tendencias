@@ -252,6 +252,9 @@ def modo_pulso():
             registrar(pais["id"], trends)
             bloque["trends"] = trends
         bloque["titulares"] = noticias_pais(pais, max_items=15)
+        for clave in ("viral", "consumo"):
+            q = CATALOGO["consultas"][clave].get(pais["lang"]) or CATALOGO["consultas"][clave]["en"]
+            bloque[clave] = noticias_pais(pais, f"({q}) when:1d", 15)
         yt = youtube_populares(pais["id"])
         if yt:
             bloque["youtube"] = yt

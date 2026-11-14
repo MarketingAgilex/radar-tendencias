@@ -10,7 +10,7 @@
   const REGIONES = { "América Latina": ["CO", "MX", "EC", "PE", "CL", "AR"], "Norteamérica": ["US", "CA"], "Europa": ["ES", "PT", "GB", "FR", "IT", "DE", "NL"] };
 
   const S = { cat: null, pulso: null, sectores: null, festivos: null, dicc: null, insights: {}, pestana: "pulso",
-    f: { pais: "EC", ciudad: "", audiencia: "general", sector: "", red: "TikTok", periodo: "ahora", buscar: "" }, comp: ["EC", "CO"] };
+    f: { pais: "EC", ciudad: "", audiencia: "general", sector: "", red: "TikTok", periodo: "ahora", buscar: "", deportes: "" }, comp: ["EC", "CO"] };
 
   // ------------------------------------------------------------------ filtro de temas sensibles
   let PATRON = null;
@@ -33,14 +33,22 @@
       p.titulares = (p.titulares || []).filter(okN);
       if (p.titulares_hispanos) p.titulares_hispanos = p.titulares_hispanos.filter(okN);
       if (p.youtube) p.youtube = p.youtube.filter((v) => !oculto(id, v.titulo));
+      for (const k of ["viral", "consumo"]) if (p[k]) p[k] = p[k].filter(okN);
       for (const c of Object.values(p.ciudades || {})) { c.titulares = (c.titulares || []).filter(okN); if (c.trends) c.trends = c.trends.filter(okT); }
     }
     for (const [id, secs] of Object.entries(S.sectores?.paises || {})) for (const k of Object.keys(secs)) secs[k] = secs[k].filter((n) => !oculto(id, n.titulo));
   }
 
+  const RE_DEPORTE = /(\b(vs|v|fc|cf|sc|nba|nfl|mlb|nhl|mls|ncaa|ufc|wwe|f1|liga|ligue|copa|cup|champions|premier|serie a|bundesliga|laliga|playoffs?|football|futbol|fútbol|soccer|basketball|baloncesto|basquet|beisbol|baseball|hockey|tenis|tennis|golf|boxeo|boxing|partido|match|game|score|marcador|alineaci[oó]n|lineup|roster|quarterback|qb|touchdown|gol|goles|jugador|player|stats|draft|selecci[oó]n|concacaf|conmebol|uefa|fifa|grand prix|gp|velada|pesaje|stream fighters)\b|\s-\s)/i;
+  const FUENTES_DEPORTE = /(espn|marca|\bas\b|ol[eé]|247sports|claro sports|action network|yahoo sports|fox sports|tudn|bleacher|sports illustrated|cbs sports|the athletic|mundo deportivo|sport\b|record|win sports|futbolecuador|tyc|nba\.com|nfl\.com|mlb\.com|sportskeeda|goal\.com)/i;
+  function esDeporte(t) {
+    const n = t.noticias?.[0] || t.noticia;
+    return RE_DEPORTE.test(t.termino || t.titulo || "") || FUENTES_DEPORTE.test(n?.fuente || t.fuente || "") || (n && RE_DEPORTE.test(n.titulo) && /\b(vs|game|partido|match|playoffs|liga)\b/i.test(n.titulo));
+  }
+
   const cargar = (url) => fetch(url + (url.includes("?") ? "&" : "?") + "v=" + Math.floor(Date.now() / 300000)).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   const pais = (id) => S.cat.paises.find((p) => p.id === id);
-  const bandera = (id) => pais(id)?.bandera || "";
+  const bandera = (id) => (id ? `<img class="flag" src="https://flagcdn.com/w40/${String(id).toLowerCase()}.png" alt="" width="22" height="16" loading="lazy">` : "");
   const hace = (iso) => {
     if (!iso) return "";
     const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
@@ -109,7 +117,7 @@
 
   function pintarTicker() {
     const items = [];
-    for (const [id, p] of Object.entries(S.pulso?.paises || {})) for (const t of (p.trends || []).slice(0, 4)) items.push({ id, t });
+    for (const [id, p] of Object.entries(S.pulso?.paises || {})) for (const t of (p.trends || []).filter((x) => !esDeporte(x)).slice(0, 4)) items.push({ id, t });
     items.sort((a, b) => (b.t.nuevo - a.t.nuevo) || (b.t.trafico_num - a.t.trafico_num));
     const html = items.slice(0, 40).map(({ id, t }) => `<span class="ticker-item" data-pais="${id}">${bandera(id)} <b>${esc(t.termino)}</b> ${esc(t.trafico || "")} ${t.nuevo ? '<span class="nuevo">NUEVO</span>' : ""}</span>`).join("");
     $("#ticker").innerHTML = html + html;
@@ -138,13 +146,13 @@
       .attr("class", (d) => (porNum[+d.id] ? "pais-activo" : "pais-base"))
       .attr("data-pais", (d) => porNum[+d.id] || null)
       .on("click", (e, d) => { const id = porNum[+d.id]; if (id) seleccionarPais(id, true); })
-      .on("mousemove", (e, d) => { const id = porNum[+d.id]; if (id) tip(e, `${bandera(id)} <b>${esc(pais(id).nombre)}</b><br>${esc(topTrend(id))}`); })
+      .on("mousemove", (e, d) => { const id = porNum[+d.id]; if (id) tip(e, `<b>${esc(pais(id).nombre)}</b><br>${esc(topTrend(id))}`); })
       .on("mouseleave", ocultarTip);
     const etiquetas = svg.append("g").attr("id", "etiquetas");
     S._mapa = { proy, ruta, paises, porNum, etiquetas };
     pintarEtiquetasMapa();
   }
-  function topTrend(id) { const t = S.pulso?.paises?.[id]?.trends?.[0]; return t ? `Sube: ${t.termino}` : "Toca para explorar"; }
+  function topTrend(id) { const t = (S.pulso?.paises?.[id]?.trends || []).find((x) => !esDeporte(x)); return t ? `Sube: ${t.termino}` : "Toca para explorar"; }
   function pintarEtiquetasMapa() {
     if (!S._mapa) return;
     const { ruta, paises, porNum, etiquetas } = S._mapa;
@@ -180,7 +188,7 @@
 
   // ------------------------------------------------------------------ filtros
   function llenarFiltros() {
-    $("#f-pais").innerHTML = S.cat.paises.map((p) => `<option value="${p.id}">${p.bandera} ${esc(p.nombre)}</option>`).join("");
+    $("#f-pais").innerHTML = S.cat.paises.map((p) => `<option value="${p.id}">${esc(p.nombre)}</option>`).join("");
     const seg = S.cat.segmentos;
     $("#f-audiencia").innerHTML = `<option value="general">Consumidor general</option>` +
       `<optgroup label="B2B">${seg.b2b.map((s) => `<option value="${s.id}">${esc(s.nombre)}</option>`).join("")}</optgroup>` +
@@ -229,6 +237,7 @@
     const fn = { pulso: pPulso, audiencias: pAudiencias, jerga: pJerga, sectores: pSectores, creadores: pCreadores, calendario: pCalendario, oportunidades: pOportunidades, anuncios: pAnuncios, comparador: pComparador }[S.pestana];
     if (fn) $("#p-" + S.pestana).innerHTML = fn();
     if (S.pestana === "comparador") enlazarComparador();
+    $("#chk-deportes")?.addEventListener("change", (e) => { S.f.deportes = e.target.checked ? "si" : ""; pintar(); });
     $$(".barra-fila").forEach((f) => { f.addEventListener("mousemove", (e) => tip(e, f.dataset.tip)); f.addEventListener("mouseleave", ocultarTip); });
   }
   const ins = () => S.insights[S.f.pais];
@@ -263,32 +272,57 @@
     if (!lista.length) return vacio("Sin titulares", " No hay titulares que coincidan con tu búsqueda.");
     return `<div class="titulares">${lista.map((h) => `<a class="titular" href="${esc(h.url)}" target="_blank" rel="noopener"><span class="f">${esc(h.fuente || "")}<br>${esc(hace(h.fecha))}</span><span class="t">${esc(h.titulo)}</span></a>`).join("")}</div>`;
   }
+  function tarjetasNoticias(lista, n) {
+    lista = (lista || []).filter((h) => coincide(h.titulo) && !esDeporte(h)).slice(0, n);
+    if (!lista.length) return "";
+    return `<div class="rejilla r3">${lista.map((h) => `<a class="tarjeta noticia" href="${esc(h.url)}" target="_blank" rel="noopener"><span class="noticia-fuente">${esc(h.fuente || "")} · ${esc(hace(h.fecha))}</span><span class="noticia-titulo">${esc(h.titulo)}</span></a>`).join("")}</div>`;
+  }
+  function ideasHoy() {
+    const i = ins(); if (!i) return [];
+    const ideas = (i.ideas_hoy || []).map((x) => (typeof x === "string" ? { idea: x } : x));
+    for (const s of (i.semaforo || []).filter((x) => x.color === "verde")) ideas.push({ titulo: s.termino, idea: s.idea });
+    return ideas.slice(0, 6);
+  }
   function pPulso() {
     const p = pais(S.f.pais), d = S.pulso?.paises?.[S.f.pais];
     if (!d) return vacio("Aún no hay datos", " La primera recolección está en curso.");
     const ciudad = S.f.ciudad ? d.ciudades?.[S.f.ciudad] : null;
-    let trends = ciudad?.trends || d.trends || [];
-    if (S.f.periodo !== "ahora") {
+    const conDeportes = S.f.deportes === "si";
+    const filtrar = (lista) => [...(lista || [])].filter((t) => coincide(t.termino + " " + (t.noticias?.[0]?.titulo || t.noticia?.titulo || "")) && (conDeportes || !esDeporte(t)));
+    let base = ciudad ? (ciudad.trends || []) : (d.trends || []);
+    if (!ciudad && S.f.periodo !== "ahora") {
       const limite = S.f.periodo === "hoy" ? Date.now() - 864e5 : 0;
-      trends = (d.semana || []).filter((t) => new Date(t.ultima_vez) >= limite).map((t) => ({ ...t, trafico_num: t.max_trafico }));
-      if (ciudad) trends = ciudad.trends || [];
+      base = (d.semana || []).filter((t) => new Date(t.ultima_vez) >= limite).map((t) => ({ ...t, trafico_num: t.max_trafico }));
     }
-    trends = [...trends].sort((x, y) => (y.trafico_num || 0) - (x.trafico_num || 0)).filter((t) => coincide(t.termino + " " + (t.noticias?.[0]?.titulo || t.noticia?.titulo || "")));
-    const lect = ins()?.lectura;
-    const titulo = ciudad ? `${ciudad.nombre}` : `${p.bandera} ${p.nombre}`;
-    const nivel = ciudad ? (ciudad.trends ? `Lo que más está buscando en Google la gente del estado o región de ${ciudad.nombre}. Cada tarjeta es una búsqueda: el número indica cuántas veces se buscó (mínimo) y debajo va la noticia que la explica, cuando Google la publica.` : "Google no publica tendencias para esta ciudad: abajo verás los titulares locales") : "";
-    const semana = (d.semana || []).slice(0, 12);
+    const todos = base.length, trends = filtrar(base).sort((x, y) => (y.trafico_num || 0) - (x.trafico_num || 0));
+    const ocultosDeporte = conDeportes ? 0 : base.filter(esDeporte).length;
+    const interruptor = `<label class="interruptor"><input type="checkbox" id="chk-deportes" ${conDeportes ? "checked" : ""}> Incluir deportes${ocultosDeporte ? ` <small>(${ocultosDeporte} ocultos)</small>` : ""}</label>`;
+    const nombre = ciudad ? ciudad.nombre : p.nombre;
+
+    if (ciudad) {
+      return `<h2 class="titulo-sec" style="font-size:32px">${bandera(S.f.pais)} ${esc(ciudad.nombre)}: <b>lo que está pasando</b></h2>
+        ${ciudad.trends ? `<div class="cab-seccion"><p class="sub-sec" style="margin:0">Lo que más busca en Google la gente del estado o región de ${esc(ciudad.nombre)}.</p>${interruptor}</div>
+          ${trends.length ? `<div class="rejilla r3">${trends.slice(0, 9).map(tarjetaTrend).join("")}</div>` : vacio("Nada relevante por ahora", ` De ${todos} búsquedas en tendencia, ninguna es de consumo o negocios en este momento.`)}`
+          : `<p class="sub-sec">Google no publica búsquedas por ciudad para ${esc(ciudad.nombre)}, así que aquí ves los titulares locales de las últimas 24 horas.</p>`}
+        <div class="tarjeta" style="margin-top:22px"><h3>Titulares de ${esc(ciudad.nombre)}</h3>${listaTitulares((ciudad.titulares || []).filter((h) => !esDeporte(h)).slice(0, 12))}</div>`;
+    }
+    const lect = ins()?.lectura, ideas = ideasHoy();
+    const viral = tarjetasNoticias(d.viral, 6), consumo = tarjetasNoticias(d.consumo, 6);
+    const semana = filtrar(d.semana || []).slice(0, 10);
     return `
-      ${lect && !ciudad ? `<div class="lectura"><div class="ico">✦</div><div><small>Lectura del momento · IA</small><p>${esc(lect)}</p></div></div>` : ""}
-      <h2 class="titulo-sec" style="font-size:32px">${esc(titulo)}: <b>lo que está subiendo</b></h2>
-      <p class="sub-sec">${nivel || "Cada tarjeta es algo que la gente está buscando en Google ahora mismo: el número indica cuántas veces se buscó (mínimo), debajo va la noticia que lo explica y, cuando aplica, el semáforo te dice si conviene usarlo en tu contenido."}</p>
-      ${trends.length ? `<div class="rejilla r3">${trends.slice(0, 12).map(tarjetaTrend).join("")}</div>` : vacio("Sin tendencias para esta vista", " Prueba otro periodo, otra ciudad o borra la búsqueda.")}
+      ${lect ? `<div class="lectura"><div class="ico">✦</div><div><small>Lectura del momento · IA</small><p>${esc(lect)}</p></div></div>` : ""}
+      ${ideas.length ? `<h2 class="titulo-sec" style="font-size:30px">Ideas para <b>publicar hoy</b> en ${esc(nombre)}</h2><p class="sub-sec">Propuestas concretas para marcas, emprendedores y creadores a partir de lo que está pasando.</p>
+        <div class="rejilla r3">${ideas.map((x, n) => `<div class="tarjeta idea"><span class="idea-num">${n + 1}</span>${x.titulo ? `<h3 style="text-transform:capitalize">${esc(x.titulo)}</h3>` : ""}<p>${esc(x.idea)}</p>${x.formato ? `<div class="etiquetas" style="margin-top:12px"><span class="etq">${esc(x.formato)}</span></div>` : ""}</div>`).join("")}</div>` : ""}
+      ${viral ? `<h2 class="titulo-sec" style="font-size:30px;margin-top:40px">Lo viral <b>hoy</b></h2><p class="sub-sec">Lo que se está volviendo tendencia en redes y medios de ${esc(nombre)} (últimas 24 h).</p>${viral}` : ""}
+      ${consumo ? `<h2 class="titulo-sec" style="font-size:30px;margin-top:40px">Lo que se está <b>comprando y lanzando</b></h2><p class="sub-sec">Productos agotados, lo más vendido y lanzamientos que están dando de qué hablar.</p>${consumo}` : ""}
+      <div class="cab-seccion" style="margin-top:40px"><div><h2 class="titulo-sec" style="font-size:30px;margin:0">Lo que más <b>busca la gente</b> en Google</h2><p class="sub-sec" style="margin:6px 0 0">Búsquedas que más crecen ahora. El número es el mínimo de búsquedas según Google.</p></div>${interruptor}</div>
+      ${trends.length ? `<div class="rejilla r3">${trends.slice(0, 9).map(tarjetaTrend).join("")}</div>` : vacio("Nada relevante en este momento", ` De ${todos} búsquedas en tendencia, ninguna es de consumo o negocios ahora mismo (el resto son deportes o temas excluidos). Activa "Incluir deportes" si quieres verlas.`)}
       <div class="rejilla r2" style="margin-top:28px">
         <div class="tarjeta"><h3>Lo más fuerte de la semana</h3>${semana.length ? barras(semana, "max_trafico", "Búsquedas aproximadas según Google (valor mínimo publicado). Pasa el cursor para ver detalle.") : vacio("Juntando historial", " Las gráficas se llenan con cada hora de recolección.")}</div>
-        <div class="tarjeta"><h3>${ciudad ? `Titulares de ${esc(ciudad.nombre)}` : "Titulares del país"}</h3>${listaTitulares((ciudad?.titulares || d.titulares || []).slice(0, 10))}</div>
+        <div class="tarjeta"><h3>Titulares del país</h3>${listaTitulares((d.titulares || []).filter((h) => !esDeporte(h)).slice(0, 10))}</div>
       </div>
-      ${d.youtube?.length && !ciudad ? `<h2 class="titulo-sec" style="font-size:26px;margin-top:36px">Lo más visto en <b>YouTube</b></h2><div class="rejilla r4">${d.youtube.filter((v) => coincide(v.titulo + " " + v.canal)).slice(0, 8).map((v) => `<a class="tarjeta trend" style="text-decoration:none" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="trend-img" style="background-image:url('${esc(v.imagen)}')"><div class="trend-insignias"><span class="insignia">${Number(v.vistas).toLocaleString("es")} vistas</span></div></div><div class="trend-cuerpo"><h3 style="font-size:14.5px;text-transform:none">${esc(v.titulo)}</h3><div class="trend-meta">${esc(v.canal)}</div></div></a>`).join("")}</div>` : ""}
-      ${d.titulares_hispanos && !ciudad ? `<div class="tarjeta" style="margin-top:18px"><h3>Lo que lee la comunidad hispana</h3>${listaTitulares(d.titulares_hispanos.slice(0, 8))}</div>` : ""}`;
+      ${d.youtube?.length ? `<h2 class="titulo-sec" style="font-size:26px;margin-top:36px">Lo más visto en <b>YouTube</b></h2><div class="rejilla r4">${d.youtube.filter((v) => coincide(v.titulo + " " + v.canal)).slice(0, 8).map((v) => `<a class="tarjeta trend" style="text-decoration:none" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="trend-img" style="background-image:url('${esc(v.imagen)}')"><div class="trend-insignias"><span class="insignia">${Number(v.vistas).toLocaleString("es")} vistas</span></div></div><div class="trend-cuerpo"><h3 style="font-size:14.5px;text-transform:none">${esc(v.titulo)}</h3><div class="trend-meta">${esc(v.canal)}</div></div></a>`).join("")}</div>` : ""}
+      ${d.titulares_hispanos ? `<div class="tarjeta" style="margin-top:18px"><h3>Lo que lee la comunidad hispana</h3>${listaTitulares(d.titulares_hispanos.filter((h) => !esDeporte(h)).slice(0, 8))}</div>` : ""}`;
   }
 
   // ------------------------------------------------------------------ AUDIENCIAS
@@ -458,7 +492,7 @@
   // ------------------------------------------------------------------ COMPARADOR
   function pComparador() {
     const [a, b] = S.comp;
-    const op = (sel) => S.cat.paises.map((p) => `<option value="${p.id}" ${p.id === sel ? "selected" : ""}>${p.bandera} ${esc(p.nombre)}</option>`).join("");
+    const op = (sel) => S.cat.paises.map((p) => `<option value="${p.id}" ${p.id === sel ? "selected" : ""}>${esc(p.nombre)}</option>`).join("");
     const ia = S.insights[a]?.audiencias?.general, ib = S.insights[b]?.audiencias?.general;
     const fila = (t, fa, fb) => `<tr><td>${t}</td><td>${fa}</td><td>${fb}</td></tr>`;
     const lista = (x) => (x?.length ? x.slice(0, 4).map(esc).join("<br>") : "—");

@@ -286,3 +286,19 @@ body.claro .pie .aviso{color:#8e8bc4}
 body.claro .tema-btn{background:#fff}
 .barra-der{display:flex;gap:10px;align-items:center}
 body.claro .pestana.activa{box-shadow:0 4px 12px rgba(91,85,255,.3)}
+
+.flag{display:inline-block;width:22px;height:16px;object-fit:cover;border-radius:3px;vertical-align:-2px;box-shadow:0 0 0 1px rgba(0,0,0,.08)}
+.titulo-sec .flag{width:34px;height:24px;vertical-align:-1px;margin-right:4px}
+.ruta .flag{width:40px;height:28px}
+.cab-seccion{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+.interruptor{display:inline-flex;gap:8px;align-items:center;font-size:13px;color:var(--texto-2);background:var(--noche-3);border:1px solid var(--borde);padding:8px 14px;border-radius:999px;cursor:pointer}
+.interruptor small{color:var(--texto-3)}
+.interruptor input{accent-color:var(--indigo-2)}
+.noticia{display:flex;flex-direction:column;gap:8px;text-decoration:none;transition:transform .2s,box-shadow .2s}
+.noticia:hover{transform:translateY(-3px);box-shadow:var(--sombra)}
+.noticia-fuente{font-size:11.5px;color:var(--texto-3);text-transform:uppercase;letter-spacing:.6px}
+.noticia-titulo{font-size:15.5px;font-weight:500;line-height:1.4}
+.idea{padding-top:28px}
+.idea p{color:var(--texto-2);font-size:14.5px}
+.idea-num{position:absolute;top:-14px;left:22px;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;font-weight:600;background:linear-gradient(90deg,var(--amarillo),var(--amarillo-2));color:#1a1640;box-shadow:0 6px 16px rgba(249,185,22,.35)}
+.rejilla:has(.idea){row-gap:30px;margin-top:10px}
