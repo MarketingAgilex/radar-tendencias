@@ -1,0 +1,1835 @@
+{
+ "actualizado": "2026-11-14T03:10:39Z",
+ "paises": {
+  "CO": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-01-12",
+    "nombre": "Día de los Reyes Magos",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2026-03-23",
+    "nombre": "Día de San José",
+    "nombre_en": "Saint Joseph's Day"
+   },
+   {
+    "fecha": "2026-04-02",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Primero de Mayo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-05-18",
+    "nombre": "Ascensión del señor",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2026-06-08",
+    "nombre": "Corpus Christi",
+    "nombre_en": "Corpus Christi"
+   },
+   {
+    "fecha": "2026-06-15",
+    "nombre": "Sagrado Corazón",
+    "nombre_en": "Sacred Heart"
+   },
+   {
+    "fecha": "2026-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2026-07-13",
+    "nombre": "Día de la Virgen de Chiquinquirá",
+    "nombre_en": "Our Lady of Chiquinquirá Day"
+   },
+   {
+    "fecha": "2026-07-20",
+    "nombre": "Declaracion de la Independencia de Colombia",
+    "nombre_en": "Declaration of Independence"
+   },
+   {
+    "fecha": "2026-08-07",
+    "nombre": "Batalla de Boyacá",
+    "nombre_en": "Battle of Boyacá"
+   },
+   {
+    "fecha": "2026-08-17",
+    "nombre": "La Asunción",
+    "nombre_en": "Assumption of Mary"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Día de la Raza",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2026-11-02",
+    "nombre": "Dia de los Santos",
+    "nombre_en": "All Saints’ Day"
+   },
+   {
+    "fecha": "2026-11-16",
+    "nombre": "Independencia de Cartagena",
+    "nombre_en": "Independence of Cartagena"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "La Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-01-11",
+    "nombre": "Día de los Reyes Magos",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2027-03-22",
+    "nombre": "Día de San José",
+    "nombre_en": "Saint Joseph's Day"
+   },
+   {
+    "fecha": "2027-03-25",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Primero de Mayo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-10",
+    "nombre": "Ascensión del señor",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2027-05-31",
+    "nombre": "Corpus Christi",
+    "nombre_en": "Corpus Christi"
+   },
+   {
+    "fecha": "2027-06-07",
+    "nombre": "Sagrado Corazón",
+    "nombre_en": "Sacred Heart"
+   },
+   {
+    "fecha": "2027-07-05",
+    "nombre": "San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2027-07-12",
+    "nombre": "Día de la Virgen de Chiquinquirá",
+    "nombre_en": "Our Lady of Chiquinquirá Day"
+   },
+   {
+    "fecha": "2027-07-20",
+    "nombre": "Declaracion de la Independencia de Colombia",
+    "nombre_en": "Declaration of Independence"
+   },
+   {
+    "fecha": "2027-08-07",
+    "nombre": "Batalla de Boyacá",
+    "nombre_en": "Battle of Boyacá"
+   },
+   {
+    "fecha": "2027-08-16",
+    "nombre": "La Asunción",
+    "nombre_en": "Assumption of Mary"
+   },
+   {
+    "fecha": "2027-10-18",
+    "nombre": "Día de la Raza",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Dia de los Santos",
+    "nombre_en": "All Saints’ Day"
+   },
+   {
+    "fecha": "2027-11-15",
+    "nombre": "Independencia de Cartagena",
+    "nombre_en": "Independence of Cartagena"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "La Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "MX": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-02-02",
+    "nombre": "Día de la Constitución",
+    "nombre_en": "Constitution Day"
+   },
+   {
+    "fecha": "2026-03-16",
+    "nombre": "Natalicio de Benito Juárez",
+    "nombre_en": "Benito Juárez's birthday"
+   },
+   {
+    "fecha": "2026-04-02",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-09-16",
+    "nombre": "Día de la Independencia",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2026-11-16",
+    "nombre": "Día de la Revolución",
+    "nombre_en": "Revolution Day"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-02-01",
+    "nombre": "Día de la Constitución",
+    "nombre_en": "Constitution Day"
+   },
+   {
+    "fecha": "2027-03-15",
+    "nombre": "Natalicio de Benito Juárez",
+    "nombre_en": "Benito Juárez's birthday"
+   },
+   {
+    "fecha": "2027-03-25",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-04-30",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-09-16",
+    "nombre": "Día de la Independencia",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2027-11-15",
+    "nombre": "Día de la Revolución",
+    "nombre_en": "Revolution Day"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "EC": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-02-16",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2026-02-17",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "International Workers' Day"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Batalla de Pichincha",
+    "nombre_en": "The Battle of Pichincha"
+   },
+   {
+    "fecha": "2026-08-10",
+    "nombre": "Primer Grito de Independencia",
+    "nombre_en": "Declaration of Independence of Quito"
+   },
+   {
+    "fecha": "2026-10-09",
+    "nombre": "Independencia de Guayaquil",
+    "nombre_en": "Independence of Guayaquil"
+   },
+   {
+    "fecha": "2026-11-02",
+    "nombre": "Día de los Difuntos, Día de Muertos",
+    "nombre_en": "All Souls' Day"
+   },
+   {
+    "fecha": "2026-11-02",
+    "nombre": "Independencia de Cuenca",
+    "nombre_en": "Independence of Cuenca"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Día de Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-02-08",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2027-02-09",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-04-30",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "International Workers' Day"
+   },
+   {
+    "fecha": "2027-05-24",
+    "nombre": "Batalla de Pichincha",
+    "nombre_en": "The Battle of Pichincha"
+   },
+   {
+    "fecha": "2027-08-09",
+    "nombre": "Primer Grito de Independencia",
+    "nombre_en": "Declaration of Independence of Quito"
+   },
+   {
+    "fecha": "2027-10-08",
+    "nombre": "Independencia de Guayaquil",
+    "nombre_en": "Independence of Guayaquil"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Día de los Difuntos, Día de Muertos",
+    "nombre_en": "All Souls' Day"
+   },
+   {
+    "fecha": "2027-11-05",
+    "nombre": "Independencia de Cuenca",
+    "nombre_en": "Independence of Cuenca"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Día de Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "US": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "New Year's Day",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-01-19",
+    "nombre": "Martin Luther King, Jr. Day",
+    "nombre_en": "Martin Luther King, Jr. Day"
+   },
+   {
+    "fecha": "2026-02-16",
+    "nombre": "Washington's Birthday",
+    "nombre_en": "Presidents Day"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Memorial Day",
+    "nombre_en": "Memorial Day"
+   },
+   {
+    "fecha": "2026-06-19",
+    "nombre": "Juneteenth National Independence Day",
+    "nombre_en": "Juneteenth National Independence Day"
+   },
+   {
+    "fecha": "2026-07-03",
+    "nombre": "Independence Day",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2026-09-07",
+    "nombre": "Labor Day",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Columbus Day",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2026-11-11",
+    "nombre": "Veterans Day",
+    "nombre_en": "Veterans Day"
+   },
+   {
+    "fecha": "2026-11-26",
+    "nombre": "Thanksgiving Day",
+    "nombre_en": "Thanksgiving Day"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "New Year's Day",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-01-18",
+    "nombre": "Martin Luther King, Jr. Day",
+    "nombre_en": "Martin Luther King, Jr. Day"
+   },
+   {
+    "fecha": "2027-02-15",
+    "nombre": "Washington's Birthday",
+    "nombre_en": "Presidents Day"
+   },
+   {
+    "fecha": "2027-05-31",
+    "nombre": "Memorial Day",
+    "nombre_en": "Memorial Day"
+   },
+   {
+    "fecha": "2027-06-18",
+    "nombre": "Juneteenth National Independence Day",
+    "nombre_en": "Juneteenth National Independence Day"
+   },
+   {
+    "fecha": "2027-07-05",
+    "nombre": "Independence Day",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2027-09-06",
+    "nombre": "Labor Day",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-10-11",
+    "nombre": "Columbus Day",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2027-11-11",
+    "nombre": "Veterans Day",
+    "nombre_en": "Veterans Day"
+   },
+   {
+    "fecha": "2027-11-25",
+    "nombre": "Thanksgiving Day",
+    "nombre_en": "Thanksgiving Day"
+   },
+   {
+    "fecha": "2027-12-24",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "CA": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "New Year's Day",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Good Friday",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-18",
+    "nombre": "Victoria Day",
+    "nombre_en": "Victoria Day"
+   },
+   {
+    "fecha": "2026-07-01",
+    "nombre": "Canada Day",
+    "nombre_en": "Canada Day"
+   },
+   {
+    "fecha": "2026-09-07",
+    "nombre": "Labour Day",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-09-30",
+    "nombre": "National Day for Truth and Reconciliation",
+    "nombre_en": "National Day for Truth and Reconciliation"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Thanksgiving",
+    "nombre_en": "Thanksgiving"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "New Year's Day",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Good Friday",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-05-24",
+    "nombre": "Victoria Day",
+    "nombre_en": "Victoria Day"
+   },
+   {
+    "fecha": "2027-07-01",
+    "nombre": "Canada Day",
+    "nombre_en": "Canada Day"
+   },
+   {
+    "fecha": "2027-09-06",
+    "nombre": "Labour Day",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-09-30",
+    "nombre": "National Day for Truth and Reconciliation",
+    "nombre_en": "National Day for Truth and Reconciliation"
+   },
+   {
+    "fecha": "2027-10-11",
+    "nombre": "Thanksgiving",
+    "nombre_en": "Thanksgiving"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "PE": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-02",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-04-05",
+    "nombre": "Domingo Santo",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-06-07",
+    "nombre": "Batalla de Arica y Día de la Bandera",
+    "nombre_en": "Battle of Arica and Flag Day"
+   },
+   {
+    "fecha": "2026-06-29",
+    "nombre": "Día de San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2026-07-23",
+    "nombre": "Día de la Fuerza Aérea",
+    "nombre_en": "Air Force Day"
+   },
+   {
+    "fecha": "2026-07-28",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2026-07-29",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2026-08-06",
+    "nombre": "Batalla de Junin",
+    "nombre_en": "Battle of Junin"
+   },
+   {
+    "fecha": "2026-08-30",
+    "nombre": "Santa Rosa de Lima",
+    "nombre_en": "Santa Rosa de Lima"
+   },
+   {
+    "fecha": "2026-10-08",
+    "nombre": "Combate de Angamos",
+    "nombre_en": "Battle of Angamos"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Día de Todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-09",
+    "nombre": "Batalla de Ayacucho",
+    "nombre_en": "Battle of Ayacucho"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-25",
+    "nombre": "Jueves Santo",
+    "nombre_en": "Maundy Thursday"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-03-28",
+    "nombre": "Domingo Santo",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-06-07",
+    "nombre": "Batalla de Arica y Día de la Bandera",
+    "nombre_en": "Battle of Arica and Flag Day"
+   },
+   {
+    "fecha": "2027-06-29",
+    "nombre": "Día de San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2027-07-23",
+    "nombre": "Día de la Fuerza Aérea",
+    "nombre_en": "Air Force Day"
+   },
+   {
+    "fecha": "2027-07-28",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2027-07-29",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2027-08-06",
+    "nombre": "Batalla de Junin",
+    "nombre_en": "Battle of Junin"
+   },
+   {
+    "fecha": "2027-08-30",
+    "nombre": "Santa Rosa de Lima",
+    "nombre_en": "Santa Rosa de Lima"
+   },
+   {
+    "fecha": "2027-10-08",
+    "nombre": "Combate de Angamos",
+    "nombre_en": "Battle of Angamos"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Día de Todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-09",
+    "nombre": "Batalla de Ayacucho",
+    "nombre_en": "Battle of Ayacucho"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "CL": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-04-04",
+    "nombre": "Sábado Santo",
+    "nombre_en": "Holy Saturday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "nombre_en": "Navy Day"
+   },
+   {
+    "fecha": "2026-06-21",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "nombre_en": "National Day of Indigenous Peoples"
+   },
+   {
+    "fecha": "2026-06-29",
+    "nombre": "San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2026-07-16",
+    "nombre": "Virgen del Carmen",
+    "nombre_en": "Our Lady of Mount Carmel"
+   },
+   {
+    "fecha": "2026-08-15",
+    "nombre": "Asunción de la Virgen",
+    "nombre_en": "Assumption of Mary"
+   },
+   {
+    "fecha": "2026-09-18",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "National holiday"
+   },
+   {
+    "fecha": "2026-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "nombre_en": "Army Day"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Día del Descubrimiento de Dos Mundos",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2026-10-31",
+    "nombre": "Día Nacional de las Iglesias Evangélicas y Protestantes",
+    "nombre_en": "Reformation Day"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Día de Todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad / Natividad del Señor",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-03-27",
+    "nombre": "Sábado Santo",
+    "nombre_en": "Holy Saturday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Día del Trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-21",
+    "nombre": "Día de las Glorias Navales",
+    "nombre_en": "Navy Day"
+   },
+   {
+    "fecha": "2027-06-21",
+    "nombre": "Día Nacional de los Pueblos Indígenas",
+    "nombre_en": "National Day of Indigenous Peoples"
+   },
+   {
+    "fecha": "2027-06-28",
+    "nombre": "San Pedro y San Pablo",
+    "nombre_en": "Saint Peter and Saint Paul"
+   },
+   {
+    "fecha": "2027-07-16",
+    "nombre": "Virgen del Carmen",
+    "nombre_en": "Our Lady of Mount Carmel"
+   },
+   {
+    "fecha": "2027-08-15",
+    "nombre": "Asunción de la Virgen",
+    "nombre_en": "Assumption of Mary"
+   },
+   {
+    "fecha": "2027-09-18",
+    "nombre": "Fiestas Patrias",
+    "nombre_en": "National holiday"
+   },
+   {
+    "fecha": "2027-09-19",
+    "nombre": "Día de las Glorias del Ejército",
+    "nombre_en": "Army Day"
+   },
+   {
+    "fecha": "2027-10-11",
+    "nombre": "Día del Descubrimiento de Dos Mundos",
+    "nombre_en": "Columbus Day"
+   },
+   {
+    "fecha": "2027-10-31",
+    "nombre": "Día Nacional de las Iglesias Evangélicas y Protestantes",
+    "nombre_en": "Reformation Day"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Día de Todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad / Natividad del Señor",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "AR": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-02-16",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2026-02-17",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2026-03-24",
+    "nombre": "Día Nacional de la Memoria por la Verdad y la Justicia",
+    "nombre_en": "Day of Remembrance for Truth and Justice"
+   },
+   {
+    "fecha": "2026-04-02",
+    "nombre": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+    "nombre_en": "Day of the Veterans and Fallen of the Malvinas War"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Día del Trabajador",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Día de la Revolución de Mayo",
+    "nombre_en": "May Revolution"
+   },
+   {
+    "fecha": "2026-06-15",
+    "nombre": "Paso a la Inmortalidad del General Martín Miguel de Güemes",
+    "nombre_en": "Anniversary of the Passing of General Martín Miguel de Güemes"
+   },
+   {
+    "fecha": "2026-06-20",
+    "nombre": "Paso a la Inmortalidad del General Manuel Belgrano",
+    "nombre_en": "General Manuel Belgrano Memorial Day"
+   },
+   {
+    "fecha": "2026-07-09",
+    "nombre": "Día de la Independencia",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2026-08-17",
+    "nombre": "Paso a la Inmortalidad del General José de San Martín",
+    "nombre_en": "General José de San Martín Memorial Day"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Día del Respeto a la Diversidad Cultural",
+    "nombre_en": "Day of Respect for Cultural Diversity"
+   },
+   {
+    "fecha": "2026-11-23",
+    "nombre": "Día de la Soberanía Nacional",
+    "nombre_en": "National Sovereignty Day"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Día de la Inmaculada Concepción de María",
+    "nombre_en": "Immaculate Conception Day"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-02-08",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2027-02-09",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2027-03-24",
+    "nombre": "Día Nacional de la Memoria por la Verdad y la Justicia",
+    "nombre_en": "Day of Remembrance for Truth and Justice"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-04-02",
+    "nombre": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+    "nombre_en": "Day of the Veterans and Fallen of the Malvinas War"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Día del Trabajador",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-25",
+    "nombre": "Día de la Revolución de Mayo",
+    "nombre_en": "May Revolution"
+   },
+   {
+    "fecha": "2027-06-21",
+    "nombre": "Paso a la Inmortalidad del General Martín Miguel de Güemes",
+    "nombre_en": "Anniversary of the Passing of General Martín Miguel de Güemes"
+   },
+   {
+    "fecha": "2027-06-20",
+    "nombre": "Paso a la Inmortalidad del General Manuel Belgrano",
+    "nombre_en": "General Manuel Belgrano Memorial Day"
+   },
+   {
+    "fecha": "2027-07-09",
+    "nombre": "Día de la Independencia",
+    "nombre_en": "Independence Day"
+   },
+   {
+    "fecha": "2027-08-16",
+    "nombre": "Paso a la Inmortalidad del General José de San Martín",
+    "nombre_en": "General José de San Martín Memorial Day"
+   },
+   {
+    "fecha": "2027-10-11",
+    "nombre": "Día del Respeto a la Diversidad Cultural",
+    "nombre_en": "Day of Respect for Cultural Diversity"
+   },
+   {
+    "fecha": "2027-11-20",
+    "nombre": "Día de la Soberanía Nacional",
+    "nombre_en": "National Sovereignty Day"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Día de la Inmaculada Concepción de María",
+    "nombre_en": "Immaculate Conception Day"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "ES": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-01-06",
+    "nombre": "Día de Reyes / Epifanía del Señor",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Fiesta del trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-08-15",
+    "nombre": "Asunción",
+    "nombre_en": "Assumption"
+   },
+   {
+    "fecha": "2026-10-12",
+    "nombre": "Fiesta Nacional de España",
+    "nombre_en": "National Day of Spain"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Día de todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2026-12-06",
+    "nombre": "Día de la Constitución",
+    "nombre_en": "Constitution Day"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Año Nuevo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-01-06",
+    "nombre": "Día de Reyes / Epifanía del Señor",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Viernes Santo",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Fiesta del trabajo",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-08-15",
+    "nombre": "Asunción",
+    "nombre_en": "Assumption"
+   },
+   {
+    "fecha": "2027-10-12",
+    "nombre": "Fiesta Nacional de España",
+    "nombre_en": "National Day of Spain"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Día de todos los Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2027-12-06",
+    "nombre": "Día de la Constitución",
+    "nombre_en": "Constitution Day"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Inmaculada Concepción",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Navidad",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "PT": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Ano Novo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-02-17",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Sexta-feira Santa",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-04-05",
+    "nombre": "Domingo de Páscoa",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2026-04-25",
+    "nombre": "Dia da Liberdade",
+    "nombre_en": "Freedom Day"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Dia do Trabalhador",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-06-04",
+    "nombre": "Corpo de Deus",
+    "nombre_en": "Corpus Christi"
+   },
+   {
+    "fecha": "2026-06-10",
+    "nombre": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "nombre_en": "National Day"
+   },
+   {
+    "fecha": "2026-08-15",
+    "nombre": "Assunção de Nossa Senhora",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2026-10-05",
+    "nombre": "Implantação da República",
+    "nombre_en": "Republic Day"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Dia de Todos-os-Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2026-12-01",
+    "nombre": "Restauração da Independência",
+    "nombre_en": "Restoration of Independence"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Imaculada Conceição",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Natal",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Ano Novo",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-02-09",
+    "nombre": "Carnaval",
+    "nombre_en": "Carnival"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Sexta-feira Santa",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-03-28",
+    "nombre": "Domingo de Páscoa",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2027-04-25",
+    "nombre": "Dia da Liberdade",
+    "nombre_en": "Freedom Day"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Dia do Trabalhador",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-27",
+    "nombre": "Corpo de Deus",
+    "nombre_en": "Corpus Christi"
+   },
+   {
+    "fecha": "2027-06-10",
+    "nombre": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "nombre_en": "National Day"
+   },
+   {
+    "fecha": "2027-08-15",
+    "nombre": "Assunção de Nossa Senhora",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2027-10-05",
+    "nombre": "Implantação da República",
+    "nombre_en": "Republic Day"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Dia de Todos-os-Santos",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2027-12-01",
+    "nombre": "Restauração da Independência",
+    "nombre_en": "Restoration of Independence"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Imaculada Conceição",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Natal",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "GB": [
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Good Friday",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-05-04",
+    "nombre": "Early May Bank Holiday",
+    "nombre_en": "Early May Bank Holiday"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Spring Bank Holiday",
+    "nombre_en": "Spring Bank Holiday"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2026-12-28",
+    "nombre": "Boxing Day",
+    "nombre_en": "St. Stephen's Day"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Good Friday",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-05-03",
+    "nombre": "Early May Bank Holiday",
+    "nombre_en": "Early May Bank Holiday"
+   },
+   {
+    "fecha": "2027-05-31",
+    "nombre": "Spring Bank Holiday",
+    "nombre_en": "Spring Bank Holiday"
+   },
+   {
+    "fecha": "2027-12-27",
+    "nombre": "Christmas Day",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-12-28",
+    "nombre": "Boxing Day",
+    "nombre_en": "St. Stephen's Day"
+   }
+  ],
+  "FR": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Jour de l'an",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-06",
+    "nombre": "Lundi de Pâques",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Fête du Travail",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-05-08",
+    "nombre": "Victoire 1945",
+    "nombre_en": "Victory in Europe Day"
+   },
+   {
+    "fecha": "2026-05-14",
+    "nombre": "Ascension",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Lundi de Pentecôte",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2026-07-14",
+    "nombre": "Fête nationale",
+    "nombre_en": "Bastille Day"
+   },
+   {
+    "fecha": "2026-08-15",
+    "nombre": "Assomption",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Toussaint",
+    "nombre_en": "All Saints' Day"
+   },
+   {
+    "fecha": "2026-11-11",
+    "nombre": "Armistice 1918",
+    "nombre_en": "Armistice Day"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Noël",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Jour de l'an",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-29",
+    "nombre": "Lundi de Pâques",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Fête du Travail",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-06",
+    "nombre": "Ascension",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2027-05-08",
+    "nombre": "Victoire 1945",
+    "nombre_en": "Victory in Europe Day"
+   },
+   {
+    "fecha": "2027-05-17",
+    "nombre": "Lundi de Pentecôte",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2027-07-14",
+    "nombre": "Fête nationale",
+    "nombre_en": "Bastille Day"
+   },
+   {
+    "fecha": "2027-08-15",
+    "nombre": "Assomption",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Toussaint",
+    "nombre_en": "All Saints' Day"
+   },
+   {
+    "fecha": "2027-11-11",
+    "nombre": "Armistice 1918",
+    "nombre_en": "Armistice Day"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Noël",
+    "nombre_en": "Christmas Day"
+   }
+  ],
+  "IT": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Capodanno",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-01-06",
+    "nombre": "Epifania",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2026-04-05",
+    "nombre": "Pasqua",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2026-04-06",
+    "nombre": "Lunedì dell'Angelo",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2026-04-25",
+    "nombre": "Festa della Liberazione",
+    "nombre_en": "Liberation Day"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Festa del Lavoro",
+    "nombre_en": "International Workers Day"
+   },
+   {
+    "fecha": "2026-06-02",
+    "nombre": "Festa della Repubblica",
+    "nombre_en": "Republic Day"
+   },
+   {
+    "fecha": "2026-08-15",
+    "nombre": "Ferragosto o Assunzione",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2026-10-04",
+    "nombre": "San Francesco d'Assisi",
+    "nombre_en": "St. Francis of Assisi's Day"
+   },
+   {
+    "fecha": "2026-11-01",
+    "nombre": "Tutti i Santi",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2026-12-08",
+    "nombre": "Immacolata Concezione",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Natale",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2026-12-26",
+    "nombre": "Santo Stefano",
+    "nombre_en": "St. Stephen's Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Capodanno",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-01-06",
+    "nombre": "Epifania",
+    "nombre_en": "Epiphany"
+   },
+   {
+    "fecha": "2027-03-28",
+    "nombre": "Pasqua",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2027-03-29",
+    "nombre": "Lunedì dell'Angelo",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2027-04-25",
+    "nombre": "Festa della Liberazione",
+    "nombre_en": "Liberation Day"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Festa del Lavoro",
+    "nombre_en": "International Workers Day"
+   },
+   {
+    "fecha": "2027-06-02",
+    "nombre": "Festa della Repubblica",
+    "nombre_en": "Republic Day"
+   },
+   {
+    "fecha": "2027-08-15",
+    "nombre": "Ferragosto o Assunzione",
+    "nombre_en": "Assumption Day"
+   },
+   {
+    "fecha": "2027-10-04",
+    "nombre": "San Francesco d'Assisi",
+    "nombre_en": "St. Francis of Assisi's Day"
+   },
+   {
+    "fecha": "2027-11-01",
+    "nombre": "Tutti i Santi",
+    "nombre_en": "All Saints Day"
+   },
+   {
+    "fecha": "2027-12-08",
+    "nombre": "Immacolata Concezione",
+    "nombre_en": "Immaculate Conception"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Natale",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-12-26",
+    "nombre": "Santo Stefano",
+    "nombre_en": "St. Stephen's Day"
+   }
+  ],
+  "DE": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Neujahr",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Karfreitag",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-04-06",
+    "nombre": "Ostermontag",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2026-05-01",
+    "nombre": "Tag der Arbeit",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2026-05-14",
+    "nombre": "Christi Himmelfahrt",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Pfingstmontag",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2026-10-03",
+    "nombre": "Tag der Deutschen Einheit",
+    "nombre_en": "German Unity Day"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Erster Weihnachtstag",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2026-12-26",
+    "nombre": "Zweiter Weihnachtstag",
+    "nombre_en": "St. Stephen's Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Neujahr",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Karfreitag",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-03-29",
+    "nombre": "Ostermontag",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2027-05-01",
+    "nombre": "Tag der Arbeit",
+    "nombre_en": "Labour Day"
+   },
+   {
+    "fecha": "2027-05-06",
+    "nombre": "Christi Himmelfahrt",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2027-05-17",
+    "nombre": "Pfingstmontag",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2027-10-03",
+    "nombre": "Tag der Deutschen Einheit",
+    "nombre_en": "German Unity Day"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Erster Weihnachtstag",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-12-26",
+    "nombre": "Zweiter Weihnachtstag",
+    "nombre_en": "St. Stephen's Day"
+   }
+  ],
+  "NL": [
+   {
+    "fecha": "2026-01-01",
+    "nombre": "Nieuwjaarsdag",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2026-04-03",
+    "nombre": "Goede Vrijdag",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2026-04-05",
+    "nombre": "Eerste Paasdag",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2026-04-06",
+    "nombre": "Tweede Paasdag",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2026-04-27",
+    "nombre": "Koningsdag",
+    "nombre_en": "King's Day"
+   },
+   {
+    "fecha": "2026-05-05",
+    "nombre": "Bevrijdingsdag",
+    "nombre_en": "Liberation Day"
+   },
+   {
+    "fecha": "2026-05-14",
+    "nombre": "Hemelvaartsdag",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2026-05-24",
+    "nombre": "Eerste Pinksterdag",
+    "nombre_en": "Pentecost"
+   },
+   {
+    "fecha": "2026-05-25",
+    "nombre": "Tweede Pinksterdag",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2026-12-25",
+    "nombre": "Eerste Kerstdag",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2026-12-26",
+    "nombre": "Tweede Kerstdag",
+    "nombre_en": "St. Stephen's Day"
+   },
+   {
+    "fecha": "2027-01-01",
+    "nombre": "Nieuwjaarsdag",
+    "nombre_en": "New Year's Day"
+   },
+   {
+    "fecha": "2027-03-26",
+    "nombre": "Goede Vrijdag",
+    "nombre_en": "Good Friday"
+   },
+   {
+    "fecha": "2027-03-28",
+    "nombre": "Eerste Paasdag",
+    "nombre_en": "Easter Sunday"
+   },
+   {
+    "fecha": "2027-03-29",
+    "nombre": "Tweede Paasdag",
+    "nombre_en": "Easter Monday"
+   },
+   {
+    "fecha": "2027-04-27",
+    "nombre": "Koningsdag",
+    "nombre_en": "King's Day"
+   },
+   {
+    "fecha": "2027-05-05",
+    "nombre": "Bevrijdingsdag",
+    "nombre_en": "Liberation Day"
+   },
+   {
+    "fecha": "2027-05-06",
+    "nombre": "Hemelvaartsdag",
+    "nombre_en": "Ascension Day"
+   },
+   {
+    "fecha": "2027-05-16",
+    "nombre": "Eerste Pinksterdag",
+    "nombre_en": "Pentecost"
+   },
+   {
+    "fecha": "2027-05-17",
+    "nombre": "Tweede Pinksterdag",
+    "nombre_en": "Whit Monday"
+   },
+   {
+    "fecha": "2027-12-25",
+    "nombre": "Eerste Kerstdag",
+    "nombre_en": "Christmas Day"
+   },
+   {
+    "fecha": "2027-12-26",
+    "nombre": "Tweede Kerstdag",
+    "nombre_en": "St. Stephen's Day"
+   }
+  ]
+ }
+}
