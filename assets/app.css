@@ -219,3 +219,70 @@ button,select,input{font-family:inherit}
   .r2,.r3,.r4{grid-template-columns:1fr}.marca-sub{display:none}.campo select,.campo input{min-width:0;width:100%}.campo{flex:1 1 45%}
   .hero{padding:60px 0 50px}.cifra b{font-size:34px}
 }
+
+/* ================= Tema claro (por defecto) ================= */
+body.claro{--texto:#17143f;--texto-2:#4b4877;--texto-3:#7d7aa6;--lila:#4f48e6;--borde:#e3e1f6;--vidrio:rgba(255,255,255,.75);--sombra:0 12px 34px rgba(61,53,224,.14);--noche-3:#ffffff;background:#f5f5fc;color:var(--texto)}
+body.claro .barra{background:rgba(255,255,255,.9);border-bottom-color:#ebeaf8}
+body.claro .marca-logo span{color:#e8a300}
+body.claro .nav a:hover{color:var(--indigo)}
+body.claro .hero{background:linear-gradient(180deg,#ffffff 0%,#f1f0ff 100%)}
+body.claro .hero::before{background:radial-gradient(circle,rgba(91,85,255,.22),rgba(91,85,255,.06) 45%,transparent 70%)}
+body.claro .hero::after{background:radial-gradient(circle,rgba(249,185,22,.14),transparent 65%)}
+body.claro .hero h1 b{color:var(--indigo)}
+body.claro .pildora-vivo{background:#fff}
+body.claro .cifra{background:#fff;box-shadow:var(--sombra);border-color:#e7e5fb}
+body.claro .cifra b{color:var(--indigo);font-weight:400}
+body.claro .btn-borde{color:var(--texto);background:#fff}
+body.claro .ticker{background:var(--indigo);border-color:var(--indigo)}
+body.claro .ticker-item{color:#d9d7ff}
+body.claro .ticker-item b{color:#fff}
+body.claro .titulo-sec b{color:var(--indigo)}
+body.claro #mapa-sec{background:#f5f5fc}
+body.claro .mapa-caja{background:radial-gradient(ellipse at center,#2b2490 0%,#16124a 75%);box-shadow:0 20px 60px rgba(29,24,110,.25);padding:24px}
+body.claro .regiones-caja{background:#fff;box-shadow:var(--sombra)}
+body.claro .chip{color:var(--texto-2)}
+body.claro .filtros{background:rgba(255,255,255,.94);border-bottom-color:#ebeaf8;box-shadow:0 6px 20px rgba(61,53,224,.06)}
+body.claro .campo select,body.claro .campo input{background-color:#f7f7fd;color:var(--texto);border-color:#dedcf3;background-image:linear-gradient(45deg,transparent 50%,var(--indigo) 50%),linear-gradient(135deg,var(--indigo) 50%,transparent 50%)}
+body.claro .campo input{background-image:none}
+body.claro .pestana{background:#fff;color:var(--texto-2)}
+body.claro .pestana:hover{color:var(--indigo)}
+body.claro .pestana.activa{color:#fff;background:var(--indigo-2)}
+body.claro .tarjeta{background:#fff;border-color:#e7e5fb;box-shadow:0 4px 18px rgba(61,53,224,.06)}
+body.claro .tarjeta li{color:var(--texto-2)}
+body.claro .lectura{background:linear-gradient(120deg,#3d35e0,#5b55ff);border:0;color:#fff}
+body.claro .lectura p,body.claro .lectura a{color:#fff}
+body.claro .lectura small{color:var(--amarillo-2)}
+body.claro .trend-img{background-color:#e9e7fb}
+body.claro .trend-img::after{background:linear-gradient(180deg,rgba(255,255,255,0) 35%,#fff)}
+body.claro .insignia{background:rgba(255,255,255,.92);color:var(--texto);border-color:#e3e1f6}
+body.claro .insignia.nuevo{background:var(--amarillo);color:#1a1640}
+body.claro .trend-noticia:hover{color:var(--indigo)}
+body.claro .semaforo{background:#f6f5ff}
+body.claro .semaforo b{color:var(--texto)}
+body.claro .titular{border-bottom-color:#efeefa}
+body.claro .titular:hover .t{color:var(--indigo)}
+body.claro .barra-pista{background:#eeedfb}
+body.claro .tooltip{background:#17143f;color:#fff}
+body.claro .palabra .ej{color:var(--indigo)}
+body.claro .etq{color:var(--texto-2)}
+body.claro .etq.si{color:#059669;border-color:#a7f3d0}
+body.claro .etq.cuidado{color:#b45309;border-color:#fde68a}
+body.claro .etq.no{color:#dc2626;border-color:#fecaca}
+body.claro .equivalentes{border-top-color:#efeefa}
+body.claro .equivalentes b{color:var(--texto)}
+body.claro .hashtag{background:#f1f0ff;color:var(--indigo);border-color:#dcdaf8}
+body.claro .hashtag:hover{background:var(--indigo-2);color:#fff}
+body.claro .evento .dia{color:#fff}
+body.claro .evento.comercial .dia{color:#1a1640}
+body.claro .tabla-scroll{background:#fff;border-color:#e7e5fb}
+body.claro .tabla th{color:var(--indigo)}
+body.claro .tabla td:first-child{color:var(--texto)}
+body.claro .tabla th,body.claro .tabla td{border-bottom-color:#efeefa}
+body.claro .vacio{background:#fff}
+body.claro .pie{background:#17143f;color:#c9c7f0;border-top:0}
+body.claro .pie h4{color:#fff}
+body.claro .pie .aviso{color:#8e8bc4}
+.tema-btn{border:1px solid var(--borde);background:transparent;color:var(--texto);width:40px;height:40px;border-radius:50%;cursor:pointer;font-size:17px;display:grid;place-items:center}
+body.claro .tema-btn{background:#fff}
+.barra-der{display:flex;gap:10px;align-items:center}
+body.claro .pestana.activa{box-shadow:0 4px 12px rgba(91,85,255,.3)}

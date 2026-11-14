@@ -44,7 +44,14 @@
   }
 
   // ------------------------------------------------------------------ arranque
+  function aplicarTema(t) {
+    document.body.classList.toggle("claro", t !== "oscuro");
+    const b = $("#btn-tema"); if (b) { b.textContent = t === "oscuro" ? "☀" : "☾"; b.title = t === "oscuro" ? "Cambiar a modo claro" : "Cambiar a modo oscuro"; }
+  }
   async function iniciar() {
+    let tema = "claro"; try { tema = localStorage.getItem("pulso-tema") || "claro"; } catch {}
+    aplicarTema(tema);
+    $("#btn-tema").addEventListener("click", () => { const t = document.body.classList.contains("claro") ? "oscuro" : "claro"; aplicarTema(t); try { localStorage.setItem("pulso-tema", t); } catch {} });
     leerHash();
     const [cat, pulso, sectores, festivos, dicc] = await Promise.all([
       cargar("config/catalogo.json"), cargar("data/pulso.json"), cargar("data/sectores.json"), cargar("data/festivos.json"), cargar("data/insights/diccionario.json"),
