@@ -9,6 +9,7 @@ Modos:
 Solo usa la biblioteca estándar de Python: no requiere instalar nada.
 """
 import json
+import os
 import random
 import re
 import sys
@@ -176,6 +177,29 @@ def noticias_pais(pais, consulta=None, max_items=12):
     return res or []
 
 
+def youtube_populares(region):
+    clave = os.environ.get("YOUTUBE_API_KEY")
+    if not clave:
+        return None  # sin clave: se omite hasta que se configure el secreto en GitHub
+    url = "https://www.googleapis.com/youtube/v3/videos?" + urllib.parse.urlencode(
+        {"part": "snippet,statistics", "chart": "mostPopular", "regionCode": region, "maxResults": 12, "key": clave})
+    raw = descargar(url, intentos=2)
+    if not raw:
+        return None
+    try:
+        items = json.loads(raw).get("items", [])
+    except Exception:  # noqa: BLE001
+        return None
+    return [{
+        "titulo": v["snippet"]["title"],
+        "canal": v["snippet"].get("channelTitle", ""),
+        "url": f"https://www.youtube.com/watch?v={v['id']}",
+        "imagen": v["snippet"].get("thumbnails", {}).get("medium", {}).get("url", ""),
+        "vistas": int(v.get("statistics", {}).get("viewCount", 0)),
+        "publicado": v["snippet"].get("publishedAt"),
+    } for v in items]
+
+
 # ---------------------------------------------------------------- modos
 def modo_pulso():
     historial = leer_json("historial_trends.json", {})
@@ -212,6 +236,9 @@ def modo_pulso():
             registrar(pais["id"], trends)
             bloque["trends"] = trends
         bloque["titulares"] = noticias_pais(pais, max_items=15)
+        yt = youtube_populares(pais["id"])
+        if yt:
+            bloque["youtube"] = yt
         if pais.get("news_hispano"):
             bloque["titulares_hispanos"] = google_news(pais["news_hispano"], max_items=12) or []
         for ciudad in pais.get("ciudades", []):

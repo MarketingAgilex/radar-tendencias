@@ -43,6 +43,8 @@ jobs:
           esac
 
       - name: Recolectar
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/recolectar.py ${{ steps.modo.outputs.modo }}
 
       - name: Guardar datos

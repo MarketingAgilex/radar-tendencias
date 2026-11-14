@@ -249,6 +249,7 @@
         <div class="tarjeta"><h3>Lo más fuerte de la semana</h3>${semana.length ? barras(semana, "max_trafico", "Búsquedas aproximadas según Google (valor mínimo publicado). Pasa el cursor para ver detalle.") : vacio("Juntando historial", " Las gráficas se llenan con cada hora de recolección.")}</div>
         <div class="tarjeta"><h3>${ciudad ? `Titulares de ${esc(ciudad.nombre)}` : "Titulares del país"}</h3>${listaTitulares((ciudad?.titulares || d.titulares || []).slice(0, 10))}</div>
       </div>
+      ${d.youtube?.length && !ciudad ? `<h2 class="titulo-sec" style="font-size:26px;margin-top:36px">Lo más visto en <b>YouTube</b></h2><div class="rejilla r4">${d.youtube.filter((v) => coincide(v.titulo + " " + v.canal)).slice(0, 8).map((v) => `<a class="tarjeta trend" style="text-decoration:none" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="trend-img" style="background-image:url('${esc(v.imagen)}')"><div class="trend-insignias"><span class="insignia">${Number(v.vistas).toLocaleString("es")} vistas</span></div></div><div class="trend-cuerpo"><h3 style="font-size:14.5px;text-transform:none">${esc(v.titulo)}</h3><div class="trend-meta">${esc(v.canal)}</div></div></a>`).join("")}</div>` : ""}
       ${d.titulares_hispanos && !ciudad ? `<div class="tarjeta" style="margin-top:18px"><h3>Lo que lee la comunidad hispana</h3>${listaTitulares(d.titulares_hispanos.slice(0, 8))}</div>` : ""}`;
   }
 
