@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T03:10:39Z",
+ "actualizado": "2026-11-14T03:12:37Z",
  "paises": {
   "CO": {
    "fecha": "2026-11-13",
@@ -680,73 +680,79 @@
    ]
   },
   "PE": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-13",
    "articulos": [
     {
      "articulo": "León XIV",
      "proyecto": "es.wikipedia",
-     "vistas": 21200,
+     "vistas": 14700,
      "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
-    },
-    {
-     "articulo": "Francisco (papa)",
-     "proyecto": "es.wikipedia",
-     "vistas": 4600,
-     "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
     },
     {
      "articulo": "Edgard Rimaycuna",
      "proyecto": "es.wikipedia",
-     "vistas": 3300,
+     "vistas": 3500,
      "url": "https://es.wikipedia.org/wiki/Edgard_Rimaycuna"
+    },
+    {
+     "articulo": "Francisco (papa)",
+     "proyecto": "es.wikipedia",
+     "vistas": 3300,
+     "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
     },
     {
      "articulo": "Juan Pablo II",
      "proyecto": "es.wikipedia",
-     "vistas": 3200,
+     "vistas": 2500,
      "url": "https://es.wikipedia.org/wiki/Juan_Pablo_II"
     },
     {
-     "articulo": "ChatGPT",
-     "proyecto": "en.wikipedia",
-     "vistas": 3100,
-     "url": "https://en.wikipedia.org/wiki/ChatGPT"
+     "articulo": "Toribio de Mogrovejo",
+     "proyecto": "es.wikipedia",
+     "vistas": 2200,
+     "url": "https://es.wikipedia.org/wiki/Toribio_de_Mogrovejo"
+    },
+    {
+     "articulo": "Óscar Arnulfo Romero",
+     "proyecto": "es.wikipedia",
+     "vistas": 2200,
+     "url": "https://es.wikipedia.org/wiki/%C3%93scar_Arnulfo_Romero"
     },
     {
      "articulo": "Benedicto XVI",
      "proyecto": "es.wikipedia",
-     "vistas": 2600,
+     "vistas": 2100,
      "url": "https://es.wikipedia.org/wiki/Benedicto_XVI"
     },
     {
-     "articulo": "Jensen Huang",
-     "proyecto": "es.wikipedia",
-     "vistas": 1900,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
+     "articulo": "ChatGPT",
+     "proyecto": "en.wikipedia",
+     "vistas": 1800,
+     "url": "https://en.wikipedia.org/wiki/ChatGPT"
     },
     {
-     "articulo": "Papa",
+     "articulo": "Brian Tracy",
      "proyecto": "es.wikipedia",
      "vistas": 1600,
-     "url": "https://es.wikipedia.org/wiki/Papa"
-    },
-    {
-     "articulo": "Juan Pablo I",
-     "proyecto": "es.wikipedia",
-     "vistas": 1400,
-     "url": "https://es.wikipedia.org/wiki/Juan_Pablo_I"
-    },
-    {
-     "articulo": "Regina Torné",
-     "proyecto": "es.wikipedia",
-     "vistas": 1300,
-     "url": "https://es.wikipedia.org/wiki/Regina_Torn%C3%A9"
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
     },
     {
      "articulo": "Carlos Castillo Mattasoglio",
      "proyecto": "es.wikipedia",
-     "vistas": 1300,
+     "vistas": 1600,
      "url": "https://es.wikipedia.org/wiki/Carlos_Castillo_Mattasoglio"
+    },
+    {
+     "articulo": "Mondonguito (comediante)",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Mondonguito_%28comediante%29"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
     }
    ]
   },
@@ -794,6 +800,423 @@
      "proyecto": "es.wikipedia",
      "vistas": 1300,
      "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Oyarz%C3%BAn"
+    }
+   ]
+  },
+  "AR": {
+   "fecha": "2026-11-13",
+   "articulos": [
+    {
+     "articulo": "León XIV",
+     "proyecto": "es.wikipedia",
+     "vistas": 7900,
+     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
+    },
+    {
+     "articulo": "Supercopa Argentina",
+     "proyecto": "es.wikipedia",
+     "vistas": 6200,
+     "url": "https://es.wikipedia.org/wiki/Supercopa_Argentina"
+    },
+    {
+     "articulo": "Brian Tracy",
+     "proyecto": "es.wikipedia",
+     "vistas": 5400,
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+     "articulo": "Chiclayo",
+     "proyecto": "es.wikipedia",
+     "vistas": 4300,
+     "url": "https://es.wikipedia.org/wiki/Chiclayo"
+    },
+    {
+     "articulo": "Jorge Montejo",
+     "proyecto": "es.wikipedia",
+     "vistas": 3900,
+     "url": "https://es.wikipedia.org/wiki/Jorge_Montejo"
+    },
+    {
+     "articulo": "Aníbal Gordon",
+     "proyecto": "es.wikipedia",
+     "vistas": 3800,
+     "url": "https://es.wikipedia.org/wiki/An%C3%ADbal_Gordon"
+    },
+    {
+     "articulo": "Francisco (papa)",
+     "proyecto": "es.wikipedia",
+     "vistas": 3300,
+     "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "es.wikipedia",
+     "vistas": 3100,
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Germania (Buenos Aires)",
+     "proyecto": "es.wikipedia",
+     "vistas": 2800,
+     "url": "https://es.wikipedia.org/wiki/Germania_%28Buenos_Aires%29"
+    },
+    {
+     "articulo": "Mauricio Pochettino",
+     "proyecto": "es.wikipedia",
+     "vistas": 2800,
+     "url": "https://es.wikipedia.org/wiki/Mauricio_Pochettino"
+    },
+    {
+     "articulo": "Lucas Alario",
+     "proyecto": "es.wikipedia",
+     "vistas": 2700,
+     "url": "https://es.wikipedia.org/wiki/Lucas_Alario"
+    },
+    {
+     "articulo": "Matías Alejandro Fernández",
+     "proyecto": "es.wikipedia",
+     "vistas": 2700,
+     "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Alejandro_Fern%C3%A1ndez"
+    },
+    {
+     "articulo": "Ulises Bueno",
+     "proyecto": "es.wikipedia",
+     "vistas": 2700,
+     "url": "https://es.wikipedia.org/wiki/Ulises_Bueno"
+    },
+    {
+     "articulo": "Club Estudiantes de La Plata",
+     "proyecto": "es.wikipedia",
+     "vistas": 2500,
+     "url": "https://es.wikipedia.org/wiki/Club_Estudiantes_de_La_Plata"
+    },
+    {
+     "articulo": "Guido Carrillo",
+     "proyecto": "es.wikipedia",
+     "vistas": 2400,
+     "url": "https://es.wikipedia.org/wiki/Guido_Carrillo"
+    },
+    {
+     "articulo": "Nico Paz",
+     "proyecto": "es.wikipedia",
+     "vistas": 2300,
+     "url": "https://es.wikipedia.org/wiki/Nico_Paz"
+    },
+    {
+     "articulo": "Carlos Babington",
+     "proyecto": "es.wikipedia",
+     "vistas": 2300,
+     "url": "https://es.wikipedia.org/wiki/Carlos_Babington"
+    },
+    {
+     "articulo": "Cristopher Fiermarin",
+     "proyecto": "es.wikipedia",
+     "vistas": 2300,
+     "url": "https://es.wikipedia.org/wiki/Cristopher_Fiermarin"
+    },
+    {
+     "articulo": "Isabel de Baviera",
+     "proyecto": "es.wikipedia",
+     "vistas": 2200,
+     "url": "https://es.wikipedia.org/wiki/Isabel_de_Baviera"
+    },
+    {
+     "articulo": "Juan Pablo II",
+     "proyecto": "es.wikipedia",
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Juan_Pablo_II"
+    },
+    {
+     "articulo": "Benedicto XVI",
+     "proyecto": "es.wikipedia",
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Benedicto_XVI"
+    },
+    {
+     "articulo": "Rocío Robles",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Roc%C3%ADo_Robles"
+    },
+    {
+     "articulo": "Diego Forlán",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Diego_Forl%C3%A1n"
+    },
+    {
+     "articulo": "Osvaldo Gross",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Osvaldo_Gross"
+    },
+    {
+     "articulo": "Milo J",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Milo_J"
+    },
+    {
+     "articulo": "Adrián Suar",
+     "proyecto": "es.wikipedia",
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Suar"
+    },
+    {
+     "articulo": "Phil Collins",
+     "proyecto": "es.wikipedia",
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Phil_Collins"
+    },
+    {
+     "articulo": "Remedios de Escalada (Lanús)",
+     "proyecto": "es.wikipedia",
+     "vistas": 1700,
+     "url": "https://es.wikipedia.org/wiki/Remedios_de_Escalada_%28Lan%C3%BAs%29"
+    },
+    {
+     "articulo": "Gerónimo Rulli",
+     "proyecto": "es.wikipedia",
+     "vistas": 1700,
+     "url": "https://es.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli"
+    },
+    {
+     "articulo": "Leonardo Balerdi",
+     "proyecto": "es.wikipedia",
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Leonardo_Balerdi"
+    }
+   ]
+  },
+  "ES": {
+   "fecha": "2026-11-13",
+   "articulos": [
+    {
+     "articulo": "Jordi Wild",
+     "proyecto": "es.wikipedia",
+     "vistas": 56500,
+     "url": "https://es.wikipedia.org/wiki/Jordi_Wild"
+    },
+    {
+     "articulo": "José María Figaredo",
+     "proyecto": "es.wikipedia",
+     "vistas": 25800,
+     "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Figaredo"
+    },
+    {
+     "articulo": "Isabel Medina Peralta",
+     "proyecto": "es.wikipedia",
+     "vistas": 23600,
+     "url": "https://es.wikipedia.org/wiki/Isabel_Medina_Peralta"
+    },
+    {
+     "articulo": "Pablo Bustinduy",
+     "proyecto": "es.wikipedia",
+     "vistas": 22800,
+     "url": "https://es.wikipedia.org/wiki/Pablo_Bustinduy"
+    },
+    {
+     "articulo": "Ada Colau",
+     "proyecto": "es.wikipedia",
+     "vistas": 22500,
+     "url": "https://es.wikipedia.org/wiki/Ada_Colau"
+    },
+    {
+     "articulo": "Frente Amplio (España)",
+     "proyecto": "es.wikipedia",
+     "vistas": 20100,
+     "url": "https://es.wikipedia.org/wiki/Frente_Amplio_%28Espa%C3%B1a%29"
+    },
+    {
+     "articulo": "Carlos Cuerpo",
+     "proyecto": "es.wikipedia",
+     "vistas": 19700,
+     "url": "https://es.wikipedia.org/wiki/Carlos_Cuerpo"
+    },
+    {
+     "articulo": "Alberto Núñez Feijóo",
+     "proyecto": "es.wikipedia",
+     "vistas": 18400,
+     "url": "https://es.wikipedia.org/wiki/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o"
+    },
+    {
+     "articulo": "Pedro Sánchez",
+     "proyecto": "es.wikipedia",
+     "vistas": 13300,
+     "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
+    },
+    {
+     "articulo": "Juan Bravo Baena",
+     "proyecto": "es.wikipedia",
+     "vistas": 12600,
+     "url": "https://es.wikipedia.org/wiki/Juan_Bravo_Baena"
+    },
+    {
+     "articulo": "Santiago Abascal",
+     "proyecto": "es.wikipedia",
+     "vistas": 12300,
+     "url": "https://es.wikipedia.org/wiki/Santiago_Abascal"
+    },
+    {
+     "articulo": "Helena Bianco",
+     "proyecto": "es.wikipedia",
+     "vistas": 11900,
+     "url": "https://es.wikipedia.org/wiki/Helena_Bianco"
+    },
+    {
+     "articulo": "Núcleo Nacional",
+     "proyecto": "es.wikipedia",
+     "vistas": 10500,
+     "url": "https://es.wikipedia.org/wiki/N%C3%BAcleo_Nacional"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "es.wikipedia",
+     "vistas": 9900,
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Robert Enke",
+     "proyecto": "es.wikipedia",
+     "vistas": 8800,
+     "url": "https://es.wikipedia.org/wiki/Robert_Enke"
+    },
+    {
+     "articulo": "Elecciones generales de España de 2026",
+     "proyecto": "es.wikipedia",
+     "vistas": 8300,
+     "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
+    },
+    {
+     "articulo": "Pilar Bardem",
+     "proyecto": "es.wikipedia",
+     "vistas": 7600,
+     "url": "https://es.wikipedia.org/wiki/Pilar_Bardem"
+    },
+    {
+     "articulo": "Luisa Martín",
+     "proyecto": "es.wikipedia",
+     "vistas": 7100,
+     "url": "https://es.wikipedia.org/wiki/Luisa_Mart%C3%ADn"
+    },
+    {
+     "articulo": "Lucía Hoyos",
+     "proyecto": "es.wikipedia",
+     "vistas": 7000,
+     "url": "https://es.wikipedia.org/wiki/Luc%C3%ADa_Hoyos"
+    },
+    {
+     "articulo": "Rosalía (cantante)",
+     "proyecto": "es.wikipedia",
+     "vistas": 6900,
+     "url": "https://es.wikipedia.org/wiki/Rosal%C3%ADa_%28cantante%29"
+    },
+    {
+     "articulo": "Marcial Dorado",
+     "proyecto": "es.wikipedia",
+     "vistas": 6900,
+     "url": "https://es.wikipedia.org/wiki/Marcial_Dorado"
+    },
+    {
+     "articulo": "Pablo Hernández de Cos",
+     "proyecto": "es.wikipedia",
+     "vistas": 6700,
+     "url": "https://es.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_de_Cos"
+    },
+    {
+     "articulo": "Ángeles Amador",
+     "proyecto": "es.wikipedia",
+     "vistas": 6100,
+     "url": "https://es.wikipedia.org/wiki/%C3%81ngeles_Amador"
+    },
+    {
+     "articulo": "Carlos Bardem",
+     "proyecto": "es.wikipedia",
+     "vistas": 6000,
+     "url": "https://es.wikipedia.org/wiki/Carlos_Bardem"
+    },
+    {
+     "articulo": "Begoña Gómez Fernández",
+     "proyecto": "es.wikipedia",
+     "vistas": 5900,
+     "url": "https://es.wikipedia.org/wiki/Bego%C3%B1a_G%C3%B3mez_Fern%C3%A1ndez"
+    },
+    {
+     "articulo": "Portada",
+     "proyecto": "ca.wikipedia",
+     "vistas": 5700,
+     "url": "https://ca.wikipedia.org/wiki/Portada"
+    },
+    {
+     "articulo": "La Séptima",
+     "proyecto": "es.wikipedia",
+     "vistas": 5100,
+     "url": "https://es.wikipedia.org/wiki/La_S%C3%A9ptima"
+    },
+    {
+     "articulo": "Oihan Sancet",
+     "proyecto": "es.wikipedia",
+     "vistas": 4700,
+     "url": "https://es.wikipedia.org/wiki/Oihan_Sancet"
+    },
+    {
+     "articulo": "Se Acabó la Fiesta",
+     "proyecto": "es.wikipedia",
+     "vistas": 4700,
+     "url": "https://es.wikipedia.org/wiki/Se_Acab%C3%B3_la_Fiesta"
+    },
+    {
+     "articulo": "Elecciones generales de España de 2023",
+     "proyecto": "es.wikipedia",
+     "vistas": 4500,
+     "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2023"
+    }
+   ]
+  },
+  "PT": {
+   "fecha": "2026-11-13",
+   "articulos": [
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "pt.wikipedia",
+     "vistas": 2400,
+     "url": "https://pt.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Nvidia",
+     "proyecto": "pt.wikipedia",
+     "vistas": 2300,
+     "url": "https://pt.wikipedia.org/wiki/Nvidia"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "en.wikipedia",
+     "vistas": 2200,
+     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Isaltino Morais",
+     "proyecto": "pt.wikipedia",
+     "vistas": 2200,
+     "url": "https://pt.wikipedia.org/wiki/Isaltino_Morais"
+    },
+    {
+     "articulo": "Isabel da Baviera, Imperatriz da Áustria",
+     "proyecto": "pt.wikipedia",
+     "vistas": 1500,
+     "url": "https://pt.wikipedia.org/wiki/Isabel_da_Baviera%2C_Imperatriz_da_%C3%81ustria"
+    },
+    {
+     "articulo": "Dino D'Santiago",
+     "proyecto": "pt.wikipedia",
+     "vistas": 1300,
+     "url": "https://pt.wikipedia.org/wiki/Dino_D%27Santiago"
+    },
+    {
+     "articulo": "Colette Kress",
+     "proyecto": "en.wikipedia",
+     "vistas": 1200,
+     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
     }
    ]
   },
