@@ -81,7 +81,20 @@
     "bundestag",
     "kanzler",
     "verkiezingen",
-    "regering"
+    "regering",
+    "vicepresidente",
+    "vicepresidenta",
+    "plan nacional de desarrollo",
+    "corte suprema",
+    "corte constitucional",
+    "procuraduria",
+    "contraloria",
+    "judicial",
+    "judiciales",
+    "juicio",
+    "impeachment",
+    "supreme court",
+    "char"
    ]
   },
   "violencia": {
@@ -232,7 +245,13 @@
     "collides",
     "colision",
     "choque de trenes",
-    "descarrilamiento"
+    "descarrilamiento",
+    "temblor",
+    "temblores",
+    "volco",
+    "embestido",
+    "descarrila",
+    "derrumbe"
    ]
   },
   "migracion": {
@@ -315,7 +334,11 @@
     "porn",
     "nude",
     "nudes",
-    "sex"
+    "sex",
+    "sexuales",
+    "agresion sexual",
+    "agresiones sexuales",
+    "acoso sexual"
    ]
   },
   "guerras": {
