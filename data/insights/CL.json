@@ -1,0 +1,1057 @@
+{
+ "pais": "CL",
+ "actualizado": "2026-11-14T05:30:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "Chile es uno de los mercados de comercio electrónico más maduros de la región y ya mira al Black Friday oficial de la Cámara de Comercio de Santiago, del 27 al 30 de noviembre, con medios que enseñan a comparar precios y evitar ofertas falsas. El fin de semana trae panoramas culturales y masivos: arrancó la Feria Internacional del Libro de Santiago (FILSA) en la Estación Mapocho, hay Noche de Museos y el festival Creamfields. La farándula de TV ('Primer Plano', 'Vértigo') domina las búsquedas no deportivas. Funcionan los mensajes de precio transparente, cuotas, despacho rápido y panoramas para disfrutar el inicio del verano.",
+ "ideas_hoy": [
+  {
+   "titulo": "Black Friday CCS: arma tu lista",
+   "idea": "El Black Friday oficial será del 27 al 30 de noviembre. Publica 'Mi lista del Black: qué comprar y cuánto gastar' e invita a guardar el post. Los medios están enseñando a revisar si un precio bajó de verdad: muestra tu precio de referencia sin trucos.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Acceso anticipado con registro",
+   "idea": "En la Biblioteca de Anuncios de Meta se repite el 'acceso anticipado Black Friday' para quienes se registran. Captura correos o WhatsApp hoy con un beneficio concreto y avísales al tiro cuando parta la oferta.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Panorama FILSA",
+   "idea": "La Feria del Libro de Santiago está en marcha. Librerías, papelerías y marcas de regalos pueden proponer 'el libro como regalo de Navidad' con recomendaciones por perfil. Bacán para cuentas de cultura y educación.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Previa del verano",
+   "idea": "Con Creamfields y la temporada de festivales, moda, accesorios y belleza pueden mostrar 'el look para el carrete de verano'. Tono juvenil, con poleras, lentes y bloqueador.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Cerezas rumbo a Asia",
+   "idea": "Empieza la temporada de exportación de cerezas, clave para Chile de cara al Año Nuevo Chino. Exportadores y empresas de logística pueden contar su operación de temporada y su cadena de frío.",
+   "formato": "LinkedIn"
+  }
+ ],
+ "semaforo": [
+  {
+   "termino": "inessa sorokina",
+   "color": "amarillo",
+   "por_que": "Búsqueda de farándula por una entrevista en TV sobre una expareja; tono de chisme.",
+   "idea": "Úsalo solo como gancho de 'qué ver esta noche', sin opinar de su vida privada."
+  },
+  {
+   "termino": "creamfields",
+   "color": "verde",
+   "por_que": "Festival masivo de música electrónica; conversación de panoramas y verano.",
+   "idea": "Looks de festival, hidratación, transporte de regreso y fotos del evento para marcas juveniles."
+  },
+  {
+   "termino": "afp uno",
+   "color": "amarillo",
+   "por_que": "Tema financiero sobre pensiones: interesa, pero puede volverse técnico o polémico.",
+   "idea": "Para fintech y asesores: educación financiera simple sobre ahorro para el retiro, sin recomendaciones de inversión."
+  },
+  {
+   "termino": "pinilla en vertigo",
+   "color": "amarillo",
+   "por_que": "Momento incómodo en un programa de TV que generó críticas.",
+   "idea": "Evita sumarte; si hablas del programa, céntrate en el entretenimiento en general."
+  }
+ ],
+ "ocultar": [
+  "Ruta 68 y carreteras del norte y sur: los puntos donde continúan las movilizaciones de camioneros",
+  "Revelan identidad de agresor de Luis Slimming: sería funcionario público",
+  "\"No lo estimamos conveniente\": Undurraga explica por qué hubo duelo para Lelio y no para Guzmán",
+  "Camila Bustamante, víctima del Sodalicio tras su reunión con el Papa: “Lo sentí preocupado y con un compromiso personal”",
+  "Un petrolero hunde un ferry con más de 129 personas a bordo en el río Mississippi",
+  "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
+  "Agreden a famoso humorista en medio de show: su reacción ya es viral en redes sociales",
+  "Jóvenes privados de libertad participan en consulta para definir futuras actividades deportivas junto al IND",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela"
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor chileno",
+   "resumen": "Muy digital y acostumbrado a comprar en línea en grandes retailers y marketplaces. Compara precios con detalle, paga con tarjeta y en cuotas, y espera despacho rápido y seguimiento. Valora la seriedad, el cumplimiento y la buena atención posventa; reclama si algo falla. Santiago concentra el consumo, con regiones que exigen envíos confiables. Las fechas comerciales (CyberDay, Black Friday, Navidad) marcan el calendario.",
+   "como_habla": "Rápido y con muletillas propias ('po', 'cachai', 'al tiro'). En redes usa mucho humor y memes de actualidad y farándula. En lo comercial prefiere un trato directo, amable y sin exageraciones.",
+   "dolores": [
+    "Ofertas infladas o falsas",
+    "Despachos atrasados",
+    "Costos de envío altos a regiones",
+    "Posventa lenta"
+   ],
+   "motivaciones": [
+    "Precio conveniente y cuotas sin interés",
+    "Rapidez y seguimiento",
+    "Marcas internacionales",
+    "Comodidad"
+   ],
+   "frenos": [
+    "Tiendas sin respaldo o sin reseñas",
+    "Políticas de cambio poco claras"
+   ],
+   "tono": "Directo, cercano y transparente; humor ligero.",
+   "evitar": [
+    "Exagerar beneficios",
+    "Lenguaje muy formal en redes",
+    "Garabatos o jerga vulgar"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "TikTok",
+    "Facebook",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Despacho al tiro y seguimiento en línea.'",
+    "'Precio claro, sin letra chica.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce chileno",
+   "resumen": "Pymes y emprendimientos que venden por Instagram, tiendas en línea propias y marketplaces. Muchos importan productos de EE. UU. y China, o venden marcas de outlet. Compiten con grandes retailers en las fechas de descuento.",
+   "como_habla": "Práctico: 'despacho', 'stock', 'tienda online', 'cuotas', 'boleta', 'retiro en tienda'.",
+   "dolores": [
+    "Competir con grandes retailers en Black Friday",
+    "Costos de despacho",
+    "Gestionar devoluciones"
+   ],
+   "motivaciones": [
+    "Vender más en fechas comerciales",
+    "Crecer a regiones y al exterior",
+    "Automatizar"
+   ],
+   "frenos": [
+    "Miedo a invertir en pauta sin retorno"
+   ],
+   "tono": "Práctico, motivador y concreto.",
+   "evitar": [
+    "Promesas de ganancias fáciles"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "LinkedIn",
+    "WhatsApp Business",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Tu pyme también puede jugar en el Black Friday.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Exportadores de fruta (cerezas, arándanos, uvas, nueces), vino, salmón y productos del mar, e importadores de tecnología, insumos y maquinaria. Muy enfocados en cumplimiento, cadena de frío y trazabilidad.",
+   "como_habla": "Formal y técnico: 'temporada', 'cadena de frío', 'tiempo de tránsito', 'documentos de origen', 'puerta a puerta'.",
+   "dolores": [
+    "Ventanas de temporada muy cortas",
+    "Retrasos en tránsito",
+    "Costos logísticos variables"
+   ],
+   "motivaciones": [
+    "Llegar a tiempo a Asia, EE. UU. y Europa",
+    "Visibilidad del envío",
+    "Un socio confiable"
+   ],
+   "frenos": [
+    "Cambiar de proveedor en plena temporada"
+   ],
+   "tono": "Profesional, sobrio y orientado a resultados.",
+   "evitar": [
+    "Lenguaje informal",
+    "Promesas sin respaldo"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo y llamada comercial",
+    "Ferias y gremios (ProChile, cámaras de comercio)",
+    "WhatsApp para seguimiento"
+   ],
+   "mensajes": [
+    "'Tu temporada, a tiempo y con seguimiento.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande / corporativo",
+   "resumen": "Retail, minería, banca, energía y agroindustria con procesos de compra formales, foco en sostenibilidad y cumplimiento normativo.",
+   "como_habla": "Corporativo: 'licitación', 'SLA', 'KPI', 'ESG', 'proveedor homologado'.",
+   "dolores": [
+    "Proveedores que no escalan",
+    "Riesgo reputacional"
+   ],
+   "motivaciones": [
+    "Eficiencia",
+    "Sostenibilidad medible",
+    "Socios con presencia regional"
+   ],
+   "frenos": [
+    "Ciclos de decisión largos"
+   ],
+   "tono": "Formal, con datos y casos.",
+   "evitar": [
+    "Mensajes sin evidencia"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Eventos empresariales",
+    "Prensa de negocios (Diario Financiero, El Mercurio Inversiones)"
+   ],
+   "mensajes": [
+    "'Operación medible, confiable y a escala.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z chilena (18–28)",
+   "resumen": "Nativa digital, sigue streamers y creadores de humor, música urbana y festivales. Compra en línea con facilidad y es muy sensible a la autenticidad.",
+   "como_habla": "Jerga chilena intensa: 'cachai', 'bacán', 'fome', 'carrete', 'al tiro', 'cuático'.",
+   "dolores": [
+    "Poco presupuesto",
+    "Marcas que intentan hablar como ellos y fallan"
+   ],
+   "motivaciones": [
+    "Panoramas y experiencias",
+    "Estilo propio",
+    "Tendencias globales"
+   ],
+   "frenos": [
+    "Desconfía de la publicidad tradicional"
+   ],
+   "tono": "Divertido, directo y auténtico.",
+   "evitar": [
+    "Forzar jerga",
+    "Garabatos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "Twitch",
+    "YouTube",
+    "Discord"
+   ],
+   "mensajes": [
+    "'Bacán y al tiro.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials chilenos (29–44)",
+   "resumen": "Profesionales con familia joven que compran mucho en línea, en cuotas y en fechas de descuento. Valoran la comodidad y el tiempo.",
+   "como_habla": "Mezcla de jerga suave y lenguaje profesional: 'pega', 'harto', 'cuotas', 'despacho'.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costo de la vida",
+    "Endeudamiento"
+   ],
+   "motivaciones": [
+    "Practicidad",
+    "Experiencias y viajes",
+    "Buen precio"
+   ],
+   "frenos": [
+    "Ofertas engañosas"
+   ],
+   "tono": "Práctico y empático.",
+   "evitar": [
+    "Tono condescendiente"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "LinkedIn",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Compra fácil, en cuotas y con despacho rápido.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X chilena (45–60)",
+   "resumen": "Prioriza calidad, garantía y servicio. Compra en línea en retailers conocidos y usa Facebook y WhatsApp.",
+   "como_habla": "Cortés y directo, con poca jerga.",
+   "dolores": [
+    "Posventa deficiente",
+    "Procesos complicados"
+   ],
+   "motivaciones": [
+    "Garantía",
+    "Atención personalizada"
+   ],
+   "frenos": [
+    "Desconfianza hacia tiendas nuevas"
+   ],
+   "tono": "Respetuoso, claro y confiable.",
+   "evitar": [
+    "Jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Radio y TV",
+    "Correo"
+   ],
+   "mensajes": [
+    "'Garantía y atención de verdad.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers chilenos (60+)",
+   "resumen": "Valoran la atención humana y la confianza. Usan WhatsApp para comunicarse con la familia y cada vez compran más en línea con ayuda de hijos o nietos.",
+   "como_habla": "Formal y afectuoso: 'don', 'señora', 'con todo gusto'.",
+   "dolores": [
+    "Tecnología difícil",
+    "Miedo a estafas"
+   ],
+   "motivaciones": [
+    "Tranquilidad",
+    "Familia"
+   ],
+   "frenos": [
+    "Pagos en línea sin acompañamiento"
+   ],
+   "tono": "Cálido, paciente y claro.",
+   "evitar": [
+    "Tecnicismos"
+   ],
+   "canales": [
+    "WhatsApp",
+    "Facebook",
+    "Radio y TV",
+    "Atención telefónica"
+   ],
+   "mensajes": [
+    "'Le acompañamos en todo el proceso.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Productos sostenibles, reciclaje y economía circular; el chileno valora la transparencia ambiental.",
+   "mensaje": "'Compra mejor, no más.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Black Friday CCS, CyberDay y cuotas sin interés, con precio de referencia claro.",
+   "mensaje": "'Descuento real, sin letra chica.'",
+   "evitar": "Precios inflados antes del evento."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas de EE. UU. y Europa, outlet premium y experiencias exclusivas.",
+   "mensaje": "'Las marcas que te gustan, a precio de outlet.'",
+   "evitar": "Tono cuico o excluyente."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología y gadgets antes que el resto.",
+   "mensaje": "'Lo nuevo, primero en Chile.'",
+   "evitar": "Tecnicismos sin beneficio."
+  },
+  "wellness": {
+   "como_llegarle": "Running, outdoor, alimentación saludable y suplementos.",
+   "mensaje": "'Muévete más, vive mejor.'",
+   "evitar": "Promesas de salud sin respaldo."
+  },
+  "familia": {
+   "como_llegarle": "Navidad, vacaciones de verano y regreso a clases en marzo.",
+   "mensaje": "'Todo para las vacaciones en familia.'",
+   "evitar": "Estereotipos."
+  },
+  "viajero": {
+   "como_llegarle": "Escapadas al sur, al norte y viajes al exterior en verano.",
+   "mensaje": "'Viaja liviano, vuelve con todo.'",
+   "evitar": "Clichés de postal."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, PC gamer y monitores en fechas de descuento.",
+   "mensaje": "'Arma tu setup este Black.'",
+   "evitar": "Jerga gamer forzada."
+  },
+  "diaspora": {
+   "como_llegarle": "Chilenos que viven en el exterior y familias en Chile que envían regalos y productos a sus seres queridos en otros países.",
+   "mensaje": "'Cerca de los tuyos, estés donde estés.'",
+   "evitar": "Tono dramático o polémico; habla de cercanía y familia."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Pega",
+   "significado": "Trabajo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mucha pega este mes, pero llegamos.",
+   "equivalentes": {
+    "CO": "camello",
+    "MX": "chamba",
+    "EC": "camello",
+    "ES": "curro",
+    "AR": "laburo"
+   }
+  },
+  {
+   "expresion": "Bacán",
+   "significado": "Genial, muy bueno.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué bacán tu compra!",
+   "equivalentes": {
+    "CO": "bacano / chévere",
+    "MX": "chido / padre",
+    "EC": "bacán / chévere",
+    "ES": "guay",
+    "AR": "copado"
+   }
+  },
+  {
+   "expresion": "La raja",
+   "significado": "Excelente, lo máximo.",
+   "uso": "Todo el país, informal.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Este despacho estuvo la raja.",
+   "equivalentes": {
+    "CO": "una chimba",
+    "MX": "a toda madre",
+    "EC": "lo máximo",
+    "ES": "la leche",
+    "AR": "un golazo / lo más"
+   }
+  },
+  {
+   "expresion": "¿Cachai?",
+   "significado": "¿Entiendes?, ¿sabes?",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Precio final, sin sorpresas, ¿cachai?",
+   "equivalentes": {
+    "CO": "¿sí me entiende?",
+    "MX": "¿me explico?",
+    "EC": "¿cachas?",
+    "ES": "¿sabes?",
+    "AR": "¿entendés?"
+   }
+  },
+  {
+   "expresion": "Po",
+   "significado": "Muletilla que refuerza ('sí po', 'ya po').",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ya po, aprovecha el Black.",
+   "equivalentes": {
+    "CO": "pues",
+    "MX": "pues",
+    "EC": "pues",
+    "ES": "pues",
+    "AR": "che"
+   }
+  },
+  {
+   "expresion": "Al tiro",
+   "significado": "De inmediato.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Te lo despachamos al tiro.",
+   "equivalentes": {
+    "CO": "de una",
+    "MX": "ahorita",
+    "EC": "de una",
+    "ES": "enseguida",
+    "AR": "al toque"
+   }
+  },
+  {
+   "expresion": "Luca",
+   "significado": "Mil pesos chilenos.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Envío por cinco lucas.",
+   "equivalentes": {
+    "CO": "luca",
+    "MX": "varo / mil pesos",
+    "EC": "dólar",
+    "ES": "pavo",
+    "AR": "luca"
+   }
+  },
+  {
+   "expresion": "Gamba",
+   "significado": "Cien pesos chilenos.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Te ahorras unas gambas.",
+   "equivalentes": {
+    "CO": "cien pesos",
+    "MX": "cien varos",
+    "EC": "un dólar",
+    "ES": "un pavo",
+    "AR": "un mango"
+   }
+  },
+  {
+   "expresion": "Fome",
+   "significado": "Aburrido, sin gracia.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Nada de regalos fomes esta Navidad.",
+   "equivalentes": {
+    "CO": "aburrido / maluco",
+    "MX": "aburrido",
+    "EC": "aburrido",
+    "ES": "soso / aburrido",
+    "AR": "embole / aburrido"
+   }
+  },
+  {
+   "expresion": "Carrete",
+   "significado": "Fiesta, salida nocturna.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Todo para el carrete de fin de año.",
+   "equivalentes": {
+    "CO": "rumba",
+    "MX": "peda / fiesta",
+    "EC": "farra",
+    "ES": "fiesta / juerga",
+    "AR": "joda / previa"
+   }
+  },
+  {
+   "expresion": "Pololo / polola",
+   "significado": "Novio / novia.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "El regalo perfecto para tu polola.",
+   "equivalentes": {
+    "CO": "novio / novia",
+    "MX": "novio / novia",
+    "EC": "enamorado / enamorada",
+    "ES": "novio / novia",
+    "AR": "novio / novia"
+   }
+  },
+  {
+   "expresion": "Cuático",
+   "significado": "Impresionante o exagerado.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Cuático el descuento de hoy.",
+   "equivalentes": {
+    "CO": "impresionante / tenaz",
+    "MX": "está cañón",
+    "EC": "brutal",
+    "ES": "flipante",
+    "AR": "zarpado"
+   }
+  },
+  {
+   "expresion": "Filete",
+   "significado": "Excelente, muy bueno.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Quedó filete tu pedido.",
+   "equivalentes": {
+    "CO": "bacano",
+    "MX": "chido",
+    "EC": "chévere",
+    "ES": "genial",
+    "AR": "bárbaro"
+   }
+  },
+  {
+   "expresion": "Guagua",
+   "significado": "Bebé.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Todo para la guagua, con despacho gratis.",
+   "equivalentes": {
+    "CO": "bebé",
+    "MX": "bebé",
+    "EC": "guagua",
+    "ES": "bebé",
+    "AR": "bebé"
+   }
+  },
+  {
+   "expresion": "Once",
+   "significado": "Merienda de la tarde, con pan y té.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "La once perfecta para el domingo.",
+   "equivalentes": {
+    "CO": "algo / onces",
+    "MX": "merienda",
+    "EC": "café de la tarde",
+    "ES": "merienda",
+    "AR": "merienda"
+   }
+  },
+  {
+   "expresion": "Taco",
+   "significado": "Atasco de tránsito.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Evita el taco: compra desde la casa.",
+   "equivalentes": {
+    "CO": "trancón",
+    "MX": "tráfico",
+    "EC": "tráfico",
+    "ES": "atasco",
+    "AR": "embotellamiento"
+   }
+  },
+  {
+   "expresion": "Pituto",
+   "significado": "Contacto o recomendación que abre puertas.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Sin pitutos: mismo precio para todos.",
+   "equivalentes": {
+    "CO": "palanca",
+    "MX": "palancas",
+    "EC": "palanca",
+    "ES": "enchufe",
+    "AR": "contacto / acomodo"
+   }
+  },
+  {
+   "expresion": "Cachureo",
+   "significado": "Cosas viejas o trastos acumulados.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Vende tus cachureos antes de Navidad.",
+   "equivalentes": {
+    "CO": "chécheres",
+    "MX": "tiliches",
+    "EC": "cachivaches",
+    "ES": "trastos",
+    "AR": "cachivaches"
+   }
+  },
+  {
+   "expresion": "Harto",
+   "significado": "Mucho, bastante.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Harto descuento y despacho rápido.",
+   "equivalentes": {
+    "CO": "harto / mucho",
+    "MX": "un montón",
+    "EC": "full",
+    "ES": "mogollón",
+    "AR": "un montón"
+   }
+  },
+  {
+   "expresion": "Caleta",
+   "significado": "Mucho, gran cantidad.",
+   "uso": "Todo el país, informal.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Llegaron caleta de productos nuevos.",
+   "equivalentes": {
+    "CO": "un poconón",
+    "MX": "un chingo",
+    "EC": "full",
+    "ES": "un huevo",
+    "AR": "banda"
+   }
+  },
+  {
+   "expresion": "Piola",
+   "significado": "Tranquilo, discreto; algo bien hecho sin alardes.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un regalo piola, pero que se nota.",
+   "equivalentes": {
+    "CO": "relajado / bien",
+    "MX": "tranqui",
+    "EC": "tranquilo",
+    "ES": "tranqui",
+    "AR": "piola"
+   }
+  },
+  {
+   "expresion": "Polera / polerón",
+   "significado": "Camiseta / sudadera con capucha.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Poleras y polerones con 30% off.",
+   "equivalentes": {
+    "CO": "camiseta / buzo",
+    "MX": "playera / sudadera",
+    "EC": "camiseta / buzo",
+    "ES": "camiseta / sudadera",
+    "AR": "remera / buzo"
+   }
+  },
+  {
+   "expresion": "Micro",
+   "significado": "Autobús urbano.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Compra desde la micro, en dos clics.",
+   "equivalentes": {
+    "CO": "bus / buseta",
+    "MX": "camión",
+    "EC": "bus",
+    "ES": "autobús",
+    "AR": "colectivo / bondi"
+   }
+  },
+  {
+   "expresion": "Bencina",
+   "significado": "Gasolina.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Ahorra bencina: te lo llevamos.",
+   "equivalentes": {
+    "CO": "gasolina",
+    "MX": "gasolina",
+    "EC": "gasolina",
+    "ES": "gasolina",
+    "AR": "nafta"
+   }
+  },
+  {
+   "expresion": "Pasarlo chancho",
+   "significado": "Pasarlo muy bien.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Que lo pasen chancho estas fiestas.",
+   "equivalentes": {
+    "CO": "pasarla bacano",
+    "MX": "pasársela chido",
+    "EC": "pasarla chévere",
+    "ES": "pasarlo genial",
+    "AR": "pasarla bárbaro"
+   }
+  },
+  {
+   "expresion": "Cabro chico",
+   "significado": "Niño.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Regalos para los cabros chicos.",
+   "equivalentes": {
+    "CO": "pelado / niño",
+    "MX": "chamaco",
+    "EC": "guagua / niño",
+    "ES": "chaval / crío",
+    "AR": "pibe / nene"
+   }
+  },
+  {
+   "expresion": "Lolo / lola",
+   "significado": "Adolescente.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ideas de regalo para lolos.",
+   "equivalentes": {
+    "CO": "pelado",
+    "MX": "chavo",
+    "EC": "pelado",
+    "ES": "chaval",
+    "AR": "pibe / adolescente"
+   }
+  },
+  {
+   "expresion": "Bajón",
+   "significado": "Tristeza o desánimo; también antojo de comida de noche.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Bajón de medianoche? Pide aquí.",
+   "equivalentes": {
+    "CO": "bajonazo / antojo",
+    "MX": "bajón / antojo",
+    "EC": "bajón",
+    "ES": "bajón",
+    "AR": "bajón"
+   }
+  },
+  {
+   "expresion": "Ene",
+   "significado": "Mucho, muchísimo.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tenemos ene opciones para regalar.",
+   "equivalentes": {
+    "CO": "un montón",
+    "MX": "un chorro",
+    "EC": "full",
+    "ES": "un montón",
+    "AR": "banda"
+   }
+  },
+  {
+   "expresion": "Cuico",
+   "significado": "Persona de clase alta (puede sonar despectivo).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Estilo premium sin precio cuico.",
+   "equivalentes": {
+    "CO": "gomelo",
+    "MX": "fresa",
+    "EC": "aniñado",
+    "ES": "pijo",
+    "AR": "cheto"
+   }
+  },
+  {
+   "expresion": "Seco",
+   "significado": "Experto, muy hábil en algo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Nuestro equipo es seco para los despachos.",
+   "equivalentes": {
+    "CO": "un duro / un teso",
+    "MX": "un chingón",
+    "EC": "un duro",
+    "ES": "un crack",
+    "AR": "un crack / un capo"
+   }
+  },
+  {
+   "expresion": "Pucha",
+   "significado": "Expresión suave de lamento o fastidio.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Pucha! ¿Se agotó? Avísame cuando vuelva.",
+   "equivalentes": {
+    "CO": "¡uy! / ¡qué pena!",
+    "MX": "¡chin!",
+    "EC": "¡chuta!",
+    "ES": "¡vaya!",
+    "AR": "¡uh! / ¡qué macana!"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Chile",
+   "#Santiago",
+   "#Valparaíso",
+   "#Concepción",
+   "#EmprendimientoChile",
+   "#HechoEnChile",
+   "#PymeChile",
+   "#BlackFridayChile"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio y tiempo de despacho",
+     "'Lo que pedí vs. lo que llegó'",
+     "Humor de farándula y actualidad",
+     "Comparativas de precios en Black Friday"
+    ],
+    "ganchos": [
+     "'¿Cachai que esto costaba la mitad?'",
+     "'No compres en el Black sin ver esto'",
+     "'Llegó al tiro y quedó filete'"
+    ],
+    "horario": "19:00–23:00 entre semana; tarde y noche los fines de semana",
+    "hashtags": [
+     "#TikTokChile",
+     "#ChileTikTok",
+     "#Unboxing",
+     "#BlackFridayChile"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels de producto",
+     "Carruseles de guías de compra",
+     "Historias con cuenta regresiva para fechas comerciales"
+    ],
+    "ganchos": [
+     "'Guarda esto antes del Black Friday'",
+     "'3 señales de una oferta falsa'"
+    ],
+    "horario": "12:00–14:00 y 20:00–22:00",
+    "hashtags": [
+     "#EmprendedoresChile",
+     "#TiendaOnlineChile",
+     "#ModaChile",
+     "#PanoramasSantiago"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas de tecnología",
+     "Vlogs de viajes por Chile",
+     "Tutoriales para pymes"
+    ],
+    "ganchos": [
+     "'¿Vale la pena traerlo desde EE. UU.?'",
+     "'Lo probé un mes'"
+    ],
+    "horario": "Fines de semana por la tarde",
+    "hashtags": [
+     "#YouTubeChile",
+     "#TecnologíaChile"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación de fruta y vino",
+     "Datos de comercio exterior",
+     "Opinión de gerentes"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos en la temporada de cerezas'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#ExportacionesChile",
+     "#Logística"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones con precio y despacho",
+     "Grupos de compraventa",
+     "Marketplace"
+    ],
+    "ganchos": [
+     "'Despacho a todo Chile'",
+     "'Paga al recibir'"
+    ],
+    "horario": "20:00–22:00",
+    "hashtags": [
+     "#OfertasChile",
+     "#VentasChile"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentarios de actualidad y farándula",
+     "Hilos de datos útiles para comprar"
+    ],
+    "ganchos": [
+     "'Hilo: cómo saber si el descuento del Black es real'"
+    ],
+    "horario": "7:30–9:30 y 18:00–21:00",
+    "hashtags": [
+     "#Chile",
+     "#BlackFridayChile"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Fruta chilena de temporada hacia EE. UU. y Europa",
+   "senal": "Entre noviembre y febrero sale la temporada de cerezas, arándanos y uvas de Chile, cuando el hemisferio norte está en invierno.",
+   "desde": "CL",
+   "hacia": "US",
+   "sector": "flores-agro",
+   "accion": "Contenido de temporada, cadena de frío y trazabilidad para importadores y cadenas de supermercados."
+  },
+  {
+   "titulo": "Vino chileno en EE. UU. y Reino Unido",
+   "senal": "Chile es un exportador de vino reconocido por su relación precio-calidad; la temporada navideña impulsa el consumo en el hemisferio norte.",
+   "desde": "CL",
+   "hacia": "GB",
+   "sector": "alimentos",
+   "accion": "Historias de viñedo y maridajes navideños para importadores y tiendas especializadas."
+  },
+  {
+   "titulo": "Marcas de EE. UU. a precio outlet",
+   "senal": "En la Biblioteca de Anuncios de Meta hay tiendas chilenas que venden carteras y ropa de marcas estadounidenses como 'outlet USA'.",
+   "desde": "US",
+   "hacia": "CL",
+   "sector": "moda",
+   "accion": "Contenido de precio final y autenticidad del producto para compradores aspiracionales."
+  },
+  {
+   "titulo": "Tecnología y gaming para Black Friday",
+   "senal": "Medios chilenos publican guías de monitores gamer y pantallas para el Black Friday.",
+   "desde": "US",
+   "hacia": "CL",
+   "sector": "gaming",
+   "accion": "Comparativas honestas de precio local vs. traer desde EE. UU., con costos completos."
+  },
+  {
+   "titulo": "Productos del mar y salmón chileno",
+   "senal": "Demanda internacional estable de salmón y mariscos chilenos en EE. UU., Brasil y Asia.",
+   "desde": "CL",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Contenido B2B sobre calidad, certificaciones y sostenibilidad de la cadena."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "envíos internacionales",
+   "total": 289,
+   "anunciantes": [
+    {
+     "nombre": "DHL Latinoamérica",
+     "url": "https://www.facebook.com/ads/library/?id=2211165452817385"
+    },
+    {
+     "nombre": "Segucargo",
+     "url": "https://www.facebook.com/ads/library/?id=1153973943874481"
+    },
+    {
+     "nombre": "Outlet USA Clau store",
+     "url": "https://www.facebook.com/ads/library/?id=2643828969410835"
+    },
+    {
+     "nombre": "American Premium Ropa",
+     "url": "https://www.facebook.com/ads/library/?id=4160959260869949"
+    }
+   ],
+   "patron": "Conviven el courier internacional, las mudanzas al exterior ('cotiza tu mudanza internacional') y tiendas que traen marcas de EE. UU. como outlet: el 'traído de EE. UU.' es un argumento de venta en Chile."
+  },
+  {
+   "busqueda": "black friday",
+   "total": 18639,
+   "anunciantes": [
+    {
+     "nombre": "Mikai Club",
+     "url": "https://www.facebook.com/ads/library/?id=923392904072975"
+    },
+    {
+     "nombre": "Minsy Chile",
+     "url": "https://www.facebook.com/ads/library/?id=1381466353869246"
+    },
+    {
+     "nombre": "Bismuto",
+     "url": "https://www.facebook.com/ads/library/?id=1831272184575019"
+    },
+    {
+     "nombre": "Smart Data",
+     "url": "https://www.facebook.com/ads/library/?id=1771179960630461"
+    }
+   ],
+   "patron": "Se repiten el 'acceso anticipado' con regalo para registrados, los cupos limitados y el 'pídelo hoy y paga cuando llegue a tu casa'. El total incluye anuncios de otros países que alcanzan a Chile."
+  }
+ ]
+}

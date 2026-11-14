@@ -1,38 +1,26 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-14T04:00:00Z",
+ "actualizado": "2026-11-14T05:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia entra en modo compras de fin de año: Black Friday (27 de noviembre), la prima de diciembre y la Navidad marcan la conversación de consumo, y los medios ya recomiendan adelantar las compras. El fenómeno de El Niño preocupa por el agua y la energía, lo que abre espacio a contenido útil de ahorro en casa. En redes, lo viral gira alrededor de celebridades y creadores en TikTok: buen momento para contenido ligero, cercano y con humor.",
+ "lectura": "Colombia arranca el puente festivo con la cabeza en las compras de fin de año: los medios ya hablan de Black Friday (27 de noviembre) y de adelantar las compras de Navidad, y las grandes superficies se preparan para la temporada. El entretenimiento suma: Maluma anunció que empezará su gira mundial con cuatro conciertos en Bogotá en febrero de 2027, y en Medellín ya se anuncia el festival 'Que viva el buñuelo' de cara a diciembre. Funciona el contenido práctico (cómo planear compras, regalos, fechas límite) con tono cercano y orgullo local.",
  "semaforo": [
-  {
-   "termino": "cuando es stream fighters 5",
-   "color": "verde",
-   "por_que": "Entretenimiento digital masivo entre jóvenes; conversación ligera y compartible.",
-   "idea": "Para creadores: reacción o 'apuesta' amistosa. Para marcas: guiño tipo 'tu paquete llega más rápido que un nocaut'."
-  },
   {
    "termino": "fenómeno",
    "color": "amarillo",
-   "por_que": "El Niño genera preocupación real (agua, energía, precios). Puede usarse con tono útil, nunca para burlarse.",
-   "idea": "Contenido de ahorro de energía y agua en casa, o productos que ayudan (ventiladores, filtros, ropa fresca)."
+   "por_que": "La conversación sobre El Niño gira en torno al agua y la energía: preocupa, pero abre espacio a contenido útil.",
+   "idea": "Tips de ahorro de agua y energía en casa, o productos que ayudan a consumir menos. Evita el tono alarmista."
   },
   {
-   "termino": "copa america",
+   "termino": "maluma",
    "color": "verde",
-   "por_que": "Nostalgia futbolera y orgullo; la final ante Argentina sigue generando conversación.",
-   "idea": "Contenido de orgullo y resiliencia: 'perder una final no nos quita las ganas de llegar lejos'."
+   "por_que": "Anuncio positivo: gira mundial que empieza en Bogotá; orgullo paisa y nacional.",
+   "idea": "Regalos de Navidad ligados al concierto: boletas, outfits, maquillaje o transporte para el día del show."
   },
   {
-   "termino": "congreso de la república de colombia",
-   "color": "rojo",
-   "por_que": "Tema político; riesgo alto de polarización.",
-   "idea": "No usarlo en comunicación de marca."
-  },
-  {
-   "termino": "spurs - warriors",
-   "color": "rojo",
-   "por_que": "Nicho deportivo extranjero sin conexión con el público objetivo.",
-   "idea": "Mejor no usarlo."
+   "termino": "peru",
+   "color": "verde",
+   "por_que": "Interés por la visita del papa León XIV a Perú, una noticia de tono emotivo y familiar.",
+   "idea": "Para turismo y gastronomía: rutas y sabores peruanos para viajar o probar en Colombia; habla con respeto, sin usar la fe como gancho de venta."
   }
  ],
  "audiencias": {
@@ -930,32 +918,45 @@
    "patron": "Varios anunciantes llevan directo a WhatsApp y aparecen 'personal shoppers' independientes compitiendo con los couriers."
   }
  ],
- "ocultar": [],
+ "ocultar": [
+  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
+  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
+  "Estos son los resultados de las loterías de Medellín, Risaralda y Santander de hoy, viernes 13 de noviembre de 2026",
+  "Medellín albergará a partir de 2027 una prisión de gran capacidad",
+  "Loterías de Medellín, Santander y Risaralda de hoy, viernes 13 de noviembre: consulte los resultados",
+  "Alerta por venta de lotes ilegales en Medellín: Distrito intervino “parcelación” en San Cristóbal | El Colombiano",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+  "La Cámara instala la Comisión accidental de Inteligencia Artificial",
+  "Loterías de hoy en vivo",
+  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
+  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos"
+ ],
  "ideas_hoy": [
   {
-   "titulo": "Que la prima rinda",
-   "idea": "La prima de diciembre llega en pocas semanas. Contenido 'en qué invertir tu prima' comparando precios en EE. UU. vs. Colombia para tecnología, ropa y regalos.",
-   "formato": "Carrusel o Reel"
+   "titulo": "Puente festivo = lista de Black Friday",
+   "idea": "Aprovecha el puente para pedirle a tu audiencia que arme su lista antes del 27 de noviembre: qué comprar, cuánto gastar y en qué tienda. Un carrusel 'Arma tu lista en 5 pasos' conecta con las notas que hoy recomiendan adelantar las compras de Navidad.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Fechas límite de Navidad",
-   "idea": "Publica un calendario claro: hasta qué día comprar en EE. UU. para que llegue antes del 24. Es contenido útil que la gente guarda y comparte.",
-   "formato": "Historia fija + post"
+   "titulo": "Regalo para el fan de Maluma",
+   "idea": "La gira de Maluma arrancará en Bogotá con cuatro fechas en febrero. Si vendes moda, accesorios o experiencias, propón la boleta o el 'outfit para el concierto' como regalo de Navidad. Tono parcero y emocional.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Ahorro con El Niño",
-   "idea": "El fenómeno de El Niño preocupa por el agua y la energía. Contenido práctico de ahorro en casa o productos que ayudan (ventiladores eficientes, filtros, ropa fresca). Tono útil, nunca alarmista.",
-   "formato": "TikTok educativo"
+   "titulo": "Diciembre empieza con buñuelo",
+   "idea": "En Medellín ya se anuncia el festival 'Que viva el buñuelo'. Marcas de alimentos, hogar y cocina pueden lanzar la receta familiar o un kit de natilla y buñuelos para la novena. Contenido nostálgico que se comparte en familia.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Personal shopper vs. casillero",
-   "idea": "En Meta hay muchos 'personal shoppers' compitiendo con los couriers. Explica las diferencias con honestidad: qué conviene en cada caso. Genera confianza y comentarios.",
-   "formato": "Video de preguntas frecuentes"
-  },
-  {
-   "titulo": "Parce, ¿y la ñapa?",
-   "idea": "Usa la ñapa como gancho de temporada: 'y de ñapa…'. Es una expresión muy colombiana, cálida y apta para anuncios.",
+   "titulo": "Compra segura en temporada",
+   "idea": "Con la temporada de descuentos crecen los engaños en línea. Publica 3 señales para reconocer una tienda confiable (datos de contacto, medios de pago, reseñas) y deja claras tus condiciones de cambio. Genera confianza justo antes del pico de compras.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Barranquilla, destino sostenible",
+   "idea": "Barranquilla entró al Top 100 de historias de turismo sostenible del mundo. Para negocios de turismo, gastronomía y artesanía de la Costa: cuenta tu historia sostenible y conéctala con la llegada de visitantes en temporada.",
+   "formato": "LinkedIn"
   }
  ]
 }

@@ -1,32 +1,38 @@
 {
  "pais": "US",
- "actualizado": "2026-11-14T04:00:00Z",
+ "actualizado": "2026-11-14T05:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En EE. UU. dominan el deporte (NBA, fútbol americano universitario), el entretenimiento navideño (estrenos de temporada) y la recta final antes de Thanksgiving, Black Friday y Cyber Monday. La comunidad hispana sigue de cerca la actualidad de sus países de origen. Para marcas que hablan a latinos en EE. UU.: emoción de fin de año, regalos para la familia en casa y fechas límite de envío.",
+ "lectura": "En EE. UU. la recta final hacia Thanksgiving (26 de noviembre), Black Friday (27) y Cyber Monday (30) domina el consumo: Walmart y otras cadenas ya adelantaron ofertas, y vuelve el interés por comprar en tiendas físicas. El viernes una falla de comunicaciones obligó a detener temporalmente los despegues en todo el país; los vuelos se reanudaron, pero hubo retrasos que pueden mover compras y envíos de temporada. En entretenimiento brillan los estrenos navideños y el regreso de 'Los juegos del hambre'. Para la comunidad latina: regalos para la familia en casa, presupuesto inteligente y fechas límite de envío.",
  "semaforo": [
   {
-   "termino": "the gospel of christmas tyler perry cast",
+   "termino": "mel gibson",
+   "color": "amarillo",
+   "por_que": "Conversación de cine con matices de polémica alrededor del actor.",
+   "idea": "Si lo usas, habla de cine de temporada en general, sin centrarte en la persona."
+  },
+  {
+   "termino": "new hunger games movie",
    "color": "verde",
-   "por_que": "Entretenimiento navideño familiar; abre la temporada de regalos.",
-   "idea": "Contenido de 'regalos para enviar a la familia en Latinoamérica antes de Navidad'."
+   "por_que": "Estreno muy esperado con elenco de primer nivel; conversación positiva entre Gen Z y millennials.",
+   "idea": "Contenido de 'qué ver este fin de semana', merchandising o noche de cine en casa."
   },
   {
-   "termino": "is steph curry playing tonight",
+   "termino": "cillian murphy",
+   "color": "verde",
+   "por_que": "Interés de entretenimiento por un nuevo proyecto del actor.",
+   "idea": "Recomendaciones de películas y series para el fin de semana largo de Thanksgiving."
+  },
+  {
+   "termino": "emma watson",
+   "color": "verde",
+   "por_que": "Conversación de moda por su look en una salida reciente.",
+   "idea": "Inspiración de outfits de fiesta para la temporada: 'el minivestido de terciopelo vuelve'."
+  },
+  {
+   "termino": "jaden smith michele lamy",
    "color": "amarillo",
-   "por_que": "Interés deportivo alto, pero sin conexión directa con el público latino emprendedor.",
-   "idea": "Solo como gancho ligero en historias o para marcas deportivas."
-  },
-  {
-   "termino": "cleveland cavaliers vs miami heat match player stats",
-   "color": "amarillo",
-   "por_que": "Miami es una plaza clave para latinos; el Heat genera conversación local.",
-   "idea": "Guiño local en Miami: 'desde Miami a tu casa en Colombia o Ecuador'."
-  },
-  {
-   "termino": "muerte",
-   "color": "rojo",
-   "por_que": "Tema trágico.",
-   "idea": "No usar."
+   "por_que": "Rumor de farándula sin confirmar; puede derivar en burla.",
+   "idea": "Evita sumarte al chisme; si hablas de moda, céntrate en el estilo vanguardista sin opinar de su vida privada."
   }
  ],
  "audiencias": {
@@ -756,32 +762,54 @@
    "patron": "Sendex corre muchas variantes al tiempo, todas con WhatsApp como llamado a la acción."
   }
  ],
- "ocultar": [],
+ "ocultar": [
+  "What we know about the American Heritage cruise ship struck by tanker in New Orleans",
+  "Developer Avoided Stricter Oversight Before Fatal Building Collapse",
+  "US Army names officer held on ‘allegations of espionage’",
+  "Ole Miss officials address another racist incident days after viral video",
+  "School investigating after viral video shows 10th-grade girl punched, put in chokehold on Ohio school bus",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
+  "Pete Hegseth condecoró al soldado que lo reprendió por las risas de su comitiva frente a la Tumba del Soldado Desconocido",
+  "FBI alerta que hackers de Corea del Norte usaron falsas videollamadas de Zoom para robar USD 400 millones",
+  "Who’s who in Zohran Mamdani’s administration?",
+  "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
+  "dane cook",
+  "pentagon warning",
+  "The Los Angeles County Sheriff’s Department is aware of reports regarding the nationwide aviation ground stop and is closely monitoring the situation in coordination with our local, state, and federal partners. There are currently no reported impacts to our publ",
+  "O.C. sheriff investigates whether employees alerted ICE before man’s arrest",
+  "sarah huckabee sanders",
+  "noel fielding",
+  "Houston vs. Colorado prediction, odds, time: Week 11 Friday college football picks from proven model",
+  "Explanation of Vote for UNGA 81/3C Resolution \"The right to food\"",
+  "JUST IN: Army Looks to Autonomize Logistics in Indo-Pacific",
+  "Former Philadelphia Museum of Art Executive Charged $30K to Company Cards"
+ ],
  "ideas_hoy": [
   {
-   "titulo": "Regalos para allá",
-   "idea": "Thanksgiving, Black Friday y Cyber Monday llegan juntos: contenido 'compra aquí en Black Friday y envíalo a tu familia en Latinoamérica', con las fechas límite por país.",
-   "formato": "Reel bilingüe"
+   "titulo": "Early Black Friday para latinos",
+   "idea": "Las ofertas anticipadas ya están activas. Haz un video en español con 3 compras que valen la pena ahora y 3 que conviene esperar al 27. Lenguaje cercano y precios reales.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Lo que más pide mamá",
-   "idea": "Formato emocional y muy compartible: '¿Qué te pide tu mamá cada vez que viajas?'. Invita a comentar por nacionalidad (colombianos, ecuatorianos, mexicanos).",
-   "formato": "TikTok con pregunta"
-  },
-  {
-   "titulo": "Walmart y las ofertas de temporada",
-   "idea": "Walmart aparece en tendencia en Nueva York: reseña rápida de las ofertas que más valen la pena para enviar a Latinoamérica.",
-   "formato": "Video corto"
-  },
-  {
-   "titulo": "Spanglish que conecta",
-   "idea": "Usa expresiones como 'shipping' o 'tracking' mezcladas con español: así habla el latino bicultural y genera cercanía.",
+   "titulo": "Envía antes del corre-corre",
+   "idea": "Los retrasos de vuelos del viernes recuerdan que la temporada se congestiona. Publica tus fechas límite para que los regalos lleguen a Latinoamérica antes de Navidad y anima a enviar con tiempo.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Navidad con sabor a casa",
-   "idea": "Productos de nostalgia (arequipe, café, snacks) para la Navidad lejos de casa. Contenido de identidad para cada comunidad.",
-   "formato": "Carrusel de recetas"
+   "titulo": "Cocina rica y barata",
+   "idea": "Un papá se hizo viral compartiendo recetas económicas. Marcas de alimentos y supermercados latinos pueden proponer el 'Thanksgiving con sazón latino' a bajo costo.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "El influencer que llena tu local",
+   "idea": "Un restaurante oaxaqueño en Riverside multiplicó clientes tras el video de un creador. Pymes latinas: invita a un creador local a probar tu producto y ofrécele un código de descuento para su comunidad.",
+   "formato": "Instagram"
+  },
+  {
+   "titulo": "Noche de película en familia",
+   "idea": "Los estrenos de temporada y la nueva película de 'Los juegos del hambre' generan conversación. Propón el combo de noche de cine en casa: snacks, cobijas o pantallas en oferta.",
+   "formato": "Carrusel Instagram"
   }
  ]
 }

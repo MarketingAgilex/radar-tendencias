@@ -1,0 +1,1064 @@
+{
+ "pais": "PE",
+ "actualizado": "2026-11-14T05:30:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "Perú vive días de mucha emoción por la visita del papa León XIV, que regresó a Chiclayo y celebra misas multitudinarias en Lima: la conversación es familiar, de orgullo nacional y llena de historias virales como la del conductor del Metropolitano. En consumo, la atención se mueve hacia Black Friday (27 de noviembre) y las ofertas tecnológicas, con lanzamientos de celulares y un mercado de telecomunicaciones en movimiento por la compra de Entel por Millicom. Con la gratificación de diciembre en camino, funciona el contenido de compras planificadas, regalos y orgullo peruano, siempre con respeto por lo religioso.",
+ "ideas_hoy": [
+  {
+   "titulo": "Black Friday con lista y sencillo",
+   "idea": "Faltan dos semanas para Black Friday (27 de noviembre) y la gratificación llega a mediados de diciembre. Publica un carrusel 'Arma tu lista: qué comprar ahora y qué esperar a la grati'. Ayuda a planificar y posiciona tu tienda como aliada del bolsillo.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "La historia que emociona",
+   "idea": "El conductor del Metropolitano que se volvió viral muestra que en Perú conecta lo humano y cotidiano. Cuenta la historia real de un cliente o colaborador que trabaja duro para su familia. Tono cálido, sin usar la imagen del papa ni la fe como gancho de venta.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Celular nuevo para la grati",
+   "idea": "Llegan nuevos celulares al Perú y crecen las búsquedas de ofertas tecnológicas. Haz una comparativa honesta de 3 modelos por rango de precio, con pago por Yape o Plin y opción de cuotas. 'Paja y sin roche: elige bien tu próximo cel'.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Calor en Lima, antojos de verano",
+   "idea": "El Senamhi anuncia hasta 30 °C en Lima. Bebidas, heladerías, ropa ligera y protectores solares pueden lanzar ya la 'previa del verano' con yapa en el primer pedido.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Panetón con propósito",
+   "idea": "Diciembre en Perú es temporada de panetón y chocolatada. Si vendes alimentos o regalos corporativos, abre ya la preventa de canastas navideñas para empresas con fecha límite clara. Mensaje formal para el cliente B2B.",
+   "formato": "LinkedIn"
+  }
+ ],
+ "semaforo": [
+  {
+   "termino": "milo j",
+   "color": "verde",
+   "por_que": "Búsqueda ligada a los Latin Grammy 2026: música y premiación, conversación positiva entre jóvenes.",
+   "idea": "Contenido de 'outfits de alfombra roja' o playlists para el fin de semana; ganchos musicales para Gen Z."
+  },
+  {
+   "termino": "tv",
+   "color": "verde",
+   "por_que": "Interés general por televisores y streaming de cara a la temporada de ofertas.",
+   "idea": "Guía rápida '¿qué TV comprar en Black Friday?' por tamaño de sala y presupuesto."
+  }
+ ],
+ "ocultar": [
+  "ebola",
+  "óscar lópez",
+  "keiko fujimori",
+  "EE.UU. ordena suspender los despegues en todo el país \"por motivos de seguridad\"",
+  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Jovencita reportada como desaparecida ya está en su hogar sana y salva | Noticias | El Blog - Noticias de El Salvador",
+  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
+  "«Abominable»: Israel asesinó a 245 niños en Cisjordania desde 2023, denuncia ONU",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+  "¡SEGÚN BLOOMBERG! Profesionales treintañeros de las finanzas y la tecnología comienzan a regresar a Venezuela",
+  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos"
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor peruano",
+   "resumen": "Emprendedor por naturaleza, cuidadoso con el gasto y muy influenciado por la recomendación de familia, amigos y grupos de WhatsApp. Usa masivamente billeteras digitales como Yape y Plin, pero aún desconfía de comprar en línea a tiendas que no conoce, por eso valora el pago contraentrega y la atención directa. Lima concentra gran parte del consumo, mientras ciudades como Arequipa, Trujillo y Chiclayo crecen con fuerza. Es orgulloso de su gastronomía y de lo hecho en Perú.",
+   "como_habla": "Cercano y con mucha jerga criolla en lo informal ('causa', 'pata', 'al toque', 'paja'). Usa diminutivos y fórmulas de cortesía ('¿me ayudas, por favor?'). En redes mezcla humor, memes de actualidad y referencias a la comida.",
+   "dolores": [
+    "Miedo a estafas en compras en línea",
+    "Que el producto no sea como en la foto",
+    "Costos de envío altos o poco claros fuera de Lima",
+    "Demoras en la entrega",
+    "Atención que no responde por WhatsApp"
+   ],
+   "motivaciones": [
+    "Precio justo y yapa",
+    "Recomendación de alguien de confianza",
+    "Pagar fácil con Yape o Plin",
+    "Orgullo por lo peruano",
+    "Ahorrar para la familia"
+   ],
+   "frenos": [
+    "Desconfianza hacia tiendas sin tienda física o sin reseñas",
+    "Políticas de devolución poco claras",
+    "Pagar por adelantado a desconocidos"
+   ],
+   "tono": "Cercano, alegre y transparente; con humor criollo bien medido.",
+   "evitar": [
+    "Tono acartonado o demasiado formal en redes",
+    "Burlarse de acentos regionales",
+    "Promesas de precio que luego cambian"
+   ],
+   "canales": [
+    "WhatsApp",
+    "Facebook",
+    "TikTok",
+    "Instagram",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Paga con Yape al recibir, sin roche.'",
+    "'Lo que ves es lo que te llega.'",
+    "'Con yapa para los patas que nos recomiendan.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce peruano",
+   "resumen": "Perú tiene una de las culturas emprendedoras más fuertes de la región: mypes que venden por Instagram, Facebook y TikTok, muchas desde casa o desde emporios comerciales como Gamarra. Importan mercadería de China y EE. UU. y venden con entrega a domicilio y pago contraentrega.",
+   "como_habla": "Práctico y directo: 'mype', 'stock', 'delivery', 'contraentrega', 'separa tu pedido', 'precio por mayor'.",
+   "dolores": [
+    "Flujo de caja ajustado",
+    "Competencia por precio con importados",
+    "Logística fuera de Lima",
+    "Clientes que separan y no recogen"
+   ],
+   "motivaciones": [
+    "Crecer y formalizarse",
+    "Vender a provincias y al exterior",
+    "Herramientas digitales simples"
+   ],
+   "frenos": [
+    "Miedo a invertir en pauta sin resultados",
+    "Poco tiempo para aprender herramientas nuevas"
+   ],
+   "tono": "Motivador, práctico y de igual a igual.",
+   "evitar": [
+    "Tecnicismos sin explicación",
+    "Promesas de ganancias rápidas"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "Facebook y grupos de emprendedores",
+    "WhatsApp Business",
+    "YouTube tutoriales"
+   ],
+   "mensajes": [
+    "'Tu mype también puede vender afuera.'",
+    "'Menos chamba operativa, más ventas.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Empresas que exportan agroindustria (arándanos, palta, uva, café, cacao, quinua), textiles de algodón y alpaca, o que importan insumos, maquinaria y tecnología. Valoran el cumplimiento, la trazabilidad y un trato serio.",
+   "como_habla": "Formal: 'cotización', 'tiempo de tránsito', 'documentos', 'aduanas', 'puerta a puerta', 'certificaciones'.",
+   "dolores": [
+    "Retrasos que afectan contratos",
+    "Costos logísticos variables",
+    "Trámites sanitarios y de origen",
+    "Proveedores que no responden"
+   ],
+   "motivaciones": [
+    "Abrir mercados en EE. UU., Europa y Asia",
+    "Un asesor fijo que conozca su operación",
+    "Visibilidad del envío"
+   ],
+   "frenos": [
+    "Cambiar de proveedor es un riesgo",
+    "Necesita referencias de otras empresas"
+   ],
+   "tono": "Profesional, sobrio y orientado a resultados.",
+   "evitar": [
+    "Lenguaje juvenil",
+    "Promesas sin respaldo operativo"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo y llamada comercial",
+    "Ferias y gremios (ADEX, cámaras de comercio, PromPerú)",
+    "WhatsApp para seguimiento"
+   ],
+   "mensajes": [
+    "'Tu carga, con seguimiento de principio a fin.'",
+    "'Un asesor que conoce tu operación.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande / corporativo",
+   "resumen": "Compañías de minería, retail, banca, consumo masivo y telecomunicaciones con procesos de compra formales. Deciden en comités y piden cumplimiento, cobertura nacional y reportes.",
+   "como_habla": "Corporativo y técnico: 'SLA', 'licitación', 'proveedor homologado', 'KPI', 'compliance'.",
+   "dolores": [
+    "Proveedores que no escalan",
+    "Falta de reportes claros",
+    "Riesgo reputacional"
+   ],
+   "motivaciones": [
+    "Eficiencia y control de costos",
+    "Sostenibilidad y cumplimiento",
+    "Socios con respaldo internacional"
+   ],
+   "frenos": [
+    "Procesos de homologación largos",
+    "Preferencia por proveedores conocidos"
+   ],
+   "tono": "Formal, basado en datos y casos.",
+   "evitar": [
+    "Jerga informal",
+    "Mensajes sin cifras ni evidencias"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Eventos empresariales",
+    "Correo ejecutivo",
+    "Prensa de negocios (Gestión, Semana Económica)"
+   ],
+   "mensajes": [
+    "'Operación confiable, medible y a escala.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z peruana (18–28)",
+   "resumen": "Vive en TikTok e Instagram, sigue a creadores peruanos de humor, comida y moda, y consume música urbana y cumbia renovada. Busca precio, estilo y autenticidad; compra por impulso si el contenido le divierte.",
+   "como_habla": "Jerga criolla y de internet: 'causa', 'qué paja', 'al toque', 'roche', 'ya fue', 'habla'.",
+   "dolores": [
+    "Poco presupuesto",
+    "Miedo a que lo estafen en línea",
+    "Marcas que parecen 'tías' en redes"
+   ],
+   "motivaciones": [
+    "Tendencias y exclusividad",
+    "Expresar su identidad",
+    "Ganar su propia plata con cachuelos"
+   ],
+   "frenos": [
+    "Desconfía de la publicidad tradicional"
+   ],
+   "tono": "Divertido, rápido y auténtico.",
+   "evitar": [
+    "Forzar jerga que no se usa",
+    "Textos largos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube",
+    "Twitch",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Al toque y sin roche.'",
+    "'Qué paja tu estilo, causa.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials peruanos (29–44)",
+   "resumen": "Profesionales y emprendedores que equilibran trabajo, familia y gastos. Compran en línea con frecuencia, comparan precios y aprovechan Black Friday, Cyber Wow y la gratificación.",
+   "como_habla": "Mezcla de jerga criolla y lenguaje profesional; usa 'chamba', 'grati', 'cuotas', 'delivery'.",
+   "dolores": [
+    "Tiempo limitado",
+    "Endeudamiento con tarjetas",
+    "Costo de vida en Lima"
+   ],
+   "motivaciones": [
+    "Practicidad",
+    "Invertir en experiencias y en su familia",
+    "Emprender en paralelo"
+   ],
+   "frenos": [
+    "Ofertas poco transparentes"
+   ],
+   "tono": "Práctico, empático y con algo de humor.",
+   "evitar": [
+    "Mensajes condescendientes",
+    "Excesiva informalidad"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp",
+    "LinkedIn",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Haz que tu grati rinda.'",
+    "'Compra fácil, paga como prefieras.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X peruana (45–60)",
+   "resumen": "Responsable del hogar y muchas veces de un negocio familiar. Prioriza estabilidad, calidad y confianza; usa Facebook y WhatsApp y cada vez más Yape.",
+   "como_habla": "Cortés y directo; menos jerga, más 'por favor', 'disculpe', 'me confirma'.",
+   "dolores": [
+    "Desconfianza digital",
+    "Gastos familiares (estudios, salud, vivienda)"
+   ],
+   "motivaciones": [
+    "Seguridad y calidad",
+    "Atención personalizada",
+    "Bienestar de los hijos"
+   ],
+   "frenos": [
+    "Procesos complicados en línea"
+   ],
+   "tono": "Respetuoso, claro y confiable.",
+   "evitar": [
+    "Jerga juvenil",
+    "Letra pequeña"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Radio y TV",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Te acompañamos en cada paso.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers peruanos (60+)",
+   "resumen": "Valoran la atención humana, la tradición y la familia. Muchos tienen hijos o nietos fuera del país y usan WhatsApp y videollamadas para mantenerse cerca.",
+   "como_habla": "Formal y afectuoso: 'señor', 'señora', 'con mucho gusto'.",
+   "dolores": [
+    "Tecnología difícil de usar",
+    "Miedo a estafas"
+   ],
+   "motivaciones": [
+    "Estar cerca de la familia",
+    "Salud y tranquilidad"
+   ],
+   "frenos": [
+    "Pagos digitales sin acompañamiento"
+   ],
+   "tono": "Cálido, paciente y muy claro.",
+   "evitar": [
+    "Tecnicismos",
+    "Prisas"
+   ],
+   "canales": [
+    "WhatsApp",
+    "Facebook",
+    "Radio y TV",
+    "Atención telefónica"
+   ],
+   "mensajes": [
+    "'Le atendemos personalmente, como en casa.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, trazabilidad y comercio justo: café y cacao de origen, algodón pima, alpaca y artesanía con historia.",
+   "mensaje": "'Compra con propósito: lo hecho en Perú, contado por quien lo hace.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Precio final claro, yapa y fechas como Black Friday, Cyber Wow y la gratificación.",
+   "mensaje": "'Precio justo y con yapa.'",
+   "evitar": "Descuentos inflados o condiciones escondidas."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas internacionales, experiencias premium y la alta gastronomía peruana como símbolo de estatus.",
+   "mensaje": "'Lo mejor del mundo, a tu puerta.'",
+   "evitar": "Tono pituco que excluye."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de celulares, gadgets y gaming que llegan antes a EE. UU.",
+   "mensaje": "'Ten lo nuevo antes que tus patas.'",
+   "evitar": "Especificaciones sin beneficio."
+  },
+  "wellness": {
+   "como_llegarle": "Superalimentos peruanos (quinua, maca, camu camu), fitness y vida sana.",
+   "mensaje": "'Energía peruana para tu día.'",
+   "evitar": "Promesas de salud sin respaldo."
+  },
+  "familia": {
+   "como_llegarle": "Navidad con panetón y chocolatada, regreso a clases en marzo y celebraciones familiares.",
+   "mensaje": "'Para que en casa no falte nada.'",
+   "evitar": "Estereotipos de roles familiares."
+  },
+  "viajero": {
+   "como_llegarle": "Turismo interno (Cusco, Arequipa, el norte) y viajes al exterior en vacaciones.",
+   "mensaje": "'Viaja ligero, trae lo que quieras.'",
+   "evitar": "Imágenes cliché de postal."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, periféricos y streaming; comunidad activa en Twitch y Discord.",
+   "mensaje": "'Tu setup, sin pagar de más.'",
+   "evitar": "Lenguaje gamer forzado."
+  },
+  "diaspora": {
+   "como_llegarle": "Peruanos en EE. UU., Chile, Argentina, España e Italia que extrañan sabores y quieren enviar regalos a casa.",
+   "mensaje": "'El sabor de casa, donde estés.'",
+   "evitar": "Tono dramático o polémico; habla de cercanía y familia."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Chamba",
+   "significado": "Trabajo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mucha chamba este mes, pero vale la pena.",
+   "equivalentes": {
+    "CO": "camello",
+    "MX": "chamba",
+    "EC": "camello",
+    "ES": "curro",
+    "AR": "laburo"
+   }
+  },
+  {
+   "expresion": "Pata",
+   "significado": "Amigo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Comparte con tus patas.",
+   "equivalentes": {
+    "CO": "parce",
+    "MX": "cuate",
+    "EC": "pana",
+    "ES": "colega",
+    "AR": "amigo / chabón"
+   }
+  },
+  {
+   "expresion": "Causa",
+   "significado": "Amigo cercano; también se usa como saludo.",
+   "uso": "Lima y costa, muy usado por jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Habla, causa! Ya llegó tu pedido.",
+   "equivalentes": {
+    "CO": "parce / llave",
+    "MX": "carnal",
+    "EC": "ñaño / pana",
+    "ES": "tío",
+    "AR": "hermano"
+   }
+  },
+  {
+   "expresion": "Bacán",
+   "significado": "Genial, muy bueno.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué bacán tu nuevo local!",
+   "equivalentes": {
+    "CO": "bacano",
+    "MX": "chido",
+    "EC": "bacán / chévere",
+    "ES": "guay",
+    "AR": "copado"
+   }
+  },
+  {
+   "expresion": "Qué paja",
+   "significado": "¡Qué bueno!, ¡qué genial!",
+   "uso": "Lima y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Qué paja que llegó antes.",
+   "equivalentes": {
+    "CO": "qué chimba / qué bacano",
+    "MX": "qué padre",
+    "EC": "qué bacán",
+    "ES": "qué guay",
+    "AR": "qué copado"
+   }
+  },
+  {
+   "expresion": "Al toque",
+   "significado": "Rápido, de inmediato.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Te lo enviamos al toque.",
+   "equivalentes": {
+    "CO": "de una",
+    "MX": "ahorita",
+    "EC": "de una",
+    "ES": "enseguida",
+    "AR": "al toque"
+   }
+  },
+  {
+   "expresion": "Yapa",
+   "significado": "Algo extra que se regala con la compra.",
+   "uso": "Todo el país, muy usado en mercados.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Con yapa en tu primer pedido.",
+   "equivalentes": {
+    "CO": "ñapa",
+    "MX": "pilón",
+    "EC": "yapa",
+    "ES": "propina / regalo",
+    "AR": "yapa"
+   }
+  },
+  {
+   "expresion": "Luca",
+   "significado": "Un sol (moneda peruana).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Cuesta veinte lucas nomás.",
+   "equivalentes": {
+    "CO": "luca (mil pesos)",
+    "MX": "varo",
+    "EC": "dólar",
+    "ES": "pavo (un euro)",
+    "AR": "luca (mil pesos)"
+   }
+  },
+  {
+   "expresion": "Misio",
+   "significado": "Sin dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Misio antes de la quincena? Paga en cuotas.",
+   "equivalentes": {
+    "CO": "pelado / sin un peso",
+    "MX": "bruja / sin lana",
+    "EC": "chiro",
+    "ES": "pelado / tieso",
+    "AR": "seco / sin un mango"
+   }
+  },
+  {
+   "expresion": "Jato",
+   "significado": "Casa.",
+   "uso": "Lima, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Te lo llevamos a tu jato.",
+   "equivalentes": {
+    "CO": "casa / cantón",
+    "MX": "chante",
+    "EC": "casa",
+    "ES": "keli",
+    "AR": "casa / cucha"
+   }
+  },
+  {
+   "expresion": "Jama / jamear",
+   "significado": "Comida / comer.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Y la jama para el tono?",
+   "equivalentes": {
+    "CO": "comida / papa",
+    "MX": "comida / papear",
+    "EC": "comida / jama",
+    "ES": "papeo",
+    "AR": "morfi / morfar"
+   }
+  },
+  {
+   "expresion": "Chela",
+   "significado": "Cerveza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Unas chelas con los patas.",
+   "equivalentes": {
+    "CO": "pola",
+    "MX": "chela",
+    "EC": "biela",
+    "ES": "caña / birra",
+    "AR": "birra"
+   }
+  },
+  {
+   "expresion": "Roche",
+   "significado": "Vergüenza, situación incómoda.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Cero roche: si no te gusta, lo cambias.",
+   "equivalentes": {
+    "CO": "oso",
+    "MX": "oso",
+    "EC": "qué vergüenza",
+    "ES": "corte / vergüenza",
+    "AR": "vergüenza / papelón"
+   }
+  },
+  {
+   "expresion": "Palta",
+   "significado": "Vergüenza o nervios ('qué palta').",
+   "uso": "Lima y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Qué palta olvidarse del regalo.",
+   "equivalentes": {
+    "CO": "qué oso",
+    "MX": "qué oso",
+    "EC": "qué vergüenza",
+    "ES": "qué corte",
+    "AR": "qué papelón"
+   }
+  },
+  {
+   "expresion": "Pituco",
+   "significado": "Persona de clase alta o con aires de superioridad.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Estilo top sin precio pituco.",
+   "equivalentes": {
+    "CO": "gomelo / play",
+    "MX": "fresa",
+    "EC": "aniñado",
+    "ES": "pijo",
+    "AR": "cheto"
+   }
+  },
+  {
+   "expresion": "Huachafo",
+   "significado": "Cursi, de mal gusto que pretende ser elegante.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regalos con estilo, nada huachafo.",
+   "equivalentes": {
+    "CO": "lobo",
+    "MX": "naco",
+    "EC": "de mal gusto",
+    "ES": "hortera",
+    "AR": "grasa"
+   }
+  },
+  {
+   "expresion": "Chibolo / chibola",
+   "significado": "Niño o joven.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regalos para los chibolos de la casa.",
+   "equivalentes": {
+    "CO": "pelado / chino",
+    "MX": "chamaco",
+    "EC": "guambra",
+    "ES": "chaval",
+    "AR": "pibe"
+   }
+  },
+  {
+   "expresion": "¿Manyas?",
+   "significado": "¿Entiendes?, ¿sabes?",
+   "uso": "Lima, jerga criolla.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Precio final sin sorpresas, ¿manyas?",
+   "equivalentes": {
+    "CO": "¿sí me entiende?",
+    "MX": "¿me explico?",
+    "EC": "¿cachas?",
+    "ES": "¿sabes?",
+    "AR": "¿entendés?"
+   }
+  },
+  {
+   "expresion": "Habla",
+   "significado": "Saludo informal ('¡habla!').",
+   "uso": "Lima y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Habla, causa! Mira lo nuevo.",
+   "equivalentes": {
+    "CO": "¡quiubo!",
+    "MX": "¡qué onda!",
+    "EC": "¡qué fue!",
+    "ES": "¡qué pasa!",
+    "AR": "¡qué hacés!"
+   }
+  },
+  {
+   "expresion": "Asu mare",
+   "significado": "Expresión de sorpresa.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¡Asu mare, qué precio!",
+   "equivalentes": {
+    "CO": "¡uy, qué chimba!",
+    "MX": "¡no manches!",
+    "EC": "¡chuta!",
+    "ES": "¡madre mía!",
+    "AR": "¡mirá vos!"
+   }
+  },
+  {
+   "expresion": "Cachuelo",
+   "significado": "Trabajo extra o temporal para ganar dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Convierte tu cachuelo en negocio.",
+   "equivalentes": {
+    "CO": "camellito / rebusque",
+    "MX": "chambita",
+    "EC": "camellito",
+    "ES": "chapuza / extra",
+    "AR": "changa"
+   }
+  },
+  {
+   "expresion": "Bamba",
+   "significado": "Falso, imitación de mala calidad.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Original, nada bamba.",
+   "equivalentes": {
+    "CO": "chiviado",
+    "MX": "pirata / chafa",
+    "EC": "imitación",
+    "ES": "de imitación",
+    "AR": "trucho"
+   }
+  },
+  {
+   "expresion": "Está yuca",
+   "significado": "Está difícil.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Está yuca enviar a provincias? Te ayudamos.",
+   "equivalentes": {
+    "CO": "está berraco",
+    "MX": "está cañón",
+    "EC": "está duro",
+    "ES": "está chungo",
+    "AR": "está difícil / está jodido"
+   }
+  },
+  {
+   "expresion": "Piña",
+   "significado": "Mala suerte.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Piña con tu último pedido? Aquí no.",
+   "equivalentes": {
+    "CO": "salado",
+    "MX": "salado",
+    "EC": "salado",
+    "ES": "gafe / mala suerte",
+    "AR": "mufa"
+   }
+  },
+  {
+   "expresion": "Tono",
+   "significado": "Fiesta, reunión.",
+   "uso": "Lima y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Todo para el tono de fin de año.",
+   "equivalentes": {
+    "CO": "rumba",
+    "MX": "peda / fiesta",
+    "EC": "farra",
+    "ES": "fiesta / juerga",
+    "AR": "joda / previa"
+   }
+  },
+  {
+   "expresion": "Chancar",
+   "significado": "Estudiar mucho.",
+   "uso": "Todo el país, estudiantes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mientras chancas, nosotros enviamos.",
+   "equivalentes": {
+    "CO": "camellar / estudiar duro",
+    "MX": "machetearle",
+    "EC": "estudiar duro",
+    "ES": "empollar",
+    "AR": "meterle al estudio"
+   }
+  },
+  {
+   "expresion": "Sencillo",
+   "significado": "Monedas o cambio.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Paga con Yape, olvídate del sencillo.",
+   "equivalentes": {
+    "CO": "suelto / menudo",
+    "MX": "cambio / feria",
+    "EC": "suelto",
+    "ES": "suelto",
+    "AR": "cambio / monedas"
+   }
+  },
+  {
+   "expresion": "Ya fue",
+   "significado": "Ya pasó, ya está; o 'no importa'.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Se te pasó la oferta? Ya fue, aquí tienes otra.",
+   "equivalentes": {
+    "CO": "de una / ya qué",
+    "MX": "ya ni modo",
+    "EC": "ya fue",
+    "ES": "ya está",
+    "AR": "ya fue"
+   }
+  },
+  {
+   "expresion": "A la volada",
+   "significado": "Rápido, sin perder tiempo.",
+   "uso": "Lima.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Pide a la volada antes de que se acabe.",
+   "equivalentes": {
+    "CO": "rapidito",
+    "MX": "en chinga",
+    "EC": "volando",
+    "ES": "volando",
+    "AR": "a las chapas"
+   }
+  },
+  {
+   "expresion": "Hacer chancha",
+   "significado": "Juntar dinero entre varios para comprar algo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Hagan chancha para el regalo del jefe.",
+   "equivalentes": {
+    "CO": "hacer vaca",
+    "MX": "hacer coperacha",
+    "EC": "hacer vaca",
+    "ES": "hacer bote",
+    "AR": "hacer una vaquita"
+   }
+  },
+  {
+   "expresion": "Florear",
+   "significado": "Adornar el discurso para convencer o exagerar.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Sin florear: este es el precio final.",
+   "equivalentes": {
+    "CO": "echar carreta",
+    "MX": "echar choro",
+    "EC": "floretear / dorar la píldora",
+    "ES": "dorar la píldora",
+    "AR": "chamuyar"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Perú",
+   "#Lima",
+   "#Arequipa",
+   "#Trujillo",
+   "#EmprendimientoPeruano",
+   "#HechoEnPerú",
+   "#MypePerú",
+   "#ComprasPerú"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio final y método de pago",
+     "'Lo que pedí vs. lo que llegó'",
+     "Día en la vida de un emprendedor de Gamarra",
+     "Recetas y comida peruana con humor"
+    ],
+    "ganchos": [
+     "'Causa, no compres sin ver esto'",
+     "'Esto me costó en Lima vs. en EE. UU.'",
+     "'Qué paja lo que llegó hoy'"
+    ],
+    "horario": "19:00–23:00 entre semana; mediodía y noche los fines de semana",
+    "hashtags": [
+     "#TikTokPerú",
+     "#PeruTikTok",
+     "#Unboxing",
+     "#EmprendimientoPeruano"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels de antes y después",
+     "Carruseles de 'cómo comprar'",
+     "Historias con encuestas y stickers de pregunta"
+    ],
+    "ganchos": [
+     "'3 errores al vender por Instagram en Perú'",
+     "'Guarda esto antes del Black Friday'"
+    ],
+    "horario": "12:00–14:00 y 19:00–22:00",
+    "hashtags": [
+     "#EmprendedoresPerú",
+     "#LimaPerú",
+     "#ModaPeruana",
+     "#HechoEnPerú"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas de tecnología en español peruano",
+     "Tutoriales para mypes",
+     "Vlogs de viajes y gastronomía"
+    ],
+    "ganchos": [
+     "'¿Vale la pena traerlo desde EE. UU.?'",
+     "'Probé esto por una semana'"
+    ],
+    "horario": "Fines de semana por la tarde",
+    "hashtags": [
+     "#YouTubePerú",
+     "#TecnologíaPerú",
+     "#Emprender"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación agroindustrial",
+     "Datos de comercio exterior",
+     "Opinión de gerentes"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos exportando arándanos a Europa'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#ExportacionesPerú",
+     "#Logística"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones con precio y contraentrega",
+     "Grupos de compra y venta",
+     "Transmisiones en vivo de ofertas"
+    ],
+    "ganchos": [
+     "'Paga al recibir en Lima y provincias'",
+     "'Solo por hoy, con yapa'"
+    ],
+    "horario": "20:00–22:00",
+    "hashtags": [
+     "#OfertasPerú",
+     "#VentasPerú"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentarios de actualidad tecnológica",
+     "Hilos de consejos de compra"
+    ],
+    "ganchos": [
+     "'Hilo: cómo no caer en ofertas falsas este Black Friday'"
+    ],
+    "horario": "7:00–9:00 y 18:00–20:00",
+    "hashtags": [
+     "#Perú",
+     "#BlackFridayPerú"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Alpaca y algodón pima hacia EE. UU. y Europa",
+   "senal": "Demanda sostenida de fibras naturales premium y de moda sostenible en mercados de alto poder adquisitivo; temporada de invierno en el hemisferio norte.",
+   "desde": "PE",
+   "hacia": "US",
+   "sector": "moda",
+   "accion": "Contenido de origen y artesanía para tiendas boutique y compradores de regalos de invierno."
+  },
+  {
+   "titulo": "Superalimentos peruanos para el consumidor wellness",
+   "senal": "Interés constante por quinua, maca, cacao y camu camu en EE. UU. y Europa.",
+   "desde": "PE",
+   "hacia": "DE",
+   "sector": "suplementos",
+   "accion": "Explorar contenido educativo sobre beneficios y origen dirigido a tiendas saludables; validar requisitos sanitarios de cada destino."
+  },
+  {
+   "titulo": "Sabores de casa para la diáspora peruana",
+   "senal": "Comunidades peruanas grandes en EE. UU., Chile, Argentina, España e Italia; en Navidad crece la búsqueda de productos de nostalgia.",
+   "desde": "PE",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Mensajes emocionales de temporada con fechas límite de envío claras."
+  },
+  {
+   "titulo": "Tecnología de EE. UU. para Black Friday",
+   "senal": "Interés por celulares, TV y gadgets en temporada de ofertas y con la gratificación de diciembre.",
+   "desde": "US",
+   "hacia": "PE",
+   "sector": "tecnologia",
+   "accion": "Contenido comparativo de precio final (producto + envío + costos) para compradores peruanos."
+  },
+  {
+   "titulo": "Café y cacao de origen peruano",
+   "senal": "Cafés de especialidad y chocolates de origen ganan reconocimiento internacional.",
+   "desde": "PE",
+   "hacia": "NL",
+   "sector": "cafe-cacao",
+   "accion": "Historias de productores y trazabilidad para tostadores y tiendas gourmet europeas."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "envíos internacionales",
+   "total": 402,
+   "anunciantes": [
+    {
+     "nombre": "DHL Latinoamérica",
+     "url": "https://www.facebook.com/ads/library/?id=1128871793197295"
+    },
+    {
+     "nombre": "Andix Tecnología",
+     "url": "https://www.facebook.com/ads/library/?id=1704985344304181"
+    },
+    {
+     "nombre": "Cosmetics & More",
+     "url": "https://www.facebook.com/ads/library/?id=1692502925811329"
+    },
+    {
+     "nombre": "Shandong Mikton Group-Construction Machinery",
+     "url": "https://www.facebook.com/ads/library/?id=1114642018080091"
+    },
+    {
+     "nombre": "Guangzhou Viking Auto Parts",
+     "url": "https://www.facebook.com/ads/library/?id=1466383158391625"
+    }
+   ],
+   "patron": "Además de DHL ('una propuesta para todos tus envíos'), muchos fabricantes chinos pautan en español ofreciendo maquinaria, acero y repuestos 'directo de fábrica': la importación directa es un tema activo para pymes peruanas."
+  },
+  {
+   "busqueda": "emprendimiento",
+   "total": 4571,
+   "anunciantes": [
+    {
+     "nombre": "Escuela Escotex - Centro de Capacitación",
+     "url": "https://www.facebook.com/ads/library/?id=1955609422322732"
+    },
+    {
+     "nombre": "Con Mis Manos",
+     "url": "https://www.facebook.com/ads/library/?id=1795733328209568"
+    },
+    {
+     "nombre": "Negocios Creativos",
+     "url": "https://www.facebook.com/ads/library/?id=987073757294389"
+    },
+    {
+     "nombre": "Bioliffe Moringa-Emprende",
+     "url": "https://www.facebook.com/ads/library/?id=1381586440532851"
+    },
+    {
+     "nombre": "Diseñando Eventos - Cursos Online",
+     "url": "https://www.facebook.com/ads/library/?id=2348170799350446"
+    }
+   ],
+   "patron": "Predominan cursos de oficios y negocios desde casa (confección, cestería, manualidades) y productos imprimibles navideños: el gancho es 'aprende y vende esta temporada'."
+  }
+ ]
+}
