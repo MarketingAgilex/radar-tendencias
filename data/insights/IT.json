@@ -1,0 +1,1163 @@
+{
+ "pais": "IT",
+ "actualizado": "2026-11-14T21:01:23Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "A menos de dos semanas del Black Friday del 27 de noviembre, el consumidor italiano ya está comprando: tres de cada cuatro adelantan los regalos de Navidad, pero con presupuesto más ajustado y mucha atención a los falsos descuentos. La tecnología manda en las ofertas (televisores, smartphones, robots de limpieza) y el lanzamiento de GTA VI el 19 de noviembre mueve al público gamer, mientras la seguridad de los dispositivos del hogar gana interés. Con la calefacción ya encendida en el centro y sur del país y el debate sobre la factura del gas, pesa todo lo que ayude a ahorrar en casa; la noche frente al sofá (guía de TV, series italianas en Netflix) es buen momento para conectar. Funcionan los mensajes de precio honesto y comprobable, pago en cuotas y entrega a tiempo para Navidad.",
+ "semaforo": [
+  {
+   "termino": "rockstar games gta vi",
+   "color": "verde",
+   "por_que": "GTA VI llega el 19 de noviembre y en Italia se busca cómo prepararse: espacio en la consola, accesorios y fecha de lanzamiento.",
+   "idea": "Tiendas de tecnología y gaming: checklist 'prepara tu setup' con discos, mandos, auriculares y sillas, con precio final y plazos de entrega claros. Evita usar escenas violentas del juego."
+  },
+  {
+   "termino": "guida tv",
+   "color": "verde",
+   "por_que": "Búsqueda clásica del sábado por la noche: el público planea qué ver en el sofá, con estrenos de cine y series en abierto.",
+   "idea": "Marcas de hogar, comida y snacks: contenido tipo 'kit para la noche de cine' (manta, palomitas, chocolate caliente) publicado entre las 19:00 y las 21:00."
+  },
+  {
+   "termino": "cannavacciuolo stella michelin",
+   "color": "amarillo",
+   "por_que": "La nueva Guía Michelin Italia generó conversación al restar una estrella a un chef muy popular de la televisión.",
+   "idea": "Gastronomía y alimentos gourmet pueden hablar de la cultura de la excelencia y del producto de origen, sin burlarse del chef ni opinar sobre el veredicto."
+  },
+  {
+   "termino": "madre",
+   "color": "amarillo",
+   "por_que": "El término sube por el anuncio sorpresa de maternidad de una cantante internacional; es un tema personal y de prensa rosa.",
+   "idea": "Marcas de bebés y regalos pueden hablar de la maternidad en general (lista de nacimiento, primera Navidad del bebé) sin usar el nombre de la artista ni especular sobre su vida privada."
+  },
+  {
+   "termino": "paola barale malattia papilloma virus",
+   "color": "amarillo",
+   "por_que": "Una presentadora conocida contó su experiencia con un tumor causado por el virus del papiloma; tema de salud delicado.",
+   "idea": "Salud y farmacias pueden informar sobre prevención y vacunación con fuentes médicas; nada de humor, ofertas ni uso de su imagen."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor italiano",
+   "resumen": "Exigente con la calidad, el diseño y la relación calidad-precio, y cada vez más cuidadoso con el gasto por el costo de vida. Investiga mucho antes de comprar (reseñas, comparadores, asociaciones de consumidores como Altroconsumo) y desconfía de los descuentos inflados. Valora lo artesanal, el origen y lo 'Made in Italy', y la comida es parte central de su identidad y de sus regalos. Hay diferencias regionales marcadas: Norte más industrial y digital, Sur con más peso de la familia y el comercio de cercanía. Las fechas clave del invierno son Black Friday (27 de noviembre), Cyber Monday (30 de noviembre), el puente de la Immacolata (8 de diciembre, inicio oficial de la Navidad), Natale, la Befana (6 de enero) y los saldi invernali, que arrancan a inicios de enero según el calendario de cada región.",
+   "como_habla": "Trato de 'Lei' con desconocidos en contextos formales; las marcas en redes suelen tutear ('tu'). Expresivo y con humor; usa mucho 'dai', 'magari', 'figurati', 'top', 'ci sta'. Los jóvenes mezclan anglicismos italianizados ('droppare', 'ghostare', 'chillare') y expresiones regionales que se volvieron nacionales ('daje', 'scialla').",
+   "dolores": [
+    "Costo de vida, facturas de energía y presupuesto más ajustado",
+    "Falsos descuentos y precios inflados antes del Black Friday",
+    "Gastos de envío y devoluciones complicadas",
+    "Fraudes y estafas en compras online",
+    "Entregas que llegan tarde para Navidad"
+   ],
+   "motivaciones": [
+    "Hacer 'un affare' sin renunciar a la calidad",
+    "Productos con origen, artesanía y buen diseño",
+    "Regalar comida, bebida y experiencias en familia",
+    "Pago en cuotas (paga in 3 rate) y métodos seguros como PayPal",
+    "Reseñas reales y atención por chat"
+   ],
+   "frenos": [
+    "Sitios sin datos de empresa, sin textos en italiano o mal traducidos",
+    "Precio final que cambia en el checkout",
+    "Plazos de entrega vagos",
+    "Falta de recogida en punto o locker"
+   ],
+   "tono": "Cálido, claro y con estilo. Cuida la estética y argumenta con datos concretos (precio, origen, garantía); un toque de humor ligero funciona mejor que los superlativos.",
+   "evitar": [
+    "Estereotipos de pizza, mafia, mandolina o 'mamma mia'",
+    "Mezclar o burlarse de diferencias Norte-Sur",
+    "Descuentos sin precio de referencia verificable",
+    "Temas políticos, sindicales o de manifestaciones",
+    "Errores de italiano o traducciones automáticas sin revisar"
+   ],
+   "canales": [
+    "WhatsApp (canal número uno de conversación y atención)",
+    "Instagram (descubrimiento de marcas, moda, comida y diseño)",
+    "TikTok (crecimiento fuerte en menores de 35)",
+    "Facebook (mayores de 40 y comunidades locales)",
+    "YouTube (reseñas y comparativas de tecnología)",
+    "Marketplaces: Amazon.it, Subito, Vinted, Zalando"
+   ],
+   "mensajes": [
+    "'Il prezzo che vedi è quello che paghi.' (El precio que ves es el que pagas)",
+    "'Ordina entro il … e arriva in tempo per Natale.' (Pide antes del … y llega a tiempo para Navidad)",
+    "'Qualità vera, sconto vero.' (Calidad real, descuento real)"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce italiano",
+   "resumen": "Italia es un país de pequeñas empresas y artesanos. Muchos venden por Instagram, Etsy, Amazon o tiendas en Shopify productos de moda, alimentación, diseño y cosmética, y buscan proveedores con ingredientes o materiales diferenciales. El 'Made in Italy' es su gran carta para vender fuera.",
+   "como_habla": "'La mia piccola attività', 'il mio shop', 'sto crescendo', 'cerco fornitori', 'spedizioni all'estero', 'partita IVA'.",
+   "dolores": [
+    "Burocracia y carga fiscal",
+    "Costos logísticos que reducen el margen",
+    "Competencia de grandes marketplaces",
+    "Dificultad para vender fuera de la UE"
+   ],
+   "motivaciones": [
+    "Exportar el 'Made in Italy' a nuevos mercados",
+    "Diferenciarse con materias primas de origen",
+    "Comunidad y formación práctica"
+   ],
+   "frenos": [
+    "Miedo a trámites aduaneros fuera de la UE",
+    "Poco tiempo para aprender procesos nuevos"
+   ],
+   "tono": "Práctico y cercano, con pasos claros y ejemplos reales de otros emprendedores.",
+   "evitar": [
+    "Tecnicismos sin explicar",
+    "Prometer crecimiento rápido sin respaldo"
+   ],
+   "canales": [
+    "Instagram y TikTok educativos",
+    "LinkedIn",
+    "Grupos de Facebook y WhatsApp de emprendedores",
+    "Webinars y eventos de cámaras de comercio"
+   ],
+   "mensajes": [
+    "'Porta il tuo Made in Italy oltre confine.' (Lleva tu Made in Italy más allá de la frontera)",
+    "'Ti spieghiamo ogni passo, senza sorprese.' (Te explicamos cada paso, sin sorpresas)"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Empresas familiares, a menudo en distritos industriales, que exportan maquinaria, alimentos, vino, moda y diseño, e importan materias primas como café verde, cacao, frutas o fibras. Deciden por confianza, cumplimiento y relaciones de largo plazo.",
+   "como_habla": "Formal: 'preventivo', 'tempi di consegna', 'sdoganamento', 'documentazione', 'porta a porta', 'Incoterms'.",
+   "dolores": [
+    "Retrasos que afectan pedidos de temporada",
+    "Costos logísticos variables",
+    "Requisitos documentales y sanitarios",
+    "Proveedores que tardan en responder"
+   ],
+   "motivaciones": [
+    "Trazabilidad y cumplimiento",
+    "Un referente fijo que conozca su operación",
+    "Abrir mercados fuera de Europa, incluida Latinoamérica"
+   ],
+   "frenos": [
+    "Cambiar de proveedor implica riesgo",
+    "Necesita referencias de otras empresas del sector"
+   ],
+   "tono": "Profesional, sobrio y concreto, con trato de 'Lei'.",
+   "evitar": [
+    "Lenguaje juvenil",
+    "Promesas sin respaldo operativo"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo y llamada comercial",
+    "Ferias sectoriales (Milán, Bolonia, Verona)",
+    "Asociaciones y cámaras de comercio"
+   ],
+   "mensajes": [
+    "'Un referente che conosce la tua merce.' (Un contacto que conoce tu carga)",
+    "'Visibilità della spedizione dall'inizio alla fine.' (Visibilidad del envío de principio a fin)"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande y corporativa",
+   "resumen": "Grupos industriales, de moda, lujo y alimentación con procesos de compra formales, licitaciones y exigencias de sostenibilidad y cumplimiento normativo europeo.",
+   "como_habla": "Corporativo: 'fornitore qualificato', 'SLA', 'compliance', 'sostenibilità', 'efficienza operativa'.",
+   "dolores": [
+    "Riesgo de proveedor",
+    "Reportes de sostenibilidad y trazabilidad",
+    "Control de costos"
+   ],
+   "motivaciones": [
+    "Fiabilidad comprobada",
+    "Datos y trazabilidad",
+    "Servicio dedicado"
+   ],
+   "frenos": [
+    "Ciclos de decisión largos",
+    "Exigencias documentales"
+   ],
+   "tono": "Ejecutivo y basado en evidencia.",
+   "evitar": [
+    "Mensajes masivos o promocionales"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Contacto comercial directo",
+    "Eventos y ferias del sector"
+   ],
+   "mensajes": [
+    "'Logistica tracciabile con un team dedicato.' (Logística trazable con un equipo dedicado)"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z italiana (18–28)",
+   "resumen": "Vive en TikTok e Instagram, descubre marcas por creadores y compra segunda mano en Vinted sin complejos. Le importan la autenticidad, la estética y el precio; sigue el rap italiano, los realities y los videojuegos (GTA VI es tema de conversación).",
+   "como_habla": "Anglicismos italianizados y jerga de redes: 'chill', 'droppare', 'cringe', 'raga', 'fra', 'non ho sbatti', 'sei cucinato', 'top'.",
+   "dolores": [
+    "Presupuesto limitado",
+    "Desconfianza ante anuncios demasiado producidos",
+    "Ansiedad por el futuro y el costo de vida"
+   ],
+   "motivaciones": [
+    "Tendencia y pertenencia",
+    "Ahorro y segunda mano",
+    "Marcas con valores reales"
+   ],
+   "frenos": [
+    "Envíos lentos",
+    "Marcas que fuerzan la jerga"
+   ],
+   "tono": "Directo, irónico y auténtico; mejor un creador real que un spot perfecto.",
+   "evitar": [
+    "Usar jerga mal o fuera de contexto",
+    "Discursos paternalistas"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram (Reels y Stories)",
+    "Twitch y YouTube",
+    "Vinted"
+   ],
+   "mensajes": [
+    "'Zero sbatti: ordini e arriva.' (Cero complicaciones: pides y llega)",
+    "'Il drop di Natale è qui.' (El lanzamiento de Navidad ya está aquí)"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials italianos (29–44)",
+   "resumen": "Compran online con naturalidad, comparan mucho y usan el pago en cuotas. Muchos tienen hijos pequeños y poco tiempo; buscan practicidad, calidad duradera y experiencias (viajes, gastronomía, aperitivo).",
+   "como_habla": "Mezcla italiano estándar con anglicismos de trabajo y redes ('call', 'deadline', 'top', 'ci sta'). Responde bien al humor y a la nostalgia de los años 90 y 2000.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costo de vivienda y facturas",
+    "Logística de regalos navideños"
+   ],
+   "motivaciones": [
+    "Ahorrar tiempo",
+    "Calidad que dura",
+    "Experiencias y bienestar"
+   ],
+   "frenos": [
+    "Devoluciones complicadas",
+    "Costos ocultos"
+   ],
+   "tono": "Cercano, eficiente y con un toque de humor.",
+   "evitar": [
+    "Tratar la paternidad con clichés",
+    "Mensajes largos sin dato concreto"
+   ],
+   "canales": [
+    "Instagram",
+    "WhatsApp",
+    "Newsletter con códigos",
+    "YouTube y podcasts"
+   ],
+   "mensajes": [
+    "'Regali fatti, senza stress.' (Regalos listos, sin estrés)",
+    "'Paghi in 3 rate, arriva in tempo per Natale.' (Pagas en 3 cuotas y llega a tiempo para Navidad)"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X italiana (45–60)",
+   "resumen": "Gestiona el presupuesto familiar y cuida a padres e hijos al mismo tiempo. Pragmática, fiel a las marcas que cumplen y muy sensible a la factura de la luz y el gas.",
+   "como_habla": "Italiano estándar, cortés y directo; prefiere explicaciones claras a la jerga.",
+   "dolores": [
+    "Costo de energía y de la vida",
+    "Falta de tiempo",
+    "Desconfianza ante fraudes online"
+   ],
+   "motivaciones": [
+    "Fiabilidad",
+    "Ahorro real y comprobable",
+    "Atención humana"
+   ],
+   "frenos": [
+    "Procesos digitales complicados",
+    "Falta de un contacto claro"
+   ],
+   "tono": "Claro, confiable y respetuoso.",
+   "evitar": [
+    "Exceso de anglicismos y jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Correo electrónico",
+    "Televisión y su segunda pantalla"
+   ],
+   "mensajes": [
+    "'Risparmio vero, servizio chiaro.' (Ahorro real, servicio claro)"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers italianos (61+)",
+   "resumen": "Una de las poblaciones más longevas de Europa. Valoran la confianza, el comercio de barrio y la atención personal; cada vez compran más online, a menudo con ayuda de hijos o nietos. Son blanco frecuente de estafas, así que la seguridad es clave.",
+   "como_habla": "Formal y cortés, con trato de 'Lei'. Aprecian la claridad y la cortesía.",
+   "dolores": [
+    "Miedo a estafas y fraudes",
+    "Dificultad con apps y pagos digitales",
+    "Letra pequeña"
+   ],
+   "motivaciones": [
+    "Seguridad y confianza",
+    "Hablar con una persona",
+    "Regalos para nietos y familia"
+   ],
+   "frenos": [
+    "Pagos online",
+    "Procesos largos"
+   ],
+   "tono": "Respetuoso, paciente y muy claro.",
+   "evitar": [
+    "Tutear sin permiso",
+    "Tecnicismos y prisas"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Televisión",
+    "Teléfono y tienda física"
+   ],
+   "mensajes": [
+    "'Siamo qui per aiutarLa, passo dopo passo.' (Estamos aquí para ayudarle, paso a paso)"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, materiales, km cero, reparabilidad y segunda mano; la reducción de envases y el reciclaje son temas muy presentes.",
+   "mensaje": "'Fatto bene, per durare.' (Bien hecho, para durar)",
+   "evitar": "Greenwashing: la normativa europea sanciona las alegaciones ecológicas sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Black Friday, Cyber Monday, saldi invernali y cupones; compara precios y lee guías de asociaciones de consumidores para detectar falsos descuentos.",
+   "mensaje": "'Lo sconto vero, con il prezzo di riferimento.' (El descuento real, con precio de referencia)",
+   "evitar": "Porcentajes inflados: el descuento debe calcularse sobre el precio más bajo de los últimos 30 días."
+  },
+  "aspiracional": {
+   "como_llegarle": "Diseño, moda y lujo con historia; Italia es referencia mundial de estilo y su público tiene ojo entrenado.",
+   "mensaje": "'Stile senza tempo.' (Estilo atemporal)",
+   "evitar": "Estética de bajo costo o lujo ostentoso sin contenido."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología, plegables y gaming; comparativas en YouTube y sitios especializados.",
+   "mensaje": "'Provalo prima di tutti.' (Pruébalo antes que nadie)",
+   "evitar": "Especificaciones sin beneficio real."
+  },
+  "wellness": {
+   "como_llegarle": "Dieta mediterránea, integratori (suplementos), farmacia y movimiento al aire libre; confía en el farmacéutico y en el médico.",
+   "mensaje": "'Il tuo benessere, ogni giorno.' (Tu bienestar, cada día)",
+   "evitar": "Promesas de salud sin respaldo científico."
+  },
+  "familia": {
+   "como_llegarle": "La familia es el centro de la Navidad y de la Befana; buscan practicidad, seguridad y regalos para niños y abuelos.",
+   "mensaje": "'Per tutta la famiglia, senza pensieri.' (Para toda la familia, sin preocupaciones)",
+   "evitar": "Clichés de la 'mamma italiana' y roles de género anticuados."
+  },
+  "viajero": {
+   "como_llegarle": "Puentes festivos (Immacolata, Navidad, Año Nuevo), montaña en invierno y escapadas por Europa.",
+   "mensaje": "'Prepara il tuo ponte.' (Prepara tu puente)",
+   "evitar": "Postales turísticas trilladas."
+  },
+  "gamer": {
+   "como_llegarle": "GTA VI (19 de noviembre), consolas, periféricos y streaming en Twitch; lenguaje gamer auténtico ('nabbo', 'buildare', 'tryhardare').",
+   "mensaje": "'Setup pronto per il lancio.' (Setup listo para el lanzamiento)",
+   "evitar": "Escenas violentas o glorificación del crimen del juego."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinoamericanas en Italia (sobre todo en Milán, Roma y Génova) que buscan sabores y productos de casa y envían regalos a su familia en Navidad.",
+   "mensaje": "'Il sapore di casa, ovunque tu sia.' / 'El sabor de casa, donde estés.'",
+   "evitar": "Tratar la migración como drama o tema político."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Che figata!",
+   "significado": "¡Qué genial! Algo que entusiasma mucho.",
+   "uso": "Todo el país, sobre todo menores de 45.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Che figata questa nuova collezione!",
+   "equivalentes": {
+    "CO": "¡Qué chévere!",
+    "MX": "¡Qué padre!",
+    "EC": "¡Qué bacán!",
+    "ES": "¡Qué guay!",
+    "AR": "¡Qué copado!"
+   }
+  },
+  {
+   "expresion": "Figo / Fico",
+   "significado": "Chévere, atractivo, que está a la moda.",
+   "uso": "Todo el país; 'fico' es más del centro (Roma, Toscana).",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Questo zaino è troppo figo.",
+   "equivalentes": {
+    "CO": "chévere",
+    "MX": "padre / chido",
+    "EC": "bacán",
+    "ES": "guay / chulo",
+    "AR": "copado / genial"
+   }
+  },
+  {
+   "expresion": "Top",
+   "significado": "Lo mejor, excelente; a veces en tono irónico.",
+   "uso": "Todo el país, muy usado en redes y comercio.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Qualità top, prezzo onesto.",
+   "equivalentes": {
+    "CO": "una chimba (informal) / lo máximo",
+    "MX": "lo máximo / chido",
+    "EC": "lo máximo",
+    "ES": "top / de lo mejor",
+    "AR": "lo más / un golazo"
+   }
+  },
+  {
+   "expresion": "Spaccare",
+   "significado": "Arrasar, ser un éxito; literalmente 'romper'.",
+   "uso": "Todo el país, público joven y adulto joven.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Questo regalo spacca!",
+   "equivalentes": {
+    "CO": "romperla",
+    "MX": "rifarse / estar con todo",
+    "EC": "romperla",
+    "ES": "petarlo / romperlo",
+    "AR": "romperla"
+   }
+  },
+  {
+   "expresion": "Una bomba",
+   "significado": "Algo buenísimo o impresionante.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Questa offerta è una bomba!",
+   "equivalentes": {
+    "CO": "una chimba (informal) / una nota",
+    "MX": "una bomba / está cañón",
+    "EC": "una bomba / qué nota",
+    "ES": "un pepinazo / una pasada",
+    "AR": "una bomba / un caño"
+   }
+  },
+  {
+   "expresion": "Ci sta",
+   "significado": "Tiene sentido, me parece bien, vale.",
+   "uso": "Todo el país, muy común entre jóvenes y adultos.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un caffè dopo il lavoro? Ci sta.",
+   "equivalentes": {
+    "CO": "de una / listo",
+    "MX": "va / sale",
+    "EC": "de ley / dale",
+    "ES": "vale / me cuadra",
+    "AR": "dale / va"
+   }
+  },
+  {
+   "expresion": "Boh",
+   "significado": "No sé, ni idea; expresa duda o indiferencia.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Cosa regalare a Natale? Boh, aiutaci tu.",
+   "equivalentes": {
+    "CO": "ni idea",
+    "MX": "ni idea / quién sabe",
+    "EC": "ni idea",
+    "ES": "ni idea / ni puta idea (vulgar)",
+    "AR": "ni idea / qué sé yo"
+   }
+  },
+  {
+   "expresion": "Magari!",
+   "significado": "¡Ojalá! Expresa deseo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Natale sotto casa? Magari!",
+   "equivalentes": {
+    "CO": "¡ojalá!",
+    "MX": "¡ojalá!",
+    "EC": "¡ojalá!",
+    "ES": "¡ojalá!",
+    "AR": "¡ojalá!"
+   }
+  },
+  {
+   "expresion": "Dai!",
+   "significado": "¡Vamos! / ¡Anda ya!; anima o expresa sorpresa.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Dai, manca poco al Black Friday!",
+   "equivalentes": {
+    "CO": "¡dale! / ¡no puede ser!",
+    "MX": "¡órale! / ¡ándale!",
+    "EC": "¡dale! / ¡no me digas!",
+    "ES": "¡venga! / ¡anda ya!",
+    "AR": "¡dale! / ¡no te puedo creer!"
+   }
+  },
+  {
+   "expresion": "Daje!",
+   "significado": "¡Vamos! ¡Dale! Expresión de ánimo romana que se volvió nacional.",
+   "uso": "Roma y centro de Italia; extendida en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Daje, si parte con i saldi!",
+   "equivalentes": {
+    "CO": "¡dale! / ¡hágale!",
+    "MX": "¡órale! / ¡vámonos!",
+    "EC": "¡dale!",
+    "ES": "¡venga! / ¡vamos!",
+    "AR": "¡dale! / ¡vamos!"
+   }
+  },
+  {
+   "expresion": "Scialla",
+   "significado": "Tranquilo, relájate, sin estrés.",
+   "uso": "Nacido en Roma; usado por jóvenes en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Scialla, la spedizione la seguiamo noi.",
+   "equivalentes": {
+    "CO": "tranqui / relajado",
+    "MX": "relax / tranqui",
+    "EC": "tranqui / suave",
+    "ES": "tranqui",
+    "AR": "tranqui"
+   }
+  },
+  {
+   "expresion": "Chill / Chillare",
+   "significado": "Relajado / relajarse. La Accademia della Crusca la eligió palabra joven del año.",
+   "uso": "Gen Z y millennials, todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Domenica chill: divano, coperta e serie TV.",
+   "equivalentes": {
+    "CO": "relajado / parchar",
+    "MX": "chill / relajarse",
+    "EC": "relax / chill",
+    "ES": "chill / de chill",
+    "AR": "tranqui / de relax"
+   }
+  },
+  {
+   "expresion": "Non ho sbatti / Che sbatti",
+   "significado": "No tengo ganas / ¡Qué pereza, qué fastidio!",
+   "uso": "Norte de Italia de origen; hoy común entre jóvenes de todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Fare la fila? Che sbatti. Compra online.",
+   "equivalentes": {
+    "CO": "¡qué pereza!",
+    "MX": "¡qué flojera!",
+    "EC": "¡qué pereza! / ¡qué hueva! (vulgar)",
+    "ES": "¡qué pereza! / ¡qué palo!",
+    "AR": "¡qué paja!"
+   }
+  },
+  {
+   "expresion": "Che palle!",
+   "significado": "¡Qué fastidio! ¡Qué aburrimiento!",
+   "uso": "Todo el país; vulgar suave.",
+   "registro": "vulgar",
+   "apto_anuncio": "no",
+   "ejemplo": "Che palle, piove di nuovo.",
+   "equivalentes": {
+    "CO": "¡qué jartera!",
+    "MX": "¡qué hueva!",
+    "EC": "¡qué pereza! / ¡qué hueva!",
+    "ES": "¡qué coñazo!",
+    "AR": "¡qué embole!"
+   }
+  },
+  {
+   "expresion": "Un casino",
+   "significado": "Un desorden / muchísimo (un casino di gente: muchísima gente).",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Mi piace un casino!",
+   "equivalentes": {
+    "CO": "un desorden / un montón",
+    "MX": "un desmadre / un chingo (vulgar)",
+    "EC": "un relajo / full",
+    "ES": "un lío / un montón",
+    "AR": "un quilombo / un montón"
+   }
+  },
+  {
+   "expresion": "Al volo",
+   "significado": "Al vuelo, enseguida, de inmediato.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Ordini oggi, lo prepariamo al volo.",
+   "equivalentes": {
+    "CO": "de una / ya mismo",
+    "MX": "al tiro / luego luego",
+    "EC": "de una / volando",
+    "ES": "en un pispás / al momento",
+    "AR": "al toque"
+   }
+  },
+  {
+   "expresion": "Una fregatura",
+   "significado": "Un engaño, una estafa, algo que no vale lo que cuesta.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nessuna fregatura: il prezzo che vedi è quello che paghi.",
+   "equivalentes": {
+    "CO": "una tumbada",
+    "MX": "una transa",
+    "EC": "un engaño / una estafa",
+    "ES": "un timo",
+    "AR": "una estafa / un curro"
+   }
+  },
+  {
+   "expresion": "Una sòla",
+   "significado": "Un timo, algo que decepciona; romanesco.",
+   "uso": "Roma y centro; entendido en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Questo non è una sòla, provalo.",
+   "equivalentes": {
+    "CO": "una tumbada",
+    "MX": "una transa",
+    "EC": "un engaño",
+    "ES": "un timo",
+    "AR": "un curro / un verso"
+   }
+  },
+  {
+   "expresion": "Costare un occhio della testa",
+   "significado": "Costar un ojo de la cara, ser carísimo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Qualità artigianale senza costare un occhio della testa.",
+   "equivalentes": {
+    "CO": "costar un ojo de la cara",
+    "MX": "costar un ojo de la cara",
+    "EC": "costar un ojo de la cara",
+    "ES": "costar un ojo de la cara / un riñón",
+    "AR": "salir un ojo de la cara"
+   }
+  },
+  {
+   "expresion": "Avere le mani bucate",
+   "significado": "Ser derrochador, gastar todo lo que se tiene.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Mani bucate? Il Black Friday è fatto per te.",
+   "equivalentes": {
+    "CO": "ser manirroto",
+    "MX": "tener las manos agujeradas / ser gastalón",
+    "EC": "ser gastador",
+    "ES": "ser un manirroto",
+    "AR": "ser gastador / tener agujero en el bolsillo"
+   }
+  },
+  {
+   "expresion": "Prezzo stracciato",
+   "significado": "Precio regalado, rebajadísimo.",
+   "uso": "Todo el país; muy usado en comercio.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Solo oggi, prezzi stracciati!",
+   "equivalentes": {
+    "CO": "precio de ganga",
+    "MX": "precio de remate",
+    "EC": "precio de remate",
+    "ES": "precio de chollo / tirado",
+    "AR": "precio regalado"
+   }
+  },
+  {
+   "expresion": "Un affare / Un affarone",
+   "significado": "Una ganga, un gran negocio.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "A questo prezzo è un affarone.",
+   "equivalentes": {
+    "CO": "una ganga",
+    "MX": "una ganga / un ofertón",
+    "EC": "una ganga",
+    "ES": "un chollo",
+    "AR": "una ganga"
+   }
+  },
+  {
+   "expresion": "Non vedo l'ora",
+   "significado": "¡No veo la hora! Muchas ganas de que llegue algo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Non vedo l'ora di aprire i regali!",
+   "equivalentes": {
+    "CO": "no veo la hora",
+    "MX": "ya quiero que llegue",
+    "EC": "no veo la hora",
+    "ES": "estoy deseando",
+    "AR": "no veo la hora"
+   }
+  },
+  {
+   "expresion": "Figurati!",
+   "significado": "¡No hay de qué! / ¡Imagínate!",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Grazie per l'ordine! — Figurati, a presto!",
+   "equivalentes": {
+    "CO": "¡con gusto! / ¡tranquilo!",
+    "MX": "¡de nada! / ¡no hay de qué!",
+    "EC": "¡de nada!",
+    "ES": "¡no hay de qué!",
+    "AR": "¡de nada! / ¡ni hablar!"
+   }
+  },
+  {
+   "expresion": "Fare il ponte",
+   "significado": "Juntar un festivo con el fin de semana tomando un día libre (puente).",
+   "uso": "Todo el país; clave en el calendario comercial.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Fai il ponte dell'Immacolata? Ecco le nostre idee viaggio.",
+   "equivalentes": {
+    "CO": "hacer puente",
+    "MX": "hacer puente",
+    "EC": "hacer feriado largo",
+    "ES": "hacer puente",
+    "AR": "hacer fin de semana largo"
+   }
+  },
+  {
+   "expresion": "Fare la scarpetta",
+   "significado": "Rebañar la salsa del plato con pan.",
+   "uso": "Todo el país; muy ligado a la cultura gastronómica.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un sugo così? Scarpetta obbligatoria.",
+   "equivalentes": {
+    "CO": "untar el pan en la salsa",
+    "MX": "hacer taquito con la salsa / sopear",
+    "EC": "mojar el pan en la salsa",
+    "ES": "mojar pan / rebañar",
+    "AR": "hacer la del pancito / mojar el pan"
+   }
+  },
+  {
+   "expresion": "Raga",
+   "significado": "Chicos, gente; abreviación de 'ragazzi' para dirigirse a un grupo.",
+   "uso": "Jóvenes de todo el país, muy usado en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Raga, domani parte il Black Friday!",
+   "equivalentes": {
+    "CO": "parceros / muchachos",
+    "MX": "banda / chavos",
+    "EC": "panas / ñaños",
+    "ES": "peña / chicos",
+    "AR": "chicos / gente"
+   }
+  },
+  {
+   "expresion": "Fra / Bro",
+   "significado": "Hermano, amigo; tratamiento entre amigos.",
+   "uso": "Gen Z de todo el país; 'fra' viene del rap italiano.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Fra, hai visto questo drop?",
+   "equivalentes": {
+    "CO": "parce",
+    "MX": "carnal / bro",
+    "EC": "ñaño / pana",
+    "ES": "tío / bro",
+    "AR": "boludo (informal) / amigo"
+   }
+  },
+  {
+   "expresion": "Droppare",
+   "significado": "Lanzar o publicar algo nuevo (música, colección, contenido).",
+   "uso": "Gen Z y creadores de contenido.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Venerdì droppiamo la capsule di Natale.",
+   "equivalentes": {
+    "CO": "lanzar / sacar",
+    "MX": "lanzar / sacar",
+    "EC": "lanzar / sacar",
+    "ES": "lanzar / sacar",
+    "AR": "lanzar / sacar"
+   }
+  },
+  {
+   "expresion": "Floppare",
+   "significado": "Fracasar, no tener el éxito esperado (un 'flop').",
+   "uso": "Gen Z y creadores de contenido.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Il video è floppato, rifacciamolo.",
+   "equivalentes": {
+    "CO": "pifiarla / no pegar",
+    "MX": "no pegar / fracasar",
+    "EC": "no pegar",
+    "ES": "pinchar / ser un fiasco",
+    "AR": "no pegar / ser un fracaso"
+   }
+  },
+  {
+   "expresion": "Flexare",
+   "significado": "Presumir, alardear de algo.",
+   "uso": "Gen Z, sobre todo en redes y rap.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Flexa il tuo outfit delle feste.",
+   "equivalentes": {
+    "CO": "chicanear / alardear",
+    "MX": "presumir",
+    "EC": "creerse / presumir",
+    "ES": "fardar / chulear",
+    "AR": "fanfarronear / cancherear"
+   }
+  },
+  {
+   "expresion": "Ghostare",
+   "significado": "Dejar de responder a alguien sin explicación.",
+   "uso": "Gen Z y millennials, todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Non ti ghostiamo: rispondiamo in chat.",
+   "equivalentes": {
+    "CO": "dejar en visto / ghostear",
+    "MX": "ghostear / dejar en visto",
+    "EC": "dejar en visto",
+    "ES": "hacer ghosting",
+    "AR": "ghostear / clavar el visto"
+   }
+  },
+  {
+   "expresion": "Spillare",
+   "significado": "Contar chismes, soltar información jugosa.",
+   "uso": "Gen Z, en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Spilliamo le novità di dicembre?",
+   "equivalentes": {
+    "CO": "chismosear / contar el chisme",
+    "MX": "echar el chisme",
+    "EC": "contar el chisme",
+    "ES": "contar el salseo",
+    "AR": "contar el chisme"
+   }
+  },
+  {
+   "expresion": "Sgamare",
+   "significado": "Descubrir a alguien o algo que estaba oculto; pillar.",
+   "uso": "Jóvenes de todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Sgamato: stavi già guardando i regali!",
+   "equivalentes": {
+    "CO": "pillar",
+    "MX": "cachar",
+    "EC": "pillar / cachar",
+    "ES": "pillar",
+    "AR": "cachar / descubrir"
+   }
+  },
+  {
+   "expresion": "Essere cucinato",
+   "significado": "Estar frito, estar en problemas.",
+   "uso": "Gen Z; señalada por la Accademia della Crusca entre las palabras jóvenes de 2025.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regali non ancora fatti? Sei cucinato.",
+   "equivalentes": {
+    "CO": "estar jodido (vulgar) / estar en aprietos",
+    "MX": "estar frito",
+    "EC": "estar frito",
+    "ES": "estar frito / estar apañado",
+    "AR": "estar frito / estar al horno"
+   }
+  },
+  {
+   "expresion": "Cringe",
+   "significado": "Que da vergüenza ajena.",
+   "uso": "Gen Z y millennials, todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Niente pubblicità cringe, promesso.",
+   "equivalentes": {
+    "CO": "qué oso",
+    "MX": "qué oso / cringe",
+    "EC": "qué vergüenza",
+    "ES": "qué vergüenza ajena / cringe",
+    "AR": "qué vergüenza ajena / cringe"
+   }
+  },
+  {
+   "expresion": "Rosicare",
+   "significado": "Sentir envidia o rabia por algo que no se consiguió; 'picarse'.",
+   "uso": "Nacido en Roma; usado en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Hai perso l'offerta? Non rosicare, torna domani.",
+   "equivalentes": {
+    "CO": "dar piedra",
+    "MX": "ardido / dar coraje",
+    "EC": "picarse / dar iras",
+    "ES": "picarse / rabiar",
+    "AR": "calentarse / picarse"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Italia",
+   "#MadeInItaly",
+   "#Milano",
+   "#Roma",
+   "#Napoli",
+   "#ShoppingItalia",
+   "#Imprenditori",
+   "#Natale2026"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Hauls y 'affari' con precio final a la vista",
+     "Unboxing y prueba del producto",
+     "Storytime de emprendedor ('la mia piccola attività')",
+     "Respuestas a comentarios con video",
+     "POV con humor cotidiano"
+    ],
+    "ganchos": [
+     "'Raga, questo affare non potete perderlo…'",
+     "'L'ho provato per voi: vale la pena?'",
+     "'Black Friday: come riconoscere lo sconto vero'"
+    ],
+    "horario": "19:00–23:00 entre semana; mediodía y noche los fines de semana",
+    "hashtags": [
+     "#TikTokItalia",
+     "#perte",
+     "#BlackFriday",
+     "#Affari",
+     "#Vinted"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Carruseles con guía de regalos y precio final",
+     "Reels de proceso y 'dietro le quinte'",
+     "Stories con encuestas y cuenta atrás",
+     "Colaboraciones con creadores locales"
+    ],
+    "ganchos": [
+     "'Idee regalo sotto i 30 €'",
+     "'Ordina entro il… e arriva per Natale'",
+     "'Dietro le quinte del nostro laboratorio'"
+    ],
+    "horario": "12:30–14:00 y 19:00–22:00",
+    "hashtags": [
+     "#IdeeRegalo",
+     "#MadeInItaly",
+     "#Natale",
+     "#ShopLocal",
+     "#Artigianato"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas y comparativas de tecnología",
+     "Recetas y cocina",
+     "Guías de compra para Black Friday",
+     "Shorts con trucos rápidos"
+    ],
+    "ganchos": [
+     "'Le migliori offerte del Black Friday (davvero)'",
+     "'Recensione onesta dopo un mese'"
+    ],
+    "horario": "18:00–22:00; domingo por la mañana para contenidos largos",
+    "hashtags": [
+     "#Recensione",
+     "#BlackFriday2026",
+     "#Tecnologia",
+     "#Ricette"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Aprendizajes de temporada alta",
+     "Casos de pymes italianas que exportan",
+     "Datos de consumo y e-commerce en Italia"
+    ],
+    "ganchos": [
+     "'Cosa ci ha insegnato il Black Friday'",
+     "'3 dati sul consumatore italiano prima di Natale'"
+    ],
+    "horario": "Martes a jueves, 08:00–10:00 y 13:00–14:00",
+    "hashtags": [
+     "#Ecommerce",
+     "#Export",
+     "#MadeInItaly",
+     "#PMI",
+     "#Retail"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones en grupos locales y de barrio",
+     "Videos cortos con ofertas",
+     "Eventos y mercadillos navideños",
+     "Marketplace"
+    ],
+    "ganchos": [
+     "'Offerta valida fino a domenica'",
+     "'Regali per i nipoti: le nostre idee'"
+    ],
+    "horario": "12:00–14:00 y 20:00–22:00",
+    "hashtags": [
+     "#Offerte",
+     "#Natale",
+     "#MercatiniDiNatale",
+     "#Regali"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentarios en vivo de TV y realities",
+     "Hilos de ofertas tecnológicas",
+     "Atención al cliente pública"
+    ],
+    "ganchos": [
+     "'Thread: le offerte tech che valgono davvero'",
+     "'Stasera in tv, e voi cosa guardate?'"
+    ],
+    "horario": "20:30–23:30, sobre todo durante programas de TV",
+    "hashtags": [
+     "#BlackFriday",
+     "#Offerte",
+     "#Tech",
+     "#StaseraInTV"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Cacao fino de aroma para chocolateros italianos",
+   "senal": "Italia tiene una fuerte tradición chocolatera (Piamonte, Sicilia) y la Navidad es temporada alta de chocolate, turrón y panettone artesanal.",
+   "desde": "EC",
+   "hacia": "IT",
+   "sector": "cafe-cacao",
+   "accion": "Señal para investigar: contenido de origen y trazabilidad dirigido a chocolateros y pastelerías artesanales italianas."
+  },
+  {
+   "titulo": "Café de especialidad para tostadores independientes",
+   "senal": "Italia es potencia del espresso y crece un nicho de tostadores y cafeterías de especialidad interesados en orígenes únicos.",
+   "desde": "CO",
+   "hacia": "IT",
+   "sector": "cafe-cacao",
+   "accion": "Señal para investigar: muestras y fichas de finca para tostadores de especialidad en Milán, Turín y Bolonia."
+  },
+  {
+   "titulo": "Aceite de oliva italiano para Latinoamérica",
+   "senal": "Los precios del aceite de oliva bajaron cerca de 26% frente al pico de 2024, lo que mejora el margen para importar productos gourmet italianos.",
+   "desde": "IT",
+   "hacia": "MX",
+   "sector": "alimentos",
+   "accion": "Explorar canastas navideñas y tiendas gourmet con aceite y conservas italianas, verificando los requisitos sanitarios de importación."
+  },
+  {
+   "titulo": "Accesorios gaming en el lanzamiento de GTA VI",
+   "senal": "El lanzamiento del 19 de noviembre coincide con el Black Friday y dispara búsquedas sobre consolas, almacenamiento y periféricos.",
+   "desde": "IT",
+   "hacia": "CO",
+   "sector": "gaming",
+   "accion": "Señal para investigar: tiendas latinoamericanas pueden comparar precios europeos de periféricos y planificar entregas antes de Navidad."
+  },
+  {
+   "titulo": "Artesanía y textiles andinos con diseño",
+   "senal": "El público italiano valora lo hecho a mano, las fibras naturales y los objetos con historia, sobre todo en Navidad.",
+   "desde": "PE",
+   "hacia": "IT",
+   "sector": "artesanias",
+   "accion": "Señal para investigar: tiendas de diseño y mercados navideños italianos, con fotos de taller y certificación de origen."
+  }
+ ],
+ "anuncios": [],
+ "ocultar": [
+  "calenda",
+  "azione",
+  "ceo nvidia jensen huang",
+  "corrado formigli",
+  "collisione frontale",
+  "casorate sempione",
+  "patto di varsavia",
+  "russia finlandia",
+  "ricina",
+  "arnaldo la barbera",
+  "sciopero generale",
+  "campi flegrei",
+  "Scontro tra due auto nella galleria Fiego nel Cosentino: cinque vittime",
+  "Cortei contro carovita e riarmo, in piazza a Milano e Torino. FOTO",
+  "Ciro Grillo in tv: «Sono stato riprovevole, ma non ho violentato quella ragazza. I giovani uomini sono in crisi»",
+  "Manovra, saltano i tagli alla scuola. Giorgetti incontra l'Abi e valuta modifiche sul superbonus",
+  "Cortei, perquisizioni in 13 città per violenze, anche a minorenni",
+  "Anziano ucciso durante la truffa del falso carabiniere, due fermi",
+  "Ornica, escursionista precipita per oltre 20 metri sul Sentiero del Diavolo: è grave. Altri 5 recuperati in zona",
+  "E se l'amante cinese di Jensen Huang non fosse una spia? L'ipotesi di una «forzatura» di Rubio. E Musk: «Senza di lui, molti accordi di Nvidia andranno perduti»",
+  "Usa, 31enne condannato alla castrazione chimica per pedofilia. Il procuratore distrettuale: «Gli toglieremo la sua virilità»",
+  "Flat tax a 100mila euro, Meloni all’attacco: la sinistra confonde fatturato e stipendio",
+  "Greta Thunberg e le risate su Fridays for Future: cosa vogliono dire davvero?",
+  "Si diffonde in modo virale un video di diverse donne che incitano alcune anziane a cantare \"Pedro Sánchez, yo sí te voy a votar\"",
+  "Pistole, spari e video virale, due giovani assolti a Vibo Valentia: “Nessuna prova, non si può processare l’allarme sociale”",
+  "Gf Vip 9, imbarazzo per Piera Meloni che non comprende il boato del pubblico: il video virale",
+  "Vomero, video virale denuncia prostituzione su marciapede: \"Mai vista qui, è la crisi economica\"",
+  "“Sembra l’11 settembre”. Terrore a bordo dell’aereo, pilota scatena il panico",
+  "Milano e Torino, le manifestazioni contro carovita, riarmo e genocidio - la diretta",
+  "Milano, 92enne ucciso durante la truffa del falso carabiniere: due fermi",
+  "Milano: fuga in auto con beni rubati in chiesa: la Polizia di Stato denuncia 20enne",
+  "Roma, 15enne transgender si toglie la vita: parla la famiglia",
+  "SCIOPERO GENERALE 20 NOVEMBRE – MANIFESTAZIONE A ROMA",
+  "Lite in strada a Roma, uomo ucciso a colpi di forbici",
+  "Andreas Muller, rapina nel negozio a Roma mentre lui è al Grande Fratello: danno da migliaia di euro"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Black Friday sin falsos descuentos",
+   "idea": "La prensa italiana insiste en cómo reconocer un descuento real y nueve de cada diez italianos piensan comprar con presupuesto más ajustado. Publica tus ofertas mostrando el precio de referencia de los últimos 30 días junto al precio final: es el argumento de confianza que el público está buscando a trece días del 27 de noviembre.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Regalos de Navidad adelantados",
+   "idea": "Tres de cada cuatro italianos usarán el Black Friday para adelantar los regalos de Navidad. Arma una guía 'idee regalo' por rangos de precio (menos de 20, 50 y 100 €) con fecha límite de pedido para recibir antes del 24 de diciembre.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Prepara tu setup para GTA VI",
+   "idea": "GTA VI sale el 19 de noviembre y ya se busca cuánto espacio liberar en la consola. Graba un checklist rápido de accesorios (disco, mando, auriculares, silla) con precio final y aprovecha el empuje antes del Black Friday.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Noche de sofá y series",
+   "idea": "Hoy sábado la 'guida tv' es de lo más buscado y una serie policiaca italiana encabeza Netflix. Propón un 'kit serata sul divano' (manta, snacks, chocolate caliente, velas) para publicar entre las 19:00 y las 21:00.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Ahorro en casa con la calefacción encendida",
+   "idea": "Desde el 15 de noviembre se encienden los radiadores en Roma y Nápoles y la factura del gas es tema de búsqueda. Si vendes productos para el hogar (mantas, burletes, termostatos inteligentes, ropa térmica), comunícalos con un beneficio concreto de ahorro y sin promesas exageradas.",
+   "formato": "Copy para anuncio"
+  }
+ ]
+}

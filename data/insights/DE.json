@@ -1,0 +1,1197 @@
+{
+ "pais": "DE",
+ "actualizado": "2026-11-14T21:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "A trece días del Black Friday del 27 de noviembre, el consumidor alemán ya está comparando: los medios publican calendarios de la Black Week y ofertas anticipadas en televisores, Apple, consolas, LEGO, iluminación inteligente y electrodomésticos de cocina. La serie 'Ringe der Macht' y la programación del sábado por la noche muestran un público que consume entretenimiento en casa, mientras las llamadas a revisión de autos recuerdan lo mucho que valora la seguridad y la información transparente. Con el primer domingo de Adviento el 29 de noviembre y los Weihnachtsmärkte abriendo esa semana, funcionan los mensajes de calidad comprobable, precio final claro, devolución sencilla y entrega garantizada antes de Navidad.",
+ "semaforo": [
+  {
+   "termino": "rückrufaktion",
+   "color": "amarillo",
+   "por_que": "Los conductores buscan si su auto está afectado por las llamadas a revisión de varios modelos del grupo Volkswagen; es un tema de seguridad que genera preocupación.",
+   "idea": "Talleres y tiendas de accesorios pueden publicar una guía útil y sobria para comprobar si el vehículo está afectado y cómo pedir cita; nada de humor ni ofertas oportunistas."
+  },
+  {
+   "termino": "ringe der macht",
+   "color": "verde",
+   "por_que": "Se estrenó la tercera temporada de la serie fantástica de Amazon y la conversación mezcla entusiasmo y críticas de los fans.",
+   "idea": "Tiendas de libros, juegos de mesa, decoración o snacks pueden proponer una 'noche de maratón fantástica' con productos temáticos genéricos, sin usar logos ni imágenes protegidas."
+  },
+  {
+   "termino": "tv programm heute",
+   "color": "verde",
+   "por_que": "Búsqueda clásica del sábado: millones de alemanes revisan qué hay en la tele a las 20:15, la hora tradicional del prime time.",
+   "idea": "Publica contenido de 'segunda pantalla' para el sofá: un plan de noche en casa con mantas, té, snacks o gadgets, programado entre las 19:30 y las 20:15."
+  },
+  {
+   "termino": "black friday nintendo switch 2",
+   "color": "verde",
+   "por_que": "Los gamers alemanes buscan el mejor precio de la consola antes de Navidad; las tiendas ya anuncian paquetes con juegos y accesorios.",
+   "idea": "Vende accesorios, fundas o juegos complementarios con una comparativa honesta de precio total y una fecha clara de entrega antes del 24 de diciembre."
+  },
+  {
+   "termino": "monaco franze schauspieler",
+   "color": "amarillo",
+   "por_que": "La televisión bávara repone la serie de culto de los años 80 y el público busca a su reparto; parte de la cobertura recuerda a actores ya fallecidos.",
+   "idea": "Marcas con estética retro o productos de Baviera pueden apelar a la nostalgia ochentera con respeto, sin bromas sobre el reparto."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor alemán",
+   "resumen": "Racional, informado y cauteloso con el dinero. Investiga antes de comprar (comparadores como Idealo o Check24, pruebas de Stiftung Warentest y Öko-Test, reseñas) y premia la calidad duradera, la transparencia y la protección de datos. El efectivo y las transferencias siguen pesando, y los métodos favoritos en línea son PayPal, la compra a factura ('Kauf auf Rechnung') y la tarjeta de débito. Conoce bien sus derechos: 14 días de desistimiento y garantía legal de 2 años. La sostenibilidad, la segunda mano y el origen del producto pesan cada vez más.",
+   "como_habla": "Usa 'Sie' con desconocidos y en contextos formales, pero muchas marcas de consumo, sobre todo jóvenes, tutean ('du') en redes. Valora la comunicación directa, precisa y sin rodeos; desconfía del lenguaje exagerado. En el día a día abundan 'super', 'mega', 'krass', 'Schnäppchen' y saludos regionales como 'Moin' en el norte o 'Servus' en el sur.",
+   "dolores": [
+    "Costo de vida y precios de la energía",
+    "Descuentos inflados o 'falsas ofertas' de Black Friday",
+    "Gastos de envío, aduanas e impuestos no anunciados al comprar fuera de la UE",
+    "Datos personales mal protegidos",
+    "Devoluciones complicadas o atención al cliente difícil de contactar"
+   ],
+   "motivaciones": [
+    "Calidad comprobada y buena relación calidad-precio ('Preis-Leistung')",
+    "Ser un comprador inteligente que no se deja engañar",
+    "Sellos y pruebas independientes",
+    "Sostenibilidad, reparabilidad y origen claro",
+    "Pagar con métodos de confianza como PayPal o a factura"
+   ],
+   "frenos": [
+    "Sitios sin aviso legal ('Impressum') ni condiciones claras",
+    "Textos mal traducidos al alemán",
+    "Plazos de entrega vagos",
+    "Pocas opciones de pago locales",
+    "Exceso de solicitudes de datos o cookies"
+   ],
+   "tono": "Claro, honesto y basado en hechos. Cifras, garantías y especificaciones antes que superlativos; cercanía sí, euforia no.",
+   "evitar": [
+    "Promesas exageradas o 'el mejor del mundo' sin pruebas",
+    "Estereotipos de cerveza, salchichas y Oktoberfest",
+    "Temas políticos o referencias históricas delicadas",
+    "Presión de compra agresiva con cuentas regresivas falsas",
+    "Comparativas que menosprecien a otras marcas sin datos"
+   ],
+   "canales": [
+    "Amazon.de, Otto, Zalando, eBay y Kleinanzeigen",
+    "Instagram y TikTok (descubrimiento de marcas en menores de 40)",
+    "YouTube (reseñas, pruebas y tutoriales)",
+    "WhatsApp (conversación con conocidos y canales de marcas)",
+    "Email y newsletters con cupones",
+    "Folletos de supermercados y apps de ofertas"
+   ],
+   "mensajes": [
+    "'Endpreis inklusive aller Kosten – ohne Überraschungen.' (Precio final con todo incluido, sin sorpresas)",
+    "'Getestet, geprüft, mit 2 Jahren Gewährleistung.' (Probado, verificado y con 2 años de garantía)",
+    "'Pünktlich zu Weihnachten bei dir.' (A tiempo para Navidad en tu casa)"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce alemán",
+   "resumen": "Muchos venden en Amazon, Etsy, eBay o con tiendas propias en Shopify; destacan los nichos de productos sostenibles, artesanía, café de especialidad, mascotas y belleza natural. Planifica con cuidado, se preocupa por cumplir la normativa (aviso legal, protección de datos, envases y etiquetado) y busca proveedores fiables dentro y fuera de la UE.",
+   "como_habla": "'Mein Start-up', 'mein Online-Shop', 'Gründer/Gründerin', 'Nebengewerbe' (negocio paralelo al empleo). Busca 'Lieferant', 'Versandkosten', 'Zoll' y 'Import aus Nicht-EU-Ländern'.",
+   "dolores": [
+    "Burocracia y normas de cumplimiento",
+    "Costos de envío y devoluciones elevados",
+    "Competencia de grandes marketplaces",
+    "Trámites aduaneros al importar de fuera de la UE"
+   ],
+   "motivaciones": [
+    "Productos diferenciados con historia de origen",
+    "Márgenes sanos y procesos ordenados",
+    "Vender a toda la UE desde Alemania",
+    "Aprender de otros fundadores y comunidades"
+   ],
+   "frenos": [
+    "Proveedores sin documentación ni certificados",
+    "Plazos de entrega poco fiables",
+    "Costos ocultos en la importación"
+   ],
+   "tono": "Mentor práctico y preciso: pasos concretos, listas de verificación y cifras reales.",
+   "evitar": [
+    "Promesas de dinero fácil",
+    "Tecnicismos sin explicar",
+    "Ignorar la normativa europea"
+   ],
+   "canales": [
+    "Instagram y TikTok",
+    "LinkedIn",
+    "YouTube (tutoriales de e-commerce)",
+    "Podcasts de emprendimiento",
+    "Comunidades y foros de Shopify y Etsy"
+   ],
+   "mensajes": [
+    "'Vom Ursprung bis zu deinem Lager – transparent und planbar.' (Del origen a tu almacén, transparente y planificable)",
+    "'Weniger Papierkram, mehr Zeit für dein Business.' (Menos papeleo, más tiempo para tu negocio)"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora / exportadora alemana (Mittelstand)",
+   "resumen": "El Mittelstand es el motor del comercio exterior alemán: empresas familiares, muy especializadas y con visión de largo plazo. Importan materias primas, alimentos, café, cacao, flores y componentes; exportan maquinaria, autopartes, química y productos de consumo de calidad. Exigen fiabilidad, documentación completa y cumplimiento de normas europeas (CE, REACH, cadena de suministro y deforestación).",
+   "como_habla": "Formal, con 'Sie', precisa y técnica. Aprecia ofertas por escrito, cifras exactas, plazos firmes y certificados.",
+   "dolores": [
+    "Normativa europea de cadena de suministro y sostenibilidad",
+    "Costos de energía y logística",
+    "Falta de personal cualificado",
+    "Proveedores que incumplen plazos"
+   ],
+   "motivaciones": [
+    "Diversificar proveedores y mercados",
+    "Trazabilidad y certificaciones",
+    "Relaciones comerciales estables y de largo plazo",
+    "Ferias profesionales (Grüne Woche, Ambiente, BIOFACH, IFA)"
+   ],
+   "frenos": [
+    "Interlocutores que no hablan alemán ni inglés",
+    "Falta de certificados o documentos incompletos",
+    "Cambios de condiciones sin aviso"
+   ],
+   "tono": "Profesional, sobrio, puntual y orientado a datos.",
+   "evitar": [
+    "Familiaridad excesiva o tutear en el primer contacto",
+    "Mensajes vagos sin cifras",
+    "Promesas que no se puedan documentar"
+   ],
+   "canales": [
+    "LinkedIn y XING",
+    "Email profesional",
+    "Ferias y cámaras de comercio (IHK, AHK)",
+    "Revistas sectoriales"
+   ],
+   "mensajes": [
+    "'Zuverlässige Lieferketten, lückenlos dokumentiert.' (Cadenas de suministro fiables y documentadas)",
+    "'Termintreue, auf die Sie sich verlassen können.' (Puntualidad en la que puede confiar)"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Grandes empresas y compras corporativas",
+   "resumen": "Compras estructuradas, con varios niveles de aprobación, auditorías de proveedores y fuerte peso de criterios ESG. Los departamentos de compras ('Einkauf') comparan ofertas formales y valoran la estabilidad, la seguridad de datos y el cumplimiento normativo.",
+   "como_habla": "Formal y técnico: 'Ausschreibung' (licitación), 'Compliance', 'Lieferantenbewertung', 'Nachhaltigkeitsbericht'.",
+   "dolores": [
+    "Riesgos en la cadena de suministro",
+    "Exigencias de reporte de sostenibilidad",
+    "Presión para reducir costos sin perder calidad"
+   ],
+   "motivaciones": [
+    "Socios con procesos certificados",
+    "Visibilidad y trazabilidad de los envíos",
+    "Reducción de riesgos y de huella de carbono"
+   ],
+   "frenos": [
+    "Proveedores sin certificaciones ISO o sin política de datos (DSGVO)",
+    "Procesos poco documentados"
+   ],
+   "tono": "Institucional, preciso y respaldado por datos y casos.",
+   "evitar": [
+    "Lenguaje informal o humor",
+    "Afirmaciones de sostenibilidad sin respaldo ('greenwashing')"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Reuniones y presentaciones formales",
+    "Ferias del sector",
+    "Informes técnicos y estudios de caso"
+   ],
+   "mensajes": [
+    "'Transparenz in jeder Phase der Lieferkette.' (Transparencia en cada fase de la cadena de suministro)",
+    "'Compliance und Nachhaltigkeit, belegbar.' (Cumplimiento y sostenibilidad demostrables)"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z alemana (18–28)",
+   "resumen": "Creció con TikTok, Instagram y YouTube; compra en Zalando, Shein, Vinted y Kleinanzeigen y adora los 'dupes'. Presupuesto ajustado por alquileres caros y estudios, pero gasta en experiencias, moda, belleza, gaming y comida. Exige autenticidad y detecta enseguida cuando una marca finge ser joven.",
+   "como_habla": "Mezcla alemán e inglés: 'lowkey', 'Aura', 'das crazy', 'checkst du?', 'tuff', 'cringe', 'Digga'. Tutea siempre y escribe con mucha ironía.",
+   "dolores": [
+    "Alquiler caro y presión del costo de vida",
+    "Sensación de que las marcas fingen ser 'cool'",
+    "Envíos y devoluciones lentos"
+   ],
+   "motivaciones": [
+    "Humor, autenticidad y pertenencia",
+    "Segunda mano y sostenibilidad",
+    "Recomendaciones de creadores de confianza",
+    "Ediciones limitadas y colaboraciones"
+   ],
+   "frenos": [
+    "Anuncios demasiado pulidos",
+    "Jerga forzada o pasada de moda",
+    "Precio final que sube en el checkout"
+   ],
+   "tono": "Auténtico, irónico, rápido y sin sermones.",
+   "evitar": [
+    "Usar Jugendsprache de forma forzada (resulta 'cringe')",
+    "Paternalismo",
+    "Videos largos sin gancho en los primeros segundos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube y Shorts",
+    "Twitch",
+    "Snapchat"
+   ],
+   "mensajes": [
+    "'Lowkey das beste Geschenk dieses Jahr.' (Discretamente, el mejor regalo del año)",
+    "'Fair, nachhaltig und trotzdem bezahlbar.' (Justo, sostenible y aun así asequible)"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials alemanes (29–44)",
+   "resumen": "Etapa de familia, vivienda y carrera. Compran en línea con naturalidad, comparan mucho y valoran el ahorro de tiempo. Muy interesados en sostenibilidad, alimentación consciente, hogar, viajes y productos para niños y mascotas.",
+   "como_habla": "Alemán cotidiano con anglicismos ('Deal', 'Sale', 'Homeoffice'). Usa 'super', 'mega', 'krass' y 'Feierabend'. Tutea a las marcas en redes sin problema.",
+   "dolores": [
+    "Falta de tiempo",
+    "Precios de vivienda y energía",
+    "Exceso de opciones y de información"
+   ],
+   "motivaciones": [
+    "Comodidad y entrega fiable",
+    "Productos sostenibles y duraderos",
+    "Experiencias en familia",
+    "Ofertas bien explicadas"
+   ],
+   "frenos": [
+    "Procesos de compra largos",
+    "Falta de reseñas",
+    "Devoluciones complicadas"
+   ],
+   "tono": "Cercano, práctico y honesto, con un toque de humor.",
+   "evitar": [
+    "Clichés de 'superpapá' o 'supermamá'",
+    "Mensajes de culpa sobre sostenibilidad"
+   ],
+   "canales": [
+    "Instagram",
+    "YouTube",
+    "Pinterest",
+    "WhatsApp",
+    "Email y newsletters",
+    "Podcasts"
+   ],
+   "mensajes": [
+    "'Spart Zeit, Nerven und Geld.' (Ahorra tiempo, nervios y dinero)",
+    "'Einmal kaufen, lange Freude haben.' (Compra una vez y disfrútalo por mucho tiempo)"
+   ]
+  },
+  "genx": {
+   "titulo": "Generación X alemana (45–60)",
+   "resumen": "Poder adquisitivo alto y criterio muy formado. Compra calidad, marcas de confianza y productos duraderos; investiga en profundidad antes de comprar caro. Gasta en hogar, autos, viajes, jardinería, salud y regalos para hijos y nietos.",
+   "como_habla": "Alemán estándar, directo y sin muchos anglicismos. Prefiere el 'Sie' de las marcas, aunque acepta el 'du' de marcas cercanas.",
+   "dolores": [
+    "Precios de la energía y de la vivienda",
+    "Desconfianza de vendedores desconocidos",
+    "Tecnología que complica en vez de facilitar"
+   ],
+   "motivaciones": [
+    "Calidad y durabilidad",
+    "Sellos y pruebas independientes",
+    "Atención al cliente accesible",
+    "Comodidad y ahorro de tiempo"
+   ],
+   "frenos": [
+    "Falta de información técnica",
+    "Pagos poco conocidos",
+    "Sitios sin datos de contacto claros"
+   ],
+   "tono": "Serio, informativo y respetuoso, con argumentos sólidos.",
+   "evitar": [
+    "Jerga juvenil",
+    "Tratar la edad como limitación"
+   ],
+   "canales": [
+    "Facebook",
+    "YouTube",
+    "Email",
+    "Prensa y portales de noticias en línea",
+    "Comparadores de precios"
+   ],
+   "mensajes": [
+    "'Qualität, die überzeugt.' (Calidad que convence)",
+    "'Persönlicher Service – wir sind für Sie da.' (Servicio personal, estamos para usted)"
+   ]
+  },
+  "boomers": {
+   "titulo": "Baby boomers alemanes (61+)",
+   "resumen": "Grupo numeroso y con poder adquisitivo. Muchos compran ya en línea, sobre todo en Amazon y tiendas de confianza, aunque valoran el comercio local. Gastan en viajes, salud, jardín, hogar y regalos para nietos; Navidad y Adviento son momentos clave.",
+   "como_habla": "Alemán formal; usa 'Sie' y aprecia la cortesía y la claridad.",
+   "dolores": [
+    "Miedo a fraudes en línea",
+    "Letra pequeña y procesos confusos",
+    "Atención telefónica difícil"
+   ],
+   "motivaciones": [
+    "Seguridad y confianza",
+    "Calidad tradicional",
+    "Regalos para la familia",
+    "Atención personal"
+   ],
+   "frenos": [
+    "Pagos digitales que no conoce",
+    "Textos largos en inglés o con tecnicismos"
+   ],
+   "tono": "Respetuoso, claro y tranquilizador.",
+   "evitar": [
+    "Tratar a las personas mayores como torpes con la tecnología",
+    "Anglicismos innecesarios"
+   ],
+   "canales": [
+    "Facebook",
+    "Email",
+    "Televisión y prensa",
+    "Teléfono"
+   ],
+   "mensajes": [
+    "'Sicher bestellen, bequem nach Hause geliefert.' (Pida con seguridad y reciba cómodamente en casa)",
+    "'Wir beraten Sie gern persönlich.' (Con gusto le asesoramos personalmente)"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Alemania es uno de los mercados más exigentes en sostenibilidad: datos concretos de origen, envases, reparabilidad y sellos reconocidos (Bio, Fairtrade, Blauer Engel).",
+   "mensaje": "'Nachhaltig mit Beleg, nicht nur mit Worten.' (Sostenible con pruebas, no solo con palabras)",
+   "evitar": "Afirmaciones verdes vagas como 'klimaneutral' sin respaldo; la publicidad engañosa de sostenibilidad está muy vigilada."
+  },
+  "ofertas": {
+   "como_llegarle": "Cazadores de 'Schnäppchen' que usan comparadores, apps de cupones y portales de ofertas como mydealz; Black Week y Cyber Monday son su temporada alta.",
+   "mensaje": "'Echter Deal: Endpreis inklusive Versand.' (Oferta real: precio final con envío incluido)",
+   "evitar": "Descuentos sobre precios inflados; la comunidad lo detecta y lo comparte."
+  },
+  "aspiracional": {
+   "como_llegarle": "Valora el lujo discreto, la artesanía y el diseño de calidad más que la ostentación.",
+   "mensaje": "'Qualität, die man spürt.' (Calidad que se nota)",
+   "evitar": "Presumir de riqueza o exhibir logos grandes."
+  },
+  "early-adopter": {
+   "como_llegarle": "Sigue a medios y creadores de tecnología (CHIP, heise, YouTube) y compra novedades en IA, gaming, hogar inteligente y audio.",
+   "mensaje": "'Jetzt neu – und schon getestet.' (Nuevo y ya probado)",
+   "evitar": "Especificaciones exageradas o sin datos técnicos."
+  },
+  "wellness": {
+   "como_llegarle": "Saunas, naturopatía, alimentación consciente, yoga y descanso; en invierno busca rituales de bienestar en casa.",
+   "mensaje": "'Zeit für dich, gerade im Winter.' (Tiempo para ti, sobre todo en invierno)",
+   "evitar": "Promesas de salud no comprobadas; las declaraciones sanitarias están reguladas."
+  },
+  "familia": {
+   "como_llegarle": "Adviento, Nikolaus y Navidad son momentos familiares clave: calendarios de Adviento, regalos y tradiciones.",
+   "mensaje": "'Kleine Freuden für die ganze Familie.' (Pequeñas alegrías para toda la familia)",
+   "evitar": "Estereotipos de roles de género en la familia."
+  },
+  "viajero": {
+   "como_llegarle": "Los alemanes viajan mucho y planifican con antelación; buscan escapadas de invierno, esquí y viajes de larga distancia.",
+   "mensaje": "'Gut geplant ist halb gereist.' (Bien planeado es medio viaje hecho)",
+   "evitar": "Promesas de 'precio más bajo garantizado' sin condiciones claras."
+  },
+  "gamer": {
+   "como_llegarle": "Mercado gamer enorme (gamescom en Colonia); Black Friday mueve consolas, periféricos y PC gaming.",
+   "mensaje": "'Level-up für dein Setup.' (Sube de nivel tu equipo)",
+   "evitar": "Marketing que trate a los gamers como un cliché."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinoamericanas en Alemania (estudiantes, profesionales y parejas binacionales) que extrañan sabores de casa y quieren enviar regalos a su familia.",
+   "mensaje": "'El sabor de casa, también en Alemania.' / 'Ein Stück Heimat, wo immer du bist.'",
+   "evitar": "Tratar la migración como drama o tema político."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Das crazy",
+   "significado": "Respuesta comodín para reaccionar cuando no se sabe qué decir; equivale a 'qué loco' u 'ok, interesante'. Jugendwort del año 2025.",
+   "uso": "Jóvenes de todo el país, en redes y chats.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Das crazy, 24 Geschenke in einem Kalender?",
+   "equivalentes": {
+    "CO": "qué locura",
+    "MX": "qué locura / no manches",
+    "EC": "qué loco",
+    "ES": "qué fuerte",
+    "AR": "re loco"
+   }
+  },
+  {
+   "expresion": "Checkst du?",
+   "significado": "¿Entiendes? ¿Me sigues? Se pone al final de la frase.",
+   "uso": "Jóvenes; muy usado en TikTok.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Gratis Versand ab 30 Euro, checkst du?",
+   "equivalentes": {
+    "CO": "¿sí me entiende?",
+    "MX": "¿me explico? / ¿cachas?",
+    "EC": "¿cachas?",
+    "ES": "¿lo pillas?",
+    "AR": "¿entendés?"
+   }
+  },
+  {
+   "expresion": "Lowkey",
+   "significado": "Un poco, discretamente, sin exagerar (del inglés).",
+   "uso": "Gen Z en todo el país.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Lowkey das beste Geschenk dieses Jahr.",
+   "equivalentes": {
+    "CO": "medio / como que",
+    "MX": "medio / tantito",
+    "EC": "medio",
+    "ES": "un poco / en plan",
+    "AR": "medio"
+   }
+  },
+  {
+   "expresion": "Tuff",
+   "significado": "Impresionante, genial (del inglés 'tough').",
+   "uso": "Gen Z, sobre todo en redes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Das neue Design ist richtig tuff.",
+   "equivalentes": {
+    "CO": "brutal / muy chimba",
+    "MX": "está bien perrón",
+    "EC": "bacán / full bueno",
+    "ES": "brutal",
+    "AR": "re zarpado"
+   }
+  },
+  {
+   "expresion": "Aura",
+   "significado": "Carisma o presencia que alguien transmite; 'tener aura' es tener estilo propio. Jugendwort del año 2024.",
+   "uso": "Gen Z en todo el país.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Dieser Mantel hat einfach Aura.",
+   "equivalentes": {
+    "CO": "tiene flow",
+    "MX": "tiene flow / tiene estilo",
+    "EC": "tiene flow",
+    "ES": "tiene rollo / tiene flow",
+    "AR": "tiene onda"
+   }
+  },
+  {
+   "expresion": "Rede!",
+   "significado": "¡Eso! ¡Dilo más alto!; para apoyar a alguien que dice lo que todos piensan.",
+   "uso": "Jóvenes, en comentarios de redes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Kostenloser Rückversand? Rede!",
+   "equivalentes": {
+    "CO": "¡eso es verdad!",
+    "MX": "¡neta! / ¡eso mero!",
+    "EC": "¡de ley!",
+    "ES": "¡totalmente! / ¡ole!",
+    "AR": "¡posta!"
+   }
+  },
+  {
+   "expresion": "Schere",
+   "significado": "Viene del gaming: 'levantar la tijera' es admitir un error, como 'culpa mía'.",
+   "uso": "Jóvenes y gamers.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Paket zu spät? Schere, das war unser Fehler.",
+   "equivalentes": {
+    "CO": "culpa mía, parce",
+    "MX": "mi culpa",
+    "EC": "mi culpa, ñaño",
+    "ES": "fallo mío",
+    "AR": "culpa mía, perdón"
+   }
+  },
+  {
+   "expresion": "Digga",
+   "significado": "Amigo, compa; también exclamación de sorpresa.",
+   "uso": "Jóvenes, muy fuerte en Hamburgo y en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Digga, schau dir diesen Deal an!",
+   "equivalentes": {
+    "CO": "parce",
+    "MX": "güey / carnal",
+    "EC": "ñaño / pana",
+    "ES": "tío / colega",
+    "AR": "boludo / chabón"
+   }
+  },
+  {
+   "expresion": "Cringe",
+   "significado": "Vergonzoso, que da vergüenza ajena. Jugendwort del año 2021.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Weihnachtspullis sind nicht cringe, sondern Kult.",
+   "equivalentes": {
+    "CO": "qué oso / qué pena ajena",
+    "MX": "qué oso",
+    "EC": "qué vergüenza ajena",
+    "ES": "qué vergüenza ajena / qué cringe",
+    "AR": "qué vergüenza ajena"
+   }
+  },
+  {
+   "expresion": "Goofy",
+   "significado": "Tonto o torpe de forma graciosa. Jugendwort del año 2023.",
+   "uso": "Jóvenes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Unser Hund ist so goofy mit dem neuen Spielzeug.",
+   "equivalentes": {
+    "CO": "bobo / tontarrón",
+    "MX": "menso",
+    "EC": "bobo",
+    "ES": "tontorrón / payaso",
+    "AR": "boludito"
+   }
+  },
+  {
+   "expresion": "Ehrenmann / Ehrenfrau",
+   "significado": "Persona que hace algo admirable o muy generoso. Jugendwort del año 2018.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Du hast das letzte Stück Kuchen geteilt? Ehrenmann!",
+   "equivalentes": {
+    "CO": "un duro / un crack",
+    "MX": "un capo / todo un caballero",
+    "EC": "un pana de ley",
+    "ES": "un crack / un máquina",
+    "AR": "un capo"
+   }
+  },
+  {
+   "expresion": "Läuft bei dir",
+   "significado": "Te va genial, todo te sale bien.",
+   "uso": "Todo el país, menores de 45.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Neue Jacke, neuer Look – läuft bei dir!",
+   "equivalentes": {
+    "CO": "te está yendo muy bien",
+    "MX": "te va de lujo",
+    "EC": "te va full bien",
+    "ES": "te va de lujo",
+    "AR": "te va bárbaro"
+   }
+  },
+  {
+   "expresion": "Krass",
+   "significado": "Tremendo, increíble; puede ser positivo o negativo.",
+   "uso": "Todo el país, todas las edades menores de 50.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Krass, wie schnell das Paket da war!",
+   "equivalentes": {
+    "CO": "qué berraquera / qué locura",
+    "MX": "qué poca / está cañón",
+    "EC": "qué bestia",
+    "ES": "qué fuerte / brutal",
+    "AR": "qué zarpado"
+   }
+  },
+  {
+   "expresion": "Geil",
+   "significado": "Genial, buenísimo. Ojo: también tiene sentido sexual, por eso se usa con cuidado.",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Geile Angebote zum Black Friday!",
+   "equivalentes": {
+    "CO": "chimba",
+    "MX": "chido / padre",
+    "EC": "bacán",
+    "ES": "guay / mola",
+    "AR": "copado / genial"
+   }
+  },
+  {
+   "expresion": "Mega",
+   "significado": "Muy, súper; intensificador.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mega Rabatte nur heute!",
+   "equivalentes": {
+    "CO": "súper",
+    "MX": "súper",
+    "EC": "full",
+    "ES": "súper / mazo",
+    "AR": "re / súper"
+   }
+  },
+  {
+   "expresion": "Der Hammer",
+   "significado": "¡Lo máximo!, algo impresionante.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Dieser Preis ist der Hammer!",
+   "equivalentes": {
+    "CO": "una chimba / lo máximo",
+    "MX": "lo máximo",
+    "EC": "lo máximo",
+    "ES": "la bomba / la leche",
+    "AR": "lo más"
+   }
+  },
+  {
+   "expresion": "Schnäppchen",
+   "significado": "Ganga, compra a buen precio.",
+   "uso": "Todo el país; omnipresente en comercio.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Die besten Schnäppchen der Black Week.",
+   "equivalentes": {
+    "CO": "una ganga",
+    "MX": "una ganga / un ofertón",
+    "EC": "una ganga",
+    "ES": "un chollo",
+    "AR": "una ganga"
+   }
+  },
+  {
+   "expresion": "Sparfuchs",
+   "significado": "Literalmente 'zorro ahorrador': persona hábil para ahorrar y encontrar ofertas.",
+   "uso": "Todo el país; muy usado en marketing.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Tipps für alle Sparfüchse.",
+   "equivalentes": {
+    "CO": "ahorrador / cazador de ofertas",
+    "MX": "codo (en broma) / cazaofertas",
+    "EC": "ahorrativo",
+    "ES": "cazachollos",
+    "AR": "ahorrativo / cazador de ofertas"
+   }
+  },
+  {
+   "expresion": "Feierabend",
+   "significado": "Fin de la jornada laboral; el momento de descanso después del trabajo.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Endlich Feierabend – Zeit für dich.",
+   "equivalentes": {
+    "CO": "salir del trabajo / el descanso",
+    "MX": "la salida del trabajo",
+    "EC": "la salida del trabajo",
+    "ES": "salir de currar",
+    "AR": "la salida del laburo"
+   }
+  },
+  {
+   "expresion": "Gemütlich",
+   "significado": "Acogedor, cómodo, agradable; idea muy valorada en la cultura alemana, sobre todo en invierno.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Mach es dir gemütlich mit unseren Decken.",
+   "equivalentes": {
+    "CO": "acogedor / rico",
+    "MX": "acogedor / a gusto",
+    "EC": "acogedor",
+    "ES": "acogedor / a gustito",
+    "AR": "cómodo / acogedor"
+   }
+  },
+  {
+   "expresion": "Bock haben (auf)",
+   "significado": "Tener ganas de algo; 'kein Bock' es no tener ganas.",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Bock auf Glühwein und Weihnachtsmarkt?",
+   "equivalentes": {
+    "CO": "tener ganas / antojarse",
+    "MX": "tener ganas / se me antoja",
+    "EC": "tener ganas",
+    "ES": "apetecer / tener ganas",
+    "AR": "tener ganas / pintar"
+   }
+  },
+  {
+   "expresion": "Alter!",
+   "significado": "¡Tío!, ¡güey!; exclamación de sorpresa o para dirigirse a un amigo.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Alter, hast du diesen Preis gesehen?",
+   "equivalentes": {
+    "CO": "¡uy, parce!",
+    "MX": "¡no manches, güey!",
+    "EC": "¡ñaño!",
+    "ES": "¡tío!",
+    "AR": "¡boludo!"
+   }
+  },
+  {
+   "expresion": "Na?",
+   "significado": "Saludo informal: '¿qué tal?', '¿qué hay?'.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Na, schon alle Geschenke?",
+   "equivalentes": {
+    "CO": "¿qué más?",
+    "MX": "¿qué onda?",
+    "EC": "¿qué fue?",
+    "ES": "¿qué pasa?",
+    "AR": "¿qué onda? / ¿todo bien?"
+   }
+  },
+  {
+   "expresion": "Moin",
+   "significado": "Saludo típico del norte de Alemania, válido a cualquier hora.",
+   "uso": "Norte de Alemania (Hamburgo, Bremen, Schleswig-Holstein).",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Moin! Euer Paket ist unterwegs.",
+   "equivalentes": {
+    "CO": "¡quiubo!",
+    "MX": "¡qué onda!",
+    "EC": "¡qué fue!",
+    "ES": "¡buenas!",
+    "AR": "¡buenas!"
+   }
+  },
+  {
+   "expresion": "Servus",
+   "significado": "Saludo y despedida típico del sur (Baviera) y Austria.",
+   "uso": "Baviera y sur de Alemania.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Servus München, wir sind da!",
+   "equivalentes": {
+    "CO": "¡quiubo! / ¡chao!",
+    "MX": "¡qué tal! / ¡nos vemos!",
+    "EC": "¡qué fue! / ¡chao!",
+    "ES": "¡buenas! / ¡hasta luego!",
+    "AR": "¡hola! / ¡chau!"
+   }
+  },
+  {
+   "expresion": "Quatsch",
+   "significado": "Tontería, disparate.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Versteckte Kosten? Quatsch, bei uns nicht.",
+   "equivalentes": {
+    "CO": "bobada",
+    "MX": "tontería / babosada",
+    "EC": "bobada / tontería",
+    "ES": "tontería / chorrada",
+    "AR": "pavada"
+   }
+  },
+  {
+   "expresion": "Ich verstehe nur Bahnhof",
+   "significado": "No entiendo nada (literalmente 'solo entiendo estación de tren').",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Zollformulare? Wir erklären es, damit du nicht nur Bahnhof verstehst.",
+   "equivalentes": {
+    "CO": "no entiendo ni papa",
+    "MX": "no entiendo nada / estoy en la baba",
+    "EC": "no cacho nada",
+    "ES": "me suena a chino",
+    "AR": "no entiendo un pomo"
+   }
+  },
+  {
+   "expresion": "Das ist nicht mein Bier",
+   "significado": "No es asunto mío.",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Verpackung? Nicht dein Bier – das machen wir.",
+   "equivalentes": {
+    "CO": "eso no es problema mío",
+    "MX": "no es mi bronca",
+    "EC": "no es problema mío",
+    "ES": "no es asunto mío",
+    "AR": "no es mi problema"
+   }
+  },
+  {
+   "expresion": "Schwein haben",
+   "significado": "Tener suerte.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Schwein gehabt: das letzte Exemplar!",
+   "equivalentes": {
+    "CO": "tener buena suerte / de buenas",
+    "MX": "tener suerte / qué suertudo",
+    "EC": "tener suerte",
+    "ES": "tener potra / tener chorra",
+    "AR": "tener leche / tener suerte"
+   }
+  },
+  {
+   "expresion": "Da steppt der Bär",
+   "significado": "Hay mucho ambiente, hay fiesta.",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Am Samstag auf dem Weihnachtsmarkt steppt der Bär.",
+   "equivalentes": {
+    "CO": "hay rumba",
+    "MX": "hay ambiente / está prendido",
+    "EC": "hay farra",
+    "ES": "hay mucho ambiente / hay marcha",
+    "AR": "está a full"
+   }
+  },
+  {
+   "expresion": "Alles in Butter",
+   "significado": "Todo en orden, todo bien.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Paket angekommen? Alles in Butter.",
+   "equivalentes": {
+    "CO": "todo bien / todo bacano",
+    "MX": "todo chido / todo bien",
+    "EC": "todo bien",
+    "ES": "todo guay",
+    "AR": "todo joya"
+   }
+  },
+  {
+   "expresion": "Kohle",
+   "significado": "Dinero (literalmente 'carbón').",
+   "uso": "Todo el país, coloquial.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mehr Geschenke, weniger Kohle ausgeben.",
+   "equivalentes": {
+    "CO": "plata",
+    "MX": "lana / varo",
+    "EC": "plata / billete",
+    "ES": "pasta",
+    "AR": "guita / plata"
+   }
+  },
+  {
+   "expresion": "Pleite",
+   "significado": "Sin dinero; también quiebra de una empresa.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nach Weihnachten pleite? Nicht mit unseren Tipps.",
+   "equivalentes": {
+    "CO": "pelado / sin un peso",
+    "MX": "sin lana / bruja",
+    "EC": "chiro / sin plata",
+    "ES": "pelado / sin blanca",
+    "AR": "seco / sin un mango"
+   }
+  },
+  {
+   "expresion": "Zocken",
+   "significado": "Jugar videojuegos (también apostar, por eso se usa con cuidado).",
+   "uso": "Gamers y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Bereit zum Zocken? Neue Controller im Sale.",
+   "equivalentes": {
+    "CO": "jugar / echar partida",
+    "MX": "jugar / echar retas",
+    "EC": "jugar",
+    "ES": "viciar / echar unas partidas",
+    "AR": "jugar / viciar"
+   }
+  },
+  {
+   "expresion": "Fremdschämen",
+   "significado": "Sentir vergüenza ajena.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Kein Fremdschämen mehr bei Weihnachtsgeschenken.",
+   "equivalentes": {
+    "CO": "pena ajena",
+    "MX": "pena ajena",
+    "EC": "vergüenza ajena",
+    "ES": "vergüenza ajena",
+    "AR": "vergüenza ajena"
+   }
+  },
+  {
+   "expresion": "Lecker",
+   "significado": "Rico, delicioso.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Lecker Plätzchen für die Adventszeit.",
+   "equivalentes": {
+    "CO": "delicioso / qué rico",
+    "MX": "sabroso / qué rico",
+    "EC": "rico / full rico",
+    "ES": "buenísimo / qué rico",
+    "AR": "riquísimo"
+   }
+  },
+  {
+   "expresion": "Scheiße",
+   "significado": "Mierda; expresión vulgar de enojo o frustración.",
+   "uso": "Todo el país; muy común pero vulgar.",
+   "registro": "vulgar",
+   "apto_anuncio": "no",
+   "ejemplo": "(No usar en anuncios.)",
+   "equivalentes": {
+    "CO": "¡qué mierda! (vulgar)",
+    "MX": "¡chale! / ¡qué mierda! (vulgar)",
+    "EC": "¡chuta! / ¡qué mierda! (vulgar)",
+    "ES": "¡mierda! (vulgar)",
+    "AR": "¡la puta madre! (vulgar)"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Deutschland",
+   "#Berlin",
+   "#München",
+   "#Hamburg",
+   "#Köln",
+   "#Gründer",
+   "#Onlineshop",
+   "#Weihnachten"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio final y tiempo de entrega",
+     "Comparativas honestas 'dupe vs. original'",
+     "Recorridos por Weihnachtsmärkte",
+     "Rutinas de Adviento y preparativos de Navidad"
+    ],
+    "ganchos": [
+     "'Lohnt sich das wirklich am Black Friday?' (¿De verdad vale la pena en Black Friday?)",
+     "'Das hätte ich gern vorher gewusst…' (Ojalá lo hubiera sabido antes)",
+     "'POV: Du findest das perfekte Geschenk' (POV: encuentras el regalo perfecto)"
+    ],
+    "horario": "18:00–22:00 entre semana; fines de semana desde las 11:00",
+    "hashtags": [
+     "#TikTokDeutschland",
+     "#fyp",
+     "#BlackFriday",
+     "#Weihnachtsmarkt",
+     "#Geschenkideen"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels con antes y después",
+     "Carruseles de guías y listas de regalos",
+     "Historias con encuestas y cuenta regresiva de Adviento"
+    ],
+    "ganchos": [
+     "'Speichern für später' (Guárdalo para después)",
+     "'5 Geschenkideen unter 30 Euro' (5 ideas de regalo por menos de 30 euros)"
+    ],
+    "horario": "12:00–13:00 y 18:00–21:00",
+    "hashtags": [
+     "#Geschenkideen",
+     "#Adventskalender",
+     "#Nachhaltigkeit",
+     "#Handmade",
+     "#SmallBusiness"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Pruebas y reseñas detalladas",
+     "Comparativas de productos",
+     "Shorts con datos rápidos"
+    ],
+    "ganchos": [
+     "'Der große Test: Was taugt das wirklich?' (La gran prueba: ¿qué tal es de verdad?)"
+    ],
+    "horario": "Fines de semana por la tarde; entre semana desde las 18:00",
+    "hashtags": [
+     "#Test",
+     "#Review",
+     "#Deutschland"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Aprendizajes de temporada alta",
+     "Casos de pymes que importan o exportan",
+     "Datos de consumo y e-commerce en Alemania"
+    ],
+    "ganchos": [
+     "'Was wir aus unserem ersten Weihnachtsgeschäft gelernt haben' (Lo que aprendimos de nuestra primera temporada navideña)",
+     "'3 Zahlen zum deutschen Onlinehandel vor Weihnachten' (3 cifras del e-commerce alemán antes de Navidad)"
+    ],
+    "horario": "Martes a jueves, 08:00–10:00 y 12:00–13:00",
+    "hashtags": [
+     "#Ecommerce",
+     "#Mittelstand",
+     "#Logistik",
+     "#Außenhandel",
+     "#Gründer"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Videos cortos con subtítulos",
+     "Publicaciones en grupos locales y de aficiones",
+     "Eventos y lives de preguntas"
+    ],
+    "ganchos": [
+     "'Ihre Frage, unsere Antwort' (Su pregunta, nuestra respuesta)"
+    ],
+    "horario": "18:00–21:00",
+    "hashtags": [
+     "#Deutschland",
+     "#Weihnachten"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentario rápido sobre tecnología y entretenimiento"
+    ],
+    "ganchos": [
+     "Datos curiosos de consumo y tecnología"
+    ],
+    "horario": "Durante estrenos, eventos tecnológicos y el prime time de las 20:15",
+    "hashtags": [
+     "#Tech",
+     "#BlackFriday"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Café de especialidad latinoamericano para Alemania",
+   "senal": "La prensa alemana habla de cafés de especialidad, tostadores premiados y beneficios del café; Alemania es uno de los mayores consumidores de café de Europa.",
+   "desde": "CO",
+   "hacia": "DE",
+   "sector": "cafe-cacao",
+   "accion": "Contenido de origen, finca y trazabilidad para tostadores y tiendas gourmet alemanas, con certificaciones claras."
+  },
+  {
+   "titulo": "Cacao fino y chocolate de origen",
+   "senal": "Más oferta de cacao presiona los precios a la baja y crece el interés por chocolates de origen distintos a los clásicos europeos.",
+   "desde": "EC",
+   "hacia": "DE",
+   "sector": "cafe-cacao",
+   "accion": "Presentar cacao fino de aroma a chocolateros artesanales alemanes con muestras, fichas técnicas y documentación de la cadena de suministro."
+  },
+  {
+   "titulo": "Artesanía y decoración navideña hecha a mano",
+   "senal": "Weihnachtsmärkte, Adviento y la búsqueda de regalos únicos impulsan la demanda de decoración y artesanía con historia.",
+   "desde": "MX",
+   "hacia": "DE",
+   "sector": "artesanias",
+   "accion": "Catálogo de piezas hechas a mano con la historia del artesano, pensado para tiendas de diseño y marketplaces alemanes."
+  },
+  {
+   "titulo": "Frutas exóticas y superalimentos ecológicos",
+   "senal": "Crece el debate sobre alimentos ecológicos y se acerca la feria Grüne Woche 2027 en Berlín, escaparate de alimentación y agro.",
+   "desde": "EC",
+   "hacia": "DE",
+   "sector": "alimentos",
+   "accion": "Preparar presencia comercial con certificación ecológica de la UE, muestras y contenido para importadores especializados."
+  },
+  {
+   "titulo": "Skincare asiático e innovación en cuidado personal",
+   "senal": "Llegan a Alemania tiendas de cosmética coreana y la cosmética japonesa entra en grandes droguerías; el consumidor alemán busca novedades con buena relación calidad-precio.",
+   "desde": "DE",
+   "hacia": "CO",
+   "sector": "belleza",
+   "accion": "Emprendedores latinoamericanos pueden observar qué marcas y formatos triunfan en las droguerías alemanas para anticipar tendencias en su país."
+  },
+  {
+   "titulo": "Cuidado natural para mascotas",
+   "senal": "Emprendedores alemanes lanzan productos naturales para mascotas, como champú en seco para animales, y crecen las guarderías caninas.",
+   "desde": "DE",
+   "hacia": "MX",
+   "sector": "mascotas",
+   "accion": "Inspirarse en el enfoque alemán de ingredientes naturales y transparencia para crear o importar líneas premium de cuidado de mascotas."
+  }
+ ],
+ "anuncios": [],
+ "ocultar": [
+  "flugunfall",
+  "österreich",
+  "usa nato ukraine",
+  "john lucas dittrich",
+  "schüsse",
+  "pflegende angehörige",
+  "julia klöckner",
+  "einspeisevergütung",
+  "verfolgungsjagd",
+  "emil und oskar belton",
+  "herne",
+  "rheinmetall",
+  "mütterrente",
+  "br live",
+  "katherina reiche",
+  "владимир зеленский",
+  "solingen",
+  "eric dane",
+  "Parteivorsitz: Angriff auf Lars Klingbeil – Hubertus Heil will SPD-Chef werden",
+  "Phantasialand bei Köln: 15 Verletzte wegen Microsofts Mega-Panne!",
+  "Ungarn: Ermittler finden Millionen Euro in Wäldern und Verstecken",
+  "Staatsakt: Mehr als 1.000 Gäste nehmen Abschied von Hubert Aiwanger",
+  "Urkaine: Europa schickt ganzes Verhandlungsteam zu Gesprächen mit Russland",
+  "Grüne stimmen Koalitionsvertrag in MV zu - bei SPD zeichnet sich Zustimmung ab",
+  "CDU stellt Weichen für die Landtagswahl: Er will Ministerpräsident werden",
+  "Potsdam: Nach massiver Jugendgewalt – Polizei ermittelt inzwischen gegen 45 Verdächtige",
+  "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung",
+  "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+  "Trumps unterstützte Kandidatin unterliegt Demokraten gewinnen erstmals seit 1998 wieder die Gouverneurswahl in Alaska",
+  "Dubioser TikTok-Trend - Wie „Perversling-Brillen“ junge Frauen bloßstellen",
+  "\"Gen Z regelt\": Rund 700 Menschen protestieren am Ku'damm",
+  "Demonstrationen: Rund 700 Menschen ziehen bei Gen-Z-Demo durch Berlin",
+  "Berlin: Im Beisein der Mutter – Kind auf Fahrrad wird von Bus überrollt und stirbt",
+  "Berlin: Berlin-Mitte: Kind bei Verkehrsunfall mit Bus tödlich verletzt",
+  "Berlin - Steinmeier würdigt Jüdisches Museum Berlin als Ort der Aufklärung und Begegnung",
+  "\"Fluch\" von \"Monaco Franze\"? So tragisch sind die Serien-Lieblinge verstorben",
+  "Landwirt stirbt plötzlich: Hoferbe ist erst 3 Jahre alt – Gericht nimmt den Hof weg",
+  "Bald Bundespräsidentin: Was Ilse Aigner für die Landwirtschaft erreicht hat",
+  "Kindernachrichten: Eine Frau soll Bundespräsidentin werden",
+  "„Wie ein alles sehender Gott“ – Die neue KI-Waffe, mit der die Ukraine den Kriegsverlauf drehen will",
+  "FAQ zu Schüssen in Stade: Was über die Gewalttat in der Mutter-Kind-Einrichtung bekannt ist",
+  "Burtenbach: Zwei 17-Jährige beschädigen Einrichtung in leerstehendem Gebäude",
+  "Handwerk und Industrie: Rüstungspläne: Droht dem Handwerk Konkurrenz um Fachkräfte?",
+  "Einbruch in Weinstadt: Schmuck im Wert von 6.000 Euro gestohlen",
+  "Zwei Diebstähle an einem Nachmittag - 22-Jähriger gefasst",
+  "Gewalt an Neuköllner Schulen: Wo der Safe Space nur noch Luxus ist",
+  "Gegen Teuerung, für Bildung und Kinderschutz: Frankreich erlebt erneuten Protestsamstag",
+  "Erste Gedenken – dann Kaffee und Kuchen",
+  "Luxus für alle: Warum ausgerechnet die KI den Kommunismus bringen könnte",
+  "Was gegen die Überlastung der Sozialgerichte durch KI hilft"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Tu calendario de la Black Week",
+   "idea": "Los medios alemanes ya publican todas las fechas del Black Friday 2026 (27 de noviembre) y del Cyber Monday (30 de noviembre). Publica tu propio calendario con qué productos tendrán descuento cada día y el precio final con envío incluido, para que el comprador alemán planifique sin sorpresas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Calendario de Adviento propio",
+   "idea": "El primer domingo de Adviento es el 29 de noviembre y los Weihnachtsmärkte abren esa misma semana. Lanza un 'Adventskalender' con 24 pequeñas sorpresas, descuentos diarios o contenidos útiles y muéstralo armándose en video.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Relleno para la bota de Nikolaus",
+   "idea": "El 6 de diciembre los niños alemanes dejan sus botas en la puerta para recibir dulces y pequeños regalos. Propón una selección de detalles por menos de 10 euros con fecha límite de pedido para que lleguen a tiempo.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Noche de maratón fantástica",
+   "idea": "La tercera temporada de 'Ringe der Macht' es tendencia en Alemania. Si vendes snacks, té, mantas, juegos de mesa o decoración, arma un 'kit para maratón de fantasía' con productos genéricos y sin usar marcas ni imágenes de la serie.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Fechas límite de envío para Navidad",
+   "idea": "La suspensión temporal de vuelos en EE. UU. retrasó conexiones desde Alemania y recordó que en temporada alta cualquier imprevisto pesa. Publica con claridad las fechas límite para recibir pedidos antes del 24 de diciembre y explica cómo planificas tus envíos.",
+   "formato": "LinkedIn"
+  }
+ ]
+}

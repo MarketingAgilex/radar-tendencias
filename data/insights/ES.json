@@ -1,33 +1,33 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-14T17:00:37Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A dos semanas del Black Friday, el consumidor español quiere chollos pero desconfía: se habla de que habrá más subidas que bajadas de precios y de millones de personas que se endeudarán para comprar, así que gana quien enseña el precio real y ayuda a planificar. La IA empieza a decidir parte de las compras y la logística avisa de menos ritmo, por lo que conviene cuidar las fichas de producto y los plazos de entrega. El lanzamiento de GTA VI el 19 de noviembre, la belleza viral de bajo coste y las alertas por tormentas marcan la conversación del fin de semana. Funcionan los mensajes honestos de ahorro, la compra planificada y la entrega clara antes de Navidad.",
+ "lectura": "El consumidor español afronta el Black Friday con ganas pero con el bolsillo ajustado: tres de cada cuatro piensan comprar y millones se endeudarán, por lo que crecen las dudas sobre financiación y descuentos reales. Destacan rebajas de pequeño electrodoméstico, belleza y tecnología, y la cuenta atrás de GTA VI (19 de noviembre) mueve al público gamer. Rosalía y los Grammy Latinos dan conversación cultural. Ganan los mensajes de precio final, devolución fácil y compra sin agobios.",
  "ideas_hoy": [
   {
    "titulo": "Black Friday sin deudas",
-   "idea": "Se calcula que cinco millones de españoles se endeudarán para comprar en Black Friday y Consumo recomienda planificar. Publica una lista de compra con tus productos, el precio final y el precio de las semanas anteriores para demostrar que tu descuento es real.",
+   "idea": "Explica el coste real de pagar a plazos con un ejemplo sencillo y ofrece una alternativa clara. Con tantos españoles endeudándose, la honestidad es diferencial.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El chollo viral de belleza",
-   "idea": "Un corrector de Maybelline de menos de 10 euros es viral en TikTok. Si vendes cosmética, pruébalo frente a tus alternativas con luz natural y di sin rodeos cuál mola más y por qué.",
+   "titulo": "El chollo de la semana",
+   "idea": "Las rebajas de pequeño electrodoméstico (como aspiradores de mano) arrasan. Presenta tu producto estrella con precio antes/después y stock visible, sin exagerar.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Probé lo viral",
+   "idea": "El corrector viral de menos de 10 euros demuestra que las reseñas mandan. Haz una prueba honesta de un producto tuyo y responde dudas en comentarios, ¡mola mucho este formato!",
    "formato": "TikTok"
   },
   {
-   "titulo": "Fichas que entiende la IA",
-   "idea": "Se prevé que la IA haga más del 30% de las compras de este Black Friday en España. Revisa tus fichas: medidas, materiales, plazos y devoluciones claros ayudan tanto al cliente como a los asistentes que comparan por él. Cuéntalo como aprendizaje para tu sector.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Finde de tormenta, plan en casa",
-   "idea": "Hay alerta naranja y amarilla por tormentas y lluvia en Madrid este fin de semana. Propón planes en casa con tus productos (mantas, juegos, cocina, series) y avisa si puede haber retrasos en las entregas.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Cuenta atrás para GTA VI",
-   "idea": "GTA VI sale el 19 de noviembre y ya tiene precarga disponible. Enseña el setup ideal (mando, auriculares, silla, iluminación) con precios y pásalo como idea de regalo de Navidad.",
+   "titulo": "Noche de estreno de GTA VI",
+   "idea": "A días del lanzamiento, monta un 'pack noche de estreno' (snacks, accesorios, iluminación) y muéstralo en un vídeo corto.",
    "formato": "Reel"
+  },
+  {
+   "titulo": "Fichas que entiende la IA",
+   "idea": "Se prevé que los agentes de IA canalicen ventas en este Black Friday. Revisa títulos, precios y descripciones de tus productos para que sean claros y completos.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
@@ -100,7 +100,18 @@
   "Quién es Ángel Gaitán, el mecánico que entrevistó a Santiago Abascal tras hacerse conocido en TikTok",
   "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
   "Contemporánea Condeduque acoge la exposición ‘Fronteras del clima’, del fotoperiodista Santi Palacios",
-  "La vivienda centra la propuesta del PSN, con Barcelona como ejemplo de control de precios"
+  "La vivienda centra la propuesta del PSN, con Barcelona como ejemplo de control de precios",
+  "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
+  "Feijóo pide \"ayuda\" para culminar el viaje a la Moncloa",
+  "La vivienda marca el primer día de campaña en Cataluña: el PP defiende suprimir el ministerio y critica los \"veintitantos ministerios\" de Sánchez",
+  "EH Bildu exhibe músculo en Bilbao y llama a “frenar el paso a la extrema derecha”",
+  "Jensen Huang, la IA, la espía china y un par de libros para entenderlo todo",
+  "¿Duermen tranquilos con sus hijos en TikTok?",
+  "Desmantelan una red de ciberestafas bancarias en TikTok",
+  "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
+  "Desalojan parcialmente la Puerta del Sol tras hallarse una mochila sospechosa",
+  "Nueva protesta en Madrid de los maquinistas de Renfe en demanda de un aumento de la seguridad",
+  "Comuns activa el puerta a puerta en el cinturón de Barcelona: “Ya notamos la movilización de nuestro electorado”"
  ],
  "audiencias": {
   "general": {

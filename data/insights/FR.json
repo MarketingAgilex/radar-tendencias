@@ -1,8 +1,35 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-14T16:59:14Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A dos semanas del Black Friday del 27 de noviembre, el consumidor francés está en modo 'bon plan': compara precios, busca el descuento real sobre el precio de referencia y aprovecha ofertas anticipadas en tecnología, audio, aspiradoras robot y smartphones en Amazon, Darty y tiendas de marca. El lanzamiento de GTA VI dispara el interés por PS5, pantallas y accesorios, mientras los pequeños comercios intentan ganar su parte del Black Friday con trato cercano. También interesa el hogar y la reforma como proyecto de vida, y la preocupación por el coste de la vida sigue muy presente. Funcionan los mensajes de precio honesto, utilidad concreta, regalo de Navidad anticipado y entrega fiable a domicilio o en punto relais.",
+ "lectura": "El francés llega al Black Friday con muchas ofertas de tecnología ya activas (Darty, Cdiscount, Amazon) y una fuerte sensibilidad al precio y a la vida cara. Los pequeños comercios también hacen su Black Friday y lo reacondicionado gana terreno como compra inteligente. El sábado por la noche se busca qué ver en la tele, lo que abre espacio a planes en casa. Funcionan los mensajes de ahorro real, durabilidad y compra local, con un tono sobrio y bien argumentado.",
+ "ideas_hoy": [
+  {
+   "titulo": "Reacondicionado, compra lista",
+   "idea": "El iPhone reacondicionado en promoción muestra el interés por comprar mejor y gastar menos. Explica tu garantía y estado de producto en un carrusel claro.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "El Black Friday del barrio",
+   "idea": "Los pequeños comercios también rebajan: muestra tu tienda, tu equipo y una oferta concreta para quien compre en local o con recogida.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Plan de sábado en casa",
+   "idea": "Con tanta búsqueda de 'qué ver esta noche', propone un pack 'soirée télé' (snacks, mantas, velas) con precio cerrado.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Ahorro real frente a la vida cara",
+   "idea": "Calcula con un ejemplo cuánto ahorra un cliente con tu producto a lo largo del año. Argumento racional que encaja con el público francés.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Cofre de regalo para Noël",
+   "idea": "Las cajas por suscripción con descuento de Black Friday funcionan. Arma un coffret de temporada con tus productos y envío incluido.",
+   "formato": "TikTok"
+  }
+ ],
  "semaforo": [
   {
    "termino": "maison",
@@ -1104,7 +1131,46 @@
    "accion": "Señal para investigar: tiendas de decoración y mercados de diseño franceses, con fotos de taller y certificación de origen."
   }
  ],
- "anuncios": [],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 166957,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=1138861289079550"
+    }
+   ],
+   "patron": "Competencia muy alta; las tiendas online pautan 'Black Friday, c'est parti' con descuentos de hasta -62% desde mediados de noviembre."
+  },
+  {
+   "busqueda": "livraison offerte Noël",
+   "total": 4004,
+   "anunciantes": [
+    {
+     "nombre": "Des Petits Hauts",
+     "url": "https://www.facebook.com/ads/library/?id=1064720053306592"
+    },
+    {
+     "nombre": "Sense Coffee",
+     "url": "https://www.facebook.com/ads/library/?id=1552451063356247"
+    },
+    {
+     "nombre": "Calinoua",
+     "url": "https://www.facebook.com/ads/library/?id=1330519152466545"
+    },
+    {
+     "nombre": "Atelier Menara",
+     "url": "https://www.facebook.com/ads/library/?id=1127381146876002"
+    },
+    {
+     "nombre": "Cleantex",
+     "url": "https://www.facebook.com/ads/library/?id=1866401267727641"
+    }
+   ],
+   "patron": "Se repiten el regalo útil o personalizado ('le cadeau qu'il utilisera', 'son premier Noël avec son prénom'), el '2 comprados, el 3.º gratis' y el envío gratis con fecha límite ('jusqu'à dimanche')."
+  }
+ ],
  "ocultar": [
   "hautes-pyrénées",
   "alexandre despallières",
@@ -1131,33 +1197,24 @@
   "Quinté du 14/11/2026 à Paris-Vincennes : Jaifa de l'Iton, en plein épanouissement",
   "Manifestation du 14 novembre à Paris : le parcours validé ce samedi",
   "Manifestations du 14 novembre à Paris : ces 21 stations de métro seront fermées dès 11 h",
-  "Trafic de drogue et libertinage à Paris : les liaisons dangereuses du gendarme et du dealer pour personnalités médiatiques"
- ],
- "ideas_hoy": [
-  {
-   "titulo": "Black Friday sin trampa",
-   "idea": "En Francia, el descuento debe calcularse sobre el precio más bajo de los últimos 30 días y el público lo vigila. Muestra el 'prix de référence' junto a la oferta en cada producto: transmite honestidad a dos semanas del Black Friday del 27 de noviembre.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Setup GTA VI",
-   "idea": "GTA VI rompe récords y la prensa francesa habla de nuevas pantallas, mandos y PS5 agotándose. Graba un TikTok con tres setups (petit budget, moyen, de ouf) y el precio total de cada uno.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "El Black Friday del barrio",
-   "idea": "Los pequeños comercios también se suman al Black Friday. Si tienes tienda física, cuenta en un Reel por qué comprar cerca (asesoría, retiro en tienda, cambio fácil) y lanza un 'bon plan' exclusivo para clientes del barrio.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Avant/après de la casa",
-   "idea": "'Maison' fue de lo más buscado por una historia de renovación convertida en negocio. Marcas de hogar o decoración pueden abrir una serie semanal de antes y después con presupuesto real y consejos para el invierno.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Caja de regalo para Noël",
-   "idea": "Las cajas por suscripción ya lanzan códigos de Black Friday para regalar en Navidad. Propón tu propia 'box' o pack de regalo con precio cerrado y envío a punto relais incluido, y comunícalo antes del 27 de noviembre.",
-   "formato": "Copy para anuncio"
-  }
+  "Trafic de drogue et libertinage à Paris : les liaisons dangereuses du gendarme et du dealer pour personnalités médiatiques",
+  "candidats présidentielle 2027",
+  "antoine léaument",
+  "loto samedi 14 novembre 2026",
+  "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
+  "EN DIRECT - Colère sociale : 106.000 manifestants dont 24.000 à Paris selon les autorités, mobilisation en baisse ce 14 novembre",
+  "Frappé au sol, sa caméra à la main : un cadreur de BFMTV agressé en marge de la manifestation à Lyon",
+  "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+  "Emmanuel Macron affirme que «ceux qui veulent rationner» l’aide à l’Ukraine veulent «l’obliger à une paix injuste»",
+  "DÉCRYPTAGE. Ce tube en carton vendu 10 euros sur Snapchat qui paralyse les lycées : les mortiers, \"un des feux d'artifice les plus dangereux sur le marché\"",
+  "Francophonie: la RDC prête à retirer la candidature de Juliana Lumumba à la tête de l'OIF",
+  "Après les inondations meurtrières à Gaza, l’UE interpelle Israël",
+  "Mikhaïl Epstein, philosophe : « Le bolchevisme voulait hâter la fin heureuse de l’histoire, le poutinisme en précipite la fin catastrophique »",
+  "Une vidéo de plusieurs femmes devient virale en encourageant quelques personnes âgées à chanter « Pedro Sánchez, moi oui je vais voter pour toi »",
+  "Émeute de CV devant le magasin China Square | Lunion.ga | Actualités Gabon",
+  "Manifestation du 14 novembre : entre 24 000 et 100 000 personnes ont manifesté à Paris, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
+  "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
+  "Manifestations en France : 106 000 personnes ont défilé dans le pays dont 24 00 à Paris selon les autorités",
+  "Manifestation du 14 novembre à Paris : entre 24 000 et 100 000 personnes ont défilé pour cet acte V"
  ]
 }

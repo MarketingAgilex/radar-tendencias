@@ -1,8 +1,35 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-14T17:00:37Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Reino Unido entra en modo invierno: temperaturas bajo cero en Londres y heladas empujan las compras de abrigo, calefacción y hogar. A menos de dos semanas del Black Friday ya circulan ofertas anticipadas en aspiradoras, relojes y menaje, mientras las subidas de precios en supermercados y la previsión de tipos de interés más altos hacen que el consumidor mire cada libra. Ganan fuerza las campañas para comprar regalos en el comercio local y los pop-ups navideños, y el entretenimiento (GTA VI, Strictly Come Dancing, Los Juegos del Hambre) domina la conversación. Funcionan los mensajes de valor, compra local y regalos para el frío.",
+ "lectura": "El consumidor británico entra en modo Navidad: campañas para comprar 'un regalo más' en el comercio local, desfiles navideños y conciertos agotados conviven con ofertas de Black Friday en Dyson, Garmin y tecnología. Las alertas por frío del domingo empujan productos de abrigo y calefacción, y Strictly Come Dancing domina la conversación del sábado por la noche. La inflación sigue pesando, así que se premian el valor real y el precio estable. Funcionan los mensajes con humor británico ligero, regalos útiles y fechas de envío claras.",
+ "ideas_hoy": [
+  {
+   "titulo": "One more gift, local",
+   "idea": "Súmate a la idea de comprar un regalo más en el comercio local: muestra a quién apoyas cuando te compran y ofrece envoltorio gratis.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Kit para la alerta de frío",
+   "idea": "Con avisos de frío para el domingo, agrupa productos de abrigo o ahorro energético en un pack bajo 20 libras.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Noche de Strictly",
+   "idea": "Strictly es el plan del sábado: crea contenido de 'snacks, look o decoración para ver Strictly' con tus productos, sin usar imágenes del programa.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Deal sin trampa",
+   "idea": "Frente a la avalancha de ofertas en tecnología, publica una comparación honesta de tu precio habitual y el de Black Friday.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Juego completo, sin sorpresas",
+   "idea": "Tras las quejas por cajas de GTA 6 sin código, recuerda que tus productos llegan completos y con soporte posventa claro.",
+   "formato": "X"
+  }
+ ],
  "semaforo": [
   {
    "termino": "ana de armas",
@@ -1067,33 +1094,16 @@
   "Fans express concern after Sharad Kapoor’s video bidding farewell to pet dogs goes viral",
   "{{‍�𝙀𝙓~𝙑𝙄𝘿𝙀𝙊~𝙓𝙓𝙓)𝙫𝙞𝙙𝙚𝙤 𝙛𝙞𝙡𝙩𝙧𝙖𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙫𝙞𝙧𝙖𝙡 𝙫𝙞𝙙𝙚𝙤}}",
   "Shoppers worry about Black Friday AI scams, but drop their guard at checkout, as Gen Z scam claims surge 56 per cent",
-  "Shoppers at Morrisons in Largs raise over £3k for Poppyscotland during appeal"
- ],
- "ideas_hoy": [
-  {
-   "titulo": "Un regalo más, del barrio",
-   "idea": "Los comercios de Cornualles piden a los vecinos comprar \"un regalo más\" en tiendas locales esta Navidad. Súmate con un video que muestre tu tienda, tu equipo y tus productos de temporada, y pide a tus clientes que te etiqueten al comprar.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Kit anti-frío por menos de 20 quid",
-   "idea": "Londres bajó de cero grados y hay heladas y niebla en el pronóstico. Reúne en un carrusel abrigo, mantas, termos o productos para el coche con precio final, pensado para quien está skint antes de Navidad.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Pop-up de Navidad",
-   "idea": "Un club de fútbol abrió una tienda temporal en Covent Garden para captar compradores navideños. Si tienes marca, cuenta cómo montarías tu propia experiencia física o colaboración con otra tienda, y qué aprendes del contacto cara a cara.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Precio estable, cliente tranquilo",
-   "idea": "Hay subidas de precios de un día para otro en supermercados de Londres y se esperan tipos de interés más altos. Comunica qué precios mantienes hasta Navidad o qué packs ayudan a ahorrar; la previsibilidad genera confianza.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Romantasy en la pista",
-   "idea": "Strictly Come Dancing prepara un número de grupo inspirado en la romantasía para su semana 8. Aprovecha la estética (capas, terciopelo, tonos joya) para presentar ropa, decoración o regalos con una coreografía corta o un antes y después.",
-   "formato": "TikTok"
-  }
+  "Shoppers at Morrisons in Largs raise over £3k for Poppyscotland during appeal",
+  "gladiators",
+  "Body found on French beach after attempted Channel crossing",
+  "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase",
+  "Homes evacuated after car crashes into house and causes gas leak",
+  "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+  "Iraq denies 72-hour airspace closure, says viral video was old and edited",
+  "{{~[[Instagram viral mms]] FUN4U VIRAL VIDEO}}",
+  "{{++(official^video)++Kirana viral video original Clip in Social Media x TikTok}}",
+  "{{++[Original^video#] Hansika Motwani's viral video trending on social media}}",
+  "Two children, 6 and 7, rescued from squalid London flat could only say ‘iPad’"
  ]
 }

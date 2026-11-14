@@ -1,33 +1,33 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-14T16:59:19Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A trece días del Black Friday oficial del 27 de noviembre, el consumidor portugués ya recibe ofertas anticipadas de tecnología, moda deportiva, fitness y hogar, pero desconfía de los falsos descuentos: la Deco publica consejos y se habla de móviles rebajados con poca vida útil. Gaming y tecnología concentran la conversación (GTA 6 con descuento en Worten, juegos ambientados en paisajes portugueses), mientras la falla global de Microsoft dejó contenido con humor de marcas en redes. Un estudio dice que 77% prefiere comprar cerca de casa, y las lluvias de otoño recuerdan avisar bien los plazos de entrega. Funcionan el precio real comparado, la compra local o con entrega fiable y los regalos de Navidad bien elegidos, todo en portugués europeo y con pago por MB Way.",
+ "lectura": "Em Portugal o Black Friday oficial é a 27 de novembro, mas muitas marcas já anteciparam descontos de até 60% e a Deco alerta para falsos descontos, por isso o consumidor quer provas. O mau tempo recorde da depressão Charles empurra compras de equipamentos de aquecimento e conforto em casa. GTA 6 com desconto e as sugestões de prendas tech mostram um público gamer ativo. Funcionam mensagens com preço final transparente, garantia clara e conselhos práticos para o inverno.",
  "ideas_hoy": [
   {
    "titulo": "Desconto verdadeiro",
-   "idea": "La Deco alerta sobre falsos descuentos de Black Friday (27 de noviembre). Publica tus ofertas mostrando el precio más bajo de los últimos 30 días junto al precio rebajado, como pide la normativa europea, y conviértelo en tu argumento de confianza.",
+   "idea": "Seguindo os conselhos da Deco, mostra o preço dos últimos 30 dias ao lado do preço de Black Friday. Transparência que gera confiança antes do dia 27.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Setup GTA 6 para o Natal",
-   "idea": "GTA 6 aparece con 15% de descuento en Worten y su video hiperrealista se viralizó. Si vendes tecnología o accesorios, arma un 'kit para jogar GTA 6' (mando, auriculares, silla) como prenda de Navidad con precio total visible.",
-   "formato": "Reel"
+   "titulo": "Inverno quentinho",
+   "idea": "Depois da chuva recorde, apresenta um kit de conforto (mantas, aquecedores, desumidificadores) com preço fechado e entrega rápida.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Humor con la caída de Microsoft",
-   "idea": "Las marcas que reaccionaron con humor a la falla global de Microsoft se volvieron virales. Si aún encaja, haz un video corto ligero sobre 'lo que sí funcionó ese día' en tu negocio, sin burlarte de nadie ni alarmar.",
+   "titulo": "Setup GTA 6",
+   "idea": "Com GTA 6 em desconto em grandes lojas, mostra acessórios ou snacks para a noite de estreia num vídeo curto e divertido.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Comprar perto de casa",
-   "idea": "Un estudio indica que 77% de los consumidores prefiere comprar cerca de casa. Muestra tu tienda, tu barrio y tu opción de recogida o entrega rápida con un tono bem fixe y cercano.",
-   "formato": "Historias Instagram"
+   "titulo": "Telemóvel com desconto: o que ver",
+   "idea": "Há notícias sobre telemóveis que não valem a pena mesmo baratos. Faz um guia rápido do que verificar (bateria, atualizações, garantia).",
+   "formato": "Reel"
   },
   {
-   "titulo": "Pontes de dezembro",
-   "idea": "El 1 y el 8 de diciembre caen en martes, así que muchos 'fazem ponte' el lunes. Si vendes turismo, restauración o regalos, lanza ya una propuesta de escapada o plan para esos fines de semana largos, avisando con tiempo los plazos de entrega.",
-   "formato": "Copy para anuncio"
+   "titulo": "Comércio de bairro no Natal",
+   "idea": "Destaca a loja local e o atendimento próximo como alternativa ao grande retalho. Portugal valoriza o comércio tradicional nesta época.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
@@ -86,7 +86,20 @@
   "Apagão mundial a 17 de novembro? Há uma teoria a circular nas redes sociais que está a assustar milhões de pessoas",
   "Manifestações pela habitação saem à rua em todo o país",
   "Acampada de Lisboa pode voltar esta noite, mas já não será no Rossio",
-  "32 cidades saem hoje à rua pelo “direito a morar”"
+  "32 cidades saem hoje à rua pelo “direito a morar”",
+  "rtp online",
+  "saúde em portugal",
+  "Fadista Gisela João será uma das embaixadoras dos novos Estados Gerais do PS",
+  "Ministério Público investiga PSP à paisana no Porto e lançamento de petardo em Lisboa",
+  "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
+  "Só 3 dos 10 ministros do STF têm contas ativas nas redes sociais",
+  "Zé Felipe compartilha vídeo sensual de Karoline Lima e chama atenção nas redes sociais",
+  "Um vídeo de várias mulheres se torna viral ao incentivar algumas idosas a cantar “Pedro Sánchez, eu sim vou votar em você”",
+  "\"Diga-me como vou sobreviver\": manifestantes exigem respostas à crise da habitação em Lisboa",
+  "Protesto junta milhares de pessoas pelo \"direito a morar\"",
+  "Manifestação pela habitação juntou milhares em Lisboa e promete subir o tom: “Isto não acabou. Queremos tudo”",
+  "Lisboa e Porto voltam a ser palco de novas manifestações pela habitação",
+  "Nova onda de protestos pela habitação enche ruas de Lisboa"
  ],
  "audiencias": {
   "general": {
@@ -1106,5 +1119,40 @@
    "accion": "Señal para investigar: probar marketplaces y tiendas multimarca con piezas de diseño portugués."
   }
  ],
- "anuncios": []
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 84771,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+    }
+   ],
+   "patron": "Volumen muy alto y dominado por tiendas online internacionales que anuncian 'Black Friday ya empezó' con descuentos de hasta 62%: la fecha se adelanta casi dos semanas."
+  },
+  {
+   "busqueda": "envio grátis Natal",
+   "total": 320,
+   "anunciantes": [
+    {
+     "nombre": "Santiago Crafts - Personalização e Corte a Laser",
+     "url": "https://www.facebook.com/ads/library/?id=2318742632253051"
+    },
+    {
+     "nombre": "Aunox Store",
+     "url": "https://www.facebook.com/ads/library/?id=1503316928306381"
+    },
+    {
+     "nombre": "Lukestore",
+     "url": "https://www.facebook.com/ads/library/?id=3071594879850155"
+    },
+    {
+     "nombre": "Ricardo Palma",
+     "url": "https://www.facebook.com/ads/library/?id=2366549737525728"
+    }
+   ],
+   "patron": "Predominan regalos personalizados (mantas con foto de la mascota, grabado láser) y decoración navideña con precio exacto en el titular, como 'Árvore de Natal 1,80 m · 49,90 €'."
+  }
+ ]
 }

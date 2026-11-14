@@ -1,8 +1,35 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-14T17:02:31Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Con el puente festivo del lunes 16 de noviembre y el Black Friday del 27 a la vista, el consumidor colombiano quiere adelantar las compras de Navidad, pero sin desordenar sus finanzas. La suspensión masiva de vuelos en Estados Unidos, que también cerró por horas aeropuertos como El Dorado, recordó lo frágiles que pueden ser los tiempos de entrega en temporada alta. En entretenimiento suenan la gira de Maluma que arranca en Bogotá, el Salón del Automóvil y el regreso de títulos clásicos al gaming. Ganan los mensajes de compra planificada, precio claro y fechas de entrega realistas.",
+ "lectura": "Con el puente festivo del lunes 16 y el Black Friday a 13 días, el colombiano está en modo plan: busca qué hacer el fin de semana largo y ya pregunta qué fechas y tiendas tendrán descuentos reales. En TikTok circulan el 'bicep heart' y productos de belleza baratos que se agotan, señal de que el contenido corto y lúdico mueve compras. Bogotá vive el festival México en el corazón y Barranquilla la FILBAC, buenas excusas para contenido local. Gana quien explique fechas, condiciones y tiempos de entrega sin letra pequeña.",
+ "ideas_hoy": [
+  {
+   "titulo": "Tu plan del puente",
+   "idea": "Arma un carrusel con 5 planes o productos para el lunes festivo (salida corta, maratón de series, asado en casa). Cierra con una oferta válida solo hasta el lunes para crear urgencia sin presionar.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Calendario de Black Friday claro",
+   "idea": "Medios como El Colombiano ya publican fechas y categorías con más descuento. Publica tu propio calendario: qué día empiezas, qué rebajas y hasta cuándo, con el precio antes y después.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Corazón con el bíceps",
+   "idea": "Súmate a la tendencia del 'bicep heart' con tu equipo o tus clientes mostrando el producto favorito. Es un formato liviano que humaniza la marca y se presta para dúos.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Belleza que se agota",
+   "idea": "El corrector viral de bajo precio demuestra que la gente compra por recomendación. Haz un 'probé lo viral' honesto con tu producto o uno similar y responde en comentarios si vale la pena.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Pide hoy, llega a tiempo",
+   "idea": "Con la temporada alta encima, un copy que diga 'Haz tu pedido de Navidad con tiempo, ¡no lo deje para última hora, parcero!' con fecha límite concreta genera confianza y adelanta ventas.",
+   "formato": "Copy para anuncio"
+  }
+ ],
  "semaforo": [
   {
    "termino": "suspenden vuelos eeuu",
@@ -960,33 +987,14 @@
   "Kalshi y Polymarket encuentran un nuevo negocio en los reality shows y desafían a la industria televisiva",
   "Dian detectó presuntas exportaciones ficticias por más de $425.000 millones hacia Ecuador",
   "Investigan presunta red de exportaciones ficticias que operaba desde Ipiales",
-  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística"
- ],
- "ideas_hoy": [
-  {
-   "titulo": "Compra navideña adelantada",
-   "idea": "Los medios recomiendan adelantar las compras de Navidad aprovechando el Black Friday del 27 de noviembre. Publica una lista de regalos por rangos de precio con la fecha límite para que lleguen antes de diciembre.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Plazos claros tras el caos aéreo",
-   "idea": "La suspensión de vuelos en EE. UU. retrasó conexiones y cerró por horas aeropuertos en Colombia. Cuenta en video, con calma, cómo planeas tus envíos de temporada y qué fecha recomiendas para pedir sin afanes.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Plan para el puente festivo",
-   "idea": "El lunes 16 es festivo y hay pico y placa regional para el retorno a Bogotá. Propón un 'plan de puente' con tu producto (viaje, descanso, parche en casa) y una oferta que cierre el lunes por la noche.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Black Friday sin desorden",
-   "idea": "Varias notas insisten en comprar sin desordenar las finanzas. Haz un video corto de '3 preguntas antes de comprar en Black Friday' y muestra tu precio final sin letra pequeña; la transparencia genera confianza, parce.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Del Salón del Automóvil a tu vitrina",
-   "idea": "El Salón del Automóvil de Bogotá arrancó con fuerza y la gira de Maluma en Bogotá ya genera conversación. Si vendes accesorios, moda o experiencias, conecta tu producto con esos planes de fin de año en un anuncio con fecha clara.",
-   "formato": "Copy para anuncio"
-  }
+  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística",
+  "Atención: cayó alias ‘Primo Gay’, uno de los cabecillas más buscados de Antioquia",
+  "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "Revelan detalles de la auditoría forense de Ecopetrol: Contratos, nombramientos y negocios involucran a Ricardo Roa y el círculo de Verónica Alcocer",
+  "¿Duermen tranquilos con sus hijos en TikTok?",
+  "Desmantelan una red de ciberestafas bancarias en TikTok",
+  "Agente de tránsito agredido en Cali tras el partido de Colombia y Chile",
+  "Alcaldía refuerza acciones para proteger a las mujeres y prevenir las violencias en Barranquilla"
  ]
 }

@@ -1,8 +1,35 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-14T17:02:31Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin está en su último fin de semana largo, con el puente del Día de la Revolución el lunes 16, y el consumidor mexicano compra con lupa: compara precios con Profeco, desconfía de ofertas infladas y busca meses sin intereses de bancos y tiendas departamentales. Los adultos mayores preguntan si el descuento INAPAM se suma al Buen Fin, una señal de que cada peso cuenta. El frío, las lluvias por el frente frío y planes como el Festival del Globo en León o conciertos en CDMX marcan el ánimo del puente. Funciona mostrar el precio real, la comparación honesta y la entrega antes de Navidad.",
+ "lectura": "El Buen Fin está en pleno fin de semana largo y el consumidor mexicano compara precios con lupa: Profeco publica rangos de pantallas, lavadoras y refrigeradores, y crece la pregunta de si conviene comprar en línea o en tienda. Los adultos mayores buscan cómo combinar INAPAM con las promociones y el frío llega a CDMX con temperaturas de hasta 1 °C. También interesan la Switch 2, las laptops calidad-precio y los viajes con descuento. Funcionan los mensajes de precio final, meses sin intereses explicados y entrega garantizada.",
+ "ideas_hoy": [
+  {
+   "titulo": "Precio de antes vs. precio de hoy",
+   "idea": "Profeco está vigilando: muestra con captura el precio de hace un mes y el del Buen Fin. Esa transparencia es tu mejor argumento frente al 'ya lo subieron para bajarlo'.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "¿Línea o tienda?",
+   "idea": "Responde la duda del momento con una tabla sencilla: tiempos de entrega, devoluciones y formas de pago en tu tienda en línea y física. Ayuda a decidir y te posiciona como confiable.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Kit para el frío",
+   "idea": "Con heladas en el Ajusco y lluvias en varias zonas, empaqueta productos de invierno (cobijas, termos, chamarras) como 'kit del puente' con un precio redondo.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Buen Fin para los abuelos",
+   "idea": "Explica paso a paso cómo usar la credencial INAPAM junto con tus promociones. Contenido útil que los hijos comparten en WhatsApp con sus papás.",
+   "formato": "Facebook"
+  },
+  {
+   "titulo": "Gaming de temporada",
+   "idea": "La Switch 2 aparece entre lo más buscado del Buen Fin. Si vendes accesorios, juegos o fundas, arma un 'combo gamer' y muéstralo en un unboxing rápido, ¡está padrísimo para regalo!",
+   "formato": "TikTok"
+  }
+ ],
  "semaforo": [
   {
    "termino": "pterodáctilo en ciudad juárez",
@@ -969,33 +996,16 @@
   "Aseguran 18 camionetas de lujo en bodega de Jalisco tras enfrentamiento armado",
   "¡Hallan camioneta que escapó! Aseguran bodega con 18 camionetas de lujo tras operativo en Ocotlán",
   "Aprueban reformas para impulsar la sostenibilidad en la obra, proteger la producción agrícola y fortalecer la seguridad",
-  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”"
- ],
- "ideas_hoy": [
-  {
-   "titulo": "Precio real del Buen Fin",
-   "idea": "Hay compradores que dudan por precios inflados y Profeco publica rangos de precios para pantallas y electrodomésticos. Muestra tu precio de octubre junto al de hoy, sin trucos; la neta es tu mejor anuncio esta semana.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "INAPAM y Buen Fin, explicado",
-   "idea": "Muchos adultos mayores preguntan si el descuento INAPAM se combina con el Buen Fin. Si tu negocio lo acepta, haz un carrusel claro, con letra grande, que explique cómo aplica en tu tienda.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Último día del puente",
-   "idea": "El lunes 16 es festivo por el Día de la Revolución y cierra el Buen Fin. Publica una cuenta regresiva en historias con las ofertas que terminan el lunes por la noche para crear urgencia sin exagerar.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Lo que voló sobre Juárez",
-   "idea": "El supuesto pterodáctilo de Ciudad Juárez es de lo más comentado. Haz un TikTok con humor: 'lo único prehistórico aquí son los precios de antes', y remata con tu oferta vigente.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Kit para el frío del puente",
-   "idea": "Se esperan lloviznas y frío intenso en zonas altas de CDMX, además de lluvias fuertes en varios estados por el frente frío. Arma un 'kit para el frente frío' con tus productos y entrega rápida en tu ciudad.",
-   "formato": "Reel"
-  }
+  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”",
+  "vivienne marcheline jolie-pitt",
+  "Presunto ahijado de 'El Mencho' huye en vehículo con placas de EU tras enfrentamiento en Ocotlán y autoridades",
+  "Nuevo golpe al CJNG; aseguran dos narcolaboratorios con capacidad para producir 17 mdp mensuales en droga",
+  "¿Duermen tranquilos con sus hijos en TikTok?",
+  "Desmantelan una red de ciberestafas bancarias en TikTok",
+  "¿Vas a salir hoy? Marchas y concentraciones en la CDMX este sábado 14 de noviembre: horarios y puntos afectados",
+  "Cae en Guadalajara el “Raptor”, presunto líder regional del CJNG en Colima y Jalisco",
+  "Con baja oxigenación, Félix Gallardo fue llevado de Puente Grande a un hospital privado",
+  "Detienen en Guadalajara al “Raptor” líder operativo en Colima y Jalisco",
+  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara"
  ]
 }

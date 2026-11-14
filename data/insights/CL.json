@@ -1,33 +1,33 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-14T17:00:00Z",
+ "actualizado": "2026-11-14T21:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor chileno ya piensa en el Black Friday: los medios explican fechas, duración y cómo saber si un producto bajó de verdad, y las pymes de regiones como Atacama se suman a los cuatro días de ofertas. Comparar precios con otros países, como en el supermercado frente a España, se volvió tema de conversación, así que la transparencia vende. El fin de semana trae lluvias y bajas temperaturas al centro-sur, mientras en Santiago la Feria del Libro en Estación Mapocho y el Creamfields mueven panoramas. Funcionan los mensajes al hueso: precio real, despacho claro y beneficios concretos.",
+ "lectura": "El chileno se prepara para el Black Friday de fin de mes con desconfianza sana: busca cómo comprobar si un precio bajó de verdad y qué marcas participarán. La Feria del Libro de Santiago celebra 45 años y los panoramas culturales gratuitos tienen tirón este fin de semana. Los vuelos cancelados por la contingencia en EE. UU. recuerdan comunicar plazos con transparencia. Funcionan los mensajes directos, la comparación honesta de precios y el apoyo a pymes de regiones.",
  "ideas_hoy": [
   {
-   "titulo": "¿Bajó de verdad?",
-   "idea": "Los medios enseñan a revisar si un producto realmente bajó de precio para el Black Friday. Muestra hoy el precio actual de tus productos clave y promete mantenerlo visible hasta la fecha; así demuestras que tu descuento es real.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Pyme regional en vitrina",
-   "idea": "Se invita a pymes de regiones a sumarse a los cuatro días de ofertas nacionales. Si eres una, cuenta tu historia de origen y arma un pack con despacho regional claro; lo local genera cariño y confianza.",
+   "titulo": "¿Bajó o no bajó?",
+   "idea": "Muestra el historial de precio de tus productos estrella de las últimas semanas. Responde la gran duda del Black Friday con datos, sin vueltas.",
    "formato": "Reel"
   },
   {
-   "titulo": "Panoramas con lluvia",
-   "idea": "Vuelven las lluvias al centro-sur y podrían durar varios días. Publica un carrusel de 'planes bacanes bajo techo' o un pack de abrigo y hogar para el finde; es contenido que se guarda y se comparte.",
+   "titulo": "Lecturas para regalar",
+   "idea": "Aprovecha la Feria del Libro en Estación Mapocho para recomendar libros o productos para lectores (marcapáginas, lámparas, café). Ideal para librerías y tiendas de regalos.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lecturas de la FILSA",
-   "idea": "La Feria Internacional del Libro de Santiago celebra 45 años en Estación Mapocho. Librerías, cafeterías y marcas de papelería pueden recomendar tres lecturas para regalar en Navidad o un beneficio para quienes muestren su entrada.",
+   "titulo": "Panorama del finde",
+   "idea": "Recomienda 3 panoramas gratis en Santiago (concierto Cielos, feria del libro) y suma tu local o producto como parte del plan. Contenido útil y cercano, bacán para compartir.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Comparación honesta de precios",
-   "idea": "El video que comparó una compra de supermercado entre Chile y España despertó interés. Haz tu propia comparación de categoría y explica qué incluye tu precio (garantía, despacho, devolución); la honestidad diferencia.",
-   "formato": "TikTok"
+   "titulo": "Lista de marcas del Black Friday",
+   "idea": "Publica qué categorías tendrán descuento en tu tienda y desde cuándo. Ordena la intención de compra antes del evento.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Plazos honestos",
+   "idea": "Tras las cancelaciones de vuelos desde EE. UU., explica con calma cómo pueden variar las entregas de productos importados y sugiere pedir con tiempo para Navidad.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
@@ -78,7 +78,17 @@
   "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
   "La abogada que cobró $12 millones a desalojados de megatoma en Cerrillos",
   "“No hagan un rescate militar”, pide subteniente secuestrada por el ELN",
-  "Nuevo round en MinCiencia: subsecretaria Rossi desconoce y rechaza despidos ordenados por Ximena Lincolao"
+  "Nuevo round en MinCiencia: subsecretaria Rossi desconoce y rechaza despidos ordenados por Ximena Lincolao",
+  "acuerdo",
+  "alerta roja",
+  "Briones critica acuerdo con camioneros: “Nada mal el premio por unos días de toma de rutas vulnerando el Estado de derecho”",
+  "Ojos de la llave: el nuevo chat de ministros y la última (e improvisada) firma de la AC contra Rabat",
+  "Realizan amplio operativo de búsqueda por joven que se perdió en playa Caleta Abarca en Viña del Mar",
+  "Continúa búsqueda de jinete desaparecido en el río Maipo: familia entrega nuevos antecedentes",
+  "¿Duermen tranquilos con sus hijos en TikTok?",
+  "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
+  "Vídeo | ¿Se ha agotado la confianza de la Gen Z europea en los Gobiernos?",
+  "Corte de Santiago ordena tramitar recurso de Mowi Chile contra rechazo de prórroga de concesión acuícola"
  ],
  "audiencias": {
   "general": {
