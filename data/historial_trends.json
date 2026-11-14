@@ -311,29 +311,85 @@
   "weather": {
    "termino": "weather",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBxj7mo_kR-UWFFH2QGGOv8jwEEzEdQtqYL7ErjN6uv-y9JAY5m2w7NmSIUWw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYIMLiakoXr1APH2J1B6DyNd79wHgqzstn6CwFsfrKsCVOGksVV-NrmHgrng0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Breezy, cool on Monday as temperatures slowly cool off this week",
-    "url": "https://www.wmur.com/article/new-hampshire-weekend-weather-snow-rain-110626/74359293",
-    "fuente": "WMUR"
+    "titulo": "How & Where to Watch Boston College vs. No. 5 Notre Dame (Nov. 14)",
+    "url": "https://www.nbc.com/nbc-insider/how-to-watch-boston-college-vs-notre-dame-nov-14",
+    "fuente": "NBC TV"
    }
   },
   "yamid amat": {
    "termino": "yamid amat",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6BaKI0fChfMRHAIiHaq4nsWZoxK4VGYGTZTdKei9wkhGeYYORHZ6Wj3hO55c",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Últimas noticias de Yamid Amat: SEMANA habló con su esposa. Lagrimas, despedidas y la vida después de la UCI",
+    "titulo": "Últimas noticias de Yamid Amat: SEMANA habló con su esposa. Lágrimas, despedidas y la vida después de la UCI",
     "url": "https://www.semana.com/nacion/articulo/ultimas-noticias-de-yamid-amat-semana-hablo-con-su-esposa-lagrimas-despedidas-y-la-vida-despues-de-la-uci/202652/",
     "fuente": "Revista Semana"
+   }
+  },
+  "dirección nacional de inteligencia": {
+   "termino": "dirección nacional de inteligencia",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJU4l602sXcUY-MNzqwfIDIIg11sVpf9DsCyIA28aN6EALecsrGSkR26zF2A0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Menos inmuebles, más plata: la DNI pagó $649 millones más en arriendos en 2025",
+    "url": "https://caracol.com.co/2026/11/14/menos-inmuebles-mas-plata-la-dni-pago-649-millones-mas-en-arriendos-en-2025/",
+    "fuente": "Caracol Radio"
+   }
+  },
+  "feria del automovil": {
+   "termino": "feria del automovil",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS09Ip8WVpDV6Uq7M1VNLZAKKFuVRbHwTNc_yXPZY9ICXDRVASukZ74CSPAerg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El Salón del Automóvil de Bogotá arrancó volando",
+    "url": "https://www.eltiempo.com/economia/sectores/el-salon-arranco-volando-3601018",
+    "fuente": "El Tiempo"
+   }
+  },
+  "starship spacex": {
+   "termino": "starship spacex",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgRBgCgkLICQsrLFYalY1NoZ2vkMME-xC79QeAif5xBzYsJJslI2L6Zq0Wq7A",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "First catch aborted in SpaceX Starship rocket double-catch test",
+    "url": "https://www.bbc.com/news/articles/ckregdgnl0xpo",
+    "fuente": "BBC"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHsg9otdIoRpS1BnzKJhEJaX269EkhhcXYq53W5sIT7uv1ZXUZjC-lNgbQs-o",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "“Makes Me More Uncomfortable”: Taylor Fritz Offers Honest Take on Carlos Alcaraz and Jannik Sinner’s Edge",
+    "url": "https://www.essentiallysports.com/tennis-news-makes-me-more-uncomfortable-taylor-fritz-offers-honest-take-on-carlos-alcaraz-and-jannik-sinners-edge/",
+    "fuente": "EssentiallySports"
    }
   }
  },
@@ -798,27 +854,27 @@
   "raphinha": {
    "termino": "raphinha",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvYovq-Pg-1niI0je94oFDP8c7f_2g31D3EDltTLS6Mn0Ch-suBkJjYF9jGe4",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4PryBW-9RBNyQE3WmN6ou4pBc4pUDz8AGiXvs8uxDEgns60kIjGxhFH9Z7I4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Ancelotti calma a clubes tras polémica con Raphinha: \"su salud es prioridad\"",
-    "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17511798/raphinha-brasil-barcelona-polemica-ancelotti",
+    "titulo": "Raphinha responde a críticas: \"Quiero estar disponible con Brasil y Barcelona\"",
+    "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17510657/raphinha-responde-criticas-disponible-brasil-barcelona",
     "fuente": "ESPN México"
    }
   },
   "jensen huang de nvidia": {
    "termino": "jensen huang de nvidia",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrm-RbfXV1-w4U1jbgf-3WuL112w7q7-R7Yzsj0ZlIph244KbITQ556Kqhso4",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Nvidia’s week of chaos, explained",
+    "titulo": "Who’s who in the Nvidia scandal and what we know about what’s happened",
     "url": "https://www.cnn.com/2026/11/13/business/nvidia-jensen-huang-affair-fallout-vis",
     "fuente": "CNN"
    }
@@ -826,25 +882,25 @@
   "inapam": {
    "termino": "inapam",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzltVp6vYxcLy-bHu1MYsI7Yx-vbzwDLqhpoBp4W6p4_dGaNq-VjQR_zxeSZo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "2000+",
+   "veces": 2,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2kH0Vo2OZCCH5--kYmawx6sDomvEU3Bd1QcT0tGS2CcH8wDQ8O-geqimFiY",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
    "noticia": {
-    "titulo": "Adultos con INAPAM disfrutan de descuentos con la credencial en El Buen Fin 2026",
-    "url": "https://www.ambito.com/mexico/economia/adultos-inapam-disfrutan-descuentos-la-credencial-el-buen-fin-2026-n6344900",
+    "titulo": "Qué se sabe del pago de $9,500 del INAPAM de diciembre 2026",
+    "url": "https://www.ambito.com/mexico/economia/que-se-sabe-del-pago-9500-del-inapam-diciembre-2026-n6344454",
     "fuente": "Ambito"
    }
   },
   "armando león": {
    "termino": "armando león",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBU1ci_N4qRBs-3VDYphgBZWGHoLbp8j90gRBARC637g4pILp1lNqdVDtoffc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "México: Armando León y la sequía de goles con la que llega",
     "url": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17501386/armando-leon-sequia-goles-llega-mexico-nations-league",
@@ -864,16 +920,72 @@
     "url": "https://es-us.noticias.yahoo.com/alerta-naranja-amarilla-tormentas-s%C3%A1bado-030100839.html",
     "fuente": "Yahoo"
    }
+  },
+  "chelsea - man city": {
+   "termino": "chelsea - man city",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTJRJJm-k26id0daSxAsBAgS7Z5ijh6IXBmUEMEQ2SKdeA8YSAzbz-HkKzx4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Confirmed Chelsea Women line up vs Manchester City | News | Official Site",
+    "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-manchester-city",
+    "fuente": "Chelsea Football Club"
+   }
+  },
+  "selección de fútbol de costa rica": {
+   "termino": "selección de fútbol de costa rica",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaR1xcB-RbQwdQRHyMY8cL845rRCqBol9n8EAAWEl6XxnGxZj5NY_hBqCFYe0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Jordy Caicedo fue el jugador más destacado en el triunfo de Ecuador ante Costa Rica",
+    "url": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17513808/jordy-caicedo-fue-el-jugador-mas-destacado-en-el-triunfo-de-ecuador-ante-costa-rica",
+    "fuente": "ESPN México"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1cMwrDbb4QkWc8WEmPZE7-lWnRghmrAnB7PaE5lE1OVjLVxS62DgIThRiTzE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Exclusive: Taylor Fritz opens up on knee struggles, Sinner and Alcaraz gap, and loneliness on ATP Tour",
+    "url": "https://bolavip.com/en/tennis/exclusive-taylor-fritz-opens-up-on-knee-struggles-sinner-and-alcaraz-gap-and-loneliness-on-atp-tour",
+    "fuente": "Bolavip US"
+   }
+  },
+  "clima xalapa": {
+   "termino": "clima xalapa",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIcypiIsQsRBBY8a7WK2h0iFSrpgqLZ5FET9jgb1oUZ2SmrA4HrViYsIfdI4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Frío en Xalapa",
+    "url": "https://www.alcalorpolitico.com/galerias/base.php?idgaleria=79066",
+    "fuente": "Al Calor Político"
+   }
   }
  },
  "EC": {
   "spurs - warriors": {
    "termino": "spurs - warriors",
    "primera_vez": "2026-11-14T03:09:44Z",
-   "veces": 14,
+   "veces": 15,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRupVU3Nn4kNH72BARgGM_51hLCT2HgXrWNneeoieK5pH2id1t4jWlwQxORkx4",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Warriors get demolished by Stephon Castle, Spurs",
@@ -884,15 +996,15 @@
   "canada vs": {
    "termino": "canada vs",
    "primera_vez": "2026-11-14T03:09:44Z",
-   "veces": 14,
+   "veces": 15,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0vWJ5qtxAsWNn6Agf7ldA5CzokCVWICfKdWyrxA4MZnpvwhvMNsqwDyhz574",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9cjrMFk9hIZ7rUSdbaudQulxLp8v_Vyb8dxVZ0RvfSNDpwLtq-8SxALe1kmw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Guatemala vs Canada: Concacaf Nations League stats & head-to-head",
-    "url": "https://www.bbc.com/sport/football/live/c679p9xwydx2t",
-    "fuente": "BBC"
+    "titulo": "Canadian women pass stern test from Czechs at hockey worlds, advancing to semifinals",
+    "url": "https://www.cbc.ca/sports/hockey/canada-czechs-recap-quarterfinal-womens-hockey-worlds-denmark-9.7420897",
+    "fuente": "CBC"
    }
   },
   "piero hincapié": {
@@ -1024,24 +1136,24 @@
   "japón - brasil": {
    "termino": "japón - brasil",
    "primera_vez": "2026-11-14T10:38:36Z",
-   "veces": 3,
-   "max_trafico": 10000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OYMFt7suXEJl9oS3iY4m_cEetsuE5FPJdp4M1nc_SFub55FYbq6m8WmCITs",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "10000+",
+   "veces": 4,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstWx1n0LQg9AJWrV489ivisWaNJacHQ4SBDxCX2aqGJJATGtorIAokBxKXD0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "20000+",
    "noticia": {
-    "titulo": "Cuándo juegan Japón vs. Brasil por un Amistoso Internacional: equipo, fecha, hora y TV en vivo",
-    "url": "https://www.espn.com.ec/futbol/mundial/nota/_/id/17503455/japon-vs-brasil-amistoso-internacional-fecha-2-equipo-fecha-hora-y-tv-en-vivo",
+    "titulo": "VIDEO: resumen de Japón vs. Brasil en un amistoso internacional",
+    "url": "https://www.espn.com.ec/futbol/mundial/nota/_/id/17514337/video-resumen-japon-brasil-amistoso-internacional",
     "fuente": "ESPN Ecuador"
    }
   },
   "visa": {
    "termino": "visa",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl5xQHILIMqXzjICO_f2RGqcbOFPjw_9oE9wMDcKdQxOdj5u02io3Vnx9oV8c",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Africa Miss Universe beauty queens in limbo as US visa restrictions bite",
@@ -1052,15 +1164,71 @@
   "brasil": {
    "termino": "brasil",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHkuvhVwi-eppAZzf19_3sNj_icw6mfgHfdcpPiEBGIFE2MBM1M_muV11BPdE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "SELEÇÃO BRASILEIRA DIFÍCIL DE TORCER! MAIS UMA DERROTA E O TRABALHO DE ANCELOTTI AINDA MAIS CONTESTADO! MAIS UMA DERROTA PRO JAPÃO!",
-    "url": "https://www.instagram.com/reel/DfuMREORDvk/",
-    "fuente": "Instagram"
+    "titulo": "Raphinha é substituído, reclama da arbitragem e sai expulso com Ancelotti",
+    "url": "https://tmc.com.br/esporte/raphinha-e-substituido-reclama-da-arbitragem-e-sai-expulso-com-ancelotti/",
+    "fuente": "tmc.com.br"
+   }
+  },
+  "sercop": {
+   "termino": "sercop",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3GIlJbW1MUaHT7ix_S38iUhYsm4872R7OGJqldJDeg-tefrTrdoJ31fXBhY",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Contratación pública: Sercop buscará identificar quién está detrás de las empresas proveedoras del Estado",
+    "url": "https://www.lahora.com.ec/economia/contratacion-publica-sercop-buscara-identificar-quien-esta-detras-de-las-empresas-proveedoras-del-estado-20261112-0029.html",
+    "fuente": "Diario La Hora"
+   }
+  },
+  "brazil vs": {
+   "termino": "brazil vs",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNin7g-3dhtmiaUT1UnDxj_AgfwCT0dwbiI2nZjwAWtETTTIF_PqvDnYn9-qs",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+    "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+    "fuente": "The Guardian"
+   }
+  },
+  "brasil vs japon": {
+   "termino": "brasil vs japon",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstWx1n0LQg9AJWrV489ivisWaNJacHQ4SBDxCX2aqGJJATGtorIAokBxKXD0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "VIDEO: resumen de Japón vs. Brasil en un amistoso internacional",
+    "url": "https://www.espn.com.ec/futbol/mundial/nota/_/id/17514337/video-resumen-japon-brasil-amistoso-internacional",
+    "fuente": "ESPN Ecuador"
+   }
+  },
+  "cáncer": {
+   "termino": "cáncer",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM3sHXyu2S_RjAV2iXHc28UhT12FulykP6QY0WxY39XAj7iNXBv91rXvGWnsE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Anthropic utiliza la IA Claude en la investigación de fármacos contra el cáncer: resultados preclínicos y pronóstico a 10 años.",
+    "url": "https://www.vietnam.vn/es/anthropic-dua-ai-claude-vao-nghien-cuu-thuoc-ung-thu-ket-qua-tien-lam-sang-va-du-bao-10-nam-toi",
+    "fuente": "Vietnam.vn"
    }
   }
  },
@@ -2436,6 +2604,104 @@
     "url": "https://www.nytimes.com/2026/11/13/crosswords/connections-companion-1252.html",
     "fuente": "The New York Times"
    }
+  },
+  "bryce james": {
+   "termino": "bryce james",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWosFI43x4NcpRRqTsiTKIoq_GoM5Ru68stbBOqLb0CRKmUpY7Bpp4WOLoPJs",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Seen and heard in Auburn: On Bryce James' benching, Brian Jeffries' familiar substitute, ground stops and fake toilet paper",
+    "url": "https://tucson.com/sports/arizonawildcats/basketball/article_c0303895-883d-49b6-bec6-10503d5bb6dc.html",
+    "fuente": "Arizona Daily Star"
+   }
+  },
+  "the terminal list prime video": {
+   "termino": "the terminal list prime video",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8I2uy-4OBeK-zGRFq1GpM1zUEYbRnXxPSoQbWTLr8sRGCGE8t1ZroiBc5Ok",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Prime Video's 2-Season Action Thriller Just Surged 307% To Become the No. 1 Streaming Original",
+    "url": "https://collider.com/terminal-list-prime-video-action-thriller-streaming/",
+    "fuente": "Collider"
+   }
+  },
+  "donovan mitchell": {
+   "termino": "donovan mitchell",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63q1o2qOCMg6JbXe4aGzumaxe1JPSfId39b9Qb5nA2BTCbHCUIBE9HfD4cmE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Donovan Mitchell's renewed faith in Cleveland fuels the Cavs' future",
+    "url": "https://www.espn.com/nba/story/_/id/50463020/donovan-mitchell-cleveland-cavaliers-extension",
+    "fuente": "ESPN"
+   }
+  },
+  "brad pitt": {
+   "termino": "brad pitt",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FlXB9lIJILrOJ65nv3pKxQMD5pr-lvgd18qESJSVNK_it9oxPbx37Lcmdh4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
+    "url": "https://pagesix.com/2026/11/13/celebrity-news/angelina-jolie-brad-pitts-daughter-vivienne-reveals-hospitalization-for-eating-disorder-at-la-art-exhibit/",
+    "fuente": "Page Six"
+   }
+  },
+  "raf abu dhabi fight results": {
+   "termino": "raf abu dhabi fight results",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKHUmNBzFO16HIObOv1kSA3X-Ykr1M7r3W6I66YdOYYEs6cGzlbFIJ0RRyXBs",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "RAF Abu Dhabi live results, round-by-round updates for today's Khamzat Chimaev vs. Chris Weidman card",
+    "url": "https://sports.yahoo.com/wrestling/live/raf-abu-dhabi-live-results-round-by-round-updates-for-todays-khamzat-chimaev-vs-chris-weidman-card-130000623.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "duke vs miami prediction": {
+   "termino": "duke vs miami prediction",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJfe8vRzVWFyebavh0S83lqPteFX0MHp86YYpq9AbjJDfeNdvgND263-Pi1bM",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Miami vs. Duke prediction, odds, time: Week 11 college football picks by proven model",
+    "url": "https://www.cbssports.com/betting/news/miami-duke-prediction-odds-game-time-2026-week-11-college-football-picks/",
+    "fuente": "CBS Sports"
+   }
+  },
+  "mohit ulva": {
+   "termino": "mohit ulva",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvXlu6_lwKxKeec5jojTweoAeWa8LL_ME42CK6Sx_pxh_MGnj9XeWVhTKOk80",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "IND19 vs PAK19 Cricket Scorecard, Final at Al Amarat, November 14, 2026",
+    "url": "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/india-under-19s-vs-pakistan-under-19s-final-1558444/full-scorecard",
+    "fuente": "Cricinfo"
+   }
   }
  },
  "US/nueva-york": {
@@ -2932,15 +3198,15 @@
   "wta finals 2026": {
    "termino": "wta finals 2026",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0XGVO7rXviUX223HPKa6GqAtXqlfHLTlALUtK8Bak4Lr76CIKSDrNHIeOq2I",
-   "ultima_vez": "2026-11-14T11:34:03Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROLIpezPoiPZtiiX5IygynNz8rCCoDSCEOYyaVHgIo1KcRmMOLqzW_IPTAhpg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Sabalenka's season ended by Svitolina at WTA Finals",
-    "url": "https://www.bbc.com/sport/tennis/articles/cw30gl912vq9o",
-    "fuente": "BBC"
+    "titulo": "Aryna Sabalenka’s tennis season ends with her game — and perhaps her place in history — uncertain",
+    "url": "https://www.nytimes.com/athletic/7780592/2026/11/14/aryna-sabalenka-tennis-results-trophies-game/",
+    "fuente": "The New York Times"
    }
   },
   "japón - brasil": {
@@ -2974,10 +3240,10 @@
   "taylor fritz": {
    "termino": "taylor fritz",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlqJiLtZ-8Z9JQOxoQ6eEfuJ-WoCGHdDbm5eIGFNnZ-DdTaEbo6tRa-syHOI",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Fritz fires past Musetti, will face first-time finalist Tirante for Stockholm crown",
@@ -2988,11 +3254,11 @@
   "olivia wilde": {
    "termino": "olivia wilde",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HTLhPvjnXacdzCqjcLrJbKuqOSVYwDNJl7HkLOuX12dJ3iFNZ04CDHrmjh4",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9SK4EVerKsQpOj_MTNlfi-9vI4yUVtHcX6kzWhA9cGkcAhSszpO2cF4fdTbg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
     "url": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
@@ -3011,6 +3277,90 @@
     "titulo": "Walmart Black Friday Deals start now: Score early savings from Ninja, HP, Shark, Apple and more",
     "url": "https://shopping.yahoo.com/deals/breaking-news/article/walmart-black-friday-deals-start-now-score-early-savings-from-ninja-hp-shark-apple-and-more-115816712.html",
     "fuente": "Yahoo"
+   }
+  },
+  "measles elimination status": {
+   "termino": "measles elimination status",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPpCBB35-ZbqMoLvNe7AW8h4Ho3Nw9GKK75U0YIhQjJTivg89RmhcXe6pPRD8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "After 26 years, the US has lost its measles elimination status",
+    "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
+    "fuente": "CNN"
+   }
+  },
+  "аэропорт": {
+   "termino": "аэропорт",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQapNHMVLJ1x1WXfQuqrYEZjmc5B3CAx5hZUY9SyYqMs5cvmWX20A72UeDRzKU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "В США — крупнейший сбой в авиасообщении. Все полеты в стране приостановили на четыре часа. Тысячи рейсов отменены",
+    "url": "https://meduza.io/feature/2026/11/14/v-ssha-krupneyshiy-sboy-v-aviasoobschenii-vse-polety-v-strane-priostanovili-na-chetyre-chasa-tysyachi-reysov-otmeneny",
+    "fuente": "Meduza"
+   }
+  },
+  "jenny mccarthy": {
+   "termino": "jenny mccarthy",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoIZ-KnqeUNxMzz8re3c9t_5nfeYKovpDvLzV5DERyExfEKjRTSucB-zaWa1I",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jenny McCarthy Says She Threw Away All of Husband Donnie Wahlberg’s Clothes amid Mold Poisoning Ordeal",
+    "url": "https://people.com/jenny-mccarthy-says-she-threw-away-husband-donnie-wahlbergs-clothes-amid-mold-poisoning-diagnosis-12248723",
+    "fuente": "People.com"
+   }
+  },
+  "fresno state bulldogs men's basketball": {
+   "termino": "fresno state bulldogs men's basketball",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHsMX4glEN7njubIa-Ji39vjv2SSofJjnXJSmPxKR0Jyw23TgzBG_TBOxHpZw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "NAU Women’s Basketball Ready for Road Challenge at Fresno State",
+    "url": "https://nauathletics.com/news/2026/11/12/womens-basketball-nau-womens-basketball-ready-for-road-challenge-at-fresno-state.aspx",
+    "fuente": "Northern Arizona University Athletics"
+   }
+  },
+  "dp world tour": {
+   "termino": "dp world tour",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA5kbhvFyY5RyCUG96pCY8rTi29KW5uXLDxbEGcQ3d_9Tc_ntRrjd5YLR6bNQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "McIlroy and Hatton tied as Chacarra stays in hunt",
+    "url": "https://www.bbc.com/sport/golf/articles/c3y0xlpkpg9lo",
+    "fuente": "BBC"
+   }
+  },
+  "vicki lawrence carol burnett show": {
+   "termino": "vicki lawrence carol burnett show",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN8CvZzNYX5o-NmGqSbrX_uk8ECKNjd69i6NPiCE-LeNuFkbaXqu4vMDMwdlQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Vicki Lawrence Is Surprised She Wasn’t ‘Kicked Off’ ‘The Carol Burnett Show’ (Exclusive)",
+    "url": "https://people.com/vicki-lawrence-carol-burnett-show-kicked-off-exclusive-12247376",
+    "fuente": "People.com"
    }
   }
  },
@@ -3536,10 +3886,10 @@
   "tesla": {
    "termino": "tesla",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFzCV0H_PxLWf-ob0QAe8xY0Mtyzx9rOyg_OUFTPuql6zcUhbY1LAe7YqcPdE",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
@@ -3592,10 +3942,10 @@
   "nespresso": {
    "termino": "nespresso",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaBO6qTYwiMncNy4JnU54KVR2zblPnINJSOOrfyakxUbIn2oBmko3p5zVXc3I",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Walmart Black Friday Deals start now: Score early savings from Ninja, HP, Shark, Apple and more",
@@ -3606,42 +3956,42 @@
   "japão x brasil": {
    "termino": "japão x brasil",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkPo-QzBdOzCjenKFKdezJSZMIttU4uHkO2qR3UEZMV5N42ZzwdqHL6R1_Kk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFY5DfODDoI_ieD7cx2zthTLtzCqO7rxyVq1TbyEuf1HQiy_QOqJtyRNAIo_g",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Brasil leva dois no começo e reage com Vini, mas cai de novo contra o Japão",
-    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/brasil-x-japao-como-foi-o-amistoso.ghtm",
-    "fuente": "UOL"
+    "titulo": "Atuações da Seleção: Vini Jr. se destaca com golaços, e Ancelotti é expulso; dê suas notas",
+    "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/14/atuacoes-da-selecao-vini-jr-se-destaca-com-golacos-e-ancelotti-e-expulso-de-suas-notas.ghtml",
+    "fuente": "ge"
    }
   },
   "orlando weather": {
    "termino": "orlando weather",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgvHEIucduebtOrgrCtTukVNkTRKVRufJfAntdt1oMQNqd1SkaPINlkfcYkWo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9xi21KCw6mbGTi-0577oCv97P3mUtONkNYzebB76b6OCGekKocZrOjLKyGaQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Cool, Dry Air Has Taken Over. How Long Will It Last?",
-    "url": "https://www.winknews.com/weather/cool-dry-air-has-taken-over-how-long-will-it-last/article_36715f3c-5565-404b-a9aa-51da2eb7f94a.html",
+    "titulo": "The cold air is here! TAP To see how long it will last",
+    "url": "https://www.winknews.com/weather/the-cold-air-is-here-tap-to-see-how-long-it-will-last/article_5a2a7bea-80bc-4543-9d79-5317af324bee.html",
     "fuente": "WINK News - Southwest Florida"
    }
   },
   "japon – brésil": {
    "termino": "japon – brésil",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAq1rwnFjYHo8yKCIzWe3RnWWxiAtFhFOrrHvgCxHXgNTT60wmk73IxVJBwYo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "L'ère Neymar est finie, Carlo Ancelotti veut rajeunir le Brésil : « Nous construisons maintenant une nouvelle génération »",
-    "url": "https://www.lequipe.fr/Football/Actualites/Carlo-ancelotti-veut-rajeunir-le-bresil-nous-construisons-maintenant-une-nouvelle-generation/1743390",
+    "titulo": "Japon 3-2 Brésil, Matches amicaux A : match terminé",
+    "url": "https://www.lequipe.fr/Football/match-direct/matches-amicaux-a/2026-2027/japon-bresil-live/704835",
     "fuente": "L'Équipe"
    }
   },
@@ -3671,6 +4021,62 @@
     "titulo": "Strong storm system arrives Sunday",
     "url": "https://www.kbtx.com/2026/11/13/strong-storm-system-arrives-sunday/",
     "fuente": "KBTX News 3"
+   }
+  },
+  "measles elimination status": {
+   "termino": "measles elimination status",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPpCBB35-ZbqMoLvNe7AW8h4Ho3Nw9GKK75U0YIhQjJTivg89RmhcXe6pPRD8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "After 26 years, the US has lost its measles elimination status",
+    "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
+    "fuente": "CNN"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlqJiLtZ-8Z9JQOxoQ6eEfuJ-WoCGHdDbm5eIGFNnZ-DdTaEbo6tRa-syHOI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Fritz fires past Musetti, will face first-time finalist Tirante for Stockholm crown",
+    "url": "https://www.atptour.com/en/news/fritz-musetti-tabilo-tirante-stockholm-2026-sfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "duke football": {
+   "termino": "duke football",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJfe8vRzVWFyebavh0S83lqPteFX0MHp86YYpq9AbjJDfeNdvgND263-Pi1bM",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Miami vs. Duke prediction, odds, time: Week 11 college football picks by proven model",
+    "url": "https://www.cbssports.com/betting/news/miami-duke-prediction-odds-game-time-2026-week-11-college-football-picks/",
+    "fuente": "CBS Sports"
+   }
+  },
+  "ny times": {
+   "termino": "ny times",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ79hMTVKY3tf4cE0OPw06d8WXu_uFOkRkoBZhg-O_J6lRWxQ20nXWhjGBQJFQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
+    "url": "https://www.wsj.com/tech/in-jensen-huangs-ouster-tech-billionaires-see-a-mistakeand-a-lesson-2bea613c",
+    "fuente": "WSJ"
    }
   }
  },
@@ -4322,10 +4728,10 @@
   "santa cruz beach closures": {
    "termino": "santa cruz beach closures",
    "primera_vez": "2026-11-14T08:46:37Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 2000,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKxw5MzH_MM1msGfgCZNYJbU1t5bWV0H_fPXlTAl2nJoFqrVfsZ1Oy7PdJ98",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "2000+",
    "noticia": {
     "titulo": "Surfers Scramble to Mavericks in California to Catch Building-Size Waves",
@@ -4336,10 +4742,10 @@
   "hailey bieber": {
    "termino": "hailey bieber",
    "primera_vez": "2026-11-14T08:46:37Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTusXSbXcct54z15KcQukRUSEnJ3DPKRVOqyEGYgw_V4l9HS_WCqum39iYnvyk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Hailey Bieber’s Son Jack, 2, Shows Off Special Talent Following in Dad’s Footsteps in Never-Before-Seen Video",
@@ -4364,13 +4770,13 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T09:42:05Z",
-   "veces": 4,
-   "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "2000+",
+   "veces": 5,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
    "noticia": {
-    "titulo": "Japan vs Brazil: Friendlies stats & head-to-head",
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
     "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
     "fuente": "BBC"
    }
@@ -4378,15 +4784,15 @@
   "japón - brasil": {
    "termino": "japón - brasil",
    "primera_vez": "2026-11-14T10:38:36Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXzOTmkSr-RyHwvAU6xskcBtmwUFPa7vVfAILqDyztA-gJUXJq6SY2l5l8lmA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxxfUFuC4gwwpnxGSBCw1MD0cEmhH2LzlQf1ww7BQUCUpY1f2XTydSkASViaw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Vinicius diseñó un doblete con golazos ante Japón y superó los 16 goles con la Selección de Brasil",
-    "url": "https://es-us.noticias.yahoo.com/deportes/vinicius-dise%C3%B1%C3%B3-doblete-golazos-jap%C3%B3n-115300569.html",
-    "fuente": "Yahoo"
+    "titulo": "Japón 3- Brasil 2: resumen, resultado y goles del partido",
+    "url": "https://as.com/futbol/internacional/japon-brasil-en-vivo-amistoso-internacional-en-directo-hoy-f202611-d/",
+    "fuente": "Diario AS"
    }
   },
   "gas prices": {
@@ -4406,15 +4812,57 @@
   "taylor fritz": {
    "termino": "taylor fritz",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlqJiLtZ-8Z9JQOxoQ6eEfuJ-WoCGHdDbm5eIGFNnZ-DdTaEbo6tRa-syHOI",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Fritz fires past Musetti, will face first-time finalist Tirante for Stockholm crown",
     "url": "https://www.atptour.com/en/news/fritz-musetti-tabilo-tirante-stockholm-2026-sfs",
     "fuente": "ATP Tour"
+   }
+  },
+  "tormenta": {
+   "termino": "tormenta",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQso-HQIrGjZZx-fnHGtIZAPR7CxZKYCfqzu_xD2qFceJ77nYWYK_98MRIY7rg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ciclogénesis y frente frío: el fenómeno meteorológico que traerá más tormentas",
+    "url": "https://diariolaprovinciasj.com/zout/ciclogenesis-y-frente-frio-el-fenomeno-meteorologico-que-traera-mas-tormentas-397477/",
+    "fuente": "Diario La Provincia San Juan"
+   }
+  },
+  "go": {
+   "termino": "go",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhE9KBePHC71LYPAsl8NTDdJB1URjsH1AgwVR75CodHd2UY1lnz2Z8KFbAa0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "fuente": "Ars Technica"
+   }
+  },
+  "hltv": {
+   "termino": "hltv",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMvyYRlhE35rjTAUMZ7BU6zZ3MsvPl6GOevjtGpM9RImH2ZVmc3iVEysRXDTc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jorko, nEMANHA among eligible players for HLTV Rookie of the Year 2026",
+    "url": "https://www.dust2.us/news/79882/jorko-nemanha-among-eligible-players-for-hltv-rookie-of-the-year-2026",
+    "fuente": "Dust2.us"
    }
   }
  },
@@ -4940,13 +5388,13 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T10:38:36Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Japan vs Brazil: Friendlies stats & head-to-head",
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
     "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
     "fuente": "BBC"
    }
@@ -4954,29 +5402,29 @@
   "tormenta": {
    "termino": "tormenta",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwLgcTOllAPyZeP4jSKcuVoB4MIFpst-DWEtJrDNfvFKe3YEwGNvNbOmkMQpw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQso-HQIrGjZZx-fnHGtIZAPR7CxZKYCfqzu_xD2qFceJ77nYWYK_98MRIY7rg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Pronostican lluvias, chubascos y fuertes rachas de viento en cinco municipios de Baja California",
-    "url": "https://es-us.noticias.yahoo.com/pronostican-lluvias-chubascos-fuertes-rachas-022916451.html",
-    "fuente": "Yahoo"
+    "titulo": "Ciclogénesis y frente frío: el fenómeno meteorológico que traerá más tormentas",
+    "url": "https://diariolaprovinciasj.com/zout/ciclogenesis-y-frente-frio-el-fenomeno-meteorologico-que-traera-mas-tormentas-397477/",
+    "fuente": "Diario La Provincia San Juan"
    }
   },
   "japón - brasil": {
    "termino": "japón - brasil",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXzOTmkSr-RyHwvAU6xskcBtmwUFPa7vVfAILqDyztA-gJUXJq6SY2l5l8lmA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "1000+",
+   "veces": 3,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxxfUFuC4gwwpnxGSBCw1MD0cEmhH2LzlQf1ww7BQUCUpY1f2XTydSkASViaw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "Vinicius diseñó un doblete con golazos ante Japón y superó los 16 goles con la Selección de Brasil",
-    "url": "https://es-us.noticias.yahoo.com/deportes/vinicius-dise%C3%B1%C3%B3-doblete-golazos-jap%C3%B3n-115300569.html",
-    "fuente": "Yahoo"
+    "titulo": "Japón 3- Brasil 2: resumen, resultado y goles del partido",
+    "url": "https://as.com/futbol/internacional/japon-brasil-en-vivo-amistoso-internacional-en-directo-hoy-f202611-d/",
+    "fuente": "Diario AS"
    }
   },
   "gas prices": {
@@ -4991,6 +5439,62 @@
     "titulo": "Why is gasoline suddenly under $4 a gallon?",
     "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
     "fuente": "NPR"
+   }
+  },
+  "clima": {
+   "termino": "clima",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLYxdhrY3cP0CWjoEKbnXdSpFyYf4VAqLMYaFrYthOI2q88ig7Lc8z-4HQU64",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "La tormenta del viernes podría ser la primera de varias que afectarán la región",
+    "url": "https://www.kcra.com/article/la-tormenta-viernes-primera-de-varias-la-region/74416010",
+    "fuente": "KCRA"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlqJiLtZ-8Z9JQOxoQ6eEfuJ-WoCGHdDbm5eIGFNnZ-DdTaEbo6tRa-syHOI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Fritz fires past Musetti, will face first-time finalist Tirante for Stockholm crown",
+    "url": "https://www.atptour.com/en/news/fritz-musetti-tabilo-tirante-stockholm-2026-sfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "weather": {
+   "termino": "weather",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEyjH5j2Tl2fzzlTt2E8qVeh8I2wFpyEOFqqshxnwF9NEh3vWgnEQENKpdWXg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Sunny weekend, dry conditions continue | Nov 14, 2026",
+    "url": "https://www.yahoo.com/news/weather-news/articles/sunny-weekend-dry-conditions-continue-122431177.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "dale brown": {
+   "termino": "dale brown",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0jaUlkUfVVr52Opu-B68xcaybrW4anCnPcty3yXgC__fdcP4AC6upQY6mjk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "“Forgot to Tell Him I Love Him”: Prayers Pour In From Shaquille O’Neal While Mourning Deceased LSU Coach Dale Brown",
+    "url": "https://sports.yahoo.com/articles/forgot-tell-him-love-him-201922600.html",
+    "fuente": "Yahoo Sports"
    }
   }
  },
@@ -5773,6 +6277,141 @@
     "url": "https://www.bbc.com/sport/golf/articles/c3y0xlpkpg9lo",
     "fuente": "BBC"
    }
+  },
+  "paul st-pierre plamondon": {
+   "termino": "paul st-pierre plamondon",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsoqimQCSVDNzCrspOeaseUw0AtGQz6HN6w9W10gatYnl-4nA0DOeV_56w4ak",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Une ouverture... en anglais pour la Rencontre des entrepreneurs francophones au Cambodge",
+    "url": "https://www.tvanouvelles.ca/2026/11/14/une-ouverture-en-anglais-pour-la-rencontre-des-entrepreneurs-francophones-au-cambodge",
+    "fuente": "TVA Nouvelles"
+   }
+  },
+  "hungary": {
+   "termino": "hungary",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDahU2kl2U-QsWJoIZe6PB51KrOvBkO8nJGiJvbzvETbmsC8Xg4M3hV9YBYOQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "url": "https://www.bbc.com/news/articles/ckjwj03w4w0qo",
+    "fuente": "BBC"
+   }
+  },
+  "dp world tour leaderboard": {
+   "termino": "dp world tour leaderboard",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA5kbhvFyY5RyCUG96pCY8rTi29KW5uXLDxbEGcQ3d_9Tc_ntRrjd5YLR6bNQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "McIlroy and Hatton tied as Chacarra stays in hunt",
+    "url": "https://www.bbc.com/sport/golf/articles/c3y0xlpkpg9lo",
+    "fuente": "BBC"
+   }
+  },
+  "mark carney": {
+   "termino": "mark carney",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkhE1U_2uLQ8436_f5OLVuPzQMgTSPArPOBk9IPcDbbAGQ5ImERV0qwGkcYEk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Canada making progress in USMCA talks to ensure long-term viability of auto sector, Carney says",
+    "url": "https://www.theglobeandmail.com/politics/article-canada-making-progress-in-usmca-talks-to-ensure-long-term-viability-of/",
+    "fuente": "The Globe and Mail"
+   }
+  },
+  "bill gates": {
+   "termino": "bill gates",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEBa4-QIljVkAAt351o9J-Tdbbm6VlYKcHdvBsrBkN-blA9jYyPdYDtjqJaZk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Full transcript: Bill Gates on Meet the Press",
+    "url": "https://www.nbcnews.com/meet-the-press/transcripts/full-transcript-bill-gates-meet-press-rcna609207",
+    "fuente": "NBC News"
+   }
+  },
+  "légion royale canadienne": {
+   "termino": "légion royale canadienne",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+"
+  },
+  "noel fielding": {
+   "termino": "noel fielding",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6aa6-6EWnYyhnTaIzgtNHW3GBXau4sGrfpQQIdOqmfnl-ZppaOe_CvQ8Hhr4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Noel Fielding breaks silence on Brand rape shame…read his shock statement",
+    "url": "https://www.thesun.co.uk/tvandshowbiz/41013330/noel-fielding-addresses-russell-brand-friendship/",
+    "fuente": "The Sun"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuObqHIdr-ty39uy7b4awDymi26vHRl4y0ixYjh4lla3VIO1AgIGDV7bOpLLE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Musetti survives Humbert in Stockholm, Fritz into SFs after Rune withdraws",
+    "url": "https://www.atptour.com/en/news/stockholm-2026-thursday-report-qfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "muscle": {
+   "termino": "muscle",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlLtjfFjaoZMEmPO7m2ywrvzTHBw0AMhLGjaEWzou-x4IJrhlg-CXEn3lwDFc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Should You Take a Creatine Supplement?",
+    "url": "https://healthtalk.unchealthcare.org/should-you-take-a-creatine-supplement/",
+    "fuente": "UNC Health Talk"
+   }
+  },
+  "michael hage": {
+   "termino": "michael hage",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcUp5TbYT14aVPFYSHoOv9BzL5IF7saf6NjZyvYuneJjljB_YJV1wIO9z_j0g",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Prospects Report: Why Canadiens fans should be 'really excited' about Michael Hage",
+    "url": "https://www.sportsnet.ca/nhl/article/prospects-report-why-canadiens-fans-should-be-really-excited-about-michael-hage/",
+    "fuente": "Sportsnet.ca"
+   }
   }
  },
  "CA/toronto": {
@@ -6236,10 +6875,10 @@
   "vivienne jolie": {
    "termino": "vivienne jolie",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FlXB9lIJILrOJ65nv3pKxQMD5pr-lvgd18qESJSVNK_it9oxPbx37Lcmdh4",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
@@ -6287,6 +6926,132 @@
     "titulo": "PAK19",
     "url": "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/india-under-19s-vs-pakistan-under-19s-final-1558444/live-cricket-score",
     "fuente": "Cricinfo"
+   }
+  },
+  "rockstar games gta vi": {
+   "termino": "rockstar games gta vi",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK3VnLjGWEoRjZ3X5S6YyCNireqvfLrwJU5xiLjx7yw31oryd5BPCFVKMVaas",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Xbox advertising leader: 'There is zero world' where ads appear in every game | GamesBeat Next 2026",
+    "url": "https://gamesbeat.com/xbox-advertising-leader-there-is-zero-world-where-ads-appear-in-every-game-gamesbeat-next-2026/",
+    "fuente": "GamesBeat"
+   }
+  },
+  "hungary": {
+   "termino": "hungary",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDahU2kl2U-QsWJoIZe6PB51KrOvBkO8nJGiJvbzvETbmsC8Xg4M3hV9YBYOQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "url": "https://www.bbc.com/news/articles/ckjwj03w4w0qo",
+    "fuente": "BBC"
+   }
+  },
+  "mark carney": {
+   "termino": "mark carney",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkhE1U_2uLQ8436_f5OLVuPzQMgTSPArPOBk9IPcDbbAGQ5ImERV0qwGkcYEk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Canada making progress in USMCA talks to ensure long-term viability of auto sector, Carney says",
+    "url": "https://www.theglobeandmail.com/politics/article-canada-making-progress-in-usmca-talks-to-ensure-long-term-viability-of/",
+    "fuente": "The Globe and Mail"
+   }
+  },
+  "muscle": {
+   "termino": "muscle",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlLtjfFjaoZMEmPO7m2ywrvzTHBw0AMhLGjaEWzou-x4IJrhlg-CXEn3lwDFc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Should You Take a Creatine Supplement?",
+    "url": "https://healthtalk.unchealthcare.org/should-you-take-a-creatine-supplement/",
+    "fuente": "UNC Health Talk"
+   }
+  },
+  "international ice hockey federation": {
+   "termino": "international ice hockey federation",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRaVAhp8NSW6_ZhZm9pFEMJFXod26YVTYCSByIcKp3MIvPOxZl9yFfoMQCYWo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Russia pushes for relocation or cancellation of world juniors over Canada ban",
+    "url": "https://www.espn.com/olympics/hockey/story/_/id/50467435/russia-relocate-cancel-world-junior-hockey-canada",
+    "fuente": "ESPN"
+   }
+  },
+  "pakistan u-19 vs india u-19": {
+   "termino": "pakistan u-19 vs india u-19",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGMBNyQlJD1YeenjGiX2SbF2hanemlQsFw4oRRDRAwGKyGx-RFw8x_xZswaoI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "PAKU19 vs INDU19, Final, ACC Men's U19 Asia Cup 2026 - Commentary",
+    "url": "https://www.cricbuzz.com/live-cricket-scores/175720/paku19-vs-indu19-final-acc-mens-u19-asia-cup-2026",
+    "fuente": "Cricbuzz"
+   }
+  },
+  "pension": {
+   "termino": "pension",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuysSApsLWNiSMSCwx3bNN8VG0mNmUipy3lhvnuunq2xNx2vacyaKKQ--kiUo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "How can benefits, pension plan sponsors manage the legal risks of AI chatbots?",
+    "url": "https://www.benefitscanada.com/archives_/benefits-canada-archive/how-can-benefits-pension-plan-sponsors-manage-the-legal-risks-of-ai-chatbots/",
+    "fuente": "Benefits Canada.com"
+   }
+  },
+  "sophie cunningham": {
+   "termino": "sophie cunningham",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr9MMuRuLU3XSAoMmWpbzaDcWtOVvZ0YpsiKNP8r7u3_zCM1XaS0TxvGJYXpA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Sophie Cunningham laughs at Stephen A Smith's belittling claim about White NBA players",
+    "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-laughs-stephen-smith-belittling-claim-white-nba-players",
+    "fuente": "Fox News"
+   }
+  },
+  "ontario snow forecast": {
+   "termino": "ontario snow forecast",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwFeWm5F1xurMeQk7mxcj3u9kN6CCxVjfjQG6d55SPwKBnjBCvbZg4KmAjmfg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "0 degrees and flurries: Southern Ontario gets a taste of winter",
+    "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/0-degrees-and-flurries-southern-ontario-gets-a-taste-of-winter",
+    "fuente": "The Weather Network"
    }
   }
  },
@@ -6555,13 +7320,13 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Japan vs Brazil: Friendlies stats & head-to-head",
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
     "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
     "fuente": "BBC"
    }
@@ -6569,38 +7334,38 @@
   "météo": {
    "termino": "météo",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 5000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuiGELE-3jwlWDBmN6odqti4jKgLYBPf3VdSYLOpr0y0pc-RR9EPxN3muYOSI",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "5000+",
+   "veces": 2,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRdsDIXvOcQI4k6_FqM9246LzgfYbu-DAQvsKH5GyeXBAgWxRSHM_OzJuxIr8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "10000+",
    "noticia": {
-    "titulo": "Jet-stream à 300 km/h : comment il pourrait accentuer le risque de tempête la semaine prochaine",
-    "url": "https://www.meteoconsult.fr/actualites-meteo/2026-11-13/94194-jet-stream-a-300-km-h-comment-il-pourrait-accentuer-le-risque-de-tempete-la-semaine-prochaine",
-    "fuente": "METEO CONSULT"
+    "titulo": "\"Les cumuls pourront atteindre 80 à 120mm, voire 150 localement\" : un épisode de fortes précipitations attendu, Vigilance Orange pour les Bouches-du-Rhône",
+    "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/les-cumuls-pourront-atteindre-80-a-120mm-voire-150-localement-un-episode-de-fortes-precipitations-attendu-vigilance-orange-pour-les-bouches-du-rhone-3449628.html",
+    "fuente": "France 3 Régions"
    }
   },
   "weather": {
    "termino": "weather",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUANbl6HejCssxXqna_aVFvn_KKeViQLTWboqGzQlFt9lUTRnZGsFhE_VOxw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRiygY5DMCwgEOqS3PJnP7JafbThg76rHoONmyqupsmGrU4FHrK31j_-xI874",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Could we see flurries fly? Here’s what we can expect",
-    "url": "https://www.ctvnews.ca/barrie/article/could-barrie-receive-its-first-snowfall-this-week-heres-whats-in-the-forecast/",
-    "fuente": "CTV News"
+    "titulo": "Good morning, North Bay! Here's today's weather!",
+    "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12997668",
+    "fuente": "BayToday.ca"
    }
   },
   "tiempo": {
    "termino": "tiempo",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvhrqM-3Iu-dX_GLb7ZPhk0PmpMbKloPQaPRvCdLImmdF3eZHAcZuvX61LRsI",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Clima: cielo nublado en el AMBA y más de 11 provincias bajo alerta por tormentas",
@@ -6611,24 +7376,75 @@
   "clima": {
    "termino": "clima",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "500+"
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+"
   },
   "ukraine": {
    "termino": "ukraine",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkm6AMWDgxClwMBnVf5KvHFacmO4ZXamURDjScP1ZG32WKcVceXx771bmxDkM",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
     "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
     "fuente": "BBC"
+   }
+  },
+  "légion royale canadienne": {
+   "termino": "légion royale canadienne",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+"
+  },
+  "nespresso": {
+   "termino": "nespresso",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaBO6qTYwiMncNy4JnU54KVR2zblPnINJSOOrfyakxUbIn2oBmko3p5zVXc3I",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Walmart Black Friday Deals start now: Score early savings from Ninja, HP, Shark, Apple and more",
+    "url": "https://shopping.yahoo.com/deals/breaking-news/article/walmart-black-friday-deals-start-now-score-early-savings-from-ninja-hp-shark-apple-and-more-115816712.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "paul st-pierre plamondon": {
+   "termino": "paul st-pierre plamondon",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsoqimQCSVDNzCrspOeaseUw0AtGQz6HN6w9W10gatYnl-4nA0DOeV_56w4ak",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Une ouverture... en anglais pour la Rencontre des entrepreneurs francophones au Cambodge",
+    "url": "https://www.tvanouvelles.ca/2026/11/14/une-ouverture-en-anglais-pour-la-rencontre-des-entrepreneurs-francophones-au-cambodge",
+    "fuente": "TVA Nouvelles"
+   }
+  },
+  "gaz": {
+   "termino": "gaz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_Wi0QepVVWZ4r0d2qN6YrtTQBBe1JgPUDVBodVpcTqO9Q2vgUeluMOSCvAco",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "« Ça me coûte 100 $ de gaz par jour » : elle veut être branchée par Hydro avant l'hiver",
+    "url": "https://www.journaldemontreal.com/2026/11/14/ca-me-coute-100--de-gaz-par-jour---elle-veut-etre-branchee-par-hydro-avant-lhiver",
+    "fuente": "Le Journal de Montréal"
    }
   }
  },
@@ -6804,15 +7620,15 @@
   "predators vs golden knights": {
    "termino": "predators vs golden knights",
    "primera_vez": "2026-11-14T04:05:16Z",
-   "veces": 9,
+   "veces": 10,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0X6m0cECR9nNCahlLlYdlzpysTmtNYZJp8cIn2igr1WO4TBOb9EUkD7Kyhgk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7o7OqACCliwyPfz6mUTjpTSJecmrD4TompNqVP8jg3REQXIO-lID01XJu9GU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "NHL On Tap: Winning streaks collide for Predators, Golden Knights",
-    "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-13-2026",
-    "fuente": "NHL.com"
+    "titulo": "Spurs 123-85 Warriors (Nov 13, 2026) Game Recap",
+    "url": "https://www.espn.com/nba/recap/_/gameId/401909302",
+    "fuente": "ESPN"
    }
   },
   "national weather service radar outage": {
@@ -6888,15 +7704,15 @@
   "dylan garand": {
    "termino": "dylan garand",
    "primera_vez": "2026-11-14T04:49:30Z",
-   "veces": 9,
+   "veces": 10,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9OUSYcLzyBEDbhHqgyzUyxbewAWf9LkHqd2avVwi1IX4IQGxsidJI25Wvalw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSEo6WEW9r1y-AGiZfLXKoAmo-I-doDMdNuA5dLSiTavJvxk_7sccjYqkecmU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Victoria native Dylan Garand adjusting to life as Rangers’ sudden starting goalie",
-    "url": "https://canucksarmy.com/news/victoria-dylan-garand-adjusting-life-new-york-rangers-sudden-starting-goalie",
-    "fuente": "Canucks Army"
+    "titulo": "Ramblings: Another Quality Start for Garand, Saves for Saros, Roto Rankings Preview (Nov 14)",
+    "url": "https://dobberhockey.com/2026/11/14/ramblings-another-quality-start-for-garand-saves-for-saros-roto-rankings-preview-nov-14/",
+    "fuente": "DobberHockey"
    }
   },
   "canucks game": {
@@ -6916,24 +7732,24 @@
   "black friday sales": {
    "termino": "black friday sales",
    "primera_vez": "2026-11-14T06:53:25Z",
-   "veces": 7,
+   "veces": 8,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQhbRIHYv9B_ABSbMYRzK_tlL28iY2zu514OAg-JxoFevpkGAbpKOowefAGWg",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzwUaucWHE2EzThN-JH4NjotQMXmYgQ2DeNKYgcC4q3zpOwZBF2nbCPPyJy4s",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "I found 41 early Black Friday deals worth shopping ahead of Thanksgiving week",
-    "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-09",
-    "fuente": "CNN"
+    "titulo": "Sonnet Black Friday Sale Offers Up to 20% Off Select Thunderbolt 5 Docks and Display Adapters",
+    "url": "https://www.digitalstudioindia.com/technology/sonnet-black-friday-sale",
+    "fuente": "Digital Studio India"
    }
   },
   "thunder vs clippers": {
    "termino": "thunder vs clippers",
    "primera_vez": "2026-11-14T06:53:25Z",
-   "veces": 7,
+   "veces": 8,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOPRGpdIfGDIzrVEy--bz8XHrgFKJ0LKHtqSTNjXdmTiN7I3sAz_hWurfN654",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Clippers overcome 40 points from SGA, use late run to slip past Thunder",
@@ -6944,10 +7760,10 @@
   "netflix": {
    "termino": "netflix",
    "primera_vez": "2026-11-14T08:46:37Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGl1SE9Sov2KJfNJhr9_Xwm1P7ptdk8RAKqejMPah2o3HmX1cNvrImQIwJiY8",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Netflix Reveals Magic: The Gathering Animated Series PLANESWALKER",
@@ -6958,10 +7774,10 @@
   "ufc 334": {
    "termino": "ufc 334",
    "primera_vez": "2026-11-14T09:42:05Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpLdzSTCv8KUiX_lNbERUGQpIKTaEptwEL_5dSJB8uGc26f3sjcIEu_UYSMk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Hokit ‘looking to be a legend’ ahead of Gane showdown",
@@ -6972,13 +7788,13 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKslrteTvaj5lVdAHSjo5ctBYlIYykUkxKdNQx7xOhYQOY9ULLie9HYo-ZsYc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Japan vs Brazil: Friendlies stats & head-to-head",
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
     "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
     "fuente": "BBC"
    }
@@ -6986,15 +7802,43 @@
   "country music": {
    "termino": "country music",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX3vYNxHNc0xG2UXHQJFqkwQtPeAxyjvZdLGP0HPTLbRHnzhPAkcn_mqQDSac",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Is Taylor Swift Participating in the Dolly Parton Tribute at CMA Awards 2026? The Truth",
     "url": "https://www.eonline.com/ca/news/1438024/taylor-swift-is-not-performing-in-dolly-parton-tribute-at-cma-awards-2026",
     "fuente": "E! News"
+   }
+  },
+  "ukraine": {
+   "termino": "ukraine",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkm6AMWDgxClwMBnVf5KvHFacmO4ZXamURDjScP1ZG32WKcVceXx771bmxDkM",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
+    "fuente": "BBC"
+   }
+  },
+  "vegas golden knights": {
+   "termino": "vegas golden knights",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOngoOtmq6vkqhd4W-rd8nc4LEL3vdWQTzR-DHZCvxgxqYzQuym22ScuyFnU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Josi lifts Predators past Golden Knights in shootout for seventh straight win",
+    "url": "https://www.sportsnet.ca/nhl/article/josi-lifts-predators-past-golden-knights-in-shootout-for-seventh-straight-win/",
+    "fuente": "Sportsnet.ca"
    }
   }
  },
@@ -7352,15 +8196,15 @@
   "brazil vs": {
    "termino": "brazil vs",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhh4KGI1pnDIW5DFc5aL5OxxbodwXBxS2HnPr1irtAhi3xlBFNzvHn3Y5FzA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "500+",
+   "veces": 3,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Japan v Brazil LIVE: Latest score and goal updates in Singapore friendly",
-    "url": "https://www.independent.co.uk/sport/football/japan-vs-brazil-live-score-result-friendly-b3084644.html",
-    "fuente": "The Independent"
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
+    "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
+    "fuente": "BBC"
    }
   },
   "prisión": {
@@ -7422,11 +8266,11 @@
   "el niño costero": {
    "termino": "el niño costero",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwh4Gg_sDQt4ovVVrjiz6H9v2_Gl-NJEawp6LnTC26r0lmugtcUzD4JLaE3jk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "ENFEN alerta que El Niño costero se extendería hasta inicios del invierno de 2027",
     "url": "https://rpp.pe/peru/actualidad/enfen-alerta-que-el-nino-costero-se-extenderia-hasta-inicios-del-invierno-de-2027-noticia-1717743",
@@ -7436,19 +8280,19 @@
   "maría camila pantoja": {
    "termino": "maría camila pantoja",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+"
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+"
   },
   "jairo concha": {
    "termino": "jairo concha",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2wFUFcASHVZ9S97P716KJ17MI-EYE-IEd6LZFA0STqZbRDStKbzJSGY8RyIM",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Jairo Concha mantiene en suspenso su renovación con Universitario de Deportes",
@@ -7468,6 +8312,90 @@
     "titulo": "BCR sube su tasa de interés a 4.5% por primera vez en casi cuatro años ante repunte de la inflación",
     "url": "https://rpp.pe/economia/economia/bcr-sube-la-tasa-de-interes-de-referencia-a-45-luego-de-14-meses-ante-repunte-de-la-inflacion-noticia-1717536",
     "fuente": "RPP Noticias"
+   }
+  },
+  "chelsea - man city": {
+   "termino": "chelsea - man city",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTJRJJm-k26id0daSxAsBAgS7Z5ijh6IXBmUEMEQ2SKdeA8YSAzbz-HkKzx4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Confirmed Chelsea Women line up vs Manchester City | News | Official Site",
+    "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-manchester-city",
+    "fuente": "Chelsea Football Club"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1iRq9PxG0_yPBgc2dQ-710dDpQwOI9NxX-jgxejzPEOEH_oCIfeGVtCbIN8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "“Makes Me More Uncomfortable”: Taylor Fritz Offers Honest Take on Carlos Alcaraz and Jannik Sinner’s Edge",
+    "url": "https://twaslnews1.twaslnews.com/7658752/",
+    "fuente": "شبكة تواصل الإخبارية"
+   }
+  },
+  "portugal vs. noruega": {
+   "termino": "portugal vs. noruega",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Portugal vs Denmark: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmgj9jnvxx2qt",
+    "fuente": "BBC"
+   }
+  },
+  "camila fernández": {
+   "termino": "camila fernández",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJlID9EBNcPIFdnDXuenMvqaTRdtIYfGLNGUdtOL25kZLiLsjWnt-aP90EL6Q",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "On Winning First Latin Grammy, Camila Fernández Thanks Baby She’s Carrying for ‘Strength to be Here’",
+    "url": "https://www.billboard.com/music/latin/camila-fernandez-latin-grammys-tears-baby-1236381244/",
+    "fuente": "Billboard"
+   }
+  },
+  "irlanda del norte vs": {
+   "termino": "irlanda del norte vs",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSykI0l0afoeYhsUwNgAx9R4AwIMgugY_GBZpoBg7gVX7oWV7QxQNQllUnQhAU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Pronóstico Irlanda Del Norte Ucrania - Nations League 14/11/26",
+    "url": "https://www.sportytrader.com/es/pronosticos/irlanda-del-norte-ucrania-387107/",
+    "fuente": "SportyTrader"
+   }
+  },
+  "club atlético boca juniors": {
+   "termino": "club atlético boca juniors",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsiFvlCAQ9S5HR6JvhZbgiOHYZvPRlBNo-1J70KPYOxsoamUECyETMR1HP9eU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Boca Juniors y Banfield se medirán por un lugar en la final de la Copa Argentina: hora, TV y formaciones",
+    "url": "https://www.infobae.com/deportes/2026/11/14/boca-juniors-y-banfield-se-mediran-por-un-lugar-en-la-final-de-la-copa-argentina-hora-tv-y-formaciones/",
+    "fuente": "Infobae"
    }
   }
  },
@@ -7797,11 +8725,11 @@
   "desalojo": {
    "termino": "desalojo",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 1000,
+   "veces": 3,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSencBU3eO3lk4TD70qDgWXmjLfzUgiFqGkD7_JC4299-w87o7Z4Fx9XHmcTnw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "1000+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "La abogada que cobró $12 millones a desalojados de megatoma en Cerrillos",
     "url": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/11/14/la-abogada-y-embajadora-de-jesucristo-que-cobro-12-millones-a-desalojados-de-megatoma-en-cerrillos.shtml",
@@ -7811,10 +8739,10 @@
   "clima concepcion": {
    "termino": "clima concepcion",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR54iaZuD6hmYU7_hn9oj0Fkm0ctw6NQWuHRgZa8Bwe9kqkWIIPjWViUiEdWc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Concepción | tiempo hoy, 13 de noviembre: pronóstico completo",
@@ -7853,25 +8781,25 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVhh4KGI1pnDIW5DFc5aL5OxxbodwXBxS2HnPr1irtAhi3xlBFNzvHn3Y5FzA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Japan v Brazil LIVE: Latest score and goal updates in Singapore friendly",
-    "url": "https://www.independent.co.uk/sport/football/japan-vs-brazil-live-score-result-friendly-b3084644.html",
-    "fuente": "The Independent"
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
+    "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
+    "fuente": "BBC"
    }
   },
   "taylor fritz": {
    "termino": "taylor fritz",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWB8X099NeATB829C7sfdJGTgBrABtC_kHTduw8T6Bgtp3-6geqy5QDoBDBGc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "\"I feel like there are days where I can play on that level\" - Taylor Fritz explains why Carlos Alcaraz is tougher to play than Jannik Sinner",
     "url": "https://tennisuptodate.com/atp/i-feel-like-there-are-days-where-i-can-play-on-that-level-taylor-fritz-explains-why-carlos-alcaraz-is-tougher-to-play-than-jannik-sinner",
@@ -7881,29 +8809,57 @@
   "japon – brésil": {
    "termino": "japon – brésil",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgAk3b63hrok72OW9JN069MjbF0ccLorXKfkMP9uV551rR1MY2wPyhf1MWxQ",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3g4zsd45vZVHhS3J5WspyhoILtA6ikERzz6_LXdO6yM2zxYd9K6uHsSd1QFU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Brésil-Japon : Vinicius Junior relance la Seleção, 1-2",
-    "url": "https://africafootunited.com/bresil-japon-vinicius-junior-relance-la-selecao-1-2/",
+    "titulo": "Brésil-Japon : Vinicius Junior s’offre un doublé et ramène la Seleção à 2-2",
+    "url": "https://africafootunited.com/bresil-japon-vinicius-junior-soffre-un-double-et-ramene-la-selecao-a-2-2/",
     "fuente": "AfricaFootUnited"
    }
   },
   "vinícius júnior": {
    "termino": "vinícius júnior",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_KAk5jdFc4Oq2wVNykyisXyFxI5CpH2jdVT0mZ9FsqdtAr7G9Ykn9mDkKQCo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Ancelotti indica fim de testes em 2027 e manda recado para clubes: “Prioridade é a saúde do atleta”",
     "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/13/ancelotti-indica-fiz-de-testes-em-2027-e-manda-recado-para-clubes-prioridade-e-a-saude-do-atleta.ghtml",
     "fuente": "ge"
+   }
+  },
+  "raphinha": {
+   "termino": "raphinha",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1RQNN_jZZa2Ji9955iRWsN9JoUlbCgmQaM5ILcUIoD8ozPygYZQCglkmus8c",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Barcelona enfrenta una incómoda situación con Raphinha en plena fecha FIFA",
+    "url": "https://www.encancha.cl/internacional/2026/11/11/barcelona-enfrenta-una-incomoda-situacion-con-raphinha-en-plena-fecha-fifa-324827.html",
+    "fuente": "En Cancha"
+   }
+  },
+  "coquimbo vs ohiggins": {
+   "termino": "coquimbo vs ohiggins",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDS0KdCexRpZyj_T7dEzcrVL98Ho2rKoadx5DB5cDIKQ57HplNCCc0BA-xuPw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "A qué hora se enfrentan Coquimbo y O'Higgins por la final de la Copa de la Liga, las probables formaciones y el premio para el campeón",
+    "url": "https://www.emol.com/noticias/Deportes/2026/11/14/1217096/coquimbo-ohiggins-copadelaliga-premio-hora.html",
+    "fuente": "Emol"
    }
   }
  },
@@ -8424,39 +9380,39 @@
   "thiago agustín tirante": {
    "termino": "thiago agustín tirante",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn6mtLMoA_Jhdy1vHOFwD97X0kOxLPDKf8veiBOgNhDo0hxIOl0zqJOLcMzw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "1000+",
-   "noticia": {
-    "titulo": "Thiago Tirante alcanzó su primera final de ATP",
-    "url": "https://www.pagina12.com.ar/2026/11/13/thiago-tirante-alcanzo-su-primera-final-de-atp/",
-    "fuente": "Página|12"
-   }
-  },
-  "tirante": {
-   "termino": "tirante",
-   "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 1000,
+   "veces": 2,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlqJiLtZ-8Z9JQOxoQ6eEfuJ-WoCGHdDbm5eIGFNnZ-DdTaEbo6tRa-syHOI",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "1000+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "Fritz fires past Musetti, will face first-time finalist Tirante for Stockholm crown",
     "url": "https://www.atptour.com/en/news/fritz-musetti-tabilo-tirante-stockholm-2026-sfs",
     "fuente": "ATP Tour"
    }
   },
+  "tirante": {
+   "termino": "tirante",
+   "primera_vez": "2026-11-14T12:42:43Z",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3aNFqClqjKj0-Q5VtszZvxgyCofuun84t1cjxDT2vN5uDi1zj_QZGKQp62I",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Arthur Rinderknech vs Miomir Kecmanovic Preview & Prediction | 2026 Stockholm Open | First Round",
+    "url": "https://www.thestatszone.com/arthur-rinderknech-vs-miomir-kecmanovic-preview-prediction-2026-stockholm-open-first-round-237309",
+    "fuente": "The Stats Zone"
+   }
+  },
   "james vowles": {
    "termino": "james vowles",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOmuYQ9kD22ntSDhgfbXGfFQT0mrgbHl9QLf_o26QRplZvlx5fLtBo74cNVak",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Mano a mano con James Vowles, jefe de Williams: los problemas de 2026, su F1 ideal y qué dijo de un posible regreso de Colapinto",
     "url": "https://www.infobae.com/deportes/2026/11/14/mano-a-mano-con-james-vowles-jefe-de-williams-los-problemas-de-2026-su-f1-ideal-y-que-dijo-de-un-posible-regreso-de-colapinto/",
@@ -8480,15 +9436,15 @@
   "rocío robles": {
    "termino": "rocío robles",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv2UQcb2sxqyXqlKIZijM9F_M8nOBV-haCkIKndLYFC46S3QT2pXY-sNmX1hw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4gkzfFuzgDmvRjpBhO0aWQQ75ftRRBGVthqkDJx7w3tg3p0XlJ7c81dk2BU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "En fotos. Todos los invitados al primer aniversario de Casa Palanti a beneficio de la Fundación del Hospital de Clínicas",
-    "url": "https://www.lanacion.com.ar/que-sale/en-fotos-todos-los-invitados-al-primer-aniversario-de-casa-palanti-a-beneficio-de-la-fundacion-del-nid13112026/",
-    "fuente": "La Nación"
+    "titulo": "Polémica en la grabación de PH: Podemos Hablar por una pregunta de Rocío Robles a Daniela Celis: “Se me transformó la cara”",
+    "url": "https://www.infobae.com/teleshow/2026/11/13/escandalo-en-la-grabacion-de-ph-podemos-hablar-por-una-pregunta-de-rocio-robles-a-daniela-celis-se-me-transformo-la-cara/",
+    "fuente": "Infobae"
    }
   },
   "los pumas": {
@@ -8503,6 +9459,62 @@
     "titulo": "Cuándo juegan Los Pumas ante Italia por el Nations Championship: horario, formaciones y cómo ver EN VIVO",
     "url": "https://www.espn.com.ar/rugby/nota/_/id/17510795/rugby-los-pumas-italia-nations-championship-horario-vivo-resultado-argentina",
     "fuente": "ESPN Argentina"
+   }
+  },
+  "raphinha": {
+   "termino": "raphinha",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSlSL1eQC645gf7bc0n1MzfKZpNbajXKAnZ8veUtJkVd55volqRnPq3u3i5Ng",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "La calentura de Brasil tras la derrota sobre la hora ante Japón: Carlo Ancelotti y Raphinha invadieron la cancha y fueron expulsados",
+    "url": "https://www.ole.com.ar/futbol-internacional/america/brasil-japon-carlo-ancelotti-raphinha_0_SbSh4CiRU8.html",
+    "fuente": "Olé"
+   }
+  },
+  "copa potrero": {
+   "termino": "copa potrero",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYdrCpfm0-UHmP_ZFTGfk9qOBPdF8lNSpAHafvFOkuPYKhxtc52NoiIcC8oc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Fixture de la Copa Potrero 2026: día, hora y resultados de los partidos",
+    "url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17506367/copa-potrero-2026-fixture-calendario-resultados-partidos",
+    "fuente": "ESPN Argentina"
+   }
+  },
+  "atp estocolmo": {
+   "termino": "atp estocolmo",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKn6mtLMoA_Jhdy1vHOFwD97X0kOxLPDKf8veiBOgNhDo0hxIOl0zqJOLcMzw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Thiago Tirante alcanzó su primera final de ATP",
+    "url": "https://www.pagina12.com.ar/2026/11/13/thiago-tirante-alcanzo-su-primera-final-de-atp/",
+    "fuente": "Página|12"
+   }
+  },
+  "atlético fútbol club": {
+   "termino": "atlético fútbol club",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7wUjShxzc5rN2bquAczC3__LIffdNj0ufwNnZFTaX9Xg2fBe6VTVeHABCqTI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "El Atleti se convierte en accionista del Atlético FC de Guayaquil",
+    "url": "https://www.infobae.com/america/agencias/2026/11/13/el-atleti-se-convierte-en-accionista-del-atletico-fc-de-guayaquil/",
+    "fuente": "Infobae"
    }
   }
  },
@@ -9397,6 +10409,113 @@
     "url": "https://nos.nl/artikel/2639457-sinterklaasmysterie-na-weken-onthuld-gijs-naber-volgt-stefan-de-walle-op",
     "fuente": "NOS"
    }
+  },
+  "fútbol club barcelona atlètic": {
+   "termino": "fútbol club barcelona atlètic",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThHQ3j8LeanHM0Y7jQ1qtH-WoePmYE9G2TruPSqplnd2EYwWD6PlQw6sau8p8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Se confirma la cacicada: la RFEF obliga al Barça Atlètic a jugar con solo 10 fichas de filial",
+    "url": "https://www.sport.es/es/noticias/barca/futbol-base/confirma-cacicada-rfef-obliga-barca-136434173",
+    "fuente": "SPORT"
+   }
+  },
+  "dani alves": {
+   "termino": "dani alves",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zIuKb15S76dlsKA6pbD0xQ1qhDbVlWkpNj1vBtvE3sfjpenBru4r-8GV8nw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Dani Alves y Joana Sanz se separan tras nueve años de matrimonio por la creciente fe del exfutbolista",
+    "url": "https://elpais.com/gente/2026-11-14/dani-alves-y-joana-sanz-se-separan-tras-nueve-anos-de-matrimonio-por-la-creciente-fe-del-exfutbolista.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "roberto leal": {
+   "termino": "roberto leal",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEPDil9JpAaCSYWJn1y0oyg4m6AlCu8d0cgqRhwnWfGMP5xM2aBlZuMI8eSZk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ruth de Andrés: \"Acostumbrarse a la dicción de Carlos Sobera es complicado. No dicta igual que Roberto Leal o Christian Gálvez\"",
+    "url": "https://www.elconfidencial.com/television/programas-tv/2026-11-11/ruth-de-andres-carlos-sobera-diccion-roberto-leal-christian-galvez_4462574/",
+    "fuente": "El Confidencial"
+   }
+  },
+  "posiciones de real club deportivo espanyol contra cd tenerife femenino": {
+   "termino": "posiciones de real club deportivo espanyol contra cd tenerife femenino",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+"
+  },
+  "augc": {
+   "termino": "augc",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0MRAtW39my1mGsuKJE1qmkKD5fGQGl2b-pRbCMwxxJEqbUKICVHOAcobnGxE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "La Guardia Civil sigue exigiendo informes médicos que el Consejo de Estado mandó suprimir",
+    "url": "https://augc.org/article/noticias/la-guardia-civil-sigue-exigiendo-informes-medicos-que-el-consejo-de-estado-mando-suprimir",
+    "fuente": "Asociación Unificada de Guardias Civiles :: AUGC"
+   }
+  },
+  "desfile disney vigo": {
+   "termino": "desfile disney vigo",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeva5WFBQbqG0nSgPsIi38fzE6ghn-VpLwukgDgNvqGPxg6MzjOwltJt9PupI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Vigo inicia el espectáculo de luces navideñas con un desfile con los personajes de Disney",
+    "url": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2026/11/14/vigo-inicia-espectaculo-luces-navidenas-desfile-personajes-disney/0003_202611G14P12991.htm",
+    "fuente": "La Voz de Galicia"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuObqHIdr-ty39uy7b4awDymi26vHRl4y0ixYjh4lla3VIO1AgIGDV7bOpLLE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Musetti survives Humbert in Stockholm, Fritz into SFs after Rune withdraws",
+    "url": "https://www.atptour.com/en/news/stockholm-2026-thursday-report-qfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "oriol junqueras": {
+   "termino": "oriol junqueras",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy0HilztzPj301Fiu9GB7jx1lLim9FFkmThkDW8SviJ5saWrgun0CFDhscnwo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "ERC critica que Junts se sitúe “en medio” y pide un castigo en las urnas para Nogueras, el PSC y los comunes",
+    "url": "https://www.lavanguardia.com/politica/20261114/11684287/erc-critica-junts-situe-medio-pide-castigo-urnas.html",
+    "fuente": "La Vanguardia"
+   }
   }
  },
  "ES/madrid": {
@@ -9949,13 +11068,13 @@
   "japan vs brazil": {
    "termino": "japan vs brazil",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Japan vs Brazil: Friendlies stats & head-to-head",
+    "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
     "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
     "fuente": "BBC"
    }
@@ -9963,10 +11082,10 @@
   "sindicato": {
    "termino": "sindicato",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSx2yk0N-n9tYeY4fBMreuEIEej4u7LL-yKGq5wgDN_SZ22uVt2BymQfttNKc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "El paso en falso de unos sindicatos que temen que se les acabe el chollo",
@@ -9977,29 +11096,29 @@
   "salario": {
    "termino": "salario",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShCDOJsB3gMj8J9sCOXe0N-EepVHXZ_uyq2sPUCddrfXC6qokDj_rkykQP2b8",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShY5Vi5OSpHqzXFwjIfj03rpKyGDGtV0iL3qBuMjAVJhkYrwMIqwHs-3yZFYw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Bravo y Cuerpo discuten por la subida del SMI",
-    "url": "https://www.atresplayer.com/lasexta/noticias/lasexta-debate-hablamos-de-lo-que-importa/clips/bravo-y-cuerpo-discuten-por-la-subida-del-smi_6af791be185c420007fe2ff1/",
-    "fuente": "atresplayer"
+    "titulo": "Bravo asegura que el PP subirá el salario medio a 50.000 euros ante un Cuerpo (PSOE) escéptico: \"¿Pero cómo? Es una lista de deseos\"",
+    "url": "https://www.lasexta.com/elecciones/generales/bravo-asegura-subira-salario-medio-50000-euros-cuerpo-psoe-esceptico-pero-como-lista-deseos_202611136af78fe29a31a65adcdb7dfc.html",
+    "fuente": "LaSexta"
    }
   },
   "isabel pardo de vera": {
    "termino": "isabel pardo de vera",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuN4srCojvA_GIsjcit8HbJj9FN8Y-RU7f1HGgXf52nWmntGz3rFQ6IFu34mw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFtLilMRWNWHlnHsYkxw9bqRkdNXBZig1tSqLhoQz1oYiZCfBY3jJRPIuNBYo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "La UCO investiga el amaño de contratos de alta velocidad y carreteras por 36 millones en la nueva pieza del caso Koldo",
-    "url": "https://www.elconfidencial.com/espana/2026-11-13/uco-investiga-amano-contratos-alta-velocidad-carreteras-36-millones_4464003/",
-    "fuente": "El Confidencial"
+    "titulo": "Anticorrupción vincula al exchófer de Sánchez con tres adjudicaciones del ADIF y Carreteras por casi 36 millones",
+    "url": "https://www.lavozdegalicia.es/noticia/espana/2026/11/13/anticorrupcion-vincula-exchofer-sanchez-tres-adjudicaciones-adif-carreteras-36-millones/00031794561810575818481.htm",
+    "fuente": "La Voz de Galicia"
    }
   },
   "españa inglaterra": {
@@ -10019,25 +11138,25 @@
   "vinícius júnior": {
    "termino": "vinícius júnior",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR97N97xLgKDbFOje1fYDEVcLQ5YKFYPdp_3X-FXR4-JnuDMNEiV7lHhMJJnB8",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkPo-QzBdOzCjenKFKdezJSZMIttU4uHkO2qR3UEZMV5N42ZzwdqHL6R1_Kk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Vinicius está de vuelta: se reivindica con dos golazos... pero Brasil sigue perdida",
-    "url": "https://www.marca.com/futbol/cronica/2026/11/14/vinicius-vuelta-reivindica-dos-golazos-brasil-sigue-perdida.html",
-    "fuente": "MARCA"
+    "titulo": "Brasil leva dois no começo e reage com Vini, mas cai de novo contra o Japão",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/brasil-x-japao-como-foi-o-amistoso.ghtm",
+    "fuente": "UOL"
    }
   },
   "valladolid - castellón": {
    "termino": "valladolid - castellón",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPff-vMm3JvVOdlfGTBIUrKyIfxnqhTEDrkG9-ZtviXrGp3sNjGeCpHywR9so",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Real Valladolid - CD Castellón, en directo: LaLiga Hypermotion, hoy en vivo",
     "url": "https://as.com/futbol/segunda/real-valladolid-cd-castellon-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
@@ -10061,15 +11180,43 @@
   "meteo madrid": {
    "termino": "meteo madrid",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSt8HTieDmX6DO16m4yL5TviMCx7rQ3LnHDtXpEqrWIZ7Da7plOluyZfjbjRk",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "La segunda quincena de noviembre en España augura más lluvia",
     "url": "https://www.eltiempo.es/noticias/asi-sera-la-segunda-quincena-de-noviembre-en-espana-seguiran-las-lluvias-y-cuando-llegara-el-frio",
     "fuente": "Eltiempo.es"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuObqHIdr-ty39uy7b4awDymi26vHRl4y0ixYjh4lla3VIO1AgIGDV7bOpLLE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Musetti survives Humbert in Stockholm, Fritz into SFs after Rune withdraws",
+    "url": "https://www.atptour.com/en/news/stockholm-2026-thursday-report-qfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "brasil fc": {
+   "termino": "brasil fc",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3YCadc1NPlivJxpSY0Qza9kKsj-Z0D-xB9rEqElYNc9qti0LENOnzTQ0wEZE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Tremendo enfado de Ancelotti y Raphinha, que acabaron expulsados",
+    "url": "https://www.marca.com/futbol/2026/11/14/tremendo-enfado-ancelotti-raphinha-acabaron-expulsados.html",
+    "fuente": "MARCA"
    }
   }
  },
@@ -10534,15 +11681,15 @@
   "alberto núñez feijóo": {
    "termino": "alberto núñez feijóo",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOrKnJufuiir0I2w5uYqO6XG23vArELib_bcS73TTkjrlLapCJflEX4epC7AE",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8xX7SbZV-y2_dUxczkCwIClf93HRFDyQopaFowRjbONmFpc8nvw9U4tr6Umg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "La Academia de Televisión, punto de encuentro para los Debates Electorales 2026",
-    "url": "https://www.academiatv.es/la-academia-de-television-punto-de-encuentro-para-los-debates-electorales-2026/",
-    "fuente": "Academia de Televisión"
+    "titulo": "El cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo será el jueves 19 de noviembre",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo-sera-el-jueves-19-de-noviembre.html",
+    "fuente": "EL PAÍS"
    }
   },
   "japan vs brazil": {
@@ -10562,29 +11709,99 @@
   "isabel pardo de vera": {
    "termino": "isabel pardo de vera",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuN4srCojvA_GIsjcit8HbJj9FN8Y-RU7f1HGgXf52nWmntGz3rFQ6IFu34mw",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFtLilMRWNWHlnHsYkxw9bqRkdNXBZig1tSqLhoQz1oYiZCfBY3jJRPIuNBYo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "La UCO investiga el amaño de contratos de alta velocidad y carreteras por 36 millones en la nueva pieza del caso Koldo",
-    "url": "https://www.elconfidencial.com/espana/2026-11-13/uco-investiga-amano-contratos-alta-velocidad-carreteras-36-millones_4464003/",
-    "fuente": "El Confidencial"
+    "titulo": "Anticorrupción vincula al exchófer de Sánchez con tres adjudicaciones del ADIF y Carreteras por casi 36 millones",
+    "url": "https://www.lavozdegalicia.es/noticia/espana/2026/11/13/anticorrupcion-vincula-exchofer-sanchez-tres-adjudicaciones-adif-carreteras-36-millones/00031794561810575818481.htm",
+    "fuente": "La Voz de Galicia"
    }
   },
   "brasil": {
    "termino": "brasil",
    "primera_vez": "2026-11-14T12:42:43Z",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkPo-QzBdOzCjenKFKdezJSZMIttU4uHkO2qR3UEZMV5N42ZzwdqHL6R1_Kk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Brasil leva dois no começo e reage com Vini, mas cai de novo contra o Japão",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/brasil-x-japao-como-foi-o-amistoso.ghtm",
+    "fuente": "UOL"
+   }
+  },
+  "frenkie de jong": {
+   "termino": "frenkie de jong",
+   "primera_vez": "2026-11-14T13:47:59Z",
    "veces": 1,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFzfNphD1rZf3T43-JL3JAE00JIKuktl8xgbzWE9TQ3y2YvvSTfMdUolpRJAM",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgK6GzGYp3jwO4m3fZeIRnCc_xB--AVRzwz1dFrV3lyV4WLCtQUu1ocDZo8rU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção",
-    "url": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/17508125/brasil-x-japao-onde-assistir-ao-vivo-escalacoes-amistoso-selecao-brasileira",
-    "fuente": "ESPN Brasil"
+    "titulo": "Más problemas físicos con De Jong",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/14/problemas-fisicos-jong.html",
+    "fuente": "MARCA"
+   }
+  },
+  "españa inglaterra": {
+   "termino": "españa inglaterra",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUh2XOyi9lwF3eGWuntmwopKaiOiYWhuMoNGaeW-XgAcVgKlvldCr1hoEPmnc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "España se juega el primer puesto de la Nations League en el Riyadh Air Metropolitano",
+    "url": "https://www.atleticodemadrid.com/noticias/espana-se-juega-el-primer-puesto-de-la-nations-league-en-el-riyadh-air-metropolitano",
+    "fuente": "Página oficial del Atlético de Madrid"
+   }
+  },
+  "taylor fritz": {
+   "termino": "taylor fritz",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuObqHIdr-ty39uy7b4awDymi26vHRl4y0ixYjh4lla3VIO1AgIGDV7bOpLLE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Musetti survives Humbert in Stockholm, Fritz into SFs after Rune withdraws",
+    "url": "https://www.atptour.com/en/news/stockholm-2026-thursday-report-qfs",
+    "fuente": "ATP Tour"
+   }
+  },
+  "valladolid - castellón": {
+   "termino": "valladolid - castellón",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPff-vMm3JvVOdlfGTBIUrKyIfxnqhTEDrkG9-ZtviXrGp3sNjGeCpHywR9so",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Real Valladolid - CD Castellón, en directo: LaLiga Hypermotion, hoy en vivo",
+    "url": "https://as.com/futbol/segunda/real-valladolid-cd-castellon-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "europa sant andreu": {
+   "termino": "europa sant andreu",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7aPvnb37CbftuY8aU6nUAstT5J4GO6Jrw3bJBhZUbaHql69TZbwv3LkHSvjI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El Europa-Sant Andreu, un derbi de Primera ante 17.000 espectadores",
+    "url": "https://www.lavanguardia.com/deportes/futbol/20261114/11683792/europa-sant-andreu-derbi-de-primera-ante-17-000-espectadores-cornella.html",
+    "fuente": "La Vanguardia"
    }
   }
  },
@@ -11180,11 +12397,11 @@
   "motor elétrico": {
    "termino": "motor elétrico",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLPvrZHTzGEW2onSbMW_hJcA3eNPWeX5AKzZ-B7z1zZSOV7UPD0_1T2U8ymA",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Ajusa lança novo kit de reparação para motor elétrico do Tesla Model 3",
     "url": "https://posvenda.pt/ajusa-lanca-novo-kit-de-reparacao-para-motor-eletrico-do-tesla-model-3/",
@@ -11194,11 +12411,11 @@
   "koenigsegg jesko": {
    "termino": "koenigsegg jesko",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4Foi_gfOzeidq9zdHv6lpE1TpkqzM0zBd_S_NunFFPnlC30-IYdOInbO1EZE",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Koenigsegg Delivers 'The Last Jesko'",
     "url": "https://news.dupontregistry.com/blogs/news/koenigsegg-delivers-the-last-jesko-125-in-a-one-off-specification",
@@ -11213,6 +12430,90 @@
    "imagen": "",
    "ultima_vez": "2026-11-14T12:42:43Z",
    "trafico": "200+"
+  },
+  "hltv": {
+   "termino": "hltv",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMvyYRlhE35rjTAUMZ7BU6zZ3MsvPl6GOevjtGpM9RImH2ZVmc3iVEysRXDTc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jorko, nEMANHA among eligible players for HLTV Rookie of the Year 2026",
+    "url": "https://www.dust2.us/news/79882/jorko-nemanha-among-eligible-players-for-hltv-rookie-of-the-year-2026",
+    "fuente": "Dust2.us"
+   }
+  },
+  "francisco louçã": {
+   "termino": "francisco louçã",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrdglIh4MR6P3AFDi_0uguR-UN75kMY7QNAKUqfmwfRudKBUU1PtjXXYvMRdo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Na última lição de Francisco Louçã, pediu-se uma nova economia capaz de afrontar \"estes anos de ameaças",
+    "url": "https://expresso.pt/economia/2026-11-13-na-ultima-licao-de-francisco-louca-pediu-se-uma-nova-economia-capaz-de-afrontar-estes-anos-de-ameacas-9943e32d",
+    "fuente": "Expresso"
+   }
+  },
+  "dinheiro": {
+   "termino": "dinheiro",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9m1_EEo31WPS7BWYEg-zVXWaWtnBP1vJdoRo8CubJvOrDNZV1N0sf6Ks8w8M",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Promessa a Amorim: «Farei tudo para que ninguém me diga 'Não tens dinheiro'»",
+    "url": "https://www.abola.pt/noticias/gerry-cardinale-promessa-a-amorim-farei-tudo-para-que-ninguem-me-diga-nao-tens-dinheiro-2026111410322489935",
+    "fuente": "A Bola"
+   }
+  },
+  "portugal vs dinamarca": {
+   "termino": "portugal vs dinamarca",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMS46MMjFkPXUSJ5mo2gFlTlRAxTM2xs3KElfotMPhi1_E5_Fd9YpNvKlHlbw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Portugal - Dinamarca - Pronóstico, dónde ver, horario y alineaciones 14-11-2026",
+    "url": "https://onefootball.com/es/apuestas/pronosticos/portugal-vs-dinamarca-14-11-2026",
+    "fuente": "OneFootball"
+   }
+  },
+  "estrada": {
+   "termino": "estrada",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0ptt_pIGCqMnAx_Ime8u9rFsWg6J0AndWv0Rst8g3PCTiWhOaR9my52qd-e0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Especiais Antena 3 de 11 nov 2026",
+    "url": "https://www.rtp.pt/play/p6800/e967115/especiais-antena-3",
+    "fuente": "RTP"
+   }
+  },
+  "japón - brasil": {
+   "termino": "japón - brasil",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVBRg61DE9YKO2P8_hlrgStcvOPM3Kpwoz-b2cykQqP0ZYsyzccJn0bvzBmxQ",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "The ‘Mysterious’ Surgery Raphinha Underwent That Prioritized Brazil Over Barcelona",
+    "url": "https://www.si.com/soccer/surgery-raphinha-underwent-prioritized-brazil-over-barcelona",
+    "fuente": "Sports Illustrated"
+   }
   }
  },
  "GB": {
@@ -12222,6 +13523,132 @@
     "titulo": "DP World Tour Championship - third round LIVE! Latest scores, highlights as Rory McIlroy and Tyrrell Hatton battle for lead",
     "url": "https://www.skysports.com/golf/live-blog/13611918/dp-world-tour-championship-third-round-live-latest-scores-highlights-as-rory-mcilroy-and-tyrrell-hatton-battle-for-lead",
     "fuente": "Sky Sports"
+   }
+  },
+  "kosovo vs israel": {
+   "termino": "kosovo vs israel",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Kosovo vs Israel: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/cmwy7yx5ddelt",
+    "fuente": "BBC"
+   }
+  },
+  "holly willoughby": {
+   "termino": "holly willoughby",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqKy-ns9r_hSRNcDNdaHTOJKKQ0qEyf3GH2CZk6YrAJbFHSLU5Dl6PZqDx1M",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Holly Willoughby: ‘My daughter thinks I show off for a living’",
+    "url": "https://www.telegraph.co.uk/fashion/people/holly-willoughby-youre-never-going-to-keep-everybody-happy/",
+    "fuente": "The Telegraph"
+   }
+  },
+  "birmingham city f.c.": {
+   "termino": "birmingham city f.c.",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE6kOz85spRxFBbXIPMRhsebCnXYN1yRkVM2XLUTwT6L3V58HfWXYyexGFLo",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Why Tom Brady left Birmingham City as club pushes for the Premier League",
+    "url": "https://www.nytimes.com/athletic/7775559/2026/11/14/tom-brady-birmingham-city-exit-why/",
+    "fuente": "The New York Times"
+   }
+  },
+  "ronaldinho": {
+   "termino": "ronaldinho",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRhHROpWMRR7RRMCAKBtUCWAAP4z7ZdARz37slZDnMeZSuGCv-7-OKNN4iCM",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Ronaldinho: Brazil legend set for first start for Italian club Ravenna aged 46",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo",
+    "fuente": "BBC"
+   }
+  },
+  "bath vs gloucester": {
+   "termino": "bath vs gloucester",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn_KDWW_obaudAvYMkS0_rmFLbGmD3PIFCAA5b3nOZ6GK1e5QU2X3wPKyC5OA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Gloucester Rugby's fringe players urged to 'step out of the shadows' against Bath",
+    "url": "https://uk.sports.yahoo.com/news/gloucester-rugbys-fringe-players-urged-152102732.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "maya le tissier": {
+   "termino": "maya le tissier",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRB4usXPjUBTpqQhP8EDIr1GwCJ51WLx4_-gp3q4bjIji_clhxithZXDdgpLs",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Maya: To play 150 times for United is a dream",
+    "url": "https://www.manutd.com/en/news/maya-to-play-150-times-for-united-is-a-dream",
+    "fuente": "Manchester United Website"
+   }
+  },
+  "brexit": {
+   "termino": "brexit",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3u5jYHL-USfPGOScnWVLc-w5_6aRKNnc15NioFQ6ppBBqS5JRUcmJrYZ3JJ8",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Andy Burnham says 'win-win' deal can be agreed between UK and EU",
+    "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo",
+    "fuente": "BBC"
+   }
+  },
+  "england v japan rugby": {
+   "termino": "england v japan rugby",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo_pEVfHJbDCMQTodnKDvNpnX-sEw5hMI27_JO4g-JPv8yUvDLS6gchU5JoQ0",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "England v Japan: Warner Dearns on his unlikely route to leading Brave Blossoms",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo",
+    "fuente": "BBC"
+   }
+  },
+  "chelsea vs man city": {
+   "termino": "chelsea vs man city",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqai2pM_tJv-gS7Q_puEascjKXivtsJlT7D618Q9zFy48hRM4ki5IEjPaYczk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Chelsea v Manchester City: Women’s Super League – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+    "fuente": "The Guardian"
    }
   }
  },
@@ -13265,24 +14692,24 @@
   "kristin scott thomas": {
    "termino": "kristin scott thomas",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb-yBoiH71CK1aQLunSIpWpMziDqVuhQTzLqZu499jxm_yv_dTNCQ7qBkkC0k",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRupUOKHtkrh8DxhlZgPQwjqgEX8Bg2WU-kL7Weu7RInI4ggQ9YEAnrd_mFSKc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "How have the public reacted to this year’s John Lewis ad?",
-    "url": "https://yougov.com/en-gb/articles/55964-how-have-the-public-reacted-to-this-years-john-lewis-ad",
-    "fuente": "YouGov"
+    "titulo": "The 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI overlord puppy!",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/john-lewis-christmas-advert-2026-kristin-scott-thomas-pickles-ai-dog",
+    "fuente": "The Guardian"
    }
   },
   "final slam": {
    "termino": "final slam",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuDWA5EMHWnuTqSl8CUrFdJrAr1SN_EyQHNPrhSqChvL4X2qA3qQ0e-rET9wU",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "\"Le plus grand show de catch français\", c’est quoi \"The FinalSlam\", cet événement lors duquel AmineMaTue et Squeezie vont s’affronter à la Plénitude Arena?",
@@ -13344,6 +14771,76 @@
     "titulo": "Japão X Brasil - AO MINUTO",
     "url": "https://maisfutebol.iol.pt/jogo/aominuto/japao/brasil/13841573",
     "fuente": "Maisfutebol"
+   }
+  },
+  "équipe de france féminine de basket-ball": {
+   "termino": "équipe de france féminine de basket-ball",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNvfuUOWk__EMFQC3nObolFce6C2T47uEAKlV6V_6EeK4ZaztYxun5PYSFtOI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Luxembourg - France. À quelle heure et sur quelle chaîne voir le match de qualification à l’Euro 2027 féminin ?",
+    "url": "https://www.ouest-france.fr/sport/basket/equipe-de-france-feminine/luxembourg-france-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-qualification-a-leuro-2027-feminin-6fbd2e74-df5d-11f1-b029-43a761592972",
+    "fuente": "Ouest-France"
+   }
+  },
+  "pays de galles – nouvelle-zélande": {
+   "termino": "pays de galles – nouvelle-zélande",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXSLuUBE18H_HacnvJ65JzcrAvP4lNWwx0HCb3Bz2_6yAblr35m-fNbwGHS8g",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Galles - Nouvelle-Zélande, Championnat des Nations 2026, match en direct le 14-11-2026",
+    "url": "https://www.lequipe.fr/Rugby/match-direct/championnat-des-nations/2026/galles-nouvelle-zelande-live/41772",
+    "fuente": "L'Équipe"
+   }
+  },
+  "chelsea football club women – manchester city women's football club": {
+   "termino": "chelsea football club women – manchester city women's football club",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqai2pM_tJv-gS7Q_puEascjKXivtsJlT7D618Q9zFy48hRM4ki5IEjPaYczk",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Chelsea v Manchester City: Women’s Super League – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+    "fuente": "The Guardian"
+   }
+  },
+  "hugues aufray": {
+   "termino": "hugues aufray",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmTkAyKlkuASG2Q6ODFJz7aO4AZGOKd-yAADmZ6UVMI_lX1jKVPPahoea3UPs",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "\"Ils disent n'importe quoi\" : à 97 ans, Hugues Aufray prend la parole après le report de plusieurs concerts",
+    "url": "https://fr.style.yahoo.com/disent-nimporte-%C3%A0-97-ans-130817181.html",
+    "fuente": "Yahoo Life France"
+   }
+  },
+  "normandie": {
+   "termino": "normandie",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrD8fxuYIBy8Nzrzvo4gqHqZtzMGq6Zc3kl9fTKacs6MiUTv-GbL1fCrHMaSE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "L'autoroute A14 vers la Normandie gratuite à partir de lundi pour compenser la fermeture de l'A13",
+    "url": "https://www.franceinfo.fr/economie/transports/l-autoroute-a14-vers-la-normandie-gratuite-a-partir-de-lundi-pour-compenser-la-fermeture-de-l-a13_8282435.html",
+    "fuente": "franceinfo"
    }
   }
  },
@@ -14475,6 +15972,146 @@
     "titulo": "Errani/Paolini in campo per la finale: quando e dove vederle",
     "url": "https://www.eurosport.it/tennis/wta-finals-2026/2026/quando-giocano-sara-errani-e-jasmine-paolini-la-semifinale-di-doppio-contro-guo-mladenovic-data-orario-dove-vedere-il-match-in-tv-e-streaming_sto23355196/story.shtml",
     "fuente": "Eurosport.it"
+   }
+  },
+  "sepsi": {
+   "termino": "sepsi",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKJzC5Srhl75dY6-_Kkh1Jbr6JVWUuhFlSXobV9PUvpj2xN6JirmQVf8WOxZw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Coach O survives sepsis after innovative diagnostic test",
+    "url": "https://www.wafb.com/2026/11/12/coach-o-survives-sepsis-after-innovative-diagnostic-test/",
+    "fuente": "WAFB"
+   }
+  },
+  "sciopero generale": {
+   "termino": "sciopero generale",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjla7cyrdr8_QBSIeCNDExfJNPhHaHOr0JCoclh7HSNqRn-V4x_EUqPy7y_FA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Sciopero generale del 20 novembre: in piazza anche la Cgil, oltre a Cub e Sgb. In piazza anche a Milano",
+    "url": "https://www.milanotoday.it/cronaca/sciopero/generale-20-novembre-2026.html",
+    "fuente": "MilanoToday"
+   }
+  },
+  "emma aicher": {
+   "termino": "emma aicher",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYLuW0bFIGw_gs388SS1AtHgh0wlcRhXLkOXoZFV8f2R10Naf4FADWOzD3TME",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Levi-Auftakt: Aicher und Colturi in eigener Liga",
+    "url": "https://www.stol.it/artikel/sport/levi-auftakt-aicher-und-colturi-in-eigener-liga",
+    "fuente": "stol.it"
+   }
+  },
+  "casarano - az picerno": {
+   "termino": "casarano - az picerno",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZT2yck6RcW_stkXkX-MqzMyInl9JYiJSOlR6e_4xLpTej--LdKU9Li7gCGMI",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Pronostico Bari-Foggia quote 14ª giornata Serie C Girone C",
+    "url": "https://www.gazzetta.it/scommesse/pronostici/calcio/13-11-2026/pronostico-bari-foggia-quote-sfida-14a-giornata-serie-c-girone-c-81822.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "kosovo - israele": {
+   "termino": "kosovo - israele",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoryombHEIq-M538fRNFzEf-DqgnUlKWqdvYrsbQRJBo-cu_pKzfXaCcrXWTE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Il Kosovo di Muriqi può battere Israele? Ecco cosa dicono le quote",
+    "url": "https://www.corrieredellosport.it/news/scommesse/2026/11/13-152558847/il_kosovo_di_muriqi_pu_battere_israele_ecco_cosa_dicono_le_quote",
+    "fuente": "Corriere dello Sport"
+   }
+  },
+  "anticipazioni beautiful": {
+   "termino": "anticipazioni beautiful",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfETY2gBy-SLYSwdNkA_E3f44doLpraiAjb8NSzdArJHbejTgtdDusg8m6_MA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Beautiful, le trame della settimana dal 16 al 21 novembre",
+    "url": "https://mediasetinfinity.mediaset.it/news/mediasetinfinity/beautiful/beautiful-trame-settimana-16-21-novembre_SE000000000091_t7uQAOjActkkPh8wz419iZd",
+    "fuente": "Mediaset Infinity"
+   }
+  },
+  "programmi tv oggi": {
+   "termino": "programmi tv oggi",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScv5IzqRm6JuuM8UNVpPpAPygPwUNvlbSdY3TJ8ZQ9zxTwrcbEG3sOyU6B-EE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Stasera in TV: film, programmi e serie di oggi venerdì 13 novembre",
+    "url": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/13/news/stasera_in_tv_film_programmi_serie_di_oggi_venerdi_13_novembre-425716951/",
+    "fuente": "la Repubblica"
+   }
+  },
+  "oggi in tv": {
+   "termino": "oggi in tv",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA-cnDbyKrPfyRM-EZfsPHYxU4IZIi4-3JmpUZN7VVYmsCxyLg6JrTbqe55jE",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Dove vedere Errani/Paolini-Guo/Mladenovic e tutto lo sport in tv del 14 novembre",
+    "url": "https://www.gazzetta.it/spettacolo-tv-gossip/storie/14-11-2026/dove-vedere-errani-paolini-tennis-calcio-sport-in-tv-14-novembre/calcio.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "reggiana - livorno": {
+   "termino": "reggiana - livorno",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGOelSD8dbkJPMIR3PPjQEbYsTLENuclhQcX7PjDszVo2sW5FtQ-1e-7Y1PCc",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "La presentazione. Livorno, a Reggio Emilia è sfida playoff",
+    "url": "https://www.amaranta.it/calcio/presentazione-livorno-reggio-emilia-sfida-playoff-32288",
+    "fuente": "Amaranta: Tutte le news su Livorno e provincia"
+   }
+  },
+  "incidente san fili": {
+   "termino": "incidente san fili",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-WcCmvMCBqwPUn4vuepkQXvazzqQUgZVtk9iza7V0IsFNiga3vVLH7WIzjmU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cosenza, incidente in galleria sulla statale 107 a San Fili: 4 morti, un ferito grave",
+    "url": "https://tg24.sky.it/cronaca/2026/11/14/incidente-stradale-galleria-cosenza-san-fili",
+    "fuente": "Sky TG24"
    }
   }
  },
@@ -15649,6 +17286,132 @@
     "url": "https://pagesix.com/2026/11/13/celebrity-news/emma-watson-suffers-brutal-fall-outside-chateau-marmont/",
     "fuente": "Page Six"
    }
+  },
+  "herne": {
+   "termino": "herne",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8OxjxeVN-m5UXdXhw9MJ16sF0z-TxHJooESrQ5xQlfMfgTmnf0ebiMuSI-Ww",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Nordrhein-Westfalen: Auto kracht gegen Ampel - Straße gesperrt",
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-zwei-verletzte-verkehrsunfall-in-herne-sorgt-fuer-strassensperrung-100.html",
+    "fuente": "tagesschau.de"
+   }
+  },
+  "delani diekmeier": {
+   "termino": "delani diekmeier",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8VAg0_7xWPdUKnpBU_hreONOdA5_N_5Nd87JQILF-F4OCc1KVf5g2X2v3dxY",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Delani Diekmeier: „Man muss sich nicht einschließen“ – Leben mit Krebs",
+    "url": "https://www.bild.de/unterhaltung/stars-und-leute/delani-diekmeier-man-muss-sich-nicht-einschliessen-leben-mit-krebs-6af6eb797f8bbad09ea61ff2",
+    "fuente": "BILD"
+   }
+  },
+  "grand slam of darts": {
+   "termino": "grand slam of darts",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC-PXToERcEygIv9qL9RuzUHoge9S7q97Raz3gPLpc2W2NExBHuQym7_4EX7E",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Darts heute live: Grand Slam of Darts im Free-TV, Stream & Ticker",
+    "url": "https://www.sport1.de/news/darts-sport/grand-slam-of-darts/2026/11/darts-heute-live-grand-slam-of-darts-im-free-tv-stream-ticker",
+    "fuente": "SPORT1"
+   }
+  },
+  "thüringen pokal": {
+   "termino": "thüringen pokal",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmELfw3SLIkXT6c5FySNwMANFLAXYoCl5RT9liib7p6R0WP_4uYK6zdCwMJYU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "RWE und der FCC zur Pause auf Kurs: Liveticker zum Viertelfinale im Fußball-Landespokal",
+    "url": "https://www.thueringer-allgemeine.de/sport/article413660562/liveticker-zum-viertelfinale-im-fussball-landespokal-erledigen-rwe-und-fcc-ihre-hausaufgaben.html",
+    "fuente": "Thüringer Allgemeine"
+   }
+  },
+  "heiderhof": {
+   "termino": "heiderhof",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZs1dutoZ59J37nJqhIqcfLG8va5Dy8B2GhxsOD96ka9MEbcrTBh00VEOvJdM",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Suche bis in den späten Abend: Hubschrauber findet vermissten Senior unterkühlt in Waldstück am Heiderhof",
+    "url": "https://ga.de/region/siebengebirge/kreis-neuwied/bonn-hubschrauber-findet-vermissten-senioren-am-heiderhof_aid-158379589",
+    "fuente": "General-Anzeiger Bonn"
+   }
+  },
+  "skisprung-weltcup": {
+   "termino": "skisprung-weltcup",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4l8q0bHCDaxX3HNQ4PGXQsGyf0NqFbHxu-V5oJblFRdp72DoJfH9CD8SbKGU",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Deutsche Skispringer vor dem Auftakt: Der lange Weg zurück in die Weltspitze",
+    "url": "https://www.sportschau.de/wintersport/skispringen/was-sich-bei-deutschen-skispringern-aendern-muss,skispringen-analyse-108.html",
+    "fuente": "sportschau.de"
+   }
+  },
+  "kosovo – israel": {
+   "termino": "kosovo – israel",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqH0zxVv2NRUAqJizgFNdaVdnMHKe6IxdM_4tM_cMj8l9UK4MLRJwA170Kh9c",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Preview: Kosovo vs Israel - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/kosovo/uefa-nations-league/preview/kosovo-vs-israel-prediction-team-news-lineups_608982.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "leagues football": {
+   "termino": "leagues football",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYzrZZSWc9CtbbKprf7Q6KPz6GHnVAE3ixUkJ-y2jcv5jqi2WPvqqU8MLNR98",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Klopp: “The team put in a fantastic performance”",
+    "url": "https://www.dfb.de/news/klopp-the-team-put-in-a-fantastic-performance",
+    "fuente": "Deutscher Fußball-Bund"
+   }
+  },
+  "dejounte murray": {
+   "termino": "dejounte murray",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1ffAoxseYp3Zm7GOXPizkTNcYJ1RWG5qLtVEbLjuDkREHb2jfJotSJwJT15Q",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "\"We're leaving it at that when it comes to both the …",
+    "url": "https://sports.yahoo.com/articles/were-leaving-comes-both-015158219.html",
+    "fuente": "Yahoo Sports"
+   }
   }
  },
  "NL": {
@@ -16453,11 +18216,11 @@
   "zwarte piet": {
    "termino": "zwarte piet",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniebRfM5gyj1m8wnvs6njB9AKNOSV89cFPYiRQnBl4__PgEyIeY8oxg1PBAo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "In Lemmer lijken ze koste wat kost vast te willen houden aan Zwarte Piet: ‘Die discussie komt me de keel uit’",
     "url": "https://www.ad.nl/binnenland/in-lemmer-lijken-ze-koste-wat-kost-vast-te-willen-houden-aan-zwarte-piet-die-discussie-komt-me-de-keel-uit~ad56b01d/",
@@ -16467,24 +18230,24 @@
   "gijs naber": {
    "termino": "gijs naber",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
-   "max_trafico": 200000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7ujbO10oxJKxJ8dZf0QDMgkB15dpY_f2wYaFGybtbsk-mN2jvvc7MF_uFObo",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "200000+",
+   "veces": 3,
+   "max_trafico": 500000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4URdBk80uyf3k2lAP_am4q-a53zqmUGww4n5T_Lp0wZ_5F0WZZj-qhMxYCTg",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500000+",
    "noticia": {
-    "titulo": "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
-    "url": "https://nos.nl/artikel/2639457-sinterklaasmysterie-na-weken-onthuld-gijs-naber-volgt-stefan-de-walle-op",
-    "fuente": "NOS"
+    "titulo": "Gijs Naber neemt de rol van Sinterklaas over van Stefan de Walle: wie is hij?",
+    "url": "https://www.gelderlander.nl/show/van-holleeder-naar-de-goedheiligman-wie-is-gijs-naber-de-nieuwe-adviseur-van-de-sint~a5fe8c1a/",
+    "fuente": "De Gelderlander"
    }
   },
   "stiens": {
    "termino": "stiens",
    "primera_vez": "2026-11-14T11:34:03Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo3H9riDDM_pavK4HVXp_KnPBpKMc1TykzJjjeE_6UDLiV103SjdyZCPpBR5w",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "1000+",
    "noticia": {
     "titulo": "Historische poldermolen bij Stiens in Friesland verwoest door brand",
@@ -16579,10 +18342,10 @@
   "max verstappen": {
    "termino": "max verstappen",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 2000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV5SulfP3AxB0RAdXLOcgKzeHN8tK1JYSnxrCxAuur5mhIgxPv1QEu87I__68",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "2000+",
    "noticia": {
     "titulo": "Max Verstappen reveals key Red Bull factor in facing major Las Vegas issue",
@@ -16593,11 +18356,11 @@
   "de frogers": {
    "termino": "de frogers",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ5GeumlrBzlM6tExrGjYrUFq2XOyt5GJRtBBNwz1soF14I3subndZjrMYM9Y",
-   "ultima_vez": "2026-11-14T12:42:43Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "De Frogers vormen een grote samengestelde familie: dit zijn alle gezinsleden",
     "url": "https://www.rtl.nl/boulevard/artikel/5664443/gezin-en-kleinkinderen-de-frogers",
@@ -16607,15 +18370,71 @@
   "helmplicht fatbikes": {
    "termino": "helmplicht fatbikes",
    "primera_vez": "2026-11-14T12:42:43Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafIJEP8KsXOMs-3AWuxQmZ2783Mu-_HVo5WW4UBvm1FygwMXLkxho7BtrCVc",
-   "ultima_vez": "2026-11-14T12:42:43Z",
+   "ultima_vez": "2026-11-14T13:47:59Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Helmplicht voor jongeren op fatbikes moet vóór start nieuwe schooljaar ingaan",
     "url": "https://www.nu.nl/binnenland/6416527/helmplicht-voor-jongeren-op-fatbikes-moet-voor-start-nieuwe-schooljaar-ingaan.html",
     "fuente": "NU"
+   }
+  },
+  "datalek": {
+   "termino": "datalek",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlPHHkdMb8QPa44vPfGxTnzxMQ5aBmY89odZRJdL-hP4VNnti110xbDgUeEV4",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Grote pokersite GGPoker meldt datalek, maar ID-bewijzen en tegoeden zijn veilig",
+    "url": "https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html",
+    "fuente": "Tweakers"
+   }
+  },
+  "wout weghorst": {
+   "termino": "wout weghorst",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWnAokC1RklqB70biCBYsGJ3n2FByLp_ivfLpWK10sNGSViOZvuwoFxjCQpsw",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Wout Weghorst zorgt voor verbazing met opmerkelijke actie richting voormalig Ajax-teamgenoot",
+    "url": "https://www.voetbalzone.nl/nieuws/wout-weghorst-zorgt-voor-verbazing-met-opmerkelijke-actie-richting-voormalig-ajax-teamgenoot/bltf44aed9cc171a53c",
+    "fuente": "Voetbalzone"
+   }
+  },
+  "indonesië": {
+   "termino": "indonesië",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGX70K6vv09fOCGI3ir7EMJvvQIGLUpxhL6FTITqkgOtQwJAtPj9ERzyChspA",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "In Indonesië staat zelfs koken en douchen onder druk door waterhonger datacenters",
+    "url": "https://www.bnr.nl/nieuws/duurzaamheid/10615075/in-indonesie-staat-zelfs-koken-en-douchen-onder-druk-door-waterhonger-datacenters",
+    "fuente": "bnr.nl"
+   }
+  },
+  "kinderen gijs naber": {
+   "termino": "kinderen gijs naber",
+   "primera_vez": "2026-11-14T13:47:59Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrmnuOY5nVAWHSpjtONbGJu-nFPk_y4FAGIUehU2P8s6oQF62_9kZF4CrO8-M",
+   "ultima_vez": "2026-11-14T13:47:59Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Dit is de partner van Gijs Naber: ze speelde naast grote Hollywoodsterren",
+    "url": "https://www.linda.nl/cultuur-media/wil-je-weten/bekende-partner-gijs-naber-thekla-reuten/",
+    "fuente": "Linda"
    }
   }
  }
