@@ -193,6 +193,8 @@ def noticias_pais(pais, consulta=None, max_items=12):
     res = google_news(pais["news"], consulta, max_items)
     if not res and pais["news"].get("respaldo"):
         res = google_news(pais["news"]["respaldo"], consulta, max_items)
+    if not res and consulta and pais["news"].get("sufijo"):  # sin resultados con el país en la búsqueda: probar solo con la edición local
+        res = google_news({k: v for k, v in pais["news"].items() if k != "sufijo"}, consulta, max_items)
     return res or []
 
 
