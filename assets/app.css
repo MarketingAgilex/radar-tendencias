@@ -209,7 +209,8 @@ button,select,input{font-family:inherit}
 .pie h4{color:#fff;font-weight:600;margin-bottom:10px}
 .pie a{text-decoration:none}.pie a:hover{color:#fff}
 .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--amarillo);color:#1a1640;padding:12px 22px;border-radius:999px;font-weight:600;font-size:14px;transition:transform .3s;z-index:200}
-.toast.ver{transform:translateX(-50%) translateY(0)}
+.toast.ver{transform:translateX(-50%) translateY(0);opacity:1;visibility:visible}
+.toast{opacity:0;visibility:hidden}
 
 @media (max-width:980px){
   .nav{display:none}.cifras{grid-template-columns:repeat(2,1fr)}.r3,.r4{grid-template-columns:repeat(2,1fr)}.pie .contenedor{grid-template-columns:1fr}

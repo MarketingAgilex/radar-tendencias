@@ -280,7 +280,7 @@
   function ideasHoy() {
     const i = ins(); if (!i) return [];
     const ideas = (i.ideas_hoy || []).map((x) => (typeof x === "string" ? { idea: x } : x));
-    for (const s of (i.semaforo || []).filter((x) => x.color === "verde")) ideas.push({ titulo: s.termino, idea: s.idea });
+    for (const s of (i.semaforo || []).filter((x) => x.color === "verde" && !esDeporte({ termino: x.termino }))) ideas.push({ titulo: s.termino, idea: s.idea, trend: true });
     return ideas.slice(0, 6);
   }
   function pPulso() {
@@ -312,7 +312,7 @@
     return `
       ${lect ? `<div class="lectura"><div class="ico">✦</div><div><small>Lectura del momento · IA</small><p>${esc(lect)}</p></div></div>` : ""}
       ${ideas.length ? `<h2 class="titulo-sec" style="font-size:30px">Ideas para <b>publicar hoy</b> en ${esc(nombre)}</h2><p class="sub-sec">Propuestas concretas para marcas, emprendedores y creadores a partir de lo que está pasando.</p>
-        <div class="rejilla r3">${ideas.map((x, n) => `<div class="tarjeta idea"><span class="idea-num">${n + 1}</span>${x.titulo ? `<h3 style="text-transform:capitalize">${esc(x.titulo)}</h3>` : ""}<p>${esc(x.idea)}</p>${x.formato ? `<div class="etiquetas" style="margin-top:12px"><span class="etq">${esc(x.formato)}</span></div>` : ""}</div>`).join("")}</div>` : ""}
+        <div class="rejilla r3">${ideas.map((x, n) => `<div class="tarjeta idea"><span class="idea-num">${n + 1}</span>${x.titulo ? `<h3 style="${x.trend ? "text-transform:capitalize" : ""}">${esc(x.titulo)}</h3>` : ""}<p>${esc(x.idea)}</p>${x.formato ? `<div class="etiquetas" style="margin-top:12px"><span class="etq">${esc(x.formato)}</span></div>` : ""}</div>`).join("")}</div>` : ""}
       ${viral ? `<h2 class="titulo-sec" style="font-size:30px;margin-top:40px">Lo viral <b>hoy</b></h2><p class="sub-sec">Lo que se está volviendo tendencia en redes y medios de ${esc(nombre)} (últimas 24 h).</p>${viral}` : ""}
       ${consumo ? `<h2 class="titulo-sec" style="font-size:30px;margin-top:40px">Lo que se está <b>comprando y lanzando</b></h2><p class="sub-sec">Productos agotados, lo más vendido y lanzamientos que están dando de qué hablar.</p>${consumo}` : ""}
       <div class="cab-seccion" style="margin-top:40px"><div><h2 class="titulo-sec" style="font-size:30px;margin:0">Lo que más <b>busca la gente</b> en Google</h2><p class="sub-sec" style="margin:6px 0 0">Búsquedas que más crecen ahora. El número es el mínimo de búsquedas según Google.</p></div>${interruptor}</div>
