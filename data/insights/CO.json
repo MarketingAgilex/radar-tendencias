@@ -1,0 +1,933 @@
+{
+ "pais": "CO",
+ "actualizado": "2026-11-14T04:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "La conversación colombiana mezcla deporte (Liga de Naciones Concacaf, NBA, recuerdos de la Copa América), la agenda política y el fenómeno de El Niño, que preocupa por el agua y la energía. Para marcas conviene esquivar la política y aprovechar el entretenimiento digital (Stream Fighters 5, una velada de streamers en vivo, está en tendencia) y la cercanía de temporada navideña, prima y Black Friday.",
+ "semaforo": [
+  {
+   "termino": "cuando es stream fighters 5",
+   "color": "verde",
+   "por_que": "Entretenimiento digital masivo entre jóvenes; conversación ligera y compartible.",
+   "idea": "Para creadores: reacción o 'apuesta' amistosa. Para marcas: guiño tipo 'tu paquete llega más rápido que un nocaut'."
+  },
+  {
+   "termino": "fenómeno",
+   "color": "amarillo",
+   "por_que": "El Niño genera preocupación real (agua, energía, precios). Puede usarse con tono útil, nunca para burlarse.",
+   "idea": "Contenido de ahorro de energía y agua en casa, o productos que ayudan (ventiladores, filtros, ropa fresca)."
+  },
+  {
+   "termino": "copa america",
+   "color": "verde",
+   "por_que": "Nostalgia futbolera y orgullo; la final ante Argentina sigue generando conversación.",
+   "idea": "Contenido de orgullo y resiliencia: 'perder una final no nos quita las ganas de llegar lejos'."
+  },
+  {
+   "termino": "congreso de la república de colombia",
+   "color": "rojo",
+   "por_que": "Tema político; riesgo alto de polarización.",
+   "idea": "No usarlo en comunicación de marca."
+  },
+  {
+   "termino": "spurs - warriors",
+   "color": "rojo",
+   "por_que": "Nicho deportivo extranjero sin conexión con el público objetivo.",
+   "idea": "Mejor no usarlo."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor colombiano",
+   "resumen": "Recursivo, optimista y muy social: compra por recomendación y le gusta 'el rebusque' y la ñapa. Sensible al precio pero dispuesto a pagar por servicio y rapidez. Usa mucho el pago contraentrega y desconfía de lo que no conoce. Diferencias regionales marcadas: Bogotá más formal ('sumercé', 'qué pena con usted'), Antioquia orgullosa y emprendedora ('parce', 'pues'), Caribe alegre y directo ('llave', 'mi vale'), Valle cálido y rumbero ('ve', 'mirá').",
+   "como_habla": "Muy cortés: 'qué pena', 'regáleme', 'a la orden', 'con mucho gusto'. Diminutivos ('un tintico', 'ahorita'). En lo informal: 'parce', 'bacano', 'chimba' (con cuidado), 'de una', 'qué nota'.",
+   "dolores": [
+    "Miedo a estafas en compras en línea",
+    "Pagar impuestos y fletes que no esperaba",
+    "Demoras y falta de información sobre el envío",
+    "Atención lenta o de robot"
+   ],
+   "motivaciones": [
+    "Ahorro y descuentos ('ñapa', 'promo')",
+    "Acceder a marcas de EE. UU. a mejor precio",
+    "Rapidez y seguimiento",
+    "Recomendación de alguien de confianza"
+   ],
+   "frenos": [
+    "Desconfianza en pagos anticipados",
+    "Costos del dólar",
+    "Procesos con mucha letra pequeña"
+   ],
+   "tono": "Cálido, alegre y cercano, con respeto. Al colombiano le gusta sentirse atendido 'como en casa'.",
+   "evitar": [
+    "Política y conflicto armado",
+    "Estereotipos regionales (paisa, rolo, costeño) en tono de burla",
+    "Narcocultura o referencias a narcotráfico",
+    "Groserías como gancho"
+   ],
+   "canales": [
+    "WhatsApp (atención y cierre)",
+    "Instagram y TikTok (descubrimiento)",
+    "Facebook (mayores de 35 y regiones)",
+    "YouTube (reseñas y tutoriales)"
+   ],
+   "mensajes": [
+    "'Compra en EE. UU. y recíbelo en tu casa sabiendo cuánto pagas.'",
+    "'Una persona real te acompaña por WhatsApp.'",
+    "'Tu casillero en Miami, sin enredos.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce colombiano",
+   "resumen": "Ecosistema emprendedor muy activo (Medellín, Bogotá, Cali). Vende por Instagram, TikTok Shop, Mercado Libre y tiendas propias. Importa para revender y cada vez más quiere exportar (moda, belleza, café, artesanías, snacks).",
+   "como_habla": "'Mi marca', 'mi emprendimiento', 'estoy escalando', 'necesito un proveedor serio', 'el envío me está matando'.",
+   "dolores": [
+    "Flujo de caja",
+    "Costos logísticos que se comen el margen",
+    "Trámites para exportar",
+    "Competencia con importaciones baratas de China"
+   ],
+   "motivaciones": [
+    "Crecer y vender afuera",
+    "Cobrar en dólares",
+    "Aprender de otros emprendedores",
+    "Tener un aliado logístico que responda"
+   ],
+   "frenos": [
+    "No saber por dónde empezar a exportar",
+    "Miedo a perder mercancía"
+   ],
+   "tono": "Motivador pero práctico, con datos y casos reales.",
+   "evitar": [
+    "Promesas de 'hazte rico rápido'",
+    "Tecnicismos sin explicar"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "LinkedIn",
+    "Comunidades y webinars"
+   ],
+   "mensajes": [
+    "'Tu marca colombiana puede venderse en EE. UU.: te mostramos el camino.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Empresas que exportan flores, café, frutas, confecciones y manufacturas, o importan maquinaria e insumos. Valoran cumplimiento, precio y un asesor conocido.",
+   "como_habla": "Formal: 'cotización', 'tarifa por kilo', 'tiempo de tránsito', 'DEX', 'nacionalización'.",
+   "dolores": [
+    "Variación del dólar",
+    "Tiempos de tránsito",
+    "Trámites DIAN e ICA",
+    "Proveedores que no responden"
+   ],
+   "motivaciones": [
+    "Cumplimiento",
+    "Trazabilidad",
+    "Nuevos mercados"
+   ],
+   "frenos": [
+    "Riesgo de cambiar de proveedor"
+   ],
+   "tono": "Profesional, concreto y confiable.",
+   "evitar": [
+    "Informalidad excesiva"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo y llamada",
+    "Ferias (ProColombia, cámaras de comercio)"
+   ],
+   "mensajes": [
+    "'Tu carga, con seguimiento y un asesor que conoce tu operación.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande y corporativa",
+   "resumen": "Compras por procesos formales y homologación de proveedores; buscan eficiencia y reportes.",
+   "como_habla": "'Homologación', 'SLA', 'indicadores', 'eficiencia'.",
+   "dolores": [
+    "Riesgo operativo",
+    "Costos"
+   ],
+   "motivaciones": [
+    "Confiabilidad",
+    "Servicio dedicado"
+   ],
+   "frenos": [
+    "Ciclos largos de decisión"
+   ],
+   "tono": "Ejecutivo.",
+   "evitar": [
+    "Mensajes promocionales masivos"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Contacto directo"
+   ],
+   "mensajes": [
+    "'Logística internacional con indicadores claros y equipo dedicado.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z colombiana (18–28)",
+   "resumen": "Hiperconectada, sigue streamers y creadores, compra moda, tecnología y belleza en línea y prefiere marcas con humor.",
+   "como_habla": "'Parce', 'qué chimba', 'nea' (Antioquia, informal), 'de una', 'me mató', 'pailas', 're' + anglicismos.",
+   "dolores": [
+    "Presupuesto",
+    "Envíos caros"
+   ],
+   "motivaciones": [
+    "Tendencia",
+    "Humor",
+    "Creadores"
+   ],
+   "frenos": [
+    "Anuncios acartonados"
+   ],
+   "tono": "Ágil, divertido y auténtico.",
+   "evitar": [
+    "Usar jerga mal o tarde"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "Twitch/Kick"
+   ],
+   "mensajes": [
+    "'Lo que viste en TikTok, en tu casa en Colombia.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials colombianos (29–44)",
+   "resumen": "Compradores digitales frecuentes, con familia o emprendimiento; buscan practicidad y buen precio.",
+   "como_habla": "'Bacano', 'de una', 'qué pena', 'ahorita'.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costo de vida"
+   ],
+   "motivaciones": [
+    "Practicidad",
+    "Ahorro"
+   ],
+   "frenos": [
+    "Malas experiencias previas"
+   ],
+   "tono": "Práctico y cercano.",
+   "evitar": [
+    "Mensajes sin beneficio claro"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Ahorra comprando en EE. UU., sin complicarte.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X colombiana (45–60)",
+   "resumen": "Decisores en hogar y empresa; valoran atención personal, seguridad y trayectoria.",
+   "como_habla": "'Con mucho gusto', 'qué pena con usted', 'regáleme la información'. Usan 'usted'.",
+   "dolores": [
+    "Procesos digitales",
+    "Fraudes"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Atención humana"
+   ],
+   "frenos": [
+    "Pagos en línea"
+   ],
+   "tono": "Respetuoso, de 'usted'.",
+   "evitar": [
+    "Tuteo inmediato"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Le atendemos personalmente, paso a paso.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers colombianos (60+)",
+   "resumen": "Reciben encomiendas de hijos en EE. UU. y España; valoran la familia y la confianza.",
+   "como_habla": "Formal y afectuoso: 'mijo', 'sumercé', 'con mucho gusto'.",
+   "dolores": [
+    "Tecnología",
+    "Miedo a estafas"
+   ],
+   "motivaciones": [
+    "Familia",
+    "Confianza"
+   ],
+   "frenos": [
+    "Procesos en línea"
+   ],
+   "tono": "Cálido y paciente.",
+   "evitar": [
+    "Textos técnicos"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "TV"
+   ],
+   "mensajes": [
+    "'Lo que su familia le envía, seguro hasta su puerta.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, comercio justo y marcas colombianas con propósito.",
+   "mensaje": "'Compra con propósito, apoya lo colombiano.'",
+   "evitar": "Greenwashing."
+  },
+  "ofertas": {
+   "como_llegarle": "Black Friday, Cyber Lunes y la ñapa: precio final claro.",
+   "mensaje": "'Ahorra de verdad, sin costos escondidos.'",
+   "evitar": "Letra pequeña."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas de EE. UU. y Europa, experiencia premium.",
+   "mensaje": "'Lo mejor de afuera, a tu puerta.'",
+   "evitar": "Estética barata."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos tecnológicos antes que en Colombia.",
+   "mensaje": "'Tenlo antes que nadie.'",
+   "evitar": "Fichas técnicas sin beneficio."
+  },
+  "wellness": {
+   "como_llegarle": "Suplementos y fitness con marcas reconocidas.",
+   "mensaje": "'Tu bienestar, sin fronteras.'",
+   "evitar": "Promesas de salud."
+  },
+  "familia": {
+   "como_llegarle": "Ahorro, seguridad y regalos para la familia (Navidad, Día de la Madre).",
+   "mensaje": "'Lo que tu familia necesita, a buen precio.'",
+   "evitar": "Individualismo."
+  },
+  "viajero": {
+   "como_llegarle": "Compras antes de viajar y turismo interno.",
+   "mensaje": "'Prepara tu viaje con todo lo que necesitas.'",
+   "evitar": "Clichés."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, periféricos y streamers locales.",
+   "mensaje": "'Arma tu setup con lo mejor de afuera.'",
+   "evitar": "Hablar de gaming sin saber."
+  },
+  "diaspora": {
+   "como_llegarle": "Colombianos en EE. UU. y España que envían a su familia.",
+   "mensaje": "'Cerca de los tuyos aunque estés lejos.'",
+   "evitar": "Politizar la migración."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Parce / parcero",
+   "significado": "Amigo.",
+   "uso": "Antioquia y todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Parce, tu pedido ya va en camino.",
+   "equivalentes": {
+    "EC": "pana / ñaño",
+    "MX": "carnal / cuate",
+    "ES": "tío / colega",
+    "AR": "amigo / chabón"
+   }
+  },
+  {
+   "expresion": "Bacano",
+   "significado": "Genial, muy bueno.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué bacano tu emprendimiento!",
+   "equivalentes": {
+    "EC": "bacán / chévere",
+    "MX": "chido / padre",
+    "ES": "guay",
+    "AR": "copado"
+   }
+  },
+  {
+   "expresion": "Chimba",
+   "significado": "Genial ('qué chimba'); también algo malo ('qué chimba' irónico). Origen vulgar.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "EC": "full bacán",
+    "MX": "chingón (vulgar)",
+    "ES": "de puta madre (vulgar)",
+    "AR": "re zarpado"
+   }
+  },
+  {
+   "expresion": "De una",
+   "significado": "Claro, sí, inmediatamente.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Lo quieres? ¡De una!",
+   "equivalentes": {
+    "EC": "de ley",
+    "MX": "va / órale",
+    "ES": "venga",
+    "AR": "dale"
+   }
+  },
+  {
+   "expresion": "Qué pena",
+   "significado": "Disculpe, perdón (no expresa tristeza).",
+   "uso": "Todo el país, especialmente Bogotá.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Qué pena la demora, ya le respondemos.",
+   "equivalentes": {
+    "EC": "disculpe",
+    "MX": "disculpe",
+    "ES": "perdona",
+    "AR": "perdón"
+   }
+  },
+  {
+   "expresion": "Regáleme",
+   "significado": "Deme, por favor (no implica gratis).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Regáleme su número de guía.",
+   "equivalentes": {
+    "EC": "me regala / deme",
+    "MX": "me da",
+    "ES": "me pones / me das",
+    "AR": "me das"
+   }
+  },
+  {
+   "expresion": "A la orden",
+   "significado": "Para servirle; saludo de vendedor.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Estamos a la orden por WhatsApp.",
+   "equivalentes": {
+    "EC": "a la orden",
+    "MX": "a sus órdenes",
+    "ES": "a tu disposición",
+    "AR": "a disposición"
+   }
+  },
+  {
+   "expresion": "Camellar",
+   "significado": "Trabajar.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "A camellar duro esta temporada.",
+   "equivalentes": {
+    "EC": "camellar",
+    "MX": "chambear",
+    "ES": "currar",
+    "AR": "laburar"
+   }
+  },
+  {
+   "expresion": "Lucas",
+   "significado": "Miles de pesos ('50 lucas' = 50.000 pesos).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Envío desde 50 lucas.",
+   "equivalentes": {
+    "EC": "dólares",
+    "MX": "varos / pesos",
+    "ES": "pavos",
+    "AR": "lucas (mil pesos)"
+   }
+  },
+  {
+   "expresion": "Guayabo",
+   "significado": "Resaca.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Lunes con guayabo de puente festivo.",
+   "equivalentes": {
+    "EC": "chuchaqui",
+    "MX": "cruda",
+    "ES": "resaca",
+    "AR": "resaca"
+   }
+  },
+  {
+   "expresion": "Tinto",
+   "significado": "Café negro.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Arranca el día con un tintico.",
+   "equivalentes": {
+    "EC": "café / cafecito",
+    "MX": "café americano",
+    "ES": "café solo",
+    "AR": "café"
+   }
+  },
+  {
+   "expresion": "Ñapa",
+   "significado": "Lo que se da de más gratis.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Y de ñapa, envío gratis.",
+   "equivalentes": {
+    "EC": "yapa",
+    "MX": "pilón",
+    "ES": "regalo / extra",
+    "AR": "yapa"
+   }
+  },
+  {
+   "expresion": "Rumbear",
+   "significado": "Salir de fiesta.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Look para rumbear en diciembre.",
+   "equivalentes": {
+    "EC": "farrear",
+    "MX": "ir de peda / de fiesta",
+    "ES": "salir de fiesta",
+    "AR": "salir de joda"
+   }
+  },
+  {
+   "expresion": "Pola",
+   "significado": "Cerveza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "EC": "cerveza",
+    "MX": "chela",
+    "ES": "caña / birra",
+    "AR": "birra"
+   }
+  },
+  {
+   "expresion": "Vaina",
+   "significado": "Cosa, asunto (comodín).",
+   "uso": "Caribe y todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Esa vaina llega en una semana.",
+   "equivalentes": {
+    "EC": "cosa",
+    "MX": "cosa / onda",
+    "ES": "cosa / movida",
+    "AR": "cosa"
+   }
+  },
+  {
+   "expresion": "Llave",
+   "significado": "Amigo cercano.",
+   "uso": "Caribe colombiano.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Qué más, mi llave?",
+   "equivalentes": {
+    "EC": "ñaño",
+    "MX": "carnal",
+    "ES": "colega",
+    "AR": "hermano"
+   }
+  },
+  {
+   "expresion": "Mamera",
+   "significado": "Pereza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Te da mamera hacer filas? Pide en línea.",
+   "equivalentes": {
+    "EC": "pereza / vagancia",
+    "MX": "flojera",
+    "ES": "pereza",
+    "AR": "paja"
+   }
+  },
+  {
+   "expresion": "Parche",
+   "significado": "Plan, grupo de amigos o lugar para pasarla bien.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "El mejor parche para estas vacaciones.",
+   "equivalentes": {
+    "EC": "plan / jorga",
+    "MX": "plan / bandita",
+    "ES": "plan",
+    "AR": "plan / junta"
+   }
+  },
+  {
+   "expresion": "Amañado",
+   "significado": "A gusto, adaptado y contento en un lugar.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ya estoy amañado en Miami.",
+   "equivalentes": {
+    "EC": "a gusto",
+    "MX": "hallado",
+    "ES": "a gusto",
+    "AR": "cómodo"
+   }
+  },
+  {
+   "expresion": "Gomelo",
+   "significado": "Persona de clase alta o que lo aparenta.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "EC": "aniñado",
+    "MX": "fresa",
+    "ES": "pijo",
+    "AR": "cheto"
+   }
+  },
+  {
+   "expresion": "Rebusque",
+   "significado": "Buscar ingresos con ingenio, a menudo de forma independiente.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Del rebusque a tener tu propia marca.",
+   "equivalentes": {
+    "EC": "camello extra",
+    "MX": "chambitas",
+    "ES": "buscarse la vida",
+    "AR": "changas"
+   }
+  },
+  {
+   "expresion": "Pilas",
+   "significado": "¡Atento! ¡Cuidado!",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Pilas con estas fechas de envío navideño.",
+   "equivalentes": {
+    "EC": "pilas",
+    "MX": "aguas",
+    "ES": "ojo",
+    "AR": "ojo / atento"
+   }
+  },
+  {
+   "expresion": "Pailas",
+   "significado": "Qué mala suerte; ya no hay nada que hacer.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Se acabó el descuento? Pailas.",
+   "equivalentes": {
+    "EC": "ni modo / qué mala suerte",
+    "MX": "ni modo",
+    "ES": "mala suerte",
+    "AR": "fue"
+   }
+  },
+  {
+   "expresion": "Sumercé",
+   "significado": "Usted (trato respetuoso y cariñoso).",
+   "uso": "Bogotá y Boyacá.",
+   "registro": "neutro",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Cómo le podemos ayudar, sumercé?",
+   "equivalentes": {
+    "EC": "usted",
+    "MX": "usted",
+    "ES": "usted",
+    "AR": "usted"
+   }
+  },
+  {
+   "expresion": "Chino / china",
+   "significado": "Niño, joven.",
+   "uso": "Bogotá.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regalos para los chinos en Navidad.",
+   "equivalentes": {
+    "EC": "guambra",
+    "MX": "chamaco",
+    "ES": "chaval",
+    "AR": "pibe"
+   }
+  },
+  {
+   "expresion": "Domicilio",
+   "significado": "Entrega a casa, delivery.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Recíbelo a domicilio.",
+   "equivalentes": {
+    "EC": "entrega a domicilio",
+    "MX": "envío a domicilio",
+    "ES": "envío a casa",
+    "AR": "delivery / envío"
+   }
+  },
+  {
+   "expresion": "Ahorita",
+   "significado": "Dentro de un rato (no necesariamente ya).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ahorita le confirmo.",
+   "equivalentes": {
+    "EC": "ya mismo",
+    "MX": "ahorita",
+    "ES": "ahora",
+    "AR": "ya / en un rato"
+   }
+  },
+  {
+   "expresion": "Berraco / verraco",
+   "significado": "Valiente, muy capaz; también enojado ('estar berraco').",
+   "uso": "Todo el país, fuerte en Antioquia y Santander.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Los emprendedores colombianos son berracos.",
+   "equivalentes": {
+    "EC": "aguerrido / bravo",
+    "MX": "chingón (vulgar) / capaz",
+    "ES": "crack",
+    "AR": "groso"
+   }
+  },
+  {
+   "expresion": "Hacer una vaca",
+   "significado": "Juntar dinero entre varios.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Hagan la vaca para el regalo.",
+   "equivalentes": {
+    "EC": "hacer una vaca / chanchito",
+    "MX": "cooperacha",
+    "ES": "hacer un bote",
+    "AR": "hacer una vaquita"
+   }
+  },
+  {
+   "expresion": "Qué más / ¿quiubo?",
+   "significado": "Saludo: ¿qué tal?",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Quiubo, parce? ¿Ya pediste?",
+   "equivalentes": {
+    "EC": "¿qué fue?",
+    "MX": "¿qué onda?",
+    "ES": "¿qué pasa?",
+    "AR": "¿qué onda?"
+   }
+  },
+  {
+   "expresion": "Prima",
+   "significado": "Pago adicional de junio y diciembre a empleados; dispara el consumo.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Que la prima te rinda: compra en EE. UU.",
+   "equivalentes": {
+    "EC": "décimo tercer sueldo",
+    "MX": "aguinaldo",
+    "ES": "paga extra",
+    "AR": "aguinaldo"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Colombia",
+   "#Bogota",
+   "#Medellin",
+   "#Cali",
+   "#EmprendimientoColombia",
+   "#HechoEnColombia",
+   "#EmprendedoresColombianos",
+   "#ComprasEnUSA"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio final en pesos",
+     "Reacciones a tendencias de streamers",
+     "'Lo que me costó vs. lo que vale en Colombia'",
+     "Storytime de emprendedores"
+    ],
+    "ganchos": [
+     "'Parce, nadie te dice esto antes de comprar en USA'",
+     "'Esto me ahorré trayéndolo de Miami'"
+    ],
+    "horario": "19:00–23:00",
+    "hashtags": [
+     "#TikTokColombia",
+     "#ColombiaTikTok",
+     "#ComprasEnUSA",
+     "#Unboxing"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels con humor regional respetuoso",
+     "Carruseles educativos",
+     "Historias con preguntas"
+    ],
+    "ganchos": [
+     "'Guarda esto antes del Black Friday'"
+    ],
+    "horario": "12:00–14:00 y 19:00–22:00",
+    "hashtags": [
+     "#EmprendedoresColombianos",
+     "#HechoEnColombia",
+     "#MarcasColombianas"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Tutoriales de casillero y compras en EE. UU.",
+     "Reseñas comparativas"
+    ],
+    "ganchos": [
+     "'Cómo comprar en Amazon desde Colombia en 2026'"
+    ],
+    "horario": "Fines de semana",
+    "hashtags": [
+     "#Colombia",
+     "#ComprasEnUSA"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación",
+     "Datos de comercio exterior"
+    ],
+    "ganchos": [
+     "'Así exportamos café colombiano a EE. UU.'"
+    ],
+    "horario": "Martes a jueves, 7:00–9:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#ExportacionesColombia"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Videos con subtítulos",
+     "Grupos de emprendedores"
+    ],
+    "ganchos": [
+     "'¿Le ha llegado un cobro sorpresa? Le explicamos.'"
+    ],
+    "horario": "19:00–21:00",
+    "hashtags": [
+     "#Colombia"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentario de actualidad deportiva"
+    ],
+    "ganchos": [
+     "Datos curiosos de consumo"
+    ],
+    "horario": "Durante partidos",
+    "hashtags": [
+     "#SelecciónColombia"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Café de especialidad colombiano en Alemania y Países Bajos",
+   "senal": "Interés sostenido por café de origen y cafeterías de especialidad en Europa.",
+   "desde": "CO",
+   "hacia": "DE",
+   "sector": "cafe-cacao",
+   "accion": "Contenido de finca y trazabilidad para tostadores y tiendas europeas."
+  },
+  {
+   "titulo": "Moda y fajas colombianas en EE. UU.",
+   "senal": "Alta demanda de fajas y moda de control colombiana en la comunidad hispana de EE. UU.",
+   "desde": "CO",
+   "hacia": "US",
+   "sector": "moda",
+   "accion": "Creadores latinas en Miami y Houston mostrando talla y calidad."
+  },
+  {
+   "titulo": "Cosmética natural colombiana en España",
+   "senal": "Interés por belleza natural y marcas latinoamericanas en España.",
+   "desde": "CO",
+   "hacia": "ES",
+   "sector": "belleza",
+   "accion": "Contenido de ingredientes de la biodiversidad colombiana."
+  },
+  {
+   "titulo": "Temporada navideña y prima de diciembre",
+   "senal": "La prima y las compras de fin de año disparan las compras en EE. UU.",
+   "desde": "US",
+   "hacia": "CO",
+   "sector": "ecommerce",
+   "accion": "Campañas de 'compra antes de la fecha límite' para que llegue antes del 24."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "casillero en Miami",
+   "total": 62,
+   "anunciantes": [
+    {
+     "nombre": "Cargo 4U",
+     "url": "https://www.facebook.com/ads/library/?id=1169430455476194"
+    },
+    {
+     "nombre": "Interexpress",
+     "url": "https://www.facebook.com/ads/library/?id=29160474463604547"
+    },
+    {
+     "nombre": "Upper Colombia",
+     "url": "https://www.facebook.com/ads/library/?id=1676431134081818"
+    },
+    {
+     "nombre": "SkyOne Logística",
+     "url": "https://www.facebook.com/ads/library/?id=1684113206649868"
+    },
+    {
+     "nombre": "Nicolas Forero Shopper",
+     "url": "https://www.facebook.com/ads/library/?id=1792895305262380"
+    }
+   ],
+   "patron": "Varios anunciantes llevan directo a WhatsApp y aparecen 'personal shoppers' independientes compitiendo con los couriers."
+  }
+ ]
+}

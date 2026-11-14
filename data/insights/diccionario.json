@@ -1,0 +1,22 @@
+{
+ "nota": "Cómo se dice lo mismo en cada mercado. Útil para adaptar un mismo mensaje a varios países.",
+ "paises": ["CO", "MX", "EC", "PE", "CL", "AR", "ES", "US"],
+ "conceptos": [
+  {"concepto": "¡Genial!", "CO": "bacano / chévere", "MX": "chido / padre", "EC": "chévere / bacán", "PE": "chévere / bacán", "CL": "bacán / la raja", "AR": "copado / genial", "ES": "guay / mola", "US": "cool / fire"},
+  {"concepto": "Amigo", "CO": "parce / llave", "MX": "carnal / cuate", "EC": "pana / ñaño", "PE": "pata / causa", "CL": "compadre / weón (vulgar)", "AR": "amigo / chabón", "ES": "tío / colega", "US": "bro / homie"},
+  {"concepto": "Trabajo", "CO": "camello", "MX": "chamba", "EC": "camello", "PE": "chamba", "CL": "pega", "AR": "laburo", "ES": "curro", "US": "job / gig"},
+  {"concepto": "Dinero", "CO": "plata / lucas", "MX": "lana / varo", "EC": "plata", "PE": "plata / lucas", "CL": "plata / lucas", "AR": "guita / plata", "ES": "pasta", "US": "money / bucks"},
+  {"concepto": "Lo que se da de más", "CO": "ñapa", "MX": "pilón", "EC": "yapa", "PE": "yapa", "CL": "yapa", "AR": "yapa", "ES": "regalo / extra", "US": "freebie"},
+  {"concepto": "Resaca", "CO": "guayabo", "MX": "cruda", "EC": "chuchaqui", "PE": "resaca", "CL": "caña", "AR": "resaca", "ES": "resaca", "US": "hangover"},
+  {"concepto": "¡Cuidado!", "CO": "¡pilas!", "MX": "¡aguas!", "EC": "¡pilas!", "PE": "¡aguas! / ¡ojo!", "CL": "¡ojo!", "AR": "¡ojo!", "ES": "¡ojo!", "US": "heads up"},
+  {"concepto": "Chaqueta", "CO": "chaqueta", "MX": "chamarra", "EC": "chompa", "PE": "casaca", "CL": "chaqueta / parka", "AR": "campera", "ES": "chaqueta / cazadora", "US": "jacket"},
+  {"concepto": "Bus / transporte público", "CO": "bus / buseta", "MX": "camión", "EC": "bus", "PE": "combi / micro", "CL": "micro", "AR": "colectivo / bondi", "ES": "autobús", "US": "bus"},
+  {"concepto": "Celular", "CO": "celular", "MX": "celular / cel", "EC": "celular", "PE": "celular", "CL": "celular", "AR": "celular", "ES": "móvil", "US": "phone / cell"},
+  {"concepto": "Computador", "CO": "computador", "MX": "computadora", "EC": "computadora", "PE": "computadora", "CL": "computador", "AR": "computadora", "ES": "ordenador", "US": "computer / laptop"},
+  {"concepto": "Pago extra de fin de año", "CO": "prima", "MX": "aguinaldo", "EC": "décimo tercer sueldo", "PE": "gratificación", "CL": "aguinaldo", "AR": "aguinaldo", "ES": "paga extra", "US": "holiday bonus"},
+  {"concepto": "Pagar a plazos", "CO": "a cuotas", "MX": "a meses sin intereses", "EC": "diferido", "PE": "en cuotas", "CL": "en cuotas", "AR": "en cuotas", "ES": "a plazos", "US": "buy now, pay later"},
+  {"concepto": "Persona de clase alta (informal)", "CO": "gomelo", "MX": "fresa", "EC": "aniñado", "PE": "pituco", "CL": "cuico", "AR": "cheto", "ES": "pijo", "US": "preppy / bougie"},
+  {"concepto": "¿Qué tal?", "CO": "¿qué más? / ¿quiubo?", "MX": "¿qué onda?", "EC": "¿qué fue?", "PE": "¿qué tal, causa?", "CL": "¿cómo estai?", "AR": "¿qué onda? / ¿todo bien?", "ES": "¿qué pasa? / ¿qué tal?", "US": "what's up?"},
+  {"concepto": "En un momento (ambiguo)", "CO": "ahorita", "MX": "ahorita", "EC": "ya mismo", "PE": "ahorita", "CL": "al tiro (= ya)", "AR": "en un rato", "ES": "ahora", "US": "in a bit"}
+ ]
+}

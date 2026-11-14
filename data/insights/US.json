@@ -1,0 +1,759 @@
+{
+ "pais": "US",
+ "actualizado": "2026-11-14T04:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "En EE. UU. dominan el deporte (NBA, fútbol americano universitario), el entretenimiento navideño (estrenos de temporada) y la recta final antes de Thanksgiving, Black Friday y Cyber Monday. La comunidad hispana sigue de cerca la actualidad de sus países de origen. Para marcas que hablan a latinos en EE. UU.: emoción de fin de año, regalos para la familia en casa y fechas límite de envío.",
+ "semaforo": [
+  {
+   "termino": "the gospel of christmas tyler perry cast",
+   "color": "verde",
+   "por_que": "Entretenimiento navideño familiar; abre la temporada de regalos.",
+   "idea": "Contenido de 'regalos para enviar a la familia en Latinoamérica antes de Navidad'."
+  },
+  {
+   "termino": "is steph curry playing tonight",
+   "color": "amarillo",
+   "por_que": "Interés deportivo alto, pero sin conexión directa con el público latino emprendedor.",
+   "idea": "Solo como gancho ligero en historias o para marcas deportivas."
+  },
+  {
+   "termino": "cleveland cavaliers vs miami heat match player stats",
+   "color": "amarillo",
+   "por_que": "Miami es una plaza clave para latinos; el Heat genera conversación local.",
+   "idea": "Guiño local en Miami: 'desde Miami a tu casa en Colombia o Ecuador'."
+  },
+  {
+   "termino": "muerte",
+   "color": "rojo",
+   "por_que": "Tema trágico.",
+   "idea": "No usar."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor en EE. UU. (foco hispano)",
+   "resumen": "Mercado enorme y exigente: espera envíos rápidos, devoluciones fáciles y atención inmediata. El público hispano (más de 60 millones) es bicultural: consume en inglés y en español, mantiene vínculos fuertes con su país de origen y envía dinero y paquetes a su familia. Miami concentra colombianos y venezolanos; Nueva York y Nueva Jersey, ecuatorianos, dominicanos y colombianos; Texas y California, mexicanos y centroamericanos.",
+   "como_habla": "Mezcla inglés y español (spanglish) con naturalidad: 'parquear', 'la troca', 'aplicar' (por solicitar), 'el bil' (la factura). La Gen Z usa jerga de internet en inglés ('no cap', 'slay', 'it's giving').",
+   "dolores": [
+    "Costos altos para enviar a su país",
+    "Paquetes que tardan o se pierden al llegar a destino",
+    "Atención solo en inglés o solo automatizada",
+    "Tiempos de entrega antes de fechas clave"
+   ],
+   "motivaciones": [
+    "Cuidar y sorprender a su familia en el país de origen",
+    "Rapidez y seguimiento",
+    "Atención en español",
+    "Confianza en una empresa con oficinas en ambos países"
+   ],
+   "frenos": [
+    "Desconfianza tras malas experiencias con envíos",
+    "Precios poco claros"
+   ],
+   "tono": "Cercano y emocional para la diáspora; ágil y directo para el público general.",
+   "evitar": [
+    "Temas migratorios y políticos",
+    "Estereotipos latinos",
+    "Asumir que todos los latinos son iguales: cada nacionalidad tiene su identidad"
+   ],
+   "canales": [
+    "Facebook y WhatsApp (diáspora)",
+    "Instagram y TikTok (jóvenes bilingües)",
+    "YouTube",
+    "Radio y TV en español (Univision, Telemundo)"
+   ],
+   "mensajes": [
+    "'Envía a tu familia con la seguridad de que llega.'",
+    "'Atención en español, de principio a fin.'",
+    "'Haz tu pedido antes de la fecha límite para que llegue en Navidad.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor latino en EE. UU.",
+   "resumen": "Los latinos son uno de los grupos que más negocios crean en EE. UU. Venden productos de sus países, importan para la comunidad o quieren llevar sus marcas a Latinoamérica.",
+   "como_habla": "Bilingüe: 'mi business', 'el inventario', 'shipping', 'vender en Amazon'.",
+   "dolores": [
+    "Costos logísticos internacionales",
+    "Regulación de importación",
+    "Acceso a capital"
+   ],
+   "motivaciones": [
+    "Crecer y diversificar",
+    "Conectar con su país de origen"
+   ],
+   "frenos": [
+    "Complejidad aduanera"
+   ],
+   "tono": "Profesional y cercano, en español o bilingüe.",
+   "evitar": [
+    "Tecnicismos sin explicar"
+   ],
+   "canales": [
+    "Instagram",
+    "LinkedIn",
+    "Facebook",
+    "Cámaras de comercio hispanas"
+   ],
+   "mensajes": [
+    "'Trae los productos de tu país para tu negocio en EE. UU.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Importador o exportador en EE. UU.",
+   "resumen": "Empresas que importan alimentos, flores, café y moda de Latinoamérica o exportan tecnología e insumos.",
+   "como_habla": "'Customs broker', 'FDA', 'lead time', 'door to door'.",
+   "dolores": [
+    "Cumplimiento regulatorio (FDA, CBP)",
+    "Tiempos de tránsito"
+   ],
+   "motivaciones": [
+    "Proveedor confiable en origen y destino"
+   ],
+   "frenos": [
+    "Riesgo regulatorio"
+   ],
+   "tono": "Profesional.",
+   "evitar": [
+    "Informalidad"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Ferias"
+   ],
+   "mensajes": [
+    "'Tu carga desde Latinoamérica, con cumplimiento y seguimiento.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande",
+   "resumen": "Compras corporativas con procesos estrictos y foco en eficiencia.",
+   "como_habla": "'Vendor', 'SLA', 'KPIs'.",
+   "dolores": [
+    "Riesgo de proveedor"
+   ],
+   "motivaciones": [
+    "Confiabilidad"
+   ],
+   "frenos": [
+    "Ciclos largos"
+   ],
+   "tono": "Ejecutivo.",
+   "evitar": [
+    "Mensajes masivos"
+   ],
+   "canales": [
+    "LinkedIn"
+   ],
+   "mensajes": [
+    "'Operación logística con KPIs claros.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z en EE. UU. (18–28)",
+   "resumen": "Bilingüe y digital; compra por TikTok Shop, valora autenticidad y causas.",
+   "como_habla": "'No cap', 'slay', 'lowkey', 'it's giving', 'bet', 'mid', 'rizz'.",
+   "dolores": [
+    "Presupuesto",
+    "Desconfianza de la publicidad"
+   ],
+   "motivaciones": [
+    "Autenticidad",
+    "Tendencia",
+    "Identidad latina"
+   ],
+   "frenos": [
+    "Marcas que fingen ser jóvenes"
+   ],
+   "tono": "Auténtico, con humor.",
+   "evitar": [
+    "Jerga forzada"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Proud of where you're from: envía un pedacito de aquí a tu familia allá.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials en EE. UU. (29–44)",
+   "resumen": "Etapa familiar y profesional; principales remitentes de dinero y paquetes a su país.",
+   "como_habla": "Bilingüe, práctico.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costos de envío"
+   ],
+   "motivaciones": [
+    "Familia",
+    "Practicidad"
+   ],
+   "frenos": [
+    "Malas experiencias"
+   ],
+   "tono": "Práctico y emocional.",
+   "evitar": [
+    "Mensajes vacíos"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Cuida a los tuyos desde aquí.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X en EE. UU. (45–60)",
+   "resumen": "Hispanos establecidos, a menudo con negocio propio; valoran confianza y trato en español.",
+   "como_habla": "Español formal o bilingüe.",
+   "dolores": [
+    "Procesos digitales"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Atención humana"
+   ],
+   "frenos": [
+    "Pagos en línea"
+   ],
+   "tono": "Respetuoso.",
+   "evitar": [
+    "Jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Radio en español"
+   ],
+   "mensajes": [
+    "'Le atendemos en español, personalmente.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers en EE. UU. (60+)",
+   "resumen": "Primera generación migrante; muy vinculados a su país de origen.",
+   "como_habla": "Español formal.",
+   "dolores": [
+    "Tecnología"
+   ],
+   "motivaciones": [
+    "Familia"
+   ],
+   "frenos": [
+    "Procesos en línea"
+   ],
+   "tono": "Cálido.",
+   "evitar": [
+    "Tecnicismos"
+   ],
+   "canales": [
+    "TV y radio en español",
+    "Facebook"
+   ],
+   "mensajes": [
+    "'Su encomienda llega segura a su familia.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Comercio justo y productos latinos con propósito.",
+   "mensaje": "'Apoya a productores de tu país.'",
+   "evitar": "Greenwashing."
+  },
+  "ofertas": {
+   "como_llegarle": "Black Friday, Cyber Monday y Prime Day.",
+   "mensaje": "'Aprovecha los precios de EE. UU. y envíalos a tu familia.'",
+   "evitar": "Letra pequeña."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas premium y experiencia de compra.",
+   "mensaje": "'Lo mejor, para los que más quieres.'",
+   "evitar": "Estética barata."
+  },
+  "early-adopter": {
+   "como_llegarle": "Tecnología recién lanzada para regalar.",
+   "mensaje": "'Que tu familia lo tenga primero.'",
+   "evitar": "Fichas técnicas."
+  },
+  "wellness": {
+   "como_llegarle": "Suplementos y vitaminas para enviar a la familia.",
+   "mensaje": "'Cuida la salud de los tuyos a la distancia.'",
+   "evitar": "Promesas médicas."
+  },
+  "familia": {
+   "como_llegarle": "Envíos de regalos y útiles a la familia en casa.",
+   "mensaje": "'Cerca aunque estés lejos.'",
+   "evitar": "Individualismo."
+  },
+  "viajero": {
+   "como_llegarle": "Viajes a su país en temporada alta (diciembre).",
+   "mensaje": "'Viaja ligero: envía tus regalos antes.'",
+   "evitar": "Clichés."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas y juegos para regalar en Latinoamérica.",
+   "mensaje": "'El regalo gamer que esperan allá.'",
+   "evitar": "No conocer la cultura."
+  },
+  "diaspora": {
+   "como_llegarle": "Corazón del público: orgullo de origen, familia y confianza.",
+   "mensaje": "'Desde aquí, para tu gente allá.'",
+   "evitar": "Politizar la migración."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "No cap",
+   "significado": "En serio, sin mentir.",
+   "uso": "Gen Z, todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Best shipping rates, no cap.",
+   "equivalentes": {
+    "CO": "en serio, parce",
+    "MX": "neta",
+    "EC": "de ley",
+    "ES": "en serio"
+   }
+  },
+  {
+   "expresion": "Slay",
+   "significado": "Lucirse, hacerlo increíble.",
+   "uso": "Gen Z.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "That outfit? Slay.",
+   "equivalentes": {
+    "CO": "romperla",
+    "MX": "rifarse",
+    "EC": "lucirse",
+    "ES": "petarlo"
+   }
+  },
+  {
+   "expresion": "Lowkey / highkey",
+   "significado": "Un poco, discretamente / muchísimo, abiertamente.",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Lowkey obsessed with this.",
+   "equivalentes": {
+    "CO": "medio / full",
+    "MX": "medio / bien",
+    "EC": "medio / full",
+    "ES": "un poco / muchísimo"
+   }
+  },
+  {
+   "expresion": "It's giving…",
+   "significado": "Transmite, tiene la vibra de…",
+   "uso": "Gen Z.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "It's giving holiday vibes.",
+   "equivalentes": {
+    "CO": "tiene toda la vibra de",
+    "MX": "da vibras de",
+    "EC": "da vibra de",
+    "ES": "da rollo de"
+   }
+  },
+  {
+   "expresion": "Bet",
+   "significado": "Dale, de acuerdo.",
+   "uso": "Jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Order before Dec 10? Bet.",
+   "equivalentes": {
+    "CO": "de una",
+    "MX": "va",
+    "EC": "de ley",
+    "ES": "vale"
+   }
+  },
+  {
+   "expresion": "Mid",
+   "significado": "Mediocre, regular.",
+   "uso": "Gen Z.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "más o menos",
+    "MX": "equis",
+    "EC": "más o menos",
+    "ES": "regulero"
+   }
+  },
+  {
+   "expresion": "Vibe",
+   "significado": "Ambiente, energía.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Holiday vibe.",
+   "equivalentes": {
+    "CO": "vibra",
+    "MX": "vibra / onda",
+    "EC": "vibra",
+    "ES": "rollo"
+   }
+  },
+  {
+   "expresion": "GOAT",
+   "significado": "El mejor de todos los tiempos.",
+   "uso": "Deporte y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "The GOAT of gifts.",
+   "equivalentes": {
+    "CO": "el más berraco",
+    "MX": "el más chingón (vulgar) / el mejor",
+    "EC": "el mejor",
+    "ES": "el puto amo (vulgar)"
+   }
+  },
+  {
+   "expresion": "Main character energy",
+   "significado": "Actitud de protagonista.",
+   "uso": "Gen Z.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Main character energy this season.",
+   "equivalentes": {
+    "CO": "actitud de protagonista",
+    "MX": "modo protagonista",
+    "EC": "modo protagonista",
+    "ES": "modo protagonista"
+   }
+  },
+  {
+   "expresion": "IYKYK",
+   "significado": "'If you know, you know': si sabes, sabes.",
+   "uso": "Jóvenes en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Arepas from home… IYKYK.",
+   "equivalentes": {
+    "CO": "el que sabe, sabe",
+    "MX": "el que sabe, sabe",
+    "EC": "el que sabe, sabe",
+    "ES": "quien lo sabe, lo sabe"
+   }
+  },
+  {
+   "expresion": "Deadass",
+   "significado": "En serio (muy de Nueva York).",
+   "uso": "Nueva York.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "en serio",
+    "MX": "neta",
+    "EC": "en serio",
+    "ES": "en serio"
+   }
+  },
+  {
+   "expresion": "Bodega",
+   "significado": "Tienda de barrio (Nueva York).",
+   "uso": "Nueva York.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "From the bodega to your family's table.",
+   "equivalentes": {
+    "CO": "tienda",
+    "MX": "tiendita",
+    "EC": "tienda",
+    "ES": "colmado / tienda"
+   }
+  },
+  {
+   "expresion": "Parquear",
+   "significado": "Estacionar (de 'to park').",
+   "uso": "Spanglish hispano.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Parquea y recoge tu paquete.",
+   "equivalentes": {
+    "CO": "parquear",
+    "MX": "estacionar",
+    "EC": "parquear",
+    "ES": "aparcar"
+   }
+  },
+  {
+   "expresion": "Troca",
+   "significado": "Camioneta (de 'truck').",
+   "uso": "Spanglish, mexicanos.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Accesorios para tu troca.",
+   "equivalentes": {
+    "CO": "camioneta",
+    "MX": "troca",
+    "EC": "camioneta",
+    "ES": "furgoneta"
+   }
+  },
+  {
+   "expresion": "Aplicar",
+   "significado": "Solicitar (de 'to apply').",
+   "uso": "Spanglish.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Aplica a nuestra cuenta empresarial.",
+   "equivalentes": {
+    "CO": "aplicar / solicitar",
+    "MX": "solicitar",
+    "EC": "aplicar",
+    "ES": "solicitar"
+   }
+  },
+  {
+   "expresion": "El bil",
+   "significado": "La factura (de 'bill').",
+   "uso": "Spanglish.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "la factura / el recibo",
+    "MX": "el recibo",
+    "EC": "la planilla",
+    "ES": "la factura"
+   }
+  },
+  {
+   "expresion": "Rentar",
+   "significado": "Alquilar.",
+   "uso": "Hispanos en EE. UU. y México.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "arrendar",
+    "MX": "rentar",
+    "EC": "arrendar",
+    "ES": "alquilar"
+   }
+  },
+  {
+   "expresion": "Lonche",
+   "significado": "Almuerzo (de 'lunch').",
+   "uso": "Spanglish.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "almuerzo",
+    "MX": "lonche / comida",
+    "EC": "almuerzo",
+    "ES": "comida"
+   }
+  },
+  {
+   "expresion": "Black Friday / Cyber Monday",
+   "significado": "Grandes fechas de descuentos tras Thanksgiving.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Compra en Black Friday y envíalo a tu familia.",
+   "equivalentes": {
+    "CO": "Black Friday / Cyber Lunes",
+    "MX": "Buen Fin",
+    "EC": "Black Friday",
+    "ES": "Black Friday"
+   }
+  },
+  {
+   "expresion": "Thanksgiving",
+   "significado": "Día de Acción de Gracias (cuarto jueves de noviembre).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Este Thanksgiving, agradece enviando un detalle a casa.",
+   "equivalentes": {
+    "CO": "—",
+    "MX": "—",
+    "EC": "—",
+    "ES": "—"
+   }
+  },
+  {
+   "expresion": "Ship / shipping",
+   "significado": "Enviar / envío.",
+   "uso": "Todo el país; también en spanglish ('te lo shipeo').",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Free shipping este fin de semana.",
+   "equivalentes": {
+    "CO": "envío",
+    "MX": "envío",
+    "EC": "envío",
+    "ES": "envío"
+   }
+  },
+  {
+   "expresion": "Tracking",
+   "significado": "Número o seguimiento del envío.",
+   "uso": "Todo el país, también en spanglish.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Revisa tu tracking en tiempo real.",
+   "equivalentes": {
+    "CO": "número de guía",
+    "MX": "número de rastreo",
+    "EC": "número de guía",
+    "ES": "número de seguimiento"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#LatinosEnUSA",
+   "#Hispanos",
+   "#Miami",
+   "#NuevaYork",
+   "#Houston",
+   "#LatinaOwned",
+   "#LatinoOwnedBusiness",
+   "#Spanglish"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Lo que envío a mi familia en Navidad",
+     "Spanglish humor",
+     "Día en la vida de un latino en EE. UU.",
+     "Unboxing de lo que llegó a mi mamá"
+    ],
+    "ganchos": [
+     "'Lo que más le pide mi mamá desde EE. UU.'",
+     "'Si eres latino en USA, necesitas saber esto antes de diciembre'"
+    ],
+    "horario": "19:00–22:00 (hora local)",
+    "hashtags": [
+     "#LatinosEnUSA",
+     "#Latinos",
+     "#Spanglish",
+     "#TikTokLatino"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels emocionales de familia",
+     "Carruseles de fechas límite"
+    ],
+    "ganchos": [
+     "'Fechas límite para que tu regalo llegue antes del 24'"
+    ],
+    "horario": "12:00–13:00 y 19:00–21:00",
+    "hashtags": [
+     "#LatinaOwned",
+     "#HispanicBusiness",
+     "#Miami"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Tutoriales de envío a Latinoamérica"
+    ],
+    "ganchos": [
+     "'Cómo enviar paquetes a Colombia y Ecuador desde EE. UU.'"
+    ],
+    "horario": "Fines de semana",
+    "hashtags": [
+     "#LatinosEnUSA"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de emprendimiento latino"
+    ],
+    "ganchos": [
+     "'Lo que aprendí llevando mi marca de Miami a Bogotá'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00 (ET)",
+    "hashtags": [
+     "#HispanicBusiness",
+     "#LatinoEntrepreneurs"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Videos en español con subtítulos",
+     "Grupos de comunidades por nacionalidad"
+    ],
+    "ganchos": [
+     "'¿Va a enviar regalos a su familia? Le contamos las fechas.'"
+    ],
+    "horario": "19:00–21:00 (hora local)",
+    "hashtags": [
+     "#Hispanos"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Actualidad deportiva"
+    ],
+    "ganchos": [
+     "Datos curiosos"
+    ],
+    "horario": "Durante partidos",
+    "hashtags": [
+     "#NBA"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Navidad de la diáspora: regalos para la familia en Latinoamérica",
+   "senal": "Pico de envíos de la comunidad hispana entre noviembre y diciembre.",
+   "desde": "US",
+   "hacia": "CO",
+   "sector": "ecommerce",
+   "accion": "Campañas con fechas límite de envío por país y mensajes emocionales."
+  },
+  {
+   "titulo": "Productos de nostalgia latinos",
+   "senal": "Demanda constante de alimentos y marcas de origen en Miami, Nueva York y Houston.",
+   "desde": "EC",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Contenido 'el sabor de casa' con creadores de cada nacionalidad."
+  },
+  {
+   "titulo": "Moda y belleza latinoamericana",
+   "senal": "Fajas, cosmética natural y moda de baño latinoamericana con demanda creciente entre latinas en EE. UU.",
+   "desde": "CO",
+   "hacia": "US",
+   "sector": "moda",
+   "accion": "Colaboraciones con creadoras latinas."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "envíos a Colombia",
+   "total": 501,
+   "anunciantes": [
+    {
+     "nombre": "Sendex",
+     "url": "https://www.facebook.com/ads/library/?id=1438487205118078"
+    },
+    {
+     "nombre": "OGlobo Cargo",
+     "url": "https://www.facebook.com/ads/library/?id=1441054391429668"
+    }
+   ],
+   "patron": "Sendex corre muchas variantes al tiempo, todas con WhatsApp como llamado a la acción."
+  }
+ ]
+}

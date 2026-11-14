@@ -1,0 +1,875 @@
+{
+ "pais": "MX",
+ "actualizado": "2026-11-14T04:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "México combina fútbol (Liga MX con Cruz Azul vs. Chivas y la Liga de Naciones), series nacionales en streaming ('La ley de Alicia' en Netflix) y una agenda fuerte de migración, aranceles y comercio con EE. UU. y China. Para marcas: el entretenimiento y el fútbol son terreno seguro; migración y aranceles exigen mucho cuidado. Es temporada de compras de fin de año, aguinaldo y meses sin intereses.",
+ "semaforo": [
+  {
+   "termino": "la ley de alicia reparto",
+   "color": "verde",
+   "por_que": "Serie mexicana en Netflix con conversación positiva y masiva.",
+   "idea": "Para creadores: memes y 'qué personaje eres según tu forma de comprar'. Para marcas: guiños de temporada de maratón en casa."
+  },
+  {
+   "termino": "cruz azul vs chivas",
+   "color": "verde",
+   "por_que": "Clásico de la Liga MX: alta emoción y conversación familiar.",
+   "idea": "Contenido de afición (jerseys, artículos deportivos) cuidando no tomar partido de forma ofensiva."
+  },
+  {
+   "termino": "pobreza en méxico",
+   "color": "amarillo",
+   "por_que": "Dato económico relevante, pero sensible.",
+   "idea": "Solo como contexto para mensajes de oportunidad y emprendimiento, nunca como gancho comercial."
+  },
+  {
+   "termino": "servicio de control de inmigración y aduanas",
+   "color": "rojo",
+   "por_que": "Tema migratorio y político de alta sensibilidad.",
+   "idea": "No usar en comunicación de marca."
+  },
+  {
+   "termino": "caravana",
+   "color": "rojo",
+   "por_que": "Migración y tensiones diplomáticas.",
+   "idea": "No usar en comunicación de marca."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor mexicano",
+   "resumen": "Gran mercado digital y muy acostumbrado al e-commerce (Mercado Libre, Amazon, Shein, Temu). Busca meses sin intereses, promociones (Buen Fin, Hot Sale) y envío gratis. Cortés y de trato indirecto: el 'no' se dice suave. Diferencias regionales: norte (Monterrey) más directo y con fuerte influencia de EE. UU.; centro (CDMX) urbano y tendencia; occidente (Guadalajara) tradicional y emprendedor.",
+   "como_habla": "Muy cortés y con diminutivos ('ahorita', 'un cafecito', '¿mande?'). En lo informal: 'qué onda', 'chido', 'neta', 'güey' (entre amigos), 'está padre', 'no manches'.",
+   "dolores": [
+    "Paquetes retenidos en aduana o que no llegan",
+    "Costos extra de envío e impuestos",
+    "Fraudes en compras en línea",
+    "Tiempos de entrega largos"
+   ],
+   "motivaciones": [
+    "Meses sin intereses y promociones",
+    "Envío gratis",
+    "Marcas de EE. UU. a buen precio",
+    "Reseñas y recomendaciones"
+   ],
+   "frenos": [
+    "Desconfianza en tiendas nuevas",
+    "Pago anticipado sin respaldo"
+   ],
+   "tono": "Cálido, respetuoso y con humor ligero; el mexicano aprecia la amabilidad y el ingenio.",
+   "evitar": [
+    "Migración, aranceles y política",
+    "Estereotipos (sombrero, siesta, narco)",
+    "Groserías como gancho",
+    "Palabras despectivas como 'naco' o 'indio'"
+   ],
+   "canales": [
+    "Facebook y WhatsApp (masivos)",
+    "TikTok e Instagram (descubrimiento)",
+    "YouTube (reseñas)",
+    "Mercado Libre y Amazon (búsqueda de producto)"
+   ],
+   "mensajes": [
+    "'Lo compras en EE. UU. y te llega a tu casa en México.'",
+    "'Sabes cuánto pagas desde el principio.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce mexicano",
+   "resumen": "Desde el 'changarro' y el tianguis hasta marcas digitales en Mercado Libre, Amazon y TikTok Shop. Importa de EE. UU. y China para revender y busca exportar a EE. UU., su mercado natural.",
+   "como_habla": "'Mi negocio', 'mi changarro', 'echarle ganas', 'sacar la chamba', 'vender por Marketplace'.",
+   "dolores": [
+    "Costos logísticos",
+    "Comisiones de marketplaces",
+    "Trámites para exportar a EE. UU.",
+    "Competencia china"
+   ],
+   "motivaciones": [
+    "Vender en EE. UU.",
+    "Cobrar en dólares",
+    "Escalar el negocio"
+   ],
+   "frenos": [
+    "Desconocimiento de trámites",
+    "Miedo a aranceles"
+   ],
+   "tono": "Motivador y concreto.",
+   "evitar": [
+    "Sonar condescendiente"
+   ],
+   "canales": [
+    "TikTok",
+    "Facebook",
+    "YouTube",
+    "Grupos de WhatsApp"
+   ],
+   "mensajes": [
+    "'Tu changarro puede vender en EE. UU.: te decimos cómo.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Fuerte vínculo con EE. UU. (T-MEC). Exporta alimentos, manufacturas y autopartes; importa insumos.",
+   "como_habla": "'Pedimento', 'agente aduanal', 'cotización', 'flete', 'T-MEC'.",
+   "dolores": [
+    "Incertidumbre arancelaria",
+    "Tiempos en frontera",
+    "Costos"
+   ],
+   "motivaciones": [
+    "Cumplimiento",
+    "Diversificar mercados"
+   ],
+   "frenos": [
+    "Riesgo de cambio de proveedor"
+   ],
+   "tono": "Profesional.",
+   "evitar": [
+    "Opinar sobre política comercial"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Contacto directo",
+    "Ferias"
+   ],
+   "mensajes": [
+    "'Tu carga a EE. UU. con seguimiento y asesoría.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande y corporativa",
+   "resumen": "Procesos formales, nearshoring y cadenas de suministro hacia EE. UU.",
+   "como_habla": "'Nearshoring', 'proveeduría', 'SLA'.",
+   "dolores": [
+    "Riesgo de cadena de suministro"
+   ],
+   "motivaciones": [
+    "Confiabilidad",
+    "Escala"
+   ],
+   "frenos": [
+    "Ciclos largos"
+   ],
+   "tono": "Ejecutivo.",
+   "evitar": [
+    "Mensajes masivos"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Eventos"
+   ],
+   "mensajes": [
+    "'Logística confiable para tu cadena de suministro.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z mexicana (18–28)",
+   "resumen": "Muy activa en TikTok, gaming y streaming; compra moda, belleza y tecnología en línea.",
+   "como_habla": "'Wey', 'neta', 'qué oso', 'qué pedo' (vulgar), 'nmms', 'está cañón', 'aesthetic'.",
+   "dolores": [
+    "Presupuesto",
+    "Envíos caros"
+   ],
+   "motivaciones": [
+    "Tendencia",
+    "Humor",
+    "Creadores"
+   ],
+   "frenos": [
+    "Anuncios forzados"
+   ],
+   "tono": "Divertido y auténtico.",
+   "evitar": [
+    "Usar 'wey' o groserías desde la marca"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "Twitch",
+    "YouTube"
+   ],
+   "mensajes": [
+    "'Lo que viste en TikTok, en tu casa.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials mexicanos (29–44)",
+   "resumen": "Compradores frecuentes, usan meses sin intereses y comparan mucho.",
+   "como_habla": "'Chido', 'padre', 'ahorita', 'órale'.",
+   "dolores": [
+    "Tiempo",
+    "Costo de vida"
+   ],
+   "motivaciones": [
+    "Practicidad",
+    "Ahorro"
+   ],
+   "frenos": [
+    "Malas experiencias"
+   ],
+   "tono": "Práctico.",
+   "evitar": [
+    "Mensajes vacíos"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Compra en EE. UU. sin complicarte.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X mexicana (45–60)",
+   "resumen": "Decisores de compra; valoran respeto, seguridad y atención personal.",
+   "como_habla": "'¿Mande?', 'con mucho gusto', 'a sus órdenes'. Usan 'usted'.",
+   "dolores": [
+    "Fraudes",
+    "Procesos digitales"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Atención humana"
+   ],
+   "frenos": [
+    "Pagos en línea"
+   ],
+   "tono": "Respetuoso.",
+   "evitar": [
+    "Tuteo inmediato"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Le atendemos personalmente.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers mexicanos (60+)",
+   "resumen": "Muchos reciben envíos y remesas de familiares en EE. UU.; valoran la familia.",
+   "como_habla": "Formal y afectuoso: 'mijo', 'con todo respeto'.",
+   "dolores": [
+    "Tecnología",
+    "Estafas"
+   ],
+   "motivaciones": [
+    "Familia",
+    "Confianza"
+   ],
+   "frenos": [
+    "Procesos en línea"
+   ],
+   "tono": "Cálido.",
+   "evitar": [
+    "Tecnicismos"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "TV"
+   ],
+   "mensajes": [
+    "'Lo que su familia le manda, seguro hasta su puerta.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Producto mexicano artesanal y sostenible.",
+   "mensaje": "'Compra con propósito.'",
+   "evitar": "Greenwashing."
+  },
+  "ofertas": {
+   "como_llegarle": "Buen Fin, Hot Sale, meses sin intereses y envío gratis.",
+   "mensaje": "'Ahorra de verdad, sin sorpresas.'",
+   "evitar": "Letra pequeña."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas de EE. UU. y Europa, experiencia premium.",
+   "mensaje": "'Lo mejor de afuera.'",
+   "evitar": "Estética barata."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos tecnológicos de EE. UU.",
+   "mensaje": "'Tenlo antes que nadie.'",
+   "evitar": "Fichas técnicas sin beneficio."
+  },
+  "wellness": {
+   "como_llegarle": "Suplementos y fitness de marcas reconocidas.",
+   "mensaje": "'Tu bienestar sin fronteras.'",
+   "evitar": "Promesas de salud."
+  },
+  "familia": {
+   "como_llegarle": "Ahorro y regalos (Navidad, Día de las Madres 10 de mayo, Reyes).",
+   "mensaje": "'Lo que tu familia necesita.'",
+   "evitar": "Individualismo."
+  },
+  "viajero": {
+   "como_llegarle": "Compras antes de viajar a EE. UU. o Europa.",
+   "mensaje": "'Viaja preparado.'",
+   "evitar": "Clichés."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, periféricos y streamers mexicanos.",
+   "mensaje": "'Arma tu setup.'",
+   "evitar": "No conocer la cultura gamer."
+  },
+  "diaspora": {
+   "como_llegarle": "Mexicanos en EE. UU. que envían a su familia: emoción y confianza.",
+   "mensaje": "'Cerca de los tuyos.'",
+   "evitar": "Politizar la migración."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Chido",
+   "significado": "Genial, bueno.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué chido te quedó!",
+   "equivalentes": {
+    "CO": "bacano",
+    "EC": "chévere / bacán",
+    "ES": "guay",
+    "AR": "copado"
+   }
+  },
+  {
+   "expresion": "Padre / padrísimo",
+   "significado": "Excelente, muy bonito.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Está padrísimo este diseño.",
+   "equivalentes": {
+    "CO": "bacano / lindo",
+    "EC": "chévere",
+    "ES": "guay",
+    "AR": "re lindo"
+   }
+  },
+  {
+   "expresion": "Neta",
+   "significado": "Verdad; '¿neta?' = ¿en serio?",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Neta te llega en una semana?",
+   "equivalentes": {
+    "CO": "¿en serio?",
+    "EC": "¿en serio?",
+    "ES": "¿en serio?",
+    "AR": "¿posta?"
+   }
+  },
+  {
+   "expresion": "Güey / wey",
+   "significado": "Amigo, tipo; muletilla entre amigos.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "parce",
+    "EC": "ñaño",
+    "ES": "tío",
+    "AR": "boludo (cuidado)"
+   }
+  },
+  {
+   "expresion": "Chamba",
+   "significado": "Trabajo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mucha chamba esta temporada.",
+   "equivalentes": {
+    "CO": "camello",
+    "EC": "camello",
+    "ES": "curro",
+    "AR": "laburo"
+   }
+  },
+  {
+   "expresion": "Lana / varo",
+   "significado": "Dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ahorra lana comprando en EE. UU.",
+   "equivalentes": {
+    "CO": "plata",
+    "EC": "plata",
+    "ES": "pasta",
+    "AR": "guita"
+   }
+  },
+  {
+   "expresion": "¿Qué onda?",
+   "significado": "Saludo: ¿qué tal?",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Qué onda? ¿Ya viste las promos?",
+   "equivalentes": {
+    "CO": "¿qué más?",
+    "EC": "¿qué fue?",
+    "ES": "¿qué pasa?",
+    "AR": "¿qué onda?"
+   }
+  },
+  {
+   "expresion": "Órale",
+   "significado": "¡Vamos! / ¡Va! / ¡Wow!",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Órale, aprovecha!",
+   "equivalentes": {
+    "CO": "¡de una!",
+    "EC": "¡dale!",
+    "ES": "¡venga!",
+    "AR": "¡dale!"
+   }
+  },
+  {
+   "expresion": "Ahorita",
+   "significado": "En un rato (puede ser mucho después).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ahorita te confirmo.",
+   "equivalentes": {
+    "CO": "ahorita",
+    "EC": "ya mismo",
+    "ES": "ahora",
+    "AR": "en un rato"
+   }
+  },
+  {
+   "expresion": "¿Mande?",
+   "significado": "¿Perdón? ¿Qué dijo? (respetuoso).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Mande? Con gusto le repito.",
+   "equivalentes": {
+    "CO": "¿cómo?",
+    "EC": "¿mande?",
+    "ES": "¿perdona?",
+    "AR": "¿cómo?"
+   }
+  },
+  {
+   "expresion": "Aguas",
+   "significado": "¡Cuidado!",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Aguas con las fechas de envío navideño!",
+   "equivalentes": {
+    "CO": "pilas",
+    "EC": "pilas",
+    "ES": "ojo",
+    "AR": "ojo"
+   }
+  },
+  {
+   "expresion": "Chafa",
+   "significado": "De mala calidad, falso.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Nada chafa: productos originales.",
+   "equivalentes": {
+    "CO": "chimbo",
+    "EC": "de mala calidad",
+    "ES": "cutre",
+    "AR": "trucho"
+   }
+  },
+  {
+   "expresion": "Fresa",
+   "significado": "Persona de clase alta o pretenciosa.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "gomelo",
+    "EC": "aniñado",
+    "ES": "pijo",
+    "AR": "cheto"
+   }
+  },
+  {
+   "expresion": "Naco",
+   "significado": "Despectivo clasista para alguien 'de mal gusto'.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "lobo",
+    "EC": "—",
+    "ES": "cani / hortera",
+    "AR": "grasa"
+   }
+  },
+  {
+   "expresion": "Chela",
+   "significado": "Cerveza.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "pola",
+    "EC": "cerveza",
+    "ES": "caña / birra",
+    "AR": "birra"
+   }
+  },
+  {
+   "expresion": "Cruda",
+   "significado": "Resaca.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "guayabo",
+    "EC": "chuchaqui",
+    "ES": "resaca",
+    "AR": "resaca"
+   }
+  },
+  {
+   "expresion": "No manches",
+   "significado": "¡No puede ser! ¡En serio! (versión suave).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¡No manches, qué precio!",
+   "equivalentes": {
+    "CO": "¡no joda! / ¡no puede ser!",
+    "EC": "¡no puede ser!",
+    "ES": "¡no me digas!",
+    "AR": "¡no te puedo creer!"
+   }
+  },
+  {
+   "expresion": "Changarro",
+   "significado": "Negocio pequeño.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Haz crecer tu changarro.",
+   "equivalentes": {
+    "CO": "negocito / tienda",
+    "EC": "negocito",
+    "ES": "negocio pequeño",
+    "AR": "kiosco / negocito"
+   }
+  },
+  {
+   "expresion": "Tianguis",
+   "significado": "Mercado ambulante.",
+   "uso": "Centro y todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Del tianguis al mundo.",
+   "equivalentes": {
+    "CO": "mercado / San Andresito",
+    "EC": "feria / mercado",
+    "ES": "mercadillo",
+    "AR": "feria"
+   }
+  },
+  {
+   "expresion": "Meses sin intereses (MSI)",
+   "significado": "Pago a plazos sin recargo con tarjeta; decisivo en la compra.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Compra hoy a meses sin intereses.",
+   "equivalentes": {
+    "CO": "cuotas sin intereses",
+    "EC": "diferido sin intereses",
+    "ES": "pago a plazos sin intereses",
+    "AR": "cuotas sin interés"
+   }
+  },
+  {
+   "expresion": "Codo",
+   "significado": "Tacaño.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ahorrar no es ser codo.",
+   "equivalentes": {
+    "CO": "líchigo / tacaño",
+    "EC": "codo",
+    "ES": "agarrado",
+    "AR": "rata"
+   }
+  },
+  {
+   "expresion": "Chavo / chava",
+   "significado": "Joven.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Regalos para chavos.",
+   "equivalentes": {
+    "CO": "pelado",
+    "EC": "pelado / guambra",
+    "ES": "chaval",
+    "AR": "pibe"
+   }
+  },
+  {
+   "expresion": "Gacho",
+   "significado": "Feo, malo, injusto.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Qué gacho que no llegue tu paquete.",
+   "equivalentes": {
+    "CO": "maluco",
+    "EC": "feo",
+    "ES": "chungo",
+    "AR": "feo / mal"
+   }
+  },
+  {
+   "expresion": "Está cañón",
+   "significado": "Está difícil o es impresionante.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Está cañón conseguirlo aquí.",
+   "equivalentes": {
+    "CO": "está berraco",
+    "EC": "está duro",
+    "ES": "está chungo",
+    "AR": "está bravo"
+   }
+  },
+  {
+   "expresion": "Qué oso",
+   "significado": "Qué vergüenza.",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Qué oso regalar algo chafa.",
+   "equivalentes": {
+    "CO": "qué boleta / qué oso",
+    "EC": "qué vergüenza",
+    "ES": "qué corte",
+    "AR": "qué vergüenza"
+   }
+  },
+  {
+   "expresion": "Rifarse",
+   "significado": "Lucirse, hacer algo muy bien.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Te rifaste con ese regalo.",
+   "equivalentes": {
+    "CO": "lucirse",
+    "EC": "lucirse",
+    "ES": "lucirse",
+    "AR": "romperla"
+   }
+  },
+  {
+   "expresion": "Pilón",
+   "significado": "Lo que se regala de más.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Y de pilón, envío gratis.",
+   "equivalentes": {
+    "CO": "ñapa",
+    "EC": "yapa",
+    "ES": "extra",
+    "AR": "yapa"
+   }
+  },
+  {
+   "expresion": "Cooperacha",
+   "significado": "Juntar dinero entre varios.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Hagan cooperacha para el regalo.",
+   "equivalentes": {
+    "CO": "vaca",
+    "EC": "vaca",
+    "ES": "bote",
+    "AR": "vaquita"
+   }
+  },
+  {
+   "expresion": "Aguinaldo",
+   "significado": "Pago extra de fin de año a trabajadores.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Que tu aguinaldo rinda más.",
+   "equivalentes": {
+    "CO": "prima",
+    "EC": "décimo tercer sueldo",
+    "ES": "paga extra",
+    "AR": "aguinaldo"
+   }
+  },
+  {
+   "expresion": "Chamarra",
+   "significado": "Chaqueta.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Chamarras importadas para el invierno.",
+   "equivalentes": {
+    "CO": "chaqueta",
+    "EC": "chompa",
+    "ES": "chaqueta / cazadora",
+    "AR": "campera"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Mexico",
+   "#CDMX",
+   "#Monterrey",
+   "#Guadalajara",
+   "#EmprendedoresMexicanos",
+   "#HechoEnMexico",
+   "#EmprendimientoMexico",
+   "#ComprasEnUSA"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio en pesos",
+     "Memes de series y fútbol",
+     "'Lo que pedí vs. lo que llegó'",
+     "Storytime de emprendimiento"
+    ],
+    "ganchos": [
+     "'Neta, nadie te dice esto antes de comprar en USA'",
+     "'Esto me ahorré trayéndolo de Texas'"
+    ],
+    "horario": "20:00–23:00",
+    "hashtags": [
+     "#TikTokMexico",
+     "#MexicoTikTok",
+     "#ComprasEnUSA",
+     "#Unboxing"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels con humor",
+     "Carruseles 'guarda esto'",
+     "Historias con encuestas"
+    ],
+    "ganchos": [
+     "'Guarda esto antes del Buen Fin'"
+    ],
+    "horario": "13:00–15:00 y 20:00–22:00",
+    "hashtags": [
+     "#EmprendedoresMexicanos",
+     "#HechoEnMexico"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Tutoriales",
+     "Reseñas"
+    ],
+    "ganchos": [
+     "'Cómo comprar en Amazon USA desde México en 2026'"
+    ],
+    "horario": "Fines de semana",
+    "hashtags": [
+     "#Mexico"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación a EE. UU.",
+     "Nearshoring"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos exportando a Texas'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#Nearshoring"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Videos con subtítulos",
+     "Marketplace y grupos"
+    ],
+    "ganchos": [
+     "'¿Te retuvieron un paquete en aduana? Te explicamos.'"
+    ],
+    "horario": "19:00–22:00",
+    "hashtags": [
+     "#Mexico"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Actualidad deportiva y de entretenimiento"
+    ],
+    "ganchos": [
+     "Datos curiosos"
+    ],
+    "horario": "Durante partidos",
+    "hashtags": [
+     "#LigaMX"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Snacks y salsas mexicanas para la comunidad en EE. UU.",
+   "senal": "Gran comunidad mexicana en Texas, California e Illinois con demanda de productos de casa.",
+   "desde": "MX",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Contenido de nostalgia y recetas con creadores mexicoamericanos."
+  },
+  {
+   "titulo": "Artesanía y decoración mexicana en Europa",
+   "senal": "Interés por diseño artesanal y piezas con historia en España e Italia.",
+   "desde": "MX",
+   "hacia": "ES",
+   "sector": "artesanias",
+   "accion": "Storytelling del artesano y del proceso en Instagram."
+  },
+  {
+   "titulo": "Tecnología y gaming de EE. UU.",
+   "senal": "Fuerte comunidad gamer y precios más bajos en EE. UU.",
+   "desde": "US",
+   "hacia": "MX",
+   "sector": "gaming",
+   "accion": "Comparativas de precio con streamers mexicanos."
+  }
+ ],
+ "anuncios": []
+}

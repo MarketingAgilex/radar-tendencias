@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pulso Global · Radar de tendencias y consumidor | Grown IA × Ágilex</title>
+<meta name="description" content="Tendencias, consumidor y oportunidades en 15 países, actualizadas cada hora. Una herramienta abierta de Grown IA y Ágilex para emprendedores, marcas y creadores.">
+<meta property="og:title" content="Pulso Global · Grown IA × Ágilex">
+<meta property="og:description" content="Entiende al consumidor de cualquier mercado, en tiempo real.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header class="barra">
+  <div class="contenedor">
+    <a class="marca" href="#inicio">
+      <span class="marca-logo">Pulso<span>·</span>Global</span>
+      <span class="marca-sub">por Grown IA<br>× Ágilex</span>
+    </a>
+    <nav class="nav">
+      <a href="#mapa-sec">Mapa</a>
+      <a href="#radar" data-ir="pulso">Pulso</a>
+      <a href="#radar" data-ir="audiencias">Audiencias</a>
+      <a href="#radar" data-ir="jerga">Así habla</a>
+      <a href="#radar" data-ir="creadores">Creadores</a>
+      <a href="#radar" data-ir="oportunidades">Oportunidades</a>
+    </nav>
+    <a class="btn btn-indigo" href="https://agilex.com.co" target="_blank" rel="noopener">Contáctanos <i>↗</i></a>
+  </div>
+</header>
+
+<section class="hero" id="inicio">
+  <div class="contenedor">
+    <span class="pildora-vivo"><span class="punto-vivo"></span><span id="estado-vivo">Conectando con las fuentes…</span></span>
+    <h1>Entiende al consumidor de <b>cualquier mercado</b>, en tiempo real</h1>
+    <p class="lead">Lo que está subiendo en búsquedas, cómo habla la gente, qué le duele y cómo llegarle. Quince países, veintiséis sectores, actualizado cada hora.</p>
+    <div class="hero-acciones">
+      <a class="btn btn-amarillo" href="#mapa-sec">Explorar el radar</a>
+      <a class="btn btn-borde" href="#radar" data-ir="comparador">Comparar dos países</a>
+    </div>
+    <div class="cifras">
+      <div class="cifra"><b>15</b><span>países en vivo</span></div>
+      <div class="cifra"><b>26</b><span>sectores monitoreados</span></div>
+      <div class="cifra"><b id="cifra-trends">—</b><span>tendencias detectadas esta semana</span></div>
+      <div class="cifra"><b id="cifra-hace">—</b><span>desde la última actualización</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="ticker" aria-label="Tendencias nuevas"><div class="ticker-pista" id="ticker"></div></div>
+
+<section class="seccion" id="mapa-sec">
+  <div class="contenedor">
+    <h2 class="titulo-sec">El mundo, <b>en vivo</b></h2>
+    <p class="sub-sec">Toca un país para ver qué está pasando ahí ahora mismo.</p>
+    <div class="mapa-caja"><div id="mapa"></div></div>
+    <div class="regiones"><div class="regiones-caja" id="regiones"></div></div>
+  </div>
+</section>
+
+<div class="filtros" id="radar">
+  <div class="contenedor">
+    <div class="campo"><label for="f-pais">País</label><select id="f-pais"></select></div>
+    <div class="campo"><label for="f-ciudad">Ciudad</label><select id="f-ciudad"></select></div>
+    <div class="campo"><label for="f-audiencia">Audiencia</label><select id="f-audiencia"></select></div>
+    <div class="campo"><label for="f-sector">Sector</label><select id="f-sector"></select></div>
+    <div class="campo"><label for="f-red">Red social</label><select id="f-red"></select></div>
+    <div class="campo"><label for="f-periodo">Periodo</label>
+      <select id="f-periodo"><option value="ahora">Ahora</option><option value="hoy">Últimas 24 h</option><option value="semana">Esta semana</option></select></div>
+    <div class="campo"><label for="f-buscar">Buscar</label><input id="f-buscar" type="search" placeholder="Un tema, marca o palabra…"></div>
+    <div class="espacio"></div>
+    <button class="btn btn-borde" id="btn-compartir" title="Copiar enlace a esta vista">Compartir</button>
+  </div>
+</div>
+
+<main class="contenedor" id="contenido">
+  <div class="pestanas" role="tablist" id="pestanas">
+    <button class="pestana activa" data-p="pulso">Pulso en vivo</button>
+    <button class="pestana" data-p="audiencias">Audiencias</button>
+    <button class="pestana" data-p="jerga">Así habla</button>
+    <button class="pestana" data-p="sectores">Sectores</button>
+    <button class="pestana" data-p="creadores">Kit creadores</button>
+    <button class="pestana" data-p="calendario">Calendario</button>
+    <button class="pestana" data-p="oportunidades">Oportunidades</button>
+    <button class="pestana" data-p="anuncios">Qué se anuncia</button>
+    <button class="pestana" data-p="comparador">Comparador</button>
+  </div>
+  <section class="panel activo" id="p-pulso"></section>
+  <section class="panel" id="p-audiencias"></section>
+  <section class="panel" id="p-jerga"></section>
+  <section class="panel" id="p-sectores"></section>
+  <section class="panel" id="p-creadores"></section>
+  <section class="panel" id="p-calendario"></section>
+  <section class="panel" id="p-oportunidades"></section>
+  <section class="panel" id="p-anuncios"></section>
+  <section class="panel" id="p-comparador"></section>
+</main>
+
+<footer class="pie">
+  <div class="contenedor">
+    <div>
+      <h4>Pulso Global</h4>
+      <p>Una herramienta abierta de <a href="https://grown-ia.com" target="_blank" rel="noopener">Grown IA</a>, la plataforma de Ágilex que impulsa negocios hacia mercados internacionales.</p>
+      <p class="aviso">Fuentes: Google Trends, Google News, YouTube, Biblioteca de Anuncios de Meta y análisis con inteligencia artificial. Las fichas, la jerga, el semáforo y las oportunidades son orientativas y no reemplazan un estudio de mercado con muestra.</p>
+    </div>
+    <div>
+      <h4>Ágilex</h4>
+      <p><a href="https://agilex.com.co" target="_blank" rel="noopener">agilex.com.co</a><br>Línea comercial: <a href="https://wa.me/573105714150" target="_blank" rel="noopener">+57 310 5714150</a></p>
+    </div>
+    <div>
+      <h4>Grown IA</h4>
+      <p><a href="https://grown-ia.com" target="_blank" rel="noopener">grown-ia.com</a></p>
+    </div>
+  </div>
+</footer>
+
+<div class="tooltip" id="tooltip"></div>
+<div class="toast" id="toast"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

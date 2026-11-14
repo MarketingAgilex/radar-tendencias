@@ -1,0 +1,952 @@
+{
+ "pais": "EC",
+ "actualizado": "2026-11-14T04:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "Ecuador está en modo fútbol: la selección y sus figuras en Europa (Piero Hincapié, Kendry Páez) concentran la conversación y el orgullo nacional. En consumo destaca el crecimiento de la venta de camionetas y la competencia de modelos chinos frente a lo 'hecho en Ecuador': el precio y la confianza en la marca pesan mucho. Buen momento para mensajes de orgullo local, esfuerzo y producto ecuatoriano que sale al mundo.",
+ "semaforo": [
+  {
+   "termino": "piero hincapié",
+   "color": "verde",
+   "por_que": "Orgullo nacional y talento ecuatoriano triunfando afuera; conversación positiva y transversal.",
+   "idea": "Contenido 'del barrio al mundo': historias de emprendedores ecuatorianos que, como Piero, llegan a mercados internacionales."
+  },
+  {
+   "termino": "kendry páez",
+   "color": "amarillo",
+   "por_que": "Hay debate sobre su convocatoria; puede polarizar a la afición.",
+   "idea": "Úsalo solo para hablar de talento joven y perseverancia, sin opinar sobre la convocatoria."
+  },
+  {
+   "termino": "camioneta",
+   "color": "verde",
+   "por_que": "Señal de consumo real: ventas creciendo y comparación entre marcas chinas y ensambladas en Ecuador.",
+   "idea": "Para repuestos y accesorios automotrices: 'trae lo que tu camioneta necesita, sin pagar de más'. Para creadores: comparativas honestas precio-calidad."
+  },
+  {
+   "termino": "guatemala - canadá",
+   "color": "amarillo",
+   "por_que": "Interés futbolero regional, poco vínculo con marcas ecuatorianas.",
+   "idea": "Solo como gancho de conversación en historias en vivo, sin forzar producto."
+  },
+  {
+   "termino": "spurs - warriors",
+   "color": "rojo",
+   "por_que": "Tendencia de nicho deportivo extranjero, sin relación con el consumidor objetivo.",
+   "idea": "Mejor no usarlo."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor ecuatoriano",
+   "resumen": "Prudente con el dinero, muy sensible al precio y a la confianza. Compra por recomendación (familia, amigos, grupos de WhatsApp) y valora el trato cercano. Vive en una economía dolarizada, así que compara precios con EE. UU. y Colombia y es experto en buscar 'el mejor precio'. Existen dos grandes estilos culturales: Sierra (Quito, Cuenca) más formal y reservada; Costa (Guayaquil, Manabí) más directa, alegre y expresiva.",
+   "como_habla": "Cortés y cálido. En la Sierra se usan mucho los diminutivos ('un ratito', 'deme un poquito') y fórmulas de respeto ('¿mande?', 'por favor, me regala'). En la Costa el trato es más rápido y confianzudo ('ñaño', 'pana', 'qué fue'). En redes mezcla jerga local con expresiones como 'full', 'de ley' y 'chévere'.",
+   "dolores": [
+    "Miedo a que el producto no llegue o llegue dañado",
+    "Cobros inesperados (impuestos, aranceles, costos de envío ocultos)",
+    "Desconfianza de tiendas que no conoce o sin respaldo local",
+    "Tiempos de entrega largos e inciertos",
+    "Inseguridad: prefiere no exponerse en entregas o pagos"
+   ],
+   "motivaciones": [
+    "Ahorrar frente al precio local",
+    "Acceder a productos que no hay en el país",
+    "Respaldo de alguien conocido o una marca con presencia local",
+    "Atención por WhatsApp con una persona real",
+    "Orgullo por lo ecuatoriano"
+   ],
+   "frenos": [
+    "Precio final poco claro",
+    "Formas de pago limitadas",
+    "Falta de reseñas o testimonios locales",
+    "Procesos con mucho papeleo"
+   ],
+   "tono": "Cercano, respetuoso y muy claro. Transmitir seguridad ('tu paquete está protegido', 'te acompañamos') antes que euforia.",
+   "evitar": [
+    "Promesas exageradas o 'demasiado bueno para ser verdad'",
+    "Humor con regionalismos Sierra vs. Costa que pueda ofender",
+    "Temas políticos o de seguridad pública",
+    "Palabras despectivas como 'longo' o 'serrano/mono' en tono burlón"
+   ],
+   "canales": [
+    "WhatsApp (canal número uno para cerrar ventas)",
+    "Facebook (muy fuerte en mayores de 30 y fuera de las grandes ciudades)",
+    "TikTok (crecimiento acelerado en menores de 35)",
+    "Instagram (Quito y Guayaquil, nivel socioeconómico medio-alto)"
+   ],
+   "mensajes": [
+    "'Sabes cuánto pagas desde el inicio, sin sorpresas.'",
+    "'Te acompañamos por WhatsApp hasta que tu paquete llegue.'",
+    "'Lo que compras afuera, en tu casa en Ecuador.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor y e-commerce ecuatoriano",
+   "resumen": "Muchos emprenden por necesidad y venden por Instagram, TikTok y WhatsApp antes que tener una web. Traen mercadería de EE. UU. o China para revender, o quieren exportar productos con identidad (cacao, café, artesanías, sombreros de paja toquilla, moda).",
+   "como_habla": "'Mi emprendimiento', 'mi negocito', 'estoy arrancando', 'voy vendiendo bien', 'necesito proveedor'. Busca 'cómo importar', 'casillero', 'courier'.",
+   "dolores": [
+    "Capital de trabajo limitado",
+    "No entiende bien categorías de courier, cupos y aranceles",
+    "Envíos lentos que le hacen perder clientes",
+    "Competencia con vendedores informales"
+   ],
+   "motivaciones": [
+    "Margen de ganancia",
+    "Vender afuera y cobrar en dólares",
+    "Que alguien le explique paso a paso",
+    "Comunidad y aprendizaje con otros emprendedores"
+   ],
+   "frenos": [
+    "Miedo a perder la mercadería en aduana",
+    "Desconocimiento de trámites para exportar"
+   ],
+   "tono": "Mentor práctico: explicar con ejemplos, cifras claras y pasos concretos.",
+   "evitar": [
+    "Tecnicismos de comercio exterior sin explicar",
+    "Hacerlo sentir pequeño o 'informal'"
+   ],
+   "canales": [
+    "TikTok e Instagram (Reels) educativos",
+    "Grupos y canales de WhatsApp",
+    "Lives con preguntas y respuestas"
+   ],
+   "mensajes": [
+    "'Tu emprendimiento puede vender fuera de Ecuador: te mostramos cómo.'",
+    "'Importa para tu negocio sabiendo cuánto te cuesta puesto en tu casa.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora o exportadora",
+   "resumen": "Empresas familiares o medianas con años en el mercado. Exportan banano, camarón, flores, cacao, café y manufacturas, o importan insumos y repuestos. Deciden con base en confianza, cumplimiento y precio por kilo.",
+   "como_habla": "Formal y directo: 'cotización', 'tiempos de tránsito', 'documentación', 'puerta a puerta', 'desaduanización'.",
+   "dolores": [
+    "Retrasos que afectan compromisos con clientes",
+    "Costos logísticos variables",
+    "Trámites y requisitos sanitarios",
+    "Proveedores que no responden rápido"
+   ],
+   "motivaciones": [
+    "Cumplimiento y trazabilidad",
+    "Un asesor fijo que conozca su operación",
+    "Abrir nuevos mercados (EE. UU., Europa)"
+   ],
+   "frenos": [
+    "Cambiar de proveedor implica riesgo",
+    "Necesita referencias de otras empresas"
+   ],
+   "tono": "Profesional, sobrio y orientado a resultados.",
+   "evitar": [
+    "Lenguaje juvenil o demasiado informal",
+    "Promesas sin respaldo operativo"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo y llamada comercial",
+    "Ferias y gremios (Fedexpor, cámaras de comercio)",
+    "WhatsApp para seguimiento"
+   ],
+   "mensajes": [
+    "'Un asesor que conoce tu carga y responde cuando lo necesitas.'",
+    "'Visibilidad de tu envío de principio a fin.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa grande y corporativa",
+   "resumen": "Procesos de compra formales, comités y licitaciones. Valoran cumplimiento normativo, cobertura y capacidad de respuesta.",
+   "como_habla": "Corporativo: 'proveedor homologado', 'SLA', 'cumplimiento', 'eficiencia operativa'.",
+   "dolores": [
+    "Riesgo de proveedor",
+    "Integración con sus procesos",
+    "Control de costos"
+   ],
+   "motivaciones": [
+    "Confiabilidad comprobada",
+    "Reportes y trazabilidad",
+    "Servicio dedicado"
+   ],
+   "frenos": [
+    "Ciclos de decisión largos",
+    "Exigencias documentales"
+   ],
+   "tono": "Ejecutivo y basado en evidencia.",
+   "evitar": [
+    "Mensajes masivos o promocionales"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Contacto comercial directo",
+    "Eventos empresariales"
+   ],
+   "mensajes": [
+    "'Operación logística con trazabilidad y un equipo dedicado a tu cuenta.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z ecuatoriana (18–28)",
+   "resumen": "Nativa de TikTok, busca reseñas en video antes de comprar, compra moda, tecnología y belleza en tiendas internacionales (Shein, Temu, Amazon) y valora lo auténtico.",
+   "como_habla": "Mezcla jerga local con anglicismos: 'full bacán', 'de ley', 'qué nota', 'me mató', 'random', 'aesthetic'.",
+   "dolores": [
+    "Presupuesto limitado",
+    "Desconfianza de anuncios muy producidos"
+   ],
+   "motivaciones": [
+    "Tendencia y pertenencia",
+    "Precio y descuentos",
+    "Creadores en quienes confía"
+   ],
+   "frenos": [
+    "Procesos largos de compra",
+    "Costos de envío"
+   ],
+   "tono": "Directo, divertido, sin parecer marca acartonada.",
+   "evitar": [
+    "Copiar memes tarde",
+    "Forzar jerga"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube Shorts"
+   ],
+   "mensajes": [
+    "'Lo que viste en TikTok, en tu casa en Ecuador.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials ecuatorianos (29–44)",
+   "resumen": "Etapa de consolidación: familia, casa y negocio propio. Compran por internet con frecuencia y comparan mucho.",
+   "como_habla": "'Chévere', 'pana', 'ya mismo', 'de una'. Más pragmáticos que la Gen Z.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costo de vida"
+   ],
+   "motivaciones": [
+    "Practicidad",
+    "Ahorro inteligente",
+    "Bienestar familiar"
+   ],
+   "frenos": [
+    "Desconfianza tras malas experiencias"
+   ],
+   "tono": "Práctico y confiable.",
+   "evitar": [
+    "Mensajes vacíos sin beneficio concreto"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Compra afuera con la tranquilidad de saber cuánto pagas.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X ecuatoriana (45–60)",
+   "resumen": "Decisores de compra en el hogar y en empresas. Valoran la palabra empeñada y la atención personal.",
+   "como_habla": "Formal y cortés: 'muy amable', 'me regala la información', '¿mande?'.",
+   "dolores": [
+    "Procesos digitales complicados",
+    "Miedo a fraudes"
+   ],
+   "motivaciones": [
+    "Seguridad",
+    "Atención humana",
+    "Marcas con trayectoria"
+   ],
+   "frenos": [
+    "Pagos en línea"
+   ],
+   "tono": "Respetuoso y paciente.",
+   "evitar": [
+    "Tutear sin confianza",
+    "Jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Llamada"
+   ],
+   "mensajes": [
+    "'Una persona real te atiende y te explica paso a paso.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers ecuatorianos (60+)",
+   "resumen": "Muchos reciben encomiendas de hijos y familiares en el exterior (EE. UU., España, Italia). Valoran la familia y la seguridad.",
+   "como_habla": "Formal, con fórmulas de respeto ('señor', 'señora', 'mijito').",
+   "dolores": [
+    "Tecnología",
+    "Miedo a estafas"
+   ],
+   "motivaciones": [
+    "Mantener el vínculo con la familia afuera",
+    "Confianza"
+   ],
+   "frenos": [
+    "Procesos en línea"
+   ],
+   "tono": "Cálido, claro y sin prisa.",
+   "evitar": [
+    "Textos largos y técnicos"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Radio y TV local"
+   ],
+   "mensajes": [
+    "'Lo que tu familia te envía desde afuera, seguro hasta tu puerta.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Destacar origen, comercio justo y producto ecuatoriano (cacao fino de aroma, café, artesanía).",
+   "mensaje": "'Compra con propósito: apoya lo hecho en Ecuador.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Precio final claro, comparaciones y fechas como Black Friday y Cyber Monday.",
+   "mensaje": "'Ahorra frente al precio local, sin costos escondidos.'",
+   "evitar": "Letra pequeña."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas internacionales, exclusividad y experiencia premium.",
+   "mensaje": "'Lo mejor de afuera, sin salir de casa.'",
+   "evitar": "Imágenes de bajo costo."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología que llegan antes a EE. UU.",
+   "mensaje": "'Ten lo nuevo antes que nadie en Ecuador.'",
+   "evitar": "Especificaciones sin beneficio claro."
+  },
+  "wellness": {
+   "como_llegarle": "Suplementos, fitness y alimentación sana con respaldo.",
+   "mensaje": "'Tu bienestar no tiene fronteras.'",
+   "evitar": "Promesas de salud no comprobadas."
+  },
+  "familia": {
+   "como_llegarle": "Seguridad, ahorro y practicidad para el hogar.",
+   "mensaje": "'Lo que tu familia necesita, al mejor precio.'",
+   "evitar": "Mensajes individualistas."
+  },
+  "viajero": {
+   "como_llegarle": "Compras previas a viajes, Galápagos y turismo interno como inspiración.",
+   "mensaje": "'Prepara tu viaje con lo que necesitas.'",
+   "evitar": "Clichés turísticos."
+  },
+  "gamer": {
+   "como_llegarle": "Consolas, periféricos y lanzamientos; lenguaje gamer auténtico.",
+   "mensaje": "'Tu setup completo, traído desde afuera.'",
+   "evitar": "Hablar de gaming sin conocerlo."
+  },
+  "diaspora": {
+   "como_llegarle": "Ecuatorianos en EE. UU., España e Italia que envían a su familia: emoción, cercanía y confianza.",
+   "mensaje": "'Cerca de los tuyos, aunque estés lejos.'",
+   "evitar": "Tratar la migración como drama o tema político."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Ñaño / ñaña",
+   "significado": "Hermano, hermana; también amigo muy cercano.",
+   "uso": "Todo el país, muy fuerte en la Costa.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ñaño, ya llegó tu pedido.",
+   "equivalentes": {
+    "CO": "parce / llave",
+    "MX": "carnal",
+    "ES": "tío / colega",
+    "AR": "hermano"
+   }
+  },
+  {
+   "expresion": "Pana",
+   "significado": "Amigo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Recomiéndanos a tus panas.",
+   "equivalentes": {
+    "CO": "parce",
+    "MX": "cuate",
+    "ES": "colega",
+    "AR": "amigo / chabón"
+   }
+  },
+  {
+   "expresion": "Chévere",
+   "significado": "Bueno, agradable, genial.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "¡Qué chévere tu emprendimiento!",
+   "equivalentes": {
+    "CO": "bacano / chévere",
+    "MX": "chido / padre",
+    "ES": "guay",
+    "AR": "copado"
+   }
+  },
+  {
+   "expresion": "Bacán",
+   "significado": "Genial, excelente.",
+   "uso": "Costa y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Está full bacán este diseño.",
+   "equivalentes": {
+    "CO": "bacano",
+    "MX": "chido",
+    "ES": "guay",
+    "AR": "re copado"
+   }
+  },
+  {
+   "expresion": "Full",
+   "significado": "Mucho, muy.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tengo full pedidos esta semana.",
+   "equivalentes": {
+    "CO": "un montón",
+    "MX": "un chorro",
+    "ES": "un montón",
+    "AR": "re / un montón"
+   }
+  },
+  {
+   "expresion": "De ley",
+   "significado": "Seguro, sin duda, por supuesto.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "De ley te llega antes del viernes.",
+   "equivalentes": {
+    "CO": "de una",
+    "MX": "a huevo (vulgar) / claro que sí",
+    "ES": "fijo",
+    "AR": "obvio"
+   }
+  },
+  {
+   "expresion": "¿Mande?",
+   "significado": "¿Perdón? ¿Qué dijo? Forma respetuosa de pedir que repitan.",
+   "uso": "Sierra, muy común.",
+   "registro": "neutro",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Mande? No le escuché bien.",
+   "equivalentes": {
+    "CO": "¿cómo así? / ¿qué pena?",
+    "MX": "¿mande?",
+    "ES": "¿perdona?",
+    "AR": "¿cómo?"
+   }
+  },
+  {
+   "expresion": "Ya mismo",
+   "significado": "En un momento (puede ser ya o dentro de un buen rato).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ya mismo le confirmo.",
+   "equivalentes": {
+    "CO": "ya",
+    "MX": "ahorita",
+    "ES": "ahora mismo",
+    "AR": "ya"
+   }
+  },
+  {
+   "expresion": "Achachay",
+   "significado": "¡Qué frío! (del kichwa).",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Achachay, ya es temporada de chompas.",
+   "equivalentes": {
+    "CO": "¡qué frío!",
+    "MX": "¡qué frío!",
+    "ES": "¡qué frío!",
+    "AR": "¡qué frío!"
+   }
+  },
+  {
+   "expresion": "Arrarray",
+   "significado": "¡Qué calor! / ¡Me quemé! (del kichwa).",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Arrarray, este sol de mediodía.",
+   "equivalentes": {
+    "CO": "¡qué calor!",
+    "MX": "¡qué calor!",
+    "ES": "¡qué calor!",
+    "AR": "¡qué calor!"
+   }
+  },
+  {
+   "expresion": "Atatay",
+   "significado": "¡Qué asco! (del kichwa).",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Atatay, eso ya está dañado.",
+   "equivalentes": {
+    "CO": "¡guácala!",
+    "MX": "¡guácala!",
+    "ES": "¡qué asco!",
+    "AR": "¡qué asco!"
+   }
+  },
+  {
+   "expresion": "Chuchaqui",
+   "significado": "Resaca.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "El lunes con chuchaqui no se trabaja igual.",
+   "equivalentes": {
+    "CO": "guayabo",
+    "MX": "cruda",
+    "ES": "resaca",
+    "AR": "resaca"
+   }
+  },
+  {
+   "expresion": "Camello",
+   "significado": "Trabajo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Mucho camello esta temporada.",
+   "equivalentes": {
+    "CO": "camello / chamba",
+    "MX": "chamba",
+    "ES": "curro",
+    "AR": "laburo"
+   }
+  },
+  {
+   "expresion": "Jama",
+   "significado": "Comida.",
+   "uso": "Costa.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Ya fuiste a jamar?",
+   "equivalentes": {
+    "CO": "comida / papeo",
+    "MX": "comida",
+    "ES": "papeo",
+    "AR": "morfi"
+   }
+  },
+  {
+   "expresion": "Guambra",
+   "significado": "Niño, joven (del kichwa).",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Los guambras ya salieron de vacaciones.",
+   "equivalentes": {
+    "CO": "chino / pelado",
+    "MX": "chamaco",
+    "ES": "chaval",
+    "AR": "pibe"
+   }
+  },
+  {
+   "expresion": "Guagua",
+   "significado": "Bebé, niño pequeño (del kichwa).",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ropa para la guagua.",
+   "equivalentes": {
+    "CO": "bebé",
+    "MX": "bebé",
+    "ES": "bebé",
+    "AR": "bebé"
+   }
+  },
+  {
+   "expresion": "Pelado / pelada",
+   "significado": "Joven; también novio o novia.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regalo para tu pelada.",
+   "equivalentes": {
+    "CO": "pelado / novio",
+    "MX": "novio / morro",
+    "ES": "chaval / novio",
+    "AR": "novio / pibe"
+   }
+  },
+  {
+   "expresion": "Cachar",
+   "significado": "Entender.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Cachas cómo funciona?",
+   "equivalentes": {
+    "CO": "captar",
+    "MX": "agarrar la onda",
+    "ES": "pillar",
+    "AR": "cachar / entender"
+   }
+  },
+  {
+   "expresion": "Fresco",
+   "significado": "Tranquilo, sin problema.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Fresco, nosotros nos encargamos.",
+   "equivalentes": {
+    "CO": "tranqui / relajado",
+    "MX": "tranquilo",
+    "ES": "tranqui",
+    "AR": "tranqui"
+   }
+  },
+  {
+   "expresion": "Chulla vida",
+   "significado": "Solo se vive una vez (de 'chulla', uno solo).",
+   "uso": "Quito, muy identitaria.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Chulla vida: date ese gusto.",
+   "equivalentes": {
+    "CO": "la vida es una sola",
+    "MX": "nomás se vive una vez",
+    "ES": "solo se vive una vez",
+    "AR": "la vida es una"
+   }
+  },
+  {
+   "expresion": "Dar haciendo",
+   "significado": "Hacer algo como favor ('deme haciendo' = hágame el favor de hacerlo). Calco del kichwa.",
+   "uso": "Sierra.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Me da cotizando el envío?",
+   "equivalentes": {
+    "CO": "¿me hace el favor de…?",
+    "MX": "¿me hace el favor de…?",
+    "ES": "¿me haces el favor de…?",
+    "AR": "¿me hacés el favor de…?"
+   }
+  },
+  {
+   "expresion": "Chiro",
+   "significado": "Sin dinero.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Fin de mes y estoy chiro.",
+   "equivalentes": {
+    "CO": "pelado / sin un peso",
+    "MX": "bruja / sin lana",
+    "ES": "pelado / sin pasta",
+    "AR": "seco / sin un mango"
+   }
+  },
+  {
+   "expresion": "Posi",
+   "significado": "Por supuesto.",
+   "uso": "Guayaquil y Costa.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Hacen envíos a Manta? ¡Posi!",
+   "equivalentes": {
+    "CO": "claro / de una",
+    "MX": "simón / claro",
+    "ES": "claro",
+    "AR": "obvio"
+   }
+  },
+  {
+   "expresion": "Simón",
+   "significado": "Sí.",
+   "uso": "Jóvenes, todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Te llegó? Simón.",
+   "equivalentes": {
+    "CO": "sí / de una",
+    "MX": "simón",
+    "ES": "sí",
+    "AR": "sí / dale"
+   }
+  },
+  {
+   "expresion": "Qué fue",
+   "significado": "Saludo: ¿qué tal?, ¿qué pasó?",
+   "uso": "Costa y jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Qué fue, ñaño? ¿Todo bien?",
+   "equivalentes": {
+    "CO": "¿qué más?",
+    "MX": "¿qué onda?",
+    "ES": "¿qué pasa?",
+    "AR": "¿qué onda? / ¿todo bien?"
+   }
+  },
+  {
+   "expresion": "Aniñado / aniñada",
+   "significado": "Persona de clase alta o que lo aparenta.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "gomelo",
+    "MX": "fresa",
+    "ES": "pijo",
+    "AR": "cheto"
+   }
+  },
+  {
+   "expresion": "Chumado",
+   "significado": "Borracho.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "—",
+   "equivalentes": {
+    "CO": "prendido / jincho",
+    "MX": "pedo (vulgar) / tomado",
+    "ES": "pedo / borracho",
+    "AR": "en pedo"
+   }
+  },
+  {
+   "expresion": "Mijo / mija",
+   "significado": "Trato cariñoso ('mi hijo/a'), también entre adultos.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Tranquila, mija, ya le ayudo.",
+   "equivalentes": {
+    "CO": "mijo / mija",
+    "MX": "mijo / mija",
+    "ES": "cariño",
+    "AR": "querido / querida"
+   }
+  },
+  {
+   "expresion": "Chompa",
+   "significado": "Chaqueta o buzo abrigado.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Chompas importadas para el frío de Quito.",
+   "equivalentes": {
+    "CO": "chaqueta / buzo",
+    "MX": "chamarra / sudadera",
+    "ES": "chaqueta / sudadera",
+    "AR": "campera / buzo"
+   }
+  },
+  {
+   "expresion": "Encomienda",
+   "significado": "Paquete enviado, especialmente de familiares en el exterior.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Tu encomienda desde EE. UU., segura.",
+   "equivalentes": {
+    "CO": "encomienda / paquete",
+    "MX": "paquete",
+    "ES": "paquete",
+    "AR": "encomienda"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Ecuador",
+   "#Quito",
+   "#Guayaquil",
+   "#Cuenca",
+   "#EmprendimientoEcuador",
+   "#HechoEnEcuador",
+   "#EmprendedoresEcuador",
+   "#ComprasEcuador"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing de compras internacionales con precio final",
+     "'Lo que pedí vs. lo que llegó'",
+     "Día en la vida de un emprendedor ecuatoriano",
+     "Humor costeño vs. serrano (con respeto)"
+    ],
+    "ganchos": [
+     "'Esto me costó en Ecuador vs. en EE. UU.'",
+     "'Nadie te dice esto antes de importar…'",
+     "'Ñaño, no compres sin ver esto'"
+    ],
+    "horario": "19:00–22:00 entre semana; mediodía los fines de semana",
+    "hashtags": [
+     "#TikTokEcuador",
+     "#EcuadorTikTok",
+     "#Unboxing",
+     "#EmprendimientoEcuador"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Reels con antes y después",
+     "Carruseles de 'cómo funciona'",
+     "Historias con encuestas y preguntas"
+    ],
+    "ganchos": [
+     "'3 errores al importar para tu negocio'",
+     "'Guarda esto si vendes por Instagram'"
+    ],
+    "horario": "12:00–14:00 y 19:00–21:00",
+    "hashtags": [
+     "#EmprendedoresEcuador",
+     "#QuitoEcuador",
+     "#GuayaquilEcuador",
+     "#HechoEnEcuador"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Tutoriales paso a paso",
+     "Reseñas comparativas largas",
+     "Shorts con datos rápidos"
+    ],
+    "ganchos": [
+     "'Cómo importar a Ecuador en 2026, explicado fácil'"
+    ],
+    "horario": "Fines de semana en la tarde",
+    "hashtags": [
+     "#Ecuador",
+     "#ImportarEcuador"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de exportación",
+     "Datos del sector exportador",
+     "Opinión del gerente"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos exportando cacao ecuatoriano a Europa'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00",
+    "hashtags": [
+     "#ComercioExterior",
+     "#ExportacionesEcuador",
+     "#Logística"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Videos cortos con subtítulos",
+     "Publicaciones en grupos de emprendedores",
+     "Lives de preguntas"
+    ],
+    "ganchos": [
+     "'¿Le han llegado cobros sorpresa en sus compras? Le explicamos.'"
+    ],
+    "horario": "19:00–21:00",
+    "hashtags": [
+     "#Ecuador",
+     "#Emprendimiento"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentario rápido de actualidad y fútbol"
+    ],
+    "ganchos": [
+     "Datos curiosos de comercio y consumo"
+    ],
+    "horario": "Durante partidos de la selección",
+    "hashtags": [
+     "#LaTri",
+     "#Ecuador"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Cacao fino de aroma hacia Europa",
+   "senal": "Interés sostenido en chocolate de origen y café de especialidad en Alemania, Países Bajos y Francia.",
+   "desde": "EC",
+   "hacia": "DE",
+   "sector": "cafe-cacao",
+   "accion": "Contenido de origen y trazabilidad dirigido a tiendas gourmet europeas."
+  },
+  {
+   "titulo": "Repuestos y accesorios para camionetas",
+   "senal": "Ventas de camionetas creciendo en Ecuador y mercado de repuestos en expansión.",
+   "desde": "US",
+   "hacia": "EC",
+   "sector": "automotriz",
+   "accion": "Contenido para talleres y conductores sobre traer repuestos originales desde EE. UU."
+  },
+  {
+   "titulo": "Nostalgia ecuatoriana en EE. UU. y España",
+   "senal": "Gran comunidad ecuatoriana en Nueva York, Nueva Jersey, Madrid y Murcia que busca productos de casa.",
+   "desde": "EC",
+   "hacia": "US",
+   "sector": "alimentos",
+   "accion": "Mensajes emocionales para la diáspora: 'el sabor de casa, donde estés'."
+  },
+  {
+   "titulo": "Sombrero de paja toquilla y artesanía premium",
+   "senal": "Demanda de artesanía auténtica y moda sostenible en mercados de alto poder adquisitivo.",
+   "desde": "EC",
+   "hacia": "IT",
+   "sector": "artesanias",
+   "accion": "Contar la historia del tejido (patrimonio UNESCO) en Instagram y Pinterest."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "envíos internacionales",
+   "total": 281,
+   "anunciantes": [
+    {
+     "nombre": "DHL Latinoamérica",
+     "url": "https://www.facebook.com/ads/library/?id=1809140906979243"
+    },
+    {
+     "nombre": "indigo.art_ec",
+     "url": "https://www.facebook.com/ads/library/?id=1484956793511256"
+    }
+   ],
+   "patron": "DHL pauta con el mensaje 'una propuesta para todos tus envíos'; también emprendimientos locales que anuncian envíos al exterior."
+  },
+  {
+   "busqueda": "emprendimiento",
+   "total": 2993,
+   "anunciantes": [
+    {
+     "nombre": "joselodropshipping",
+     "url": "https://www.facebook.com/ads/library/?id=3238406726354320"
+    },
+    {
+     "nombre": "Importadora Muñoz",
+     "url": "https://www.facebook.com/ads/library/?id=1157425699988524"
+    },
+    {
+     "nombre": "FIAT Ecuador",
+     "url": "https://www.facebook.com/ads/library/?id=1543538700914680"
+    }
+   ],
+   "patron": "Se repite 'Pagas al recibir + envío gratis': el pago contraentrega es un gancho clave en Ecuador."
+  }
+ ]
+}
