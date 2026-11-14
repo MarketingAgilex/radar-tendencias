@@ -307,14 +307,12 @@ def modo_diario():
 
 
 def registrar_estado(modo, inicio):
-    estado = leer_json("estado.json", {"modos": {}})
-    estado["modos"][modo] = {
+    guardar_json(f"estado/{modo}.json", {
         "ultima_ejecucion": iso(AHORA),
         "duracion_seg": round(time.time() - inicio, 1),
         "errores": len(ERRORES),
         "muestra_errores": ERRORES[:10],
-    }
-    guardar_json("estado.json", estado)
+    })
 
 
 if __name__ == "__main__":
