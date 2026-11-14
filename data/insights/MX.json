@@ -2,7 +2,7 @@
  "pais": "MX",
  "actualizado": "2026-11-14T04:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "México combina fútbol (Liga MX con Cruz Azul vs. Chivas y la Liga de Naciones), series nacionales en streaming ('La ley de Alicia' en Netflix) y una agenda fuerte de migración, aranceles y comercio con EE. UU. y China. Para marcas: el entretenimiento y el fútbol son terreno seguro; migración y aranceles exigen mucho cuidado. Es temporada de compras de fin de año, aguinaldo y meses sin intereses.",
+ "lectura": "México combina fútbol (Liga MX con Cruz Azul vs. Chivas y la Liga de Naciones) con series nacionales en streaming ('La ley de Alicia' en Netflix). Entretenimiento y deporte son terreno seguro para marcas y creadores. Es temporada de compras de fin de año, aguinaldo y meses sin intereses.",
  "semaforo": [
   {
    "termino": "la ley de alicia reparto",
@@ -871,5 +871,6 @@
    "accion": "Comparativas de precio con streamers mexicanos."
   }
  ],
- "anuncios": []
+ "anuncios": [],
+ "ocultar": []
 }

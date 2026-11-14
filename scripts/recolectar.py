@@ -25,6 +25,20 @@ RAIZ = Path(__file__).resolve().parent.parent
 DATA = RAIZ / "data"
 CATALOGO = json.loads((RAIZ / "config" / "catalogo.json").read_text(encoding="utf-8"))
 AHORA = datetime.now(timezone.utc)
+import unicodedata
+_FILTROS = json.loads((RAIZ / "config" / "filtros.json").read_text(encoding="utf-8"))
+_TERMINOS = sorted({t for c in _FILTROS["categorias"].values() for t in c["terminos"]} | set(_FILTROS.get("extra", [])), key=len, reverse=True)
+_PATRON = re.compile(r"\b(" + "|".join(re.escape(t) for t in _TERMINOS) + r")\b") if _TERMINOS else None
+
+
+def _normal(texto):
+    t = unicodedata.normalize("NFD", str(texto or "").lower())
+    return "".join(c for c in t if unicodedata.category(c) != "Mn")
+
+
+def sensible(*textos):
+    """True si algún texto toca un tema excluido (config/filtros.json)."""
+    return bool(_PATRON and any(_PATRON.search(_normal(x)) for x in textos if x))
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 ERRORES = []
 
@@ -132,7 +146,7 @@ def google_trends(geo):
             "imagen_fuente": hijo(item, "picture_source"),
             "noticias": noticias[:3],
         })
-    return salida
+    return [t for t in salida if not sensible(t["termino"], *(n["titulo"] for n in t["noticias"][:1]))]
 
 
 def google_news(params, consulta=None, max_items=12):
@@ -159,6 +173,8 @@ def google_news(params, consulta=None, max_items=12):
         fuente = hijo(item, "source")
         if fuente and titulo.endswith(" - " + fuente):
             titulo = titulo[: -len(fuente) - 3]
+        if sensible(titulo):
+            continue
         salida.append({
             "titulo": titulo,
             "fuente": fuente,
@@ -197,7 +213,7 @@ def youtube_populares(region):
         "imagen": v["snippet"].get("thumbnails", {}).get("medium", {}).get("url", ""),
         "vistas": int(v.get("statistics", {}).get("viewCount", 0)),
         "publicado": v["snippet"].get("publishedAt"),
-    } for v in items]
+    } for v in items if not sensible(v["snippet"]["title"])]
 
 
 # ---------------------------------------------------------------- modos

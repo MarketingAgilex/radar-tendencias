@@ -12,6 +12,32 @@
   const S = { cat: null, pulso: null, sectores: null, festivos: null, dicc: null, insights: {}, pestana: "pulso",
     f: { pais: "EC", ciudad: "", audiencia: "general", sector: "", red: "TikTok", periodo: "ahora", buscar: "" }, comp: ["EC", "CO"] };
 
+  // ------------------------------------------------------------------ filtro de temas sensibles
+  let PATRON = null;
+  function prepararFiltro(f) {
+    if (!f) return;
+    const t = [...new Set([...Object.values(f.categorias || {}).flatMap((c) => c.terminos), ...(f.extra || [])])].sort((a, b) => b.length - a.length);
+    if (t.length) PATRON = new RegExp("(^|[^a-z0-9ñ])(" + t.map((x) => norm(x).replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|") + ")(?=$|[^a-z0-9ñ])");
+  }
+  function oculto(id, ...textos) {
+    const i = S.insights[id];
+    const rojos = new Set([...(i?.semaforo || []).filter((x) => x.color === "rojo").map((x) => norm(x.termino)), ...(i?.ocultar || []).map(norm)]);
+    return textos.some((x) => x && ((PATRON && PATRON.test(norm(x))) || rojos.has(norm(x))));
+  }
+  function limpiar() {
+    for (const [id, p] of Object.entries(S.pulso?.paises || {})) {
+      const okT = (t) => !oculto(id, t.termino, t.noticias?.[0]?.titulo, t.noticia?.titulo);
+      const okN = (n) => !oculto(id, n.titulo);
+      p.trends = (p.trends || []).filter(okT);
+      p.semana = (p.semana || []).filter(okT);
+      p.titulares = (p.titulares || []).filter(okN);
+      if (p.titulares_hispanos) p.titulares_hispanos = p.titulares_hispanos.filter(okN);
+      if (p.youtube) p.youtube = p.youtube.filter((v) => !oculto(id, v.titulo));
+      for (const c of Object.values(p.ciudades || {})) { c.titulares = (c.titulares || []).filter(okN); if (c.trends) c.trends = c.trends.filter(okT); }
+    }
+    for (const [id, secs] of Object.entries(S.sectores?.paises || {})) for (const k of Object.keys(secs)) secs[k] = secs[k].filter((n) => !oculto(id, n.titulo));
+  }
+
   const cargar = (url) => fetch(url + (url.includes("?") ? "&" : "?") + "v=" + Math.floor(Date.now() / 300000)).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   const pais = (id) => S.cat.paises.find((p) => p.id === id);
   const bandera = (id) => pais(id)?.bandera || "";
@@ -53,11 +79,12 @@
     aplicarTema(tema);
     $("#btn-tema").addEventListener("click", () => { const t = document.body.classList.contains("claro") ? "oscuro" : "claro"; aplicarTema(t); try { localStorage.setItem("pulso-tema", t); } catch {} });
     leerHash();
-    const [cat, pulso, sectores, festivos, dicc] = await Promise.all([
-      cargar("config/catalogo.json"), cargar("data/pulso.json"), cargar("data/sectores.json"), cargar("data/festivos.json"), cargar("data/insights/diccionario.json"),
+    const [cat, pulso, sectores, festivos, dicc, filtros] = await Promise.all([
+      cargar("config/catalogo.json"), cargar("data/pulso.json"), cargar("data/sectores.json"), cargar("data/festivos.json"), cargar("data/insights/diccionario.json"), cargar("config/filtros.json"),
     ]);
     Object.assign(S, { cat, pulso, sectores, festivos, dicc });
     await Promise.all(cat.paises.map(async (p) => { S.insights[p.id] = await cargar(`data/insights/${p.id}.json`); }));
+    prepararFiltro(filtros); limpiar();
     if (!pais(S.f.pais)) S.f.pais = "EC";
     llenarFiltros();
     pintarCabecera();
@@ -66,7 +93,7 @@
     pintarMapa();
     enlazar();
     activarPestana(S.pestana, false);
-    setInterval(async () => { const p = await cargar("data/pulso.json"); if (p && p.actualizado !== S.pulso?.actualizado) { S.pulso = p; pintarCabecera(); pintarTicker(); pintar(); toast("Nuevas tendencias recibidas"); } }, 5 * 60000);
+    setInterval(async () => { const p = await cargar("data/pulso.json"); if (p && p.actualizado !== S.pulso?.actualizado) { S.pulso = p; limpiar(); pintarCabecera(); pintarTicker(); pintar(); toast("Nuevas tendencias recibidas"); } }, 5 * 60000);
     setInterval(pintarCabecera, 60000);
     window.addEventListener("hashchange", () => { leerHash(); if (!pais(S.f.pais)) S.f.pais = "EC"; llenarFiltros(); pintarEtiquetasMapa(); marcarRegion(); activarPestana(S.pestana, false); });
   }
