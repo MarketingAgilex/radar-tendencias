@@ -1,73 +1,79 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-14T09:04:00Z",
+ "actualizado": "2026-11-14T13:03:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor argentino sigue muy pendiente del dólar y de los precios: 'precio dólar blue' y 'mercado cambiario' están entre lo más buscado de la semana, y se viralizan comparaciones de precios de supermercado en destinos de Brasil. Ya pasó el CyberMonday (2 al 4 de noviembre) y la próxima cita es el Black Friday del 27, con el verano encima: las notas de consumo hablan de ventiladores, electrodomésticos y los SUV más vendidos. Hoy hay alerta por tormentas en Buenos Aires y el Litoral. Ganan los mensajes con precio final en pesos, cuotas claras y comparativas honestas.",
+ "lectura": "Los argentinos miran el cielo y el bolsillo: las búsquedas del clima explotan por las tormentas en Córdoba, Salta y el NOA, mientras el dólar blue y el mercado cambiario siguen marcando cada decisión de compra. Los supermercados ya adelantan el Black Friday con rebajas fuertes y cuotas sin interés, y crece la conversación sobre regalos de Navidad comprados con anticipación. La visita del papa León XIV a Perú despierta cercanía y emoción por su vínculo con Francisco. Ganan los mensajes con precio en pesos, cuotas claras y beneficios concretos.",
  "ideas_hoy": [
   {
-   "titulo": "¿Cuánto sale de verdad?",
-   "idea": "Se viralizó un video que compara precios de supermercado en un destino de Brasil. Hacé tu versión: mostrá cuánto sale tu producto acá, con cuotas, frente a lo que costaría afuera con envío incluido. La comparación honesta genera confianza.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Verano: lista para el Black Friday",
-   "idea": "Las guías de hoy recomiendan elegir ventiladores y electrodomésticos pensando en el Black Friday del 27. Armá una lista 'lo que conviene comprar antes del calor' con tus productos y precio final en cuotas.",
+   "titulo": "Cuotas sin vueltas",
+   "idea": "Los súper ya adelantan el Black Friday con hasta 18 cuotas sin interés. Si vendés, mostrá en un solo gráfico cuánto queda cada cuota con tu producto estrella y el precio final, sin asteriscos.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Plan para un sábado de tormenta",
-   "idea": "Anuncian fuertes lluvias en Buenos Aires y alerta amarilla en el Litoral. Delivery, streaming, juegos de mesa y tiendas online pueden proponer el 'plan de sábado en casa' con envío en el día.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Noche de los Museos en tu barrio",
-   "idea": "Córdoba y Buenos Aires viven la Noche de los Museos, gratuita y masiva. Cafés y comercios cercanos pueden ofrecer un beneficio a quien muestre la foto de su recorrido.",
+   "titulo": "Kit anti tormenta",
+   "idea": "Las alertas por tormentas en Salta, Córdoba y el NOA dominan las búsquedas. Armá un pack práctico (paraguas, linternas, alargues, impermeables) o contenido de 'cómo proteger tu casa o tu local', con tono útil.",
    "formato": "Reel"
   },
   {
-   "titulo": "Regalos para la familia que llega",
-   "idea": "Tini Stoessel y Rodrigo de Paul confirmaron que esperan un bebé y es tema de conversación. Tiendas de bebés y deco pueden aprovechar con un 'kit de bienvenida' para regalar en las fiestas, sin usar su imagen.",
+   "titulo": "Regalos de Navidad anticipados",
+   "idea": "Se viraliza la idea de que quienes compran regalos temprano son más organizados. Lanzá una 'lista de regalos con precio congelado' para quien compre antes del 30 de noviembre.",
+   "formato": "Historias de Instagram"
+  },
+  {
+   "titulo": "Dólar de hoy, precio de hoy",
+   "idea": "El dólar blue sigue entre lo más buscado. Si importás o vendés tecnología, publicá a diario un precio vigente con hora de actualización; la transparencia da confianza en un mercado sensible.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "SUV y autos más vendidos",
+   "idea": "Los rankings de SUV e híbridos más patentados generan interés. Talleres, aseguradoras y tiendas de accesorios pueden armar un 'kit para tu auto nuevo' según los modelos líderes.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
+   "termino": "clima",
+   "color": "verde",
+   "por_que": "Búsqueda masiva por tormentas y cambios de temperatura en varias provincias.",
+   "idea": "Contenido útil de temporada: packs para lluvia, delivery y planes bajo techo."
+  },
+  {
+   "termino": "peru",
+   "color": "verde",
+   "por_que": "Interés por la visita del papa León XIV a Chiclayo, con tono emotivo y cultural.",
+   "idea": "Para turismo y gastronomía: contenidos de cocina peruana o viajes al norte del Perú, con respeto y sin usar imágenes oficiales."
+  },
+  {
+   "termino": "clima salta",
+   "color": "verde",
+   "por_que": "Alerta amarilla por tormentas en Salta este sábado.",
+   "idea": "Comercios locales: avisos de horarios, envíos y recomendaciones prácticas para el finde."
+  },
+  {
    "termino": "precio dolar blue",
    "color": "amarillo",
-   "por_que": "Búsqueda diaria que refleja la ansiedad por los precios; útil para hablar de valor, pero el tema cambiario es sensible.",
-   "idea": "Mostrá precios en pesos con cuotas claras y evitá pronósticos sobre el dólar."
-  },
-  {
-   "termino": "clima tucuman",
-   "color": "verde",
-   "por_que": "Búsqueda de servicio con calor en el norte del país.",
-   "idea": "Promos de ventiladores, bebidas frías, protector solar y ropa liviana para el NOA."
-  },
-  {
-   "termino": "clima corrientes",
-   "color": "amarillo",
-   "por_que": "Hay alerta amarilla por tormentas en el Litoral; tema de servicio, sin dramatizar.",
-   "idea": "Mensajes útiles: horarios de entrega, retiro en sucursal y cuidado de compras en días de lluvia."
-  },
-  {
-   "termino": "cuánto salió argentina",
-   "color": "verde",
-   "por_que": "Curiosidad por comparar precios con el exterior: puro interés de consumo.",
-   "idea": "Comparativas de precio final (producto + envío + impuestos) frente a comprar afuera."
+   "por_que": "Tema central del bolsillo; útil pero sensible a promesas que no se cumplen.",
+   "idea": "Mostrá precios vigentes con fecha y hora; evitá prometer 'precios que no suben'."
   },
   {
    "termino": "rodrigo de paul",
    "color": "verde",
-   "por_que": "Noticia familiar positiva junto a Tini Stoessel, muy comentada en redes.",
-   "idea": "Contenido de regalos para bebés y celebraciones familiares, sin usar su imagen ni su nombre en anuncios."
+   "por_que": "Noticia de farándula positiva: boda y familia que crece, con mucho interés social.",
+   "idea": "Marcas de eventos, regalos o bebés pueden hablar de celebraciones familiares sin usar la imagen de los famosos."
   }
  ],
  "ocultar": [
-  "Los libertarios negocian, pero demoran en ceder a las exigencias",
-  "Susbielles alertó por el impacto de la reforma de biocombustibles en el empleo regional",
-  "El Fiscal General de la Ciudad fue distinguido como Miembro Honorífico del Instituto Peruano Argentino de Derecho Penal",
-  "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
-  "El brutal mensaje de Martín Migueles tras su video viral amenazando a Mauro Icardi"
+  "suquia",
+  "luis caputo",
+  "La Justicia ordenó despojar a Lázaro Báez de su empresa agropecuaria: será liquidada para cubrir la multa de la “Ruta del Dinero K”",
+  "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
+  "El brutal mensaje de Martín Migueles tras su video viral amenazando a Mauro Icardi",
+  "Una camioneta melliza y una máquina de café permitieron detener a un sospechoso de cometer entraderas",
+  "Qué es el grooming, el delito digital que ya afectó a 170 mil niños y adolescentes en República Dominicana",
+  "Con sello mafioso: dos niños amenazados con una pistola",
+  "¡VIDEO! Cinematográfico golpe comando de cuatro ladrones armados en una exclusiva joyería de París",
+  "Hogar Santa Marta: qué denuncian los vecinos y por qué marchan este sábado",
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”"
  ],
  "audiencias": {
   "general": {

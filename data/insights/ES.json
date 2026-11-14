@@ -1,91 +1,100 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-14T09:04:00Z",
+ "actualizado": "2026-11-14T13:03:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España entra en la recta final hacia el Black Friday (27 de noviembre) con un consumidor escéptico: las notas de hoy advierten que habrá más subidas que bajadas de precio y proliferan los 'chollos' anticipados en belleza, moda y tecnología. Se espera que la IA participe en una parte creciente de las compras y la logística ya se prepara con rutas y puntos de recogida extra. Madrid enciende la Navidad con un muñeco de nieve gigante y rutas de luces, y la preinstalación de GTA VI dispara la conversación gamer. Ganan las ofertas transparentes, la entrega puntual y el tono cercano con humor.",
+ "lectura": "España entra en la recta final hacia el Black Friday del 27 de noviembre con ofertas anticipadas en belleza, móviles y moda básica, pero también con un consumidor desconfiado que lee que habrá más subidas que bajadas de precios. La gran novedad es la inteligencia artificial: se estima que una parte creciente de las compras pasará por asistentes y agentes de IA, lo que obliga a tener fichas de producto claras. La vivienda sigue siendo preocupación de fondo y el lanzamiento de GTA VI acapara a los jugadores. Ganan los mensajes honestos con histórico de precios y devoluciones fáciles.",
  "ideas_hoy": [
   {
-   "titulo": "Tu chollo, con historial de precio",
-   "idea": "Hoy se publica que en el Black Friday habrá más subidas que bajadas. Enseña el precio de tu producto en las últimas semanas junto al precio de oferta: la transparencia es tu mejor argumento frente al escepticismo.",
+   "titulo": "Tu histórico de precios, a la vista",
+   "idea": "Circula que en Black Friday habrá más subidas que bajadas. Publica el precio de tus productos de las últimas semanas junto al de la oferta; esa transparencia es tu mejor argumento.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Chollos de belleza por menos de 10 €",
-   "idea": "Un corrector viral de TikTok y un gel hidratante a 9 € están entre lo más leído. Si vendes cosmética, haz un 'top 5 por menos de 10 €' con tus productos y la fecha de entrega.",
-   "formato": "TikTok"
+   "titulo": "Fichas listas para la IA",
+   "idea": "Se prevé que buena parte de las compras de Black Friday pasen por asistentes de IA. Revisa títulos, medidas, materiales y políticas de devolución de tu tienda online: lo que la IA no entiende, no lo recomienda.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Compra con ayuda de la IA",
-   "idea": "Se prevé que la IA intervenga en una parte importante de las compras de este Black Friday. Explica en un vídeo corto cómo encontrar tu tienda o comparar tus productos con un asistente de IA, y asegúrate de que tus fichas tengan precio, tallas y plazos claros.",
+   "titulo": "Básicos que sí merecen la pena",
+   "idea": "Las guías de 'prendas básicas que vale la pena comprar' están circulando. Haz tu propia selección de 5 básicos de tu catálogo con por qué duran, en tono de consejo de amiga, guay pero sin exagerar.",
    "formato": "Reel"
   },
   {
-   "titulo": "Ruta de luces de Navidad",
-   "idea": "Madrid presenta su muñeco de nieve gigante y abre reservas para recorrer las luces en autobús. Cafeterías, tiendas y restaurantes del centro pueden proponer su 'parada' en la ruta con una oferta para quien llegue con la foto.",
-   "formato": "Historias Instagram"
+   "titulo": "Setup para GTA VI",
+   "idea": "La precarga de GTA VI dispara el interés gamer. Tiendas de tecnología y accesorios pueden armar un 'setup listo para el lanzamiento' con mandos, auriculares y almacenamiento.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Pack gamer para Reyes",
-   "idea": "La preinstalación de GTA VI está en tendencia. Tiendas de tecnología pueden lanzar un pack consola + juego + accesorios pensado para Navidad y Reyes, con el plazo de entrega garantizado.",
-   "formato": "Copy para anuncio"
+   "titulo": "Finde de lluvia en Madrid",
+   "idea": "Se esperan lluvias y cielos cubiertos en Madrid el fin de semana. Restaurantes, cines y tiendas de hogar pueden proponer planes de casa o bajo techo con una oferta solo para el sábado y domingo.",
+   "formato": "Historias de Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Tema de gran preocupación por el acceso y los precios; útil para hogar y decoración, pero sensible y cercano al debate público.",
-   "idea": "Ideas para aprovechar espacios pequeños o decorar un piso de alquiler sin obras; evita opinar sobre políticas."
+   "por_que": "Preocupación de fondo por la falta de vivienda disponible; tema sensible para muchos hogares.",
+   "idea": "Para hogar y decoración: ideas para aprovechar pisos pequeños, con empatía y sin frivolizar el problema."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "El lanzamiento de videojuego más esperado, con intención de compra para Navidad.",
-   "idea": "Packs de regalo gamer y contenido 'prepara tu setup' con precio total."
+   "por_que": "Lanzamiento esperadísimo con precarga disponible: máxima atención gamer.",
+   "idea": "Packs de accesorios, contenido de 'preparando el lanzamiento' y directos en Twitch o TikTok."
+  },
+  {
+   "termino": "spacex starship",
+   "color": "verde",
+   "por_que": "Curiosidad tecnológica por los ensayos de Starship.",
+   "idea": "Contenidos de divulgación o merchandising espacial para marcas de tecnología y educación."
+  },
+  {
+   "termino": "el tiempo en madrid",
+   "color": "verde",
+   "por_que": "Fin de semana con lluvias y cielo cubierto en la capital.",
+   "idea": "Planes bajo techo, delivery y ropa impermeable con mensajes de cercanía."
   },
   {
    "termino": "wall street",
-   "color": "amarillo",
-   "por_que": "Caídas por las turbulencias de Nvidia; tema financiero volátil.",
-   "idea": "Solo contenido de educación financiera prudente; nada de recomendaciones de inversión."
-  },
-  {
-   "termino": "météo",
    "color": "verde",
-   "por_que": "Bajada de temperaturas y heladas: búsqueda de servicio útil para el fin de semana.",
-   "idea": "Abrigos, mantas, calefactores y planes de interior con mensajes de temporada."
-  },
-  {
-   "termino": "mika",
-   "color": "verde",
-   "por_que": "Momento comentado de 'La Voz' en televisión; entretenimiento ligero.",
-   "idea": "Contenido de humor sobre 'recibir críticas' para marcas de formación, música o atención al cliente."
+   "por_que": "Interés por la volatilidad de los valores tecnológicos tras la semana agitada de Nvidia.",
+   "idea": "Para fintech y educación financiera: explicadores sencillos sin dar recomendaciones de inversión."
   }
  ],
  "ocultar": [
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
-  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
-  "Una investigación encuentra en TikTok miles de cuentas dedicadas al contenido pederasta",
-  "Moeve, Eroski, Santander y El Corte Inglés se suman para retirar su publicidad en TikTok por su contenido pedófilo",
-  "Conversaciones de paz entre Ucrania y Rusia: líderes de la UE debaten a quién enviar",
+  "angelina jolie",
+  "a coruña",
+  "kaja kallas",
+  "miniserie",
+  "pedro sánchez pérez-castejón",
   "alberto núñez feijóo",
   "juan carlos i",
   "jordi wild pedro sánchez",
   "entrevista jordi wild pedro sanchez",
   "begoña gómez fernández",
   "lara ferreiro",
-  "pobreza",
   "seguridad ferroviaria",
-  "Inicio de campaña: Sánchez reivindica a los sindicatos, Feijóo tira de insulto, Vox de internacional ultra y Colau dice que \"no todos son iguales\"",
-  "El cara a cara entre Sánchez y Feijóo será el 19 de noviembre y estará organizado por la Academia de la Televisión",
-  "UGT y CCOO celebran el \"éxito\" de la huelga y reclaman atención a sus demandas sobre vivienda y salarios",
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
+  "Ofrecían 100 euros por abrir una cuenta bancaria: así funcionaba la captación en TikTok",
+  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
+  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
+  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
   "Sánchez estuvo en Córdoba el mismo día que Corvillo asegura haberse reunido con él allí",
-  "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
-  "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
-  "¿Malgastó Madrid el dinero público con el ático de 6,3 millones? El Tribunal de Cuentas ve indicios de que fue mala idea",
-  "Cortada la AP-7 en Mont-roig del Camp en sentido Barcelona por dos accidentes con tres camiones implicados"
+  "La Unión Europea descartó un negociador único y designó un equipo para los contactos sobre Ucrania",
+  "Cómo ha votado España en las generales desde 1982, calle a calle",
+  "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
+  "Vaquero (PNV): PP-Vox nos tendrán enfrente, pero no cejaremos en trabajar por Euskadi",
+  "Los profesores de Madrid cumplen un mes de huelga y Zarzalejo acusa a los sindicatos por prolongarla: \"Los alumnos se juegan el curso\"",
+  "Sáhara Occidental | La manifestación de hoy llega cuando el futuro del pueblo saharaui vuelve a estar en juego",
+  "La Audiencia amplía la causa penal contra el exdirector de Educación",
+  "Los expertos ven inconstitucional la orden de Ayuso para prohibir mensajes en favor de la huelga educativa",
+  "Un McLaren robado aparece en una reunión de autos en Detroit",
+  "Bessent pide restringir las exportaciones de chips de Nvidia tras el escándalo de su exCEO y apunta al secretario de Comercio",
+  "Scott Bessent señala al Departamento de Comercio de EE.UU. por no restringir las exportaciones de chips de Nvidia",
+  "pobreza"
  ],
  "audiencias": {
   "general": {

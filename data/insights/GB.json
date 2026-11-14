@@ -1,0 +1,1103 @@
+{
+ "pais": "GB",
+ "actualizado": "2026-11-14T13:02:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "El consumidor británico entra en la 'golden quarter' con frío récord (heladas y avisos de clima frío) y con las ofertas anticipadas de Black Friday ya en marcha en tecnología, hogar y belleza. Hay cautela con el gasto: preocupan las estafas en compras online y las grandes cadenas de muebles reportan demanda floja, así que gana quien demuestra valor real y precio claro. Entretenimiento y videojuegos (GTA VI, el resumen anual de Xbox, Strictly Come Dancing) dominan la conversación de ocio, y los mercados navideños de artesanos locales crecen como alternativa al regalo genérico. Funcionan los mensajes cálidos, con humor británico, guías de regalo por presupuesto y pruebas sociales.",
+ "semaforo": [
+  {
+   "termino": "gta vi map",
+   "color": "verde",
+   "por_que": "El lanzamiento de GTA VI concentra búsquedas y conversación gamer de alto volumen.",
+   "idea": "Para tiendas de tecnología y accesorios: guía de 'setup para GTA VI' (mandos, auriculares, monitores) como regalo de Navidad."
+  },
+  {
+   "termino": "snow forecast",
+   "color": "verde",
+   "por_que": "Frío intenso y pronóstico de nieve: dispara compras de abrigo, calefacción y hogar.",
+   "idea": "Contenido 'kit de invierno' con abrigos, mantas, termos y productos para el auto, con entrega rápida."
+  },
+  {
+   "termino": "the hunger games: sunrise on the reaping",
+   "color": "verde",
+   "por_que": "Estreno cinematográfico con interés en moda de alfombra roja y fandom.",
+   "idea": "Para moda y belleza: looks inspirados en el estreno y planes de cine con amigos."
+  },
+  {
+   "termino": "andy serkis",
+   "color": "amarillo",
+   "por_que": "Interés por el universo de El Señor de los Anillos y nostalgia de fans; nicho pero activo.",
+   "idea": "Coleccionables y regalos para fans con tono de nostalgia, sin usar marcas registradas sin licencia."
+  },
+  {
+   "termino": "microsoft playback",
+   "color": "verde",
+   "por_que": "El resumen anual de Xbox invita a compartir 'mi año' en redes, un formato muy viral.",
+   "idea": "Crea tu propio 'recap del año' de marca o de clientes en formato carrusel o Reel."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor británico",
+   "resumen": "Pragmático, busca valor y es muy activo online: el comercio electrónico pesa mucho en el gasto minorista. Compara precios, lee reseñas y valora la devolución fácil. Tiene fuerte tradición navideña (anuncios de supermercados, Christmas jumpers, cenas de empresa) y una cultura de supermercados de descuento (Aldi, Lidl) que ganó terreno con el costo de vida.",
+   "como_habla": "Educado, indirecto y con mucha ironía; 'please', 'cheers' y 'sorry' están en todas partes. El humor autocrítico y el understatement ('not bad at all') venden más que el entusiasmo exagerado.",
+   "dolores": [
+    "Costo de vida y facturas de energía en invierno",
+    "Estafas online y vendedores poco fiables",
+    "Envíos lentos o devoluciones complicadas"
+   ],
+   "motivaciones": [
+    "Buen valor por el dinero",
+    "Tradiciones navideñas",
+    "Comodidad y entrega rápida"
+   ],
+   "frenos": [
+    "Precios inflados antes del Black Friday",
+    "Costos ocultos e impuestos de importación",
+    "Marcas que exageran"
+   ],
+   "tono": "Cercano, ingenioso, honesto y sin grandilocuencia.",
+   "evitar": [
+    "Superlativos vacíos",
+    "Copiar humor estadounidense",
+    "Estereotipos regionales"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "YouTube",
+    "Facebook",
+    "Email",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Good value, no faff.'",
+    "'Regalos pensados, sin vaciar la cartera.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor británico",
+   "resumen": "Pequeños negocios y creadores que venden en Etsy, Instagram, Shopify y mercados de artesanos; muchos con un trabajo paralelo ('side hustle').",
+   "como_habla": "Directo y práctico, usa jerga de negocio digital ('side hustle', 'small biz').",
+   "dolores": [
+    "Costos de envío y logística",
+    "Visibilidad frente a grandes marcas",
+    "Flujo de caja en temporada alta"
+   ],
+   "motivaciones": [
+    "Crecer en la temporada navideña",
+    "Comunidad 'shop small'",
+    "Independencia"
+   ],
+   "frenos": [
+    "Burocracia y aduanas para vender fuera",
+    "Comisiones de marketplaces"
+   ],
+   "tono": "Colaborativo y útil.",
+   "evitar": [
+    "Promesas de dinero fácil"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "LinkedIn",
+    "Etsy",
+    "Facebook Groups"
+   ],
+   "mensajes": [
+    "'Shop small this Christmas.'",
+    "'Tu negocio, más lejos, sin complicarte.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora / exportadora",
+   "resumen": "Empresas que compran o venden fuera del Reino Unido y se mueven con normas aduaneras propias tras su salida de la UE.",
+   "como_habla": "Técnico y concreto: aranceles, documentación, tiempos de tránsito.",
+   "dolores": [
+    "Papeleo aduanero",
+    "Retrasos en la cadena de suministro",
+    "Costos logísticos variables"
+   ],
+   "motivaciones": [
+    "Diversificar proveedores",
+    "Nuevos mercados",
+    "Previsibilidad"
+   ],
+   "frenos": [
+    "Incertidumbre regulatoria",
+    "Tipo de cambio"
+   ],
+   "tono": "Profesional, basado en datos.",
+   "evitar": [
+    "Simplificar temas aduaneros"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Email",
+    "Webinars",
+    "Ferias sectoriales"
+   ],
+   "mensajes": [
+    "'Previsibilidad para tu cadena de suministro.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Corporativo",
+   "resumen": "Grandes empresas con decisiones por comités, foco en cumplimiento, sostenibilidad y eficiencia; regalos corporativos y eventos de fin de año en temporada.",
+   "como_habla": "Formal, cuidadoso y orientado a evidencia.",
+   "dolores": [
+    "Presupuestos ajustados",
+    "Cumplimiento normativo",
+    "Proveedores poco confiables"
+   ],
+   "motivaciones": [
+    "Eficiencia",
+    "Reputación y ESG",
+    "Bienestar de empleados"
+   ],
+   "frenos": [
+    "Ciclos de compra largos"
+   ],
+   "tono": "Sobrio y profesional.",
+   "evitar": [
+    "Informalidad excesiva"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Email",
+    "Eventos del sector"
+   ],
+   "mensajes": [
+    "'Regalos corporativos con propósito y sin complicaciones.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z británica (18–28)",
+   "resumen": "Nativa de TikTok, ama la segunda mano (Vinted, Depop), los 'dupes' y los recaps virales; sensible al precio y a la autenticidad.",
+   "como_habla": "Jerga de internet mezclada con multicultural London English ('innit', 'peak', 'bare').",
+   "dolores": [
+    "Alquiler caro",
+    "Ingresos bajos"
+   ],
+   "motivaciones": [
+    "Autenticidad",
+    "Tendencia",
+    "Sostenibilidad"
+   ],
+   "frenos": [
+    "Marcas que fingen ser jóvenes",
+    "Envíos caros"
+   ],
+   "tono": "Auténtico, irónico y rápido.",
+   "evitar": [
+    "Jerga forzada",
+    "Anuncios demasiado pulidos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube",
+    "Snapchat"
+   ],
+   "mensajes": [
+    "'Regalos con estilo que no te dejan skint.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials británicos (29–44)",
+   "resumen": "Compran online desde el móvil, combinan familia y trabajo, valoran comodidad, reseñas y experiencias.",
+   "como_habla": "Informal, irónico, referencias pop de los 2000.",
+   "dolores": [
+    "Costo de vida y vivienda",
+    "Falta de tiempo"
+   ],
+   "motivaciones": [
+    "Comodidad",
+    "Experiencias",
+    "Bienestar"
+   ],
+   "frenos": [
+    "Letra pequeña",
+    "Malas reseñas"
+   ],
+   "tono": "Cálido y práctico.",
+   "evitar": [
+    "Paternalismo"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "YouTube",
+    "Email"
+   ],
+   "mensajes": [
+    "'Navidad resuelta en tres clics.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X británica (45–60)",
+   "resumen": "Poder adquisitivo estable, lealtad a marcas confiables, compran tanto en tienda como online.",
+   "como_habla": "Directo, con humor seco.",
+   "dolores": [
+    "Cuidar a hijos y padres a la vez",
+    "Desconfianza digital"
+   ],
+   "motivaciones": [
+    "Calidad",
+    "Confianza",
+    "Tradición"
+   ],
+   "frenos": [
+    "Procesos online complicados"
+   ],
+   "tono": "Claro y respetuoso.",
+   "evitar": [
+    "Jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "Email",
+    "YouTube",
+    "Instagram"
+   ],
+   "mensajes": [
+    "'Calidad que dura, con devolución fácil.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers británicos (61+)",
+   "resumen": "Valoran atención personal, tradición navideña y marcas de toda la vida; cada vez más activos online.",
+   "como_habla": "Cortés y formal.",
+   "dolores": [
+    "Facturas de calefacción",
+    "Desconfianza ante estafas"
+   ],
+   "motivaciones": [
+    "Familia y nietos",
+    "Seguridad",
+    "Tradición"
+   ],
+   "frenos": [
+    "Tecnología confusa"
+   ],
+   "tono": "Amable, claro y paciente.",
+   "evitar": [
+    "Tono condescendiente"
+   ],
+   "canales": [
+    "Facebook",
+    "Email",
+    "Televisión",
+    "Prensa local"
+   ],
+   "mensajes": [
+    "'Regalos para la familia, entregados a tiempo para Navidad.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, segunda mano, reciclaje y negocios locales; los mercados de artesanos están en auge.",
+   "mensaje": "'Regala algo hecho con cuidado y que dure.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Precio final claro, comparaciones honestas y fechas como Black Friday, Cyber Monday y Boxing Day.",
+   "mensaje": "'Una oferta de verdad, no un precio inflado.'",
+   "evitar": "Descuentos sobre precios artificialmente subidos."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas premium, experiencias y estética cuidada.",
+   "mensaje": "'Un capricho que merece la pena.'",
+   "evitar": "Ostentación."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología, videojuegos e IA; reseñas detalladas.",
+   "mensaje": "'Pruébalo antes que nadie.'",
+   "evitar": "Promesas técnicas exageradas."
+  },
+  "wellness": {
+   "como_llegarle": "Bienestar invernal: sueño, movimiento, alimentación y salud mental en días cortos.",
+   "mensaje": "'Cuídate este invierno.'",
+   "evitar": "Afirmaciones médicas sin respaldo."
+  },
+  "familia": {
+   "como_llegarle": "Tradiciones navideñas, regalos para niños y planes en casa.",
+   "mensaje": "'Momentos en familia, sin estrés.'",
+   "evitar": "Modelos de familia únicos."
+  },
+  "viajero": {
+   "como_llegarle": "Escapadas de invierno, mercados navideños europeos y sol en invierno.",
+   "mensaje": "'Tu escapada de invierno, sin complicaciones.'",
+   "evitar": "Promesas de viaje sin flexibilidad."
+  },
+  "gamer": {
+   "como_llegarle": "Lanzamientos (GTA VI), setups, accesorios y recaps anuales.",
+   "mensaje": "'Sube de nivel tu setup esta Navidad.'",
+   "evitar": "Desconocer la cultura gamer."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinoamericanas en Londres y otras ciudades que extrañan productos de casa y envían regalos a sus familias.",
+   "mensaje": "'Un pedacito de casa, también en Navidad.'",
+   "evitar": "Estereotipos sobre la comunidad."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Cuppa",
+   "significado": "Una taza de té (o café); también la pausa para tomarlo.",
+   "uso": "Todo el Reino Unido.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Time for a cuppa and a mince pie.",
+   "equivalentes": {
+    "CO": "un tinto",
+    "MX": "un cafecito",
+    "EC": "un cafecito",
+    "ES": "un café / un té",
+    "AR": "un mate / un cafecito"
+   }
+  },
+  {
+   "expresion": "Quid",
+   "significado": "Libra esterlina (no cambia en plural).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Gifts under 20 quid.",
+   "equivalentes": {
+    "CO": "lucas",
+    "MX": "varos",
+    "EC": "dólares",
+    "ES": "pavos",
+    "AR": "mangos"
+   }
+  },
+  {
+   "expresion": "Skint",
+   "significado": "Sin dinero, pelado.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Skint after Christmas? Here's a budget gift guide.",
+   "equivalentes": {
+    "CO": "pelado",
+    "MX": "bien bruja / sin lana",
+    "EC": "chiro",
+    "ES": "sin un duro / pelado",
+    "AR": "seco / sin un mango"
+   }
+  },
+  {
+   "expresion": "Chuffed",
+   "significado": "Muy contento, orgulloso.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Chuffed to bits with my order!",
+   "equivalentes": {
+    "CO": "feliz / contentísimo",
+    "MX": "bien contento",
+    "EC": "feliz de la vida",
+    "ES": "contentísimo",
+    "AR": "re contento"
+   }
+  },
+  {
+   "expresion": "Gutted",
+   "significado": "Muy decepcionado, triste por algo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Gutted it sold out? It's back in stock.",
+   "equivalentes": {
+    "CO": "achantado / aburrido",
+    "MX": "bien agüitado",
+    "EC": "bajoneado",
+    "ES": "chafado / hecho polvo",
+    "AR": "bajoneado"
+   }
+  },
+  {
+   "expresion": "Knackered",
+   "significado": "Agotado, molido.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Knackered after Christmas shopping?",
+   "equivalentes": {
+    "CO": "mamado",
+    "MX": "bien cansado / molido",
+    "EC": "cansadísimo",
+    "ES": "reventado / hecho polvo",
+    "AR": "re cansado / fundido"
+   }
+  },
+  {
+   "expresion": "Cheeky",
+   "significado": "Atrevido de forma simpática; 'darse un gustito'.",
+   "uso": "Todo el país; muy usado en marketing.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Treat yourself to a cheeky discount.",
+   "equivalentes": {
+    "CO": "un antojito / un gustico",
+    "MX": "un gustito",
+    "EC": "un gustito",
+    "ES": "un capricho",
+    "AR": "un gustito"
+   }
+  },
+  {
+   "expresion": "Innit",
+   "significado": "Muletilla de confirmación ('¿no?', '¿verdad?'), derivada de 'isn't it'.",
+   "uso": "Muy común en Londres y entre jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Proper cold today, innit?",
+   "equivalentes": {
+    "CO": "¿cierto?",
+    "MX": "¿no?",
+    "EC": "¿cierto?",
+    "ES": "¿verdad? / ¿eh?",
+    "AR": "¿viste?"
+   }
+  },
+  {
+   "expresion": "Faff",
+   "significado": "Complicación o pérdida de tiempo con algo innecesario.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Returns without the faff.",
+   "equivalentes": {
+    "CO": "vuelta / enredo",
+    "MX": "rollo / lata",
+    "EC": "complique",
+    "ES": "lío / follón",
+    "AR": "quilombo / vueltas"
+   }
+  },
+  {
+   "expresion": "Gobsmacked",
+   "significado": "Boquiabierto, muy sorprendido.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "You'll be gobsmacked by these prices.",
+   "equivalentes": {
+    "CO": "boquiabierto / ¡uy, juemadre!",
+    "MX": "con el ojo cuadrado",
+    "EC": "sorprendidísimo",
+    "ES": "flipando",
+    "AR": "re sorprendido / flasheado"
+   }
+  },
+  {
+   "expresion": "Brilliant",
+   "significado": "Excelente; también 'gracias' entusiasta.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Brilliant, your parcel is on its way.",
+   "equivalentes": {
+    "CO": "¡bacano!",
+    "MX": "¡padrísimo!",
+    "EC": "¡chévere!",
+    "ES": "¡genial!",
+    "AR": "¡bárbaro!"
+   }
+  },
+  {
+   "expresion": "Cheers",
+   "significado": "Gracias; también saludo de despedida y brindis.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Cheers for shopping local!",
+   "equivalentes": {
+    "CO": "gracias, qué amable",
+    "MX": "gracias",
+    "EC": "gracias, muy amable",
+    "ES": "gracias / venga",
+    "AR": "gracias / dale"
+   }
+  },
+  {
+   "expresion": "Mate",
+   "significado": "Amigo, compañero; también trato a desconocidos.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tag a mate who needs this.",
+   "equivalentes": {
+    "CO": "parce",
+    "MX": "cuate / carnal",
+    "EC": "pana",
+    "ES": "tío / colega",
+    "AR": "amigo / boludo (informal)"
+   }
+  },
+  {
+   "expresion": "Sorted",
+   "significado": "Resuelto, listo, arreglado.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Christmas gifts? Sorted.",
+   "equivalentes": {
+    "CO": "listo / melo",
+    "MX": "listo / ya quedó",
+    "EC": "listo",
+    "ES": "solucionado / listo",
+    "AR": "listo / resuelto"
+   }
+  },
+  {
+   "expresion": "Bargain",
+   "significado": "Ganga, oferta muy buena.",
+   "uso": "Todo el país; muy usado en retail.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Bargain of the week!",
+   "equivalentes": {
+    "CO": "ganga / papaya",
+    "MX": "ganga",
+    "EC": "oferta / ganga",
+    "ES": "chollo",
+    "AR": "ganga / oferta"
+   }
+  },
+  {
+   "expresion": "Splash out",
+   "significado": "Gastar más de lo habitual en algo especial.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Splash out on yourself this Black Friday.",
+   "equivalentes": {
+    "CO": "botar la casa por la ventana",
+    "MX": "darse un lujo",
+    "EC": "darse un lujo",
+    "ES": "darse un capricho",
+    "AR": "tirar la casa por la ventana"
+   }
+  },
+  {
+   "expresion": "Fortnight",
+   "significado": "Dos semanas (quince días).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Delivery within a fortnight.",
+   "equivalentes": {
+    "CO": "quince días",
+    "MX": "quince días",
+    "EC": "quince días",
+    "ES": "quince días",
+    "AR": "quince días"
+   }
+  },
+  {
+   "expresion": "Queue",
+   "significado": "Fila, cola; también 'hacer fila'.",
+   "uso": "Todo el país; hacer fila es un ritual social.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Skip the queue, shop online.",
+   "equivalentes": {
+    "CO": "la fila",
+    "MX": "la fila / la cola",
+    "EC": "la fila",
+    "ES": "la cola",
+    "AR": "la cola / la fila"
+   }
+  },
+  {
+   "expresion": "Telly",
+   "significado": "Televisión.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "As seen on telly.",
+   "equivalentes": {
+    "CO": "la tele",
+    "MX": "la tele",
+    "EC": "la tele",
+    "ES": "la tele",
+    "AR": "la tele"
+   }
+  },
+  {
+   "expresion": "Peckish",
+   "significado": "Con un poco de hambre, con ganas de picar algo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Feeling peckish? Try our snack box.",
+   "equivalentes": {
+    "CO": "con hambre / con ganas de mecatear",
+    "MX": "con ganas de botanear",
+    "EC": "con hambrecita",
+    "ES": "con gusanillo",
+    "AR": "con ganas de picar algo"
+   }
+  },
+  {
+   "expresion": "Proper",
+   "significado": "Auténtico, de verdad; también 'muy' como intensificador.",
+   "uso": "Todo el país, muy fuerte en el norte y el suroeste.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "A proper Sunday roast.",
+   "equivalentes": {
+    "CO": "de verdad",
+    "MX": "de a de veras",
+    "EC": "de verdad",
+    "ES": "de verdad / de los de antes",
+    "AR": "posta / de verdad"
+   }
+  },
+  {
+   "expresion": "Dodgy",
+   "significado": "Dudoso, poco confiable, de mala calidad.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No dodgy sellers, just verified brands.",
+   "equivalentes": {
+    "CO": "chimbo / sospechoso",
+    "MX": "chafa / gacho",
+    "EC": "chimbo / dudoso",
+    "ES": "chungo",
+    "AR": "trucho"
+   }
+  },
+  {
+   "expresion": "Minted",
+   "significado": "Adinerado, con mucha plata.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "You don't need to be minted to look good.",
+   "equivalentes": {
+    "CO": "platudo / tener billete",
+    "MX": "forrado / con lana",
+    "EC": "con plata / billetón",
+    "ES": "forrado",
+    "AR": "forrado / platudo"
+   }
+  },
+  {
+   "expresion": "Naff",
+   "significado": "Hortera, de mal gusto o sin gracia.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No naff jumpers this year.",
+   "equivalentes": {
+    "CO": "corroncho / mañé",
+    "MX": "naco / chafa",
+    "EC": "de mal gusto / lobo",
+    "ES": "hortera",
+    "AR": "grasa"
+   }
+  },
+  {
+   "expresion": "Pants",
+   "significado": "Malo, de mala calidad ('that's pants').",
+   "uso": "Todo el país (ojo: también significa 'calzoncillos').",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Weather's pants? Stay in and shop.",
+   "equivalentes": {
+    "CO": "malísimo",
+    "MX": "de la fregada",
+    "EC": "pésimo",
+    "ES": "una porquería",
+    "AR": "una porquería"
+   }
+  },
+  {
+   "expresion": "Bits and bobs",
+   "significado": "Cositas varias, cachivaches.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Stocking fillers and bits and bobs.",
+   "equivalentes": {
+    "CO": "cositas / chucherías",
+    "MX": "chucherías",
+    "EC": "cositas",
+    "ES": "cosillas / chismes",
+    "AR": "cositas / chucherías"
+   }
+  },
+  {
+   "expresion": "Wee",
+   "significado": "Pequeño ('a wee bit' = un poquito).",
+   "uso": "Escocia e Irlanda del Norte.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "A wee gift for your mum.",
+   "equivalentes": {
+    "CO": "pequeñito",
+    "MX": "chiquito",
+    "EC": "pequeñito",
+    "ES": "pequeñito",
+    "AR": "chiquito"
+   }
+  },
+  {
+   "expresion": "Lush",
+   "significado": "Delicioso, precioso, estupendo.",
+   "uso": "Gales y suroeste de Inglaterra.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "This cake is lush.",
+   "equivalentes": {
+    "CO": "delicioso / una chimba",
+    "MX": "bien rico / padrísimo",
+    "EC": "delicioso / bacán",
+    "ES": "buenísimo",
+    "AR": "re rico / divino"
+   }
+  },
+  {
+   "expresion": "Bob's your uncle",
+   "significado": "'Y listo', 'así de fácil'.",
+   "uso": "Todo el país, más entre adultos.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Order today and Bob's your uncle, it arrives Monday.",
+   "equivalentes": {
+    "CO": "y listo, sin vueltas",
+    "MX": "y ya quedó",
+    "EC": "y listo",
+    "ES": "y listo / y ya está",
+    "AR": "y listo"
+   }
+  },
+  {
+   "expresion": "Taking the mickey",
+   "significado": "Tomar el pelo, burlarse o aprovecharse.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Prices that aren't taking the mickey.",
+   "equivalentes": {
+    "CO": "mamar gallo",
+    "MX": "vacilar / tomar el pelo",
+    "EC": "vacilar",
+    "ES": "vacilar / tomar el pelo",
+    "AR": "cargar / tomar el pelo"
+   }
+  },
+  {
+   "expresion": "Bants",
+   "significado": "Bromas y vacile entre amigos (de 'banter').",
+   "uso": "Todo el país, jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Office secret Santa, all bants.",
+   "equivalentes": {
+    "CO": "recocha",
+    "MX": "cotorreo",
+    "EC": "joda / vacile",
+    "ES": "cachondeo",
+    "AR": "joda / chistes"
+   }
+  },
+  {
+   "expresion": "Fancy",
+   "significado": "Tener ganas de algo o apetecer ('fancy a coffee?').",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Fancy a treat this weekend?",
+   "equivalentes": {
+    "CO": "¿le provoca?",
+    "MX": "¿se te antoja?",
+    "EC": "¿te provoca?",
+    "ES": "¿te apetece?",
+    "AR": "¿pintó? / ¿tenés ganas?"
+   }
+  },
+  {
+   "expresion": "Jumper",
+   "significado": "Suéter, buzo de punto (el 'Christmas jumper' es tradición navideña).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Christmas Jumper Day is coming!",
+   "equivalentes": {
+    "CO": "saco / buzo",
+    "MX": "suéter",
+    "EC": "saco",
+    "ES": "jersey",
+    "AR": "pulóver / buzo"
+   }
+  },
+  {
+   "expresion": "Brolly",
+   "significado": "Paraguas.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Don't forget your brolly.",
+   "equivalentes": {
+    "CO": "paraguas / sombrilla",
+    "MX": "paraguas",
+    "EC": "paraguas",
+    "ES": "paraguas",
+    "AR": "paraguas"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#UK",
+   "#London",
+   "#Manchester",
+   "#ShopSmall",
+   "#SmallBusinessUK",
+   "#MadeInBritain",
+   "#UKShopping",
+   "#ChristmasUK"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "'Lo que compré vs. lo que pagué' en libras",
+     "Hauls de Black Friday con precio real",
+     "Day in the life de un pequeño negocio británico",
+     "Reacciones a los anuncios navideños"
+    ],
+    "ganchos": [
+     "'Is this Black Friday deal actually a bargain?'",
+     "'Things nobody tells you about British winters…'",
+     "'Gifts under 20 quid'"
+    ],
+    "horario": "18:00–22:00 entre semana; media mañana el fin de semana (hora de Londres)",
+    "hashtags": [
+     "#TikTokMadeMeBuyIt",
+     "#UKTikTok",
+     "#BlackFridayUK",
+     "#SmallBusinessUK"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Carruseles de guías de regalo por presupuesto",
+     "Reels de mercados navideños",
+     "Stories con encuestas y cuenta regresiva"
+    ],
+    "ganchos": [
+     "'Regalos por menos de 25 libras'",
+     "'Shop small this Christmas'"
+    ],
+    "horario": "12:00–13:00 y 19:00–21:00",
+    "hashtags": [
+     "#ShopSmallUK",
+     "#GiftGuide",
+     "#ChristmasGifts",
+     "#UKMakers"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas y comparativas de ofertas",
+     "Vlogs de compras navideñas",
+     "Setups gamer"
+    ],
+    "ganchos": [
+     "'Probé las ofertas anticipadas de Black Friday'",
+     "'Mi setup para GTA VI'"
+    ],
+    "horario": "Fines de semana por la mañana; entre semana 19:00–22:00",
+    "hashtags": [
+     "#BlackFridayDeals",
+     "#UKYouTuber",
+     "#ChristmasHaul"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Aprendizajes de la temporada alta",
+     "Casos de pymes que exportan",
+     "Datos de consumo navideño"
+    ],
+    "ganchos": [
+     "'Lo que aprendimos de nuestro primer Black Friday'",
+     "'3 datos del consumidor británico para esta Navidad'"
+    ],
+    "horario": "Martes a jueves, 08:00–10:00",
+    "hashtags": [
+     "#SmallBusiness",
+     "#Retail",
+     "#Ecommerce",
+     "#Export"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones en grupos locales",
+     "Eventos de mercados navideños",
+     "Ofertas con fecha límite"
+    ],
+    "ganchos": [
+     "'Último día para recibir antes de Navidad'",
+     "'Apoya a tu negocio local'"
+    ],
+    "horario": "19:00–21:00",
+    "hashtags": [
+     "#ShopLocal",
+     "#ChristmasMarket"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Comentarios en tiempo real de programas de TV (Strictly, anuncios navideños)",
+     "Hilos de ofertas"
+    ],
+    "ganchos": [
+     "'Ranking de los anuncios navideños de este año'"
+    ],
+    "horario": "20:00–22:00 durante emisiones en vivo",
+    "hashtags": [
+     "#Strictly",
+     "#ChristmasAdverts",
+     "#BlackFriday"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Café de especialidad latinoamericano",
+   "senal": "Crece el interés por cafeterías independientes y café de origen en ciudades británicas, con mucha competencia en calidad.",
+   "desde": "CO",
+   "hacia": "GB",
+   "sector": "cafe-cacao",
+   "accion": "Explorar contenido de origen y trazabilidad dirigido a tostadores independientes y tiendas gourmet."
+  },
+  {
+   "titulo": "Chocolate de origen y premium",
+   "senal": "El chocolate negro y las marcas de autor ganan espacio en la conversación de consumo y regalo navideño.",
+   "desde": "EC",
+   "hacia": "GB",
+   "sector": "cafe-cacao",
+   "accion": "Investigar ferias y distribuidores gourmet; contar la historia del cacao fino de aroma."
+  },
+  {
+   "titulo": "Artesanía y regalo hecho a mano",
+   "senal": "Los mercados de artesanos y regalos 'beyond the high street' se multiplican en temporada navideña.",
+   "desde": "PE",
+   "hacia": "GB",
+   "sector": "artesanias",
+   "accion": "Probar venta en marketplaces de diseño y alianzas con tiendas independientes, revisando requisitos de importación."
+  },
+  {
+   "titulo": "Productos de casa para la diáspora latina",
+   "senal": "Comunidades latinoamericanas en Londres buscan productos de su país, más aún en fiestas.",
+   "desde": "CO",
+   "hacia": "GB",
+   "sector": "alimentos",
+   "accion": "Validar demanda con tiendas latinas y grupos comunitarios antes de invertir en inventario."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 271874,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=1842882063394763"
+    }
+   ],
+   "patron": "El Black Friday se pauta desde semanas antes con mensajes de 'empieza ya' y descuentos de hasta 62%; un mismo anunciante corre decenas de variaciones del mismo anuncio para probar creatividades."
+  },
+  {
+   "busqueda": "envíos",
+   "total": 439,
+   "anunciantes": [
+    {
+     "nombre": "Temu",
+     "url": "https://www.facebook.com/ads/library/?id=1463305455782134"
+    },
+    {
+     "nombre": "Cuballama",
+     "url": "https://www.facebook.com/ads/library/?id=29249906008026085"
+    },
+    {
+     "nombre": "Club Atlético Nacional Oficial",
+     "url": "https://www.facebook.com/ads/library/?id=965659749646694"
+    },
+    {
+     "nombre": "Iberiancards",
+     "url": "https://www.facebook.com/ads/library/?id=2584626955391101"
+    },
+    {
+     "nombre": "Coleccionistas Adictos",
+     "url": "https://www.facebook.com/ads/library/?id=1869230781192432"
+    }
+   ],
+   "patron": "En español dominan los marketplaces con 'super oferta', los envíos a familia en Latinoamérica y las tiendas que venden a la diáspora (camisetas de clubes, coleccionables) con códigos de descuento de Black Friday."
+  }
+ ],
+ "ocultar": [
+  "italy argentina",
+  "ferne mccann",
+  "abingdon fireworks",
+  "l3harris",
+  "you can see everything",
+  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
+  "{{‍�𝙀𝙓~𝙑𝙄𝘿𝙀𝙊~𝙓𝙓𝙓)𝙫𝙞𝙙𝙚𝙤 𝙛𝙞𝙡𝙩𝙧𝙖𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙫𝙞𝙧𝙖𝙡 𝙫𝙞𝙙𝙚𝙤}}",
+  "hansika motwani video viral video clips original",
+  "South Philly 12-year-old says goodbye to part of his ‘53-man dad squad’ in viral video to Jordan Davis",
+  "Cameron Calls for UK to Quit Europe’s Human Rights Convention",
+  "My brother was an absolute genius - he should still be alive",
+  "Fifteen taken to hospital after deliberate fire at Glasgow flats",
+  "Piddington migrant camp a risk to women and girls, Government admits",
+  "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase",
+  "The hidden risks in Labour’s ‘pension for life’ promise",
+  "Young people should have legal guarantee of job or training, Milburn tells BBC",
+  "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+  "Scottish Government 'failed to explain' need for AI data centres, campaigners say",
+  "Fiona Harvey’s $170m Baby Reindeer lawsuit against Netflix gets trial date",
+  "Russell Brand, David Walliams and Married at First Sight: Is this a reckoning for TV?",
+  "From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies",
+  "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+  "CofE charity hosts pro-reparations conference in luxury Jamaican hotel",
+  "Reframe business education around democracy, new book argues",
+  "Times Higher Education: UK Student Visa Applications Fall in October",
+  "Form 4 Galaxy Gaming Inc: John M. Boushy (Director) For: 12 November"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Guía de regalos por menos de 20 quid",
+   "idea": "El presupuesto aprieta y las ofertas anticipadas ya circulan. Publica una guía de regalos por tramos de precio (10, 20 y 50 libras) con tus productos y el precio final visible.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Kit para la ola de frío",
+   "idea": "Las heladas y los avisos de frío dominan las noticias de hoy. Muestra en 15 segundos tu 'kit de invierno' (abrigo, manta, termo, té) y cierra con entrega rápida antes del próximo frente frío.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "¿Oferta real o inflada?",
+   "idea": "Preocupan las estafas y los descuentos falsos en Black Friday (27 de noviembre). Graba un video comparando tu precio de hoy con el de hace un mes y explica cómo comprar seguro en tu tienda.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Tu propio 'Playback' del año",
+   "idea": "El resumen anual de Xbox está en tendencia y los recaps se comparten mucho. Haz el recap de tu marca: producto más vendido, cliente más fiel y momento del año, en formato de tarjetas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Shop small en mercados navideños",
+   "idea": "Los mercados de artesanos vuelven este fin de semana en varias ciudades. Si participas, anuncia dónde estarás con un copy cálido y un código para quien te visite desde redes.",
+   "formato": "Copy para anuncio"
+  }
+ ]
+}

@@ -1,38 +1,38 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-14T09:00:00Z",
+ "actualizado": "2026-11-14T13:04:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "México vive El Buen Fin 2026, con más de 200 mil negocios participando, y el consumidor llega cauteloso: una encuesta citada hoy dice que 84.5% cree que las tiendas inflan precios antes de la temporada, y abundan las guías para detectar ofertas falsas y quejarse ante Profeco. Al mismo tiempo, la conversación de entretenimiento está en Karol G en los Latin Grammy, los realities de TV Azteca y la serie 'La ley de Alicia' en Netflix. Gana quien muestre precio anterior y precio actual sin trucos, meses sin intereses claros y entregas puntuales.",
+ "lectura": "El Buen Fin 2026 ya arrancó y domina la conversación: más de 200 mil negocios participan, las tiendas adelantan promociones y los consumidores comparan precios porque desconfían de los descuentos inflados. Profeco y los medios insisten en verificar precios, cuidar los meses sin intereses y evitar tiendas falsas, mientras crecen las búsquedas de INAPAM por descuentos para adultos mayores. En entretenimiento suenan Karol G tras los Latin Grammy, La Granja VIP y el final de El Señor de los Cielos. Gana quien muestre precio antes y después, condiciones claras y entrega garantizada.",
  "semaforo": [
   {
-   "termino": "votaciones la granja vip votar",
+   "termino": "inapam",
    "color": "verde",
-   "por_que": "Reality con mucha conversación y votaciones en vivo; entretenimiento ligero.",
-   "idea": "Encuestas en historias tipo '¿a quién salvas?' con tu producto como premio o comodín."
+   "por_que": "Búsqueda masiva ligada a descuentos de El Buen Fin para adultos mayores: intención de compra clara.",
+   "idea": "Ofertas visibles con credencial INAPAM y contenido dirigido a hijos que compran para sus papás."
   },
   {
    "termino": "karol g",
    "color": "verde",
-   "por_que": "Latin Grammy y alfombra roja: conversación de moda y música muy positiva.",
-   "idea": "Looks inspirados y playlists para promociones de moda, belleza y eventos."
+   "por_que": "Presencia fuerte en los Latin Grammy y conciertos en México: moda, belleza y música.",
+   "idea": "Looks inspirados en sus presentaciones, sin usar su imagen ni su marca sin permiso."
   },
   {
-   "termino": "clima obregon",
+   "termino": "votaciones la granja vip votar",
    "color": "verde",
-   "por_que": "Búsqueda de servicio: fin de semana templado y despejado en Sonora.",
-   "idea": "Planes al aire libre, ropa de temporada y promociones de fin de semana para negocios locales."
+   "por_que": "Reality de entretenimiento con conversación diaria y fans muy activos.",
+   "idea": "Contenido ligero de 'equipo favorito' o memes del reality para marcas de consumo masivo."
   },
   {
-   "termino": "comercio",
+   "termino": "apagón eléctrico",
    "color": "amarillo",
-   "por_que": "Viene de la agenda agroalimentaria México–China; tema institucional, útil para pymes exportadoras pero no para consumo masivo.",
-   "idea": "Para LinkedIn: qué productos agroalimentarios mexicanos tienen demanda en Asia y qué preguntar antes de exportar."
+   "por_que": "Rumor de 'apagón mundial' que genera curiosidad y algo de miedo.",
+   "idea": "Si vendes linternas, baterías o power banks, un contenido de 'kit básico para el hogar' sin alarmismo ni desinformación."
   },
   {
-   "termino": "severance",
-   "color": "verde",
-   "por_que": "Serie de culto con conversación en redes por anécdotas del rodaje.",
-   "idea": "Memes de 'separar trabajo y vida' para marcas de productividad, oficina o bienestar."
+   "termino": "alerta meteorológica",
+   "color": "amarillo",
+   "por_que": "Alertas por tormentas en varias zonas: tema de servicio, no de venta agresiva.",
+   "idea": "Impermeables, paraguas y entregas: avisa posibles retrasos y comparte tips para cuidar los paquetes."
   }
  ],
  "audiencias": {
@@ -928,51 +928,60 @@
   }
  ],
  "ocultar": [
-  "pobreza en méxico",
-  "Trasladan de urgencia a Félix Gallardo a hospital de Guadalajara por problemas de salud",
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Eroski suspende su publicidad en TikTok tras una investigación de Maldita.es",
-  "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
-  "Trasladan de urgencia al capo Miguel Ángel Félix Gallardo a un hospital de Guadalajara, Jalisco",
-  "Trasladan de urgencia a “El Jefe de Jefes” a hospital de Guadalajara",
   "vadhir derbez",
   "karely ruiz",
   "guardería",
-  "Caso Vadhir Derbez: autoridades tienen ADN del presunto agresor de la joven que denunció al actor, reportan",
-  "Publican 'Ley antimemes' en Diario Oficial de la Federación",
-  "Ryan Wedding, ‘El Chapo’ canadiense, deja ‘lanota’ a México: Recauda 70.9 mdp con subasta de motos",
-  "UIF descongela cuentas de Rubén Rocha por orden del tribunal",
-  "Denuncian a Repartidores por Daños en la Benito Juárez, CDMX",
-  "Defiende METRÓPOLIS consulta ciudadana del Plan General de Desarrollo de CDMX",
-  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
+  "comercio",
+  "pobreza en méxico",
+  "Trasladan de urgencia a Félix Gallardo a hospital de Guadalajara por problemas de salud",
+  "Trasladan de urgencia al capo Miguel Ángel Félix Gallardo a un hospital de Guadalajara, Jalisco",
   "Trasladan a Félix Gallardo de Puente Grande a un hospital de Guadalajara",
-  "🚨 Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 Redes Sociales"
+  "Trasladan de urgencia a “El Jefe de Jefes” a hospital de Guadalajara",
+  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
+  "Miguel Ángel Asturias vuelve a casa: Guatemala recibe con honores las cenizas del escritor que narró su alma",
+  "Refuerza SSP vigilancia en todo Zacatecas por El Buen Fin",
+  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
+  "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
+  "Marchas y conciertos hoy 14 de noviembre en la CdMx: ve las calles y zonas afectadas",
+  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
+  "🚨 Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 Redes Sociales",
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "Por enfrentamientos armados, más de 300 mil personas abandonan su hogar en el Congo",
+  "De huir de la violencia en Culiacán a un nuevo hogar: Abre Bioparc El Encanto en Mazatlán",
+  "Se rompe tubo en hospital IMSS-Veracruz; quema a 4, 2 bebés",
+  "Aseguran 18 camionetas de lujo en bodega de Jalisco tras enfrentamiento armado",
+  "Zinacantepec reporta avances en obras y finanzas; Vilchis descarta demanda contra medio",
+  "Versión estenográfica. Inauguración de la Universidad del Deporte. Puebla, Puebla",
+  "Aprueban reformas para impulsar la sostenibilidad en la obra, proteger la producción agrícola y fortalecer la seguridad",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "Caso Vadhir Derbez: autoridades tienen ADN del presunto agresor de la joven que denunció al actor, reportan"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Tu precio, con historial",
-   "idea": "84.5% de los mexicanos sospecha que los precios se inflan antes del Buen Fin. Muestra el precio de tu producto de las últimas semanas y el de hoy en una captura sencilla: es el argumento más fuerte contra la desconfianza.",
+   "titulo": "Precio real del Buen Fin",
+   "idea": "Hay consumidores que dicen que los precios casi no cambian. Muestra tu precio de octubre y el de hoy lado a lado, sin trucos; la transparencia es tu mejor anuncio esta semana.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Ofertas para adultos mayores",
+   "idea": "Las búsquedas de INAPAM se disparan por descuentos en El Buen Fin. Si tu negocio acepta la credencial o tiene algo para ese público, dilo claro y en letra grande, con un mensaje cálido para hijos y nietos que compran por ellos.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Checklist anti-ofertas falsas",
-   "idea": "Las notas de hoy explican cómo identificar tiendas 'fantasma'. Haz un TikTok con 5 señales de una tienda confiable (datos de contacto, reseñas, políticas de cambio) y muestra cómo tu negocio cumple cada una.",
+   "titulo": "Checklist anti-fraude",
+   "idea": "Profeco y los medios alertan sobre tiendas 'fantasma'. Graba un video corto de 'cómo saber que somos una tienda real': dirección, facturación, políticas de devolución y seguimiento del envío.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Meses sin intereses, explicado fácil",
-   "idea": "Los especialistas recomiendan planear y evitar deudas en el Buen Fin. Un video corto que compare pagar de contado contra a meses posiciona a tu marca como aliada del bolsillo, no solo como vendedora.",
-   "formato": "Reel"
+   "titulo": "Meses sin intereses sin broncas",
+   "idea": "Las notas del día recomiendan no endeudarse. Explica en un carrusel cuánto pagarías al mes por tus productos más vendidos y cuándo conviene pagar de contado: educas y vendes al mismo tiempo.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Pinta de alfombra roja",
-   "idea": "Karol G y los looks de los Latin Grammy están en tendencia. Tiendas de moda y belleza pueden recrear tres looks inspirados con productos propios y precios del Buen Fin.",
+   "titulo": "Look de concierto",
+   "idea": "Karol G sigue en tendencia tras los Latin Grammy y los conciertos dejan derrama económica. Moda y belleza pueden lanzar un 'outfit bichota' o kit de maquillaje para conciertos y posadas de fin de año.",
    "formato": "Reel"
-  },
-  {
-   "titulo": "Regalos que cruzan la frontera",
-   "idea": "En la Biblioteca de Anuncios hay más de 1,500 anuncios activos sobre envíos a Estados Unidos, muchos de ropa y regalos. Si vendes a familias con parientes allá, publica hoy la fecha límite para que el regalo llegue en Navidad.",
-   "formato": "Copy para anuncio"
   }
  ]
 }

@@ -1,0 +1,1146 @@
+{
+ "pais": "CA",
+ "actualizado": "2026-11-14T13:00:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "El consumidor canadiense entra en la temporada navideña con el bolsillo apretado: las encuestas del sector anticipan menos gasto en regalos, más uso de puntos de lealtad, compras de segunda mano y comparación de precios con ayuda de IA. Al mismo tiempo, el Black Friday (27 de noviembre) ya arrancó con ofertas anticipadas y los mercados navideños locales en Toronto, Montreal y otras ciudades refuerzan el 'compra local / hecho en Canadá'. Las primeras nevadas en Ontario y el riesgo de tormenta en Quebec la próxima semana disparan las búsquedas de clima: buen momento para artículos de invierno y para comunicar fechas límite de entrega. Funcionan los mensajes de valor real, precio final transparente y producto local o con historia, en inglés y también en francés para Quebec.",
+ "semaforo": [
+  {
+   "termino": "météo",
+   "color": "verde",
+   "por_que": "Es la búsqueda con más tráfico del día: Quebec sigue el pronóstico ante un posible temporal la próxima semana.",
+   "idea": "Contenido en francés de 'prépare-toi pour l'hiver': kits de invierno, ropa térmica y aviso de entregas antes de la tormenta."
+  },
+  {
+   "termino": "country music",
+   "color": "verde",
+   "por_que": "La gala de premios de la música country, con grandes estrellas anunciadas, genera conversación de entretenimiento y estilo.",
+   "idea": "Playlists de marca, looks de inspiración western (botas, sombreros, denim) y guías de regalo para fans."
+  },
+  {
+   "termino": "microsoft xbox playback",
+   "color": "verde",
+   "por_que": "Los resúmenes anuales personalizados ('tu año en…') vuelven a ser tendencia entre gamers.",
+   "idea": "Crea tu propio 'recap 2026' para clientes: lo más vendido, lo más pedido y una oferta de cierre de año."
+  },
+  {
+   "termino": "ontario snow forecast",
+   "color": "verde",
+   "por_que": "Llegan las primeras nevadas al sur de Ontario y la gente se prepara para el invierno.",
+   "idea": "Reel de 'lo que necesitas antes de la primera nevada' con tuques, botas, guantes y productos para el carro."
+  },
+  {
+   "termino": "clima",
+   "color": "amarillo",
+   "por_que": "Búsqueda en español: la comunidad hispanohablante también consulta el tiempo, pero sin una noticia concreta detrás.",
+   "idea": "Contenido en español para recién llegados: cómo vestirse por capas y qué comprar para su primer invierno."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "El consumidor canadiense",
+   "resumen": "Educado, práctico y muy sensible al valor: compara precios, usa folletos digitales y programas de puntos, y desconfía de las promesas exageradas. País bilingüe (inglés y francés en Quebec) y muy multicultural, sobre todo en Toronto, Montreal, Vancouver y Calgary. Este año planea gastar menos en regalos y valora cada vez más lo hecho en Canadá.",
+   "como_habla": "Cortés y discreto; usa mucho 'sorry', 'eh', 'no worries'. En Quebec, francés con expresiones propias ('magasiner', 'c'est le fun', 'char').",
+   "dolores": [
+    "Costo de vida alto",
+    "Envíos lentos o caros en un país enorme",
+    "Ofertas infladas que no son reales"
+   ],
+   "motivaciones": [
+    "Buen valor por el dinero",
+    "Apoyar negocios locales y canadienses",
+    "Puntos y recompensas"
+   ],
+   "frenos": [
+    "Cargos sorpresa en aduana o envío",
+    "Devoluciones complicadas",
+    "Marcas que exageran"
+   ],
+   "tono": "Amable, honesto y directo, con humor ligero y autocrítico.",
+   "evitar": [
+    "Tratar a Canadá como si fuera EE. UU.",
+    "Precios solo en USD",
+    "Comunicación solo en inglés para Quebec"
+   ],
+   "canales": [
+    "Facebook",
+    "Instagram",
+    "YouTube",
+    "TikTok",
+    "Reddit",
+    "Correo electrónico",
+    "Folletos digitales"
+   ],
+   "mensajes": [
+    "'Precio final en CAD, sin sorpresas.'",
+    "'Hecho cerca de ti, pensado para el invierno de aquí.'"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor en Canadá",
+   "resumen": "Pequeños negocios y creadores que venden por Shopify, Etsy, Instagram y mercados navideños. Muchos son inmigrantes de primera o segunda generación con conexiones comerciales con su país de origen.",
+   "como_habla": "Práctico y colaborativo: 'small business', 'shop local', 'side hustle', 'give'r'.",
+   "dolores": [
+    "Costos de envío dentro del país",
+    "Competencia con grandes plataformas",
+    "Flujo de caja en temporada alta"
+   ],
+   "motivaciones": [
+    "Comunidad local que apoya lo pequeño",
+    "Vender en la temporada navideña",
+    "Crecer hacia EE. UU. u otros mercados"
+   ],
+   "frenos": [
+    "Trámites y costos de importación",
+    "Poca visibilidad frente a cadenas grandes"
+   ],
+   "tono": "Cercano, de igual a igual, con casos reales.",
+   "evitar": [
+    "Promesas de 'hazte rico rápido'",
+    "Jerga financiera vacía"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook Groups",
+    "LinkedIn",
+    "TikTok"
+   ],
+   "mensajes": [
+    "'Tu marca pequeña también puede llegar lejos.'",
+    "'Prepárate para el Black Friday sin quedarte sin inventario.'"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora/exportadora",
+   "resumen": "Empresas que compran o venden fuera de Canadá y buscan diversificar mercados más allá de EE. UU.; atentas a acuerdos comerciales y a la logística en temporada alta.",
+   "como_habla": "Formal y técnico: 'supply chain', 'lead time', 'landed cost', 'customs broker'.",
+   "dolores": [
+    "Tiempos de tránsito largos",
+    "Costos aduaneros poco claros",
+    "Dependencia de un solo mercado"
+   ],
+   "motivaciones": [
+    "Diversificar proveedores y clientes",
+    "Previsibilidad de costos",
+    "Cumplimiento normativo"
+   ],
+   "frenos": [
+    "Burocracia",
+    "Riesgo cambiario"
+   ],
+   "tono": "Profesional, con datos y ejemplos concretos.",
+   "evitar": [
+    "Generalidades sin cifras",
+    "Tono demasiado informal"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo electrónico",
+    "Webinars",
+    "Ferias sectoriales"
+   ],
+   "mensajes": [
+    "'Nuevos mercados, menos incertidumbre.'",
+    "'Planifica tu logística antes del pico de diciembre.'"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Corporativo canadiense",
+   "resumen": "Grandes empresas y equipos de compras que valoran la estabilidad, la sostenibilidad y el cumplimiento; deciden en comité y con ciclos largos.",
+   "como_habla": "Formal, inclusivo y bilingüe cuando opera en Quebec.",
+   "dolores": [
+    "Interrupciones en cadena de suministro",
+    "Presión de costos",
+    "Exigencias ESG"
+   ],
+   "motivaciones": [
+    "Eficiencia",
+    "Reputación",
+    "Proveedores confiables"
+   ],
+   "frenos": [
+    "Riesgo reputacional",
+    "Procesos de compra largos"
+   ],
+   "tono": "Sobrio, basado en evidencia.",
+   "evitar": [
+    "Exageraciones",
+    "Mensajes solo en un idioma oficial cuando el público es nacional"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Correo electrónico",
+    "Eventos B2B"
+   ],
+   "mensajes": [
+    "'Resultados medibles, operación sin sobresaltos.'"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z en Canadá (18–28)",
+   "resumen": "Digital, multicultural y preocupada por el costo de vida; compra por TikTok e Instagram, ama la ropa de segunda mano y los 'dupes', y premia la autenticidad.",
+   "como_habla": "Jerga global de internet ('lowkey', 'slay', 'mid', 'it's giving') mezclada con canadianismos ('eh', 'Timmies').",
+   "dolores": [
+    "Alquiler y costo de vida",
+    "Presupuesto ajustado"
+   ],
+   "motivaciones": [
+    "Autenticidad",
+    "Tendencia",
+    "Sostenibilidad y segunda mano"
+   ],
+   "frenos": [
+    "Marcas que fingen ser jóvenes",
+    "Envíos caros"
+   ],
+   "tono": "Auténtico, con humor y sin solemnidad.",
+   "evitar": [
+    "Jerga forzada",
+    "Publicidad muy pulida"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "YouTube",
+    "Discord"
+   ],
+   "mensajes": [
+    "'Regalos con estilo que no te dejan en cero.'"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials en Canadá (29–44)",
+   "resumen": "Familias jóvenes y profesionales que investigan antes de comprar, comparan reseñas y usan puntos y cupones; equilibran precio y calidad.",
+   "como_habla": "Informal pero informado; referencias pop de los 2000; 'adulting', 'treat yourself'.",
+   "dolores": [
+    "Vivienda y guardería",
+    "Falta de tiempo"
+   ],
+   "motivaciones": [
+    "Conveniencia",
+    "Experiencias",
+    "Productos duraderos"
+   ],
+   "frenos": [
+    "Letra pequeña",
+    "Entregas tardías"
+   ],
+   "tono": "Práctico, empático y con humor.",
+   "evitar": [
+    "Condescendencia",
+    "Urgencia falsa"
+   ],
+   "canales": [
+    "Instagram",
+    "Facebook",
+    "YouTube",
+    "Pinterest",
+    "Podcasts"
+   ],
+   "mensajes": [
+    "'Resuelve la lista de regalos en una tarde.'"
+   ]
+  },
+  "genx": {
+   "titulo": "Gen X en Canadá (45–60)",
+   "resumen": "Consumidor con mayor poder de compra, leal a marcas que cumplen; decide con información clara y valora el servicio al cliente.",
+   "como_habla": "Directo, sin rodeos; aprecia el humor seco canadiense.",
+   "dolores": [
+    "Cuidar a hijos y padres a la vez",
+    "Falta de tiempo"
+   ],
+   "motivaciones": [
+    "Calidad",
+    "Confianza",
+    "Garantías"
+   ],
+   "frenos": [
+    "Procesos digitales complicados"
+   ],
+   "tono": "Claro y respetuoso.",
+   "evitar": [
+    "Abuso de jerga juvenil"
+   ],
+   "canales": [
+    "Facebook",
+    "Correo electrónico",
+    "YouTube",
+    "Radio y podcasts"
+   ],
+   "mensajes": [
+    "'Calidad que dura varios inviernos.'"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers en Canadá (61+)",
+   "resumen": "Gran poder adquisitivo, leales a programas de puntos y folletos; muchos pasan el invierno en el sur ('snowbirds') y compran regalos para nietos.",
+   "como_habla": "Formal y cortés; valoran el trato personal.",
+   "dolores": [
+    "Desconfianza de compras en línea",
+    "Fraudes digitales"
+   ],
+   "motivaciones": [
+    "Familia y nietos",
+    "Seguridad",
+    "Atención humana"
+   ],
+   "frenos": [
+    "Letra pequeña",
+    "Tecnología complicada"
+   ],
+   "tono": "Cálido, claro y paciente.",
+   "evitar": [
+    "Textos pequeños",
+    "Siglas sin explicar"
+   ],
+   "canales": [
+    "Facebook",
+    "Correo electrónico",
+    "Televisión",
+    "Folletos impresos y digitales"
+   ],
+   "mensajes": [
+    "'Regalos para los nietos, sin complicaciones.'"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Origen, producción local o ética y empaques reciclables; el 'compra canadiense' pesa más este año.",
+   "mensaje": "'Hecho con cuidado, cerca de ti.'",
+   "evitar": "Greenwashing sin pruebas."
+  },
+  "ofertas": {
+   "como_llegarle": "Precio final en CAD, comparativas honestas y fechas claras: Black Friday, Cyber Monday y Boxing Day.",
+   "mensaje": "'El precio que ves es el que pagas.'",
+   "evitar": "Descuentos inflados o falsa escasez."
+  },
+  "aspiracional": {
+   "como_llegarle": "Marcas premium, ediciones limitadas y experiencias de invierno (cabañas, esquí).",
+   "mensaje": "'Un invierno a tu estilo.'",
+   "evitar": "Ostentación excesiva: el canadiense prefiere el lujo discreto."
+  },
+  "early-adopter": {
+   "como_llegarle": "Lanzamientos de tecnología, gaming y gadgets con reseñas y demostraciones reales.",
+   "mensaje": "'Pruébalo primero.'",
+   "evitar": "Especificaciones sin contexto de uso."
+  },
+  "wellness": {
+   "como_llegarle": "Bienestar en invierno: descanso, actividad al aire libre, alimentación y autocuidado.",
+   "mensaje": "'Cuídate también cuando oscurece temprano.'",
+   "evitar": "Promesas de salud sin respaldo."
+  },
+  "familia": {
+   "como_llegarle": "Planificación de regalos, actividades navideñas y productos prácticos para el hogar.",
+   "mensaje": "'Menos estrés, más tiempo juntos.'",
+   "evitar": "Estereotipos de roles familiares."
+  },
+  "viajero": {
+   "como_llegarle": "Escapadas de invierno al sur y viajes a ver a la familia en diciembre; tips de equipaje y seguros.",
+   "mensaje": "'Viaja ligero, llega tranquilo.'",
+   "evitar": "Ignorar los retrasos de temporada."
+  },
+  "gamer": {
+   "como_llegarle": "Lanzamientos, resúmenes anuales de juego y ofertas de consolas en Black Friday.",
+   "mensaje": "'Tu setup, listo para las vacaciones.'",
+   "evitar": "Tono condescendiente con la comunidad."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinas y de otros orígenes en Toronto, Montreal, Vancouver y Calgary: nostalgia, regalos para la familia y productos de su país.",
+   "mensaje": "'Cerca de los tuyos, aunque estén lejos.'",
+   "evitar": "Clichés sobre el país de origen."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Eh",
+   "significado": "Muletilla al final de la frase para buscar acuerdo o confirmar.",
+   "uso": "Todo el Canadá anglófono.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Cold one today, eh?",
+   "equivalentes": {
+    "CO": "¿cierto?",
+    "MX": "¿verdad?",
+    "EC": "¿no cierto?",
+    "ES": "¿eh? / ¿verdad?",
+    "AR": "¿viste?"
+   }
+  },
+  {
+   "expresion": "Loonie",
+   "significado": "Moneda de 1 dólar canadiense (lleva un ave, el colimbo o 'loon').",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Coffee for just a loonie.",
+   "equivalentes": {
+    "CO": "una moneda de mil (una luca)",
+    "MX": "un peso / un varo",
+    "EC": "un dólar",
+    "ES": "un euro / un pavo",
+    "AR": "un mango"
+   }
+  },
+  {
+   "expresion": "Toonie",
+   "significado": "Moneda de 2 dólares canadienses.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Add a toonie and get the large size.",
+   "equivalentes": {
+    "CO": "dos lucas",
+    "MX": "dos varos",
+    "EC": "dos dólares",
+    "ES": "dos pavos",
+    "AR": "dos mangos"
+   }
+  },
+  {
+   "expresion": "Double-double",
+   "significado": "Café con dos cremas y dos azúcares, asociado a Tim Hortons.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Grab a double-double and start your shopping.",
+   "equivalentes": {
+    "CO": "un perico bien dulce",
+    "MX": "café con leche y azúcar",
+    "EC": "café con leche bien dulce",
+    "ES": "café con leche bien dulce",
+    "AR": "café con leche dulce"
+   }
+  },
+  {
+   "expresion": "Timmies",
+   "significado": "Apodo cariñoso de la cadena de cafeterías Tim Hortons.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "See you at Timmies after work.",
+   "equivalentes": {
+    "CO": "la cafetería de siempre",
+    "MX": "el cafecito de la esquina",
+    "EC": "la cafetería de siempre",
+    "ES": "la cafetería de siempre",
+    "AR": "el café de la esquina"
+   }
+  },
+  {
+   "expresion": "Toque / tuque",
+   "significado": "Gorro de lana para el frío.",
+   "uso": "Todo el país (en francés 'tuque').",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Don't forget your toque, it's -10 out there.",
+   "equivalentes": {
+    "CO": "gorro de lana",
+    "MX": "gorro",
+    "EC": "gorro de lana",
+    "ES": "gorro",
+    "AR": "gorro de lana"
+   }
+  },
+  {
+   "expresion": "Washroom",
+   "significado": "Baño (en lugares públicos).",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Washrooms are at the back of the store.",
+   "equivalentes": {
+    "CO": "baño",
+    "MX": "baño",
+    "EC": "baño",
+    "ES": "aseo / servicio",
+    "AR": "baño"
+   }
+  },
+  {
+   "expresion": "Runners",
+   "significado": "Zapatillas deportivas.",
+   "uso": "Todo el país, sobre todo Ontario y oeste.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "New winter runners just dropped.",
+   "equivalentes": {
+    "CO": "tenis",
+    "MX": "tenis",
+    "EC": "zapatos deportivos",
+    "ES": "zapatillas / bambas",
+    "AR": "zapatillas"
+   }
+  },
+  {
+   "expresion": "Chesterfield",
+   "significado": "Sofá; término tradicional, más usado por generaciones mayores.",
+   "uso": "Todo el país, en desuso entre jóvenes.",
+   "registro": "neutro",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Cozy up on the chesterfield this winter.",
+   "equivalentes": {
+    "CO": "sofá",
+    "MX": "sillón",
+    "EC": "sofá / mueble",
+    "ES": "sofá",
+    "AR": "sillón"
+   }
+  },
+  {
+   "expresion": "Serviette",
+   "significado": "Servilleta.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Holiday serviettes, now 2 for 1.",
+   "equivalentes": {
+    "CO": "servilleta",
+    "MX": "servilleta",
+    "EC": "servilleta",
+    "ES": "servilleta",
+    "AR": "servilleta"
+   }
+  },
+  {
+   "expresion": "Keener",
+   "significado": "Persona muy aplicada o entusiasta, que hace más de lo pedido.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Calling all keeners: early Black Friday deals are live.",
+   "equivalentes": {
+    "CO": "juicioso / nerd",
+    "MX": "matado",
+    "EC": "aplicado",
+    "ES": "empollón",
+    "AR": "traga"
+   }
+  },
+  {
+   "expresion": "Give'r",
+   "significado": "Darlo todo, esforzarse al máximo.",
+   "uso": "Oeste y zonas rurales, muy extendido.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Holiday rush is here, time to give'r!",
+   "equivalentes": {
+    "CO": "darle con toda",
+    "MX": "echarle ganas",
+    "EC": "darle duro",
+    "ES": "darlo todo",
+    "AR": "meterle pila"
+   }
+  },
+  {
+   "expresion": "Hydro",
+   "significado": "La electricidad o la factura de luz (por el origen hidroeléctrico).",
+   "uso": "Ontario, Quebec, Columbia Británica, Manitoba.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Cut your hydro bill with LED lights.",
+   "equivalentes": {
+    "CO": "la luz",
+    "MX": "la luz",
+    "EC": "la planilla de luz",
+    "ES": "la luz",
+    "AR": "la luz"
+   }
+  },
+  {
+   "expresion": "Parkade",
+   "significado": "Estacionamiento de varios pisos.",
+   "uso": "Oeste de Canadá (Alberta, Columbia Británica).",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Free parkade parking on weekends.",
+   "equivalentes": {
+    "CO": "parqueadero",
+    "MX": "estacionamiento",
+    "EC": "parqueadero",
+    "ES": "parking",
+    "AR": "estacionamiento / cochera"
+   }
+  },
+  {
+   "expresion": "Bunnyhug",
+   "significado": "Sudadera con capucha.",
+   "uso": "Saskatchewan.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Our new bunnyhugs are perfect for the prairie winter.",
+   "equivalentes": {
+    "CO": "buzo con capota",
+    "MX": "sudadera",
+    "EC": "buzo con capucha",
+    "ES": "sudadera",
+    "AR": "buzo canguro"
+   }
+  },
+  {
+   "expresion": "Pop",
+   "significado": "Gaseosa o refresco.",
+   "uso": "Todo el Canadá anglófono.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Free pop with every combo.",
+   "equivalentes": {
+    "CO": "gaseosa",
+    "MX": "refresco",
+    "EC": "cola",
+    "ES": "refresco",
+    "AR": "gaseosa"
+   }
+  },
+  {
+   "expresion": "KD",
+   "significado": "Kraft Dinner: macarrones con queso en caja, comida rápida casera muy popular.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Student budget? We've all lived on KD.",
+   "equivalentes": {
+    "CO": "arroz con huevo",
+    "MX": "una Maruchan",
+    "EC": "arroz con huevo",
+    "ES": "unos macarrones",
+    "AR": "fideos con manteca"
+   }
+  },
+  {
+   "expresion": "Canuck",
+   "significado": "Canadiense (dicho con cariño entre canadienses).",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Made by Canucks, for Canucks.",
+   "equivalentes": {
+    "CO": "paisano",
+    "MX": "paisano",
+    "EC": "compatriota",
+    "ES": "paisano",
+    "AR": "compatriota"
+   }
+  },
+  {
+   "expresion": "Snowbird",
+   "significado": "Jubilado que pasa el invierno en un lugar cálido del sur.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Snowbirds: pack light for your winter escape.",
+   "equivalentes": {
+    "CO": "pensionado que se va de temporada",
+    "MX": "jubilado que viaja en invierno",
+    "EC": "jubilado que viaja por temporada",
+    "ES": "jubilado que inverna en el sur",
+    "AR": "jubilado que viaja en invierno"
+   }
+  },
+  {
+   "expresion": "Sorry",
+   "significado": "Disculpa; se usa constantemente, incluso como cortesía.",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Sorry, not sorry: these deals end Sunday.",
+   "equivalentes": {
+    "CO": "qué pena",
+    "MX": "perdón",
+    "EC": "qué pena / disculpe",
+    "ES": "perdona",
+    "AR": "perdón"
+   }
+  },
+  {
+   "expresion": "Beauty",
+   "significado": "¡Genial! / algo excelente (también 'beauty, eh').",
+   "uso": "Todo el país, sobre todo zonas rurales y oeste.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Free shipping over $50? Beauty!",
+   "equivalentes": {
+    "CO": "¡qué bacano!",
+    "MX": "¡qué chido!",
+    "EC": "¡qué chévere!",
+    "ES": "¡qué guay!",
+    "AR": "¡qué copado!"
+   }
+  },
+  {
+   "expresion": "Out for a rip",
+   "significado": "Salir a dar una vuelta (en carro, moto de nieve, etc.).",
+   "uso": "Todo el país, más en zonas rurales.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Take the new truck out for a rip.",
+   "equivalentes": {
+    "CO": "dar una vuelta",
+    "MX": "dar el rol",
+    "EC": "dar una vuelta",
+    "ES": "dar una vuelta",
+    "AR": "dar una vuelta"
+   }
+  },
+  {
+   "expresion": "Stagette",
+   "significado": "Despedida de soltera.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Planning a stagette? We've got the kits.",
+   "equivalentes": {
+    "CO": "despedida de soltera",
+    "MX": "despedida de soltera",
+    "EC": "despedida de soltera",
+    "ES": "despedida de soltera",
+    "AR": "despedida de soltera"
+   }
+  },
+  {
+   "expresion": "Freezie",
+   "significado": "Helado de agua en tubito plástico.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Summer's gone, but freezies are forever.",
+   "equivalentes": {
+    "CO": "boli",
+    "MX": "bolis",
+    "EC": "bolo",
+    "ES": "polo flash",
+    "AR": "helado de agua"
+   }
+  },
+  {
+   "expresion": "Dépanneur / dep",
+   "significado": "Tienda de conveniencia de barrio.",
+   "uso": "Quebec (también en el inglés de Montreal).",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Now available at your local dep.",
+   "equivalentes": {
+    "CO": "la tienda de la esquina",
+    "MX": "la tiendita",
+    "EC": "la tienda del barrio",
+    "ES": "la tienda de barrio",
+    "AR": "el almacén / kiosco"
+   }
+  },
+  {
+   "expresion": "Boxing Day",
+   "significado": "26 de diciembre, día de grandes rebajas (se extiende a 'Boxing Week').",
+   "uso": "Todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Boxing Week deals start Dec. 26.",
+   "equivalentes": {
+    "CO": "rebajas de fin de año",
+    "MX": "ofertas de fin de año",
+    "EC": "liquidación de fin de año",
+    "ES": "rebajas de invierno",
+    "AR": "liquidación de fin de año"
+   }
+  },
+  {
+   "expresion": "Magasiner",
+   "significado": "Ir de compras (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Venez magasiner vos cadeaux en ligne.",
+   "equivalentes": {
+    "CO": "ir de compras / de shopping",
+    "MX": "ir de shopping",
+    "EC": "ir de compras",
+    "ES": "ir de compras",
+    "AR": "ir de shopping"
+   }
+  },
+  {
+   "expresion": "Char",
+   "significado": "Carro, automóvil (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Prépare ton char pour l'hiver.",
+   "equivalentes": {
+    "CO": "carro",
+    "MX": "carro / coche",
+    "EC": "carro",
+    "ES": "coche",
+    "AR": "auto"
+   }
+  },
+  {
+   "expresion": "C'est le fun",
+   "significado": "¡Qué bueno! / qué divertido (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Magasiner en ligne, c'est le fun!",
+   "equivalentes": {
+    "CO": "¡qué bacano!",
+    "MX": "¡qué padre!",
+    "EC": "¡qué chévere!",
+    "ES": "¡qué guay!",
+    "AR": "¡qué copado!"
+   }
+  },
+  {
+   "expresion": "Pantoute",
+   "significado": "Para nada, en absoluto (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Des frais cachés? Pantoute!",
+   "equivalentes": {
+    "CO": "para nada",
+    "MX": "para nada",
+    "EC": "para nada",
+    "ES": "en absoluto",
+    "AR": "para nada"
+   }
+  },
+  {
+   "expresion": "Fin de semaine",
+   "significado": "Fin de semana (en Quebec se prefiere a 'week-end').",
+   "uso": "Quebec.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Offres valides toute la fin de semaine.",
+   "equivalentes": {
+    "CO": "fin de semana / el finde",
+    "MX": "fin de semana / el finde",
+    "EC": "fin de semana",
+    "ES": "finde",
+    "AR": "finde"
+   }
+  },
+  {
+   "expresion": "Courriel",
+   "significado": "Correo electrónico (término oficial en Quebec).",
+   "uso": "Quebec.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Inscris ton courriel pour recevoir les offres.",
+   "equivalentes": {
+    "CO": "correo",
+    "MX": "correo / mail",
+    "EC": "correo",
+    "ES": "correo / email",
+    "AR": "mail"
+   }
+  },
+  {
+   "expresion": "Blonde / chum",
+   "significado": "Novia / novio o pareja (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un cadeau parfait pour ta blonde.",
+   "equivalentes": {
+    "CO": "novia / novio",
+    "MX": "novia / novio",
+    "EC": "novia / novio",
+    "ES": "novia / novio",
+    "AR": "novia / novio"
+   }
+  },
+  {
+   "expresion": "Être tanné",
+   "significado": "Estar harto o cansado de algo (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Tanné de payer trop cher?",
+   "equivalentes": {
+    "CO": "estar mamado",
+    "MX": "estar harto",
+    "EC": "estar harto",
+    "ES": "estar hasta las narices",
+    "AR": "estar podrido"
+   }
+  },
+  {
+   "expresion": "Jaser",
+   "significado": "Charlar, conversar (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Viens jaser avec nous en boutique.",
+   "equivalentes": {
+    "CO": "charlar / echar carreta",
+    "MX": "platicar",
+    "EC": "conversar",
+    "ES": "charlar",
+    "AR": "charlar"
+   }
+  },
+  {
+   "expresion": "Bienvenue",
+   "significado": "'De nada', como respuesta a 'merci' (francés de Quebec).",
+   "uso": "Quebec.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Merci! — Bienvenue!",
+   "equivalentes": {
+    "CO": "con gusto",
+    "MX": "de nada",
+    "EC": "de nada",
+    "ES": "de nada",
+    "AR": "de nada"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Canada",
+   "#Toronto",
+   "#Montreal",
+   "#Vancouver",
+   "#Calgary",
+   "#ShopLocal",
+   "#MadeInCanada",
+   "#CanadianSmallBusiness"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "'Lo que compré vs. lo que pagué' con precio en CAD",
+     "Preparación para el invierno en 30 segundos",
+     "Visita a un mercado navideño local",
+     "Recién llegados: primer invierno en Canadá"
+    ],
+    "ganchos": [
+     "'Nadie te dice esto antes de tu primer invierno…'",
+     "'Black Friday en Canadá: ¿oferta real o no?'",
+     "'Hecho en Canadá y cuesta menos de lo que crees'"
+    ],
+    "horario": "18:00–21:00 entre semana (ET/PT según la región); media mañana el fin de semana",
+    "hashtags": [
+     "#CanadaTok",
+     "#TorontoTikTok",
+     "#MontrealTikTok",
+     "#BlackFridayCanada"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Carruseles de guías de regalo por presupuesto",
+     "Reels de mercados navideños y tiendas locales",
+     "Stories con encuestas de ofertas"
+    ],
+    "ganchos": [
+     "'Regalos por menos de 25 dólares'",
+     "'5 marcas canadienses para regalar'",
+     "'Prêt pour l'hiver?'"
+    ],
+    "horario": "12:00–13:00 y 19:00–21:00 (hora local)",
+    "hashtags": [
+     "#ShopLocalCanada",
+     "#CanadianMade",
+     "#AchatLocal",
+     "#HolidayGiftGuide"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas y comparativas de ofertas",
+     "Vlogs de compras y unboxings",
+     "Guías de invierno para recién llegados"
+    ],
+    "ganchos": [
+     "'Probé las ofertas anticipadas de Black Friday en Canadá'",
+     "'Cómo sobrevivir tu primer invierno'"
+    ],
+    "horario": "Fines de semana por la mañana; entre semana 19:00–22:00",
+    "hashtags": [
+     "#CanadaVlog",
+     "#BlackFridayDeals",
+     "#LivingInCanada"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Casos de pymes que diversifican mercados",
+     "Datos de la temporada navideña en retail",
+     "Lecciones de logística en temporada alta"
+    ],
+    "ganchos": [
+     "'Lo que aprendí vendiendo fuera de Canadá'",
+     "'Temporada alta: 3 errores logísticos que evitar'"
+    ],
+    "horario": "Martes a jueves, 8:00–10:00 (ET)",
+    "hashtags": [
+     "#CanadianBusiness",
+     "#SmallBusinessCanada",
+     "#Ecommerce",
+     "#SupplyChain"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones en grupos comunitarios y de compraventa",
+     "Eventos de mercados navideños",
+     "Ofertas con precio final claro"
+    ],
+    "ganchos": [
+     "'Para tu familia, este diciembre'",
+     "'Oferta solo este fin de semana'"
+    ],
+    "horario": "19:00–21:00 entre semana; sábado por la mañana",
+    "hashtags": [
+     "#ShopLocal",
+     "#HolidayMarket",
+     "#CommunityCanada"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Hilos de ofertas verificadas",
+     "Reacciones en vivo a lanzamientos y premios",
+     "Atención al cliente rápida"
+    ],
+    "ganchos": [
+     "'Ofertas reales de Black Friday en Canadá (hilo)'",
+     "'Lo que vale la pena y lo que no'"
+    ],
+    "horario": "7:00–9:00 y 17:00–19:00 (ET)",
+    "hashtags": [
+     "#BlackFridayCanada",
+     "#CdnTech",
+     "#Toronto"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Café de especialidad latinoamericano",
+   "senal": "Medios del sector analizan cómo cambia el mercado de café en Canadá y hay malestar por cápsulas con menos café al mismo precio.",
+   "desde": "CO",
+   "hacia": "CA",
+   "sector": "cafe-cacao",
+   "accion": "Explorar contenido de origen y frescura dirigido a tiendas gourmet y compradores de regalo navideño."
+  },
+  {
+   "titulo": "Chocolate de origen para regalar",
+   "senal": "Interés por el chocolate oscuro y por regalos gastronómicos en la temporada navideña.",
+   "desde": "EC",
+   "hacia": "CA",
+   "sector": "cafe-cacao",
+   "accion": "Investigar demanda en mercados navideños y tiendas especializadas de Toronto y Montreal."
+  },
+  {
+   "titulo": "Artesanía y regalos hechos a mano",
+   "senal": "Mercados navideños de artesanos en varias ciudades canadienses y fuerte discurso de compra local y con historia.",
+   "desde": "PE",
+   "hacia": "CA",
+   "sector": "artesanias",
+   "accion": "Validar interés con tiendas de diseño y mercados de temporada, destacando origen y trazabilidad."
+  },
+  {
+   "titulo": "Regalos de la comunidad latina hacia su familia",
+   "senal": "En la Biblioteca de Anuncios de Meta hay anunciantes que ofrecen envíos de carga y tiendas en línea dirigidas a hispanohablantes en Canadá.",
+   "desde": "CA",
+   "hacia": "CO",
+   "sector": "ecommerce",
+   "accion": "Crear contenido en español sobre cómo planificar los regalos de diciembre con tiempo."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 231176,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=2340409216733111"
+    }
+   ],
+   "patron": "El Black Friday ya se anuncia con semanas de anticipación y descuentos de hasta 62%; un mismo anunciante corre decenas de variaciones del mismo mensaje para probar creatividades."
+  },
+  {
+   "busqueda": "envíos",
+   "total": 599,
+   "anunciantes": [
+    {
+     "nombre": "Extra Equipaje - Envios Carga Puerta a Puerta & Aeropuerto",
+     "url": "https://www.facebook.com/ads/library/?id=1111202601900054"
+    },
+    {
+     "nombre": "Cuballama",
+     "url": "https://www.facebook.com/ads/library/?id=29249906008026085"
+    },
+    {
+     "nombre": "Club Atlético Nacional Oficial",
+     "url": "https://www.facebook.com/ads/library/?id=1881709416600206"
+    },
+    {
+     "nombre": "ALGO Mas",
+     "url": "https://www.facebook.com/ads/library/?id=3506841182857231"
+    },
+    {
+     "nombre": "Luc Vincent Coiffure",
+     "url": "https://www.facebook.com/ads/library/?id=1151546364462092"
+    }
+   ],
+   "patron": "A los hispanohablantes en Canadá les llegan anuncios de envíos de carga y compras para la familia en su país, tiendas oficiales con envío internacional, formación para vender en Amazon y negocios locales que pautan su Black Friday en español."
+  }
+ ],
+ "ocultar": [
+  "ukraine",
+  "sarah huckabee sanders",
+  "peoria",
+  "katy perry",
+  "Danielle Smith says she’ll call up UCP officials not signing anti-separatism pledge",
+  "Activists call on Victoria MP to vote against bill to speed up major projects",
+  "Carney wraps meetings on security, trade with European leaders in Ireland",
+  "Federal government moves to overhaul airport security after CTV News investigation",
+  "Alberta announces royalty program as part of plan to double oilsands production",
+  "Melanie Joly puts ‘aggressive package’ to Stellantis in bid to stop sale of Brampton plant",
+  "Carjacking in Guelph leads to charges for Toronto man",
+  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
+  "Jewelry theft network involving young teens targeted by Montreal cops",
+  "Jewelry and cash targeted in Milton home break-in",
+  "Conservatives say government subsidizing foreign automakers by exempting EVs priced up to $150k from luxury tax",
+  "What’s behind Ontario education union strike votes?",
+  "62% of Ontarians disapprove of Ford's education policies, Torontonians react",
+  "2 people struck by a vehicle on construction site near Pickering City Centre",
+  "Ontario Begins Construction on New Bridges to Support Future Highway 413 Corridor",
+  "Ottawa, province hope ‘aggressive package’ can prevent Stellantis plant sale: Joly",
+  "Remembering Toukie Smith, a Trailblazer Who Redefined Runway Beauty",
+  "Galaxy Gaming director Boushy buys $17,775 in common stock By Investing.com",
+  "Budget 2026: Where do agriculture and food fit into Canada's Priorities?",
+  "Most Canadians back faster project approvals and expanded energy exports: poll",
+  "AI company behind FAA’s SMART tool denies link to ground stop, Duffy confirms",
+  "More electric vehicles exempt from luxury tax, Ottawa says"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Guía de regalos con presupuesto",
+   "idea": "Las encuestas dicen que los canadienses gastarán menos esta Navidad y buscarán puntos, segunda mano y comparadores. Publica una guía de regalos por rangos de precio en CAD con tus productos y el precio final ya calculado.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Black Friday anticipado, pero honesto",
+   "idea": "Las ofertas previas al 27 de noviembre ya circulan y el consumidor desconfía de descuentos inflados. Muestra el precio de antes y el de ahora, y explica en una línea por qué tu oferta es real.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Listo para la primera nevada",
+   "idea": "Llegan las primeras nevadas al sur de Ontario y Quebec sigue el pronóstico de tormenta. Graba un 'lo que necesitas antes del primer frío' con tu producto como protagonista; para Quebec, versión en francés.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Compra local en mercados navideños",
+   "idea": "Abren mercados de artesanos y de temporada en Toronto, Montreal y otras ciudades. Si vendes en uno, haz un recorrido por tu stand y destaca que es hecho en Canadá o con historia de origen.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Tu propio 'Playback' del año",
+   "idea": "Los resúmenes anuales personalizados de Xbox son tendencia y el público ama ese formato. Crea tu 'recap 2026': lo más vendido, la pregunta más frecuente y un agradecimiento con una oferta de cierre de año.",
+   "formato": "Carrusel Instagram"
+  }
+ ]
+}

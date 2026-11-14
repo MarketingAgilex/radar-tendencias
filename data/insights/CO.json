@@ -1,32 +1,38 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-14T09:00:00Z",
+ "actualizado": "2026-11-14T13:04:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia está en puente festivo y la conversación de consumo ya gira alrededor del Black Friday (27 de noviembre) y de adelantar las compras de Navidad: los medios recomiendan planear la lista y comparar antes de comprar. El anuncio de la gira de Maluma, que arranca en Bogotá con cuatro fechas en febrero de 2027, abre un regalo de Navidad con fecha. La suspensión temporal de vuelos en EE. UU. por una falla de comunicaciones afectó salidas desde El Dorado, Medellín y Cartagena y recordó lo sensible que es el tiempo de entrega en temporada alta. Es momento de mensajes de planeación, fechas límite claras y regalos con experiencia.",
+ "lectura": "El colombiano llega al puente festivo con la cabeza en las compras de fin de año: los medios repiten que el Black Friday será el 27 de noviembre y recomiendan adelantar los regalos de Navidad sin desordenar las finanzas. La suspensión de vuelos en Estados Unidos dejó a muchos viajeros pendientes de reprogramaciones, y El Niño vuelve a poner el agua y el calor en la conversación. En entretenimiento, Maluma anunció que arrancará su gira mundial en Bogotá en febrero y Karol G brilló en los Latin GRAMMY. Funcionan los mensajes de ahorro planificado, envíos con fecha clara y regalos que lleguen a tiempo para diciembre.",
  "semaforo": [
-  {
-   "termino": "maluma",
-   "color": "verde",
-   "por_que": "Noticia positiva y de orgullo: su gira mundial arranca en Bogotá con cuatro conciertos.",
-   "idea": "Regalos de Navidad ligados al concierto: boletas, pinta para el show, maquillaje o transporte."
-  },
-  {
-   "termino": "peru",
-   "color": "amarillo",
-   "por_que": "El interés viene por la visita del papa León XIV a Chiclayo; es un tema emotivo y religioso que pide respeto.",
-   "idea": "Si tu marca tiene conexión peruana, comparte cultura y gastronomía; evita usar la figura del papa para vender."
-  },
   {
    "termino": "vuelos suspendidos estados unidos",
    "color": "amarillo",
-   "por_que": "Fue una falla técnica de comunicaciones que se resolvió en pocas horas, pero generó dudas sobre retrasos.",
-   "idea": "Contenido de servicio: cómo planear envíos y viajes en temporada alta y a quién preguntar por el estado de un pedido."
+   "por_que": "Afectó a viajeros colombianos y genera ansiedad; sirve para informar, no para vender con miedo.",
+   "idea": "Agencias, aerolíneas y servicios de envío: guía práctica de reprogramación y alternativas, en tono calmado."
   },
   {
    "termino": "fenómeno",
    "color": "amarillo",
-   "por_que": "La conversación sobre El Niño gira en torno al agua y la energía: preocupa, pero abre espacio a contenido útil.",
-   "idea": "Tips de ahorro de agua y energía en casa, o productos que ayudan a consumir menos. Evita el tono alarmista."
+   "por_que": "El Niño preocupa por agua y calor; tema útil si se trata con datos y sin alarmismo.",
+   "idea": "Ventiladores, hidratación, ahorro de agua y protección solar: contenido de 'prepárate para el calor'."
+  },
+  {
+   "termino": "weather",
+   "color": "verde",
+   "por_que": "Búsquedas de clima en inglés, ligadas a viajes y planes de fin de semana.",
+   "idea": "Turismo y moda: recomendaciones de qué empacar según el clima del destino."
+  },
+  {
+   "termino": "maluma",
+   "color": "verde",
+   "por_que": "Anuncio de gira mundial que arranca en Bogotá con cuatro fechas: orgullo paisa y plan de consumo.",
+   "idea": "Outfits de concierto, maquillaje, transporte y hospedaje para quienes viajan a Bogotá en febrero."
+  },
+  {
+   "termino": "yamid amat",
+   "color": "amarillo",
+   "por_que": "Periodista reconocido; la conversación gira en torno a su salud y es sensible.",
+   "idea": "No usar en publicidad; si se menciona, solo con respeto y sin fines comerciales."
   }
  ],
  "audiencias": {
@@ -925,42 +931,56 @@
   }
  ],
  "ocultar": [
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
-  "Estos son los resultados de las loterías de Medellín, Risaralda y Santander de hoy, viernes 13 de noviembre de 2026",
-  "Medellín albergará a partir de 2027 una prisión de gran capacidad",
-  "Loterías de Medellín, Santander y Risaralda de hoy, viernes 13 de noviembre: consulte los resultados",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
+  "base aérea de raf lakenheath",
+  "Delitos contra las infancias en TikTok",
+  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
+  "Exclusivo: los audios que dejó Alicia Graham, esposa de Juan De Bedout, sobre su intoxicación con talio, el mismo veneno que mató a su hija",
+  "“La Silla Vacía: el juguete que regala Papá”: artículo de opinión de Carlos Suárez",
   "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "Las lecciones del caso paraguayo tras la caída de Ueno Bank",
+  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
+  "Loterías de Medellín, Santander y Risaralda: resultados del viernes 13 de noviembre",
+  "Estos son los resultados de las loterías de Medellín, Risaralda y Santander de hoy, viernes 13 de noviembre de 2026",
+  "Loterías de Medellín, Santander y Risaralda de hoy, viernes 13 de noviembre: consulte los resultados",
+  "YLAI, el programa de la embajada de EE. UU. que abre oportunidades para Barranquilla",
   "Alianza entre la Alcaldía de Barranquilla, Grupo Argos y Tecnoglass permitirá completar el corredor vial de la carrera 75A",
-  "YLAI, el programa de la embajada de EE. UU. que abre oportunidades para Barranquilla"
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "Alerta por intoxicación de estudiantes con alimentos del PAE: autoridades investigan",
+  "La Cámara instala la Comisión accidental de Inteligencia Artificial",
+  "1xbet colombia que es",
+  "Dos niños murieron en accidentes en Sucre: uno se ahogó en una piscina de Coveñas y una niña recibió una descarga eléctrica en San Onofre",
+  "Investigan presunta red de exportaciones ficticias que operaba desde Ipiales",
+  "Destapan millonario entramado en la Dian: exportaciones ficticias de aceite y soya habrían movido $425.000 millones",
+  "Dian detectó presuntas exportaciones ficticias por más de $425.000 millones hacia Ecuador",
+  "Red de exportaciones ficticias habría ingresado más de $425.000 millones a Colombia",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+  "'Estamos listos': así es el blindaje de alta tecnología para garantizar la seguridad en el amistoso entre las selecciones de Colombia y Chile en Cali",
+  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Tu lista de Black Friday en el puente",
-   "idea": "Aprovecha que la gente está en casa este puente para invitarla a armar su lista antes del 27 de noviembre: qué necesita, cuánto quiere gastar y dónde comparar. Varias notas de hoy insisten en adelantar las compras de Navidad, así que un carrusel con plantilla descargable conecta directo.",
+   "titulo": "Lista de regalos antes del Black Friday",
+   "idea": "Los medios insisten en adelantar las compras navideñas para aprovechar el 27 de noviembre. Publica una lista de 'regalos por menos de X' con tus productos y la fecha límite de entrega para que lleguen antes de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalo con fecha: el concierto de Maluma",
-   "idea": "La gira de Maluma empieza en Bogotá en febrero de 2027 con cuatro conciertos. Si vendes moda, maquillaje, accesorios o transporte, arma el 'kit para el concierto' como regalo de Navidad y muéstralo en un video corto con la pinta completa.",
+   "titulo": "Plan B para viajeros",
+   "idea": "La suspensión de vuelos en EE. UU. dejó a mucha gente reprogramando viajes. Si vendes turismo, maletas, seguros o envíos, explica en 30 segundos qué hacer si tu vuelo se cae y cómo mandar lo que no alcanzaste a llevar.",
    "formato": "Reel"
   },
   {
-   "titulo": "Calendario de envíos para Navidad",
-   "idea": "La suspensión de vuelos en EE. UU. de este viernes dejó a mucha gente preguntando por demoras. Publica, con calma y sin alarmar, las fechas recomendadas para pedir y recibir a tiempo en Navidad, y responde dudas por WhatsApp. La claridad genera confianza.",
-   "formato": "Historias + WhatsApp"
-  },
-  {
-   "titulo": "Lo viral de belleza, con precio claro",
-   "idea": "Un corrector de ojeras de bajo costo es viral en TikTok esta semana y las ofertas anticipadas de belleza están entre lo más leído. Si vendes belleza, haz un 'probé lo viral' honesto y cierra con el precio final y el tiempo de entrega.",
+   "titulo": "Ahorro de agua con estilo",
+   "idea": "El Niño y las reservas de agua vuelven a ser tema. Marcas de hogar, jardinería o aseo pueden mostrar tres trucos sencillos para ahorrar agua en casa y ligar sus productos de forma práctica, sin alarmismo.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Plan de puente: Noche de Museos y buñuelos",
-   "idea": "Bogotá abre más de 80 museos gratis en la Noche de Museos y Medellín anuncia su festival del buñuelo para diciembre. Restaurantes, cafés y marcas locales pueden proponer un 'plan completo' con descuento para quien muestre su foto del evento.",
-   "formato": "Copy para anuncio"
+   "titulo": "Calentando la gira de Maluma",
+   "idea": "Maluma iniciará su gira mundial en Bogotá con cuatro conciertos en febrero. Moda, belleza y accesorios pueden armar un 'outfit para el concierto' y abrir preventa de regalos para quien ya tiene su boleta.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Cómo comprar seguro en línea",
+   "idea": "Entre los titulares de consumo aparecen alertas de fraude en Black Friday. Un carrusel de 'cinco señales de una tienda confiable' posiciona a tu marca como segura: datos de contacto, políticas de cambio y seguimiento del pedido.",
+   "formato": "Carrusel Instagram"
   }
  ]
 }

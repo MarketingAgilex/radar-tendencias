@@ -1,38 +1,38 @@
 {
  "pais": "US",
- "actualizado": "2026-11-14T09:00:00Z",
+ "actualizado": "2026-11-14T13:04:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En EE. UU. ya empezó la temporada de compras navideñas: Walmart, Best Buy, Macy's y Crate & Barrel adelantaron sus ofertas de Black Friday y los medios publican guías de regalos y de compra segura en línea. El paro nacional de vuelos del viernes, causado por una falla de comunicaciones y levantado en pocas horas, dejó pasajeros varados y recordó lo frágil que es la logística en temporada alta. En entretenimiento suenan Hailey Bieber, Ana de Armas y la preventa de GTA VI. Para la comunidad latina es buen momento de hablar de regalos a tiempo para la familia y de compras con precio claro.",
+ "lectura": "Estados Unidos ya está en modo compras navideñas: las grandes cadenas adelantan sus ofertas de Black Friday, que cae el 27 de noviembre, un día después de Thanksgiving, y el consumidor compara precios en cocina, tecnología, relojes deportivos y regalos. Tras la suspensión nacional de vuelos, muchos viajeros siguen reprogramando sus planes de Thanksgiving, y en Houston y Miami se buscan precios de gasolina y planes de la fecha. En entretenimiento suenan la nueva película de Los Juegos del Hambre, Timothée Chalamet y Hailey Bieber. Para la comunidad latina funcionan los mensajes de ahorro, regalos para enviar a la familia y fechas de entrega garantizadas antes de Navidad.",
  "semaforo": [
+  {
+   "termino": "billionaires",
+   "color": "amarillo",
+   "por_que": "La conversación gira en torno a la sacudida en Nvidia; tema de negocios con tono de escándalo corporativo.",
+   "idea": "Solo para contenido de finanzas o tecnología con análisis sobrio, sin entrar en chismes."
+  },
+  {
+   "termino": "santa cruz beach closures",
+   "color": "amarillo",
+   "por_que": "Cierres de playas por olas gigantes en California: interés por el fenómeno, con componente de seguridad.",
+   "idea": "Turismo y deportes acuáticos: contenido de seguridad y alternativas de plan, sin incentivar riesgos."
+  },
+  {
+   "termino": "new hunger games movie",
+   "color": "verde",
+   "por_que": "Nueva película con reparto estelar: alta conversación entre Gen Z y millennials.",
+   "idea": "Merch, maquillaje temático y planes de cine; tráileres comentados y encuestas en historias."
+  },
+  {
+   "termino": "timothee chalamet",
+   "color": "verde",
+   "por_que": "Actor muy buscado y referente de moda para público joven.",
+   "idea": "Moda masculina y accesorios: contenido 'inspirado en' su estilo, sin usar su imagen."
+  },
   {
    "termino": "hailey bieber",
    "color": "verde",
-   "por_que": "Contenido familiar y de estilo de vida de una celebridad con gran influencia en belleza.",
-   "idea": "Rutinas de cuidado de piel y regalos de belleza inspirados en su estilo."
-  },
-  {
-   "termino": "xrp",
-   "color": "amarillo",
-   "por_que": "Criptomoneda en caída fuerte; tema volátil que puede generar ansiedad financiera.",
-   "idea": "Solo para educación financiera prudente; evita prometer ganancias o sugerir inversiones."
-  },
-  {
-   "termino": "ana de armas",
-   "color": "verde",
-   "por_que": "Debut en alfombra roja con conversación de moda.",
-   "idea": "Looks de fiesta de fin de año inspirados en la alfombra roja."
-  },
-  {
-   "termino": "joseph zada",
-   "color": "amarillo",
-   "por_que": "La conversación gira en torno a un vestido transparente en un evento; tema de moda pero con riesgo de comentarios fuera de tono.",
-   "idea": "Si lo usas, céntrate en tendencias de moda de gala, sin enfocarte en el cuerpo de nadie."
-  },
-  {
-   "termino": "gta 6 ultimate edition",
-   "color": "verde",
-   "por_que": "Lanzamiento de videojuego muy esperado, con fuerte intención de compra para Navidad.",
-   "idea": "Combos de regalo para gamers con precio total y fecha de entrega garantizada."
+   "por_que": "Celebridad de belleza con alta conversación en redes.",
+   "idea": "Skincare y maquillaje: rutinas de 'glazed skin' con productos propios."
   }
  ],
  "audiencias": {
@@ -763,45 +763,59 @@
   }
  ],
  "ocultar": [
+  "caitlin cunningham uss michael murphy relieved",
+  "mired in",
   "Ole Miss officials address another racist incident days after viral video",
+  "Ole Miss chancellor responds to viral video",
   "School investigating after viral video shows 10th-grade girl punched, put in chokehold on Ohio school bus",
-  "Pete Hegseth condecoró al soldado que lo reprendió por las risas de su comitiva frente a la Tumba del Soldado Desconocido",
-  "FBI alerta que hackers de Corea del Norte usaron falsas videollamadas de Zoom para robar USD 400 millones",
-  "Who’s who in Zohran Mamdani’s administration?",
-  "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
-  "Resumen de noticias del choque de un buque cisterna con un crucero fluvial cerca de Nueva Orleans, del 13 de noviembre",
-  "Rusia se muestra evasiva tras el anuncio de EE.UU. de que Europa participará las próximas conversaciones sobre Ucrania",
-  "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+  "Device deemed ‘credible threat’ triggers evacuation around ethanol plant in Peoria, Illinois",
   "The senators who could join Van Hollen's insurgency against Schumer",
-  "BBC undercover reporter is offered fake art and awards for talent visa",
-  "Family Dollar to pay $63 million to settle allegations that it routinely overcharged customers",
-  "Titans' Robert Saleh Talks 1st Matchup vs. Jaguars' Liam Coen Since Viral Video of Altercation"
+  "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+  "Europeans decide on thorny question of who will speak for bloc in Ukraine talks",
+  "Pete Hegseth condecoró al soldado que lo reprendió por las risas de su comitiva frente a la Tumba del Soldado Desconocido",
+  "Rusia se muestra evasiva tras el anuncio de EE.UU. de que Europa participará las próximas conversaciones sobre Ucrania",
+  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
+  "Who’s who in Zohran Mamdani’s administration?",
+  "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+  "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
+  "Detectives from the Los Angeles County Sheriff’s Department are seeking assistance in locating At-Risk Missing Person, Zev Koch. He is a 20-year-old male White adult who was last seen on November 13, 2026, at 6:00 p.m. at the intersection of Sunset Avenu",
+  "Loved ones search for missing teen and toddler who disappeared in Los Angeles",
+  "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+  "Man shoots, kills co-worker at construction site near Covington",
+  "Bessent blasts Commerce on chip exports",
+  "Bessent upset Lutnick didn't ban Nvidia chip exports to China-linked firm",
+  "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+  "Safe Haven Baby Box added at new fire station",
+  "Secretary Kennedy Takes MAHA to North Dakota to Advance Regenerative Agriculture and Strengthen Tribal and Rural Healthcare",
+  "Army Veterinary Services Food Safety Warrant Officers Celebrate 45 Years of Excellence",
+  "JUST IN: Army Looks to Autonomize Logistics in Indo-Pacific",
+  "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Early Black Friday, en español",
-   "idea": "Las grandes cadenas ya lanzaron ofertas anticipadas. Haz un resumen semanal en español de las mejores ofertas de tu categoría y cómo comprarlas sin caer en estafas, un tema que también está en las noticias de hoy.",
+   "titulo": "Early Black Friday honesto",
+   "idea": "Las cadenas ya anuncian ofertas anticipadas. Publica tu propia 'preventa' con el precio regular y el de oferta lado a lado, y una fecha de cierre clara para crear urgencia sin engaños.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Regalos para enviar a la familia",
+   "idea": "Diciembre es temporada de mandar regalos a Latinoamérica. Haz un carrusel de 'qué enviar y hasta cuándo' con fechas límite para que llegue antes de Navidad, en español y en tono cercano.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalos que llegan a tiempo a la familia",
-   "idea": "Tras el paro de vuelos del viernes, la gente se pregunta por retrasos. Publica un calendario sencillo con las fechas recomendadas para enviar regalos a Latinoamérica antes de Navidad.",
+   "titulo": "Thanksgiving sin estrés",
+   "idea": "Thanksgiving cae el 26 de noviembre y crecen las búsquedas de la fecha. Restaurantes, panaderías y tiendas de hogar pueden ofrecer un 'menú o kit listo' con pedido anticipado y recogida programada.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cocina con poco presupuesto",
-   "idea": "Un papá se volvió viral con tips de cocina barata. Marcas de alimentos y supermercados latinos pueden hacer su versión: 'cena de Thanksgiving para 6 por menos de X dólares' con productos de su tienda.",
+   "titulo": "Viajeros reprogramando",
+   "idea": "Tras la suspensión nacional de vuelos hay viajeros cambiando planes. Agencias, maletas y seguros pueden publicar una guía rápida de qué hacer si cancelan tu vuelo en temporada alta.",
    "formato": "TikTok"
   },
   {
-   "titulo": "El efecto del video viral en un restaurante",
-   "idea": "Un restaurante oaxaqueño de Riverside llenó su local tras el video de un creador. Si tienes un negocio local, invita a creadores pequeños de tu ciudad a probar tu producto y cuéntalo como caso.",
+   "titulo": "Cocina de presupuesto",
+   "idea": "Un papá se volvió viral compartiendo recetas económicas. Marcas de alimentos y cocina pueden sumarse con recetas de Thanksgiving por menos de 50 dólares usando sus productos.",
    "formato": "Reel"
-  },
-  {
-   "titulo": "GTA VI como regalo",
-   "idea": "La preventa de GTA VI y su edición especial están en tendencia. Tiendas de tecnología y gaming pueden armar combos de consola, juego y accesorios con precio total claro para Navidad.",
-   "formato": "Copy para anuncio"
   }
  ]
 }

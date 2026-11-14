@@ -1,14 +1,26 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-14T09:00:00Z",
+ "actualizado": "2026-11-14T13:04:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador amanece de buen ánimo tras el triunfo de la selección en Quito, pero la conversación de consumo útil está en las compras de fin de año: Black Friday cae el 27 de noviembre y las notas regionales recomiendan planificar para no endeudarse. La venta de camionetas crece 33% y modelos ensamblados en el país compiten con importados. En Guayaquil se esperan lluvias fuertes desde la tarde de hoy y el Atlético de Madrid compró la mitad del Atlético de Guayaquil, una noticia de marca y orgullo local. Funcionan los mensajes de precio final claro, compra planificada y servicio puntual.",
+ "lectura": "A trece días del Black Friday del 27 de noviembre, el consumidor ecuatoriano busca comprar con plan y sin endeudarse; los consejos de compras y las ofertas anticipadas de tecnología y belleza ganan espacio. La venta de camionetas crece 33% y llegan modelos ensamblados en el país, una señal de confianza para el sector automotor y sus accesorios. Las lluvias en Guayaquil y las demoras de vuelos desde Estados Unidos recuerdan la importancia de avisar a tiempo los plazos de entrega. Funcionan los mensajes de precio final claro, entrega puntual y compra planificada para Navidad.",
  "semaforo": [
   {
    "termino": "camioneta",
    "color": "verde",
    "por_que": "Señal de consumo real: las ventas crecen 33% y modelos hechos en Ecuador compiten con importados.",
    "idea": "Para repuestos, accesorios y seguros: comparativas honestas de precio, garantía y servicio."
+  },
+  {
+   "termino": "peru",
+   "color": "amarillo",
+   "por_que": "La búsqueda gira en torno a la visita del papa León XIV a Perú; tema religioso que exige respeto.",
+   "idea": "Turismo y artesanía religiosa pueden mencionarlo con sobriedad; evita usarlo como gancho de ofertas."
+  },
+  {
+   "termino": "visa",
+   "color": "rojo",
+   "por_que": "La conversación está ligada a restricciones de visados, un tema sensible que la plataforma no cubre.",
+   "idea": "Evítalo en contenido comercial."
   }
  ],
  "audiencias": {
@@ -926,38 +938,61 @@
   }
  ],
  "ocultar": [
-  "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
-  "Caso La Reina: prisión preventiva para exreina de Guayaquil por presunto lavado de activos",
+  "visa",
+  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
+  "La Armada de Ecuador incorpora la lancha guardacostas Isla Puná donada por Estados Unidos",
   "Lluvias en Guayaquil dejan a un padre y su hijo desaparecidos tras caer a una zanja",
+  "Video | Padre e hijo cayeron a una zanja durante las fuertes lluvias en Guayaquil, según el ECU 911 y Segura EP",
+  "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
   "¿Quién está obligado a votar en Ecuador y quién puede no hacerlo?",
   "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Video | Padre e hijo cayeron a una zanja durante las fuertes lluvias en Guayaquil, según el ECU 911 y Segura EP"
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "Estudiantes exigen a ICE liberar a María Flores García y su madre",
+  "Medicina para la paz: prevenir la violencia desde la salud",
+  "La ADF quiere defender la medida sobre el deporte femenino en Washington y sostiene que el estado no puede representar plenamente a las deportistas",
+  "Mamdani lanzará un concurso de diseño de videojuegos para jóvenes de Nueva York con temática de transporte público",
+  "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
+  "Jovencita reportada como desaparecida ya está en su hogar sana y salva | Noticias | El Blog - Noticias de El Salvador",
+  "“La luz de nuestro balcón continúa encendida”: Hogar Ruth celebra la Gala Topaz para sostener sus servicios a sobrevivientes de violencia",
+  "Con velas, globos y peluches recuerdan a niños asesinados tras ejecución de John Allen Rubio",
+  "Texas ejecutó a John Allen Rubio, condenado por decapitar a tres niños en Brownsville en 2003",
+  "Cuatro niños hispanos de Marietta se encuentran separados de sus padres tras detención migratoria",
+  "Disparo accidental afuera de una joyería en North Miami deja una persona herida",
+  "Un McLaren robado aparece en una reunión de autos en Detroit",
+  "Bessent apunta a Lutnick por exportaciones de chips de Nvidia mientras se discute la destitución del secretario de Comercio",
+  "Scott Bessent señala al Departamento de Comercio de EE.UU. por no restringir las exportaciones de chips de Nvidia",
+  "Estados Unidos busca restringir cupones de alimentos, ¿qué cambiará para los beneficiarios?",
+  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+  "¡SEGÚN BLOOMBERG! Profesionales treintañeros de las finanzas y la tecnología comienzan a regresar a Venezuela",
+  "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
+  "Refundar la izquierda desde la sostenibilidad de la vida"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con presupuesto",
-   "idea": "Faltan menos de dos semanas para el 27 de noviembre y los consejos de hoy giran en torno a no endeudarse. Publica una plantilla de 'presupuesto de Black Friday' con tus productos como ejemplo y el precio final ya calculado.",
+   "titulo": "Presupuesto de Black Friday",
+   "idea": "Faltan menos de dos semanas para el 27 de noviembre y los expertos recomiendan planificar. Publica una plantilla de presupuesto con tus productos como ejemplo y el precio final ya calculado, para que el cliente decida sin sorpresas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Camionetas: el boom de los accesorios",
-   "idea": "Las ventas de camionetas suben 33%. Si vendes accesorios, repuestos, seguros o lavado, aprovecha con un 'primer kit para tu camioneta nueva' y una comparativa honesta de precio y garantía.",
+   "titulo": "Kit para camioneta nueva",
+   "idea": "Las ventas de camionetas suben 33%. Si vendes accesorios, repuestos, lavado o seguros, arma un 'primer kit para tu camioneta' con precio cerrado y muéstralo en uso.",
    "formato": "Reel"
   },
   {
-   "titulo": "Plan de lluvia en Guayaquil",
-   "idea": "Hay pronóstico de lluvias fuertes desde esta tarde en Guayaquil. Delivery, restaurantes y tiendas en línea pueden invitar a 'quedarse en casa y pedir', con mensajes de servicio y sin dramatizar.",
+   "titulo": "Entregas con lluvia",
+   "idea": "Se esperan lluvias fuertes en Guayaquil. Avisa en tus historias cómo cuidas los pedidos bajo la lluvia y si puede haber retrasos; la transparencia evita reclamos y genera confianza.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Probé lo viral de TikTok",
-   "idea": "Un corrector de ojeras económico y las ofertas anticipadas de belleza son de lo más visto esta semana. Tiendas de belleza: reseña real, precio final en dólares y tiempo de entrega a Quito, Guayaquil y Cuenca.",
+   "titulo": "Lo viral de belleza a precio ecuatoriano",
+   "idea": "Un corrector económico de Maybelline es viral en TikTok. Si vendes cosmética, compara el producto viral con tus alternativas y di el precio final en dólares, ñaño, sin rodeos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Fecha límite para regalos desde EE. UU.",
-   "idea": "La breve suspensión de vuelos en EE. UU. de este viernes recordó que en temporada alta los tiempos importan. Publica con calma las fechas recomendadas para comprar en tiendas de EE. UU. y recibir antes de Navidad.",
-   "formato": "Copy para anuncio"
+   "titulo": "Vende más en TikTok este Black Friday",
+   "idea": "Circulan claves de expertos para vender en TikTok en Black Friday. Comparte tu propia versión para emprendedores ecuatorianos: video corto, precio visible, prueba social y respuesta rápida por WhatsApp.",
+   "formato": "LinkedIn"
   }
  ]
 }

@@ -1,63 +1,83 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-14T09:00:00Z",
+ "actualizado": "2026-11-14T13:03:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú vive con emoción la visita del papa León XIV, con misas multitudinarias en Lima y Chiclayo y momentos virales como el del conductor del Metropolitano. En lo económico, el BCRP subió su tasa de interés por primera vez en 45 meses, Millicom comprará Entel Perú y Grupo Romero adquirirá Talma, señales de movimiento en telecomunicaciones y logística. El calendario de compras apunta a Black Friday (27 de noviembre) y a la gratificación de diciembre. Funcionan los mensajes cercanos, el orgullo peruano y las compras planificadas con cuotas claras.",
+ "lectura": "El Perú sigue conmovido por la visita del papa León XIV: Lima y Chiclayo concentran la conversación, con historias virales de gente común y un fuerte orgullo local que también mueve turismo, gastronomía y recuerdos. En el bolsillo, el BCRP subió su tasa a 4,5% por el repunte de la inflación, así que el consumidor cuidará más el crédito y comparará antes de pagar en cuotas. Black Friday llega el 27 de noviembre y luego la gratificación de diciembre, por lo que hoy conviene sembrar listas de deseos y precios finales claros. El Niño costero vuelve a la agenda: oportunidad para productos de verano, ventilación, protección solar e hidratación con un tono preventivo.",
  "ideas_hoy": [
   {
-   "titulo": "Orgullo de Chiclayo",
-   "idea": "Chiclayo está en todas las conversaciones por la visita del papa. Restaurantes, turismo y productos regionales pueden mostrar con respeto lo mejor de Lambayeque: su comida, artesanía y destinos.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Tasa más alta, compra planificada",
-   "idea": "El BCRP subió su tasa clave. Haz un carrusel sencillo sobre cómo comprar en Black Friday sin endeudarse: pagar al contado lo que se pueda y comparar cuotas.",
+   "titulo": "Chiclayo y Lima, rutas con orgullo",
+   "idea": "La visita papal puso a Chiclayo en el mapa de todo el país. Si vendes turismo, gastronomía norteña o artesanía, arma una guía de 'qué probar y qué llevarte' de la ciudad, en tono cultural y respetuoso, sin usar imágenes oficiales.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lo viral de belleza a precio real",
-   "idea": "Un corrector de ojeras económico es viral en TikTok. Tiendas de belleza: prueba honesta, precio en soles y tiempo de entrega en Lima y provincias.",
+   "titulo": "Compra inteligente con tasas más altas",
+   "idea": "El BCRP subió la tasa de interés y el crédito se encarece. Publica una comparativa sencilla de pagar al contado vs. en cuotas con tus propios productos y muestra el precio final; eso genera confianza antes de Black Friday.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Lista de deseos para Black Friday",
+   "idea": "Faltan menos de dos semanas para el 27 de noviembre. Invita a tus seguidores a guardar su lista de deseos y avisa que recibirán primero las ofertas reales; así llegas con audiencia caliente y evitas la guerra de precios de último momento.",
+   "formato": "Historias de Instagram con stickers"
+  },
+  {
+   "titulo": "Verano con El Niño costero",
+   "idea": "Las alertas apuntan a un verano más caluroso. Si vendes ventiladores, ropa fresca, bloqueador o bebidas, prepara un 'kit para el calor' con consejos prácticos y un tono tranquilo, sin alarmismo.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Celular nuevo para la gratificación",
-   "idea": "Llegan al Perú celulares con pantallas pensadas para muchas horas de uso. Tiendas de tecnología pueden lanzar hoy una 'lista de deseos para la gratificación' con modelos y precios finales.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Latin Grammy con sabor peruano",
-   "idea": "Grupo Niche dedicó su Latin Grammy a Colombia y Perú y anunció regreso a Lima. Marcas de entretenimiento y eventos pueden activar playlists de salsa o sorteos para el próximo concierto.",
-   "formato": "Historias Instagram"
+   "titulo": "El chofer viral y la buena onda",
+   "idea": "Las historias del conductor del Metropolitano muestran que al peruano le encantan los relatos de gente sencilla. Cuenta la historia real de un cliente o colaborador tuyo con el mismo tono cálido; humaniza tu marca sin subirte a la noticia.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "1998 ky26",
-   "color": "verde",
-   "por_que": "Curiosidad científica sobre un asteroide de comportamiento inusual; genera conversación ligera y educativa.",
-   "idea": "Contenido de curiosidades o '¿sabías que?' para marcas de educación, tecnología o juguetes científicos."
-  },
-  {
    "termino": "milo j",
    "color": "verde",
-   "por_que": "Ganador en los Latin Grammy 2026; conversación musical positiva entre jóvenes.",
-   "idea": "Playlists y contenido de música urbana para marcas que hablan a la Gen Z."
+   "por_que": "El artista argentino fue de los nombres fuertes de los Latin Grammy y su música mueve conversación joven.",
+   "idea": "Playlists o contenidos de 'mi canción del año' para marcas de moda, audio o eventos dirigidas a Gen Z."
+  },
+  {
+   "termino": "el niño costero",
+   "color": "amarillo",
+   "por_que": "Alerta climática que preocupa, pero también anticipa un verano más caluroso.",
+   "idea": "Contenido preventivo y útil: hidratación, ventilación y protección solar; evita el tono alarmista."
+  },
+  {
+   "termino": "banco central de reserva del perú",
+   "color": "verde",
+   "por_que": "La subida de tasa afecta créditos y compras en cuotas; el consumidor busca entenderlo.",
+   "idea": "Explicadores breves para fintech, cooperativas o comercios sobre cómo comprar planificado este fin de año."
+  },
+  {
+   "termino": "minería",
+   "color": "verde",
+   "por_que": "La inversión minera apunta a su mejor nivel en una década: señal de dinamismo regional.",
+   "idea": "Para B2B: contenidos en LinkedIn sobre proveedores, servicios y talento para regiones mineras."
   },
   {
    "termino": "tv",
    "color": "verde",
-   "por_que": "Búsquedas sobre televisores y cómo verlos mejor, en plena temporada de ofertas.",
-   "idea": "Guías de compra de televisores para Black Friday con precio final y garantía."
+   "por_que": "Búsqueda ligada a televisores y hábitos de ver series, justo antes de Black Friday.",
+   "idea": "Guías de compra de televisores y accesorios por tamaño de sala, con precio final claro."
   }
  ],
  "ocultar": [
-  "ebola",
   "óscar lópez",
+  "ebola",
   "keiko fujimori",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+  "prisión",
+  "Delitos contra las infancias en TikTok",
+  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
   "El Tribunal Constitucional decidirá si Reinfo no va más",
-  "Embajador de EEUU confía en que Perú cumplirá requisitos para eliminación de visas"
+  "Reelección encubierta: quiénes son los 20 regidores que asumirían alcaldías tras la decisión del JNE",
+  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
+  "Uso de documentos falsos en un proceso de aumento de alimentos. Análisis de una sentencia de conformidad",
+  "Medicina para la paz: prevenir la violencia desde la salud",
+  "Mininter articula esfuerzos para garantizar servicios de salud policial ante El Niño",
+  "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
+  "¡Ni el estado de emergencia los frena! Banda asalta taller en SMP y roba S/ 20 mil en equipos y autopartes",
+  "Los expertos ven inconstitucional la orden de Ayuso para prohibir mensajes en favor de la huelga educativa"
  ],
  "audiencias": {
   "general": {
