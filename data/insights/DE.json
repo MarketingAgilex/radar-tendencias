@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Alemania el Black Friday ya está en marcha con tickers de ofertas en tecnología (Switch 2, AirPods, aspiradoras Dyson) y advertencias de la Verbraucherzentrale sobre trampas de precio. La primera filtración de la camiseta Nike de la selección y los Papás Noel de chocolate más caros en Rewe, Lidl o Aldi muestran un consumidor atento al precio y a los productos con carga emocional. La llamada a revisión de 4,6 millones de autos del grupo VW y el debate sobre el café y la salud completan la agenda. Ofertas transparentes y regalos con sentido para quien 'no necesita nada' son la clave.",
+ "lectura": "Alemania ya está en modo Black Friday (27 de noviembre): la Switch 2 con Mario Kart, tecnología de Apple, tocadiscos y walking pads lideran las ofertas, y la central de consumidores insiste en cómo detectar trampas de precios. Los Papá Noel de chocolate bajan hasta un 41% en algunos comercios, pero las tarifas de electricidad subirán desde enero, lo que pesa en los presupuestos. Un gran llamado a revisión de autos del grupo VW y el lanzamiento de GTA VI también están en conversación. A dos semanas del primer domingo de Adviento (29 de noviembre), precio claro y regalos útiles ganan.",
  "semaforo": [
   {
    "termino": "tv programm heute",
    "color": "verde",
-   "por_que": "Mucha gente busca qué ver en la tele el sábado por la noche.",
-   "idea": "Snacks, delivery y streaming: planes para la noche en casa."
-  },
-  {
-   "termino": "trikot",
-   "color": "verde",
-   "por_que": "Se filtró la primera camiseta Nike de la selección alemana.",
-   "idea": "Deporte y moda: preventas y regalos; usa solo imágenes autorizadas."
+   "por_que": "Los alemanes buscan qué ver esta noche.",
+   "idea": "Delivery, snacks y streaming: propuestas para la noche en casa."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "La Switch 2 con Mario Kart World tiene precio récord en Black Friday.",
-   "idea": "Gaming y tecnología: packs de regalo y accesorios complementarios."
+   "por_que": "La consola con Mario Kart World está entre las ofertas más buscadas.",
+   "idea": "Tecnología: packs con accesorios y entrega antes de Navidad."
   },
   {
    "termino": "kaffee",
-   "color": "amarillo",
-   "por_que": "Un estudio relaciona el consumo de café con beneficios para la salud.",
-   "idea": "Marcas de café: habla de sabor y ritual; no hagas afirmaciones de salud en anuncios."
+   "color": "verde",
+   "por_que": "Interés por los posibles beneficios del café para la salud.",
+   "idea": "Cafeterías y marcas de café: contenido sobre consumo con moderación, sin promesas de salud."
+  },
+  {
+   "termino": "grand theft auto",
+   "color": "verde",
+   "por_que": "La llegada de GTA VI domina la conversación gamer.",
+   "idea": "Tecnología y snacks: contenido de lanzamiento y accesorios."
   },
   {
    "termino": "rückrufaktion",
    "color": "amarillo",
-   "por_que": "El grupo VW llama a revisión a 4,6 millones de autos.",
-   "idea": "Talleres y seguros: información útil y citas de revisión, sin alarmismo."
+   "por_que": "El grupo VW llama a revisión millones de autos por un problema de dirección.",
+   "idea": "Talleres pueden informar cómo agendar la revisión; evita burlas a la marca."
   }
  ],
  "audiencias": {
@@ -1233,33 +1233,50 @@
   "Gaza: Israel tötet hochrangigen Hamas-Kommandeur",
   "Flammen-Inferno in Berlin: Großbrand zerstört zehn Autos",
   "Daten-GAU in Berlin: Forensiker über den Rhysida-Leak",
-  "ufc"
+  "ufc",
+  "droneshield",
+  "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+  "\"Neue Drei-Klassen-Medizin\": Grüne warnen vor \"Paywall\" für Arzttermine",
+  "Entscheidung noch dieses Jahr: Zwei Atomkraftwerke vor Borkum?",
+  "„Der neue Senat wird Namen nennen und gegen organisierte Kriminalität deutlich vorgehen“",
+  "Selenskyj: USA haben Ukraine Nato-Mitgliedschaft bei Gebietsverzicht angeboten",
+  "(S+) US-Midterms 2026: Demokraten ringen nach Triumph um Kurs für 2028",
+  "NVIDIA-Aktie: HSBC stuft ab, Börsenwert unter 4 Billionen US-Dollar – Investoren bringen Huang-Rückkehr ins Spiel",
+  "Polizei ermittelt wegen Unfallflucht gegen BVG-Fahrer Achtjährige stürzt mit Rad, wird von Bus überrollt und stirbt",
+  "Berlin: Bus überrollt Mädchen (†8) auf Fahrrad – Ermittlungen gegen Fahrer",
+  "Ilanit Spinner, ARD Berlin, zur Diskussion über den SPD-Parteivorsitz und die Kandidatur von Heil",
+  "Volkstrauertag: Die Gedenkveranstaltung in Berlin im Livestream",
+  "(k+) Eher Rückschritt als Entwicklung: Bei Union steht vieles auf wackligen Beinen",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Para quien no necesita nada",
-   "idea": "Las guías de regalos para quien dice 'no necesito nada' están entre lo más leído. Arma tu propia lista con experiencias, consumibles y detalles personalizados.",
+   "titulo": "Black Friday sin trampas",
+   "idea": "Los consumidores buscan cómo evitar trampas de precios. Muestra el precio de los últimos 30 días junto a tu oferta, como exige la normativa europea de indicación de precios, y gana credibilidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Sin trampas de precio",
-   "idea": "La Verbraucherzentrale explica las trampas típicas del Black Friday. Muestra el precio de referencia de 30 días y una devolución sin complicaciones.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Fiebre de camiseta",
-   "idea": "Se filtró la primera camiseta Nike de la selección alemana. Tiendas deportivas y textiles: abre la lista de espera para regalarla en Navidad.",
+   "titulo": "Calendario de Adviento",
+   "idea": "El primer Adviento es el 29 de noviembre. Lanza un calendario de Adviento propio (una oferta o contenido por día) y abre ya la lista de espera.",
    "formato": "Reel"
   },
   {
-   "titulo": "Momento café",
-   "idea": "Un estudio sobre cuántas tazas de café al día son beneficiosas generó mucho interés. Cafeterías y tostadores: celebra el ritual del café y tus orígenes, sin promesas de salud.",
-   "formato": "Publicación Instagram"
+   "titulo": "Ahorro de energía",
+   "idea": "Las tarifas eléctricas suben desde enero. Hogar y tecnología pueden promocionar enchufes inteligentes, LED o aislamiento con un cálculo simple de ahorro.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Chequeo de llamada a revisión",
-   "idea": "El grupo VW llama a revisión a 4,6 millones de autos por un problema de dirección. Talleres: explica cómo verificar si tu auto está afectado y ofrece cita.",
-   "formato": "Publicación Facebook"
+   "titulo": "Noche gamer",
+   "idea": "La Switch 2 y GTA VI concentran la conversación. Arma un pack de regalo gamer con accesorios y entrega antes de Navidad.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Chocolate de temporada",
+   "idea": "Los Papá Noel de chocolate bajan de precio. Pastelerías y tiendas gourmet pueden destacar su versión artesanal como regalo con valor.",
+   "formato": "Instagram"
   }
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Black Friday ya adelanta la Navidad en España: los consumidores compran regalos antes de diciembre, comparan para evitar engaños y miran el coste real de financiar. El encendido de luces de Vigo y su 'test de estrés' navideño abren la temporada, mientras la vivienda y la cesta de la compra siguen en la conversación. GTA VI, el karaoke y el simracing animan las búsquedas de ocio. Funcionan los mensajes de ahorro transparente, los regalos con antelación y los planes para el puente de diciembre.",
+ "lectura": "España calienta el Black Friday del 27 de noviembre: el 76% de los españoles prevé comprar con un gasto medio de 196 euros y muchos adelantan ya los regalos de Navidad, con El Corte Inglés, MediaMarkt y Amazon lanzando ofertas previas. Se habla de que los asistentes de IA harán cerca del 30% de las compras y de cómo evitar engaños. El encendido navideño, con espectáculo de drones en Madrid y la locura de las luces de Vigo, abre la temporada, y Mercadona estrena tiendas. Ofertas verificables, regalo adelantado y ambiente navideño funcionan esta semana.",
  "ideas_hoy": [
   {
-   "titulo": "Regalos adelantados",
-   "idea": "Los españoles aprovechan el Black Friday para comprar regalos antes de diciembre. Publica una lista 'regalos por menos de 30 €' con envío garantizado antes de Navidad.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Sin intereses, de verdad",
-   "idea": "Se recomienda mirar el coste total antes de pagar a plazos. Explica en un carrusel cuánto paga el cliente al final con tu financiación: la claridad diferencia.",
+   "titulo": "Regalo adelantado",
+   "idea": "Muchos españoles aprovechan el Black Friday para comprar los regalos de Navidad antes de diciembre. Lanza una guía de regalos por presupuesto (20, 50 y 100 euros) con envío garantizado antes del 22 de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Ruta de luces",
-   "idea": "Miles de coches entraron en Vigo por el encendido navideño. Comercio local: propón una ruta de luces con parada en tu tienda y un detalle para quien venga.",
-   "formato": "TikTok"
+   "titulo": "Que la IA te encuentre",
+   "idea": "Se calcula que los asistentes de IA harán buena parte de las compras. Revisa que tu ficha de producto tenga precio, medidas, envío y devoluciones claros: es lo que leen los asistentes y los clientes.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Karaoke para las cenas",
-   "idea": "Las comparativas de altavoces de karaoke están entre lo más leído. Electrónica y ocio: pack 'cena de empresa con karaoke' para diciembre.",
+   "titulo": "Navidad encendida",
+   "idea": "El encendido de luces en Vigo y el espectáculo de drones en Madrid abren la temporada. Graba tu escaparate o producto con luces navideñas y el texto 'Ya es Navidad en…' con tu ciudad.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Antiengaños",
+   "idea": "Las guías para comprar con atención en Black Friday son tendencia. Publica tus tres compromisos (precio anterior real, devolución fácil, atención humana) y fíjalo en tu perfil.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Puente de diciembre",
-   "idea": "El 6 y el 8 de diciembre son festivos. Turismo, restauración y ocio: abre ya las reservas para el puente con plazas limitadas.",
-   "formato": "Publicación Instagram"
+   "titulo": "Karaoke navideño",
+   "idea": "Se publican comparativas de altavoces para karaoke. Si vendes ocio o tecnología, propón 'cena de empresa con karaoke' y un pack para grupos.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "vivienda",
-   "color": "amarillo",
-   "por_que": "Más hogares y menos casas disponibles: la vivienda es una preocupación de fondo.",
-   "idea": "Inmobiliarias y reformas: contenido útil y realista, sin prometer gangas."
-  },
-  {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
-   "idea": "Alimentación y comercio local: compara tu propuesta de valor y destaca producto de proximidad."
+   "por_que": "Mercadona abre nuevos supermercados y la gente busca horarios y aperturas.",
+   "idea": "Comercios de proximidad pueden destacar cercanía y ofertas de temporada."
   },
   {
    "termino": "twitch",
-   "color": "amarillo",
-   "por_que": "Polémica entre creadores y la dirección de Twitch por las comisiones.",
-   "idea": "Marcas: apoya a creadores con acuerdos claros; evita tomar partido en la polémica."
+   "color": "verde",
+   "por_que": "Polémica entre streamers y la plataforma por el reparto de ingresos.",
+   "idea": "Marcas para jóvenes pueden colaborar con creadores, sin opinar sobre el conflicto."
   },
   {
-   "termino": "rockstar games gta vi",
+   "termino": "santoral",
    "color": "verde",
-   "por_que": "Ya se puede precargar GTA VI y la expectativa es enorme.",
-   "idea": "Gaming, tecnología y comida a domicilio: packs para la noche de lanzamiento."
+   "por_que": "Consulta habitual del santo del día.",
+   "idea": "Floristerías, pastelerías y regalos pueden felicitar onomásticas con promociones del día."
   },
   {
    "termino": "encendido luces vigo 2026",
    "color": "verde",
    "por_que": "El encendido navideño de Vigo atrae a miles de visitantes.",
-   "idea": "Comercio, hostelería y turismo: planes y ofertas alrededor de la ruta de luces."
+   "idea": "Hostelería y comercio local: planes y ofertas para quienes visitan la ciudad."
+  },
+  {
+   "termino": "julia otero",
+   "color": "verde",
+   "por_que": "La periodista habla de sus hábitos y rutinas a los 67 años.",
+   "idea": "Bienestar y alimentación: contenido sobre rutinas saludables, sin usar su imagen en anuncios."
   }
  ],
  "ocultar": [
@@ -146,7 +146,19 @@
   "consulado",
   "adif",
   "La Ronda Litoral concentra en Sant Adrià el tramo con más accidentes graves de las rondas de Barcelona",
-  "ufc"
+  "ufc",
+  "móstoles",
+  "sobredosis",
+  "Clamor en Madrid contra el abandono ferroviario tras los siniestros de Urda y Adamuz",
+  "El legado de Heredia: de la modernización de Renfe a la gestión de la miseria",
+  "La UE insta a Israel a permitir el acceso «inmediato» de la ayuda humanitaria a Gaza",
+  "Presión en Nvidia: Elon Musk, miles de empleados y accionistas exigen restituir a Jensen Huang",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
+  "Descarrilla un tren de mercancías en Zarzalejo que obliga a suspender la circulación Madrid - Ávila: el maquinista, herido leve",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang"
  ],
  "audiencias": {
   "general": {

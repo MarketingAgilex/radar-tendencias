@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La visita del papa León XIV —de Chiclayo a Cajamarca y, este lunes 16, la misa en la Base Aérea Las Palmas de Lima— concentra la atención y el orgullo peruano, con cierres de vías y alta demanda de transporte, comida y recuerdos. A la vez, Lima vive una ola de calor (hasta 31 °C) y el ENFEN advierte que El Niño costero se extendería hasta 2027. La subida de la tasa del BCRP a 4,5% vuelve más cuidadoso al consumidor con el crédito justo antes del Black Friday. Orgullo local, alivio para el calor y pagos claros son el camino.",
+ "lectura": "La visita del papa León XIV, que fue obispo en Chiclayo, concentra la atención del Perú: misa en la Base Aérea Las Palmas, cierres de vías en Lima y recorridos por Cusco y la Amazonía. Al mismo tiempo, Lima registra calor de hasta 31 °C, hay cortes de luz programados en Lima, Callao y Arequipa, y el ENFEN advierte que El Niño costero podría extenderse hasta 2027. En consumo, el Black Friday ya mueve tecnología y belleza, y la venta de Entel a Millicom genera curiosidad entre clientes. Contenido útil para el calor, logística clara y respeto en todo lo relacionado con la visita papal funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Rutas y horarios del lunes",
-   "idea": "Habrá avenidas cerradas por la misa en Las Palmas. Si haces delivery o tienes local cerca, publica qué zonas atiendes y en qué horarios: la información útil se comparte mucho.",
-   "formato": "Historia de Instagram"
+   "titulo": "Llegar a la misa sin estrés",
+   "idea": "Miles de personas buscan cómo llegar a Las Palmas y qué calles estarán cerradas. Si tienes delivery o tienda física, avisa horarios y zonas afectadas para que tus clientes no se queden esperando su pedido.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Orgullo peruano",
-   "idea": "Se hizo viral el chofer del Metropolitano que siguió al Papa con sus pasajeros. Cuenta historias reales de orgullo y servicio de tu equipo, con respeto y sin usar símbolos religiosos para vender.",
+   "titulo": "Kit anticalor limeño",
+   "idea": "Lima llega a 31 °C. Muestra tu 'kit para el calor' (bloqueador, botella térmica, ropa fresca, abanico portátil) con precio de pack y entrega el mismo día.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit contra el calor",
-   "idea": "Lima llegó a 31 °C. Bebidas, helados, ventiladores y bloqueador pueden lanzar un 'kit de verano adelantado' con entrega el mismo día.",
+   "titulo": "Corte de luz programado",
+   "idea": "Hay cortes de luz anunciados en Lima, Callao y Arequipa. Marcas de tecnología pueden promover power banks y lámparas recargables con un mensaje práctico: 'Revisa tu zona y carga antes'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Contado o cuotas, sin sustos",
-   "idea": "El BCRP subió su tasa a 4,5% y la gente se pregunta cómo afecta créditos y precios. Muestra el precio al contado y el total en cuotas antes del Black Friday.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Black Friday tech con cabeza",
+   "idea": "Circulan guías para elegir un monitor gamer sin fijarse solo en el precio. Haz un video comparando tres opciones de tu catálogo por uso (estudiar, trabajar, jugar) y deja el enlace al chat.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Celulares para regalar",
-   "idea": "Llegan al Perú nuevos equipos como el Galaxy A18 y el P80 Ultra. Tiendas de tecnología: comparativa sencilla de 'cuál regalar según presupuesto' en soles.",
-   "formato": "Copy para anuncio"
+   "titulo": "Recuerdo con respeto",
+   "idea": "La visita del Papa emociona a muchas familias. Si vendes artículos religiosos, recuerdos o fotografía, ofrécelos con tono sobrio y sin exagerar promociones.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
-   "termino": "papá león xiv",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "La visita del Papa peruano genera orgullo y gran movimiento en Chiclayo, Cajamarca y Lima.",
-   "idea": "Turismo, transporte y gastronomía local: información práctica y mensajes de orgullo, con respeto y sin explotar la fe."
+   "por_que": "El pronóstico diario del SENAMHI es de lo más buscado por el calor en Lima.",
+   "idea": "Bebidas, heladerías, ropa fresca y bloqueadores: mensajes del día según la temperatura."
   },
   {
    "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "Lima vive días de calor intenso.",
-   "idea": "Bebidas, helados, ropa fresca y protector solar: ofertas de temporada."
+   "por_que": "Las altas temperaturas en Lima despiertan búsquedas constantes.",
+   "idea": "Delivery de bebidas, ventiladores y protección solar con promociones de mediodía."
+  },
+  {
+   "termino": "corte de luz arequipa hoy",
+   "color": "amarillo",
+   "por_que": "Cortes de luz programados en distritos de Arequipa afectan hogares y negocios.",
+   "idea": "Comercios locales pueden avisar cambios de horario; tecnología puede ofrecer respaldo energético sin alarmar."
+  },
+  {
+   "termino": "milo j",
+   "color": "verde",
+   "por_que": "El artista está entre los nombres de los Latin Grammy 2026.",
+   "idea": "Moda urbana, música y entretenimiento pueden sumarse a la conversación con contenido de fans."
   },
   {
    "termino": "el niño costero",
    "color": "amarillo",
-   "por_que": "El ENFEN prevé que El Niño costero se extienda hasta el invierno de 2027.",
-   "idea": "Agro, hogar y seguros: consejos de prevención sin alarmismo."
-  },
-  {
-   "termino": "twitch",
-   "color": "amarillo",
-   "por_que": "Se habla de copias gratis de GTA VI en otra plataforma de streaming, fuera del Perú.",
-   "idea": "Si haces promociones con premios, publica bases claras y no prometas lo que no controlas."
-  },
-  {
-   "termino": "millicom entel peru",
-   "color": "verde",
-   "por_que": "Millicom compra Entel Perú, operadora con más de 10 millones de clientes.",
-   "idea": "Tecnología y telecomunicaciones: explica qué cambia para el cliente y ofrece equipos y planes con claridad."
+   "por_que": "El ENFEN alerta que El Niño costero podría durar hasta inicios del invierno de 2027.",
+   "idea": "Agro, hogar y aseguradoras: contenido de prevención y planificación, con tono serio."
   }
  ],
  "ocultar": [
@@ -91,7 +91,13 @@
   "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
   "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera",
   "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
-  "haití - estados unidos"
+  "haití - estados unidos",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang",
+  "El Papa denuncia la discriminación de los afrodescendientes en Perú",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional"
  ],
  "audiencias": {
   "general": {

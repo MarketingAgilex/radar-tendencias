@@ -1,8 +1,8 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La llegada de Sinterklaas —con Gijs Naber como nuevo Sint— y la entrada del barco de vapor concentraron la atención de los neerlandeses este fin de semana: arranca oficialmente la temporada de regalos hasta el pakjesavond del 5 de diciembre. Las entradas para la casa de Sinterklaas se agotaron en diez minutos y se reparten toneladas de dulces, mientras el Black Friday ya mueve LEGO, zapatillas, auriculares y móviles. Una alerta de seguridad sobre una leche UHT de Lidl recuerda el peso de la confianza. Regalos con poema, ofertas comprobables y transparencia ganan.",
+ "lectura": "Sinterklaas llegó a Países Bajos y la búsqueda masiva por Gijs Naber, el nuevo Sint, marca el arranque oficial de la temporada de regalos hasta el pakjesavond del 5 de diciembre. La casa de Sinterklaas agotó sus entradas en diez minutos y Ámsterdam recibió miles de niños en la llegada. En paralelo, el Black Friday y el Singles Day mueven auriculares, LEGO, zapatillas y móviles, y un aviso de seguridad sobre una leche UHT de Lidl recuerda el peso de la confianza. Regalos con poema, ofertas comprobables y transparencia ganan.",
  "semaforo": [
   {
    "termino": "gijs naber",
@@ -13,26 +13,26 @@
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La entrada del barco de vapor marca el inicio de la temporada de regalos.",
-   "idea": "Comercio y gastronomía: cuenta regresiva al 5 de diciembre."
+   "por_que": "La llegada en barco de vapor reunió a familias en todo el país.",
+   "idea": "Comercios locales: decoración temática y ofertas familiares."
   },
   {
    "termino": "max verstappen vdk",
    "color": "verde",
-   "por_que": "Verstappen firmó un nuevo acuerdo de varios años con una empresa neerlandesa.",
-   "idea": "B2B y automotor: contenido de patrocinio y orgullo local, sin usar su imagen sin permiso."
+   "por_que": "El piloto renueva un acuerdo con una empresa neerlandesa; buena imagen de marca.",
+   "idea": "Marcas pueden hablar de alianzas locales y orgullo nacional sin usar su imagen sin permiso."
   },
   {
    "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Hay una alerta de seguridad sobre una leche UHT por bacterias.",
-   "idea": "Alimentos: comunica tus controles de calidad con transparencia; no te burles del caso."
+   "por_que": "Aviso de seguridad sobre una leche UHT por posible contaminación.",
+   "idea": "Alimentación: refuerza tus controles de calidad sin aludir a la competencia."
   },
   {
-   "termino": "amazon",
+   "termino": "miniserie",
    "color": "verde",
-   "por_que": "Ya hay decenas de ofertas anticipadas de Black Friday.",
-   "idea": "Comercio: compite con servicio, rapidez y atención cercana."
+   "por_que": "Una miniserie de Netflix es de lo más comentado.",
+   "idea": "Plataformas, snacks y delivery: planes para ver en casa."
   }
  ],
  "audiencias": {
@@ -1163,7 +1163,25 @@
   "Reanimatie op Appelweg in Amsterdam",
   "As van overledene uitstrooien op straat of op het water? In Amsterdam mag dat gewoon",
   "As verstrooien in Amsterdam: Geen specifieke regels op gemeentelijk grondgebied",
-  "ufc"
+  "ufc",
+  "raffinaderij",
+  "holten",
+  "rusland",
+  "’Gps-signaal van tientallen vliegtuigen bij Schiphol verstoord’",
+  "Getuige: Bolle Jos wilde 4 ton coke stelen van Jan G. uit Overasselt",
+  "Zwaar vuurwerk, zwarte pieten, brandjes en politie-inzet; avond na Sinterklaasintocht op Urk verloopt opnieuw onrustig",
+  "Ontploffing op kerstmarkt Maredsous, mogelijk meerdere zwaargewonden",
+  "Grote brand in werkplaats van zorgboerderij De Wilp | Treinstoring tussen Leeuwarden en Groningen",
+  "Zeer grote brand op Winkelsteeg in Venlo",
+  "Haven New Orleans klaagt eigenaren van tanker aan na botsing met cruiseschip",
+  "Frankrijk verbiedt vuurwerkmortieren na protesten met geweld tegen ordediensten",
+  "Crisisoverleg D66, CDA en VVD voortgezet op landgoed in Hilversum",
+  "Op de Ondernemersdag in de Utrechtse Jaarbeurs heeft nog niemand de VVD gebeld. ‘Ik ben nu wel een beetje klaar met die partij’",
+  "Ongeval met letsel op Piet Heinkade in Amsterdam",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang"
  ],
  "ideas_hoy": [
   {
@@ -1172,23 +1190,23 @@
    "formato": "Reel"
   },
   {
-   "titulo": "Regalo para el zapato",
-   "idea": "Con la llegada del Sint, los niños 'ponen el zapato'. Arma una selección de mini regalos por menos de 10 euros pensada para el zapato.",
+   "titulo": "Cuenta regresiva al pakjesavond",
+   "idea": "Faltan unas tres semanas para el 5 de diciembre. Publica la fecha límite de pedido para llegar a tiempo y una lista de regalos por edad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Comprueba tu oferta",
-   "idea": "Los medios explican cómo comprobar si una oferta de Singles Day o Black Friday es buena. Muestra el historial de precios de tus productos estrella.",
-   "formato": "Carrusel Instagram"
+   "titulo": "¿Oferta de verdad?",
+   "idea": "Se publican guías para comprobar si una oferta de Black Friday o Singles Day es real. Muestra tu precio anterior y tu política de devoluciones en una sola imagen.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "El efecto Verstappen",
-   "idea": "Max Verstappen renovó un acuerdo de varios años con una empresa neerlandesa. Comparte lecciones de patrocinio y marca para pymes B2B.",
-   "formato": "LinkedIn"
+   "titulo": "Lo que se agotó",
+   "idea": "La casa de Sinterklaas se agotó en diez minutos. Si tienes ediciones limitadas, anuncia un pre-registro para no perderlas.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Pop-up de invierno",
-   "idea": "Un restaurante abre un local temporal en el Winterparadijs de Ámsterdam. Gastronomía y ocio: anuncia tu propuesta de temporada o mercadillo de invierno.",
+   "titulo": "Maratón de miniserie",
+   "idea": "Una miniserie de Netflix es comparada con 'Adolescence'. Snacks, delivery y mantas pueden proponer un plan de maratón del domingo.",
    "formato": "TikTok"
   }
  ]

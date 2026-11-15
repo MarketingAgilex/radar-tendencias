@@ -1,32 +1,32 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Frío intenso (hasta -6 °C y alertas sanitarias por frío) y 'Strictly Come Dancing' camino a Blackpool marcan el fin de semana británico. Las compras navideñas arrancan con desfiles de juguetes, campañas para comprar en el comercio local ('One More Gift' en Cornualles) y ofertas anticipadas en tecnología y videojuegos antes de GTA VI. Con la inflación y la presión laboral sobre los jóvenes, el valor y la experiencia en tienda pesan. Calidez, entretenimiento y compra local son los ganchos.",
+ "lectura": "El fin de semana británico gira en torno a 'Strictly Come Dancing' camino a Blackpool y a un frío que trae avisos de nieve, hielo y alertas sanitarias. Las compras navideñas arrancan con presupuestos más ajustados: los británicos prevén gastar unas 103 libras en sus seres más cercanos y buscan ofertas anticipadas de Black Friday, liquidaciones y mercados locales. Las luces navideñas de Carnaby Street y la conversación sobre GTA VI completan el panorama. Regalos con sentido, valor claro y planes acogedores en casa conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Noche acogedora",
-   "idea": "Hay alertas por frío en todo el país. Mantas, calefactores, té y chocolate: vende la 'cosy night in' del sábado de Strictly con un pack listo para regalar.",
+   "titulo": "El regalo de las 100 libras",
+   "idea": "Se estima un gasto de unas 103 libras en los seres más cercanos con presupuestos ajustados. Arma una guía de regalos 'por debajo de £25, £50 y £100' y destaca el envío antes de Navidad.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Noche de Strictly en casa",
+   "idea": "Strictly lidera las búsquedas del sábado. Snacks, mantas, velas o pijamas: vende un 'pack Strictly night in' con entrega el mismo fin de semana.",
    "formato": "Reel"
   },
   {
-   "titulo": "Brillo de Strictly",
-   "idea": "Strictly Come Dancing va por su octava semana y lidera las búsquedas. Belleza y moda: tutorial de un look con brillo inspirado en la pista de baile, sin usar logos del programa.",
+   "titulo": "Preparados para la nieve",
+   "idea": "Hay avisos de nieve y hielo. Calzado, abrigo y calefacción pueden publicar un checklist práctico de invierno con productos y entrega rápida.",
+   "formato": "Facebook"
+  },
+  {
+   "titulo": "Luces sin pantalla",
+   "idea": "Las luces de Carnaby Street generaron debate por el mar de móviles grabándolas. Invita a tus seguidores a una 'visita sin móvil' a tu tienda o evento navideño, con un detalle para quien venga.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Un regalo más, local",
-   "idea": "En Cornualles piden comprar 'un regalo más' en el comercio local. Pymes: súmate con 'cada compra aquí se queda en el barrio' y muestra a tu equipo.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Espera antes de enchufar",
-   "idea": "Se aconseja a los compradores de Black Friday esperar antes de enchufar los aparatos nuevos. Tiendas de tecnología: guía rápida de cuidado y garantía que genera confianza.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Listo para GTA VI",
-   "idea": "La edición física de GTA 6 da que hablar. Accesorios y almacenamiento: copy 'prepara tu consola para el lanzamiento' con discos, mandos y auriculares.",
+   "titulo": "Early Black Friday con valor",
+   "idea": "Los compradores siguen 'cambiando a opciones más baratas'. Comunica valor (duración, garantía, costo por uso) además del descuento en tu oferta anticipada.",
    "formato": "Copy para anuncio"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Las búsquedas del tiempo se disparan con la ola de frío.",
-   "idea": "Ropa de abrigo, hogar y delivery: promos según el pronóstico."
+   "por_que": "Búsqueda masiva del pronóstico por el frío y los avisos invernales.",
+   "idea": "Ropa de abrigo, calefacción y delivery con mensajes del día."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "El programa de baile más visto entra en su recta final hacia Blackpool.",
-   "idea": "Snacks, belleza y moda: contenido para la noche del sábado frente a la tele."
+   "por_que": "El programa de baile es lo más visto del sábado y se acerca la semana de Blackpool.",
+   "idea": "Moda de fiesta, belleza y snacks: contenido de 'looks' y planes para verlo en casa."
   },
   {
    "termino": "weather",
-   "color": "amarillo",
-   "por_que": "Continúan las alertas sanitarias por frío.",
-   "idea": "Comunica con cuidado para personas mayores; productos de calefacción con consejos de seguridad."
+   "color": "verde",
+   "por_que": "Interés por el clima ante nuevas alertas por frío.",
+   "idea": "Productos de invierno con tono práctico."
   },
   {
-   "termino": "gta vi map",
+   "termino": "london weather",
    "color": "verde",
-   "por_que": "La expectativa por GTA VI y su edición física es enorme.",
-   "idea": "Gaming y tecnología: preventas de accesorios y regalos para jugadores."
+   "por_que": "Lluvia en Londres y avisos de nieve y hielo en otras zonas.",
+   "idea": "Comercio londinense: paraguas, cafés y planes bajo techo."
   },
   {
-   "termino": "the hunger games: sunrise on the reaping",
+   "termino": "carnaby street christmas lights",
    "color": "verde",
-   "por_que": "El estreno de la nueva película de Los juegos del hambre genera conversación por la alfombra roja.",
-   "idea": "Moda y belleza: contenido de estilo inspirado en la premiere; cines y ocio: planes de estreno."
+   "por_que": "Las luces navideñas de Carnaby Street generan conversación y debate sobre el uso del móvil.",
+   "idea": "Retail y hostelería del centro: planes navideños y ofertas para visitantes."
   }
  ],
  "audiencias": {
@@ -1123,6 +1123,16 @@
   "The world according to China",
   "Incident on Dublin to Waterford train goes viral after report made to Irish Rail",
   "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-  "ufc"
+  "ufc",
+  "finance",
+  "Minister refuses to rule out some young people may lose benefits after Milburn review",
+  "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
+  "Russell Brand secretly moved to 'cushy' new jail with yoga and choir sessions",
+  "Israel kills Hamas commander in strike on Gaza camp, officials say",
+  "Two planes collide while taxiing at Miami airport - as two suffer minor injuries",
+  "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
+  "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
+  "Aryna Sabalenka apologises after viral video, denies insulting Elina Svitolina",
+  "“My comment was not directed at Elina”: Sabalenka apologises after her alleged anti-Ukrainian outburst during the Svitolina match goes viral"
  ]
 }

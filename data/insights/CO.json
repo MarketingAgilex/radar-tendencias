@@ -1,65 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Puente festivo por la Independencia de Cartagena (lunes 16) y Black Friday a la vista: el colombiano busca cuándo empiezan las ofertas, cómo devolver compras en línea y cómo comprar sin desordenar sus finanzas. Los planes de fin de semana (bazares prenavideños, el concierto de Chayanne en Barranquilla, la FMS en Cali) y el universo creador de Stream Fighters 5 dominan la conversación. Las marcas que expliquen fechas, devoluciones y pagos sin enredos ganan confianza antes del 27.",
+ "lectura": "Domingo de puente festivo (el lunes 16 se celebra la Independencia de Cartagena) y a 12 días del Black Friday del 27 de noviembre: el colombiano ya busca fechas, cómo devolver compras hechas por internet y cómo no desordenar su presupuesto. En Bogotá se anuncian bazares prenavideños con emprendimientos liderados por mujeres y planes culturales como la Noche de Museos, mientras en TikTok se viraliza el 'bicep heart' y crece la conversación sobre grabar mejor en vertical. Quien explique con claridad precio, envío y política de cambios se lleva la confianza antes de la temporada navideña.",
  "ideas_hoy": [
   {
-   "titulo": "Plan de puente",
-   "idea": "El lunes 16 es festivo. Publica 'qué hacer y qué estrenar en el puente' con tu producto, o una promo que solo dure hasta el lunes a medianoche para mover ventas de fin de semana.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Devoluciones sin miedo",
-   "idea": "Mucha gente busca cómo devolver una compra en internet desde Colombia. Explica cómo funcionan tus cambios en 4 pasos simples: quita el principal freno antes del Black Friday.",
+   "titulo": "Black Friday sin sustos",
+   "idea": "Las búsquedas sobre cuándo empieza el Black Friday y cómo devolver compras online están arriba. Publica un carrusel con tus fechas, el precio final con envío incluido y tu política de cambios en tres pasos: la claridad es el mejor gancho esta semana.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Vende en TikTok con cabeza",
-   "idea": "Expertos comparten claves para vender más en TikTok en Black Friday. Muestra el producto en uso, el precio en pantalla y la invitación a escribir por WhatsApp en los primeros 3 segundos.",
+   "titulo": "Plan de puente festivo",
+   "idea": "Con el lunes festivo, mucha gente tiene tiempo para mirar vitrinas digitales. Haz un en vivo corto mostrando tus productos navideños y deja apartados con abono por WhatsApp para que no se pierda la venta.",
+   "formato": "Live Instagram/TikTok"
+  },
+  {
+   "titulo": "Reto 'bicep heart' de marca",
+   "idea": "El corazón con el brazo es tendencia en TikTok. Graba a tu equipo haciéndolo con el producto en la otra mano y un texto tipo 'Así le mostramos amor a nuestros clientes': es fácil, rápido y cercano.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Bazar navideño",
-   "idea": "Bogotá tendrá tres bazares prenavideños con 60 emprendimientos de mujeres. Si emprendes, anuncia dónde estarás o arma un 'bazar virtual' en Instagram con domicilio incluido.",
-   "formato": "Publicación Instagram"
+   "titulo": "Emprendedoras en bazar",
+   "idea": "Bogotá tendrá bazares prenavideños con 60 emprendimientos de mujeres. Si participas en ferias, anuncia dónde estarás, qué llevarás y un detalle para quien diga que te vio en redes.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin quemar la plata",
-   "idea": "Las notas sobre Black Friday y bolsillo están entre lo más leído. Fintech, bancos y asesores pueden compartir 'cómo aprovechar descuentos sin endeudarse antes de la prima', con tono cercano y nada de regaños.",
-   "formato": "LinkedIn"
+   "titulo": "Graba en vertical, vende más",
+   "idea": "Se viralizan guías sobre por qué todo se graba en vertical. Comparte tus tres trucos para grabar un producto con el celular (luz de ventana, fondo limpio, primer plano en los primeros 2 segundos) y posiciónate como marca que enseña.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "vuelos suspendidos estados unidos",
+   "termino": "suspenden vuelos eeuu",
    "color": "amarillo",
-   "por_que": "La suspensión temporal de despegues en EE. UU. generó retrasos; el tráfico ya se reanuda.",
-   "idea": "Si importas o envías a EE. UU., informa con calma posibles demoras y anima a pedir los regalos navideños con tiempo."
+   "por_que": "La suspensión temporal del tráfico aéreo en EE. UU. por una falla técnica generó retrasos; los vuelos ya se reanudan.",
+   "idea": "Agencias de viaje, aerolíneas y servicios de envío pueden informar estados y tiempos con calma, sin alarmar ni hacer humor."
   },
   {
    "termino": "fenómeno",
-   "color": "amarillo",
-   "por_que": "Se advierte que El Niño podría afectar las reservas de agua hasta 2027.",
-   "idea": "Marcas de hogar y agro: consejos de ahorro de agua y productos eficientes, sin alarmismo."
+   "color": "verde",
+   "por_que": "Se habla de El Niño y su efecto en el clima y las reservas de agua hasta 2027.",
+   "idea": "Hogar, ventiladores, ropa fresca y productos de ahorro de agua pueden educar sobre cómo prepararse para más calor."
   },
   {
    "termino": "emiro",
    "color": "amarillo",
-   "por_que": "Rumores sobre la salud del influencer Emiro Navarro antes de Stream Fighters 5.",
-   "idea": "No uses su salud como gancho; si haces contenido del evento, enfócate en el entretenimiento."
+   "por_que": "Rumores sobre la salud de un influencer de MasterChef antes de un evento de streaming.",
+   "idea": "No uses su caso en anuncios; si haces contenido de entretenimiento, habla del evento y no de su salud."
   },
   {
-   "termino": "karina garcia",
-   "color": "verde",
-   "por_que": "Un accesorio de oro y diamantes del hijo de la influencer llamó la atención en redes.",
-   "idea": "Joyerías y marcas de lujo: contenido sobre piezas especiales para regalo de Navidad."
+   "termino": "apagón mundial 17 de noviembre",
+   "color": "amarillo",
+   "por_que": "Circula en redes un rumor sin pruebas de un apagón global; medios de verificación lo desmienten.",
+   "idea": "Marcas de tecnología o energía pueden explicar qué hacer ante un corte de luz (cargar baterías, respaldar datos) aclarando que es un rumor."
   },
   {
-   "termino": "microsoft xbox playback",
+   "termino": "taylor swift",
    "color": "verde",
-   "por_que": "Xbox celebra 25 años con un resumen personalizado para sus jugadores.",
-   "idea": "Tiendas de tecnología y gaming: invita a compartir 'tu historia gamer' y ofrece accesorios para regalo."
+   "por_que": "La cantante es noticia por su posible participación en los premios CMA.",
+   "idea": "Moda, accesorios y regalos para fans: listas de 'outfits de concierto' y regalos temáticos para Navidad."
   }
  ],
  "audiencias": {
@@ -1121,6 +1121,13 @@
   "¿Cómo fue el choque de un buque cisterna contra un crucero con 197 pasajeros en Estados Unidos que terminó volcado y dejó 32 hospitalizados?",
   "Amantes y espías: cómo agentes extranjeros han utilizado durante mucho tiempo las \"trampas de seducción\" para robar secretos",
   "El real desapego de Quebec",
-  "ufc"
+  "ufc",
+  "villavicencio",
+  "el espectador",
+  "Así fue como “Primo Gay” pasó de las filas de “Calarcá” al Clan del Golfo en Antioquia",
+  "El escándalo de Jensen Huang deja a Nvidia con una pregunta: ¿quién financia ahora a la IA?",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
+  "Desarticulada banda ‘Centro’, que distribuía drogas en el sector de San Bernardo",
+  "Las cifras clave y los factores detrás de cómo el 2026 apunta a ser el año menos violento de Medellín en su historia moderna"
  ]
 }

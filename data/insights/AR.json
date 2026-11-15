@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Las lluvias y las alertas por tormentas encabezan las búsquedas, mientras Buenos Aires celebra una Noche de los Museos récord (1,4 millones de personas) y despide a Robbie Williams. El dólar tuvo una jornada agitada y el consumidor mira la cotización antes de comprar, con el Black Friday confirmado para fin de mes y el fin de semana largo del lunes 23. La farándula (De Paul y Tini, el escándalo en PH) alimenta la charla. Conviene comunicar precio final en pesos, cuotas claras y planes para el finde largo.",
+ "lectura": "Buenos Aires vive otra Noche de los Museos y una agenda de teatro accesible, mientras alertas por tormentas en varias provincias y la lluvia del fin de semana marcan rutinas. El argentino sigue el dólar blue, compara precios con el exterior y mira con atención los movimientos de marcas tradicionales, como la venta de Tía Maruca o el cambio de dueño de Burger King en el país. La farándula (los escándalos de PH, la noticia de Rodrigo de Paul y Tini) domina redes, y el feriado del lunes 23 por el Día de la Soberanía Nacional abre un fin de semana largo. Precio claro, cultura y humor local suman.",
  "ideas_hoy": [
   {
    "titulo": "Finde largo del 23",
-   "idea": "El lunes 23 es feriado y habrá fin de semana largo. Turismo, gastronomía y delivery: publicá ya tu propuesta para esos días con reserva anticipada.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Precio en pesos, sin vueltas",
-   "idea": "Con el dólar agitado, la gente duda antes de comprar. Mostrá el precio final en pesos congelado hasta el domingo y las cuotas sin letra chica.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Cultura que convoca",
-   "idea": "La Noche de los Museos rompió récord con 1,4 millones de personas. Galerías, librerías y cafés: contá lo que pasó en tu espacio y ofrecé un beneficio para volver.",
+   "idea": "El lunes 23 es feriado. Arma una 'lista para el finde largo' con tus productos (escapadas, asado, pileta, lectura) y empezá a tomar pedidos con entrega antes del viernes.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Llueve, nosotros llevamos",
-   "idea": "Lluvia en CABA y alerta en Salta: es día de quedarse en casa. Lanzá una promo de 'día de lluvia' con envío incluido por tiempo limitado.",
-   "formato": "Historia de Instagram"
+   "titulo": "Más barato que la cancha",
+   "idea": "Circulan notas sobre obras de teatro que cuestan menos que ir a la cancha. Usá esa comparación con humor para mostrar cuánto 'rinde' tu producto: 'Por menos que una entrada, te llevás…'.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Copiloto de lujo",
-   "idea": "Se viralizó el video de Ramón Díaz acompañando a un camionero en Entre Ríos. Hacé tu versión con el equipo de reparto: 'el copiloto de lujo de tu pedido'.",
+   "titulo": "Precio final, sin vueltas",
+   "idea": "Los argentinos siguen el dólar y comparan con afuera. Publicá tu precio final en pesos con cuotas y envío incluido: la transparencia es tu mejor chamuyo.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Plan B por tormenta",
+   "idea": "Hay alertas amarillas y naranjas por tormentas. Locales gastronómicos pueden empujar delivery y 'combo día de lluvia'; tiendas pueden ofrecer retiro sin cargo para no mojarse.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Marcas que cambian de manos",
+   "idea": "La venta de Tía Maruca generó nostalgia. Si tenés una marca con historia, contá tu origen en un video corto: la gente se engancha con las marcas que conoce desde chica.",
    "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "clima",
-   "color": "verde",
-   "por_que": "Las búsquedas por el clima en Capital Federal son masivas por lluvias y tormentas.",
-   "idea": "Delivery, indumentaria y hogar: promos según el pronóstico del día."
-  },
-  {
    "termino": "lluvia",
    "color": "verde",
-   "por_que": "Lluvias en Buenos Aires durante el fin de semana.",
-   "idea": "Paraguas, calzado, delivery y planes bajo techo: mensajes oportunos."
+   "por_que": "El pronóstico de lluvias en Buenos Aires es de lo más buscado del fin de semana.",
+   "idea": "Paraguas, delivery y planes bajo techo con mensajes del día."
   },
   {
    "termino": "rocio robles",
    "color": "amarillo",
-   "por_que": "Escándalo de farándula en un programa de televisión.",
-   "idea": "Solo para contenido de entretenimiento; no tomes partido ni la uses en anuncios."
+   "por_que": "Escándalo de farándula en un programa de TV con mucha conversación.",
+   "idea": "Mejor no tomar partido; si hacés contenido de entretenimiento, hablá del programa y no de la pelea."
   },
   {
-   "termino": "precio dolar blue",
+   "termino": "clima salta",
    "color": "amarillo",
-   "por_que": "La cotización del dólar se sigue a diario y genera ansiedad.",
-   "idea": "Mostrá precios claros en pesos y cuotas; evitá especular con el tipo de cambio."
+   "por_que": "Alerta amarilla por tormentas en Salta.",
+   "idea": "Comercios locales: avisos de horarios y delivery con tono útil."
   },
   {
-   "termino": "rodrigo de paul",
+   "termino": "tormenta",
+   "color": "amarillo",
+   "por_que": "Alertas por tormentas en nueve provincias.",
+   "idea": "Productos para el hogar y servicios a domicilio, sin humor si hay daños."
+  },
+  {
+   "termino": "15 de noviembre",
    "color": "verde",
-   "por_que": "Rodrigo de Paul y Tini Stoessel anunciaron que se agranda la familia.",
-   "idea": "Marcas de bebés, regalos y celebraciones: contenido de buenas noticias, sin usar su imagen."
+   "por_que": "La gente busca el horóscopo del día, un clásico de domingo.",
+   "idea": "Moda, belleza y regalos: contenido liviano por signo con recomendaciones de producto."
   }
  ],
  "ocultar": [
@@ -92,7 +92,14 @@
   "El PJ cierra filas y busca aliados provinciales para frenar la suspensión de las PASO",
   "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
   "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
-  "kayla harrison"
+  "kayla harrison",
+  "aeropuerto internacional de miami",
+  "santiago del estero",
+  "Una batalla inédita. Cuatro economistas ya están en carrera por la presidencia",
+  "Dos aviones chocan en un cruce de pista en el aeropuerto de Miami: se produce un día después de la suspensión de vuelos en todo EE.UU.",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang"
  ],
  "audiencias": {
   "general": {
@@ -839,6 +846,81 @@
     "ES": "estar apañado",
     "CL": "estar frito"
    }
+  },
+  {
+   "expresion": "Morfar",
+   "significado": "Comer.",
+   "uso": "Lunfardo de uso cotidiano en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Qué vas a morfar este finde? Pedilo ya.",
+   "equivalentes": {
+    "CO": "jartar / comer",
+    "MX": "tragar / echar taco",
+    "EC": "jamear",
+    "ES": "papear / zampar",
+    "CL": "comer"
+   }
+  },
+  {
+   "expresion": "Pilcha",
+   "significado": "Ropa, prenda de vestir.",
+   "uso": "Muy común para hablar de ropa y moda.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Renová la pilcha para el verano.",
+   "equivalentes": {
+    "CO": "pinta / ropa",
+    "MX": "garras / ropa",
+    "EC": "ropa",
+    "ES": "ropa / trapitos",
+    "CL": "pilcha"
+   }
+  },
+  {
+   "expresion": "Piola",
+   "significado": "Bueno, tranquilo, conveniente o simpático.",
+   "uso": "Se usa para cosas y personas; muy habitual entre jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un plan re piola para el feriado.",
+   "equivalentes": {
+    "CO": "bacano / chévere",
+    "MX": "chido",
+    "EC": "bacán / chévere",
+    "ES": "guay / majo",
+    "CL": "bacán / piola"
+   }
+  },
+  {
+   "expresion": "Una bocha",
+   "significado": "Mucho, una gran cantidad.",
+   "uso": "Todo el país, en conversación informal.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tenemos una bocha de ofertas este finde.",
+   "equivalentes": {
+    "CO": "un montón / una jartera",
+    "MX": "un chorro / un buen",
+    "EC": "full / un montón",
+    "ES": "un montón / mogollón",
+    "CL": "un montón / caleta"
+   }
+  },
+  {
+   "expresion": "Me cabe",
+   "significado": "Me gusta mucho, me encanta (también 'me re cabe').",
+   "uso": "Muy usado por jóvenes y en redes sociales.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Este combo me re cabe.",
+   "equivalentes": {
+    "CO": "me encanta / me tramó",
+    "MX": "me late",
+    "EC": "me encanta",
+    "ES": "me flipa / me mola",
+    "CL": "me encanta"
+   }
   }
  ],
  "creadores": {
@@ -991,6 +1073,14 @@
    "hacia": "US",
    "sector": "tecnologia",
    "accion": "Casos de éxito en LinkedIn y alianzas con agencias; es una señal para investigar según cada nicho."
+  },
+  {
+   "titulo": "Consolas y accesorios gamer por el lanzamiento de GTA VI",
+   "senal": "Grand Theft Auto VI aparece entre las búsquedas en Argentina y en otros mercados, y la conversación gamer suele traducirse en compras de almacenamiento, mandos y auriculares.",
+   "desde": "US",
+   "hacia": "AR",
+   "sector": "gaming",
+   "accion": "Investigar la demanda de accesorios y explicar al comprador el precio final con envío e impuestos antes de que decida."
   }
  ],
  "anuncios": [

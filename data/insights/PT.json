@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Con el Black Friday oficial el 27 de noviembre, los portugueses buscan regalos tecnológicos y de decoración, pero desconfían de los falsos descuentos (la Deco ya publica consejos). Los cortes de electricidad programados y la llegada del invierno impulsan búsquedas de equipos para el hogar, y el precio de los combustibles se sigue semana a semana. La televisión (Cristina Ferreira, 'Dois às 10') y el nuevo diseño del '7' en la camiseta de la selección dan conversación, mientras crece la tendencia de 'comer skincare'. Con los feriados del 1 y el 8 de diciembre hay espacio para escapadas y compras anticipadas.",
+ "lectura": "Portugal se prepara para el Black Friday del 27 de noviembre con ofertas anticipadas en zapatillas, tecnología y decoración, pero también con alertas sobre tiendas falsas sugeridas por asistentes de IA y promociones engañosas. El IPMA prevé lluvia fuerte en varios distritos y el precio de los combustibles vuelve a ser noticia. La televisión (Cristina Ferreira y los realities) y los juegos de PS5 a su precio más bajo animan la conversación. Los feriados del 1 y el 8 de diciembre abren espacio para las compras de Navidad: confianza y precio claro ganan.",
  "ideas_hoy": [
   {
-   "titulo": "Desconto verificado",
-   "idea": "La Deco advierte sobre falsos descuentos en Black Friday. Muestra el precio de los últimos 30 días junto a la oferta y gana credibilidad frente a las grandes tiendas.",
+   "titulo": "Tienda verdadera, precio verdadero",
+   "idea": "Hay alertas sobre tiendas falsas recomendadas por asistentes de IA. Muestra cómo confirmar que tu tienda es oficial (dominio, NIF, contactos) y fija la publicación en tu perfil.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Inverno em casa",
-   "idea": "Se buscan equipos para empezar el invierno y hay cortes de luz programados. Calefactores, mantas, linternas y baterías portátiles: arma un pack 'invierno sin sorpresas'.",
+   "titulo": "Zapatillas de temporada",
+   "idea": "Las ofertas en modelos clásicos como Samba y Gazelle están en las guías de compra. Si vendes moda, arma tres looks con zapatillas clásicas y su precio de Black Friday.",
    "formato": "Reel"
   },
   {
-   "titulo": "Comer skincare",
-   "idea": "Crece la tendencia de recetas que prometen mejorar la piel. Marcas de alimentación o belleza: comparte una receta sencilla y tu producto, sin promesas médicas.",
+   "titulo": "Días de lluvia",
+   "idea": "El IPMA anticipa aviso amarillo por lluvia fuerte. Calzado impermeable, paraguas y entregas a domicilio pueden comunicar 'quédate en casa, nosotros lo llevamos'.",
+   "formato": "Instagram"
+  },
+  {
+   "titulo": "Navidad sin impulsos",
+   "idea": "Se habla de ahorrar en los regalos sin comprar por impulso. Publica una lista de regalos por presupuesto con la fecha límite para recibir antes de Navidad.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Gamer en modo ahorro",
+   "idea": "Los juegos de PS5 están a su precio más bajo en una cadena de tiendas. Las tiendas de tecnología pueden crear un pack 'fin de semana gamer' con juego y accesorio.",
    "formato": "TikTok"
-  },
-  {
-   "titulo": "A camisola do 7",
-   "idea": "La Federación cambió el diseño del número 7 en la camiseta de la selección. Tiendas deportivas y merchandising: preventa para regalar en Navidad con entrega garantizada.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Ponte de dezembro",
-   "idea": "El 1 y el 8 de diciembre son feriados. Turismo y restauración: lanza paquetes de escapada con reserva anticipada y plazas limitadas.",
-   "formato": "Publicación Facebook"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "EE. UU. levantó la suspensión de vuelos tras una falla técnica de más de cuatro horas.",
-   "idea": "Viajes y envíos internacionales: explica posibles demoras con calma y recomienda anticipar."
-  },
-  {
-   "termino": "eletricidade",
-   "color": "amarillo",
-   "por_que": "Hay cortes de electricidad programados en varias zonas.",
-   "idea": "Tecnología y hogar: baterías, linternas y consejos prácticos sin alarmismo."
+   "por_que": "La suspensión temporal de vuelos en EE. UU. por una falla técnica ya se levantó, pero afectó a viajeros.",
+   "idea": "Agencias y envíos internacionales pueden informar plazos reales con calma."
   },
   {
    "termino": "cristina ferreira",
    "color": "verde",
-   "por_que": "La presentadora y su programa generan conversación de entretenimiento.",
-   "idea": "Contenido ligero de televisión y moda; evita opinar sobre conflictos personales."
+   "por_que": "La presentadora y sus programas generan mucha conversación.",
+   "idea": "Marcas de consumo pueden acompañar el tema de entretenimiento sin entrar en polémicas personales."
+  },
+  {
+   "termino": "inteligência artificial",
+   "color": "verde",
+   "por_que": "Se habla de cómo la IA reemplaza los menús escritos a mano en restaurantes.",
+   "idea": "Restauración y tecnología: mostrar cómo la IA ayuda al pequeño negocio sin perder el toque humano."
   },
   {
    "termino": "playstation 5",
    "color": "verde",
-   "por_que": "Juegos de PS5 al precio más bajo de siempre.",
-   "idea": "Gaming y tecnología: ofertas de regalo y packs para Navidad."
+   "por_que": "Juegos de PS5 a su precio más bajo en una cadena de tiendas.",
+   "idea": "Tecnología y ocio: packs de regalo para gamers."
   },
   {
    "termino": "crédito",
    "color": "amarillo",
-   "por_que": "Muchos buscan cuándo prescriben las deudas de tarjeta de crédito.",
-   "idea": "Fintech y asesoría: educación financiera clara y responsable, sin incentivar el impago."
+   "por_que": "Interés por los plazos de prescripción de deudas de tarjeta de crédito.",
+   "idea": "Bancos y fintech: educación financiera responsable antes de Navidad, sin incentivar el endeudamiento."
   }
  ],
  "ocultar": [
@@ -124,7 +124,18 @@
   "Passos Coelho espera que “não se percam mais 10 anos” sem reformar Segurança Social",
   "Finanças saúda avaliação positiva da DBRS e destaca crescimento económico acima do esperado",
   "PS criou legislação do Volta e agora \"pede contas\" à Câmara de Lisboa por causa dela? A SIC Verifica",
-  "ufc"
+  "ufc",
+  "insolvência",
+  "imposto",
+  "aeroporto internacional de miami",
+  "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
+  "Dois aviões colidem na pista do aeroporto internacional de Miami",
+  "José Manuel Pureza: \"Não tenho qualquer ilusão sobre o desempenho de Seguro\"",
+  "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
+  "Acampada de Lisboa muda-se: dezenas de 50 tendas montadas nos Restauradores",
+  "Habitação: Noite tranquila nos Restauradores em Lisboa com cerca de 40 tendas montadas",
+  "“O que se faz com a riqueza?”. Rede internacional de ultra-ricos chega a Lisboa",
+  "Acampada pelo direito à habitação regressa a Lisboa. Tendas vão ser montadas esta noite nos Restauradores"
  ],
  "audiencias": {
   "general": {

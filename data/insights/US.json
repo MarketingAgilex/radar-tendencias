@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A 11 días de Thanksgiving y 12 de Black Friday, el consumidor estadounidense ya compra ofertas anticipadas (Costco, Sam's Club, Apple) y visita mercados navideños locales. El Niño, la reciente paralización del tráfico aéreo y la caída del bitcoin invitan a la cautela, mientras GTA VI y el streaming (Paramount y Warner) dominan el entretenimiento. Para la comunidad hispana es el momento de anticipar los envíos de regalos a Latinoamérica y planear compras con presupuesto.",
+ "lectura": "A 11 días de Thanksgiving (26 de noviembre) y del Black Friday, las ofertas anticipadas ya dominan: MacBooks, Lego, aspiradoras, Costco y Nordstrom aparecen en las guías de compra, y la IA (como Gemini) empieza a rastrear descuentos por el consumidor. Mercados navideños y ferias artesanales llenan de compradores los fines de semana, mientras tormentas invernales en el Oeste y un fuerte El Niño ponen el clima en la conversación. Tras la parada temporal de vuelos, el viajero de Thanksgiving busca certezas. Para el público hispano, la temporada de cajas navideñas hacia Latinoamérica ya arrancó.",
  "ideas_hoy": [
   {
-   "titulo": "Envía antes de Thanksgiving",
-   "idea": "La paralización del tráfico aéreo recordó lo frágil de los plazos. Anima a tu comunidad a enviar los regalos para su familia en Latinoamérica antes del 26 de noviembre, con un copy bilingüe y una fecha límite clara.",
+   "titulo": "Early Black Friday honesto",
+   "idea": "Las guías de 'early Black Friday deals' están por todas partes. Publica tu oferta anticipada con fecha de fin clara y una garantía de precio (si baja el 27, devuelves la diferencia): reduce la espera y genera confianza.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Early access honesto",
-   "idea": "Las grandes cadenas ya lanzaron su Early Black Friday. Las marcas pequeñas pueden dar acceso anticipado esta semana a quienes se suscriban, con el precio final visible.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Comer rico y barato",
-   "idea": "Se viralizó un creador que publica comidas económicas. Restaurantes y marcas de alimentos: recetas de Thanksgiving por menos de 10 dólares con un toque latino.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Mercado navideño local",
-   "idea": "Los mercados navideños atraen compradores en Filadelfia, Luisiana y Michigan. Si eres artesano o emprendedor, publica dónde encontrarte y la etiqueta 'shop small'.",
+   "titulo": "Envía tu caja a tiempo",
+   "idea": "Las empresas de encomiendas ya anuncian envíos navideños a Latinoamérica. Si atiendes a la comunidad hispana, publica el calendario de fechas límite por país y qué se puede y no se puede enviar.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Reto fitness hasta 2027",
-   "idea": "'Fitness' está en tendencia con consejos para llegar en forma a 2027. Gimnasios, ropa deportiva y suplementos: lanza un reto de 30 días antes de Año Nuevo.",
-   "formato": "YouTube Shorts"
+   "titulo": "Mercado navideño local",
+   "idea": "Las ferias y mercados de temporada atraen compradores. Si vendes en uno, haz un Reel del montaje del puesto con el texto 'Encuéntranos aquí este fin de semana' y una oferta solo para quien llegue desde redes.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Kit de tormenta invernal",
+   "idea": "Hay avisos de tormentas invernales con nieve y lluvia intensa en el Oeste. Tiendas de hogar y ferretería pueden promover kits (linternas, cargadores portátiles, mantas) con entrega local rápida.",
+   "formato": "Facebook"
+  },
+  {
+   "titulo": "Viaja tranquilo en Thanksgiving",
+   "idea": "Tras la parada temporal de vuelos, los viajeros buscan certezas. Marcas de viajes, maletas o seguros pueden compartir un checklist para Thanksgiving: llegar antes, apps de aerolínea y equipaje de mano inteligente.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "el niño weather",
-   "color": "amarillo",
-   "por_que": "Un El Niño intenso ya llegó y cambia el clima de muchas regiones.",
-   "idea": "Hogar, ropa y seguros: contenido útil de preparación por zona, sin alarmismo."
+   "color": "verde",
+   "por_que": "Un El Niño fuerte ya se instaló y la gente busca qué significa para su zona.",
+   "idea": "Hogar, ropa y jardinería pueden crear contenido de preparación por región con productos útiles."
   },
   {
    "termino": "spacex starship rocket launch",
    "color": "verde",
-   "por_que": "SpaceX logró atrapar por primera vez la etapa superior del Starship.",
-   "idea": "Tecnología y educación: contenido de innovación y curiosidad científica."
+   "por_que": "SpaceX logró atrapar parte del cohete Starship a su regreso, un hito muy comentado.",
+   "idea": "Tecnología, educación y juguetes STEM: contenido inspirador sobre innovación y regalos para pequeños curiosos."
+  },
+  {
+   "termino": "winter storm",
+   "color": "amarillo",
+   "por_que": "Tormentas con nieve, lluvia intensa y oleaje fuerte afectan al Oeste.",
+   "idea": "Kits de emergencia y productos de invierno con tono útil; evita bromas si hay afectados."
   },
   {
    "termino": "cancer",
    "color": "amarillo",
-   "por_que": "Se aprobó un nuevo tratamiento para un tipo de cáncer de vejiga; tema de salud delicado.",
-   "idea": "Solo para salud con respaldo médico; prevención y acompañamiento, nunca humor."
+   "por_que": "Noticias sobre la aprobación de un nuevo tratamiento oncológico; tema médico sensible.",
+   "idea": "Solo marcas de salud con información verificada y tono serio; no lo uses como gancho comercial."
   },
   {
    "termino": "fitness",
    "color": "verde",
-   "por_que": "Mucho interés en rutinas para llegar en forma a 2027.",
-   "idea": "Gimnasios, apps y ropa deportiva: retos de fin de año y planes de regalo."
-  },
-  {
-   "termino": "paramount",
-   "color": "verde",
-   "por_que": "La alianza Paramount–Warner Bros. podría cambiar el streaming.",
-   "idea": "Entretenimiento y tecnología: guías de qué ver en las fiestas y combos de suscripción."
+   "por_que": "Crece el interés por rutinas para llegar en forma a 2027.",
+   "idea": "Gimnasios, ropa deportiva y apps: retos de 30 días antes de Año Nuevo y regalos fitness."
   }
  ],
  "audiencias": {
@@ -865,46 +865,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday envíos",
-   "total": 278,
+   "busqueda": "envíos a Latinoamérica Navidad",
+   "total": 24,
    "anunciantes": [
     {
-     "nombre": "VELE",
-     "url": "https://www.facebook.com/ads/library/?id=1123365500616942"
+     "nombre": "Multi-Encomiendas Dallas",
+     "url": "https://www.facebook.com/ads/library/?id=1075792242165633"
     },
     {
-     "nombre": "Smile Motors Miami",
-     "url": "https://www.facebook.com/ads/library/?id=1894899431691137"
+     "nombre": "venetexpress",
+     "url": "https://www.facebook.com/ads/library/?id=2447636322311317"
+    },
+    {
+     "nombre": "Atiempocargo",
+     "url": "https://www.facebook.com/ads/library/?id=1811784293402716"
+    },
+    {
+     "nombre": "Unión Latina Florida",
+     "url": "https://www.facebook.com/ads/library/?id=4678290955742043"
+    },
+    {
+     "nombre": "Destino Cargo By Servientrega",
+     "url": "https://www.facebook.com/ads/library/?id=961826206655300"
+    }
+   ],
+   "patron": "Las empresas de encomiendas hablan en español a la comunidad latina con mensajes como 'anticipa tu envío navideño', 'agenda con anticipación' y 'envía tu caja hoy'. Pocos anunciantes y muchas variaciones del mismo aviso: hay espacio para destacar con fechas límite claras por país y seguimiento del envío."
+  },
+  {
+   "busqueda": "ofertas Black Friday",
+   "total": 2053,
+   "anunciantes": [
+    {
+     "nombre": "Mr Car Automotive Group",
+     "url": "https://www.facebook.com/ads/library/?id=1888762415650075"
+    },
+    {
+     "nombre": "Cajatesoro",
+     "url": "https://www.facebook.com/ads/library/?id=1900645218028503"
+    },
+    {
+     "nombre": "Aprende y Emprende Digital",
+     "url": "https://www.facebook.com/ads/library/?id=1569415048285426"
     },
     {
      "nombre": "Soccer jersery",
-     "url": "https://www.facebook.com/ads/library/?id=1455198392720035"
+     "url": "https://www.facebook.com/ads/library/?id=1793566958523935"
     },
     {
-     "nombre": "Harbor & Ash",
-     "url": "https://www.facebook.com/ads/library/?id=2142198243327793"
-    },
-    {
-     "nombre": "Cosmetics & More",
-     "url": "https://www.facebook.com/ads/library/?id=1142747608209855"
+     "nombre": "Huellia",
+     "url": "https://www.facebook.com/ads/library/?id=1792575938683952"
     }
    ],
-   "patron": "Mucho anuncio en español dirigido a la comunidad latina: concesionarios de Miami que invitan a cotizar por WhatsApp y a enviar motos a la familia en el Caribe, joyerías y cosmética con varias piezas a la vez, y mayoristas de camisetas de fútbol con 'Black Friday' y compra por volumen. El cierre por WhatsApp y el regalo a la familia en el país de origen se repiten."
-  },
-  {
-   "busqueda": "envíos a Colombia",
-   "total": 501,
-   "anunciantes": [
-    {
-     "nombre": "Sendex",
-     "url": "https://www.facebook.com/ads/library/?id=1438487205118078"
-    },
-    {
-     "nombre": "OGlobo Cargo",
-     "url": "https://www.facebook.com/ads/library/?id=1441054391429668"
-    }
-   ],
-   "patron": "Sendex corre muchas variantes al tiempo, todas con WhatsApp como llamado a la acción."
+   "patron": "En español dominan los mensajes de urgencia ('¡No te quedes fuera!', 'Últimas unidades'), el 'Black November' con descuentos de 30% en cursos y la venta al por mayor. También aparecen páginas genéricas que repiten 'ofertas de Black Friday' sin marca clara: conviene diferenciarse con marca visible y condiciones transparentes."
   }
  ],
  "ocultar": [
@@ -987,6 +999,24 @@
   "john mulaney",
   "rob lowe",
   "brittany renner",
-  "app state vs marshall"
+  "app state vs marshall",
+  "emily ratajkowski",
+  "bowen yang",
+  "100 pulled from water after tanker capsizes New Orleans riverboat",
+  "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+  "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says",
+  "ASEAN summit: Who’s attending and what’s at stake?",
+  "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+  "Elon Musk y los CEO que han firmado para que regrese Jensen Huang a Nvidia",
+  "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
+  "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
+  "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport",
+  "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
+  "Commentary: New York should take the 'high road' to higher wages",
+  "Why New York City’s grocery store plan is not just about food",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang"
  ]
 }

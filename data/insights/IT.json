@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Para el Black Friday se prevé un gasto de 4.300 millones de euros en Italia y tres de cada cuatro italianos adelantarán los regalos de Navidad, aunque con presupuestos a la baja por una inflación que se nota en el carrito del súper. 'Ballando con le Stelle' domina la conversación del sábado y crece la preocupación por la seguridad de los dispositivos inteligentes del hogar. La pérdida de una estrella Michelin de Cannavacciuolo y los mercados vintage de Milán muestran un público atento a la gastronomía y al consumo consciente. Ahorro real, regalos anticipados y seguridad digital conectan.",
+ "lectura": "El Black Friday italiano se proyecta en unos 4.300 millones de euros y tres de cada cuatro italianos adelantarán regalos de Navidad, aunque con presupuestos más ajustados y alertas de Codacons sobre contenidos falsos hechos con IA. La televisión manda: 'Ballando con le Stelle' y el 'Grande Fratello VIP' concentran la conversación, junto con la pérdida de una estrella Michelin de Cannavacciuolo. También crece el interés por proteger la casa conectada de ataques informáticos y por GTA VI. Ofertas verificables, regalos adelantados y entretenimiento son la clave.",
  "semaforo": [
+  {
+   "termino": "rai play ballando con le stelle",
+   "color": "verde",
+   "por_que": "El programa de baile de Rai es lo más buscado del fin de semana.",
+   "idea": "Moda, belleza y entretenimiento: contenidos de looks y planes para verlo."
+  },
   {
    "termino": "monica guerritore luca urso",
    "color": "verde",
-   "por_que": "'Ballando con le Stelle' y sus parejas lideran la conversación televisiva.",
-   "idea": "Moda, belleza y snacks: contenido para la noche del sábado frente a la tele."
+   "por_que": "La pareja del programa genera interés por sus ensayos.",
+   "idea": "Escuelas de baile y ropa deportiva pueden proponer retos de baile."
   },
   {
    "termino": "attacchi hacker",
    "color": "amarillo",
-   "por_que": "Preocupa la seguridad de los dispositivos inteligentes del hogar.",
-   "idea": "Tecnología y seguros: consejos útiles y productos de protección, sin meter miedo."
+   "por_que": "Preocupación por ataques informáticos a dispositivos del hogar.",
+   "idea": "Tecnología y seguridad: contenido educativo sin alarmismo."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Los jugadores se preparan para el lanzamiento de GTA 6.",
-   "idea": "Gaming y tecnología: almacenamiento, accesorios y packs de lanzamiento."
+   "por_que": "El lanzamiento de GTA VI genera consultas sobre cómo prepararse y cuánto espacio liberar.",
+   "idea": "Tecnología: almacenamiento, consolas y accesorios en pack."
   },
   {
-   "termino": "cannavacciuolo stella michelin",
+   "termino": "jimmy ghione",
    "color": "amarillo",
-   "por_que": "El chef perdió una estrella Michelin y reconoció errores.",
-   "idea": "Gastronomía: habla de calidad y mejora continua; evita burlarte del caso."
-  },
-  {
-   "termino": "meteo roma",
-   "color": "amarillo",
-   "por_que": "Alerta amarilla por lluvia en Roma este domingo.",
-   "idea": "Delivery, paraguas y planes bajo techo: mensajes oportunos."
+   "por_que": "El presentador habló del fin de su matrimonio; tema personal.",
+   "idea": "No lo uses en anuncios; mejor evitar."
   }
  ],
  "audiencias": {
@@ -1192,33 +1192,50 @@
   "Il mondo della finanza scrive a Meloni: “Un errore il raddoppio della Tobin tax”",
   "Così cambia la Manovra: sanità, scuola e imprese. La partita su Exit tax e pensioni",
   "ornella muti",
-  "bari - foggia"
+  "bari - foggia",
+  "caserma dei vigili del fuoco",
+  "merate",
+  "sardegna",
+  "crans-montana",
+  "Chi era Nicola Re, il vedovo gentile ucciso per aver smascherato la truffa del finto carabiniere",
+  "Parma, 20mila antifascisti contro il corteo per la remigrazione",
+  "Maltempo, allerta gialla in 12 regioni: frane nel Salernitano",
+  "Ladri in fuga col Suv travolgono l’auto di una famiglia, pauroso incidente: una delle due donne incinte a bordo partorisce d’urgenza in ospedale, gravi lei e il neonato",
+  "Da Helsinki alle bozze di trattato di Mosca del 2021",
+  "Masha e Orso bloccato su YouTube in Ucraina",
+  "Usa, collisione tra aerei in aeroporto Miami: due feriti lievi",
+  "Consiglio comunale. Il programma dei lavori",
+  "A Roma al via \"Corri Libera\", uniti contro la violenza sulle donne",
+  "Il centrodestra su Roma: Angelili contro Gualtieri. Verso l'annuncio ad Atreju",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia"
  ],
  "ideas_hoy": [
   {
    "titulo": "Regalo anticipado",
-   "idea": "Tres de cada cuatro italianos adelantarán regalos con el Black Friday. Publica una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) con envío antes de Navidad.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Casa inteligente y segura",
-   "idea": "Se busca cómo proteger aspiradoras robot, smart TV y routers de intrusiones. Tiendas de tecnología y aseguradoras: carrusel con 5 pasos simples de seguridad.",
+   "idea": "Tres de cada cuatro italianos adelantarán regalos de Navidad en Black Friday. Lanza una guía de regalos por presupuesto con entrega garantizada antes de la Inmaculada (8 de diciembre).",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Descuento verdadero",
-   "idea": "Codacons alerta sobre contenidos falsos hechos con IA en Black Friday. Usa un copy con precio de referencia y la garantía de 'sconto vero, verificabile'.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Vintage que gusta",
-   "idea": "El Remira Market de Milán conquista con moda vintage de entrada gratuita. Tiendas de segunda mano: haul de prendas para las fiestas con precios.",
+   "titulo": "Sábado de Ballando",
+   "idea": "El programa de baile lidera las búsquedas. Moda, belleza o snacks: comenta el look de la noche y relaciónalo con tu producto.",
    "formato": "TikTok"
   },
   {
-   "titulo": "La cocina por dentro",
-   "idea": "La estrella Michelin perdida por Cannavacciuolo abrió el debate gastronómico. Restaurantes: muestra tu cocina y tu plato estrella, y abre reservas para las fiestas.",
-   "formato": "Publicación Instagram"
+   "titulo": "Casa conectada segura",
+   "idea": "Crece la búsqueda sobre cómo proteger robots aspiradores, televisores y cámaras de ataques informáticos. Tiendas de tecnología pueden compartir cinco consejos y ofrecer instalación segura.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Descuento verdadero",
+   "idea": "Codacons alerta sobre contenidos falsos hechos con IA. Muestra fotos reales del producto y el precio anterior verificable en tu oferta.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Cocina con estrella",
+   "idea": "La pérdida de una estrella Michelin de un chef famoso es tema. Restaurantes pueden mostrar su cocina 'sin estrellas pero con alma' con humor y respeto.",
+   "formato": "Instagram"
   }
  ]
 }

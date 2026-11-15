@@ -1,33 +1,33 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A 12 días del Black Friday (27 de noviembre) y con el Cyber Monday el 30, el consumidor ecuatoriano compara precios y desconfía de las promociones engañosas. La venta de camionetas crece y los modelos ensamblados en Ecuador ganan conversación, mientras las tormentas en Guayaquil y la Costa alteran rutinas y entregas. En redes manda el video vertical y retos simples como el 'bicep heart' de TikTok. Precio final claro, entregas honestas y un guiño local son la fórmula de la semana.",
+ "lectura": "A 12 días del Black Friday (27 de noviembre) y con el Cyber Monday el 30, el ecuatoriano compara precios y desconfía de las ofertas engañosas, como muestran las guías para revisar si un descuento es real. La venta de camionetas crece y los modelos ensamblados en Ecuador ganan conversación, mientras las lluvias y cortes de luz en Guayaquil, Daule y Samborondón alteran rutinas y entregas. En Quito, la Bienal Panamericana de Arquitectura suma agenda cultural. Precio final claro, entregas honestas y un guiño local siguen siendo la fórmula.",
  "ideas_hoy": [
   {
-   "titulo": "Cuenta regresiva al 27",
-   "idea": "La gente busca cuándo cae el Black Friday y el Cyber Monday. Publica una cuenta regresiva de 12 días con un producto estrella por día y avisa que quienes escriban por WhatsApp recibirán el precio primero.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Corazón con el brazo",
-   "idea": "El 'bicep heart' (hacer un corazón con el brazo) es tendencia en TikTok. Graba a tu equipo o a clientes haciéndolo junto a tu producto con el texto 'lo que le pusimos de corazón a este Black Friday'.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Camioneta lista para el viaje",
-   "idea": "Las ventas de camionetas crecen 33%. Si vendes accesorios, seguros, lavado o kits de viaje, arma un carrusel con '5 cosas que tu camioneta necesita antes de los viajes de fin de año'.",
+   "titulo": "¿Descuento real o cuento?",
+   "idea": "Circulan guías para comprobar si un descuento es verdadero. Muestra el historial de precio de tu producto estrella y explica cómo calculaste la oferta del Black Friday: la transparencia te diferencia.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Entregas con lluvia",
-   "idea": "Hay alertas de tormenta en Guayaquil, Daule y Samborondón. Publica tus horarios de entrega por zona y ofrece retiro en punto: avisar a tiempo evita reclamos y suma confianza.",
-   "formato": "Historia de Instagram"
+   "titulo": "Lluvia en la Costa",
+   "idea": "Las lluvias en Guayaquil, Daule y Samborondón causaron calles anegadas y cortes de luz. Avisa con tiempo posibles demoras en entregas y ofrece retiro en punto o cambio de horario sin costo.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Precio final, de ley",
-   "idea": "En la región crecen las quejas por ofertas incumplidas. Usa un copy directo: 'Precio final con todo incluido, sin letra pequeña. De ley.' y muestra el precio en dólares en la primera línea.",
-   "formato": "Copy para anuncio"
+   "titulo": "Hecho en Ecuador sobre ruedas",
+   "idea": "Crece la venta de camionetas y los modelos ensamblados en el país ganan espacio. Si vendes accesorios o servicios automotrices, publica un 'kit para tu camioneta nueva' con instalación incluida.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Lista de regalos a 40 días",
+   "idea": "Faltan unas seis semanas para Navidad. Publica una lista de regalos por presupuesto ($10, $25, $50) y pide a tus seguidores que comenten para quién buscan: generas conversación y datos para tu oferta.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Respaldo sin pánico",
+   "idea": "El rumor del apagón mundial del 17 de noviembre sigue en búsquedas aunque fue desmentido. Marcas de tecnología pueden compartir tres pasos para respaldar fotos y cargar dispositivos, aclarando que es un rumor.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
@@ -40,26 +40,26 @@
   {
    "termino": "vuelos cancelados estados unidos",
    "color": "amarillo",
-   "por_que": "La paralización temporal del tráfico aéreo en EE. UU. afectó conexiones con Latinoamérica; los vuelos ya se reanudan.",
-   "idea": "Si traes productos de EE. UU., explica con calma que los plazos pueden variar y pide anticipar los pedidos navideños."
+   "por_que": "La paralización temporal del tráfico aéreo en EE. UU. por una falla técnica afectó conexiones; los vuelos ya se reanudan.",
+   "idea": "Agencias y servicios de envío pueden informar tiempos reales y alternativas con calma."
+  },
+  {
+   "termino": "supuesto apagon mundial",
+   "color": "amarillo",
+   "por_que": "Rumor viral sin pruebas sobre un apagón global; los verificadores lo desmienten.",
+   "idea": "Contenido útil de prevención (baterías, respaldo de datos) aclarando que es falso; no uses el miedo como gancho."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Las ventas de camionetas crecen 33% y los modelos hechos en Ecuador compiten con los importados.",
-   "idea": "Concesionarios, accesorios, seguros y financiamiento: comparativas y ofertas de fin de año."
+   "por_que": "La venta de camionetas crece 33% y entran nuevos modelos ensamblados en Ecuador.",
+   "idea": "Concesionarios, aseguradoras y accesorios: comparativas, financiamiento y contenido de orgullo local."
   },
   {
-   "termino": "tormenta eléctrica",
-   "color": "amarillo",
-   "por_que": "Las tormentas eléctricas preocupan y afectan rutinas en la Costa.",
-   "idea": "Comunica con empatía; marcas de hogar pueden ofrecer protectores de voltaje o consejos de prevención."
-  },
-  {
-   "termino": "apagón mundial 17 de noviembre",
-   "color": "amarillo",
-   "por_que": "Circula un rumor de apagón mundial que los medios desmienten.",
-   "idea": "No alimentes el rumor; si vendes tecnología o energía, aclara con datos y ofrece soluciones reales de respaldo."
+   "termino": "deuda",
+   "color": "verde",
+   "por_que": "Interés en mercados y finanzas por noticias sobre la bolsa de EE. UU.",
+   "idea": "Fintech y bancos pueden educar sobre ahorro y deudas antes de las compras de fin de año."
   }
  ],
  "audiencias": {
@@ -1058,6 +1058,11 @@
   "Ecuador - Bolivia | Pronóstico y cuotas 17.11.2026",
   "ufc en vivo",
   "ufc",
-  "kayla harrison"
+  "kayla harrison",
+  "estafa",
+  "El fusil FAL de FN Herstal sigue en servicio en Ecuador tras más de 50 años",
+  "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
+  "Así es la vida de Sandra Quito, una cuencana que huyó de Ecuador por las extorsiones y ahora vende espumilla en Nueva York",
+  "Concluye la búsqueda de dos personas en canal de Guayaquil"
  ]
 }

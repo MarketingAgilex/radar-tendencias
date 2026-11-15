@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El bólido que iluminó el cielo del centro-sur se volvió el tema viral del fin de semana, junto con los avisos de tormentas eléctricas en seis regiones y el vaivén entre calor y lluvia. Los chilenos llenaron la Noche de Museos y la Feria del Libro, y los conciertos se agotan (Kidd Voodoo en el Monumental, Creamfields). De cara al Black Friday buscan fechas, verifican si los descuentos son reales y aprovechan beneficios como la gift card de BancoEstado. Experiencias, cultura y descuentos comprobables son la llave.",
+ "lectura": "Los chilenos llenaron museos en una Noche de Museos récord y hablan de un bólido que iluminó el cielo desde la Región Metropolitana hasta Los Ríos, mientras el centro-sur se prepara para hasta 100 mm de lluvia. En consumo, el Black Friday ya instala la pregunta de cuándo es y cómo comprobar si los descuentos son reales, BancoEstado promueve una gift card de noviembre y una consola de Xbox se agotó en su lanzamiento. Experiencias culturales, ofertas verificables y contenido útil para la lluvia del sur son la jugada de hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Pide un deseo al bólido",
-   "idea": "El bólido que cruzó el cielo es lo más comentado. Súmate con humor: 'Si viste el bólido, pide tu deseo de Navidad' y muestra tu lista de regalos con precios en pesos.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Descuento real, sin trampa",
-   "idea": "Los chilenos buscan cómo revisar si los descuentos del Black Friday son reales. Muestra el precio de las últimas semanas junto al precio de oferta: transparencia que vende.",
+   "titulo": "Cultura que vende",
+   "idea": "La Noche de Museos rompió récords de asistencia. Si tienes una marca de diseño, libros o café, propone un 'panorama cultural del fin de semana' con tu producto como parte del plan.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Despacho con tormenta",
-   "idea": "Hay aviso de tormentas eléctricas y granizo en seis regiones. Informa a tiempo tus plazos de despacho y ofrece retiro en tienda para evitar reclamos.",
-   "formato": "Historia de Instagram"
+   "titulo": "¿Viste el bólido?",
+   "idea": "El bólido que cruzó el cielo es tema en todo el país. Pide a tus seguidores que comenten desde dónde lo vieron y conecta con tu marca con humor suave ('Así de rápido llega tu pedido').",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Regala un libro",
-   "idea": "La Feria del Libro en Estación Mapocho y la Noche de Museos rompieron récords. Librerías, editoriales y cafés: arma una promo 'libro + café' o recomienda regalos de lectura.",
-   "formato": "Publicación Instagram"
+   "titulo": "Lluvia en el sur",
+   "idea": "Se esperan hasta 100 mm en Biobío, La Araucanía y Los Ríos. Ropa impermeable, calzado y delivery pueden publicar 'qué necesitas esta semana' y avisar posibles demoras de despacho.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Despacho gratis y pagas al recibir",
-   "idea": "En Meta, tiendas chilenas pautan 'Despacho gratis · Pagas al recibir' y combos navideños con el precio en el título. Prueba esa estructura: precio en CLP en la primera línea y una garantía de entrega.",
+   "titulo": "Black Friday sin letra chica",
+   "idea": "Las búsquedas sobre cómo revisar si un descuento es real crecen. Publica tu precio de hoy, el precio del Black Friday y las condiciones de despacho en una sola imagen.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Lo que se agotó",
+   "idea": "Una consola se agotó en su lanzamiento. Si tienes stock limitado de un producto deseado, comunica unidades disponibles en tiempo real en historias para activar la urgencia sin inventar escasez.",
+   "formato": "Historia Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió viral.",
-   "idea": "Contenido creativo y astronomía: 'pide un deseo' para campañas de Navidad, telescopios o turismo de cielos."
+   "por_que": "Un bólido fue observado en gran parte del país y se viralizaron los videos.",
+   "idea": "Marcas pueden sumarse con humor ligero y preguntas a la comunidad; astronomía y turismo pueden promover experiencias de cielo nocturno."
   },
   {
-   "termino": "pronóstico del tiempo",
+   "termino": "tiempo",
    "color": "amarillo",
-   "por_que": "Fin de semana con bajas temperaturas y posibles lluvias tras días de calor.",
-   "idea": "Ropa, hogar y delivery: mensajes útiles según el clima, sin dramatizar."
+   "por_que": "Se anuncian hasta 100 mm de lluvia en el centro-sur del país.",
+   "idea": "Ropa de lluvia y servicios a domicilio con avisos útiles; evita humor si hay afectados."
   },
   {
    "termino": "banco estado",
    "color": "verde",
-   "por_que": "BancoEstado ofrece una gift card de $100 mil en noviembre y muchos buscan cómo obtenerla.",
-   "idea": "Comercios: recuerda qué medios de pago aceptas y suma beneficios propios, sin prometer el premio del banco."
+   "por_que": "Interés por una gift card de $100 mil que ofrece el banco en noviembre.",
+   "idea": "Comercios pueden explicar si aceptan tarjetas del banco y crear ofertas complementarias."
   },
   {
-   "termino": "inessa sorokina",
-   "color": "amarillo",
-   "por_que": "Tema de farándula por su paso por un programa de televisión.",
-   "idea": "Úsalo solo en contenido de entretenimiento ligero; evita opinar sobre su vida privada."
+   "termino": "twitch",
+   "color": "verde",
+   "por_que": "Conversación gamer por sorteos y el lanzamiento de GTA VI.",
+   "idea": "Tecnología y snacks: contenidos de 'noche gamer' y accesorios."
   },
   {
    "termino": "supuesto apagon mundial",
    "color": "amarillo",
-   "por_que": "Circula un rumor de apagón mundial el 17 de noviembre que los medios desmienten.",
-   "idea": "No lo alimentes; tecnología y energía pueden aclarar con datos y ofrecer respaldos reales."
+   "por_que": "Rumor viral sin fundamento sobre un apagón global el 17 de noviembre.",
+   "idea": "Contenido de prevención práctico aclarando que es falso; no uses el miedo para vender."
   }
  ],
  "ocultar": [
@@ -117,7 +117,15 @@
   "[Telón de fondo] La pregunta que deja la huelga de los camioneros. Por Cristián Bofill",
   "Encuentran un cuerpo en el Zanjón de la Aguada en medio de la búsqueda de Benjamín Galdámez",
   "nvidia jensen huang",
-  "Desmantelan una red de ciberestafas bancarias en TikTok"
+  "Desmantelan una red de ciberestafas bancarias en TikTok",
+  "nvidia jensen huang renuncia",
+  "colette kress nvidia",
+  "ceo nvidia jensen huang",
+  "Test a Alvarado, el giro de Quiroz y un “fantasma” inconfesado: Así se vivió la primera movilización contra Kast",
+  "\"Si están matando a alguien, no podemos hacer nada\": el drama de los trabajadores del \"Sename 2.0\"",
+  "Elon Musk, accionistas y empleados de Nvidia impulsan petición para restituir a Jensen Huang",
+  "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
+  "León XIV aborda la discriminación de afrodescendientes y recuerda el sufrimiento de esclavos en Perú"
  ],
  "audiencias": {
   "general": {

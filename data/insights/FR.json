@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los franceses combinan sofá y compras: la Star Academy y 'N'oubliez pas les paroles' lideran las búsquedas, mientras el pre-Black Friday mueve muebles y descanso (Maisons du Monde, Emma), relojes deportivos y móviles, con interés creciente por lo reacondicionado. Una de cada diez gasolineras reporta falta de stock y el sur sigue en vigilancia por lluvias, lo que suma cautela. GTA VI y la Switch 2 anticipan un fin de año gamer. Ganan las ofertas útiles para el hogar, el reacondicionado con garantía y el contenido de entretenimiento.",
+ "lectura": "Los franceses combinan sofá y compras: la Star Academy y 'N'oubliez pas les paroles' lideran las búsquedas, mientras el Black Friday ya se vive como 'déstockage' con tecnología reacondicionada, smartphones, altavoces y la gran rebaja de Boulanger. Crece la preocupación por cómo gestionar el presupuesto de fin de año, y la llegada de GTA VI se presenta como motor de consumo gamer. La Dordoña celebra una temporada de setas extendida y se anuncia la apertura al público de La Madrague en Saint-Tropez. Ofertas claras, reacondicionado y planes en casa funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Noche de Star Academy",
-   "idea": "La Star Academy arrasa en las búsquedas del sábado. Snacks, belleza o moda: graba tu reacción al prime con tu producto en escena.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Reacondicionado inteligente",
-   "idea": "Crecen las guías para comprar un smartphone reacondicionado al buen precio. Explica tu garantía, el estado de la batería y la devolución: es lo que frena la compra.",
+   "titulo": "Reacondicionado con orgullo",
+   "idea": "Los smartphones y portátiles reacondicionados están entre las ofertas más comentadas. Explica tu garantía y el ahorro frente al nuevo con una comparación simple.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Salón listo para Navidad",
-   "idea": "Las ofertas de Maisons du Monde se agotan. Decoración y hogar: muestra un antes y después del salón para las fiestas con precios visibles.",
+   "titulo": "Noche de Star Academy",
+   "idea": "La Star Academy arrasa en búsquedas. Snacks, belleza o moda: graba tu reacción al prime con tu producto en escena.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Presupuesto de fin de año",
+   "idea": "Se habla de no confundir amor y generosidad con capacidad financiera. Publica regalos con sentido por presupuesto y una opción 'hecho a mano' o experiencia.",
    "formato": "Reel"
   },
   {
-   "titulo": "Obras que inspiran",
-   "idea": "Una pareja que compró una casona vive hoy de contar su reforma. Bricolaje y construcción: lanza una serie semanal de obra real con tus productos.",
-   "formato": "YouTube"
+   "titulo": "Prepara tu consola",
+   "idea": "GTA VI va a impulsar la compra de pantallas y mandos. Las tiendas de tecnología pueden lanzar un pack de lanzamiento con almacenamiento y accesorios.",
+   "formato": "Instagram"
   },
   {
-   "titulo": "Temporada de setas",
-   "idea": "La temporada de cèpes se alarga en Dordoña. Gastronomía y tiendas gourmet: recetas de otoño y cajas regalo para Navidad.",
-   "formato": "Publicación Instagram"
+   "titulo": "Sabores de temporada",
+   "idea": "La temporada de setas se alarga en la Dordoña. Restaurantes y tiendas gourmet pueden destacar productos de otoño con recetas cortas.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa musical lidera la conversación del fin de semana.",
-   "idea": "Entretenimiento, belleza y snacks: contenido de reacción y planes de sábado."
-  },
-  {
-   "termino": "maison",
-   "color": "verde",
-   "por_que": "Interesa la historia de una pareja que compró y reformó una gran casa a bajo precio.",
-   "idea": "Inmobiliarias, reformas y deco: contenido inspirador de proyectos reales."
+   "por_que": "El programa musical lidera las búsquedas del fin de semana.",
+   "idea": "Marcas para público joven: contenido de reacción, retos musicales y looks del prime."
   },
   {
    "termino": "hugues aufray",
    "color": "amarillo",
-   "por_que": "El cantante de 97 años aplazó varios conciertos y habló sobre los rumores.",
-   "idea": "Evita especular sobre su salud; solo contenido musical respetuoso."
+   "por_que": "El cantante de 97 años aclaró rumores tras aplazar conciertos.",
+   "idea": "Mejor no usar su caso en anuncios; puede tratarse en contenido cultural con respeto."
   },
   {
-   "termino": "brigitte bardot",
+   "termino": "programme télé ce soir",
    "color": "verde",
-   "por_que": "La casa de Brigitte Bardot en Saint-Tropez abrirá al público el próximo verano.",
-   "idea": "Turismo y estilo de vida: contenido de la Riviera y escapadas, sin usar su imagen en anuncios."
+   "por_que": "Los franceses buscan qué ver esta noche en la televisión.",
+   "idea": "Delivery, snacks y bebidas: propuestas para 'noche de tele'."
   },
   {
-   "termino": "il faut brûler maman",
+   "termino": "n oubliez pas les paroles les masters",
    "color": "verde",
-   "por_que": "La película recibe muy buenas críticas del público.",
-   "idea": "Cine y ocio: planes de estreno y recomendaciones de fin de semana."
+   "por_que": "La final de los Masters del concurso de canciones genera mucha conversación.",
+   "idea": "Karaoke, música y entretenimiento: retos de 'termina la letra' con tu marca."
+  },
+  {
+   "termino": "déstockage",
+   "color": "verde",
+   "por_que": "Las liquidaciones de Black Friday en tecnología dominan las búsquedas de compras.",
+   "idea": "Retail: publicar ofertas con precio anterior verificable y stock disponible."
   }
  ],
  "audiencias": {
@@ -1240,6 +1240,25 @@
   "Zelensky dit que Washington a proposé des concessions territoriales en échange d'une adhésion à l'Otan",
   "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
   "Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes concernées… Ce que l’on sait",
-  "ciryl gane hokit"
+  "ciryl gane hokit",
+  "mortier artifice",
+  "montbrial",
+  "piéton",
+  "herault",
+  "inondations herault",
+  "emmanuel macron au cambodge",
+  "Intempéries dans l'Hérault : la septuagénaire recherchée a été retrouvée saine et sauve",
+  "\"Elle joue contre la France\": l'entourage d'Emmanuel Macron estime que \"si Marine Le Pen décide de tout couper à l’Ukraine, elle nous isolera en Europe\"",
+  "« Un ras-le-bol général » : à Lyon, une mobilisation aux multiples visages émaillée de violences",
+  "Sur les traces de « ChatNoir » et « Casquette », le duo d’adolescents soupçonnés d’avoir piraté le site des impôts",
+  "Colère sociale : une centaine de personnes placées en garde à vue à Paris, dont 38 mineurs",
+  "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+  "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
+  "68 ans dès 2030 et jusqu'à 72 ans à terme: la Grèce se prépare à un nouveau recul spectaculaire (et automatique) de l'âge de départ à la retraite",
+  "Ghana : La NIA arrête une togolaise qui s'est vantée au sujet de l'obtention d'une carte d'identité",
+  "Manifestation du 14 novembre : à Paris, 108 personnes placées en garde à vue, dont 38 mineurs",
+  "Manifestation de samedi : à Paris une centaine de gardes à vue, dont 38 mineurs",
+  "Manifestation du 14 novembre à Paris : 108 gardes à vue, dont 38 mineurs, en marge du cortège contre la vie chère",
+  "Manifestation à Paris : après l’acte V, une centaine de gardes à vue, dont 38 mineurs"
  ]
 }

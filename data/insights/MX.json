@@ -1,33 +1,33 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Último tramo del Buen Fin, que coincide con el puente del lunes 16 por el Día de la Revolución y con la quincena: tiendas llenas en Monterrey, CDMX y Guadalajara, y restaurantes que esperan hasta 30% más ventas. El consumidor compra más informado, compara precios y Profeco ya atiende quejas por ofertas incumplidas. Conciertos (Karol G con Belinda, Garbage en el Zócalo) y realities como La Granja VIP marcan la conversación. Gana quien cumple lo que promete y entrega rápido antes del cierre.",
+ "lectura": "Último día largo del Buen Fin: el lunes 16 es feriado por el Día de la Revolución y las tiendas de CDMX, Monterrey y Guadalajara siguen llenas, con pantallas y tenis como lo más buscado. El consumidor compara precios y Profeco ya reporta quejas por ofertas incumplidas, así que la confianza vale tanto como el descuento. Conciertos como el de Karol G con Belinda, el Buen Fin en Ticketmaster y el frente frío número 5 marcan la conversación. Tras el cierre, el foco pasa a Navidad y al Black Friday del 27.",
  "ideas_hoy": [
   {
-   "titulo": "Última llamada Buen Fin",
-   "idea": "El Buen Fin cierra con el puente. Haz una cuenta regresiva hasta el lunes a medianoche mostrando el precio anterior real y el de hoy: Profeco monitorea y el cliente compara.",
+   "titulo": "Cuenta regresiva al cierre",
+   "idea": "El Buen Fin termina con el puente. Publica un contador hasta el lunes a medianoche mostrando precio anterior real y precio de hoy: Profeco vigila y el cliente compara, así que la transparencia vende.",
    "formato": "Reel"
   },
   {
-   "titulo": "Puente más quincena",
-   "idea": "Los restaurantes prevén hasta 30% más ventas por Buen Fin, puente y quincena. Lanza un combo 'de puente' o un beneficio por reservar hoy; otros negocios pueden usar 'cayó la quincena, aprovecha'.",
+   "titulo": "Pantallas y tenis",
+   "idea": "Son los artículos más buscados del Buen Fin. Si vendes accesorios (soportes, limpiadores, plantillas, calcetas), arma combos 'complementa tu compra' y promuévelos como venta cruzada.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "El precio que sí respetamos",
-   "idea": "Hay quejas por precios no respetados en grandes tiendas. Muestra que el precio en caja es el anunciado y explica tu garantía: la confianza es tu ventaja frente a los grandes.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Entrega antes de Navidad",
+   "idea": "Quien compró en el Buen Fin quiere recibir a tiempo para las fiestas. Comunica fechas de entrega garantizadas y el último día para pedir con envío estándar: reduce dudas y mensajes al chat.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Outfit de concierto",
-   "idea": "Karol G sorprendió con Belinda en CDMX y Garbage reunió a 90 mil en el Zócalo. Moda y maquillaje: haz un 'arréglate conmigo para el concierto' con tus productos.",
+   "titulo": "Look para el frío",
+   "idea": "El frente frío 5 trae granizo y bajas temperaturas en el centro del país. Muestra tres outfits o productos para el frío con precio Buen Fin y una frase con humor ligero tipo '¿Ya sacaste la chamarra?'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Kit contra el frío",
-   "idea": "El frente frío 5 y el granizo llegaron a Puebla. Promociona chamarras, cobijas o bebidas calientes como 'kit anti frío' con entrega durante el puente.",
-   "formato": "Publicación Facebook"
+   "titulo": "Plan de concierto",
+   "idea": "Los conciertos y las promociones en Ticketmaster están en conversación. Marcas de moda, belleza o comida pueden lanzar 'kit de concierto' (maquillaje que aguanta, bolsa transparente, snack) con entrega rápida.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
@@ -35,31 +35,31 @@
    "termino": "inapam",
    "color": "amarillo",
    "por_que": "Muchas personas mayores buscan información del próximo pago del programa; es un tema sensible de ingresos.",
-   "idea": "No prometas pagos ni uses el programa como gancho; marcas para adultos mayores pueden ofrecer descuentos con credencial de forma clara."
+   "idea": "No prometas pagos ni uses el programa como gancho; marcas para adultos mayores pueden ofrecer descuentos claros con credencial."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "Ticketmaster se sumó al Buen Fin con descuentos en conciertos y festivales.",
-   "idea": "Bares, transporte y moda: 'arma tu plan de concierto' con promos complementarias."
+   "por_que": "La boletera se sumó al Buen Fin con descuentos en conciertos y espectáculos.",
+   "idea": "Restaurantes, transporte y moda pueden crear paquetes 'antes del concierto' y regalar experiencias en Navidad."
   },
   {
    "termino": "mexico va",
    "color": "amarillo",
-   "por_que": "Circula la duda de un apagón el 17 de noviembre; los medios aclaran qué se sabe.",
-   "idea": "No alimentes el rumor; tecnología y energía pueden ofrecer respaldo real con datos."
+   "por_que": "La búsqueda está ligada a dudas sobre un supuesto apagón en EE. UU. el 17 de noviembre; los medios lo desmienten.",
+   "idea": "Tecnología y energía: contenido práctico sobre respaldo de datos y baterías, aclarando que es un rumor."
   },
   {
    "termino": "granizo",
    "color": "amarillo",
-   "por_que": "El frente frío 5 trae granizo y bajas temperaturas a Puebla y el centro.",
-   "idea": "Ropa de abrigo, seguros de auto y hogar: consejos útiles y ofertas, con empatía."
+   "por_que": "El frente frío 5 deja granizo y bajas temperaturas en Puebla y el centro del país.",
+   "idea": "Ropa de abrigo, cobijas y bebidas calientes; evita minimizar daños si hubo afectaciones."
   },
   {
-   "termino": "karol g",
+   "termino": "liam neeson",
    "color": "verde",
-   "por_que": "Karol G brilla en los Latin Grammy y en su concierto en CDMX.",
-   "idea": "Moda, belleza y música: contenido inspirado en sus looks, sin usar su imagen en anuncios."
+   "por_que": "Una película de acción del actor se volvió éxito en Prime Video pese a la crítica.",
+   "idea": "Plataformas, botanas y delivery pueden proponer 'maratón de fin de semana' con combos para ver en casa."
   }
  ],
  "audiencias": {
@@ -900,58 +900,54 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Buen Fin",
-   "total": 190203,
+   "busqueda": "Buen Fin envío gratis",
+   "total": 22856,
    "anunciantes": [
-    {
-     "nombre": "OYSHO",
-     "url": "https://www.facebook.com/ads/library/?id=4751018035117401"
-    },
-    {
-     "nombre": "ALL Accor",
-     "url": "https://www.facebook.com/ads/library/?id=2152865178931290"
-    },
-    {
-     "nombre": "La Colada MX",
-     "url": "https://www.facebook.com/ads/library/?id=892144967255767"
-    },
     {
      "nombre": "Acacia Muebles",
-     "url": "https://www.facebook.com/ads/library/?id=1184746590649387"
+     "url": "https://www.facebook.com/ads/library/?id=1447446447541216"
     },
     {
-     "nombre": "Yamel Depilación con Hilo",
-     "url": "https://www.facebook.com/ads/library/?id=1149532537524609"
+     "nombre": "Herra Shop",
+     "url": "https://www.facebook.com/ads/library/?id=1857109035720935"
+    },
+    {
+     "nombre": "Bulbarella Gioielli Oficial",
+     "url": "https://www.facebook.com/ads/library/?id=1670362201291940"
+    },
+    {
+     "nombre": "E-Patín Yaakun",
+     "url": "https://www.facebook.com/ads/library/?id=2021444198553937"
+    },
+    {
+     "nombre": "Daymix",
+     "url": "https://www.facebook.com/ads/library/?id=1688553796267995"
     }
    ],
-   "patron": "El Buen Fin lo pautan desde marcas globales hasta negocios de barrio. Se repiten tres fórmulas: el 2x1 o 'una noche gratis' en hoteles, el descuento en monto fijo grande ('hasta $50,000') en bienes durables y el 50% en servicios de belleza. Los muebles y los viajes compiten fuerte por el gasto de fin de año."
+   "patron": "En el cierre del Buen Fin predominan los porcentajes grandes con envío gratis en el titular, el 3x2, el regalo con la compra y el pago a plazos con 'compra segura'. Muebles, joyería y movilidad eléctrica pautan varias versiones del mismo anuncio para probar creatividades, y aparecen avisos de 'casi agotado' para activar urgencia."
   },
   {
-   "busqueda": "envíos a Estados Unidos",
-   "total": 1597,
+   "busqueda": "regalos de Navidad",
+   "total": 5227,
    "anunciantes": [
     {
-     "nombre": "NOPAL PACK Envíos a todo Estados Unidos",
-     "url": "https://www.facebook.com/ads/library/?id=1829762548053563"
+     "nombre": "Pausa & Propósito",
+     "url": "https://www.facebook.com/ads/library/?id=2891513507917955"
     },
     {
-     "nombre": "MR POBOX Xpress",
-     "url": "https://www.facebook.com/ads/library/?id=1012378117836876"
+     "nombre": "Isabela Costurera",
+     "url": "https://www.facebook.com/ads/library/?id=1522890406329805"
     },
     {
-     "nombre": "Guibershop",
-     "url": "https://www.facebook.com/ads/library/?id=2017877478887373"
+     "nombre": "Profesora Alejandra",
+     "url": "https://www.facebook.com/ads/library/?id=1682112863284568"
     },
     {
-     "nombre": "Ventifemme Mayoreo",
-     "url": "https://www.facebook.com/ads/library/?id=29207840692190189"
-    },
-    {
-     "nombre": "Vitaminas y Suplementos Americanos Mty",
-     "url": "https://www.facebook.com/ads/library/?id=1815255259782739"
+     "nombre": "Recursos creativos",
+     "url": "https://www.facebook.com/ads/library/?id=1161578802927041"
     }
    ],
-   "patron": "Conviven couriers y casilleros que invitan a 'escribir por chat' con tiendas de ropa americana, suplementos y regalos que venden lo 'traído de EE. UU.'. El tono es directo y el llamado a la acción casi siempre es WhatsApp o Messenger, con 'cotiza tus regalos' como gancho de temporada."
+   "patron": "Los anuncios navideños aún son de productos digitales y hechos a mano: recetarios, plantillas descargables, cuadernos para 2027 y muñecas tejidas, casi siempre con botón a WhatsApp o descarga inmediata. Es una buena ventana para marcas físicas que lleguen antes que la competencia con guías de regalo."
   }
  ],
  "ocultar": [
@@ -1030,6 +1026,13 @@
   "Ensenada activa operativo de emergencia por fuertes lluvias; rescatan a hombre atrapado en Valle Dorado",
   "En Portugal, miles protestan contra el encarecimiento de la vida; se movilizan en más de 30 ciudades",
   "Anuncian salida de 2 Secretarios de Monterrey",
-  "colette kress nvidia"
+  "colette kress nvidia",
+  "nvidia jensen huang",
+  "nvidia jensen huang renuncia",
+  "ceo nvidia jensen huang",
+  "Detienen a 'El Mike', presunto operador del CJNG vinculado al caso Carlos Manzo",
+  "Marchas en CDMX Hoy Domingo 15 de Noviembre de 2026: Calles con Posibles Bloqueos",
+  "Ahora sí, viene la discusión del presupuesto en CDMX",
+  "En CDMX, 15 colonias de 6 alcaldías concentran denuncias por maltrato animal"
  ]
 }

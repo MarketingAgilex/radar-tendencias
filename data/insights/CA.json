@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-15T09:05:21Z",
+ "actualizado": "2026-11-15T13:07:52Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los canadienses entran en modo invierno (primeras nevadas en Ontario, alertas de tormenta en Quebec) y en modo compras: ya circulan ofertas anticipadas de Black Friday y mercados navideños de artesanos, junto con advertencias sobre estafas. El costo de vida sigue presente (el salario mínimo no alcanza el ritmo de los precios), así que el valor y la confianza pesan. En entretenimiento suenan los CMA con Taylor Swift, la película 'Heartland' y GTA VI, y Twitch estrenó anuncios comprables en Canadá. Mensajes bilingües, ofertas verificables y regalos locales funcionan.",
+ "lectura": "Canadá entra en modo Black Friday con ofertas anticipadas de Walmart, Target y Amazon, pero también con alertas sobre estafas y 'falsas gangas', así que el consumidor quiere pruebas. Ferias de artesanos y mercados navideños mueven el comercio local, y Twitch acaba de lanzar anuncios comprables en Canadá. El invierno se adelanta con avisos de viento y lluvia en Columbia Británica y tormentas en el Oeste, mientras el lanzamiento de GTA VI acapara a los gamers. Promociones verificables, compra local y contenido útil para el frío son la apuesta.",
  "ideas_hoy": [
   {
-   "titulo": "Anuncios comprables en Twitch",
-   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas de gaming y tecnología pueden probar alianzas con streamers locales antes del Black Friday y medir ventas directas.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Oferta o estafa",
-   "idea": "Los medios explican cómo distinguir estafas de ofertas reales. Publica un checklist de tu tienda: dominio oficial, pago seguro y devoluciones claras.",
+   "titulo": "Deal or scam?",
+   "idea": "Los medios explican cómo distinguir ofertas reales de estafas en Black Friday. Publica un carrusel bilingüe con tus señales de confianza: sitio oficial, precio anterior, devoluciones y atención real.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Mercado de artesanos",
-   "idea": "Los mercados navideños de artesanos atraen compradores en Columbia Británica. Si produces local, muestra dónde estarás y ofrece envío para quien no pueda ir.",
+   "titulo": "Shop local this weekend",
+   "idea": "Los mercados de artesanos y ferias navideñas están llenos. Si eres productor local, muestra el detrás de cámaras de tu producto y anuncia dónde estarás con un descuento solo en persona.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit primera nevada",
-   "idea": "Llegaron las primeras nevadas al sur de Ontario. Ropa, calzado y cuidado del auto: arma un 'kit de invierno' con precio cerrado.",
+   "titulo": "Prueba los anuncios comprables",
+   "idea": "Twitch lanzó anuncios comprables en Canadá. Si tu público es gamer o joven, prueba una colaboración con un streamer local mostrando el producto en vivo con enlace directo.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Listos para el frío",
+   "idea": "Hay avisos de viento y lluvia en la isla de Vancouver y tormentas en el Oeste. Ropa de abrigo, calefacción o delivery pueden publicar 'qué tener en casa esta semana' con entrega rápida.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Oferta en dos idiomas",
-   "idea": "Quebec busca en francés y el resto del país en inglés. Lanza tu oferta de Black Friday con versiones en inglés y francés: duplica alcance con el mismo presupuesto creativo.",
-   "formato": "Copy para anuncio"
+   "titulo": "Kit de lanzamiento GTA VI",
+   "idea": "El lanzamiento del juego dispara la conversación gamer. Tiendas de tecnología pueden armar un kit (almacenamiento extra, control, auriculares) con el mensaje 'prepara tu consola'.",
+   "formato": "Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "country music",
-   "color": "verde",
-   "por_que": "Taylor Swift actuará en los 60.º CMA Awards.",
-   "idea": "Moda, música y eventos: contenido de estilo country y planes para ver la gala, sin usar su imagen."
+   "termino": "winter storm",
+   "color": "amarillo",
+   "por_que": "Tormentas con nieve, lluvia y viento afectan la costa oeste.",
+   "idea": "Productos de invierno y kits de emergencia con tono práctico, sin alarmismo."
   },
   {
    "termino": "météo",
-   "color": "amarillo",
-   "por_que": "Se anticipan tormentas por un jet stream muy intenso en Quebec.",
-   "idea": "Hogar, seguros y delivery: consejos útiles y avisos de plazos, sin alarmismo."
+   "color": "verde",
+   "por_que": "En Quebec se sigue de cerca el pronóstico por un fuerte jet stream y riesgo de tormenta.",
+   "idea": "Marcas en francés pueden ofrecer abrigo, botas y servicios a domicilio con mensajes útiles."
   },
   {
-   "termino": "microsoft xbox playback",
+   "termino": "gta vi",
    "color": "verde",
-   "por_que": "Xbox lanzó un resumen personalizado de la historia de cada jugador.",
-   "idea": "Gaming y tecnología: invita a compartir resultados y ofrece regalos para gamers."
+   "por_que": "El esperado lanzamiento de Grand Theft Auto VI domina la conversación gamer.",
+   "idea": "Tecnología, snacks y bebidas: contenidos 'noche de lanzamiento' y accesorios para jugar."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Twitch estrenó anuncios comprables en Canadá.",
-   "idea": "E-commerce y gaming: pruebas con creadores y productos fáciles de comprar en directo."
+   "por_que": "Twitch lanzó anuncios comprables en Canadá.",
+   "idea": "Marcas para público joven: probar formatos en vivo con creadores y enlace de compra."
   },
   {
-   "termino": "heartland movie 2026",
+   "termino": "cher",
    "color": "verde",
-   "por_que": "Interés por el estreno de 'Heartland', un misterio con música country.",
-   "idea": "Entretenimiento y hogar: planes de cine en casa para el fin de semana."
+   "por_que": "Se recuerda un vestido icónico de la cantante que marcó la moda de alfombra roja.",
+   "idea": "Moda y belleza: contenido de looks icónicos para fiestas de fin de año."
   }
  ],
  "audiencias": {
@@ -1175,6 +1175,13 @@
   "john mulaney",
   "Toronto imposes hiring freeze amid $1.1-billion budget shortfall",
   "BC Hydro to blame for Squamish floods, some say",
-  "ufc tonight"
+  "ufc tonight",
+  "julie dabrusin",
+  "ai",
+  "Premier says Quebec ready to vote independently from Canada for Francophonie leadership",
+  "Aryna Sabalenka apologises after viral video, denies insulting Elina Svitolina",
+  "“My comment was not directed at Elina”: Sabalenka apologises after her alleged anti-Ukrainian outburst during the Svitolina match goes viral",
+  "‘Get rid of him,’ Toronto Blue Jays fans say team’s apology over Anthony Santander’s Islamophobic posts isn’t enough",
+  "Leslie Roberts – from television news anchor and media star to Montreal City Council"
  ]
 }
