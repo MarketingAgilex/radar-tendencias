@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A 12 días del Black Friday (27 de noviembre) y con el Cyber Monday el 30, el ecuatoriano compara precios y desconfía de las ofertas engañosas, como muestran las guías para revisar si un descuento es real. La venta de camionetas crece y los modelos ensamblados en Ecuador ganan conversación, mientras las lluvias y cortes de luz en Guayaquil, Daule y Samborondón alteran rutinas y entregas. En Quito, la Bienal Panamericana de Arquitectura suma agenda cultural. Precio final claro, entregas honestas y un guiño local siguen siendo la fórmula.",
+ "lectura": "A 12 días del Black Friday (27 de noviembre) el ecuatoriano compara, desconfía de ofertas infladas y busca equipos para trabajar desde casa con descuento. Las lluvias de El Niño golpean Guayaquil, Milagro y la Costa con calles anegadas y cortes de luz, mientras Quito sigue en alerta amarilla por lloviznas. La Quito Fashion Week pone vitrina a diseñadores locales y crece la venta de alimentos por apps. Hoy funcionan los mensajes de servicio (entregas, horarios, respaldo eléctrico) y el orgullo por lo hecho en Ecuador.",
  "ideas_hoy": [
   {
-   "titulo": "¿Descuento real o cuento?",
-   "idea": "Circulan guías para comprobar si un descuento es verdadero. Muestra el historial de precio de tu producto estrella y explica cómo calculaste la oferta del Black Friday: la transparencia te diferencia.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Lluvia en la Costa",
-   "idea": "Las lluvias en Guayaquil, Daule y Samborondón causaron calles anegadas y cortes de luz. Avisa con tiempo posibles demoras en entregas y ofrece retiro en punto o cambio de horario sin costo.",
+   "titulo": "Entrega a prueba de lluvia",
+   "idea": "Las lluvias en Guayaquil, Daule y Samborondón alteran entregas. Comunica horarios alternativos, empaque impermeable o retiro en punto: la tranquilidad también vende.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Hecho en Ecuador sobre ruedas",
-   "idea": "Crece la venta de camionetas y los modelos ensamblados en el país ganan espacio. Si vendes accesorios o servicios automotrices, publica un 'kit para tu camioneta nueva' con instalación incluida.",
+   "titulo": "Pasarela quiteña",
+   "idea": "La Quito Fashion Week mostró a Takiri, Cristina Toro y otros diseñadores ecuatorianos. Marcas de moda local pueden publicar un 'cómo combinarlo' inspirado en la semana de la moda.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lista de regalos a 40 días",
-   "idea": "Faltan unas seis semanas para Navidad. Publica una lista de regalos por presupuesto ($10, $25, $50) y pide a tus seguidores que comenten para quién buscan: generas conversación y datos para tu oferta.",
+   "titulo": "Tu oficina en casa, en oferta",
+   "idea": "Los dispositivos para oficina en casa ya tienen descuentos previos al Black Friday. Arma un combo (audífonos, soporte, luz) con precio final y cuotas claras.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Respaldo sin pánico",
-   "idea": "El rumor del apagón mundial del 17 de noviembre sigue en búsquedas aunque fue desmentido. Marcas de tecnología pueden compartir tres pasos para respaldar fotos y cargar dispositivos, aclarando que es un rumor.",
+   "titulo": "Antojos por app",
+   "idea": "La venta de alimentos por aplicaciones crece mientras baja la del comercio físico. Si tienes restaurante o tienda, lanza un combo exclusivo para pedidos por app en días de lluvia.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Black Friday sin cuento",
+   "idea": "El consumidor desconfía de descuentos inflados. Muestra el precio de hoy y el que tendrás el 27, y explica por qué es real: transparencia antes que urgencia.",
    "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
+   "termino": "puerto santa ana",
+   "color": "amarillo",
+   "por_que": "Calles anegadas y cortes de luz por las lluvias en Guayaquil, Daule y Samborondón.",
+   "idea": "Comercios de la zona: avisos de horario y entregas, y productos útiles para la lluvia con tono de servicio."
+  },
+  {
    "termino": "cáncer",
    "color": "amarillo",
-   "por_que": "Una nueva guía recomienda exámenes de detección de cáncer de próstata a hombres mayores de 50; tema de salud delicado.",
-   "idea": "Laboratorios, clínicas y aseguradoras pueden invitar al chequeo preventivo con fuentes médicas y tono serio, sin humor."
+   "por_que": "Nueva guía recomienda exámenes de próstata a hombres mayores de 50; tema de salud delicado.",
+   "idea": "Clínicas y aseguradoras: invitar al chequeo preventivo con fuentes médicas y tono serio."
   },
   {
    "termino": "vuelos cancelados estados unidos",
    "color": "amarillo",
-   "por_que": "La paralización temporal del tráfico aéreo en EE. UU. por una falla técnica afectó conexiones; los vuelos ya se reanudan.",
-   "idea": "Agencias y servicios de envío pueden informar tiempos reales y alternativas con calma."
-  },
-  {
-   "termino": "supuesto apagon mundial",
-   "color": "amarillo",
-   "por_que": "Rumor viral sin pruebas sobre un apagón global; los verificadores lo desmienten.",
-   "idea": "Contenido útil de prevención (baterías, respaldo de datos) aclarando que es falso; no uses el miedo como gancho."
+   "por_que": "La suspensión de vuelos en EE. UU. afectó conexiones; se normaliza este domingo.",
+   "idea": "Agencias y envíos: informar tiempos reales y opciones sin dramatizar."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "La venta de camionetas crece 33% y entran nuevos modelos ensamblados en Ecuador.",
-   "idea": "Concesionarios, aseguradoras y accesorios: comparativas, financiamiento y contenido de orgullo local."
+   "por_que": "La venta de camionetas crece 33% y entran modelos ensamblados en Ecuador.",
+   "idea": "Concesionarios, accesorios y seguros: comparativas y contenido de orgullo local."
   },
   {
    "termino": "deuda",
    "color": "verde",
-   "por_que": "Interés en mercados y finanzas por noticias sobre la bolsa de EE. UU.",
-   "idea": "Fintech y bancos pueden educar sobre ahorro y deudas antes de las compras de fin de año."
+   "por_que": "Interés en mercados y finanzas por análisis sobre la bolsa de EE. UU.",
+   "idea": "Fintech y bancos: educación sobre deudas y ahorro antes de las compras de fin de año."
   }
  ],
  "audiencias": {
@@ -999,70 +999,34 @@
  "ocultar": [
   "sercop",
   "visa",
-  "La Armada de Ecuador incorpora la lancha guardacostas Isla Puná donada por Estados Unidos",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Desmantelan una red de ciberestafas bancarias en TikTok",
-  "Dos fallecidos y dos desaparecidos durante las fuertes lluvias registradas en Guayaquil",
-  "Intensas lluvias en Guayaquil dejan dos fallecidos y dos desaparecidos",
   "Suben a dos los fallecidos en medio de fuerte lluvia en ciudad ecuatoriana de Guayaquil",
-  "Lluvias en Guayaquil: padre intentó salvar a su hijo que cayó en una zanja",
-  "Lluvias en Guayaquil dejan a un padre y su hijo desaparecidos tras caer a una zanja",
-  "Lluvias en Ecuador: Quito tendrá lloviznas y 13 ríos siguen desbordados en la Costa",
-  "Exreina de Guayaquil, Navila Dieb Bergher está en condición de prófuga por caso La Reina que nombra a Aquiles",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "Ausencias de candidatas de Miss Universe en Puerto Rico generan cuestionamientos",
-  "elTOQUE y Café Fuerte lanzan proyecto conjunto para impulsar el periodismo en español en el sur de Florida",
-  "Estudiantes exigen a ICE liberar a María Flores García y su madre",
-  "Medicina para la paz: prevenir la violencia desde la salud",
-  "Un grupo que reúne a Meta, Google y TikTok demandó a Nueva York por los avisos de salud mental en redes",
-  "La ADF quiere defender la medida sobre el deporte femenino en Washington y sostiene que el estado no puede representar plenamente a las deportistas",
-  "🚨 Hurtaban celulares en pleno recorrido de papa León XIV: aprovecharon la multitud para robar a fieles",
-  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
-  "Mamdani lanzará un concurso de diseño de videojuegos para jóvenes de Nueva York con temática de transporte público",
-  "El plan para personas sin hogar de Gilroy carece de detalles sobre los próximos pasos.",
-  "«Nómadas, no sin hogar»: Por qué la visita de Haití a Estados Unidos a Miami se siente como un regreso a casa.",
-  "Las Fuerzas israelíes obligan a una familia a evacuar su hogar en Al-Mughayyir, allanan un salón de bodas y arrestan a cuatro personas, incluido el novio",
-  "¿Adiós SNAP? El plan que dejaría a casi 2 millones de niños sin comidas escolares gratuitas",
-  "Tres veces presentada, tres veces traicionada: la ley de bebés robados y la impunidad del régimen del 78",
-  "Disparo accidental afuera de una joyería en North Miami deja una persona herida",
-  "Óscar López reivindica el papel de la educación pública y carga contra la gestión de Ayuso",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística",
-  "Kalshi y Polymarket encuentran un nuevo negocio en los reality shows y desafían a la industria televisiva",
-  "Canadá \"no aceptará\" un acuerdo comercial con EEUU que ponga en riesgo industria automovilística",
-  "Bessent apunta a Lutnick por exportaciones de chips de Nvidia mientras se discute la destitución del secretario de Comercio",
-  "Scott Bessent señala al Departamento de Comercio de EE.UU. por no restringir las exportaciones de chips de Nvidia",
-  "Ucrania aumentó en 10 meses los ingresos en divisas por las exportaciones de maíz en 24%, pero en octubre las exportaciones se redujeron 3,3 veces.",
-  "Refundar la izquierda desde la sostenibilidad de la vida",
-  "¿Duermen tranquilos con sus hijos en TikTok?",
-  "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
-  "{{❤️[𝕩𝕏𝕩]𝕤𝕖𝕩!+𝕧𝕚𝕕𝕖𝕠)!)]𝕧𝕚𝕕𝕖𝕠 𝕕𝕖𝕝 𝕒𝕘𝕣𝕠𝕡𝕖𝕔𝕦𝕒𝕣𝕚𝕠 𝕖𝕩 𝕕𝕖 𝕒𝕚𝕕𝕒 𝕟𝕖𝕨 𝕤𝕖𝕩 𝕧𝕚𝕕𝕖𝕠 𝕧𝕚𝕣𝕒𝕝}}",
-  "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO",
-  "Bomberos despliegan 20 rescatistas y un dron para buscar a dos desaparecidos en Guayaquil",
-  "Dos fallecidos, dos desaparecidos y decenas de sectores bajo el agua dejan las lluvias en Guayaquil",
-  "Ecuador incauta 134 kilos de cocaína ocultos en dos contenedores rumbo a Alemania",
-  "Roberto Luque informa sobre la búsqueda de dos desaparecidos tras las lluvias en Guayaquil",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
-  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Refuerzan vigilancia en bancos y comercios por el Buen Fin",
   "el universo",
   "emergencia",
   "prófugo",
   "Deslizamiento de tierra en Puerto Santa Ana, zona turística de Guayaquil, provoca evacuación y alerta por nuevos desprendimientos",
-  "171 personas permanecen alojadas en albergues habilitados en Guayas y Galápagos",
-  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
-  "Cuenca, en vilo por el desplazamiento de la criminalidad en Ecuador",
   "Ecuador - Bolivia | Pronóstico y cuotas 17.11.2026",
   "ufc en vivo",
   "ufc",
   "kayla harrison",
   "estafa",
   "El fusil FAL de FN Herstal sigue en servicio en Ecuador tras más de 50 años",
-  "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
   "Así es la vida de Sandra Quito, una cuencana que huyó de Ecuador por las extorsiones y ahora vende espumilla en Nueva York",
-  "Concluye la búsqueda de dos personas en canal de Guayaquil"
+  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
+  "'Educar entre escombros', la escuela de Damasco que incluye a niños con autismo y síndrome de Down",
+  "Asedio social en Yüksekova: niños, mujeres y jóvenes en el punto de mira - Primera parte",
+  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
+  "Choque en salón de belleza en City Bell, Argentina",
+  "En Turquía, Paz sella preacuerdos de cooperación en minería, hidrocarburos y tecnología",
+  "Gerson Bermont, el secretario de Salud que quiere una Bogotá sanadora",
+  "Hoy como ayer: La Constitución de 1940 y el arte de negociar",
+  "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
+  "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
+  "Macron llama a incluir el idioma francés en los modelos de entrenamiento de la IA",
+  "Pescadores ecuatorianos demandarán a EU tras ser atacados en el Pacífico",
+  "Quito retira siete cachorros de un establecimiento por presunta comercialización ilegal de animales",
+  "Robaron una joyería en Rawson tras abrir un boquete",
+  "jensen huang"
  ]
 }

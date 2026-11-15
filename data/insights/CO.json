@@ -1,65 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Domingo de puente festivo (el lunes 16 se celebra la Independencia de Cartagena) y a 12 días del Black Friday del 27 de noviembre: el colombiano ya busca fechas, cómo devolver compras hechas por internet y cómo no desordenar su presupuesto. En Bogotá se anuncian bazares prenavideños con emprendimientos liderados por mujeres y planes culturales como la Noche de Museos, mientras en TikTok se viraliza el 'bicep heart' y crece la conversación sobre grabar mejor en vertical. Quien explique con claridad precio, envío y política de cambios se lleva la confianza antes de la temporada navideña.",
+ "lectura": "Domingo de puente: el lunes 16 es festivo por la Independencia de Cartagena y la conversación gira en torno al plan retorno, el pico y placa regional y la coronación de la Señorita Colombia ese mismo lunes. A 12 días del Black Friday (27 de noviembre), los medios publican guías de fechas, devoluciones y cómo comprar sin desordenar el presupuesto, mientras el costo de los alimentos toca su punto más alto desde 2023 por la papa. Medellín estrena el DAVIarena y Bogotá tiene el Chocoshow: hay apetito por planes y antojos. Gana quien sea claro con precio final, envíos y cambios antes de la prima de diciembre.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin sustos",
-   "idea": "Las búsquedas sobre cuándo empieza el Black Friday y cómo devolver compras online están arriba. Publica un carrusel con tus fechas, el precio final con envío incluido y tu política de cambios en tres pasos: la claridad es el mejor gancho esta semana.",
+   "titulo": "Retorno sin afanes",
+   "idea": "Mañana es festivo y miles regresan con pico y placa regional en Bogotá. Publica un 'kit de retorno' (snacks, cargador, playlist) o una promo válida solo el lunes festivo para quien regresa a la ciudad.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Black Friday con devolución clara",
+   "idea": "Las guías más leídas explican cómo devolver compras por internet en Colombia. Antes del 27, explica en 30 segundos tus condiciones de cambio y garantía: quita el principal miedo del comprador.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Calcula tu prima",
+   "idea": "Circulan artículos que enseñan a calcular la prima de diciembre. Haz un carrusel 'Así repartimos la prima': ahorro, deudas y un regalo, y muestra dónde encaja tu producto sin presionar.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Plan de puente festivo",
-   "idea": "Con el lunes festivo, mucha gente tiene tiempo para mirar vitrinas digitales. Haz un en vivo corto mostrando tus productos navideños y deja apartados con abono por WhatsApp para que no se pierda la venta.",
-   "formato": "Live Instagram/TikTok"
-  },
-  {
-   "titulo": "Reto 'bicep heart' de marca",
-   "idea": "El corazón con el brazo es tendencia en TikTok. Graba a tu equipo haciéndolo con el producto en la otra mano y un texto tipo 'Así le mostramos amor a nuestros clientes': es fácil, rápido y cercano.",
+   "titulo": "Corona la reina del parche",
+   "idea": "La Señorita Colombia se elige el lunes 16 y el concurso se transmite en TV. Marcas de belleza y moda pueden lanzar una encuesta de looks o un tutorial de maquillaje 'de pasarela' con los labios nube que son tendencia.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Emprendedoras en bazar",
-   "idea": "Bogotá tendrá bazares prenavideños con 60 emprendimientos de mujeres. Si participas en ferias, anuncia dónde estarás, qué llevarás y un detalle para quien diga que te vio en redes.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Graba en vertical, vende más",
-   "idea": "Se viralizan guías sobre por qué todo se graba en vertical. Comparte tus tres trucos para grabar un producto con el celular (luz de ventana, fondo limpio, primer plano en los primeros 2 segundos) y posiciónate como marca que enseña.",
-   "formato": "Reel"
+   "titulo": "Cacao y antojo de temporada",
+   "idea": "El Chocoshow llena Bogotá de cacao y chocolate. Si vendes alimentos, café o regalos, arma un combo navideño con chocolate colombiano y cuéntalo con la historia del productor.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "vuelos suspendidos estados unidos",
+   "color": "amarillo",
+   "por_que": "La suspensión nacional de vuelos en EE. UU. dejó miles de cancelaciones; las autoridades esperan normalidad este domingo.",
+   "idea": "Agencias, aerolíneas y servicios de envío: informen tiempos reales y alternativas con tono calmado, sin alarmar."
+  },
+  {
    "termino": "suspenden vuelos eeuu",
    "color": "amarillo",
-   "por_que": "La suspensión temporal del tráfico aéreo en EE. UU. por una falla técnica generó retrasos; los vuelos ya se reanudan.",
-   "idea": "Agencias de viaje, aerolíneas y servicios de envío pueden informar estados y tiempos con calma, sin alarmar ni hacer humor."
+   "por_que": "Misma noticia: la falla técnica que frenó el tráfico aéreo en EE. UU. sigue generando dudas a viajeros y familias.",
+   "idea": "Empresas de envíos y viajes: preguntas frecuentes y reprogramación sin costo como mensaje de servicio."
   },
   {
    "termino": "fenómeno",
-   "color": "verde",
-   "por_que": "Se habla de El Niño y su efecto en el clima y las reservas de agua hasta 2027.",
-   "idea": "Hogar, ventiladores, ropa fresca y productos de ahorro de agua pueden educar sobre cómo prepararse para más calor."
+   "color": "amarillo",
+   "por_que": "El Niño amenaza las reservas de agua del Atlántico y podría extenderse hasta mayo de 2027.",
+   "idea": "Hogar, agro y servicios públicos: contenido de ahorro de agua y energía con tips prácticos, sin catastrofismo."
   },
   {
    "termino": "emiro",
    "color": "amarillo",
-   "por_que": "Rumores sobre la salud de un influencer de MasterChef antes de un evento de streaming.",
-   "idea": "No uses su caso en anuncios; si haces contenido de entretenimiento, habla del evento y no de su salud."
+   "por_que": "Rumores sobre la salud de un influencer de MasterChef antes de Stream Fighters 5; tema sensible.",
+   "idea": "Evita usar la salud de personas como gancho; si hablas del evento, céntrate en el entretenimiento."
   },
   {
-   "termino": "apagón mundial 17 de noviembre",
-   "color": "amarillo",
-   "por_que": "Circula en redes un rumor sin pruebas de un apagón global; medios de verificación lo desmienten.",
-   "idea": "Marcas de tecnología o energía pueden explicar qué hacer ante un corte de luz (cargar baterías, respaldar datos) aclarando que es un rumor."
-  },
-  {
-   "termino": "taylor swift",
+   "termino": "weather",
    "color": "verde",
-   "por_que": "La cantante es noticia por su posible participación en los premios CMA.",
-   "idea": "Moda, accesorios y regalos para fans: listas de 'outfits de concierto' y regalos temáticos para Navidad."
+   "por_que": "Búsqueda general del clima, impulsada por pronósticos de frío en EE. UU.",
+   "idea": "Marcas de ropa y viajes pueden recordar qué empacar para viajes a EE. UU. en temporada de frío."
   }
  ],
  "audiencias": {
@@ -1066,68 +1066,37 @@
   "ricardo roa",
   "dirección nacional de inteligencia",
   "congreso de la república de colombia",
-  "1xbet colombia que es",
   "base aérea de raf lakenheath",
-  "Volcamiento de bus en la Ruta 45 deja ocho personas fallecidas y al menos 20 heridas",
-  "Exclusivo: los audios que dejó Alicia Graham, esposa de Juan De Bedout, sobre su intoxicación con talio, el mismo veneno que mató a su hija",
   "Se afectó el cronograma de las obras del metro: Carlos Fernando Galán lo reconoció en público",
-  "Capturaron a alias ‘Primo Gay’, el hombre más buscado de Antioquia",
-  "Buque choca contra crucero en puerto de Nuevo Orleans",
-  "La caída de Jensen Huang de la cima de Nvidia",
-  "Delitos contra las infancias en TikTok",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
-  "Desmantelan en España una red de ciberestafas bancarias en TikTok",
-  "¿Escuchó estruendos en el norte de Bogotá durante la madrugada de hoy sábado, 14 de noviembre? Esto ocurrió",
-  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
-  "Resultados de loterías de Medellín, Santander y Risaralda: números que cayeron y ganadores | 13 de noviembre de 2026",
-  "En video | Agente de tránsito fue agredido por motociclista en operativos por el partido de la Selección Colombia",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
-  "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-  "“La alimentación de los niños no se negocia”: MinEducación denuncia ante entes de control contratos fantasma, software inoperante y presunto proselitismo en el PAE",
-  "Soacha articula acciones para prevenir el reclutamiento ilegal de niños y adolescentes en entornos escolares y digitales",
-  "Por qué una caja de huevos es un lujo en Gaza",
-  "$1,8 billones crecerá el presupuesto de Antioquia: prioriza educación, megaobras, seguridad y acueducto de Urabá | El Colombiano",
-  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”",
-  "Kalshi y Polymarket encuentran un nuevo negocio en los reality shows y desafían a la industria televisiva",
-  "Dian detectó presuntas exportaciones ficticias por más de $425.000 millones hacia Ecuador",
-  "Investigan presunta red de exportaciones ficticias que operaba desde Ipiales",
-  "Mantenimiento del helicóptero GÖKBEY: soporte, repuestos y logística",
   "Atención: cayó alias ‘Primo Gay’, uno de los cabecillas más buscados de Antioquia",
   "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
-  "Revelan detalles de la auditoría forense de Ecopetrol: Contratos, nombramientos y negocios involucran a Ricardo Roa y el círculo de Verónica Alcocer",
-  "¿Duermen tranquilos con sus hijos en TikTok?",
-  "Desmantelan una red de ciberestafas bancarias en TikTok",
   "Agente de tránsito agredido en Cali tras el partido de Colombia y Chile",
-  "Alcaldía refuerza acciones para proteger a las mujeres y prevenir las violencias en Barranquilla",
   "daren",
   "justicia",
   "toma del palacio de justicia",
   "yamid amat",
-  "Luis Felipe Henao es el nuevo gerente del Fondo Milagro",
-  "Las 34 denuncias por presuntas irregularidades en Ecopetrol que salpican a Ricardo Roa y el entorno de Verónica Alcocer | El Colombiano",
   "Alcaldía avanza con operativos sancionatorios con la Patrulla de Puntos Críticos",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
-  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
   "intolerancia",
-  "Salario mínimo 2027: Así son los cambios claves en sindicalistas de la CUT y la CGT para negociar el aumento | El Colombiano",
-  "Cayó banda que tenía azotados a caminantes del Pueblito Paisa en Medellín | El Colombiano",
   "Super Astro Luna de hoy, sábado 14 de noviembre: consulte el número ganador y el signo zodiacal",
-  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
-  "Dos aviones colisionaron en el Aeropuerto Internacional de Miami, en Florida",
   "aeropuerto internacional de miami",
-  "¿Cómo fue el choque de un buque cisterna contra un crucero con 197 pasajeros en Estados Unidos que terminó volcado y dejó 32 hospitalizados?",
-  "Amantes y espías: cómo agentes extranjeros han utilizado durante mucho tiempo las \"trampas de seducción\" para robar secretos",
-  "El real desapego de Quebec",
   "ufc",
   "villavicencio",
   "el espectador",
-  "Así fue como “Primo Gay” pasó de las filas de “Calarcá” al Clan del Golfo en Antioquia",
   "El escándalo de Jensen Huang deja a Nvidia con una pregunta: ¿quién financia ahora a la IA?",
   "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Desarticulada banda ‘Centro’, que distribuía drogas en el sector de San Bernardo",
-  "Las cifras clave y los factores detrás de cómo el 2026 apunta a ser el año menos violento de Medellín en su historia moderna"
+  "Las cifras clave y los factores detrás de cómo el 2026 apunta a ser el año menos violento de Medellín en su historia moderna",
+  "Así está el panamorama en Bogotá para atender la salud mental: el riesgo, la responsabilidad penal y la oferta hospitalaria",
+  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
+  "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
+  "Aviones de Copa Airlines y UPS colisionaron en una pista del aeropuerto de Miami, un día después de la suspensión nacional de vuelos en EE. UU.",
+  "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico",
+  "Colombia obtiene certificación de la OTAN para una fragata y un grupo de operaciones especiales",
+  "Gerson Bermont, el secretario de Salud que quiere una Bogotá sanadora",
+  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
+  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
+  "María Fernanda Cabal llevó su carro a un taller y se llevó tremenda sorpresa con lo hallado: “Lo estaban haciendo”",
+  "“El daño ya está hecho”: Arlene Tickner, sobre relaciones con EE. UU.",
+  "fragata"
  ]
 }

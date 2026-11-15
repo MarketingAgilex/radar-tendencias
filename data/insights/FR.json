@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los franceses combinan sofá y compras: la Star Academy y 'N'oubliez pas les paroles' lideran las búsquedas, mientras el Black Friday ya se vive como 'déstockage' con tecnología reacondicionada, smartphones, altavoces y la gran rebaja de Boulanger. Crece la preocupación por cómo gestionar el presupuesto de fin de año, y la llegada de GTA VI se presenta como motor de consumo gamer. La Dordoña celebra una temporada de setas extendida y se anuncia la apertura al público de La Madrague en Saint-Tropez. Ofertas claras, reacondicionado y planes en casa funcionan hoy.",
+ "lectura": "El francés arranca la semana del Black Friday con Fnac, Darty y las grandes tiendas rebajando televisores, portátiles, PS5 y Switch 2, pero los centros comerciales notan que 'solo funcionan las promociones'. El pago en 3 o 4 veces pasará a regirse por las reglas del crédito desde el 20 de noviembre y un ciberataque a una filial de La Poste afectó datos de 22 millones de personas. Star Academy y los Masters de N'oubliez pas les paroles lideran el entretenimiento, la subasta de vinos de Beaune marca la agenda gourmet y las fuertes lluvias en el Hérault marcan el sur. Ofertas transparentes, segunda mano y cuidado de datos ganan confianza.",
  "ideas_hoy": [
   {
-   "titulo": "Reacondicionado con orgullo",
-   "idea": "Los smartphones y portátiles reacondicionados están entre las ofertas más comentadas. Explica tu garantía y el ahorro frente al nuevo con una comparación simple.",
+   "titulo": "Paga en 3 veces, sin sorpresas",
+   "idea": "Desde el 20 de noviembre el pago fraccionado pasa a las reglas del crédito. Explica en 30 segundos cómo funcionará en tu tienda y qué cambia para el cliente.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Regalos de segunda mano",
+   "idea": "Las tiendas de segunda mano se llenan de regalos únicos para Navidad. Si vendes reacondicionado o vintage, crea una guía 'regalo con historia' por presupuesto.",
    "formato": "Carrusel Instagram"
   },
   {
+   "titulo": "Tus datos, a salvo",
+   "idea": "El ciberataque a Maileva afectó datos de 22 millones de personas. Comunica de forma sencilla cómo proteges los datos de tus clientes y qué nunca les pedirás por mensaje.",
+   "formato": "LinkedIn"
+  },
+  {
    "titulo": "Noche de Star Academy",
-   "idea": "La Star Academy arrasa en búsquedas. Snacks, belleza o moda: graba tu reacción al prime con tu producto en escena.",
+   "idea": "La Star Academy domina el sábado por la noche. Marcas de snacks, belleza y moda pueden crear un reto de canto o un look inspirado en el prime.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Presupuesto de fin de año",
-   "idea": "Se habla de no confundir amor y generosidad con capacidad financiera. Publica regalos con sentido por presupuesto y una opción 'hecho a mano' o experiencia.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Prepara tu consola",
-   "idea": "GTA VI va a impulsar la compra de pantallas y mandos. Las tiendas de tecnología pueden lanzar un pack de lanzamiento con almacenamiento y accesorios.",
-   "formato": "Instagram"
-  },
-  {
-   "titulo": "Sabores de temporada",
-   "idea": "La temporada de setas se alarga en la Dordoña. Restaurantes y tiendas gourmet pueden destacar productos de otoño con recetas cortas.",
-   "formato": "Reel"
+   "titulo": "Bûche y vino de fiesta",
+   "idea": "La subasta de vinos de Beaune y las primeras bûches de Navidad marcan la agenda gourmet. Pastelerías y bodegas: anuncia preventa de Navidad con fecha límite.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa musical lidera las búsquedas del fin de semana.",
-   "idea": "Marcas para público joven: contenido de reacción, retos musicales y looks del prime."
+   "por_que": "El prime 6 de Star Academy lidera las búsquedas del fin de semana.",
+   "idea": "Entretenimiento, belleza y snacks: contenido de fans y retos musicales."
+  },
+  {
+   "termino": "jean gabin",
+   "color": "amarillo",
+   "por_que": "Anécdota histórica sobre el deseo de Jean Gabin de esparcir sus cenizas en el mar.",
+   "idea": "Solo contenido cultural y respetuoso; evita usarlo para vender."
+  },
+  {
+   "termino": "maison",
+   "color": "verde",
+   "por_que": "Historias de compra y reforma de casas antiguas para vivir de ellas.",
+   "idea": "Inmobiliarias, decoración y turismo rural: inspiración de proyectos de vida."
   },
   {
    "termino": "hugues aufray",
    "color": "amarillo",
-   "por_que": "El cantante de 97 años aclaró rumores tras aplazar conciertos.",
-   "idea": "Mejor no usar su caso en anuncios; puede tratarse en contenido cultural con respeto."
+   "por_que": "El cantante aplaza conciertos y responde a rumores a los 97 años.",
+   "idea": "Evita especular sobre su salud; contenido musical respetuoso si aplica."
   },
   {
    "termino": "programme télé ce soir",
    "color": "verde",
-   "por_que": "Los franceses buscan qué ver esta noche en la televisión.",
-   "idea": "Delivery, snacks y bebidas: propuestas para 'noche de tele'."
-  },
-  {
-   "termino": "n oubliez pas les paroles les masters",
-   "color": "verde",
-   "por_que": "La final de los Masters del concurso de canciones genera mucha conversación.",
-   "idea": "Karaoke, música y entretenimiento: retos de 'termina la letra' con tu marca."
-  },
-  {
-   "termino": "déstockage",
-   "color": "verde",
-   "por_que": "Las liquidaciones de Black Friday en tecnología dominan las búsquedas de compras.",
-   "idea": "Retail: publicar ofertas con precio anterior verificable y stock disponible."
+   "por_que": "Búsqueda de la programación televisiva del fin de semana.",
+   "idea": "Delivery y snacks: promociones para 'noche de tele' en casa."
   }
  ],
  "audiencias": {
@@ -1182,64 +1182,17 @@
   "loup",
   "eau",
   "épargne",
-  "Le Gard et les Bouches-du-Rhône placés en vigilance orange \"pluie-inondation\" dès 20 heures samedi",
-  "Volodymyr Zelensky affirme que les États-Unis ont proposé à l'Ukraine des concessions territoriales en échange d'une adhésion à l'Otan",
-  "Rodéo urbain : un adolescent de 15 ans tué lors d’une course de voitures sauvage près de Clermont-Ferrand",
-  "Les syndicats de fonctionnaires sortent remontés de Matignon et maintiennent l’appel à la grève le 17 novembre",
-  "Les défis d'une Francophonie fragilisée par la crise du multilatéralisme et les tensions internes",
-  "EXCLUSIF - Cyberattaque : ce prestataire externe par lequel les hackeurs ont accédé au coffre-fort d'Arkéa",
-  "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
-  "« La fanfare, la révolution » : comment cet hymne des manifestations est devenu viral en France et au-delà",
-  "«No Nut November»: une tendance TikTok qui invite à réfléchir à sa sexualité",
-  "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, contre la vie chère, pour la protection des enfants ou davantage de moyens pour l’éducation",
-  "Protection de l’enfance, usage des armes, gilets jaunes… Un samedi de convergence des luttes pour cet acte V contre la vie chère en France",
-  "Direct Manifestation du 14 novembre à Paris : le cortège arrive sur la place de la Nation, de légères tensions",
-  "Quinté du 14/11/2026 à Paris-Vincennes : Jaifa de l'Iton, en plein épanouissement",
-  "Manifestation du 14 novembre à Paris : le parcours validé ce samedi",
-  "Manifestations du 14 novembre à Paris : ces 21 stations de métro seront fermées dès 11 h",
-  "Trafic de drogue et libertinage à Paris : les liaisons dangereuses du gendarme et du dealer pour personnalités médiatiques",
   "candidats présidentielle 2027",
   "antoine léaument",
   "loto samedi 14 novembre 2026",
-  "Victime d'une cyberattaque, Maileva, une filiale du groupe La Poste, annonce un vol de données touchant 22 millions de personnes",
-  "EN DIRECT - Colère sociale : 106.000 manifestants dont 24.000 à Paris selon les autorités, mobilisation en baisse ce 14 novembre",
-  "Frappé au sol, sa caméra à la main : un cadreur de BFMTV agressé en marge de la manifestation à Lyon",
-  "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
-  "Emmanuel Macron affirme que «ceux qui veulent rationner» l’aide à l’Ukraine veulent «l’obliger à une paix injuste»",
-  "DÉCRYPTAGE. Ce tube en carton vendu 10 euros sur Snapchat qui paralyse les lycées : les mortiers, \"un des feux d'artifice les plus dangereux sur le marché\"",
-  "Francophonie: la RDC prête à retirer la candidature de Juliana Lumumba à la tête de l'OIF",
-  "Après les inondations meurtrières à Gaza, l’UE interpelle Israël",
-  "Mikhaïl Epstein, philosophe : « Le bolchevisme voulait hâter la fin heureuse de l’histoire, le poutinisme en précipite la fin catastrophique »",
-  "Une vidéo de plusieurs femmes devient virale en encourageant quelques personnes âgées à chanter « Pedro Sánchez, moi oui je vais voter pour toi »",
-  "Émeute de CV devant le magasin China Square | Lunion.ga | Actualités Gabon",
-  "Manifestation du 14 novembre : entre 24 000 et 100 000 personnes ont manifesté à Paris, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
-  "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
-  "Manifestations en France : 106 000 personnes ont défilé dans le pays dont 24 00 à Paris selon les autorités",
-  "Manifestation du 14 novembre à Paris : entre 24 000 et 100 000 personnes ont défilé pour cet acte V",
   "rosalie van breemen aujourd'hui",
   "a75",
   "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
-  "Une filiale du groupe La Poste annonce un vol de données touchant 22 millions de personnes, l’une des plus importantes cyberattaques en France",
-  "«Mamies du futur», militants des droits humains, collectifs enfantistes… A Paris, une manifestation bigarrée et une moindre affluence",
-  "Boksieri Arigon Avdimetaj, që u bë viral me nokautin brutal ndaj serbit, sonte ngjitet në ring në Gjermani",
   "rmc",
   "fdj euromillions",
   "betclic",
   "live tv",
-  "INFO JDD. Présidentielle : Vincent Jeanbrun propose une primaire façon «Koh-Lanta»",
-  "Eliot Deval : «Les députés ont choisi la liberté d'expression plutôt que de débattre sur la fermeture d'une chaîne»",
-  "Entre élégance et simplicité, Brigitte Macron mise sur un col lavallière et un tailleur-pantalon beige au Cambodge",
-  "Une filiale de La Poste victime d’une cyberattaque massive, les données de 22 millions de personnes volées",
-  "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
   "le pays malouin",
-  "« Le droit de blesser n’existe pas »… La vente de mortiers suspendue",
-  "Les Gardiens iraniens de la Révolution disent avoir attaqué une base militaire américaine au Bahreïn avec des drones",
-  "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
-  "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
-  "Somment de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
-  "Zelensky dit que Washington a proposé des concessions territoriales en échange d'une adhésion à l'Otan",
-  "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
-  "Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes concernées… Ce que l’on sait",
   "ciryl gane hokit",
   "mortier artifice",
   "montbrial",
@@ -1247,18 +1200,39 @@
   "herault",
   "inondations herault",
   "emmanuel macron au cambodge",
-  "Intempéries dans l'Hérault : la septuagénaire recherchée a été retrouvée saine et sauve",
-  "\"Elle joue contre la France\": l'entourage d'Emmanuel Macron estime que \"si Marine Le Pen décide de tout couper à l’Ukraine, elle nous isolera en Europe\"",
-  "« Un ras-le-bol général » : à Lyon, une mobilisation aux multiples visages émaillée de violences",
-  "Sur les traces de « ChatNoir » et « Casquette », le duo d’adolescents soupçonnés d’avoir piraté le site des impôts",
-  "Colère sociale : une centaine de personnes placées en garde à vue à Paris, dont 38 mineurs",
   "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
-  "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
   "68 ans dès 2030 et jusqu'à 72 ans à terme: la Grèce se prépare à un nouveau recul spectaculaire (et automatique) de l'âge de départ à la retraite",
   "Ghana : La NIA arrête une togolaise qui s'est vantée au sujet de l'obtention d'une carte d'identité",
-  "Manifestation du 14 novembre : à Paris, 108 personnes placées en garde à vue, dont 38 mineurs",
-  "Manifestation de samedi : à Paris une centaine de gardes à vue, dont 38 mineurs",
-  "Manifestation du 14 novembre à Paris : 108 gardes à vue, dont 38 mineurs, en marge du cortège contre la vie chère",
-  "Manifestation à Paris : après l’acte V, une centaine de gardes à vue, dont 38 mineurs"
+  "\"On ne peut pas être les cibles de ces revendications\" : incendies, tirs de mortiers, intrusions... Pourquoi ces personnels de l'Éducation nationale se sont-ils réunis en Ariège",
+  "40 affirmations-chocs des candidats à la présidentielle de 2027 et de leurs soutiens fact-checkées",
+  "Alban Ukaj, acteur albanais : « les vampires d'extrême droite se réveillent partout dans le monde",
+  "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+  "Au Caire, le groupe qui a mis en musique la révolution soudanaise à nouveau réuni",
+  "Brigitte et Emmanuel Macron reçus à déjeuner par le roi du Cambodge : la première dame fait sensation avec un imposant collier papillon",
+  "Des professeurs d’EPS veulent boycotter la cérémonie des meilleurs sportifs de la mairie de Vannes",
+  "Gaz lacrymogènes : sont-ils dangereux pour la santé des femmes",
+  "L'Iran revendique des frappes de drones contre une base américaine au Bahreïn",
+  "La Madrague ouverte au public, rien ou presque pour son compagnon… L’histoire mouvementée de l’héritage Brigitte Bardot",
+  "Les États-Unis nuancent les espoirs de Zelensky sur ce point essentiel des négociations pour l’Ukraine",
+  "Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé, des heurts dans plusieurs villes",
+  "Manifestations du 14 novembre : un total de 404 personnes interpellées dans toute la France, dont plusieurs dizaines de mineurs",
+  "Manifestations﻿ : après l’acte V, plus de 400 interpellations en France, dont 126 à Paris",
+  "Mobilisation sociale : signe des trois doigts, musique et emblème du geai moqueur, pourquoi les manifestants reprennent-ils les symboles du film « Hunger Game » ?",
+  "Mouvement social : suivi de la mobilisation et de la répression, semaine du 16 au 21 novembre",
+  "Paris : Marché de Noël et bal d'hiver avec l'Institut Iliade",
+  "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
+  "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+  "Quel avenir pour l'industrie en Occitanie ? en replay - Dimanche en politique - Midi-Pyrénées",
+  "Seine-Saint-Denis : un corps de femme retrouvé dans le coffre d’une voiture, le garagiste placé en garde à vue",
+  "TEMOIGNAGE RMC. \"Il vivait pour les voitures\", confie l'ancienne petite-amie de l'adolescent tué lors d'une course automobile sauvage, près de Clermont-Ferrand",
+  "Un adolescent de 15 ans tué lors d’une course de voitures sauvage près de Clermont-Ferrand",
+  "Un homme de 19 ans tué par balle dans le quartier Montaudran à Toulouse",
+  "Un important site industriel russe touché par des frappes attribuées à Kiev",
+  "Vierge profanée, vidéo virale et exfiltration forcée : en Corse, le procès de la colère",
+  "« Ils sont arrivés comme une vague » : à Paris, encore des commerces pillés par des bandes en marge de la manifestation",
+  "femme",
+  "nijnekamsk",
+  "nicolas charrier",
+  "toulouse"
  ]
 }

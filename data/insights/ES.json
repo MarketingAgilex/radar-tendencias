@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España calienta el Black Friday del 27 de noviembre: el 76% de los españoles prevé comprar con un gasto medio de 196 euros y muchos adelantan ya los regalos de Navidad, con El Corte Inglés, MediaMarkt y Amazon lanzando ofertas previas. Se habla de que los asistentes de IA harán cerca del 30% de las compras y de cómo evitar engaños. El encendido navideño, con espectáculo de drones en Madrid y la locura de las luces de Vigo, abre la temporada, y Mercadona estrena tiendas. Ofertas verificables, regalo adelantado y ambiente navideño funcionan esta semana.",
+ "lectura": "El Black Friday se acerca con menos compradores previstos y presupuestos más ajustados, y la subida de precios de fresas, tomates y frutas tropicales pesa en la cesta. Aun así, hay colas esperadas en Action por una mesita viral de menos de 15 euros, Decathlon anuncia fechas y Zara agota una camiseta de rayas. Faltan tres días para GTA VI, la Gran Recogida del Banco de Alimentos moviliza a ciudades como Zaragoza y la lluvia marca el fin de semana en Madrid. Gana lo útil, lo asequible y lo que se pueda comprar con cabeza.",
  "ideas_hoy": [
   {
-   "titulo": "Regalo adelantado",
-   "idea": "Muchos españoles aprovechan el Black Friday para comprar los regalos de Navidad antes de diciembre. Lanza una guía de regalos por presupuesto (20, 50 y 100 euros) con envío garantizado antes del 22 de diciembre.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Que la IA te encuentre",
-   "idea": "Se calcula que los asistentes de IA harán buena parte de las compras. Revisa que tu ficha de producto tenga precio, medidas, envío y devoluciones claros: es lo que leen los asistentes y los clientes.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Navidad encendida",
-   "idea": "El encendido de luces en Vigo y el espectáculo de drones en Madrid abren la temporada. Graba tu escaparate o producto con luces navideñas y el texto 'Ya es Navidad en…' con tu ciudad.",
+   "titulo": "La mesita que hace cola",
+   "idea": "Se esperan colas en Action por una mesita viral de menos de 15 euros. Muestra cómo decorar un salón con menos de 50 euros usando tus productos: lo asequible es tendencia.",
    "formato": "Reel"
   },
   {
-   "titulo": "Antiengaños",
-   "idea": "Las guías para comprar con atención en Black Friday son tendencia. Publica tus tres compromisos (precio anterior real, devolución fácil, atención humana) y fíjalo en tu perfil.",
-   "formato": "Copy para anuncio"
+   "titulo": "Black Friday con calculadora",
+   "idea": "Las previsiones hablan de menos compradores y presupuestos ajustados. Publica una guía 'compra solo lo que ibas a comprar' con tu lista de productos y el ahorro real.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Karaoke navideño",
-   "idea": "Se publican comparativas de altavoces para karaoke. Si vendes ocio o tecnología, propón 'cena de empresa con karaoke' y un pack para grupos.",
+   "titulo": "Cuenta atrás GTA VI",
+   "idea": "Faltan tres días para el lanzamiento más esperado del gaming. Bares, tiendas de tecnología y delivery pueden ofrecer un 'pack noche de estreno'.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Rayas, el básico que arrasa",
+   "idea": "La camiseta de rayas de Zara de menos de 16 euros es tendencia. Marcas de moda: tres formas de llevar rayas en otoño con tus prendas.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Súmate a la Gran Recogida",
+   "idea": "La Gran Recogida del Banco de Alimentos moviliza a miles de voluntarios. Si tu negocio colabora, cuéntalo con datos concretos y sin protagonismo excesivo.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "vivienda",
+   "color": "verde",
+   "por_que": "Debate sobre más hogares y menos casas disponibles en España.",
+   "idea": "Inmobiliarias y decoración: contenido práctico sobre aprovechar espacio, sin entrar en debates."
+  },
+  {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Mercadona abre nuevos supermercados y la gente busca horarios y aperturas.",
-   "idea": "Comercios de proximidad pueden destacar cercanía y ofertas de temporada."
+   "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
+   "idea": "Comercio local: destaca tu cercanía y especialidad frente a las grandes superficies."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Polémica entre streamers y la plataforma por el reparto de ingresos.",
-   "idea": "Marcas para jóvenes pueden colaborar con creadores, sin opinar sobre el conflicto."
+   "por_que": "Polémica de los Streamer Awards con el CEO de Twitch por comisiones.",
+   "idea": "Marcas gaming y creadores: colaboraciones con streamers y transparencia en el reparto."
   },
   {
-   "termino": "santoral",
+   "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Consulta habitual del santo del día.",
-   "idea": "Floristerías, pastelerías y regalos pueden felicitar onomásticas con promociones del día."
+   "por_que": "Ya se puede precargar GTA VI, el lanzamiento más esperado del año.",
+   "idea": "Tecnología, gaming y comida a domicilio: packs de estreno y cuentas atrás."
   },
   {
-   "termino": "encendido luces vigo 2026",
+   "termino": "spacex starship",
    "color": "verde",
-   "por_que": "El encendido navideño de Vigo atrae a miles de visitantes.",
-   "idea": "Hostelería y comercio local: planes y ofertas para quienes visitan la ciudad."
-  },
-  {
-   "termino": "julia otero",
-   "color": "verde",
-   "por_que": "La periodista habla de sus hábitos y rutinas a los 67 años.",
-   "idea": "Bienestar y alimentación: contenido sobre rutinas saludables, sin usar su imagen en anuncios."
+   "por_que": "Prueba de Starship con intento de recuperación de la nave.",
+   "idea": "Divulgación y tecnología: contenido de curiosidad científica."
   }
  ],
  "ocultar": [
@@ -82,83 +82,52 @@
   "begoña gómez fernández",
   "lara ferreiro",
   "pobreza",
-  "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "Abascal pide el voto para el PP a quienes discrepen de sus propuestas: \"Hay que echar a Sánchez\"",
-  "El \"fact-checking\" del debate de laSexta: de las afirmaciones sobre las pensiones a la vivienda",
-  "La UCO implica a Corvillo, el empresario que hizo de chófer de Sánchez, en pagos a Ábalos",
-  "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
-  "Feijóo resume el sanchismo en la “corrupción, machismo, incompetencia y soberbia” de Ábalos y Puente en Transportes: “El cambio es decencia”",
-  "Buscan a un turista borracho por robar una estatua de un Cristo en Lituania y hacerla añicos en la calle",
-  "Cómo los ‘amores’ furtivos acabaron con altos cargos directivos antes del caso de Jensen Huang en Nvidia",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
-  "Desmantelan en España una red de ciberestafas bancarias en TikTok",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
-  "Ofrecían 100 euros por abrir una cuenta bancaria: así funcionaba la captación en TikTok",
-  "Banco Santander, El Corte Inglés, Eroski y Moeve dejan de anunciarse en TikTok por el escándalo de los vídeos pedófilos",
-  "Quién es Ángel Gaitán, el mecánico que entrevistó a Santiago Abascal tras hacerse conocido en TikTok",
-  "Eroski suspende su publicidad en TikTok después de los escándalos por pedofilia en la red social china",
-  "Contemporánea Condeduque acoge la exposición ‘Fronteras del clima’, del fotoperiodista Santi Palacios",
-  "La vivienda centra la propuesta del PSN, con Barcelona como ejemplo de control de precios",
   "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "Feijóo pide \"ayuda\" para culminar el viaje a la Moncloa",
-  "La vivienda marca el primer día de campaña en Cataluña: el PP defiende suprimir el ministerio y critica los \"veintitantos ministerios\" de Sánchez",
-  "EH Bildu exhibe músculo en Bilbao y llama a “frenar el paso a la extrema derecha”",
-  "Jensen Huang, la IA, la espía china y un par de libros para entenderlo todo",
   "¿Duermen tranquilos con sus hijos en TikTok?",
-  "Desmantelan una red de ciberestafas bancarias en TikTok",
   "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
-  "Desalojan parcialmente la Puerta del Sol tras hallarse una mochila sospechosa",
   "Nueva protesta en Madrid de los maquinistas de Renfe en demanda de un aumento de la seguridad",
-  "Comuns activa el puerta a puerta en el cinturón de Barcelona: “Ya notamos la movilización de nuestro electorado”",
   "borja sémper",
   "isabel peralta",
   "carmen romero",
   "justicia",
   "primitiva hoy",
-  "Feijóo reivindica la gestión frente al \"despilfarro\" de Sánchez y arranca en Galicia su camino hacia el 29-N",
-  "El PP cancela su campaña en Guipúzcoa tras los incidentes en Hernani",
-  "RTVE emitirá el cara a cara decisivo entre Sánchez y Feijóo a diez días del 29-N",
-  "Otegi pide el voto para \"amargarles la noche a los fascistas del PP y Vox\"",
-  "Abel Caballero tras el encendido de las luces en Vigo: \"Acaba de arrancar la Navidad del planeta\"",
-  "Europa no se decide y designa siete voces para las negociaciones por la paz en Ucrania",
-  "Hallan en Hungría 17,6 millones de euros escondidos por un exministro de Orbán",
-  "Comprobar el resultado de La Primitiva del sábado 14 de noviembre de 2026",
-  "“¡Enano!” o la historia de una agresión en Madrid",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "cristina lópez schlichting",
-  "guillem gisbert",
-  "Mensajes al bajar del cayuco: “Mamá, soy Modou. Cogí un barco, llegué a España”",
-  "La estrategia de Núcleo Nacional: reclutar jóvenes, agitar la calle y quedarse en la sombra",
-  "Miles de personas exigen en las calles de Antalya más ambición climática a la COP31",
   "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
   "front polisario",
   "narciso monturiol (s-82)",
   "comisiones obreras",
   "comprobar sueldazo",
-  "RTVE cambia de día 'El perro andaluz' por la emisión del cara a cara entre Sánchez y Feijóo",
-  "Israel asfixia la esperanza en Gaza tras más de un año de bloqueo a la reconstrucción",
-  "El ébola sigue propagándose en República Democrática del Congo",
-  "Cortes de tráfico en Madrid hoy, domingo 15 de noviembre, por varias manifestaciones y carreras: horarios y calles afectadas",
-  "Un alumno de 13 años, herido tras ser apuñalado por un trinitario de 12 años a la salida de un instituto de Madrid al grito de \"baja patria\"",
-  "Alta velocidad Madrid-Barcelona, una reforma compleja en medio de un debate incendiado",
   "consulado",
-  "adif",
-  "La Ronda Litoral concentra en Sant Adrià el tramo con más accidentes graves de las rondas de Barcelona",
   "ufc",
   "móstoles",
   "sobredosis",
   "Clamor en Madrid contra el abandono ferroviario tras los siniestros de Urda y Adamuz",
-  "El legado de Heredia: de la modernización de Renfe a la gestión de la miseria",
-  "La UE insta a Israel a permitir el acceso «inmediato» de la ayuda humanitaria a Gaza",
-  "Presión en Nvidia: Elon Musk, miles de empleados y accionistas exigen restituir a Jensen Huang",
   "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Descarrilla un tren de mercancías en Zarzalejo que obliga a suspender la circulación Madrid - Ávila: el maquinista, herido leve",
-  "nvidia jensen huang",
-  "nvidia jensen huang renuncia",
-  "colette kress nvidia",
-  "ceo nvidia jensen huang"
+  "Abascal llama desde Cornellá a \"los que votaron separatismo\" y ven que \"el problema\" es \"con el califato islámico\"",
+  "Abascal llega al cinturón rojo de Barcelona para comer terreno al PSC: \"Sánchez no merece la bandera de España, solo tiene derecho a coger la de Marruecos, la de Bildu y la estelada\"",
+  "Almeida celebra que “Madrid es una de las grandes capitales del deporte”",
+  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
+  "Chatbot hentai IA: mejores plataformas hentai IA con tecnología",
+  "Colau critica que Sánchez \"ha suspendido\" en materia de vivienda",
+  "Detienen a una empleada del hogar en Betanzos por la desaparición de joyas valoradas en más de 50.000 euros: las tenía escondidas en un azucarero y varias macetas",
+  "El marido de Irene Villa, David Serrato, anuncia una recaída en su enfermedad: “Ha regresado golpeando con más fuerza”",
+  "Gómez Caamaño destaca las 4.699 plazas de personal estatutario que el Servicio Gallego de Salud oferta en las oposiciones celebradas en 2026",
+  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
+  "La Guardia Civil detiene a una empleada del hogar en Betanzos por robar joyas valoradas en más de 50.000 euros",
+  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
+  "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
+  "Los chats secretos de Blocus para saquear Barcelona: joyerías, tiendas de lujo y objetivos marcados",
+  "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
+  "Montero afirma que el turismo condiciona la economía andaluza",
+  "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
+  "Permisos por amistad, más impuestos a la vivienda y blindaje del aborto: el nuevo catálogo de anuncios de Sánchez",
+  "Una empleada del hogar roba joyas de más de 50.000 euros y las oculta en macetas y un azucarero",
+  "Vecinos de Gallegos del Pan denuncian a la Guardia Civil la desaparición de diez gatos de la colonia que vivía en el pueblo",
+  "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+  "hijas de pedro sanchez",
+  "amistad",
+  "david serrato"
  ],
  "audiencias": {
   "general": {

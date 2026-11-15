@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal se prepara para el Black Friday del 27 de noviembre con ofertas anticipadas en zapatillas, tecnología y decoración, pero también con alertas sobre tiendas falsas sugeridas por asistentes de IA y promociones engañosas. El IPMA prevé lluvia fuerte en varios distritos y el precio de los combustibles vuelve a ser noticia. La televisión (Cristina Ferreira y los realities) y los juegos de PS5 a su precio más bajo animan la conversación. Los feriados del 1 y el 8 de diciembre abren espacio para las compras de Navidad: confianza y precio claro ganan.",
+ "lectura": "La lluvia fuerte y persistente pone seis distritos en aviso amarillo y marca el domingo, mientras el mercado de Navidad del Rossio ya abrió en Lisboa. El portugués prepara el Black Friday con ofertas en cafeteras, lavavajillas y productos de Amazon, y los medios se preguntan cuántos regalos de Navidad compra cada familia. La caída de Microsoft 365, la expectativa por GTA VI y los estrenos de Netflix dominan la conversación digital. Contenido útil para la lluvia, regalos pensados y ofertas reales funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Tienda verdadera, precio verdadero",
-   "idea": "Hay alertas sobre tiendas falsas recomendadas por asistentes de IA. Muestra cómo confirmar que tu tienda es oficial (dominio, NIF, contactos) y fija la publicación en tu perfil.",
+   "titulo": "Domingo de chuva",
+   "idea": "Seis distritos están en aviso amarillo por lluvia. Restaurantes, delivery y tiendas online: promoción 'fica em casa' con entrega o recogida rápida.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Quantos presentes?",
+   "idea": "Los medios analizan cuántos regalos de Navidad ofrece cada portugués. Haz una encuesta y luego una guía de regalos por número de personas y presupuesto.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Zapatillas de temporada",
-   "idea": "Las ofertas en modelos clásicos como Samba y Gazelle están en las guías de compra. Si vendes moda, arma tres looks con zapatillas clásicas y su precio de Black Friday.",
+   "titulo": "Adeus, cápsulas",
+   "idea": "Una cafetera sin cápsulas está en su mejor precio antes del Black Friday. Marcas de café y hogar pueden mostrar el ahorro anual de moler café en casa.",
    "formato": "Reel"
   },
   {
-   "titulo": "Días de lluvia",
-   "idea": "El IPMA anticipa aviso amarillo por lluvia fuerte. Calzado impermeable, paraguas y entregas a domicilio pueden comunicar 'quédate en casa, nosotros lo llevamos'.",
-   "formato": "Instagram"
-  },
-  {
-   "titulo": "Navidad sin impulsos",
-   "idea": "Se habla de ahorrar en los regalos sin comprar por impulso. Publica una lista de regalos por presupuesto con la fecha límite para recibir antes de Navidad.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Gamer en modo ahorro",
-   "idea": "Los juegos de PS5 están a su precio más bajo en una cadena de tiendas. Las tiendas de tecnología pueden crear un pack 'fin de semana gamer' con juego y accesorio.",
+   "titulo": "Mercado de Natal",
+   "idea": "Abrió el mercado de Navidad del Rossio. Artesanos y marcas locales: muestra tu puesto o tus productos con la etiqueta de feito em Portugal.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Calendario de Adviento con cabeza",
+   "idea": "Un análisis señala los calendarios de chocolate con más azúcar. Si vendes alimentos o cosmética, ofrece un calendario alternativo y explica qué trae cada día.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "La suspensión temporal de vuelos en EE. UU. por una falla técnica ya se levantó, pero afectó a viajeros.",
-   "idea": "Agencias y envíos internacionales pueden informar plazos reales con calma."
+   "por_que": "EE. UU. levantó la suspensión de vuelos tras una falla que paró el tráfico aéreo.",
+   "idea": "Agencias y envíos: informar plazos con calma."
+  },
+  {
+   "termino": "eletricidade",
+   "color": "amarillo",
+   "por_que": "Cortes programados de electricidad en varias zonas de Portugal.",
+   "idea": "Avisos útiles y productos de respaldo energético, sin aprovechar la molestia."
+  },
+  {
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "Previsión de inestabilidad y granizo en algunas zonas.",
+   "idea": "Mensajes de servicio y productos para mal tiempo."
   },
   {
    "termino": "cristina ferreira",
    "color": "verde",
-   "por_que": "La presentadora y sus programas generan mucha conversación.",
-   "idea": "Marcas de consumo pueden acompañar el tema de entretenimiento sin entrar en polémicas personales."
+   "por_que": "Conversación sobre programas de TV y reality.",
+   "idea": "Contenido de entretenimiento ligero sin opinar sobre personas."
   },
   {
    "termino": "inteligência artificial",
    "color": "verde",
-   "por_que": "Se habla de cómo la IA reemplaza los menús escritos a mano en restaurantes.",
-   "idea": "Restauración y tecnología: mostrar cómo la IA ayuda al pequeño negocio sin perder el toque humano."
-  },
-  {
-   "termino": "playstation 5",
-   "color": "verde",
-   "por_que": "Juegos de PS5 a su precio más bajo en una cadena de tiendas.",
-   "idea": "Tecnología y ocio: packs de regalo para gamers."
-  },
-  {
-   "termino": "crédito",
-   "color": "amarillo",
-   "por_que": "Interés por los plazos de prescripción de deudas de tarjeta de crédito.",
-   "idea": "Bancos y fintech: educación financiera responsable antes de Navidad, sin incentivar el endeudamiento."
+   "por_que": "Debate sobre cómo la IA sustituye las pizarras a tiza de los restaurantes.",
+   "idea": "Restauración y tecnología: muestra cómo combinas lo artesanal y lo digital."
   }
  ],
  "ocultar": [
@@ -75,67 +75,48 @@
   "exército",
   "arrendamento",
   "norway vs wales",
-  "António Vitorino, Fernando Medina e Filipe Lobo D’Ávila nos novos Estados Gerais do PS",
-  "Depressão Charles trouxe recorde absoluto de precipitação nacional | Mau tempo",
-  "Mais de 30 cidades voltam a ser palco de manifestações pelo \"direito a morar\"",
   "EUA propõem cedência de território da Ucrânia em troca de adesão à NATO",
-  "Seguro esteve bem em receber acampada? | Podcast Soundbite",
-  "Representantes do comércio de Lisboa recebidos por Moedas incluem deputados do PSD",
-  "«Milagre no Mississippi» após colisão de petroleiro com navio de cruzeiro",
-  "Como Marco Rubio foi decisivo na queda do CEO da Nvidia",
-  "Apagão mundial a 17 de novembro? Há uma teoria a circular nas redes sociais que está a assustar milhões de pessoas",
-  "Manifestações pela habitação saem à rua em todo o país",
-  "Acampada de Lisboa pode voltar esta noite, mas já não será no Rossio",
-  "32 cidades saem hoje à rua pelo “direito a morar”",
   "rtp online",
   "saúde em portugal",
-  "Fadista Gisela João será uma das embaixadoras dos novos Estados Gerais do PS",
-  "Ministério Público investiga PSP à paisana no Porto e lançamento de petardo em Lisboa",
-  "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
-  "Só 3 dos 10 ministros do STF têm contas ativas nas redes sociais",
-  "Zé Felipe compartilha vídeo sensual de Karoline Lima e chama atenção nas redes sociais",
-  "Um vídeo de várias mulheres se torna viral ao incentivar algumas idosas a cantar “Pedro Sánchez, eu sim vou votar em você”",
   "\"Diga-me como vou sobreviver\": manifestantes exigem respostas à crise da habitação em Lisboa",
-  "Protesto junta milhares de pessoas pelo \"direito a morar\"",
-  "Manifestação pela habitação juntou milhares em Lisboa e promete subir o tom: “Isto não acabou. Queremos tudo”",
-  "Lisboa e Porto voltam a ser palco de novas manifestações pela habitação",
-  "Nova onda de protestos pela habitação enche ruas de Lisboa",
-  "Carneiro quer ULS “despartidarizadas” e recupera ideia de Pedro Nuno Santos na habitação",
-  "José Luís Gaspar garante que sai da ULS Tâmega e Sousa se houver acusação definitiva",
-  "Acampada. Recurso do MP sobre manifestações chega ao TC",
-  "Isaltino Morais cria novo partido para travar o Chega: \"Há um espaço por preencher\"",
   "Em vídeo nas redes sociais, vereador do Avante comenta a sentença que reconheceu fraude à cota de gênero e anulou mais de 15 mil votos do partido em Porto Velho; ele segue no cargo enquanto o TRE-RO não julgar o recurso. 👉🏻 Esse texto é uma prévi",
-  "Manifestação contra a crise na habitação junta milhares de pessoas em Lisboa, sem incidentes e com muita música",
-  "Acampada volta a montar tendas em Lisboa: desta vez nos Restauradores",
-  "Manifestantes em Lisboa contam como os preços das casas condicionam escolhas de vida",
-  "Crise da habitação levou milhares de pessoas às ruas de Lisboa",
-  "Acampada de Lisboa vai montar tendas nos Restauradores",
   "thomas berthold",
-  "Habitação. Manifestantes montam tendas nos Restauradores",
   "UE vai enviar seis representantes para negociar com a Rússia",
-  "Acampada de Lisboa vota a favor de montar tendas nos Restauradores",
-  "Plataforma cívica convocou uma manifestação nacional para este sábado em Lisboa. Esta sexta-feira, António José Seguro recebe representantes do movimento e das Acampadas de Lisboa e do Porto em Belém.",
-  "Acampada volta a montar as tendas em Lisboa, desta vez nos Restauradores",
-  "01h Acampada de Lisboa muda-se para os Restauradores",
   "nadador",
   "roubo",
   "chave totoloto",
   "Tom de Seguro, propostas de Pedro Nuno e uma silent disco. O arranque dos Estados Gerais de Carneiro",
   "Passos Coelho espera que “não se percam mais 10 anos” sem reformar Segurança Social",
   "Finanças saúda avaliação positiva da DBRS e destaca crescimento económico acima do esperado",
-  "PS criou legislação do Volta e agora \"pede contas\" à Câmara de Lisboa por causa dela? A SIC Verifica",
   "ufc",
   "insolvência",
   "imposto",
   "aeroporto internacional de miami",
   "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
   "Dois aviões colidem na pista do aeroporto internacional de Miami",
-  "José Manuel Pureza: \"Não tenho qualquer ilusão sobre o desempenho de Seguro\"",
-  "França. Manifestantes nas ruas de Paris pelo quinto fim de semana consecutivo",
-  "Acampada de Lisboa muda-se: dezenas de 50 tendas montadas nos Restauradores",
   "Habitação: Noite tranquila nos Restauradores em Lisboa com cerca de 40 tendas montadas",
-  "“O que se faz com a riqueza?”. Rede internacional de ultra-ricos chega a Lisboa",
-  "Acampada pelo direito à habitação regressa a Lisboa. Tendas vão ser montadas esta noite nos Restauradores"
+  "A disseminação de infecções por HIV ocorre nas redes sociais: Ministério da Saúde exige medidas rigorosas.",
+  "Abilio anuncia reforma administrativa; pasta da Educação terá três secretários",
+  "Acampada de Lisboa promete continuar a luta e ocupa Praça dos Restauradores",
+  "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel",
+  "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
+  "Colisão entre três carros corta EN365 na Golegã e provoca dois feridos",
+  "Custo da Gala do Desporto em Santarém motiva nova discussão entre João Leite e Pedro Ribeiro",
+  "Despiste de carro de luxo deixa homem em estado crítico em Beja. Vítima foi helitransportada",
+  "Dois jovens agredidos em festa universitária em Lisboa tiveram de receber tratamento hospitalar",
+  "Drones ucranianos resgatam cães e gatos de cidade ocupada pela Rússia",
+  "Flávio Bolsonaro procura casa de luxo nos EUA",
+  "Flávio Bolsonaro procura casa de luxo nos EUA, diz colunista",
+  "GNR apreende 6750 litros de gasolina na A2. Quais são os riscos de transportar grandes quantidades de combustível?",
+  "JPP inscreve dívida aos profissionais de saúde no ORAM 2027",
+  "JPP inscreve dívida aos profissionais de saúde no orçamento de 2027 - JPP - Juntos Pelo Povo",
+  "Mais de 100 cães e gatos resgatados em Ermesinde — 24 morreram",
+  "Noite tranquila nos Restauradores, em Lisboa, com cerca de 40 tendas montadas",
+  "O Ministério da Saúde está investigando o vazamento de informações sobre pessoas infectadas com HIV nas redes sociais.",
+  "Protesto “Acampada Lisboa” está de volta, agora na Praça dos Restauradores",
+  "Secretário de Estado do Desporto apupado no Seixal",
+  "Seguro não garante veto à lei das rendas, dá força às Acampadas e pede filmagens de carga policial no Porto",
+  "a2"
  ],
  "audiencias": {
   "general": {

@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Último día largo del Buen Fin: el lunes 16 es feriado por el Día de la Revolución y las tiendas de CDMX, Monterrey y Guadalajara siguen llenas, con pantallas y tenis como lo más buscado. El consumidor compara precios y Profeco ya reporta quejas por ofertas incumplidas, así que la confianza vale tanto como el descuento. Conciertos como el de Karol G con Belinda, el Buen Fin en Ticketmaster y el frente frío número 5 marcan la conversación. Tras el cierre, el foco pasa a Navidad y al Black Friday del 27.",
+ "lectura": "El Buen Fin está en plena marcha y coincide con el puente del lunes 16 por el Día de la Revolución: plazas llenas en Puebla y en el centro de varias ciudades, Coppel y Aurrera con remates de celulares y pantallas, y Ticketmaster con descuentos en eventos. A la vez, especialistas y Profeco advierten sobre descuentos engañosos y compras impulsivas. El frente frío pide ropa abrigadora en CDMX y crecen las búsquedas sobre pagos del INAPAM y la Pensión Bienestar. Ofertas verificables, meses sin intereses claros y contenido útil para el frío conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Cuenta regresiva al cierre",
-   "idea": "El Buen Fin termina con el puente. Publica un contador hasta el lunes a medianoche mostrando precio anterior real y precio de hoy: Profeco vigila y el cliente compara, así que la transparencia vende.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Pantallas y tenis",
-   "idea": "Son los artículos más buscados del Buen Fin. Si vendes accesorios (soportes, limpiadores, plantillas, calcetas), arma combos 'complementa tu compra' y promuévelos como venta cruzada.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Entrega antes de Navidad",
-   "idea": "Quien compró en el Buen Fin quiere recibir a tiempo para las fiestas. Comunica fechas de entrega garantizadas y el último día para pedir con envío estándar: reduce dudas y mensajes al chat.",
+   "titulo": "Último jalón del Buen Fin",
+   "idea": "El Buen Fin termina con el puente del lunes. Haz un conteo regresivo con 3 productos y el precio anterior visible para demostrar que el descuento es real, tal como piden los especialistas.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Look para el frío",
-   "idea": "El frente frío 5 trae granizo y bajas temperaturas en el centro del país. Muestra tres outfits o productos para el frío con precio Buen Fin y una frase con humor ligero tipo '¿Ya sacaste la chamarra?'.",
-   "formato": "TikTok"
+   "titulo": "Experiencias con descuento",
+   "idea": "Ticketmaster se sumó al Buen Fin con hasta 50% en eventos. Restaurantes, bares o tiendas cercanas a recintos pueden ofrecer 'combo antes del concierto' para quien compró boletos.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Plan de concierto",
-   "idea": "Los conciertos y las promociones en Ticketmaster están en conversación. Marcas de moda, belleza o comida pueden lanzar 'kit de concierto' (maquillaje que aguanta, bolsa transparente, snack) con entrega rápida.",
+   "titulo": "Chamarra para el frente frío",
+   "idea": "El pronóstico pide ropa abrigadora en CDMX y el frente frío llega a Puebla. Muestra 3 outfits en capas o un kit de invierno con envío rápido: el frío resuelve la urgencia de compra.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Compra sin caer en el gancho",
+   "idea": "Profeco y especialistas alertan sobre fraudes digitales y compras impulsivas. Publica una lista de 5 señales de una tienda confiable y muestra cómo cumples cada una.",
    "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Mascotas, gasto que no perdona",
+   "idea": "El alimento para mascotas subió hasta 50% en cinco años. Si vendes productos para mascotas, ofrece suscripción o paquete del mes con precio fijo y cuéntalo como ahorro real.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "inapam",
-   "color": "amarillo",
-   "por_que": "Muchas personas mayores buscan información del próximo pago del programa; es un tema sensible de ingresos.",
-   "idea": "No prometas pagos ni uses el programa como gancho; marcas para adultos mayores pueden ofrecer descuentos claros con credencial."
+   "color": "verde",
+   "por_que": "Alta búsqueda del pago de diciembre del INAPAM para adultos mayores.",
+   "idea": "Bancos, farmacias y comercios: contenido útil para adultos mayores sobre cómo aprovechar su pago con seguridad."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "La boletera se sumó al Buen Fin con descuentos en conciertos y espectáculos.",
-   "idea": "Restaurantes, transporte y moda pueden crear paquetes 'antes del concierto' y regalar experiencias en Navidad."
+   "por_que": "Ticketmaster se unió al Buen Fin con descuentos de hasta 50% en eventos.",
+   "idea": "Marcas de entretenimiento y comida: promociones ligadas a conciertos y planes de fin de semana."
   },
   {
    "termino": "mexico va",
    "color": "amarillo",
-   "por_que": "La búsqueda está ligada a dudas sobre un supuesto apagón en EE. UU. el 17 de noviembre; los medios lo desmienten.",
-   "idea": "Tecnología y energía: contenido práctico sobre respaldo de datos y baterías, aclarando que es un rumor."
+   "por_que": "Rumor de un apagón en EE. UU. el 17 de noviembre que los medios desmienten.",
+   "idea": "Tecnología: tips de respaldo y baterías aclarando que es un rumor; no uses el miedo como gancho."
   },
   {
-   "termino": "granizo",
+   "termino": "instituto mexicano del seguro social",
    "color": "amarillo",
-   "por_que": "El frente frío 5 deja granizo y bajas temperaturas en Puebla y el centro del país.",
-   "idea": "Ropa de abrigo, cobijas y bebidas calientes; evita minimizar daños si hubo afectaciones."
+   "por_que": "El IMSS anuncia cirugías nocturnas y en fin de semana para reducir el rezago.",
+   "idea": "Salud y seguros: comunica opciones con tono informativo y sin prometer tiempos."
   },
   {
-   "termino": "liam neeson",
+   "termino": "karol g",
    "color": "verde",
-   "por_que": "Una película de acción del actor se volvió éxito en Prime Video pese a la crítica.",
-   "idea": "Plataformas, botanas y delivery pueden proponer 'maratón de fin de semana' con combos para ver en casa."
+   "por_que": "La alfombra roja de los Latin Grammy 2026 dispara búsquedas de estilos de celebridades.",
+   "idea": "Moda y belleza: 'recrea el look' con productos accesibles y referencias a la tendencia."
   }
  ],
  "audiencias": {
@@ -770,6 +770,76 @@
     "ES": "chaqueta / cazadora",
     "AR": "campera"
    }
+  },
+  {
+   "expresion": "Me late",
+   "significado": "Me gusta, me parece buena idea.",
+   "uso": "Todo el país, conversación cotidiana.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Te late un combo para el puente?",
+   "equivalentes": {
+    "CO": "me gusta / me suena",
+    "EC": "me gusta",
+    "ES": "me mola",
+    "AR": "me copa"
+   }
+  },
+  {
+   "expresion": "Sale",
+   "significado": "De acuerdo, va; confirma un plan o trato.",
+   "uso": "Todo el país, muy común en mensajes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Te lo enviamos hoy? ¡Sale!",
+   "equivalentes": {
+    "CO": "listo / dale",
+    "EC": "ya / dale",
+    "ES": "vale",
+    "AR": "dale"
+   }
+  },
+  {
+   "expresion": "Un chorro",
+   "significado": "Mucho, una gran cantidad.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Tenemos un chorro de ofertas este Buen Fin.",
+   "equivalentes": {
+    "CO": "un montón",
+    "EC": "full / bastante",
+    "ES": "un montón",
+    "AR": "un montón / banda"
+   }
+  },
+  {
+   "expresion": "Ni modo",
+   "significado": "Ni hablar, qué se le va a hacer; aceptar algo que no se puede cambiar.",
+   "uso": "Todo el país.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "¿Se acabó el Buen Fin? Ni modo… pero esta oferta sigue.",
+   "equivalentes": {
+    "CO": "ni modo / qué se le va a hacer",
+    "EC": "ni modo",
+    "ES": "qué le vamos a hacer",
+    "AR": "qué le vas a hacer"
+   }
+  },
+  {
+   "expresion": "Pachanga",
+   "significado": "Fiesta, reunión animada.",
+   "uso": "Todo el país, también en EE. UU. entre mexicanos.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Todo listo para la pachanga de fin de año.",
+   "equivalentes": {
+    "CO": "rumba",
+    "EC": "farra",
+    "ES": "fiesta / juerga",
+    "AR": "joda / fiesta"
+   }
   }
  ],
  "creadores": {
@@ -890,12 +960,20 @@
    "accion": "Storytelling del artesano y del proceso en Instagram."
   },
   {
-   "titulo": "Tecnología y gaming de EE. UU.",
-   "senal": "Fuerte comunidad gamer y precios más bajos en EE. UU.",
+   "titulo": "Cacao y chocolate de Tabasco para tiendas gourmet en EE. UU.",
+   "senal": "El Festival del Chocolate en Tabasco reunió a más de 50 mil visitantes y crece el interés por el cacao de origen.",
+   "desde": "MX",
+   "hacia": "US",
+   "sector": "cafe-cacao",
+   "accion": "Probar contenido de origen y trazabilidad dirigido a tiendas gourmet y a la comunidad mexicana en EE. UU.; validar requisitos sanitarios antes de vender."
+  },
+  {
+   "titulo": "Accesorios gamer y consolas para el estreno de GTA VI",
+   "senal": "El lanzamiento de GTA VI y las ofertas de Black Friday en consolas y accesorios elevan la búsqueda en México.",
    "desde": "US",
    "hacia": "MX",
    "sector": "gaming",
-   "accion": "Comparativas de precio con streamers mexicanos."
+   "accion": "Comparar precios finales con envío e impuestos antes de promover; contenido con streamers mexicanos."
   }
  ],
  "anuncios": [
@@ -957,82 +1035,31 @@
   "comercio",
   "kings - trail blazers",
   "pobreza en méxico",
-  "Trasladan de urgencia a Félix Gallardo a hospital de Guadalajara por problemas de salud",
-  "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
   "La caída de Jensen Huang de la cima de Nvidia",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
-  "La Guardia Civil desarticula en TikTok una red de ciberdelincuencia que captaba mulas bancarias por 100 euros",
-  "Varias marcas suspenden su publicidad en TikTok tras la investigación de Maldita.es",
-  "Emite SSPC Morelos recomendaciones para realizar compras seguras durante El Buen Fin 2026",
-  "Arrancan Javier Díaz e instituciones de seguridad el Operativo del Buen Fin 2026",
-  "CDMX: suprimen de programa urbano metropolitano el tema del predial",
-  "🚨 Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 Redes Sociales",
-  "Cae en Guadalajara el “Raptor”, presunto operador regional del CJNG en Colima y Jalisco",
-  "Cae “El Raptor”, presunto jefe operativo del CJNG en Jalisco y Colima; Marina lo detiene en Guadalajara",
   "Detienen en Guadalajara a \"Raptor\", jefe regional en Colima y Jalisco",
-  "Detienen en Guadalajara a Giancarlo 'N', Alias el 'Raptor', Presunto Jefe Operativo Regional",
   "Detienen en Guadalajara a “Raptor” o “Lucifer”, presunto jefe operativo regional con presencia en Colima y Jalisco",
   "Detienen a “Lucifer” en Guadalajara: Giancarlo “N” era presunto jefe operativo en Jalisco y Colima",
-  "Funcionarios estatales y municipales participan en reparto de agua en Guadalajara",
-  "Las afganas se aferran a los colores en la intimidad, frente a la oscuridad de los talibanes: “No es ropa, es una prisión”",
-  "ONU advierte que bloqueo en Ormuz afecta el suministro de fertilizantes y alimentos",
-  "Pepe Chedraui fortalece el bienestar y desarrollo integral de las juventudes con el programa federal “Jóvenes Unen al Barrio”",
-  "Centros Comunitarios “México Imparable”, nueva etapa de desarrollo y bienestar para jóvenes",
-  "Legisladores afirman que en la CDMX se avanza en el bienestar de la población",
-  "Negar la quebradura en salud",
-  "La FCPyS coordinó la conferencia: Usos de la Inteligencia Artificial en seguridad y defensa",
-  "BUSQUE AYUDA PROFESIONAL Y NO DE LA INTELIGENCIA ARTIFICIAL",
-  "El escándalo de Nvidia ensombrece las conversaciones entre Estados Unidos y China sobre inteligencia artificial",
-  "Por enfrentamientos armados, más de 300 mil personas abandonan su hogar en el Congo",
-  "Rescatan a 2 niños y una niña que deambulaban por calle de Reynosa; quedan bajo custodia de Casa Hogar",
-  "Mascotas sufren un infierno en Macuspana y Tacotalpa",
-  "En cateo, rescatan cinco perros maltratados en Cuautla",
-  "México presume aumento de recursos para la primera infancia, pero miles se enfrentan al reclutamiento, trata y violencia familiar",
-  "Se rompe tubo en hospital IMSS-Veracruz; quema a 4, 2 bebés",
-  "Aseguran 18 camionetas de lujo en bodega de Jalisco tras enfrentamiento armado",
-  "¡Hallan camioneta que escapó! Aseguran bodega con 18 camionetas de lujo tras operativo en Ocotlán",
-  "Aprueban reformas para impulsar la sostenibilidad en la obra, proteger la producción agrícola y fortalecer la seguridad",
-  "La educación pública cumple un mes de huelga en Madrid sin que la Comunidad se siente a negociar: “No podemos seguir sosteniendo el sistema educativo en nuestras espaldas”",
   "vivienne marcheline jolie-pitt",
-  "Presunto ahijado de 'El Mencho' huye en vehículo con placas de EU tras enfrentamiento en Ocotlán y autoridades",
-  "Nuevo golpe al CJNG; aseguran dos narcolaboratorios con capacidad para producir 17 mdp mensuales en droga",
-  "¿Duermen tranquilos con sus hijos en TikTok?",
-  "Desmantelan una red de ciberestafas bancarias en TikTok",
-  "¿Vas a salir hoy? Marchas y concentraciones en la CDMX este sábado 14 de noviembre: horarios y puntos afectados",
   "Cae en Guadalajara el “Raptor”, presunto líder regional del CJNG en Colima y Jalisco",
-  "Con baja oxigenación, Félix Gallardo fue llevado de Puente Grande a un hospital privado",
-  "Detienen en Guadalajara al “Raptor” líder operativo en Colima y Jalisco",
   "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
-  "Los cadáveres que Morena no quiere ver, escribe Azucena Uresti",
-  "Enfrentamiento entre grandes potencias redefine la lógica de la economía mundial",
   "Afirman legisladores que en la CDMX se garantiza el derecho al deporte",
-  "Marchas CDMX EN VIVO sábado 14 de noviembre: rutas y cierres",
-  "Centro Histórico de CDMX reporta más de 21 mil acciones en seguridad, mantenimiento y cultura",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
-  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
-  "¿Se arrepintió? Vicente Fox pide respetar el voto tras atribuirse el triunfo de Felipe Calderón en 2006",
-  "Tras enfrentamiento, cae el \"Mike\", integrante \"Los R's\" del CJNG",
-  "El cantante Gabito Ballesteros, arrestado tras cantar un corrido en Querétaro",
-  "Colocan vallas en varios puntos del Centro Histórico de la CDMX, previo a la Marcha de la Generación Z",
-  "🚕 Elementos de la SSC de CdMx detuvieron a Israel ‘N’, señalado como presunto responsable de asaltar a una mujer que, por desesperación, se lanzó de un taxi en movimiento en la alcaldía Magdalena Contreras. 📹: Carlos Jiménez",
-  "Junto a ti este Buen Fin, más de mil 700 policías auxiliares cuidan la tranquilidad de las familias michoacanas",
-  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
-  "Buque petrolero choca contra crucero con 129 pasajeros en el río Misisipi",
   "karina torres",
-  "Cae uno de 'Los R's' tras enfrentamiento en Jalisco",
-  "Morena cuestiona a Fox por retractarse de sus dichos sobre triunfo de Calderón",
   "La carta de clemencia del hermano de El Mencho a jueza en EEUU: “Éramos pobres, siete hermanos y mi padre nos abandonó”",
-  "Ensenada activa operativo de emergencia por fuertes lluvias; rescatan a hombre atrapado en Valle Dorado",
-  "En Portugal, miles protestan contra el encarecimiento de la vida; se movilizan en más de 30 ciudades",
-  "Anuncian salida de 2 Secretarios de Monterrey",
   "colette kress nvidia",
   "nvidia jensen huang",
   "nvidia jensen huang renuncia",
-  "ceo nvidia jensen huang",
-  "Detienen a 'El Mike', presunto operador del CJNG vinculado al caso Carlos Manzo",
-  "Marchas en CDMX Hoy Domingo 15 de Noviembre de 2026: Calles con Posibles Bloqueos",
-  "Ahora sí, viene la discusión del presupuesto en CDMX",
-  "En CDMX, 15 colonias de 6 alcaldías concentran denuncias por maltrato animal"
+  "América y Red Bull New York terminan en golpes en amistoso",
+  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
+  "Cumple un año en la congeladora iniciativa de Morena contra accesorios vehiculares",
+  "Fumigan parque de Monterrey donde descansan mariposas monarca; legisladora Lorena de la Garza, admite error",
+  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
+  "Línea antiextorsión del C5 recibe casi 8 mil reportes en CDMX",
+  "Marina captura a Giancarlo ‘N’, alias ‘Lucifer’, jefe del CJNG en Jalisco",
+  "Más deuda, ¿más bienestar?",
+  "México podría terminar con brote de sarampión que en dos años dejó 50 muertes: esta es la situación actual del virus",
+  "Realiza Uno de Siete Migrando colecta de dulces para posada de niñas y niños",
+  "¿A qué va Claudia a China?",
+  "🚨#LoMásVisto | Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 R"
  ]
 }

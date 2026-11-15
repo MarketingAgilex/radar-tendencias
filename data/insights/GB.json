@@ -1,32 +1,32 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El fin de semana británico gira en torno a 'Strictly Come Dancing' camino a Blackpool y a un frío que trae avisos de nieve, hielo y alertas sanitarias. Las compras navideñas arrancan con presupuestos más ajustados: los británicos prevén gastar unas 103 libras en sus seres más cercanos y buscan ofertas anticipadas de Black Friday, liquidaciones y mercados locales. Las luces navideñas de Carnaby Street y la conversación sobre GTA VI completan el panorama. Regalos con sentido, valor claro y planes acogedores en casa conectan hoy.",
+ "lectura": "El Reino Unido mira el cielo: alertas sanitarias por frío, nieve y hielo en Escocia y el norte de Inglaterra, y lluvia en Londres. Strictly Come Dancing domina la conversación camino de Blackpool, las luces navideñas de Carnaby Street ya generan debate y la temporada de fiestas activa guías de estilo. En compras, Victoria's Secret anticipa menos rebajas, Asda vuelve a crecer en alimentación y se multiplican los avisos contra estafas de Black Friday. Calidez, confianza y planes de interior funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "El regalo de las 100 libras",
-   "idea": "Se estima un gasto de unas 103 libras en los seres más cercanos con presupuestos ajustados. Arma una guía de regalos 'por debajo de £25, £50 y £100' y destaca el envío antes de Navidad.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Noche de Strictly en casa",
-   "idea": "Strictly lidera las búsquedas del sábado. Snacks, mantas, velas o pijamas: vende un 'pack Strictly night in' con entrega el mismo fin de semana.",
+   "titulo": "Cozy night in",
+   "idea": "Con alertas por frío y nieve, el plan es quedarse en casa. Propón un 'kit de noche de Strictly': manta, snacks y bebida caliente con tus productos.",
    "formato": "Reel"
   },
   {
-   "titulo": "Preparados para la nieve",
-   "idea": "Hay avisos de nieve y hielo. Calzado, abrigo y calefacción pueden publicar un checklist práctico de invierno con productos y entrega rápida.",
-   "formato": "Facebook"
+   "titulo": "Black Friday sin estafas",
+   "idea": "Los medios publican formas de detectar estafas online. Muestra en un carrusel cómo verificar tu tienda: dirección real, reseñas y métodos de pago seguros.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Luces sin pantalla",
-   "idea": "Las luces de Carnaby Street generaron debate por el mar de móviles grabándolas. Invita a tus seguidores a una 'visita sin móvil' a tu tienda o evento navideño, con un detalle para quien venga.",
+   "titulo": "Luces de Navidad, versión propia",
+   "idea": "Las luces de Carnaby Street se llenaron de móviles grabando. Invita a tus seguidores a enviar la foto de su escaparate o salón iluminado y premia la mejor.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Early Black Friday con valor",
-   "idea": "Los compradores siguen 'cambiando a opciones más baratas'. Comunica valor (duración, garantía, costo por uso) además del descuento en tu oferta anticipada.",
+   "titulo": "Look de party season",
+   "idea": "Arrancan las guías de estilo para fiestas. Marcas de moda y belleza: tres looks de oficina a fiesta con un solo cambio de prenda o maquillaje.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Skincare para el frío",
+   "idea": "Llega el frío intenso y la piel lo nota. Comparte una rutina de invierno de 3 pasos con tus productos y precio del set.",
    "formato": "Copy para anuncio"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Búsqueda masiva del pronóstico por el frío y los avisos invernales.",
-   "idea": "Ropa de abrigo, calefacción y delivery con mensajes del día."
+   "por_que": "Gran interés por el pronóstico ante el frío y la nieve.",
+   "idea": "Contenido según el clima del día: ropa de abrigo, calefacción y planes de interior."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "El programa de baile es lo más visto del sábado y se acerca la semana de Blackpool.",
-   "idea": "Moda de fiesta, belleza y snacks: contenido de 'looks' y planes para verlo en casa."
+   "por_que": "Strictly Come Dancing sigue liderando la conversación del sábado.",
+   "idea": "Moda, belleza y snacks: looks de lentejuelas y planes para ver el programa."
   },
   {
    "termino": "weather",
-   "color": "verde",
-   "por_que": "Interés por el clima ante nuevas alertas por frío.",
-   "idea": "Productos de invierno con tono práctico."
+   "color": "amarillo",
+   "por_que": "Alertas sanitarias por frío y previsiones de nieve y hielo.",
+   "idea": "Mensajes de cuidado y productos útiles; tono de servicio."
   },
   {
-   "termino": "london weather",
+   "termino": "strictly come dancing week 8 results",
    "color": "verde",
-   "por_que": "Lluvia en Londres y avisos de nieve y hielo en otras zonas.",
-   "idea": "Comercio londinense: paraguas, cafés y planes bajo techo."
+   "por_que": "Resultados de la semana ocho camino de Blackpool.",
+   "idea": "Encuestas y contenido de fans con humor ligero."
   },
   {
-   "termino": "carnaby street christmas lights",
+   "termino": "aljaz strictly",
    "color": "verde",
-   "por_que": "Las luces navideñas de Carnaby Street generan conversación y debate sobre el uso del móvil.",
-   "idea": "Retail y hostelería del centro: planes navideños y ofertas para visitantes."
+   "por_que": "Cambio de pareja de última hora en Strictly.",
+   "idea": "Úsalo solo para contenido de entretenimiento sin opinar sobre personas."
   }
  ],
  "audiencias": {
@@ -1082,57 +1082,39 @@
   "abingdon fireworks",
   "l3harris",
   "you can see everything",
-  "hansika motwani video viral video clips original",
   "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-  "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-  "Recap: M6 Cumbria southbound finally cleared after lorry blaze",
-  "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
   "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-  "Wemby Reacts to Draymond Green's Shove with Honest Response in Viral Video After Spurs Beat Warriors",
-  "{{~@!!XXX EXCLUSIVE VIDEO!คลิป ไทย Latest Viral Videos Viral Video) yk1ol}}",
-  "~ ~(𝙵𝚄𝙻𝙻√𝚅𝙸𝙳𝙴𝙾𝚂!)*barmer patwari viral video",
-  "Fans express concern after Sharad Kapoor’s video bidding farewell to pet dogs goes viral",
-  "{{‍�𝙀𝙓~𝙑𝙄𝘿𝙀𝙊~𝙓𝙓𝙓)𝙫𝙞𝙙𝙚𝙤 𝙛𝙞𝙡𝙩𝙧𝙖𝙙𝙤 𝙙𝙚 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙫𝙞𝙧𝙖𝙡 𝙫𝙞𝙙𝙚𝙤}}",
-  "Shoppers worry about Black Friday AI scams, but drop their guard at checkout, as Gen Z scam claims surge 56 per cent",
-  "Shoppers at Morrisons in Largs raise over £3k for Poppyscotland during appeal",
   "gladiators",
-  "Body found on French beach after attempted Channel crossing",
-  "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase",
-  "Homes evacuated after car crashes into house and causes gas leak",
-  "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-  "Iraq denies 72-hour airspace closure, says viral video was old and edited",
-  "{{~[[Instagram viral mms]] FUN4U VIRAL VIDEO}}",
-  "{{++(official^video)++Kirana viral video original Clip in Social Media x TikTok}}",
-  "{{++[Original^video#] Hansika Motwani's viral video trending on social media}}",
-  "Two children, 6 and 7, rescued from squalid London flat could only say ‘iPad’",
   "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-  "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
-  "Alleged Russell Brand rape victim wants age of consent law changed",
-  "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-  "Building fire forces closure of major south London road",
-  "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
-  "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
-  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral",
-  "Body of man, 26, found in canal after Coronation Street star issued urgent missing person plea during two-week search",
   "Judo champion shakes up French presidential race with surprise candidacy",
-  "'Because of your d**k?': Australian PM's hot-mic exchange goes viral",
-  "‘Because of your d***?’ Australian PM Anthony Albanese’s genitalia remark to climate minister goes viral",
-  "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-  "UK government to consider changing age of consent after allegations against Russell Brand",
   "polly hudson",
-  "The world according to China",
   "Incident on Dublin to Waterford train goes viral after report made to Irish Rail",
   "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
   "ufc",
   "finance",
-  "Minister refuses to rule out some young people may lose benefits after Milburn review",
   "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-  "Russell Brand secretly moved to 'cushy' new jail with yoga and choir sessions",
   "Israel kills Hamas commander in strike on Gaza camp, officials say",
-  "Two planes collide while taxiing at Miami airport - as two suffer minor injuries",
   "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
   "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
-  "Aryna Sabalenka apologises after viral video, denies insulting Elina Svitolina",
-  "“My comment was not directed at Elina”: Sabalenka apologises after her alleged anti-Ukrainian outburst during the Svitolina match goes viral"
+  "Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations",
+  "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
+  "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
+  "Burnham ‘faces rebellion’ from MPs on Rosebank",
+  "Iran says it targets US radar in Bahrain. What do we know?",
+  "MP welcomes FSA briefing and highlights importance of protecting food standards",
+  "RYDE RESIDENTS FEARFUL AS CARS VANDALISED AND SWASTIKA DAUBED ON BONNET",
+  "Singer's Hall of Fame induction axed over Russell Brand comments",
+  "Slough man who left dogs without water given 10-year ban",
+  "Southampton Anti-Racism Alliance sees crowds gather for marching and music in a show of community unity",
+  "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+  "Trident nuclear submarine concludes record underwater deployment",
+  "Ukrainian strikes hit major Russian petrochemical plant",
+  "Under Capitalism, Even Kids’ Playtime Is Alienated",
+  "[xXx] Xnxx!+Xxxx) Pakistani Teacher and Student Viral Video 3AhDdkDH3K",
+  "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
+  "★彡 xxx video 彡★ viral!!】Caramel Macchiato viral video trending on social media",
+  "☠♩ χ𝐗Ж ᐯƗĎέỖ ൠඏ++[Original^video#] Hansika Motwani's viral video trending on social media",
+  "nizhnekamskneftekhim",
+  "ian mcnabb"
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los chilenos llenaron museos en una Noche de Museos récord y hablan de un bólido que iluminó el cielo desde la Región Metropolitana hasta Los Ríos, mientras el centro-sur se prepara para hasta 100 mm de lluvia. En consumo, el Black Friday ya instala la pregunta de cuándo es y cómo comprobar si los descuentos son reales, BancoEstado promueve una gift card de noviembre y una consola de Xbox se agotó en su lanzamiento. Experiencias culturales, ofertas verificables y contenido útil para la lluvia del sur son la jugada de hoy.",
+ "lectura": "Tras la ola de calor, Santiago se prepara para el regreso de las lluvias y el centro-sur espera hasta 100 mm, mientras un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió conversación nacional. BancoEstado ofrece una gift card de $100 mil en noviembre, Hot Wheels llega a Chile con experiencia propia y las tiendas de mascotas crecieron 132% en seis años con los 'perrihijos'. A dos semanas del Black Friday, el chileno compara y planifica regalos. Contenido útil para el cambio de clima, mascotas y entretenimiento familiar conecta hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Cultura que vende",
-   "idea": "La Noche de Museos rompió récords de asistencia. Si tienes una marca de diseño, libros o café, propone un 'panorama cultural del fin de semana' con tu producto como parte del plan.",
-   "formato": "Carrusel Instagram"
-  },
-  {
    "titulo": "¿Viste el bólido?",
-   "idea": "El bólido que cruzó el cielo es tema en todo el país. Pide a tus seguidores que comenten desde dónde lo vieron y conecta con tu marca con humor suave ('Así de rápido llega tu pedido').",
+   "idea": "El bólido que cruzó el cielo de Chile es tema de conversación. Usa el momento con humor: 'Algo pasó más rápido que el bólido: nuestro despacho'. Solo si puedes cumplirlo.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Lluvia en el sur",
-   "idea": "Se esperan hasta 100 mm en Biobío, La Araucanía y Los Ríos. Ropa impermeable, calzado y delivery pueden publicar 'qué necesitas esta semana' y avisar posibles demoras de despacho.",
+   "titulo": "Del calor a la lluvia",
+   "idea": "Santiago pasa del calor a la lluvia y el sur espera precipitaciones intensas. Tiendas de ropa y hogar pueden mostrar un 'kit cambio de clima' con despacho rápido.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin letra chica",
-   "idea": "Las búsquedas sobre cómo revisar si un descuento es real crecen. Publica tu precio de hoy, el precio del Black Friday y las condiciones de despacho en una sola imagen.",
-   "formato": "Copy para anuncio"
+   "titulo": "Perrihijos en Navidad",
+   "idea": "Las tiendas de mascotas en la RM crecieron 132% en seis años. Lanza una guía de regalos navideños para perros y gatos por presupuesto.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lo que se agotó",
-   "idea": "Una consola se agotó en su lanzamiento. Si tienes stock limitado de un producto deseado, comunica unidades disponibles en tiempo real en historias para activar la urgencia sin inventar escasez.",
-   "formato": "Historia Instagram"
+   "titulo": "Pista Hot Wheels en casa",
+   "idea": "El universo de Hot Wheels llega a Chile. Jugueterías y tiendas de autos a escala pueden armar un reto de pistas caseras con sus productos y premiar la más creativa.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Gift card bien usada",
+   "idea": "BancoEstado entrega una gift card de $100 mil en noviembre. Publica ideas de qué comprar con ese monto en tu tienda, con precios finales claros.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido fue observado en gran parte del país y se viralizaron los videos.",
-   "idea": "Marcas pueden sumarse con humor ligero y preguntas a la comunidad; astronomía y turismo pueden promover experiencias de cielo nocturno."
+   "por_que": "Un bólido iluminó el cielo desde la RM hasta Los Ríos y se viralizó.",
+   "idea": "Contenido de curiosidad y humor ligero; ciencia, ópticas y telescopios pueden educar."
+  },
+  {
+   "termino": "pronóstico del tiempo",
+   "color": "verde",
+   "por_que": "Cambio de calor a lluvias y bajas temperaturas.",
+   "idea": "Ropa, hogar y delivery: mensajes adaptados al clima de cada día."
   },
   {
    "termino": "tiempo",
    "color": "amarillo",
-   "por_que": "Se anuncian hasta 100 mm de lluvia en el centro-sur del país.",
-   "idea": "Ropa de lluvia y servicios a domicilio con avisos útiles; evita humor si hay afectados."
+   "por_que": "Hasta 100 mm de lluvia esperados en Biobío, La Araucanía y Los Ríos.",
+   "idea": "Avisos de servicio y productos para lluvia; tono útil, no alarmista."
+  },
+  {
+   "termino": "inessa sorokina",
+   "color": "amarillo",
+   "por_que": "Farándula: ex pareja de un influencer en programa de TV.",
+   "idea": "Úsalo solo si tu marca vive del entretenimiento; evita tomar partido en polémicas."
   },
   {
    "termino": "banco estado",
    "color": "verde",
-   "por_que": "Interés por una gift card de $100 mil que ofrece el banco en noviembre.",
-   "idea": "Comercios pueden explicar si aceptan tarjetas del banco y crear ofertas complementarias."
-  },
-  {
-   "termino": "twitch",
-   "color": "verde",
-   "por_que": "Conversación gamer por sorteos y el lanzamiento de GTA VI.",
-   "idea": "Tecnología y snacks: contenidos de 'noche gamer' y accesorios."
-  },
-  {
-   "termino": "supuesto apagon mundial",
-   "color": "amarillo",
-   "por_que": "Rumor viral sin fundamento sobre un apagón global el 17 de noviembre.",
-   "idea": "Contenido de prevención práctico aclarando que es falso; no uses el miedo para vender."
+   "por_que": "Interés por la gift card de $100 mil que ofrece BancoEstado en noviembre.",
+   "idea": "Comercios: ideas de compra con ese monto y medios de pago aceptados."
   }
  ],
  "ocultar": [
@@ -69,63 +69,43 @@
   "maria camila pantoja",
   "ximena lincolao",
   "mauricio pinilla",
-  "Israel bombardea hospital en la Franja de Gaza y mata a al menos 6 personas",
-  "Camila Bustamante, víctima del Sodalicio tras su reunión con el Papa: “Lo sentí preocupado y con un compromiso personal”",
-  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
-  "Autora de poemario sobre el estallido social denuncia irregularidades en premio de Cultura: Ministerio anuló la decisión",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» a cambio de 100 euros",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
-  "Gonzalo Vallespín, teniente de navío, sobre la Armada en TikTok: «No estar presentes supone permitir que otros construyan el relato»",
   "La abogada que cobró $12 millones a desalojados de megatoma en Cerrillos",
   "“No hagan un rescate militar”, pide subteniente secuestrada por el ELN",
-  "Nuevo round en MinCiencia: subsecretaria Rossi desconoce y rechaza despidos ordenados por Ximena Lincolao",
   "acuerdo",
   "alerta roja",
-  "Briones critica acuerdo con camioneros: “Nada mal el premio por unos días de toma de rutas vulnerando el Estado de derecho”",
-  "Ojos de la llave: el nuevo chat de ministros y la última (e improvisada) firma de la AC contra Rabat",
   "Realizan amplio operativo de búsqueda por joven que se perdió en playa Caleta Abarca en Viña del Mar",
-  "Continúa búsqueda de jinete desaparecido en el río Maipo: familia entrega nuevos antecedentes",
-  "¿Duermen tranquilos con sus hijos en TikTok?",
-  "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
-  "Vídeo | ¿Se ha agotado la confianza de la Gen Z europea en los Gobiernos?",
   "Corte de Santiago ordena tramitar recurso de Mowi Chile contra rechazo de prórroga de concesión acuícola",
   "cámara baja",
   "justicia",
   "afp uno",
-  "Núñez (RN) fija plazo para tramitar acuerdo por rebaja de combustibles y pide aprobarlo antes de discutir más medidas",
-  "Tensión en la Cámara Baja: PS emplaza a Kast a condenar las \"provocaciones\" del Partido Republicano",
-  "Hallan cuerpo en el Parque Municipal de Maipú en medio de búsqueda del joven Benjamín Galdámez",
   "Mirosevic anuncia que recurrirá al Consejo para la Transparencia por reserva de decretos sobre rebajas de condenas",
   "Senapred decreta alerta roja en siete comunas de la región de Coquimbo por emergencia hidrológica",
-  "Movilh cifra en 80 mil asistentes a Santiago Parade y anuncia posible demanda internacional por multa",
-  "Autorizan extradición a EE.UU. de los dos chilenos acusados de robar al esposo de Taylor Swift",
   "Empleo público, seis reformas para superar un modelo agotado",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
-  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
   "ovalle",
   "frente amplio",
-  "Senapred activa mensajería SAE y solicita evacuar sectores de Ovalle tras desborde de dos ríos",
-  "Crecida de ríos activa Alerta Amarilla en Huasco, Freirina y Vallenar por intensificación de deshielos",
   "Presentan querella de capítulos contra Antonio Ulloa por presunto cohecho y otros delitos",
-  "Tras golpear al humorista: Agresor de Luis Slimming fue despedido de la Municipalidad de Arica",
-  "Expertos llaman a aprobar sala cuna universal en Chile",
   "Digamos que se llamaba Josefina: un relato de Jaime Bayly",
-  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
-  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
   "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros",
-  "[Telón de fondo] La pregunta que deja la huelga de los camioneros. Por Cristián Bofill",
-  "Encuentran un cuerpo en el Zanjón de la Aguada en medio de la búsqueda de Benjamín Galdámez",
   "nvidia jensen huang",
-  "Desmantelan una red de ciberestafas bancarias en TikTok",
-  "nvidia jensen huang renuncia",
-  "colette kress nvidia",
-  "ceo nvidia jensen huang",
-  "Test a Alvarado, el giro de Quiroz y un “fantasma” inconfesado: Así se vivió la primera movilización contra Kast",
-  "\"Si están matando a alguien, no podemos hacer nada\": el drama de los trabajadores del \"Sename 2.0\"",
-  "Elon Musk, accionistas y empleados de Nvidia impulsan petición para restituir a Jensen Huang",
   "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
-  "León XIV aborda la discriminación de afrodescendientes y recuerda el sufrimiento de esclavos en Perú"
+  "\"Soy un pedazo de mierda\": Jensen Huang se sincera tras bochorno de Nvidia",
+  "Armada realiza operativo de búsqueda tras desaparición de persona que ingresó al agua en Viña del Mar",
+  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
+  "Chatbot hentai IA: mejores plataformas hentai IA con tecnología",
+  "Conductor drogado chocó varios autos y atacó a carabineros con un chuzo y una barretilla",
+  "Cuando la negación agrava la catástrofe: presentar como combatientes a los niños asesinados en Gaza",
+  "Exdirector de la Secom llama a unir al progresismo \"desde la DC al PC\" y cuestiona diseño comunicacional de Kast",
+  "Gira de Kast por Asia busca fortalecer exportaciones chilenas y relación comercial con China",
+  "Jorge Quiroz: “Para Hacienda siempre va a haber un dolorcillo de guata cuando se abre la billetera más allá de lo que se previó”",
+  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
+  "Kast no tiene uno sino seis problemas",
+  "La pugna por la norma ambiental que regirá para los autos en 2027: la industria presiona para aplazarla y 90 expertos, entre ellos el exministro Juan Carlos Muñoz, salen a defenderla",
+  "Lancha se hunde en Caleta El Membrillo de Valparaíso: 15 personas fueron rescatadas",
+  "Reunión con Kast, almuerzo en Viñedo Chadwick y cóctel en el Club de Golf: la agenda de Jamie Dimon en Chile",
+  "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-642-2025 «Vera / Cáceres»",
+  "“Las personas merecemos respeto”: Parlamentarias del Frente Amplio respaldan a Ossandón y acusan maltrato de diputados republicanos",
+  "franco parisi"
  ],
  "audiencias": {
   "general": {

@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-15T13:07:52Z",
+ "actualizado": "2026-11-15T17:05:36Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Buenos Aires vive otra Noche de los Museos y una agenda de teatro accesible, mientras alertas por tormentas en varias provincias y la lluvia del fin de semana marcan rutinas. El argentino sigue el dólar blue, compara precios con el exterior y mira con atención los movimientos de marcas tradicionales, como la venta de Tía Maruca o el cambio de dueño de Burger King en el país. La farándula (los escándalos de PH, la noticia de Rodrigo de Paul y Tini) domina redes, y el feriado del lunes 23 por el Día de la Soberanía Nacional abre un fin de semana largo. Precio claro, cultura y humor local suman.",
+ "lectura": "Pasado el Cyber Monday, varias marcas lo extienden y ya calientan el Black Friday y la Navidad con 2x1, cuotas sin interés y envío gratis. Buenos Aires tuvo una Noche de los Museos récord con más de 1,4 millones de visitantes, Creamfields y el Hanguk Fest con K-pop y comida coreana, y Romeo Santos con Prince Royce agotaron Vélez. El Súper Niño trae lluvias y el Paraná crece en el litoral, mientras el dólar blue y la Cuenta DNI marcan el bolsillo. El feriado del lunes 23 abre otro finde largo: cultura, experiencias y precio claro suman.",
  "ideas_hoy": [
   {
-   "titulo": "Finde largo del 23",
-   "idea": "El lunes 23 es feriado. Arma una 'lista para el finde largo' con tus productos (escapadas, asado, pileta, lectura) y empezá a tomar pedidos con entrega antes del viernes.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Más barato que la cancha",
-   "idea": "Circulan notas sobre obras de teatro que cuestan menos que ir a la cancha. Usá esa comparación con humor para mostrar cuánto 'rinde' tu producto: 'Por menos que una entrada, te llevás…'.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Precio final, sin vueltas",
-   "idea": "Los argentinos siguen el dólar y comparan con afuera. Publicá tu precio final en pesos con cuotas y envío incluido: la transparencia es tu mejor chamuyo.",
+   "titulo": "Cyber extendido, precio claro",
+   "idea": "Muchas marcas extienden el Cyber Monday. Si lo haces, muestra precio final, cuotas y fecha de cierre real; evitás el 'no termina nunca' que genera desconfianza.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Plan B por tormenta",
-   "idea": "Hay alertas amarillas y naranjas por tormentas. Locales gastronómicos pueden empujar delivery y 'combo día de lluvia'; tiendas pueden ofrecer retiro sin cargo para no mojarse.",
+   "titulo": "Museos que venden",
+   "idea": "La Noche de los Museos rompió récord. Librerías, cafés y tiendas de diseño pueden invitar a un recorrido propio con descuento para quien muestre su foto del evento.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Marcas que cambian de manos",
-   "idea": "La venta de Tía Maruca generó nostalgia. Si tenés una marca con historia, contá tu origen en un video corto: la gente se engancha con las marcas que conoce desde chica.",
+   "titulo": "K-pop y kimchi",
+   "idea": "El Hanguk Fest llenó Buenos Aires con K-pop y comida coreana. Si vendés belleza, snacks o moda, armá un combo 'K' y mostrálo en formato reto.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Finde largo del 23",
+   "idea": "El lunes 23 es feriado por el Día de la Soberanía Nacional. Publicá escapadas, planes o envíos que lleguen antes del viernes.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Plan B para el Súper Niño",
+   "idea": "El Súper Niño trae lluvias a varias provincias. Delivery, hogar e indumentaria: tips útiles para días de lluvia con productos concretos y tono de servicio.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "lluvia",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "El pronóstico de lluvias en Buenos Aires es de lo más buscado del fin de semana.",
-   "idea": "Paraguas, delivery y planes bajo techo con mensajes del día."
+   "por_que": "El pronóstico diario domina las búsquedas en plena temporada de lluvias.",
+   "idea": "Indumentaria y delivery: promociones según el clima del día."
+  },
+  {
+   "termino": "lluvia",
+   "color": "amarillo",
+   "por_que": "Lluvias por el Súper Niño y alertas en varias provincias.",
+   "idea": "Mensajes de servicio y productos útiles, sin dramatizar."
   },
   {
    "termino": "rocio robles",
    "color": "amarillo",
-   "por_que": "Escándalo de farándula en un programa de TV con mucha conversación.",
-   "idea": "Mejor no tomar partido; si hacés contenido de entretenimiento, hablá del programa y no de la pelea."
+   "por_que": "Escándalo de farándula ligado a un programa de streaming.",
+   "idea": "Evitá tomar partido; solo para marcas de entretenimiento y con humor neutro."
   },
   {
    "termino": "clima salta",
    "color": "amarillo",
    "por_que": "Alerta amarilla por tormentas en Salta.",
-   "idea": "Comercios locales: avisos de horarios y delivery con tono útil."
+   "idea": "Avisos de horarios y entregas para el norte del país."
   },
   {
-   "termino": "tormenta",
-   "color": "amarillo",
-   "por_que": "Alertas por tormentas en nueve provincias.",
-   "idea": "Productos para el hogar y servicios a domicilio, sin humor si hay daños."
-  },
-  {
-   "termino": "15 de noviembre",
+   "termino": "peru",
    "color": "verde",
-   "por_que": "La gente busca el horóscopo del día, un clásico de domingo.",
-   "idea": "Moda, belleza y regalos: contenido liviano por signo con recomendaciones de producto."
+   "por_que": "Interés por la visita del papa León XIV a Perú.",
+   "idea": "Contenido respetuoso; turismo religioso y artesanías pueden informar sin usar la fe como gancho."
   }
  ],
  "ocultar": [
@@ -68,38 +68,41 @@
   "devolución",
   "hugo moyano",
   "página/12",
-  "Se espera que el río Paraná alcance el nivel de evacuación en los próximos días en Santa Fe",
-  "Estados Unidos propuso que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
-  "Buque choca contra crucero en puerto de Nuevo Orleans",
-  "Europa nombra a su equipo para conversaciones de paz sobre Ucrania",
-  "Jensen Huang: presunto espionaje y relaciones extramatrimoniales dejan a Nvidia sin su CEO estrella",
-  "Una rosarina busca a sus padres y el pedido se hizo viral en las redes",
   "Calles inundadas, granizo y el rescate de un hombre arrastrado por un río durante la tormenta que azotó a Córdoba",
   "nvidia jensen huang",
-  "Nahuel Gallo: “A veces siento que se sacaron la foto y se olvidaron de mí”",
   "\"Soy una m...\": así fueron las últimas horas de Jensen Huang como CEO de Nvidia",
-  "El explosivo mensaje de La China Suárez contra Wanda Nara: \"Yo no tengo antecedentes penales y no alieno a mis hijos",
   "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO",
   "boc",
   "arresto",
-  "Sandra Pettovello denunció amenazas de un gremio y evalúa ir a la justicia: \"Para proteger mi integridad moral y física\"",
-  "Conflictos laborales: 953 casos y Buenos Aires a la cabeza",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros",
   "inpres san juan",
-  "El río alcanzó los 5,67 metros en Santa Fe y ya son 217 las personas alojadas en Alto Verde",
-  "El PJ cierra filas y busca aliados provinciales para frenar la suspensión de las PASO",
   "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
-  "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
   "kayla harrison",
   "aeropuerto internacional de miami",
   "santiago del estero",
   "Una batalla inédita. Cuatro economistas ya están en carrera por la presidencia",
   "Dos aviones chocan en un cruce de pista en el aeropuerto de Miami: se produce un día después de la suspensión de vuelos en todo EE.UU.",
-  "nvidia jensen huang renuncia",
-  "colette kress nvidia",
-  "ceo nvidia jensen huang"
+  "Andrés Watson inspeccionó la construcción del nuevo edificio para la Secundaria Nº62",
+  "Aprehendieron a una mujer tras dañar dos autos",
+  "Argentina investiga a Thales por sus vuelos desde Chile hacia Malvinas y su vínculo con las fuerzas británicas",
+  "COCEMFE exige a los partidos vivienda accesible, el fin de las listas de espera y educación inclusiva",
+  "Caen presuntas farderas durante el Buen Fin en la CDMX",
+  "Choque en salón de belleza en City Bell, Argentina",
+  "El PSOE cancela el acto de campaña de Pedro Sánchez y Lula da Silva en Madrid por una afonía del líder brasileño",
+  "Giaccio visitó Castelli y destacó exportaciones chaqueñas: “Con un Estado que no trabe, se puede exportar”",
+  "Investigan desvío de US$ 1.270.000 de la AFA para alquiler de yates de lujo",
+  "Investigan transferencias por US$ 1,27 millones vinculadas a la AFA para contratar yates de lujo",
+  "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+  "Kicillof encabezó la apertura de Expo Cañuelas 2026",
+  "La AFA gastó USD 1,27 millones en el alquiler de superyates de lujo en Europa",
+  "Mariana Morosi: Hemos tenido niños que repartieron sus juguetes para dejar sus cosas en orden",
+  "Natalio Botana: “León XIV señaló el camino que la democracia debería tener en la Argentina”",
+  "Petróleo en Malvinas: los detalles de la estrategia contra Reino Unido y los próximos pasos para frenar Sea Lion",
+  "Robaron una joyería en Rawson tras abrir un boquete",
+  "Rompió los vidrios de dos autos, intentó agredir a los policías y terminó detenida",
+  "“Tenemos esperanzas de que las cosas cambien”: el análisis de José Mayans de la visita del Papa León XIV",
+  "“Tenemos salarios por debajo de la línea de la pobreza”",
+  "noticia"
  ],
  "audiencias": {
   "general": {
@@ -1085,42 +1088,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 16405,
+   "busqueda": "Cyber Monday",
+   "total": 9364,
    "anunciantes": [
     {
-     "nombre": "Punto Oferta",
-     "url": "https://www.facebook.com/ads/library/?id=1714071653664014"
+     "nombre": "Kobe",
+     "url": "https://www.facebook.com/ads/library/?id=4051959565111071"
     },
     {
-     "nombre": "Descuentos Argentina",
-     "url": "https://www.facebook.com/ads/library/?id=4717456675163584"
+     "nombre": "Central Chevrolet",
+     "url": "https://www.facebook.com/ads/library/?id=1704944194393410"
     },
     {
-     "nombre": "Luis Aguilar",
-     "url": "https://www.facebook.com/ads/library/?id=1409585104271777"
+     "nombre": "Calma Argentina",
+     "url": "https://www.facebook.com/ads/library/?id=2330402471046543"
+    },
+    {
+     "nombre": "Nalo Store",
+     "url": "https://www.facebook.com/ads/library/?id=2984352015259841"
+    },
+    {
+     "nombre": "HONKYTONK",
+     "url": "https://www.facebook.com/ads/library/?id=5747163865509131"
     }
    ],
-   "patron": "A casi dos semanas del Black Friday ya circulan precios 'exclusivos', fórmulas de 'comprá 1 y llevá 2' y precio anterior tachado. Muchos anunciantes son páginas genéricas de ofertas, lo que refuerza la necesidad de mostrar respaldo y reseñas para destacar."
+   "patron": "Pasado el Cyber Monday, muchas marcas lo 'extienden': 'el Cyber no termina', 2x1, 3x2 y 5x3 con envío gratis. Aparecen desde perfumes y ropa hasta autos 0 km, y varios anuncios llevan directo a WhatsApp. El reto es que la extensión no erosione la confianza: conviene fijar una fecha de cierre real."
   },
   {
-   "busqueda": "envíos internacionales",
-   "total": 287,
+   "busqueda": "regalos Navidad envío gratis",
+   "total": 141,
    "anunciantes": [
     {
-     "nombre": "The Argentino",
-     "url": "https://www.facebook.com/ads/library/?id=2348438255890176"
+     "nombre": "Kobe",
+     "url": "https://www.facebook.com/ads/library/?id=1139609208994541"
     },
     {
-     "nombre": "MBE 0002 - Neuquén",
-     "url": "https://www.facebook.com/ads/library/?id=1484851316848731"
+     "nombre": "Terca",
+     "url": "https://www.facebook.com/ads/library/?id=1740153357050544"
     },
     {
-     "nombre": "DHL Latinoamérica",
-     "url": "https://www.facebook.com/ads/library/?id=1559518479314157"
+     "nombre": "Musolito Argentina",
+     "url": "https://www.facebook.com/ads/library/?id=1454337726038490"
+    },
+    {
+     "nombre": "Kleos.officiall",
+     "url": "https://www.facebook.com/ads/library/?id=1822453548966056"
+    },
+    {
+     "nombre": "Ajuares Ora Baby",
+     "url": "https://www.facebook.com/ads/library/?id=1121644630476657"
     }
    ],
-   "patron": "El mensaje dominante es 'llevá tus productos de Argentina al mundo': se habla al emprendedor que quiere exportar, con franquicias locales de envíos que destacan la atención personalizada ('cada envío tiene necesidades diferentes')."
+   "patron": "La Navidad apenas empieza en la pauta: pocos anuncios y muy concretos. Se repiten las guías de regalos con precio cerrado ('las 3 por $60.000'), el envío gratis desde un monto mínimo y las 3 cuotas sin interés. Hay espacio para entrar temprano con regalos emocionales (bebés, infancia) y combos."
   }
  ]
 }
