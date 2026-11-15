@@ -1,57 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-14T10:50:20Z",
- "duracion_seg": 148.6,
- "errores": 10,
- "muestra_errores": [
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/CO/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/EC/all-access/2026/11/11",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/US/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/PE/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/AR/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/AR/all-access/2026/11/12",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/PT/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/PT/all-access/2026/11/12",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/FR/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/DE/all-access/2026/11/13",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-14T10:50:20Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-15T10:50:58Z",
+ "duracion_seg": 29.7,
+ "errores": 0,
+ "muestra_errores": []
 }

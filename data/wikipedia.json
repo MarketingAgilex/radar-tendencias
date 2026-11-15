@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-11-14T10:50:20Z",
+ "actualizado": "2026-11-15T10:50:58Z",
  "paises": {
   "CO": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-14",
    "articulos": [
+    {
+     "articulo": "Brian Tracy",
+     "proyecto": "es.wikipedia",
+     "vistas": 4700,
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
+    },
     {
      "articulo": "Toma del Palacio de Justicia",
      "proyecto": "es.wikipedia",
@@ -11,82 +17,76 @@
      "url": "https://es.wikipedia.org/wiki/Toma_del_Palacio_de_Justicia"
     },
     {
-     "articulo": "Jensen Huang",
-     "proyecto": "es.wikipedia",
-     "vistas": 3500,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "ChatGPT",
-     "proyecto": "en.wikipedia",
-     "vistas": 3000,
-     "url": "https://en.wikipedia.org/wiki/ChatGPT"
-    },
-    {
      "articulo": "Alfonso Reyes Echandía",
      "proyecto": "es.wikipedia",
-     "vistas": 2900,
+     "vistas": 3100,
      "url": "https://es.wikipedia.org/wiki/Alfonso_Reyes_Echand%C3%ADa"
     },
     {
-     "articulo": "Regina Torné",
+     "articulo": "Luis Felipe Henao",
      "proyecto": "es.wikipedia",
-     "vistas": 2700,
-     "url": "https://es.wikipedia.org/wiki/Regina_Torn%C3%A9"
+     "vistas": 3100,
+     "url": "https://es.wikipedia.org/wiki/Luis_Felipe_Henao"
     },
     {
      "articulo": "Eduardo Umaña Mendoza",
      "proyecto": "es.wikipedia",
-     "vistas": 2700,
+     "vistas": 3000,
      "url": "https://es.wikipedia.org/wiki/Eduardo_Uma%C3%B1a_Mendoza"
-    },
-    {
-     "articulo": "León XIV",
-     "proyecto": "es.wikipedia",
-     "vistas": 2500,
-     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
     },
     {
      "articulo": "Luis Alfonso Plazas Vega",
      "proyecto": "es.wikipedia",
-     "vistas": 2300,
+     "vistas": 2500,
      "url": "https://es.wikipedia.org/wiki/Luis_Alfonso_Plazas_Vega"
     },
     {
      "articulo": "Clara Helena Enciso",
      "proyecto": "es.wikipedia",
-     "vistas": 2200,
+     "vistas": 2100,
      "url": "https://es.wikipedia.org/wiki/Clara_Helena_Enciso"
-    },
-    {
-     "articulo": "Olga Behar",
-     "proyecto": "es.wikipedia",
-     "vistas": 1800,
-     "url": "https://es.wikipedia.org/wiki/Olga_Behar"
     },
     {
      "articulo": "Palacio (serie de televisión)",
      "proyecto": "es.wikipedia",
-     "vistas": 1700,
+     "vistas": 1900,
      "url": "https://es.wikipedia.org/wiki/Palacio_%28serie_de_televisi%C3%B3n%29"
+    },
+    {
+     "articulo": "Olga Behar",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Olga_Behar"
     },
     {
      "articulo": "Belisario Betancur",
      "proyecto": "es.wikipedia",
-     "vistas": 1700,
+     "vistas": 1800,
      "url": "https://es.wikipedia.org/wiki/Belisario_Betancur"
     },
     {
-     "articulo": "Whitney Houston",
+     "articulo": "Ana María Hoyos",
      "proyecto": "es.wikipedia",
-     "vistas": 1500,
-     "url": "https://es.wikipedia.org/wiki/Whitney_Houston"
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Hoyos"
     },
     {
-     "articulo": "Jimmy Vásquez",
+     "articulo": "León XIV",
      "proyecto": "es.wikipedia",
-     "vistas": 1400,
-     "url": "https://es.wikipedia.org/wiki/Jimmy_V%C3%A1squez"
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
+    },
+    {
+     "articulo": "Reykon",
+     "proyecto": "es.wikipedia",
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Reykon"
+    },
+    {
+     "articulo": "Matías Orozco",
+     "proyecto": "es.wikipedia",
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Orozco"
     },
     {
      "articulo": "Yesid Reyes",
@@ -95,93 +95,99 @@
      "url": "https://es.wikipedia.org/wiki/Yesid_Reyes"
     },
     {
+     "articulo": "Yáser Asprilla",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/Y%C3%A1ser_Asprilla"
+    },
+    {
      "articulo": "Irma Franco",
      "proyecto": "es.wikipedia",
-     "vistas": 1300,
+     "vistas": 1400,
      "url": "https://es.wikipedia.org/wiki/Irma_Franco"
     },
     {
-     "articulo": "Jensen Huang",
-     "proyecto": "en.wikipedia",
-     "vistas": 1200,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+     "articulo": "Camilo Durán",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Camilo_Dur%C3%A1n"
     },
     {
-     "articulo": "Miguel Vega Uribe",
+     "articulo": "Ángela María Buitrago",
      "proyecto": "es.wikipedia",
-     "vistas": 1200,
-     "url": "https://es.wikipedia.org/wiki/Miguel_Vega_Uribe"
-    },
-    {
-     "articulo": "NVIDIA",
-     "proyecto": "es.wikipedia",
-     "vistas": 1100,
-     "url": "https://es.wikipedia.org/wiki/NVIDIA"
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/%C3%81ngela_Mar%C3%ADa_Buitrago"
     }
    ]
   },
   "MX": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
     {
-     "articulo": "Regina Torné",
+     "articulo": "Miguel Ángel Félix Gallardo",
      "proyecto": "es.wikipedia",
-     "vistas": 9000,
-     "url": "https://es.wikipedia.org/wiki/Regina_Torn%C3%A9"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "es.wikipedia",
-     "vistas": 6200,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
+     "vistas": 6100,
+     "url": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_F%C3%A9lix_Gallardo"
     },
     {
      "articulo": "Brian Tracy",
      "proyecto": "es.wikipedia",
-     "vistas": 4200,
+     "vistas": 5300,
      "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+     "articulo": "Regina Torné",
+     "proyecto": "es.wikipedia",
+     "vistas": 5300,
+     "url": "https://es.wikipedia.org/wiki/Regina_Torn%C3%A9"
     },
     {
      "articulo": "Isabel de Baviera",
      "proyecto": "es.wikipedia",
-     "vistas": 3800,
+     "vistas": 4700,
      "url": "https://es.wikipedia.org/wiki/Isabel_de_Baviera"
-    },
-    {
-     "articulo": "ChatGPT",
-     "proyecto": "es.wikipedia",
-     "vistas": 3600,
-     "url": "https://es.wikipedia.org/wiki/ChatGPT"
     },
     {
      "articulo": "Maximiliano de México",
      "proyecto": "es.wikipedia",
-     "vistas": 3300,
+     "vistas": 4000,
      "url": "https://es.wikipedia.org/wiki/Maximiliano_de_M%C3%A9xico"
     },
     {
      "articulo": "Francisco José I de Austria",
      "proyecto": "es.wikipedia",
-     "vistas": 3000,
+     "vistas": 3600,
      "url": "https://es.wikipedia.org/wiki/Francisco_Jos%C3%A9_I_de_Austria"
     },
     {
-     "articulo": "Miguel Ángel Félix Gallardo",
+     "articulo": "Valentín Elizalde",
+     "proyecto": "es.wikipedia",
+     "vistas": 3100,
+     "url": "https://es.wikipedia.org/wiki/Valent%C3%ADn_Elizalde"
+    },
+    {
+     "articulo": "Ansel Adams",
+     "proyecto": "en.wikipedia",
+     "vistas": 2900,
+     "url": "https://en.wikipedia.org/wiki/Ansel_Adams"
+    },
+    {
+     "articulo": "ChatGPT",
      "proyecto": "es.wikipedia",
      "vistas": 2800,
-     "url": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_F%C3%A9lix_Gallardo"
+     "url": "https://es.wikipedia.org/wiki/ChatGPT"
     },
     {
-     "articulo": "Mckenna Grace",
+     "articulo": "Jensen Huang",
      "proyecto": "es.wikipedia",
      "vistas": 2700,
-     "url": "https://es.wikipedia.org/wiki/Mckenna_Grace"
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
     },
     {
-     "articulo": "Revolución mexicana",
+     "articulo": "Alan Arrieta (cantante)",
      "proyecto": "es.wikipedia",
      "vistas": 2600,
-     "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_mexicana"
+     "url": "https://es.wikipedia.org/wiki/Alan_Arrieta_%28cantante%29"
     },
     {
      "articulo": "La venganza del Charro Negro",
@@ -190,118 +196,112 @@
      "url": "https://es.wikipedia.org/wiki/La_venganza_del_Charro_Negro"
     },
     {
-     "articulo": "Valentín Elizalde",
+     "articulo": "Sylvester Stallone",
      "proyecto": "es.wikipedia",
-     "vistas": 2500,
-     "url": "https://es.wikipedia.org/wiki/Valent%C3%ADn_Elizalde"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "en.wikipedia",
-     "vistas": 2500,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Arroba (símbolo)",
-     "proyecto": "es.wikipedia",
-     "vistas": 2500,
-     "url": "https://es.wikipedia.org/wiki/Arroba_%28s%C3%ADmbolo%29"
+     "vistas": 2400,
+     "url": "https://es.wikipedia.org/wiki/Sylvester_Stallone"
     },
     {
      "articulo": "León XIV",
      "proyecto": "es.wikipedia",
-     "vistas": 2400,
+     "vistas": 2100,
      "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
     },
     {
-     "articulo": "Ansel Adams",
+     "articulo": "Gabito Ballesteros",
      "proyecto": "en.wikipedia",
-     "vistas": 2400,
-     "url": "https://en.wikipedia.org/wiki/Ansel_Adams"
-    },
-    {
-     "articulo": "Avril Lavigne",
-     "proyecto": "es.wikipedia",
-     "vistas": 2300,
-     "url": "https://es.wikipedia.org/wiki/Avril_Lavigne"
-    },
-    {
-     "articulo": "Mauricio Pochettino",
-     "proyecto": "es.wikipedia",
-     "vistas": 2200,
-     "url": "https://es.wikipedia.org/wiki/Mauricio_Pochettino"
-    },
-    {
-     "articulo": "Camila Fernández",
-     "proyecto": "es.wikipedia",
-     "vistas": 2200,
-     "url": "https://es.wikipedia.org/wiki/Camila_Fern%C3%A1ndez"
-    },
-    {
-     "articulo": "Bobby Pulido",
-     "proyecto": "es.wikipedia",
      "vistas": 2100,
-     "url": "https://es.wikipedia.org/wiki/Bobby_Pulido"
-    },
-    {
-     "articulo": "NVIDIA",
-     "proyecto": "es.wikipedia",
-     "vistas": 1900,
-     "url": "https://es.wikipedia.org/wiki/NVIDIA"
-    },
-    {
-     "articulo": "Daniel Corrêa Freitas",
-     "proyecto": "es.wikipedia",
-     "vistas": 1900,
-     "url": "https://es.wikipedia.org/wiki/Daniel_Corr%C3%AAa_Freitas"
-    },
-    {
-     "articulo": "Sylvester Stallone",
-     "proyecto": "es.wikipedia",
-     "vistas": 1800,
-     "url": "https://es.wikipedia.org/wiki/Sylvester_Stallone"
-    },
-    {
-     "articulo": "Macarena García (actriz mexicana)",
-     "proyecto": "es.wikipedia",
-     "vistas": 1700,
-     "url": "https://es.wikipedia.org/wiki/Macarena_Garc%C3%ADa_%28actriz_mexicana%29"
-    },
-    {
-     "articulo": "Tabla periódica de los elementos",
-     "proyecto": "es.wikipedia",
-     "vistas": 1700,
-     "url": "https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos"
+     "url": "https://en.wikipedia.org/wiki/Gabito_Ballesteros"
     },
     {
      "articulo": "Pornografía",
      "proyecto": "es.wikipedia",
-     "vistas": 1600,
+     "vistas": 2000,
      "url": "https://es.wikipedia.org/wiki/Pornograf%C3%ADa"
     },
     {
-     "articulo": "ChatGPT",
-     "proyecto": "en.wikipedia",
-     "vistas": 1600,
-     "url": "https://en.wikipedia.org/wiki/ChatGPT"
+     "articulo": "Ari Telch",
+     "proyecto": "es.wikipedia",
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Ari_Telch"
     },
     {
-     "articulo": "Gmail",
+     "articulo": "Garbage",
      "proyecto": "es.wikipedia",
-     "vistas": 1500,
-     "url": "https://es.wikipedia.org/wiki/Gmail"
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Garbage"
     },
     {
      "articulo": "Ebenezer (película de 2026)",
      "proyecto": "es.wikipedia",
-     "vistas": 1500,
+     "vistas": 1800,
      "url": "https://es.wikipedia.org/wiki/Ebenezer_%28pel%C3%ADcula_de_2026%29"
     },
     {
-     "articulo": "Daddy Yankee",
+     "articulo": "Avril Lavigne",
+     "proyecto": "es.wikipedia",
+     "vistas": 1700,
+     "url": "https://es.wikipedia.org/wiki/Avril_Lavigne"
+    },
+    {
+     "articulo": "Revolución mexicana",
+     "proyecto": "es.wikipedia",
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_mexicana"
+    },
+    {
+     "articulo": "Carlota de México",
+     "proyecto": "es.wikipedia",
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Carlota_de_M%C3%A9xico"
+    },
+    {
+     "articulo": "Bobby Pulido",
+     "proyecto": "es.wikipedia",
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Bobby_Pulido"
+    },
+    {
+     "articulo": "Arroba (símbolo)",
      "proyecto": "es.wikipedia",
      "vistas": 1500,
-     "url": "https://es.wikipedia.org/wiki/Daddy_Yankee"
+     "url": "https://es.wikipedia.org/wiki/Arroba_%28s%C3%ADmbolo%29"
+    },
+    {
+     "articulo": "Karol G",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/Karol_G"
+    },
+    {
+     "articulo": "Mauricio Pochettino",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/Mauricio_Pochettino"
+    },
+    {
+     "articulo": "Thorfinn Karlsefni",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/Thorfinn_Karlsefni"
+    },
+    {
+     "articulo": "Jacobo Grinberg",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Jacobo_Grinberg"
+    },
+    {
+     "articulo": "Yo soy Rocky",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Yo_soy_Rocky"
+    },
+    {
+     "articulo": "Mckenna Grace",
+     "proyecto": "es.wikipedia",
+     "vistas": 1300,
+     "url": "https://es.wikipedia.org/wiki/Mckenna_Grace"
     }
    ]
   },
@@ -310,591 +310,561 @@
    "articulos": []
   },
   "US": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-14",
    "articulos": [
+    {
+     "articulo": "Sean Duffy",
+     "proyecto": "en.wikipedia",
+     "vistas": 384700,
+     "url": "https://en.wikipedia.org/wiki/Sean_Duffy"
+    },
     {
      "articulo": "Jensen Huang",
      "proyecto": "en.wikipedia",
-     "vistas": 475500,
+     "vistas": 127000,
      "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
     },
     {
-     "articulo": "Anthony Clark (actor)",
+     "articulo": "Markwayne Mullin",
      "proyecto": "en.wikipedia",
-     "vistas": 332700,
-     "url": "https://en.wikipedia.org/wiki/Anthony_Clark_%28actor%29"
-    },
-    {
-     "articulo": "Colette Kress",
-     "proyecto": "en.wikipedia",
-     "vistas": 225200,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
-    },
-    {
-     "articulo": "Scott Colom",
-     "proyecto": "en.wikipedia",
-     "vistas": 185600,
-     "url": "https://en.wikipedia.org/wiki/Scott_Colom"
-    },
-    {
-     "articulo": "SS United States",
-     "proyecto": "en.wikipedia",
-     "vistas": 168000,
-     "url": "https://en.wikipedia.org/wiki/SS_United_States"
-    },
-    {
-     "articulo": "Dan Hicks (sportscaster)",
-     "proyecto": "en.wikipedia",
-     "vistas": 144700,
-     "url": "https://en.wikipedia.org/wiki/Dan_Hicks_%28sportscaster%29"
-    },
-    {
-     "articulo": "Nvidia",
-     "proyecto": "en.wikipedia",
-     "vistas": 141700,
-     "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-     "articulo": "Hannah Storm",
-     "proyecto": "en.wikipedia",
-     "vistas": 120700,
-     "url": "https://en.wikipedia.org/wiki/Hannah_Storm"
-    },
-    {
-     "articulo": "Stacy Keach",
-     "proyecto": "en.wikipedia",
-     "vistas": 93800,
-     "url": "https://en.wikipedia.org/wiki/Stacy_Keach"
+     "vistas": 99800,
+     "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin"
     },
     {
      "articulo": "メインページ",
      "proyecto": "ja.wikipedia",
-     "vistas": 91900,
+     "vistas": 97700,
      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"
     },
     {
-     "articulo": "Tomb of the Unknown Soldier (Arlington National Cemetery)",
+     "articulo": "Sam Hartman",
      "proyecto": "en.wikipedia",
-     "vistas": 87100,
-     "url": "https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_%28Arlington_National_Cemetery%29"
+     "vistas": 90700,
+     "url": "https://en.wikipedia.org/wiki/Sam_Hartman"
     },
     {
-     "articulo": "Yella Beezy",
+     "articulo": "Rachel Campos-Duffy",
      "proyecto": "en.wikipedia",
-     "vistas": 85400,
-     "url": "https://en.wikipedia.org/wiki/Yella_Beezy"
+     "vistas": 77500,
+     "url": "https://en.wikipedia.org/wiki/Rachel_Campos-Duffy"
     },
     {
-     "articulo": "Cindy Hyde-Smith",
+     "articulo": "2026 FAA communication outage",
      "proyecto": "en.wikipedia",
-     "vistas": 84100,
-     "url": "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"
-    },
-    {
-     "articulo": "Pete Hegseth",
-     "proyecto": "en.wikipedia",
-     "vistas": 75200,
-     "url": "https://en.wikipedia.org/wiki/Pete_Hegseth"
+     "vistas": 62300,
+     "url": "https://en.wikipedia.org/wiki/2026_FAA_communication_outage"
     },
     {
      "articulo": "Deaths in 2026",
      "proyecto": "en.wikipedia",
-     "vistas": 71700,
+     "vistas": 60300,
      "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
     },
     {
-     "articulo": "Jeff Bezos",
+     "articulo": "Nvidia",
      "proyecto": "en.wikipedia",
-     "vistas": 67900,
-     "url": "https://en.wikipedia.org/wiki/Jeff_Bezos"
+     "vistas": 45300,
+     "url": "https://en.wikipedia.org/wiki/Nvidia"
     },
     {
-     "articulo": "Kirk Cousins",
+     "articulo": "Chris Van Hollen",
      "proyecto": "en.wikipedia",
-     "vistas": 59600,
-     "url": "https://en.wikipedia.org/wiki/Kirk_Cousins"
+     "vistas": 44900,
+     "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen"
     },
     {
-     "articulo": "Alice Huang (executive)",
+     "articulo": "The End of Oak Street",
      "proyecto": "en.wikipedia",
-     "vistas": 59000,
-     "url": "https://en.wikipedia.org/wiki/Alice_Huang_%28executive%29"
+     "vistas": 44100,
+     "url": "https://en.wikipedia.org/wiki/The_End_of_Oak_Street"
     },
     {
-     "articulo": "Lisa Su",
+     "articulo": "Colette Kress",
      "proyecto": "en.wikipedia",
-     "vistas": 56200,
-     "url": "https://en.wikipedia.org/wiki/Lisa_Su"
+     "vistas": 43800,
+     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
     },
     {
-     "articulo": "Yes, Dear",
+     "articulo": "Avril Lavigne",
      "proyecto": "en.wikipedia",
-     "vistas": 53500,
-     "url": "https://en.wikipedia.org/wiki/Yes%2C_Dear"
-    },
-    {
-     "articulo": "MO3 (rapper)",
-     "proyecto": "en.wikipedia",
-     "vistas": 47500,
-     "url": "https://en.wikipedia.org/wiki/MO3_%28rapper%29"
-    },
-    {
-     "articulo": "Russell Brand",
-     "proyecto": "en.wikipedia",
-     "vistas": 46100,
-     "url": "https://en.wikipedia.org/wiki/Russell_Brand"
-    },
-    {
-     "articulo": "VisionQuest",
-     "proyecto": "en.wikipedia",
-     "vistas": 44300,
-     "url": "https://en.wikipedia.org/wiki/VisionQuest"
-    },
-    {
-     "articulo": "2026 United States elections",
-     "proyecto": "en.wikipedia",
-     "vistas": 43400,
-     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
-    },
-    {
-     "articulo": "Jensen Huang spying scandal",
-     "proyecto": "en.wikipedia",
-     "vistas": 42300,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal"
-    },
-    {
-     "articulo": "Abdul El-Sayed",
-     "proyecto": "en.wikipedia",
-     "vistas": 41500,
-     "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed"
-    },
-    {
-     "articulo": "2026 United States Senate election in Mississippi",
-     "proyecto": "en.wikipedia",
-     "vistas": 41000,
-     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi"
-    },
-    {
-     "articulo": "2026 United States Senate elections",
-     "proyecto": "en.wikipedia",
-     "vistas": 41000,
-     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
-    },
-    {
-     "articulo": "Blanche Bruce",
-     "proyecto": "en.wikipedia",
-     "vistas": 40700,
-     "url": "https://en.wikipedia.org/wiki/Blanche_Bruce"
+     "vistas": 42000,
+     "url": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
      "articulo": "Elizabeth Holmes",
      "proyecto": "en.wikipedia",
-     "vistas": 40100,
+     "vistas": 40900,
      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes"
+    },
+    {
+     "articulo": "Michael Alfonso (politician)",
+     "proyecto": "en.wikipedia",
+     "vistas": 39200,
+     "url": "https://en.wikipedia.org/wiki/Michael_Alfonso_%28politician%29"
+    },
+    {
+     "articulo": "Russell Brand",
+     "proyecto": "en.wikipedia",
+     "vistas": 37900,
+     "url": "https://en.wikipedia.org/wiki/Russell_Brand"
+    },
+    {
+     "articulo": "Dan Hicks (sportscaster)",
+     "proyecto": "en.wikipedia",
+     "vistas": 36600,
+     "url": "https://en.wikipedia.org/wiki/Dan_Hicks_%28sportscaster%29"
+    },
+    {
+     "articulo": "L3Harris",
+     "proyecto": "en.wikipedia",
+     "vistas": 36400,
+     "url": "https://en.wikipedia.org/wiki/L3Harris"
+    },
+    {
+     "articulo": "The Body (TV series)",
+     "proyecto": "en.wikipedia",
+     "vistas": 35900,
+     "url": "https://en.wikipedia.org/wiki/The_Body_%28TV_series%29"
+    },
+    {
+     "articulo": "Ebenezer (2026 film)",
+     "proyecto": "en.wikipedia",
+     "vistas": 35500,
+     "url": "https://en.wikipedia.org/wiki/Ebenezer_%282026_film%29"
+    },
+    {
+     "articulo": "Yella Beezy",
+     "proyecto": "en.wikipedia",
+     "vistas": 32000,
+     "url": "https://en.wikipedia.org/wiki/Yella_Beezy"
+    },
+    {
+     "articulo": "Dane Cook",
+     "proyecto": "en.wikipedia",
+     "vistas": 31500,
+     "url": "https://en.wikipedia.org/wiki/Dane_Cook"
+    },
+    {
+     "articulo": "Ansel Adams",
+     "proyecto": "en.wikipedia",
+     "vistas": 31000,
+     "url": "https://en.wikipedia.org/wiki/Ansel_Adams"
+    },
+    {
+     "articulo": "Alice Huang (executive)",
+     "proyecto": "en.wikipedia",
+     "vistas": 30600,
+     "url": "https://en.wikipedia.org/wiki/Alice_Huang_%28executive%29"
+    },
+    {
+     "articulo": "Ian Johnson (American football)",
+     "proyecto": "en.wikipedia",
+     "vistas": 30600,
+     "url": "https://en.wikipedia.org/wiki/Ian_Johnson_%28American_football%29"
+    },
+    {
+     "articulo": "Empress Elisabeth of Austria",
+     "proyecto": "en.wikipedia",
+     "vistas": 30000,
+     "url": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria"
+    },
+    {
+     "articulo": "Abdul El-Sayed",
+     "proyecto": "en.wikipedia",
+     "vistas": 30000,
+     "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed"
+    },
+    {
+     "articulo": "Lauren Boebert",
+     "proyecto": "en.wikipedia",
+     "vistas": 29900,
+     "url": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+    },
+    {
+     "articulo": "2026 United States elections",
+     "proyecto": "en.wikipedia",
+     "vistas": 29600,
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
+    },
+    {
+     "articulo": "Mary Peltola",
+     "proyecto": "en.wikipedia",
+     "vistas": 29600,
+     "url": "https://en.wikipedia.org/wiki/Mary_Peltola"
     }
    ]
   },
   "CA": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
+    {
+     "articulo": "Sean Duffy",
+     "proyecto": "en.wikipedia",
+     "vistas": 24400,
+     "url": "https://en.wikipedia.org/wiki/Sean_Duffy"
+    },
     {
      "articulo": "Jensen Huang",
      "proyecto": "en.wikipedia",
-     "vistas": 46600,
+     "vistas": 20100,
      "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
     },
     {
      "articulo": "Avril Lavigne",
      "proyecto": "en.wikipedia",
-     "vistas": 20300,
+     "vistas": 16400,
      "url": "https://en.wikipedia.org/wiki/Avril_Lavigne"
-    },
-    {
-     "articulo": "Nvidia",
-     "proyecto": "en.wikipedia",
-     "vistas": 16500,
-     "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-     "articulo": "Colette Kress",
-     "proyecto": "en.wikipedia",
-     "vistas": 15600,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
-    },
-    {
-     "articulo": "Alice Huang (executive)",
-     "proyecto": "en.wikipedia",
-     "vistas": 13500,
-     "url": "https://en.wikipedia.org/wiki/Alice_Huang_%28executive%29"
-    },
-    {
-     "articulo": "Sam Hartman",
-     "proyecto": "en.wikipedia",
-     "vistas": 10800,
-     "url": "https://en.wikipedia.org/wiki/Sam_Hartman"
     },
     {
      "articulo": "Deaths in 2026",
      "proyecto": "en.wikipedia",
-     "vistas": 10100,
+     "vistas": 8900,
      "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
     },
     {
-     "articulo": "Chris Van Hollen",
+     "articulo": "Nvidia",
      "proyecto": "en.wikipedia",
-     "vistas": 8200,
-     "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen"
+     "vistas": 7600,
+     "url": "https://en.wikipedia.org/wiki/Nvidia"
     },
     {
-     "articulo": "Anthony Clark (actor)",
+     "articulo": "Sam Hartman",
      "proyecto": "en.wikipedia",
-     "vistas": 7000,
-     "url": "https://en.wikipedia.org/wiki/Anthony_Clark_%28actor%29"
-    },
-    {
-     "articulo": "Lisa Su",
-     "proyecto": "en.wikipedia",
-     "vistas": 6700,
-     "url": "https://en.wikipedia.org/wiki/Lisa_Su"
+     "vistas": 7500,
+     "url": "https://en.wikipedia.org/wiki/Sam_Hartman"
     },
     {
      "articulo": "Russell Brand",
      "proyecto": "en.wikipedia",
-     "vistas": 6700,
+     "vistas": 7200,
      "url": "https://en.wikipedia.org/wiki/Russell_Brand"
     },
     {
-     "articulo": "2026 Streamer Awards",
+     "articulo": "Colette Kress",
      "proyecto": "en.wikipedia",
-     "vistas": 6200,
-     "url": "https://en.wikipedia.org/wiki/2026_Streamer_Awards"
-    },
-    {
-     "articulo": "Jensen Huang spying scandal",
-     "proyecto": "en.wikipedia",
-     "vistas": 6100,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal"
-    },
-    {
-     "articulo": "You Can See Everything",
-     "proyecto": "en.wikipedia",
-     "vistas": 5400,
-     "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
+     "vistas": 6600,
+     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
     },
     {
      "articulo": "Elizabeth Holmes",
      "proyecto": "en.wikipedia",
-     "vistas": 5300,
+     "vistas": 6400,
      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes"
     },
     {
-     "articulo": "Ebenezer (2026 film)",
+     "articulo": "Alice Huang (executive)",
      "proyecto": "en.wikipedia",
-     "vistas": 5300,
-     "url": "https://en.wikipedia.org/wiki/Ebenezer_%282026_film%29"
-    },
-    {
-     "articulo": "Grand Theft Auto VI",
-     "proyecto": "en.wikipedia",
-     "vistas": 5200,
-     "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
-    },
-    {
-     "articulo": "SS United States",
-     "proyecto": "en.wikipedia",
-     "vistas": 5100,
-     "url": "https://en.wikipedia.org/wiki/SS_United_States"
-    },
-    {
-     "articulo": "David Walliams",
-     "proyecto": "en.wikipedia",
-     "vistas": 4800,
-     "url": "https://en.wikipedia.org/wiki/David_Walliams"
+     "vistas": 6200,
+     "url": "https://en.wikipedia.org/wiki/Alice_Huang_%28executive%29"
     },
     {
      "articulo": "The Body (TV series)",
      "proyecto": "en.wikipedia",
-     "vistas": 4700,
+     "vistas": 5600,
      "url": "https://en.wikipedia.org/wiki/The_Body_%28TV_series%29"
     },
     {
-     "articulo": "Mélanie Joly",
+     "articulo": "UFC 334",
      "proyecto": "en.wikipedia",
-     "vistas": 4700,
-     "url": "https://en.wikipedia.org/wiki/M%C3%A9lanie_Joly"
+     "vistas": 5600,
+     "url": "https://en.wikipedia.org/wiki/UFC_334"
     },
     {
-     "articulo": "Dan Hicks (sportscaster)",
+     "articulo": "You Can See Everything",
      "proyecto": "en.wikipedia",
-     "vistas": 4600,
-     "url": "https://en.wikipedia.org/wiki/Dan_Hicks_%28sportscaster%29"
+     "vistas": 5500,
+     "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything"
     },
     {
-     "articulo": "Stacy Keach",
+     "articulo": "Markwayne Mullin",
      "proyecto": "en.wikipedia",
-     "vistas": 4100,
-     "url": "https://en.wikipedia.org/wiki/Stacy_Keach"
-    },
-    {
-     "articulo": "Mauricio Pochettino",
-     "proyecto": "en.wikipedia",
-     "vistas": 4100,
-     "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino"
-    },
-    {
-     "articulo": "Archive of Our Own",
-     "proyecto": "en.wikipedia",
-     "vistas": 4100,
-     "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own"
-    },
-    {
-     "articulo": "Chris Malachowsky",
-     "proyecto": "en.wikipedia",
-     "vistas": 4000,
-     "url": "https://en.wikipedia.org/wiki/Chris_Malachowsky"
-    },
-    {
-     "articulo": "Stellantis",
-     "proyecto": "en.wikipedia",
-     "vistas": 3900,
-     "url": "https://en.wikipedia.org/wiki/Stellantis"
-    },
-    {
-     "articulo": "VisionQuest",
-     "proyecto": "en.wikipedia",
-     "vistas": 3800,
-     "url": "https://en.wikipedia.org/wiki/VisionQuest"
-    },
-    {
-     "articulo": "Play That Funky Music",
-     "proyecto": "en.wikipedia",
-     "vistas": 3600,
-     "url": "https://en.wikipedia.org/wiki/Play_That_Funky_Music"
+     "vistas": 5500,
+     "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin"
     },
     {
      "articulo": "Ansel Adams",
      "proyecto": "en.wikipedia",
-     "vistas": 3400,
+     "vistas": 5400,
      "url": "https://en.wikipedia.org/wiki/Ansel_Adams"
+    },
+    {
+     "articulo": "2026 FAA communication outage",
+     "proyecto": "en.wikipedia",
+     "vistas": 5400,
+     "url": "https://en.wikipedia.org/wiki/2026_FAA_communication_outage"
+    },
+    {
+     "articulo": "Grand Theft Auto VI",
+     "proyecto": "en.wikipedia",
+     "vistas": 5100,
+     "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    },
+    {
+     "articulo": "Ebenezer (2026 film)",
+     "proyecto": "en.wikipedia",
+     "vistas": 5000,
+     "url": "https://en.wikipedia.org/wiki/Ebenezer_%282026_film%29"
+    },
+    {
+     "articulo": "Rachel Campos-Duffy",
+     "proyecto": "en.wikipedia",
+     "vistas": 4500,
+     "url": "https://en.wikipedia.org/wiki/Rachel_Campos-Duffy"
+    },
+    {
+     "articulo": "Empress Elisabeth of Austria",
+     "proyecto": "en.wikipedia",
+     "vistas": 3700,
+     "url": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria"
+    },
+    {
+     "articulo": "Josh Hokit",
+     "proyecto": "en.wikipedia",
+     "vistas": 3600,
+     "url": "https://en.wikipedia.org/wiki/Josh_Hokit"
+    },
+    {
+     "articulo": "VisionQuest",
+     "proyecto": "en.wikipedia",
+     "vistas": 3600,
+     "url": "https://en.wikipedia.org/wiki/VisionQuest"
+    },
+    {
+     "articulo": "Jensen Huang spying scandal",
+     "proyecto": "en.wikipedia",
+     "vistas": 3600,
+     "url": "https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal"
+    },
+    {
+     "articulo": "The Odyssey (2026 film)",
+     "proyecto": "en.wikipedia",
+     "vistas": 3400,
+     "url": "https://en.wikipedia.org/wiki/The_Odyssey_%282026_film%29"
+    },
+    {
+     "articulo": "David Walliams",
+     "proyecto": "en.wikipedia",
+     "vistas": 3300,
+     "url": "https://en.wikipedia.org/wiki/David_Walliams"
+    },
+    {
+     "articulo": "Aline Desjardins",
+     "proyecto": "fr.wikipedia",
+     "vistas": 3200,
+     "url": "https://fr.wikipedia.org/wiki/Aline_Desjardins"
+    },
+    {
+     "articulo": "Mélanie Joly",
+     "proyecto": "en.wikipedia",
+     "vistas": 3200,
+     "url": "https://en.wikipedia.org/wiki/M%C3%A9lanie_Joly"
+    },
+    {
+     "articulo": "Godzilla Minus Zero",
+     "proyecto": "en.wikipedia",
+     "vistas": 3200,
+     "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero"
+    },
+    {
+     "articulo": "Nathan Fielder",
+     "proyecto": "en.wikipedia",
+     "vistas": 3000,
+     "url": "https://en.wikipedia.org/wiki/Nathan_Fielder"
+    },
+    {
+     "articulo": "MobLand",
+     "proyecto": "en.wikipedia",
+     "vistas": 2900,
+     "url": "https://en.wikipedia.org/wiki/MobLand"
     }
    ]
   },
   "PE": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-14",
    "articulos": [
     {
      "articulo": "León XIV",
      "proyecto": "es.wikipedia",
-     "vistas": 21200,
+     "vistas": 9800,
      "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
     },
     {
-     "articulo": "Francisco (papa)",
+     "articulo": "Toribio de Mogrovejo",
      "proyecto": "es.wikipedia",
-     "vistas": 4600,
-     "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
+     "vistas": 6500,
+     "url": "https://es.wikipedia.org/wiki/Toribio_de_Mogrovejo"
+    },
+    {
+     "articulo": "Santa Cruz de Succhabamba",
+     "proyecto": "es.wikipedia",
+     "vistas": 3700,
+     "url": "https://es.wikipedia.org/wiki/Santa_Cruz_de_Succhabamba"
+    },
+    {
+     "articulo": "Erinson Ramírez",
+     "proyecto": "es.wikipedia",
+     "vistas": 2800,
+     "url": "https://es.wikipedia.org/wiki/Erinson_Ram%C3%ADrez"
     },
     {
      "articulo": "Edgard Rimaycuna",
      "proyecto": "es.wikipedia",
-     "vistas": 3300,
+     "vistas": 2700,
      "url": "https://es.wikipedia.org/wiki/Edgard_Rimaycuna"
     },
     {
-     "articulo": "Juan Pablo II",
+     "articulo": "Zaña",
      "proyecto": "es.wikipedia",
-     "vistas": 3200,
-     "url": "https://es.wikipedia.org/wiki/Juan_Pablo_II"
-    },
-    {
-     "articulo": "ChatGPT",
-     "proyecto": "en.wikipedia",
-     "vistas": 3100,
-     "url": "https://en.wikipedia.org/wiki/ChatGPT"
-    },
-    {
-     "articulo": "Benedicto XVI",
-     "proyecto": "es.wikipedia",
-     "vistas": 2600,
-     "url": "https://es.wikipedia.org/wiki/Benedicto_XVI"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "es.wikipedia",
-     "vistas": 1900,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Papa",
-     "proyecto": "es.wikipedia",
-     "vistas": 1600,
-     "url": "https://es.wikipedia.org/wiki/Papa"
-    },
-    {
-     "articulo": "Juan Pablo I",
-     "proyecto": "es.wikipedia",
-     "vistas": 1400,
-     "url": "https://es.wikipedia.org/wiki/Juan_Pablo_I"
-    },
-    {
-     "articulo": "Regina Torné",
-     "proyecto": "es.wikipedia",
-     "vistas": 1300,
-     "url": "https://es.wikipedia.org/wiki/Regina_Torn%C3%A9"
-    },
-    {
-     "articulo": "Carlos Castillo Mattasoglio",
-     "proyecto": "es.wikipedia",
-     "vistas": 1300,
-     "url": "https://es.wikipedia.org/wiki/Carlos_Castillo_Mattasoglio"
-    }
-   ]
-  },
-  "CL": {
-   "fecha": "2026-11-13",
-   "articulos": [
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "es.wikipedia",
-     "vistas": 2400,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Brian Tracy",
-     "proyecto": "es.wikipedia",
-     "vistas": 2300,
-     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
-    },
-    {
-     "articulo": "Máximo Pavez",
-     "proyecto": "es.wikipedia",
-     "vistas": 2200,
-     "url": "https://es.wikipedia.org/wiki/M%C3%A1ximo_Pavez"
-    },
-    {
-     "articulo": "León XIV",
-     "proyecto": "es.wikipedia",
-     "vistas": 1800,
-     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
-    },
-    {
-     "articulo": "Gabriel Urzúa",
-     "proyecto": "es.wikipedia",
-     "vistas": 1700,
-     "url": "https://es.wikipedia.org/wiki/Gabriel_Urz%C3%BAa"
-    },
-    {
-     "articulo": "Sebastián Lelio",
-     "proyecto": "es.wikipedia",
-     "vistas": 1400,
-     "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Lelio"
-    },
-    {
-     "articulo": "Nicolás Oyarzún",
-     "proyecto": "es.wikipedia",
-     "vistas": 1300,
-     "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Oyarz%C3%BAn"
-    }
-   ]
-  },
-  "AR": {
-   "fecha": "2026-11-11",
-   "articulos": [
-    {
-     "articulo": "León XIV",
-     "proyecto": "es.wikipedia",
-     "vistas": 47500,
-     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
+     "vistas": 2500,
+     "url": "https://es.wikipedia.org/wiki/Za%C3%B1a"
     },
     {
      "articulo": "Francisco (papa)",
      "proyecto": "es.wikipedia",
-     "vistas": 16600,
+     "vistas": 2400,
      "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
-    },
-    {
-     "articulo": "Carlos Babington",
-     "proyecto": "es.wikipedia",
-     "vistas": 13100,
-     "url": "https://es.wikipedia.org/wiki/Carlos_Babington"
-    },
-    {
-     "articulo": "Maggie Cullen",
-     "proyecto": "es.wikipedia",
-     "vistas": 11600,
-     "url": "https://es.wikipedia.org/wiki/Maggie_Cullen"
     },
     {
      "articulo": "Juan Pablo II",
      "proyecto": "es.wikipedia",
-     "vistas": 9500,
+     "vistas": 2000,
      "url": "https://es.wikipedia.org/wiki/Juan_Pablo_II"
-    },
-    {
-     "articulo": "Claudia Piñeiro",
-     "proyecto": "es.wikipedia",
-     "vistas": 9300,
-     "url": "https://es.wikipedia.org/wiki/Claudia_Pi%C3%B1eiro"
     },
     {
      "articulo": "Benedicto XVI",
      "proyecto": "es.wikipedia",
-     "vistas": 8000,
+     "vistas": 1700,
      "url": "https://es.wikipedia.org/wiki/Benedicto_XVI"
     },
     {
-     "articulo": "Keiko Fujimori",
+     "articulo": "Brian Tracy",
      "proyecto": "es.wikipedia",
-     "vistas": 7400,
-     "url": "https://es.wikipedia.org/wiki/Keiko_Fujimori"
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
     },
     {
-     "articulo": "Nuestra Señora de Luján",
+     "articulo": "Tania Libertad",
      "proyecto": "es.wikipedia",
-     "vistas": 6900,
-     "url": "https://es.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_Luj%C3%A1n"
+     "vistas": 1200,
+     "url": "https://es.wikipedia.org/wiki/Tania_Libertad"
+    }
+   ]
+  },
+  "CL": {
+   "fecha": "2026-11-14",
+   "articulos": [
+    {
+     "articulo": "Lawrence Vigouroux",
+     "proyecto": "es.wikipedia",
+     "vistas": 3500,
+     "url": "https://es.wikipedia.org/wiki/Lawrence_Vigouroux"
     },
     {
-     "articulo": "Jorge García Cuerva",
+     "articulo": "Brian Tracy",
+     "proyecto": "es.wikipedia",
+     "vistas": 2800,
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+     "articulo": "Maximiliano Gutiérrez",
+     "proyecto": "es.wikipedia",
+     "vistas": 2200,
+     "url": "https://es.wikipedia.org/wiki/Maximiliano_Guti%C3%A9rrez"
+    },
+    {
+     "articulo": "Isabel de Baviera",
+     "proyecto": "es.wikipedia",
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Isabel_de_Baviera"
+    },
+    {
+     "articulo": "Sebastián Lelio",
+     "proyecto": "es.wikipedia",
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Lelio"
+    },
+    {
+     "articulo": "León XIV",
+     "proyecto": "es.wikipedia",
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
+    },
+    {
+     "articulo": "Francisco José I de Austria",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/Francisco_Jos%C3%A9_I_de_Austria"
+    },
+    {
+     "articulo": "Guillermo Maripán",
+     "proyecto": "es.wikipedia",
+     "vistas": 1200,
+     "url": "https://es.wikipedia.org/wiki/Guillermo_Marip%C3%A1n"
+    },
+    {
+     "articulo": "Agustín Occhiato",
+     "proyecto": "en.wikipedia",
+     "vistas": 1200,
+     "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Occhiato"
+    }
+   ]
+  },
+  "AR": {
+   "fecha": "2026-11-14",
+   "articulos": [
+    {
+     "articulo": "Marilina Bertoldi",
+     "proyecto": "es.wikipedia",
+     "vistas": 23400,
+     "url": "https://es.wikipedia.org/wiki/Marilina_Bertoldi"
+    },
+    {
+     "articulo": "Matías Soulé",
+     "proyecto": "es.wikipedia",
+     "vistas": 7900,
+     "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Soul%C3%A9"
+    },
+    {
+     "articulo": "Gianluca Prestianni",
+     "proyecto": "es.wikipedia",
+     "vistas": 6300,
+     "url": "https://es.wikipedia.org/wiki/Gianluca_Prestianni"
+    },
+    {
+     "articulo": "Brian Tracy",
+     "proyecto": "es.wikipedia",
+     "vistas": 5900,
+     "url": "https://es.wikipedia.org/wiki/Brian_Tracy"
+    },
+    {
+     "articulo": "León XIV",
      "proyecto": "es.wikipedia",
      "vistas": 4900,
-     "url": "https://es.wikipedia.org/wiki/Jorge_Garc%C3%ADa_Cuerva"
+     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIV"
     },
     {
-     "articulo": "Los Palmeras",
+     "articulo": "Gerónimo Rulli",
      "proyecto": "es.wikipedia",
-     "vistas": 4100,
-     "url": "https://es.wikipedia.org/wiki/Los_Palmeras"
+     "vistas": 4300,
+     "url": "https://es.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli"
     },
     {
-     "articulo": "Juan Pablo I",
-     "proyecto": "es.wikipedia",
-     "vistas": 3900,
-     "url": "https://es.wikipedia.org/wiki/Juan_Pablo_I"
+     "articulo": "Agustín Occhiato",
+     "proyecto": "en.wikipedia",
+     "vistas": 4200,
+     "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Occhiato"
     },
     {
-     "articulo": "Papa",
+     "articulo": "Leonardo Balerdi",
      "proyecto": "es.wikipedia",
-     "vistas": 3700,
-     "url": "https://es.wikipedia.org/wiki/Papa"
+     "vistas": 3800,
+     "url": "https://es.wikipedia.org/wiki/Leonardo_Balerdi"
     },
     {
-     "articulo": "Rubén Deicas",
+     "articulo": "Isabel de Baviera",
      "proyecto": "es.wikipedia",
-     "vistas": 3700,
-     "url": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Deicas"
-    },
-    {
-     "articulo": "Santiago Abascal",
-     "proyecto": "es.wikipedia",
-     "vistas": 3400,
-     "url": "https://es.wikipedia.org/wiki/Santiago_Abascal"
-    },
-    {
-     "articulo": "Alberto Fujimori",
-     "proyecto": "es.wikipedia",
-     "vistas": 3200,
-     "url": "https://es.wikipedia.org/wiki/Alberto_Fujimori"
+     "vistas": 3800,
+     "url": "https://es.wikipedia.org/wiki/Isabel_de_Baviera"
     },
     {
      "articulo": "Aníbal Gordon",
@@ -903,1239 +873,1263 @@
      "url": "https://es.wikipedia.org/wiki/An%C3%ADbal_Gordon"
     },
     {
-     "articulo": "Julieta Nair Calvo",
+     "articulo": "Román Vega",
      "proyecto": "es.wikipedia",
      "vistas": 3000,
-     "url": "https://es.wikipedia.org/wiki/Julieta_Nair_Calvo"
+     "url": "https://es.wikipedia.org/wiki/Rom%C3%A1n_Vega"
     },
     {
-     "articulo": "Ricardo Gil Lavedra",
+     "articulo": "Lula Bertoldi",
      "proyecto": "es.wikipedia",
-     "vistas": 3000,
-     "url": "https://es.wikipedia.org/wiki/Ricardo_Gil_Lavedra"
+     "vistas": 2800,
+     "url": "https://es.wikipedia.org/wiki/Lula_Bertoldi"
     },
     {
-     "articulo": "Luquita Rodríguez",
-     "proyecto": "es.wikipedia",
-     "vistas": 2700,
-     "url": "https://es.wikipedia.org/wiki/Luquita_Rodr%C3%ADguez"
-    },
-    {
-     "articulo": "Edgard Rimaycuna",
+     "articulo": "José Luis Manzano (empresario)",
      "proyecto": "es.wikipedia",
      "vistas": 2700,
-     "url": "https://es.wikipedia.org/wiki/Edgard_Rimaycuna"
+     "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Manzano_%28empresario%29"
     },
     {
-     "articulo": "Rocío Robles",
+     "articulo": "Diego Forlán",
      "proyecto": "es.wikipedia",
-     "vistas": 2600,
-     "url": "https://es.wikipedia.org/wiki/Roc%C3%ADo_Robles"
+     "vistas": 2700,
+     "url": "https://es.wikipedia.org/wiki/Diego_Forl%C3%A1n"
     },
     {
-     "articulo": "Ricardo La Volpe",
+     "articulo": "Mar de Cobo",
      "proyecto": "es.wikipedia",
      "vistas": 2500,
-     "url": "https://es.wikipedia.org/wiki/Ricardo_La_Volpe"
+     "url": "https://es.wikipedia.org/wiki/Mar_de_Cobo"
     },
     {
-     "articulo": "León XIII",
+     "articulo": "Francisco José I de Austria",
      "proyecto": "es.wikipedia",
      "vistas": 2400,
-     "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_XIII"
+     "url": "https://es.wikipedia.org/wiki/Francisco_Jos%C3%A9_I_de_Austria"
     },
     {
-     "articulo": "Pablo VI",
-     "proyecto": "es.wikipedia",
-     "vistas": 2400,
-     "url": "https://es.wikipedia.org/wiki/Pablo_VI"
-    },
-    {
-     "articulo": "Perú",
+     "articulo": "Cristopher Fiermarin",
      "proyecto": "es.wikipedia",
      "vistas": 2300,
-     "url": "https://es.wikipedia.org/wiki/Per%C3%BA"
+     "url": "https://es.wikipedia.org/wiki/Cristopher_Fiermarin"
     },
     {
-     "articulo": "Basílica de Nuestra Señora de Luján",
+     "articulo": "Nico Paz",
      "proyecto": "es.wikipedia",
      "vistas": 2300,
-     "url": "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_Luj%C3%A1n"
+     "url": "https://es.wikipedia.org/wiki/Nico_Paz"
     },
     {
-     "articulo": "Ciudad del Vaticano",
+     "articulo": "Francisco (papa)",
      "proyecto": "es.wikipedia",
      "vistas": 2200,
-     "url": "https://es.wikipedia.org/wiki/Ciudad_del_Vaticano"
+     "url": "https://es.wikipedia.org/wiki/Francisco_%28papa%29"
     },
     {
-     "articulo": "Juan XXIII",
+     "articulo": "Carlos Babington",
      "proyecto": "es.wikipedia",
-     "vistas": 2200,
-     "url": "https://es.wikipedia.org/wiki/Juan_XXIII"
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Carlos_Babington"
     },
     {
-     "articulo": "Simón Pedro",
+     "articulo": "Chiclayo",
      "proyecto": "es.wikipedia",
-     "vistas": 2100,
-     "url": "https://es.wikipedia.org/wiki/Sim%C3%B3n_Pedro"
+     "vistas": 2000,
+     "url": "https://es.wikipedia.org/wiki/Chiclayo"
+    },
+    {
+     "articulo": "Diego Matías Rodríguez",
+     "proyecto": "es.wikipedia",
+     "vistas": 1900,
+     "url": "https://es.wikipedia.org/wiki/Diego_Mat%C3%ADas_Rodr%C3%ADguez"
+    },
+    {
+     "articulo": "Phil Collins",
+     "proyecto": "es.wikipedia",
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Phil_Collins"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "es.wikipedia",
+     "vistas": 1800,
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Selección de fútbol de Euskadi",
+     "proyecto": "es.wikipedia",
+     "vistas": 1700,
+     "url": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Euskadi"
+    },
+    {
+     "articulo": "Maximiliano de México",
+     "proyecto": "es.wikipedia",
+     "vistas": 1700,
+     "url": "https://es.wikipedia.org/wiki/Maximiliano_de_M%C3%A9xico"
+    },
+    {
+     "articulo": "Pedro Troglio",
+     "proyecto": "es.wikipedia",
+     "vistas": 1600,
+     "url": "https://es.wikipedia.org/wiki/Pedro_Troglio"
+    },
+    {
+     "articulo": "Estadio Malvinas Argentinas",
+     "proyecto": "es.wikipedia",
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Estadio_Malvinas_Argentinas"
+    },
+    {
+     "articulo": "Benedicto XVI",
+     "proyecto": "es.wikipedia",
+     "vistas": 1500,
+     "url": "https://es.wikipedia.org/wiki/Benedicto_XVI"
+    },
+    {
+     "articulo": "Álvaro Montero",
+     "proyecto": "es.wikipedia",
+     "vistas": 1400,
+     "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Montero"
     }
    ]
   },
   "ES": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
     {
      "articulo": "Jordi Wild",
      "proyecto": "es.wikipedia",
-     "vistas": 56500,
+     "vistas": 28300,
      "url": "https://es.wikipedia.org/wiki/Jordi_Wild"
-    },
-    {
-     "articulo": "José María Figaredo",
-     "proyecto": "es.wikipedia",
-     "vistas": 25800,
-     "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Figaredo"
-    },
-    {
-     "articulo": "Isabel Medina Peralta",
-     "proyecto": "es.wikipedia",
-     "vistas": 23600,
-     "url": "https://es.wikipedia.org/wiki/Isabel_Medina_Peralta"
     },
     {
      "articulo": "Pablo Bustinduy",
      "proyecto": "es.wikipedia",
-     "vistas": 22800,
+     "vistas": 13500,
      "url": "https://es.wikipedia.org/wiki/Pablo_Bustinduy"
     },
     {
-     "articulo": "Ada Colau",
+     "articulo": "Isabel Medina Peralta",
      "proyecto": "es.wikipedia",
-     "vistas": 22500,
-     "url": "https://es.wikipedia.org/wiki/Ada_Colau"
+     "vistas": 13400,
+     "url": "https://es.wikipedia.org/wiki/Isabel_Medina_Peralta"
     },
     {
      "articulo": "Frente Amplio (España)",
      "proyecto": "es.wikipedia",
-     "vistas": 20100,
+     "vistas": 13100,
      "url": "https://es.wikipedia.org/wiki/Frente_Amplio_%28Espa%C3%B1a%29"
     },
     {
      "articulo": "Carlos Cuerpo",
      "proyecto": "es.wikipedia",
-     "vistas": 19700,
+     "vistas": 12700,
      "url": "https://es.wikipedia.org/wiki/Carlos_Cuerpo"
+    },
+    {
+     "articulo": "José María Figaredo",
+     "proyecto": "es.wikipedia",
+     "vistas": 12500,
+     "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Figaredo"
     },
     {
      "articulo": "Alberto Núñez Feijóo",
      "proyecto": "es.wikipedia",
-     "vistas": 18400,
+     "vistas": 12400,
      "url": "https://es.wikipedia.org/wiki/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o"
-    },
-    {
-     "articulo": "Pedro Sánchez",
-     "proyecto": "es.wikipedia",
-     "vistas": 13300,
-     "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
-    },
-    {
-     "articulo": "Juan Bravo Baena",
-     "proyecto": "es.wikipedia",
-     "vistas": 12600,
-     "url": "https://es.wikipedia.org/wiki/Juan_Bravo_Baena"
     },
     {
      "articulo": "Santiago Abascal",
      "proyecto": "es.wikipedia",
-     "vistas": 12300,
+     "vistas": 11600,
      "url": "https://es.wikipedia.org/wiki/Santiago_Abascal"
+    },
+    {
+     "articulo": "Ada Colau",
+     "proyecto": "es.wikipedia",
+     "vistas": 11600,
+     "url": "https://es.wikipedia.org/wiki/Ada_Colau"
     },
     {
      "articulo": "Helena Bianco",
      "proyecto": "es.wikipedia",
-     "vistas": 11900,
+     "vistas": 11400,
      "url": "https://es.wikipedia.org/wiki/Helena_Bianco"
     },
     {
-     "articulo": "Núcleo Nacional",
+     "articulo": "Pedro Sánchez",
      "proyecto": "es.wikipedia",
-     "vistas": 10500,
-     "url": "https://es.wikipedia.org/wiki/N%C3%BAcleo_Nacional"
+     "vistas": 8900,
+     "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
     },
     {
-     "articulo": "Jensen Huang",
+     "articulo": "Dodi Al-Fayed",
      "proyecto": "es.wikipedia",
-     "vistas": 9900,
-     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Robert Enke",
-     "proyecto": "es.wikipedia",
-     "vistas": 8800,
-     "url": "https://es.wikipedia.org/wiki/Robert_Enke"
+     "vistas": 7600,
+     "url": "https://es.wikipedia.org/wiki/Dodi_Al-Fayed"
     },
     {
      "articulo": "Elecciones generales de España de 2026",
      "proyecto": "es.wikipedia",
-     "vistas": 8300,
+     "vistas": 6400,
      "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
     },
     {
-     "articulo": "Pilar Bardem",
-     "proyecto": "es.wikipedia",
-     "vistas": 7600,
-     "url": "https://es.wikipedia.org/wiki/Pilar_Bardem"
-    },
-    {
-     "articulo": "Luisa Martín",
-     "proyecto": "es.wikipedia",
-     "vistas": 7100,
-     "url": "https://es.wikipedia.org/wiki/Luisa_Mart%C3%ADn"
-    },
-    {
-     "articulo": "Lucía Hoyos",
-     "proyecto": "es.wikipedia",
-     "vistas": 7000,
-     "url": "https://es.wikipedia.org/wiki/Luc%C3%ADa_Hoyos"
-    },
-    {
-     "articulo": "Rosalía (cantante)",
-     "proyecto": "es.wikipedia",
-     "vistas": 6900,
-     "url": "https://es.wikipedia.org/wiki/Rosal%C3%ADa_%28cantante%29"
-    },
-    {
-     "articulo": "Marcial Dorado",
-     "proyecto": "es.wikipedia",
-     "vistas": 6900,
-     "url": "https://es.wikipedia.org/wiki/Marcial_Dorado"
-    },
-    {
-     "articulo": "Pablo Hernández de Cos",
-     "proyecto": "es.wikipedia",
-     "vistas": 6700,
-     "url": "https://es.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_de_Cos"
-    },
-    {
-     "articulo": "Ángeles Amador",
-     "proyecto": "es.wikipedia",
-     "vistas": 6100,
-     "url": "https://es.wikipedia.org/wiki/%C3%81ngeles_Amador"
-    },
-    {
-     "articulo": "Carlos Bardem",
+     "articulo": "El crimen de Pazos",
      "proyecto": "es.wikipedia",
      "vistas": 6000,
-     "url": "https://es.wikipedia.org/wiki/Carlos_Bardem"
+     "url": "https://es.wikipedia.org/wiki/El_crimen_de_Pazos"
     },
     {
-     "articulo": "Begoña Gómez Fernández",
+     "articulo": "Núcleo Nacional",
      "proyecto": "es.wikipedia",
      "vistas": 5900,
-     "url": "https://es.wikipedia.org/wiki/Bego%C3%B1a_G%C3%B3mez_Fern%C3%A1ndez"
+     "url": "https://es.wikipedia.org/wiki/N%C3%BAcleo_Nacional"
+    },
+    {
+     "articulo": "Isabel de Baviera",
+     "proyecto": "es.wikipedia",
+     "vistas": 5400,
+     "url": "https://es.wikipedia.org/wiki/Isabel_de_Baviera"
     },
     {
      "articulo": "Portada",
      "proyecto": "ca.wikipedia",
-     "vistas": 5700,
+     "vistas": 5400,
      "url": "https://ca.wikipedia.org/wiki/Portada"
+    },
+    {
+     "articulo": "Diana de Gales",
+     "proyecto": "es.wikipedia",
+     "vistas": 5400,
+     "url": "https://es.wikipedia.org/wiki/Diana_de_Gales"
+    },
+    {
+     "articulo": "Massiel",
+     "proyecto": "es.wikipedia",
+     "vistas": 5400,
+     "url": "https://es.wikipedia.org/wiki/Massiel"
+    },
+    {
+     "articulo": "Hasnat Khan",
+     "proyecto": "es.wikipedia",
+     "vistas": 5300,
+     "url": "https://es.wikipedia.org/wiki/Hasnat_Khan"
+    },
+    {
+     "articulo": "Juan Bravo Baena",
+     "proyecto": "es.wikipedia",
+     "vistas": 5200,
+     "url": "https://es.wikipedia.org/wiki/Juan_Bravo_Baena"
     },
     {
      "articulo": "La Séptima",
      "proyecto": "es.wikipedia",
-     "vistas": 5100,
+     "vistas": 4900,
      "url": "https://es.wikipedia.org/wiki/La_S%C3%A9ptima"
     },
     {
-     "articulo": "Oihan Sancet",
+     "articulo": "Jensen Huang",
      "proyecto": "es.wikipedia",
-     "vistas": 4700,
-     "url": "https://es.wikipedia.org/wiki/Oihan_Sancet"
+     "vistas": 4600,
+     "url": "https://es.wikipedia.org/wiki/Jensen_Huang"
     },
     {
-     "articulo": "Se Acabó la Fiesta",
+     "articulo": "Alba Carrillo",
      "proyecto": "es.wikipedia",
-     "vistas": 4700,
-     "url": "https://es.wikipedia.org/wiki/Se_Acab%C3%B3_la_Fiesta"
+     "vistas": 4600,
+     "url": "https://es.wikipedia.org/wiki/Alba_Carrillo"
     },
     {
-     "articulo": "Elecciones generales de España de 2023",
+     "articulo": "Marcial Dorado",
      "proyecto": "es.wikipedia",
      "vistas": 4500,
-     "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2023"
+     "url": "https://es.wikipedia.org/wiki/Marcial_Dorado"
+    },
+    {
+     "articulo": "Begoña Gómez Fernández",
+     "proyecto": "es.wikipedia",
+     "vistas": 4300,
+     "url": "https://es.wikipedia.org/wiki/Bego%C3%B1a_G%C3%B3mez_Fern%C3%A1ndez"
+    },
+    {
+     "articulo": "John Malkovich",
+     "proyecto": "es.wikipedia",
+     "vistas": 4200,
+     "url": "https://es.wikipedia.org/wiki/John_Malkovich"
+    },
+    {
+     "articulo": "Wild Horse Nine",
+     "proyecto": "es.wikipedia",
+     "vistas": 4200,
+     "url": "https://es.wikipedia.org/wiki/Wild_Horse_Nine"
+    },
+    {
+     "articulo": "Tristán Ulloa",
+     "proyecto": "es.wikipedia",
+     "vistas": 4100,
+     "url": "https://es.wikipedia.org/wiki/Trist%C3%A1n_Ulloa"
+    },
+    {
+     "articulo": "Abel Caballero",
+     "proyecto": "es.wikipedia",
+     "vistas": 4000,
+     "url": "https://es.wikipedia.org/wiki/Abel_Caballero"
     }
    ]
   },
   "PT": {
-   "fecha": "2026-11-11",
+   "fecha": "2026-11-14",
    "articulos": [
     {
-     "articulo": "António Monteiro",
-     "proyecto": "pt.wikipedia",
-     "vistas": 2900,
-     "url": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Monteiro"
-    },
-    {
-     "articulo": "Duarte Costa (político)",
-     "proyecto": "pt.wikipedia",
-     "vistas": 1800,
-     "url": "https://pt.wikipedia.org/wiki/Duarte_Costa_%28pol%C3%ADtico%29"
-    },
-    {
-     "articulo": "Stacy Keach",
+     "articulo": "Carlos Forbs",
      "proyecto": "en.wikipedia",
-     "vistas": 1700,
-     "url": "https://en.wikipedia.org/wiki/Stacy_Keach"
+     "vistas": 4100,
+     "url": "https://en.wikipedia.org/wiki/Carlos_Forbs"
     },
     {
-     "articulo": "Leonor de Almeida Portugal",
-     "proyecto": "pt.wikipedia",
-     "vistas": 1600,
-     "url": "https://pt.wikipedia.org/wiki/Leonor_de_Almeida_Portugal"
-    },
-    {
-     "articulo": "Depressão Charles",
-     "proyecto": "pt.wikipedia",
-     "vistas": 1400,
-     "url": "https://pt.wikipedia.org/wiki/Depress%C3%A3o_Charles"
-    },
-    {
-     "articulo": "Dia de São Martinho",
-     "proyecto": "pt.wikipedia",
-     "vistas": 1400,
-     "url": "https://pt.wikipedia.org/wiki/Dia_de_S%C3%A3o_Martinho"
-    },
-    {
-     "articulo": "Storm Kristin",
+     "articulo": "Alberto Costa (footballer, born 2003)",
      "proyecto": "en.wikipedia",
-     "vistas": 1400,
-     "url": "https://en.wikipedia.org/wiki/Storm_Kristin"
+     "vistas": 2500,
+     "url": "https://en.wikipedia.org/wiki/Alberto_Costa_%28footballer%2C_born_2003%29"
+    },
+    {
+     "articulo": "Isabel da Baviera, Imperatriz da Áustria",
+     "proyecto": "pt.wikipedia",
+     "vistas": 2000,
+     "url": "https://pt.wikipedia.org/wiki/Isabel_da_Baviera%2C_Imperatriz_da_%C3%81ustria"
+    },
+    {
+     "articulo": "La Bola Negra",
+     "proyecto": "pt.wikipedia",
+     "vistas": 1500,
+     "url": "https://pt.wikipedia.org/wiki/La_Bola_Negra"
     }
    ]
   },
   "GB": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
     {
-     "articulo": "Mauricio Pochettino",
+     "articulo": "James Botham",
      "proyecto": "en.wikipedia",
-     "vistas": 64400,
-     "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino"
+     "vistas": 67100,
+     "url": "https://en.wikipedia.org/wiki/James_Botham"
     },
     {
-     "articulo": "David Walliams",
+     "articulo": "Will Joseph (rugby union, born 2002)",
      "proyecto": "en.wikipedia",
-     "vistas": 48300,
-     "url": "https://en.wikipedia.org/wiki/David_Walliams"
+     "vistas": 45800,
+     "url": "https://en.wikipedia.org/wiki/Will_Joseph_%28rugby_union%2C_born_2002%29"
     },
     {
-     "articulo": "Jensen Huang",
+     "articulo": "Honey (TV series)",
      "proyecto": "en.wikipedia",
-     "vistas": 44700,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Owain Wyn Evans",
-     "proyecto": "en.wikipedia",
-     "vistas": 35700,
-     "url": "https://en.wikipedia.org/wiki/Owain_Wyn_Evans"
-    },
-    {
-     "articulo": "Sharleen Spiteri",
-     "proyecto": "en.wikipedia",
-     "vistas": 34400,
-     "url": "https://en.wikipedia.org/wiki/Sharleen_Spiteri"
+     "vistas": 36200,
+     "url": "https://en.wikipedia.org/wiki/Honey_%28TV_series%29"
     },
     {
      "articulo": "Russell Brand",
      "proyecto": "en.wikipedia",
-     "vistas": 34400,
+     "vistas": 33800,
      "url": "https://en.wikipedia.org/wiki/Russell_Brand"
     },
     {
-     "articulo": "Tyler West",
+     "articulo": "Jonathan Joseph (rugby union)",
      "proyecto": "en.wikipedia",
-     "vistas": 29500,
-     "url": "https://en.wikipedia.org/wiki/Tyler_West"
-    },
-    {
-     "articulo": "Lisa Maxwell (actress)",
-     "proyecto": "en.wikipedia",
-     "vistas": 27400,
-     "url": "https://en.wikipedia.org/wiki/Lisa_Maxwell_%28actress%29"
-    },
-    {
-     "articulo": "Deaths in 2026",
-     "proyecto": "en.wikipedia",
-     "vistas": 20900,
-     "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
-    },
-    {
-     "articulo": "Avril Lavigne",
-     "proyecto": "en.wikipedia",
-     "vistas": 20200,
-     "url": "https://en.wikipedia.org/wiki/Avril_Lavigne"
-    },
-    {
-     "articulo": "Harry Kane",
-     "proyecto": "en.wikipedia",
-     "vistas": 17800,
-     "url": "https://en.wikipedia.org/wiki/Harry_Kane"
-    },
-    {
-     "articulo": "Nvidia",
-     "proyecto": "en.wikipedia",
-     "vistas": 17800,
-     "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-     "articulo": "MobLand",
-     "proyecto": "en.wikipedia",
-     "vistas": 16400,
-     "url": "https://en.wikipedia.org/wiki/MobLand"
-    },
-    {
-     "articulo": "Johnny Flynn",
-     "proyecto": "en.wikipedia",
-     "vistas": 15800,
-     "url": "https://en.wikipedia.org/wiki/Johnny_Flynn"
-    },
-    {
-     "articulo": "Rivals (TV series)",
-     "proyecto": "en.wikipedia",
-     "vistas": 15000,
-     "url": "https://en.wikipedia.org/wiki/Rivals_%28TV_series%29"
-    },
-    {
-     "articulo": "Ebenezer (2026 film)",
-     "proyecto": "en.wikipedia",
-     "vistas": 14300,
-     "url": "https://en.wikipedia.org/wiki/Ebenezer_%282026_film%29"
-    },
-    {
-     "articulo": "Laura Linney",
-     "proyecto": "en.wikipedia",
-     "vistas": 14200,
-     "url": "https://en.wikipedia.org/wiki/Laura_Linney"
-    },
-    {
-     "articulo": "Lara Stone",
-     "proyecto": "en.wikipedia",
-     "vistas": 14000,
-     "url": "https://en.wikipedia.org/wiki/Lara_Stone"
+     "vistas": 33500,
+     "url": "https://en.wikipedia.org/wiki/Jonathan_Joseph_%28rugby_union%29"
     },
     {
      "articulo": "Noel Fielding",
      "proyecto": "en.wikipedia",
-     "vistas": 14000,
+     "vistas": 30000,
      "url": "https://en.wikipedia.org/wiki/Noel_Fielding"
     },
     {
-     "articulo": "Texas (band)",
+     "articulo": "David Walliams",
      "proyecto": "en.wikipedia",
-     "vistas": 14000,
-     "url": "https://en.wikipedia.org/wiki/Texas_%28band%29"
+     "vistas": 27200,
+     "url": "https://en.wikipedia.org/wiki/David_Walliams"
     },
     {
-     "articulo": "Lucy Beaumont (comedian)",
+     "articulo": "Liam Botham",
      "proyecto": "en.wikipedia",
-     "vistas": 13900,
-     "url": "https://en.wikipedia.org/wiki/Lucy_Beaumont_%28comedian%29"
+     "vistas": 26800,
+     "url": "https://en.wikipedia.org/wiki/Liam_Botham"
     },
     {
-     "articulo": "Colette Kress",
+     "articulo": "Jaime Winstone",
      "proyecto": "en.wikipedia",
-     "vistas": 13800,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
+     "vistas": 25600,
+     "url": "https://en.wikipedia.org/wiki/Jaime_Winstone"
+    },
+    {
+     "articulo": "Mauricio Pochettino",
+     "proyecto": "en.wikipedia",
+     "vistas": 23800,
+     "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino"
+    },
+    {
+     "articulo": "Andy Serkis",
+     "proyecto": "en.wikipedia",
+     "vistas": 23500,
+     "url": "https://en.wikipedia.org/wiki/Andy_Serkis"
+    },
+    {
+     "articulo": "Harry Hockings",
+     "proyecto": "en.wikipedia",
+     "vistas": 23100,
+     "url": "https://en.wikipedia.org/wiki/Harry_Hockings"
+    },
+    {
+     "articulo": "Johnny Flynn",
+     "proyecto": "en.wikipedia",
+     "vistas": 21200,
+     "url": "https://en.wikipedia.org/wiki/Johnny_Flynn"
+    },
+    {
+     "articulo": "Delta Goodrem",
+     "proyecto": "en.wikipedia",
+     "vistas": 20900,
+     "url": "https://en.wikipedia.org/wiki/Delta_Goodrem"
+    },
+    {
+     "articulo": "Aljaž Škorjanec",
+     "proyecto": "en.wikipedia",
+     "vistas": 20500,
+     "url": "https://en.wikipedia.org/wiki/Alja%C5%BE_%C5%A0korjanec"
+    },
+    {
+     "articulo": "Deaths in 2026",
+     "proyecto": "en.wikipedia",
+     "vistas": 19400,
+     "url": "https://en.wikipedia.org/wiki/Deaths_in_2026"
+    },
+    {
+     "articulo": "Strictly Come Dancing series 24",
+     "proyecto": "en.wikipedia",
+     "vistas": 19200,
+     "url": "https://en.wikipedia.org/wiki/Strictly_Come_Dancing_series_24"
+    },
+    {
+     "articulo": "Ann Skelly",
+     "proyecto": "en.wikipedia",
+     "vistas": 18200,
+     "url": "https://en.wikipedia.org/wiki/Ann_Skelly"
+    },
+    {
+     "articulo": "Dave Allen (comedian)",
+     "proyecto": "en.wikipedia",
+     "vistas": 18000,
+     "url": "https://en.wikipedia.org/wiki/Dave_Allen_%28comedian%29"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "en.wikipedia",
+     "vistas": 17900,
+     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Warner Dearns",
+     "proyecto": "en.wikipedia",
+     "vistas": 17700,
+     "url": "https://en.wikipedia.org/wiki/Warner_Dearns"
+    },
+    {
+     "articulo": "Ian Botham",
+     "proyecto": "en.wikipedia",
+     "vistas": 16700,
+     "url": "https://en.wikipedia.org/wiki/Ian_Botham"
+    },
+    {
+     "articulo": "Kate Garraway",
+     "proyecto": "en.wikipedia",
+     "vistas": 16400,
+     "url": "https://en.wikipedia.org/wiki/Kate_Garraway"
+    },
+    {
+     "articulo": "Samantha Womack",
+     "proyecto": "en.wikipedia",
+     "vistas": 15300,
+     "url": "https://en.wikipedia.org/wiki/Samantha_Womack"
+    },
+    {
+     "articulo": "Ebenezer (2026 film)",
+     "proyecto": "en.wikipedia",
+     "vistas": 15000,
+     "url": "https://en.wikipedia.org/wiki/Ebenezer_%282026_film%29"
+    },
+    {
+     "articulo": "Avril Lavigne",
+     "proyecto": "en.wikipedia",
+     "vistas": 14800,
+     "url": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
      "articulo": "Black Doves",
      "proyecto": "en.wikipedia",
-     "vistas": 13500,
+     "vistas": 14700,
      "url": "https://en.wikipedia.org/wiki/Black_Doves"
     },
     {
-     "articulo": "Noah Kahan",
+     "articulo": "Eddie Jones (rugby union)",
      "proyecto": "en.wikipedia",
-     "vistas": 13000,
-     "url": "https://en.wikipedia.org/wiki/Noah_Kahan"
+     "vistas": 14000,
+     "url": "https://en.wikipedia.org/wiki/Eddie_Jones_%28rugby_union%29"
     },
     {
-     "articulo": "Molly Rainford",
+     "articulo": "Rivals (TV series)",
      "proyecto": "en.wikipedia",
-     "vistas": 12600,
-     "url": "https://en.wikipedia.org/wiki/Molly_Rainford"
+     "vistas": 13500,
+     "url": "https://en.wikipedia.org/wiki/Rivals_%28TV_series%29"
     },
     {
-     "articulo": "メインページ",
-     "proyecto": "ja.wikipedia",
-     "vistas": 12600,
-     "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"
-    },
-    {
-     "articulo": "Marco Pierre White",
+     "articulo": "MobLand",
      "proyecto": "en.wikipedia",
-     "vistas": 12200,
-     "url": "https://en.wikipedia.org/wiki/Marco_Pierre_White"
-    },
-    {
-     "articulo": "Robert Pattinson",
-     "proyecto": "en.wikipedia",
-     "vistas": 11900,
-     "url": "https://en.wikipedia.org/wiki/Robert_Pattinson"
-    },
-    {
-     "articulo": "Aaron Grandidier-Nkanang",
-     "proyecto": "en.wikipedia",
-     "vistas": 11700,
-     "url": "https://en.wikipedia.org/wiki/Aaron_Grandidier-Nkanang"
-    },
-    {
-     "articulo": "Grand Theft Auto VI",
-     "proyecto": "en.wikipedia",
-     "vistas": 11600,
-     "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+     "vistas": 13400,
+     "url": "https://en.wikipedia.org/wiki/MobLand"
     }
    ]
   },
   "FR": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-14",
    "articulos": [
-    {
-     "articulo": "Liste de sondages sur l'élection présidentielle française de 2027",
-     "proyecto": "fr.wikipedia",
-     "vistas": 45000,
-     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "fr.wikipedia",
-     "vistas": 36400,
-     "url": "https://fr.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Babylon (film, 2022)",
-     "proyecto": "fr.wikipedia",
-     "vistas": 23200,
-     "url": "https://fr.wikipedia.org/wiki/Babylon_%28film%2C_2022%29"
-    },
     {
      "articulo": "Teddy Riner",
      "proyecto": "fr.wikipedia",
-     "vistas": 21700,
+     "vistas": 35000,
      "url": "https://fr.wikipedia.org/wiki/Teddy_Riner"
     },
     {
-     "articulo": "Christine Lagarde",
+     "articulo": "Liste de sondages sur l'élection présidentielle française de 2027",
      "proyecto": "fr.wikipedia",
-     "vistas": 19700,
-     "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde"
+     "vistas": 32600,
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
     },
     {
-     "articulo": "Anne Sinclair",
+     "articulo": "Iliona (chanteuse)",
      "proyecto": "fr.wikipedia",
-     "vistas": 18900,
-     "url": "https://fr.wikipedia.org/wiki/Anne_Sinclair"
+     "vistas": 27200,
+     "url": "https://fr.wikipedia.org/wiki/Iliona_%28chanteuse%29"
     },
     {
-     "articulo": "Nvidia",
+     "articulo": "Championnat des nations 2026",
      "proyecto": "fr.wikipedia",
-     "vistas": 18700,
-     "url": "https://fr.wikipedia.org/wiki/Nvidia"
+     "vistas": 25400,
+     "url": "https://fr.wikipedia.org/wiki/Championnat_des_nations_2026"
     },
     {
-     "articulo": "Affaire des disparus de Mourmelon",
+     "articulo": "Jean Gabin",
      "proyecto": "fr.wikipedia",
-     "vistas": 17300,
-     "url": "https://fr.wikipedia.org/wiki/Affaire_des_disparus_de_Mourmelon"
+     "vistas": 19200,
+     "url": "https://fr.wikipedia.org/wiki/Jean_Gabin"
+    },
+    {
+     "articulo": "Championnat des nations",
+     "proyecto": "fr.wikipedia",
+     "vistas": 19000,
+     "url": "https://fr.wikipedia.org/wiki/Championnat_des_nations"
+    },
+    {
+     "articulo": "Attentats du 13 novembre 2015 en France",
+     "proyecto": "fr.wikipedia",
+     "vistas": 16600,
+     "url": "https://fr.wikipedia.org/wiki/Attentats_du_13_novembre_2015_en_France"
+    },
+    {
+     "articulo": "Didier Digard",
+     "proyecto": "fr.wikipedia",
+     "vistas": 15800,
+     "url": "https://fr.wikipedia.org/wiki/Didier_Digard"
     },
     {
      "articulo": "Rosalie van Breemen",
      "proyecto": "fr.wikipedia",
-     "vistas": 15700,
+     "vistas": 15300,
      "url": "https://fr.wikipedia.org/wiki/Rosalie_van_Breemen"
-    },
-    {
-     "articulo": "David Lisnard",
-     "proyecto": "fr.wikipedia",
-     "vistas": 15400,
-     "url": "https://fr.wikipedia.org/wiki/David_Lisnard"
-    },
-    {
-     "articulo": "Sarah Knafo",
-     "proyecto": "fr.wikipedia",
-     "vistas": 13600,
-     "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo"
-    },
-    {
-     "articulo": "Lucas Da Cunha",
-     "proyecto": "fr.wikipedia",
-     "vistas": 11800,
-     "url": "https://fr.wikipedia.org/wiki/Lucas_Da_Cunha"
-    },
-    {
-     "articulo": "Stacy Keach",
-     "proyecto": "fr.wikipedia",
-     "vistas": 11100,
-     "url": "https://fr.wikipedia.org/wiki/Stacy_Keach"
-    },
-    {
-     "articulo": "Sylvain Durif",
-     "proyecto": "fr.wikipedia",
-     "vistas": 10600,
-     "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif"
-    },
-    {
-     "articulo": "Candidatures à l'élection présidentielle française de 2027",
-     "proyecto": "fr.wikipedia",
-     "vistas": 10300,
-     "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
-    },
-    {
-     "articulo": "Marine Tondelier",
-     "proyecto": "fr.wikipedia",
-     "vistas": 10200,
-     "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
-    },
-    {
-     "articulo": "Jean-Luc Mélenchon",
-     "proyecto": "fr.wikipedia",
-     "vistas": 10200,
-     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
-    },
-    {
-     "articulo": "Adrien Truffert",
-     "proyecto": "fr.wikipedia",
-     "vistas": 10200,
-     "url": "https://fr.wikipedia.org/wiki/Adrien_Truffert"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "en.wikipedia",
-     "vistas": 9900,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Cadavres exquis",
-     "proyecto": "fr.wikipedia",
-     "vistas": 9500,
-     "url": "https://fr.wikipedia.org/wiki/Cadavres_exquis"
-    },
-    {
-     "articulo": "Les Disparus des Argonnes",
-     "proyecto": "fr.wikipedia",
-     "vistas": 9400,
-     "url": "https://fr.wikipedia.org/wiki/Les_Disparus_des_Argonnes"
-    },
-    {
-     "articulo": "Louisa Lesage",
-     "proyecto": "fr.wikipedia",
-     "vistas": 9300,
-     "url": "https://fr.wikipedia.org/wiki/Louisa_Lesage"
-    },
-    {
-     "articulo": "Line Renaud",
-     "proyecto": "fr.wikipedia",
-     "vistas": 9200,
-     "url": "https://fr.wikipedia.org/wiki/Line_Renaud"
-    },
-    {
-     "articulo": "Colette Kress",
-     "proyecto": "en.wikipedia",
-     "vistas": 9000,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
-    },
-    {
-     "articulo": "Sebastiano Esposito",
-     "proyecto": "fr.wikipedia",
-     "vistas": 8800,
-     "url": "https://fr.wikipedia.org/wiki/Sebastiano_Esposito"
-    },
-    {
-     "articulo": "Francesco Pio Esposito",
-     "proyecto": "fr.wikipedia",
-     "vistas": 8700,
-     "url": "https://fr.wikipedia.org/wiki/Francesco_Pio_Esposito"
-    },
-    {
-     "articulo": "Lionel Messi",
-     "proyecto": "fr.wikipedia",
-     "vistas": 8700,
-     "url": "https://fr.wikipedia.org/wiki/Lionel_Messi"
-    },
-    {
-     "articulo": "Campus Drivers",
-     "proyecto": "fr.wikipedia",
-     "vistas": 8500,
-     "url": "https://fr.wikipedia.org/wiki/Campus_Drivers"
-    },
-    {
-     "articulo": "Michael Olise",
-     "proyecto": "fr.wikipedia",
-     "vistas": 8400,
-     "url": "https://fr.wikipedia.org/wiki/Michael_Olise"
     },
     {
      "articulo": "Élisabeth de Wittelsbach",
      "proyecto": "fr.wikipedia",
-     "vistas": 8000,
+     "vistas": 14300,
      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_de_Wittelsbach"
+    },
+    {
+     "articulo": "Alexandre Despallières",
+     "proyecto": "fr.wikipedia",
+     "vistas": 14200,
+     "url": "https://fr.wikipedia.org/wiki/Alexandre_Despalli%C3%A8res"
+    },
+    {
+     "articulo": "Captives (film, 2023)",
+     "proyecto": "fr.wikipedia",
+     "vistas": 14000,
+     "url": "https://fr.wikipedia.org/wiki/Captives_%28film%2C_2023%29"
+    },
+    {
+     "articulo": "David Lisnard",
+     "proyecto": "fr.wikipedia",
+     "vistas": 13800,
+     "url": "https://fr.wikipedia.org/wiki/David_Lisnard"
+    },
+    {
+     "articulo": "Grand Corps Malade",
+     "proyecto": "fr.wikipedia",
+     "vistas": 13800,
+     "url": "https://fr.wikipedia.org/wiki/Grand_Corps_Malade"
+    },
+    {
+     "articulo": "Jensen Huang",
+     "proyecto": "fr.wikipedia",
+     "vistas": 12200,
+     "url": "https://fr.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+     "articulo": "Lionel Messi",
+     "proyecto": "fr.wikipedia",
+     "vistas": 12000,
+     "url": "https://fr.wikipedia.org/wiki/Lionel_Messi"
+    },
+    {
+     "articulo": "Lio",
+     "proyecto": "fr.wikipedia",
+     "vistas": 11300,
+     "url": "https://fr.wikipedia.org/wiki/Lio"
+    },
+    {
+     "articulo": "La Comtesse de Monte-Cristo",
+     "proyecto": "fr.wikipedia",
+     "vistas": 11100,
+     "url": "https://fr.wikipedia.org/wiki/La_Comtesse_de_Monte-Cristo"
+    },
+    {
+     "articulo": "Aaron Grandidier-Nkanang",
+     "proyecto": "fr.wikipedia",
+     "vistas": 11000,
+     "url": "https://fr.wikipedia.org/wiki/Aaron_Grandidier-Nkanang"
+    },
+    {
+     "articulo": "Arnaud Viviant",
+     "proyecto": "fr.wikipedia",
+     "vistas": 10200,
+     "url": "https://fr.wikipedia.org/wiki/Arnaud_Viviant"
+    },
+    {
+     "articulo": "Catherine Nay",
+     "proyecto": "fr.wikipedia",
+     "vistas": 10000,
+     "url": "https://fr.wikipedia.org/wiki/Catherine_Nay"
+    },
+    {
+     "articulo": "Juste une illusion (film)",
+     "proyecto": "fr.wikipedia",
+     "vistas": 9800,
+     "url": "https://fr.wikipedia.org/wiki/Juste_une_illusion_%28film%29"
+    },
+    {
+     "articulo": "Les Pleins Pouvoirs",
+     "proyecto": "fr.wikipedia",
+     "vistas": 9600,
+     "url": "https://fr.wikipedia.org/wiki/Les_Pleins_Pouvoirs"
+    },
+    {
+     "articulo": "Maximilien Ier (empereur du Mexique)",
+     "proyecto": "fr.wikipedia",
+     "vistas": 9000,
+     "url": "https://fr.wikipedia.org/wiki/Maximilien_Ier_%28empereur_du_Mexique%29"
+    },
+    {
+     "articulo": "Hélène Ségara",
+     "proyecto": "fr.wikipedia",
+     "vistas": 9000,
+     "url": "https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_S%C3%A9gara"
+    },
+    {
+     "articulo": "Sarah Knafo",
+     "proyecto": "fr.wikipedia",
+     "vistas": 8900,
+     "url": "https://fr.wikipedia.org/wiki/Sarah_Knafo"
+    },
+    {
+     "articulo": "Christine Lagarde",
+     "proyecto": "fr.wikipedia",
+     "vistas": 8800,
+     "url": "https://fr.wikipedia.org/wiki/Christine_Lagarde"
+    },
+    {
+     "articulo": "Jean Moulin",
+     "proyecto": "fr.wikipedia",
+     "vistas": 8800,
+     "url": "https://fr.wikipedia.org/wiki/Jean_Moulin"
+    },
+    {
+     "articulo": "Selma Kouchy",
+     "proyecto": "fr.wikipedia",
+     "vistas": 8800,
+     "url": "https://fr.wikipedia.org/wiki/Selma_Kouchy"
+    },
+    {
+     "articulo": "Lorie Pester",
+     "proyecto": "fr.wikipedia",
+     "vistas": 8600,
+     "url": "https://fr.wikipedia.org/wiki/Lorie_Pester"
     }
    ]
   },
   "IT": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
+    {
+     "articulo": "Sequestro di Farouk Kassam",
+     "proyecto": "it.wikipedia",
+     "vistas": 33200,
+     "url": "https://it.wikipedia.org/wiki/Sequestro_di_Farouk_Kassam"
+    },
+    {
+     "articulo": "Ronaldinho",
+     "proyecto": "it.wikipedia",
+     "vistas": 21900,
+     "url": "https://it.wikipedia.org/wiki/Ronaldinho"
+    },
     {
      "articulo": "Toni Capuozzo",
      "proyecto": "it.wikipedia",
-     "vistas": 56900,
-     "url": "https://it.wikipedia.org/wiki/Toni_Capuozzo"
-    },
-    {
-     "articulo": "Pio Esposito",
-     "proyecto": "it.wikipedia",
-     "vistas": 39900,
-     "url": "https://it.wikipedia.org/wiki/Pio_Esposito"
-    },
-    {
-     "articulo": "Nicolò Cambiaghi",
-     "proyecto": "it.wikipedia",
      "vistas": 20000,
-     "url": "https://it.wikipedia.org/wiki/Nicol%C3%B2_Cambiaghi"
-    },
-    {
-     "articulo": "Jen-Hsun Huang",
-     "proyecto": "it.wikipedia",
-     "vistas": 17200,
-     "url": "https://it.wikipedia.org/wiki/Jen-Hsun_Huang"
-    },
-    {
-     "articulo": "Sebastiano Esposito",
-     "proyecto": "it.wikipedia",
-     "vistas": 16800,
-     "url": "https://it.wikipedia.org/wiki/Sebastiano_Esposito"
-    },
-    {
-     "articulo": "Robert Enke",
-     "proyecto": "it.wikipedia",
-     "vistas": 15300,
-     "url": "https://it.wikipedia.org/wiki/Robert_Enke"
-    },
-    {
-     "articulo": "Episodi de La leggendaria storia degli 883 (seconda stagione)",
-     "proyecto": "it.wikipedia",
-     "vistas": 14100,
-     "url": "https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_%28seconda_stagione%29"
+     "url": "https://it.wikipedia.org/wiki/Toni_Capuozzo"
     },
     {
      "articulo": "Mauro Repetto",
      "proyecto": "it.wikipedia",
-     "vistas": 13300,
+     "vistas": 18200,
      "url": "https://it.wikipedia.org/wiki/Mauro_Repetto"
     },
     {
      "articulo": "883 (gruppo musicale)",
      "proyecto": "it.wikipedia",
-     "vistas": 13300,
+     "vistas": 16100,
      "url": "https://it.wikipedia.org/wiki/883_%28gruppo_musicale%29"
     },
     {
-     "articulo": "NVIDIA",
+     "articulo": "Tiberio Mitri",
      "proyecto": "it.wikipedia",
-     "vistas": 12900,
-     "url": "https://it.wikipedia.org/wiki/NVIDIA"
-    },
-    {
-     "articulo": "UEFA Nations League",
-     "proyecto": "it.wikipedia",
-     "vistas": 12000,
-     "url": "https://it.wikipedia.org/wiki/UEFA_Nations_League"
-    },
-    {
-     "articulo": "Cristina Quaranta",
-     "proyecto": "it.wikipedia",
-     "vistas": 11700,
-     "url": "https://it.wikipedia.org/wiki/Cristina_Quaranta"
-    },
-    {
-     "articulo": "Emanuele Rao",
-     "proyecto": "en.wikipedia",
-     "vistas": 9600,
-     "url": "https://en.wikipedia.org/wiki/Emanuele_Rao"
-    },
-    {
-     "articulo": "Salvatore Esposito (calciatore 2000)",
-     "proyecto": "it.wikipedia",
-     "vistas": 9300,
-     "url": "https://it.wikipedia.org/wiki/Salvatore_Esposito_%28calciatore_2000%29"
-    },
-    {
-     "articulo": "La donna il sogno & il grande incubo",
-     "proyecto": "it.wikipedia",
-     "vistas": 9300,
-     "url": "https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo"
-    },
-    {
-     "articulo": "Andrea Kimi Antonelli",
-     "proyecto": "it.wikipedia",
-     "vistas": 9100,
-     "url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli"
-    },
-    {
-     "articulo": "Omicidio di Giulia Cecchettin",
-     "proyecto": "it.wikipedia",
-     "vistas": 9000,
-     "url": "https://it.wikipedia.org/wiki/Omicidio_di_Giulia_Cecchettin"
-    },
-    {
-     "articulo": "Rai",
-     "proyecto": "it.wikipedia",
-     "vistas": 8500,
-     "url": "https://it.wikipedia.org/wiki/Rai"
-    },
-    {
-     "articulo": "Sequestro di Farouk Kassam",
-     "proyecto": "it.wikipedia",
-     "vistas": 8200,
-     "url": "https://it.wikipedia.org/wiki/Sequestro_di_Farouk_Kassam"
-    },
-    {
-     "articulo": "Il rumore delle cose nuove",
-     "proyecto": "it.wikipedia",
-     "vistas": 8100,
-     "url": "https://it.wikipedia.org/wiki/Il_rumore_delle_cose_nuove"
-    },
-    {
-     "articulo": "Episodi de Il Signore degli Anelli - Gli Anelli del Potere (terza stagione)",
-     "proyecto": "it.wikipedia",
-     "vistas": 8000,
-     "url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_%28terza_stagione%29"
+     "vistas": 13400,
+     "url": "https://it.wikipedia.org/wiki/Tiberio_Mitri"
     },
     {
      "articulo": "Max Pezzali",
      "proyecto": "it.wikipedia",
-     "vistas": 7900,
+     "vistas": 13100,
      "url": "https://it.wikipedia.org/wiki/Max_Pezzali"
     },
     {
-     "articulo": "UEFA Nations League 2026-2027",
+     "articulo": "Episodi de La leggendaria storia degli 883 (seconda stagione)",
      "proyecto": "it.wikipedia",
-     "vistas": 7800,
-     "url": "https://it.wikipedia.org/wiki/UEFA_Nations_League_2026-2027"
+     "vistas": 12200,
+     "url": "https://it.wikipedia.org/wiki/Episodi_de_La_leggendaria_storia_degli_883_%28seconda_stagione%29"
     },
     {
-     "articulo": "Pier Ferdinando Casini",
+     "articulo": "Il rumore delle cose nuove",
      "proyecto": "it.wikipedia",
-     "vistas": 7800,
-     "url": "https://it.wikipedia.org/wiki/Pier_Ferdinando_Casini"
+     "vistas": 11300,
+     "url": "https://it.wikipedia.org/wiki/Il_rumore_delle_cose_nuove"
+    },
+    {
+     "articulo": "Pio Esposito",
+     "proyecto": "it.wikipedia",
+     "vistas": 9800,
+     "url": "https://it.wikipedia.org/wiki/Pio_Esposito"
     },
     {
      "articulo": "Scrooge e gli spiriti del Natale",
      "proyecto": "it.wikipedia",
-     "vistas": 7400,
+     "vistas": 9700,
      "url": "https://it.wikipedia.org/wiki/Scrooge_e_gli_spiriti_del_Natale"
     },
     {
-     "articulo": "Davide Frattesi",
+     "articulo": "Omicidio di Giulia Cecchettin",
      "proyecto": "it.wikipedia",
-     "vistas": 7300,
-     "url": "https://it.wikipedia.org/wiki/Davide_Frattesi"
+     "vistas": 9700,
+     "url": "https://it.wikipedia.org/wiki/Omicidio_di_Giulia_Cecchettin"
     },
     {
-     "articulo": "Episodi di Doc - Nelle tue mani (quarta stagione)",
+     "articulo": "La donna il sogno & il grande incubo",
      "proyecto": "it.wikipedia",
-     "vistas": 7100,
-     "url": "https://it.wikipedia.org/wiki/Episodi_di_Doc_-_Nelle_tue_mani_%28quarta_stagione%29"
+     "vistas": 9500,
+     "url": "https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo"
     },
     {
-     "articulo": "Michael Kayode",
+     "articulo": "Wild Horse Nine",
      "proyecto": "it.wikipedia",
-     "vistas": 7000,
-     "url": "https://it.wikipedia.org/wiki/Michael_Kayode"
+     "vistas": 9200,
+     "url": "https://it.wikipedia.org/wiki/Wild_Horse_Nine"
     },
     {
-     "articulo": "Fino a prova contraria",
+     "articulo": "Animali fantastici (serie di film)",
      "proyecto": "it.wikipedia",
-     "vistas": 6900,
-     "url": "https://it.wikipedia.org/wiki/Fino_a_prova_contraria"
+     "vistas": 8900,
+     "url": "https://it.wikipedia.org/wiki/Animali_fantastici_%28serie_di_film%29"
+    },
+    {
+     "articulo": "Jimmy Ghione",
+     "proyecto": "it.wikipedia",
+     "vistas": 8800,
+     "url": "https://it.wikipedia.org/wiki/Jimmy_Ghione"
+    },
+    {
+     "articulo": "Emanuele Rao",
+     "proyecto": "en.wikipedia",
+     "vistas": 8600,
+     "url": "https://en.wikipedia.org/wiki/Emanuele_Rao"
+    },
+    {
+     "articulo": "Anna Safroncik",
+     "proyecto": "it.wikipedia",
+     "vistas": 8400,
+     "url": "https://it.wikipedia.org/wiki/Anna_Safroncik"
+    },
+    {
+     "articulo": "Animali fantastici - I crimini di Grindelwald",
+     "proyecto": "it.wikipedia",
+     "vistas": 8400,
+     "url": "https://it.wikipedia.org/wiki/Animali_fantastici_-_I_crimini_di_Grindelwald"
+    },
+    {
+     "articulo": "Andrea Kimi Antonelli",
+     "proyecto": "it.wikipedia",
+     "vistas": 8300,
+     "url": "https://it.wikipedia.org/wiki/Andrea_Kimi_Antonelli"
+    },
+    {
+     "articulo": "The Bourne Legacy",
+     "proyecto": "it.wikipedia",
+     "vistas": 8300,
+     "url": "https://it.wikipedia.org/wiki/The_Bourne_Legacy"
     },
     {
      "articulo": "Elisabetta di Baviera",
      "proyecto": "it.wikipedia",
-     "vistas": 6900,
+     "vistas": 8200,
      "url": "https://it.wikipedia.org/wiki/Elisabetta_di_Baviera"
+    },
+    {
+     "articulo": "La figlia del generale",
+     "proyecto": "it.wikipedia",
+     "vistas": 8000,
+     "url": "https://it.wikipedia.org/wiki/La_figlia_del_generale"
+    },
+    {
+     "articulo": "Episodi de Il Signore degli Anelli - Gli Anelli del Potere (terza stagione)",
+     "proyecto": "it.wikipedia",
+     "vistas": 7800,
+     "url": "https://it.wikipedia.org/wiki/Episodi_de_Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere_%28terza_stagione%29"
+    },
+    {
+     "articulo": "Monica Guerritore",
+     "proyecto": "it.wikipedia",
+     "vistas": 7600,
+     "url": "https://it.wikipedia.org/wiki/Monica_Guerritore"
+    },
+    {
+     "articulo": "Jen-Hsun Huang",
+     "proyecto": "it.wikipedia",
+     "vistas": 7400,
+     "url": "https://it.wikipedia.org/wiki/Jen-Hsun_Huang"
+    },
+    {
+     "articulo": "Se domani non torno",
+     "proyecto": "it.wikipedia",
+     "vistas": 7200,
+     "url": "https://it.wikipedia.org/wiki/Se_domani_non_torno"
+    },
+    {
+     "articulo": "Pierpaolo Spollon",
+     "proyecto": "it.wikipedia",
+     "vistas": 7000,
+     "url": "https://it.wikipedia.org/wiki/Pierpaolo_Spollon"
+    },
+    {
+     "articulo": "Il Signore degli Anelli - Gli Anelli del Potere",
+     "proyecto": "it.wikipedia",
+     "vistas": 6800,
+     "url": "https://it.wikipedia.org/wiki/Il_Signore_degli_Anelli_-_Gli_Anelli_del_Potere"
+    },
+    {
+     "articulo": "Dacia Maraini",
+     "proyecto": "it.wikipedia",
+     "vistas": 6700,
+     "url": "https://it.wikipedia.org/wiki/Dacia_Maraini"
     }
    ]
   },
   "DE": {
-   "fecha": "2026-11-12",
+   "fecha": "2026-11-14",
    "articulos": [
     {
-     "articulo": "Jen-Hsun Huang",
+     "articulo": "Hubert Aiwanger",
      "proyecto": "de.wikipedia",
-     "vistas": 55200,
-     "url": "https://de.wikipedia.org/wiki/Jen-Hsun_Huang"
+     "vistas": 65700,
+     "url": "https://de.wikipedia.org/wiki/Hubert_Aiwanger"
     },
     {
-     "articulo": "Jensen Huang",
+     "articulo": "Brajan Gruda",
      "proyecto": "de.wikipedia",
-     "vistas": 40700,
-     "url": "https://de.wikipedia.org/wiki/Jensen_Huang"
+     "vistas": 51000,
+     "url": "https://de.wikipedia.org/wiki/Brajan_Gruda"
     },
     {
-     "articulo": "Nvidia",
+     "articulo": "Thomas Berthold",
      "proyecto": "de.wikipedia",
-     "vistas": 36500,
-     "url": "https://de.wikipedia.org/wiki/Nvidia"
+     "vistas": 33100,
+     "url": "https://de.wikipedia.org/wiki/Thomas_Berthold"
     },
     {
      "articulo": "Liste der größten Auslegerbrücken",
      "proyecto": "de.wikipedia",
-     "vistas": 32100,
+     "vistas": 32000,
      "url": "https://de.wikipedia.org/wiki/Liste_der_gr%C3%B6%C3%9Ften_Auslegerbr%C3%BCcken"
     },
     {
+     "articulo": "Ralf Dümmel",
+     "proyecto": "de.wikipedia",
+     "vistas": 29400,
+     "url": "https://de.wikipedia.org/wiki/Ralf_D%C3%BCmmel"
+    },
+    {
+     "articulo": "Tanja Schweiger",
+     "proyecto": "de.wikipedia",
+     "vistas": 25500,
+     "url": "https://de.wikipedia.org/wiki/Tanja_Schweiger"
+    },
+    {
+     "articulo": "Frank Thelen",
+     "proyecto": "de.wikipedia",
+     "vistas": 22600,
+     "url": "https://de.wikipedia.org/wiki/Frank_Thelen"
+    },
+    {
+     "articulo": "Helmut Fischer",
+     "proyecto": "de.wikipedia",
+     "vistas": 22300,
+     "url": "https://de.wikipedia.org/wiki/Helmut_Fischer"
+    },
+    {
      "articulo": "Jensen Huang",
-     "proyecto": "en.wikipedia",
-     "vistas": 29000,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Der Lottogewinner",
      "proyecto": "de.wikipedia",
-     "vistas": 25200,
-     "url": "https://de.wikipedia.org/wiki/Der_Lottogewinner"
+     "vistas": 20900,
+     "url": "https://de.wikipedia.org/wiki/Jensen_Huang"
     },
     {
-     "articulo": "Stacy Keach",
+     "articulo": "Anthony Clark (Schauspieler)",
      "proyecto": "de.wikipedia",
-     "vistas": 25200,
-     "url": "https://de.wikipedia.org/wiki/Stacy_Keach"
+     "vistas": 18800,
+     "url": "https://de.wikipedia.org/wiki/Anthony_Clark_%28Schauspieler%29"
     },
     {
-     "articulo": "Colette Kress",
-     "proyecto": "en.wikipedia",
-     "vistas": 24500,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
-    },
-    {
-     "articulo": "Irmelin Krause",
+     "articulo": "Manuel Neuer",
      "proyecto": "de.wikipedia",
-     "vistas": 22500,
-     "url": "https://de.wikipedia.org/wiki/Irmelin_Krause"
+     "vistas": 17500,
+     "url": "https://de.wikipedia.org/wiki/Manuel_Neuer"
     },
     {
-     "articulo": "Wolfsland (Fernsehreihe)",
+     "articulo": "Friesland (Fernsehreihe)",
      "proyecto": "de.wikipedia",
-     "vistas": 21100,
-     "url": "https://de.wikipedia.org/wiki/Wolfsland_%28Fernsehreihe%29"
+     "vistas": 16200,
+     "url": "https://de.wikipedia.org/wiki/Friesland_%28Fernsehreihe%29"
     },
     {
-     "articulo": "Ballers in God",
+     "articulo": "Holger Stockhaus",
      "proyecto": "de.wikipedia",
-     "vistas": 17600,
-     "url": "https://de.wikipedia.org/wiki/Ballers_in_God"
+     "vistas": 16100,
+     "url": "https://de.wikipedia.org/wiki/Holger_Stockhaus"
     },
     {
-     "articulo": "Alexander Nikititsch Dartschijew",
+     "articulo": "Monaco Franze – Der ewige Stenz",
      "proyecto": "de.wikipedia",
-     "vistas": 15300,
-     "url": "https://de.wikipedia.org/wiki/Alexander_Nikititsch_Dartschijew"
+     "vistas": 16000,
+     "url": "https://de.wikipedia.org/wiki/Monaco_Franze_%E2%80%93_Der_ewige_Stenz"
     },
     {
-     "articulo": "Yvonne Catterfeld",
+     "articulo": "Maximilian I. (Mexiko)",
      "proyecto": "de.wikipedia",
      "vistas": 15200,
-     "url": "https://de.wikipedia.org/wiki/Yvonne_Catterfeld"
+     "url": "https://de.wikipedia.org/wiki/Maximilian_I._%28Mexiko%29"
+    },
+    {
+     "articulo": "Elisabeth von Österreich",
+     "proyecto": "de.wikipedia",
+     "vistas": 15100,
+     "url": "https://de.wikipedia.org/wiki/Elisabeth_von_%C3%96sterreich"
     },
     {
      "articulo": "Ilse Aigner",
      "proyecto": "de.wikipedia",
-     "vistas": 13900,
+     "vistas": 13300,
      "url": "https://de.wikipedia.org/wiki/Ilse_Aigner"
     },
     {
-     "articulo": "Götz Schubert",
+     "articulo": "Totenhütte von Benzingerode",
      "proyecto": "de.wikipedia",
-     "vistas": 12800,
-     "url": "https://de.wikipedia.org/wiki/G%C3%B6tz_Schubert"
+     "vistas": 13200,
+     "url": "https://de.wikipedia.org/wiki/Totenh%C3%BCtte_von_Benzingerode"
     },
     {
-     "articulo": "Marijke Amado",
+     "articulo": "Ehrlich Brothers",
      "proyecto": "de.wikipedia",
-     "vistas": 11800,
-     "url": "https://de.wikipedia.org/wiki/Marijke_Amado"
+     "vistas": 12400,
+     "url": "https://de.wikipedia.org/wiki/Ehrlich_Brothers"
     },
     {
-     "articulo": "Sylvie Meis",
+     "articulo": "Verblendung (2011)",
      "proyecto": "de.wikipedia",
-     "vistas": 11100,
-     "url": "https://de.wikipedia.org/wiki/Sylvie_Meis"
+     "vistas": 11300,
+     "url": "https://de.wikipedia.org/wiki/Verblendung_%282011%29"
     },
     {
-     "articulo": "12. November",
+     "articulo": "Florian Streibl",
      "proyecto": "de.wikipedia",
      "vistas": 11000,
-     "url": "https://de.wikipedia.org/wiki/12._November"
+     "url": "https://de.wikipedia.org/wiki/Florian_Streibl"
     },
     {
-     "articulo": "Lilli Hollunder",
+     "articulo": "Franz Joseph I.",
      "proyecto": "de.wikipedia",
-     "vistas": 10400,
-     "url": "https://de.wikipedia.org/wiki/Lilli_Hollunder"
+     "vistas": 10800,
+     "url": "https://de.wikipedia.org/wiki/Franz_Joseph_I."
     },
     {
-     "articulo": "Marie Pasteur",
+     "articulo": "Wild Horse Nine",
      "proyecto": "de.wikipedia",
-     "vistas": 10100,
-     "url": "https://de.wikipedia.org/wiki/Marie_Pasteur"
+     "vistas": 9500,
+     "url": "https://de.wikipedia.org/wiki/Wild_Horse_Nine"
     },
     {
-     "articulo": "Irma P. Hall",
-     "proyecto": "de.wikipedia",
-     "vistas": 10100,
-     "url": "https://de.wikipedia.org/wiki/Irma_P._Hall"
-    },
-    {
-     "articulo": "Christian Berg (Journalist)",
-     "proyecto": "de.wikipedia",
-     "vistas": 10000,
-     "url": "https://de.wikipedia.org/wiki/Christian_Berg_%28Journalist%29"
-    },
-    {
-     "articulo": "United States (Schiff, 1952)",
-     "proyecto": "de.wikipedia",
-     "vistas": 9800,
-     "url": "https://de.wikipedia.org/wiki/United_States_%28Schiff%2C_1952%29"
-    },
-    {
-     "articulo": "Nekrolog 2026",
-     "proyecto": "de.wikipedia",
-     "vistas": 9600,
-     "url": "https://de.wikipedia.org/wiki/Nekrolog_2026"
-    },
-    {
-     "articulo": "Heinz Marecek",
-     "proyecto": "de.wikipedia",
-     "vistas": 9600,
-     "url": "https://de.wikipedia.org/wiki/Heinz_Marecek"
-    },
-    {
-     "articulo": "Greta Thunberg",
-     "proyecto": "de.wikipedia",
-     "vistas": 9400,
-     "url": "https://de.wikipedia.org/wiki/Greta_Thunberg"
-    },
-    {
-     "articulo": "Nvidia",
-     "proyecto": "en.wikipedia",
-     "vistas": 9400,
-     "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-     "articulo": "Hubert Aiwanger",
+     "articulo": "Reinhard Marx",
      "proyecto": "de.wikipedia",
      "vistas": 9300,
-     "url": "https://de.wikipedia.org/wiki/Hubert_Aiwanger"
+     "url": "https://de.wikipedia.org/wiki/Reinhard_Marx"
     },
     {
-     "articulo": "Scott Colom",
+     "articulo": "Emma Aicher",
      "proyecto": "de.wikipedia",
-     "vistas": 9300,
-     "url": "https://de.wikipedia.org/wiki/Scott_Colom"
+     "vistas": 9200,
+     "url": "https://de.wikipedia.org/wiki/Emma_Aicher"
     },
     {
-     "articulo": "Emil Jellinek",
+     "articulo": "Katrina and the Waves",
      "proyecto": "de.wikipedia",
      "vistas": 9100,
-     "url": "https://de.wikipedia.org/wiki/Emil_Jellinek"
+     "url": "https://de.wikipedia.org/wiki/Katrina_and_the_Waves"
+    },
+    {
+     "articulo": "Lakeview Terrace",
+     "proyecto": "de.wikipedia",
+     "vistas": 9000,
+     "url": "https://de.wikipedia.org/wiki/Lakeview_Terrace"
+    },
+    {
+     "articulo": "The Da Vinci Code – Sakrileg",
+     "proyecto": "de.wikipedia",
+     "vistas": 8900,
+     "url": "https://de.wikipedia.org/wiki/The_Da_Vinci_Code_%E2%80%93_Sakrileg"
+    },
+    {
+     "articulo": "Die kleinen und die großen Lügen",
+     "proyecto": "de.wikipedia",
+     "vistas": 8900,
+     "url": "https://de.wikipedia.org/wiki/Die_kleinen_und_die_gro%C3%9Fen_L%C3%BCgen"
+    },
+    {
+     "articulo": "Hubertus Heil",
+     "proyecto": "de.wikipedia",
+     "vistas": 8600,
+     "url": "https://de.wikipedia.org/wiki/Hubertus_Heil"
     }
    ]
   },
   "NL": {
-   "fecha": "2026-11-13",
+   "fecha": "2026-11-14",
    "articulos": [
     {
      "articulo": "Gijs Naber",
      "proyecto": "nl.wikipedia",
-     "vistas": 58400,
+     "vistas": 339100,
      "url": "https://nl.wikipedia.org/wiki/Gijs_Naber"
-    },
-    {
-     "articulo": "Bologna (stad)",
-     "proyecto": "nl.wikipedia",
-     "vistas": 10600,
-     "url": "https://nl.wikipedia.org/wiki/Bologna_%28stad%29"
     },
     {
      "articulo": "Thekla Reuten",
      "proyecto": "nl.wikipedia",
-     "vistas": 10400,
+     "vistas": 58000,
      "url": "https://nl.wikipedia.org/wiki/Thekla_Reuten"
-    },
-    {
-     "articulo": "Jacques Brel",
-     "proyecto": "nl.wikipedia",
-     "vistas": 8400,
-     "url": "https://nl.wikipedia.org/wiki/Jacques_Brel"
-    },
-    {
-     "articulo": "Заглавная страница",
-     "proyecto": "ru.wikipedia",
-     "vistas": 7300,
-     "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
-    },
-    {
-     "articulo": "Dilan Yeşilgöz",
-     "proyecto": "nl.wikipedia",
-     "vistas": 7200,
-     "url": "https://nl.wikipedia.org/wiki/Dilan_Ye%C5%9Filg%C3%B6z"
-    },
-    {
-     "articulo": "Hiva Oa",
-     "proyecto": "nl.wikipedia",
-     "vistas": 6700,
-     "url": "https://nl.wikipedia.org/wiki/Hiva_Oa"
-    },
-    {
-     "articulo": "Jensen Huang",
-     "proyecto": "en.wikipedia",
-     "vistas": 6600,
-     "url": "https://en.wikipedia.org/wiki/Jensen_Huang"
-    },
-    {
-     "articulo": "Jan Pijnenburg (drummer)",
-     "proyecto": "nl.wikipedia",
-     "vistas": 6300,
-     "url": "https://nl.wikipedia.org/wiki/Jan_Pijnenburg_%28drummer%29"
-    },
-    {
-     "articulo": "Sinterklaasjournaal (2026)",
-     "proyecto": "nl.wikipedia",
-     "vistas": 5300,
-     "url": "https://nl.wikipedia.org/wiki/Sinterklaasjournaal_%282026%29"
-    },
-    {
-     "articulo": "Tijjani Reijnders",
-     "proyecto": "nl.wikipedia",
-     "vistas": 5300,
-     "url": "https://nl.wikipedia.org/wiki/Tijjani_Reijnders"
-    },
-    {
-     "articulo": "De Zwaluwenberg",
-     "proyecto": "nl.wikipedia",
-     "vistas": 4900,
-     "url": "https://nl.wikipedia.org/wiki/De_Zwaluwenberg"
-    },
-    {
-     "articulo": "Camiel Eurlings",
-     "proyecto": "nl.wikipedia",
-     "vistas": 4000,
-     "url": "https://nl.wikipedia.org/wiki/Camiel_Eurlings"
-    },
-    {
-     "articulo": "Crysencio Summerville",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3900,
-     "url": "https://nl.wikipedia.org/wiki/Crysencio_Summerville"
-    },
-    {
-     "articulo": "Colette Kress",
-     "proyecto": "en.wikipedia",
-     "vistas": 3900,
-     "url": "https://en.wikipedia.org/wiki/Colette_Kress"
-    },
-    {
-     "articulo": "Han Oldigs",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3800,
-     "url": "https://nl.wikipedia.org/wiki/Han_Oldigs"
-    },
-    {
-     "articulo": "Sinterklaasjournaal",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3800,
-     "url": "https://nl.wikipedia.org/wiki/Sinterklaasjournaal"
-    },
-    {
-     "articulo": "Rob Jetten",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3200,
-     "url": "https://nl.wikipedia.org/wiki/Rob_Jetten"
-    },
-    {
-     "articulo": "Ibrahim Afellay",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3200,
-     "url": "https://nl.wikipedia.org/wiki/Ibrahim_Afellay"
-    },
-    {
-     "articulo": "Ankie Broekers-Knol",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3100,
-     "url": "https://nl.wikipedia.org/wiki/Ankie_Broekers-Knol"
-    },
-    {
-     "articulo": "Erik van Muiswinkel",
-     "proyecto": "nl.wikipedia",
-     "vistas": 3000,
-     "url": "https://nl.wikipedia.org/wiki/Erik_van_Muiswinkel"
-    },
-    {
-     "articulo": "David Walliams",
-     "proyecto": "nl.wikipedia",
-     "vistas": 2900,
-     "url": "https://nl.wikipedia.org/wiki/David_Walliams"
-    },
-    {
-     "articulo": "Хуанг, Дженсен",
-     "proyecto": "ru.wikipedia",
-     "vistas": 2900,
-     "url": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%B0%D0%BD%D0%B3%2C_%D0%94%D0%B6%D0%B5%D0%BD%D1%81%D0%B5%D0%BD"
-    },
-    {
-     "articulo": "UEFA Nations League",
-     "proyecto": "nl.wikipedia",
-     "vistas": 2900,
-     "url": "https://nl.wikipedia.org/wiki/UEFA_Nations_League"
-    },
-    {
-     "articulo": "Claus van Amsberg",
-     "proyecto": "nl.wikipedia",
-     "vistas": 2900,
-     "url": "https://nl.wikipedia.org/wiki/Claus_van_Amsberg"
     },
     {
      "articulo": "Stefan de Walle",
      "proyecto": "nl.wikipedia",
-     "vistas": 2800,
+     "vistas": 26300,
      "url": "https://nl.wikipedia.org/wiki/Stefan_de_Walle"
     },
     {
-     "articulo": "Xxx",
+     "articulo": "Bram van der Vlugt",
+     "proyecto": "nl.wikipedia",
+     "vistas": 19300,
+     "url": "https://nl.wikipedia.org/wiki/Bram_van_der_Vlugt"
+    },
+    {
+     "articulo": "Sinterklaasjournaal",
+     "proyecto": "nl.wikipedia",
+     "vistas": 18000,
+     "url": "https://nl.wikipedia.org/wiki/Sinterklaasjournaal"
+    },
+    {
+     "articulo": "Sinterklaasjournaal (2026)",
+     "proyecto": "nl.wikipedia",
+     "vistas": 17700,
+     "url": "https://nl.wikipedia.org/wiki/Sinterklaasjournaal_%282026%29"
+    },
+    {
+     "articulo": "Han Oldigs",
+     "proyecto": "nl.wikipedia",
+     "vistas": 17200,
+     "url": "https://nl.wikipedia.org/wiki/Han_Oldigs"
+    },
+    {
+     "articulo": "Sinterklaas",
+     "proyecto": "nl.wikipedia",
+     "vistas": 17200,
+     "url": "https://nl.wikipedia.org/wiki/Sinterklaas"
+    },
+    {
+     "articulo": "De Zwaluwenberg",
+     "proyecto": "nl.wikipedia",
+     "vistas": 16300,
+     "url": "https://nl.wikipedia.org/wiki/De_Zwaluwenberg"
+    },
+    {
+     "articulo": "Stephanie van Eer",
+     "proyecto": "nl.wikipedia",
+     "vistas": 15100,
+     "url": "https://nl.wikipedia.org/wiki/Stephanie_van_Eer"
+    },
+    {
+     "articulo": "Grave (plaats)",
+     "proyecto": "nl.wikipedia",
+     "vistas": 13000,
+     "url": "https://nl.wikipedia.org/wiki/Grave_%28plaats%29"
+    },
+    {
+     "articulo": "Niels van der Laan",
+     "proyecto": "nl.wikipedia",
+     "vistas": 11800,
+     "url": "https://nl.wikipedia.org/wiki/Niels_van_der_Laan"
+    },
+    {
+     "articulo": "Jan Pijnenburg (drummer)",
+     "proyecto": "nl.wikipedia",
+     "vistas": 9200,
+     "url": "https://nl.wikipedia.org/wiki/Jan_Pijnenburg_%28drummer%29"
+    },
+    {
+     "articulo": "Landelijke intocht van Sinterklaas",
+     "proyecto": "nl.wikipedia",
+     "vistas": 8400,
+     "url": "https://nl.wikipedia.org/wiki/Landelijke_intocht_van_Sinterklaas"
+    },
+    {
+     "articulo": "Frank Groothof",
+     "proyecto": "nl.wikipedia",
+     "vistas": 7700,
+     "url": "https://nl.wikipedia.org/wiki/Frank_Groothof"
+    },
+    {
+     "articulo": "René van Collem",
+     "proyecto": "nl.wikipedia",
+     "vistas": 7500,
+     "url": "https://nl.wikipedia.org/wiki/Ren%C3%A9_van_Collem"
+    },
+    {
+     "articulo": "Jeske van de Staak",
+     "proyecto": "nl.wikipedia",
+     "vistas": 7200,
+     "url": "https://nl.wikipedia.org/wiki/Jeske_van_de_Staak"
+    },
+    {
+     "articulo": "Zanger Rinus",
+     "proyecto": "nl.wikipedia",
+     "vistas": 7200,
+     "url": "https://nl.wikipedia.org/wiki/Zanger_Rinus"
+    },
+    {
+     "articulo": "Owen Schumacher",
+     "proyecto": "nl.wikipedia",
+     "vistas": 6500,
+     "url": "https://nl.wikipedia.org/wiki/Owen_Schumacher"
+    },
+    {
+     "articulo": "Adrie van Oorschot",
+     "proyecto": "nl.wikipedia",
+     "vistas": 6000,
+     "url": "https://nl.wikipedia.org/wiki/Adrie_van_Oorschot"
+    },
+    {
+     "articulo": "Gijs Naber",
      "proyecto": "en.wikipedia",
-     "vistas": 2800,
-     "url": "https://en.wikipedia.org/wiki/Xxx"
+     "vistas": 5800,
+     "url": "https://en.wikipedia.org/wiki/Gijs_Naber"
     },
     {
-     "articulo": "Frenkie de Jong",
+     "articulo": "Dilan Yeşilgöz",
      "proyecto": "nl.wikipedia",
-     "vistas": 2800,
-     "url": "https://nl.wikipedia.org/wiki/Frenkie_de_Jong"
+     "vistas": 5700,
+     "url": "https://nl.wikipedia.org/wiki/Dilan_Ye%C5%9Filg%C3%B6z"
     },
     {
-     "articulo": "Ian Maatsen",
-     "proyecto": "nl.wikipedia",
-     "vistas": 2700,
-     "url": "https://nl.wikipedia.org/wiki/Ian_Maatsen"
+     "articulo": "Заглавная страница",
+     "proyecto": "ru.wikipedia",
+     "vistas": 5400,
+     "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
     },
     {
-     "articulo": "Russell Brand",
+     "articulo": "Dick van den Toorn",
      "proyecto": "nl.wikipedia",
-     "vistas": 2700,
-     "url": "https://nl.wikipedia.org/wiki/Russell_Brand"
+     "vistas": 5200,
+     "url": "https://nl.wikipedia.org/wiki/Dick_van_den_Toorn"
+    },
+    {
+     "articulo": "Doe Maar",
+     "proyecto": "nl.wikipedia",
+     "vistas": 5100,
+     "url": "https://nl.wikipedia.org/wiki/Doe_Maar"
+    },
+    {
+     "articulo": "Guus Hiddink",
+     "proyecto": "nl.wikipedia",
+     "vistas": 4900,
+     "url": "https://nl.wikipedia.org/wiki/Guus_Hiddink"
+    },
+    {
+     "articulo": "John Jones (acteur)",
+     "proyecto": "nl.wikipedia",
+     "vistas": 4200,
+     "url": "https://nl.wikipedia.org/wiki/John_Jones_%28acteur%29"
+    },
+    {
+     "articulo": "Mingus Dagelet",
+     "proyecto": "nl.wikipedia",
+     "vistas": 4200,
+     "url": "https://nl.wikipedia.org/wiki/Mingus_Dagelet"
+    },
+    {
+     "articulo": "Thijs Reuten",
+     "proyecto": "nl.wikipedia",
+     "vistas": 4000,
+     "url": "https://nl.wikipedia.org/wiki/Thijs_Reuten"
+    },
+    {
+     "articulo": "Elizabeth Holmes",
+     "proyecto": "nl.wikipedia",
+     "vistas": 4000,
+     "url": "https://nl.wikipedia.org/wiki/Elizabeth_Holmes"
     }
    ]
   }
