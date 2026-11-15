@@ -1,32 +1,32 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A doce días del Black Friday, el consumidor ecuatoriano se prepara: busca consejos para comprar con presupuesto, la fecha del Cyber Monday (30 de noviembre) y ofertas anticipadas en tecnología, viajes y belleza. La venta de camionetas crece y los modelos ensamblados en el país ganan espacio. Las tormentas en Guayaquil y la Costa piden comunicar con tacto y avisar cualquier cambio en entregas. Ganan los mensajes de precio final claro, compra planificada para Navidad y trato cercano.",
+ "lectura": "A doce días del Black Friday, el consumidor ecuatoriano compara precios y se cuida de promociones engañosas: busca la fecha del Cyber Monday (30 de noviembre) y consejos para comprar con presupuesto. En Meta crecen los anuncios de 'grupo VIP de Black Friday' por WhatsApp, los 2x1 en servicios y los regalos navideños con precio en dólares visible. Las lluvias en la Costa piden avisar con transparencia los tiempos de entrega. Precio final claro, chat directo y regalos con identidad local son la fórmula de la semana.",
  "ideas_hoy": [
   {
-   "titulo": "Tu presupuesto de Black Friday",
-   "idea": "Comparte una lista sencilla de 'qué compro y cuánto gasto' para el 27 de noviembre y ubica ahí tus productos. Educa, genera guardados y prepara la venta.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Cyber Monday, anótalo",
-   "idea": "Muchos buscan cuándo cae el Cyber Monday. Publica un calendario con tus fechas de ofertas (27 y 30 de noviembre) y pide que activen notificaciones.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Compra segura en temporada de ofertas",
-   "idea": "Abundan las alertas de promociones engañosas. Explica cómo comprar seguro contigo: factura, canales oficiales y precio final con todo incluido. 'De ley, sin sorpresas.'",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Para el que anda en camioneta",
-   "idea": "La venta de camionetas creció 33%. Accesorios, seguros, lavado y repuestos pueden lanzar un combo 'lista para el viaje de fin de año'.",
+   "titulo": "Arma tu grupo VIP",
+   "idea": "Varias marcas ecuatorianas ya invitan a un 'grupo VIP de Black Friday' en WhatsApp. Crea el tuyo esta semana con un beneficio exclusivo (acceso anticipado o envío gratis) y llega al 27 con clientes listos.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Lluvias: entregas con aviso",
-   "idea": "Con tormentas en Guayaquil y la Costa, informa con calma tus tiempos de entrega por ciudad. La transparencia genera confianza.",
+   "titulo": "Regalo con sabor ecuatoriano",
+   "idea": "Los anuncios de chocolate fino y regalos corporativos están activos. Si vendes productos locales, arma cajas navideñas con precio cerrado en dólares y ofrécelas a empresas para sus equipos.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "2x1 que sí conviene",
+   "idea": "Los centros de estética pautan 2x1 por Black Friday. Servicios (spa, cursos, talleres) pueden ofrecer 'trae a tu pana' para duplicar clientes nuevos sin bajar el precio unitario.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Checklist anti engaño",
+   "idea": "Hay alertas por promociones falsas. Publica un checklist corto: factura, canal oficial y precio final con todo incluido. Remata con 'de ley, sin sorpresas'.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Entregas con lluvia",
+   "idea": "Con tormentas en Guayaquil y la Costa, informa tus tiempos de entrega por ciudad y ofrece retiro en punto. La transparencia evita reclamos y genera confianza.",
    "formato": "Facebook"
   }
  ],
@@ -942,38 +942,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envíos internacionales",
-   "total": 281,
+   "busqueda": "Black Friday",
+   "total": 22289,
    "anunciantes": [
     {
-     "nombre": "DHL Latinoamérica",
-     "url": "https://www.facebook.com/ads/library/?id=1809140906979243"
+     "nombre": "Estética Avanzada MADAN",
+     "url": "https://www.facebook.com/ads/library/?id=2675147366249438"
     },
     {
-     "nombre": "indigo.art_ec",
-     "url": "https://www.facebook.com/ads/library/?id=1484956793511256"
+     "nombre": "Anita Bong",
+     "url": "https://www.facebook.com/ads/library/?id=4231166183683107"
+    },
+    {
+     "nombre": "Studio NOA",
+     "url": "https://www.facebook.com/ads/library/?id=1127542513522739"
+    },
+    {
+     "nombre": "Platzi",
+     "url": "https://www.facebook.com/ads/library/?id=3610371889163743"
+    },
+    {
+     "nombre": "NeoBox Ec",
+     "url": "https://www.facebook.com/ads/library/?id=4234395440191937"
     }
    ],
-   "patron": "DHL pauta con el mensaje 'una propuesta para todos tus envíos'; también emprendimientos locales que anuncian envíos al exterior."
+   "patron": "Se repite la invitación a un 'grupo VIP de Black Friday' para enterarse primero de las ofertas, los 2x1 en servicios de belleza y los anuncios que llevan directo al chat. Las marcas calientan la fecha dos semanas antes."
   },
   {
-   "busqueda": "emprendimiento",
-   "total": 2993,
+   "busqueda": "regalos Navidad",
+   "total": 1195,
    "anunciantes": [
     {
-     "nombre": "joselodropshipping",
-     "url": "https://www.facebook.com/ads/library/?id=3238406726354320"
+     "nombre": "Cacao Yankana",
+     "url": "https://www.facebook.com/ads/library/?id=29732612546323451"
     },
     {
-     "nombre": "Importadora Muñoz",
-     "url": "https://www.facebook.com/ads/library/?id=1157425699988524"
+     "nombre": "Toys & Hobbies Ec.",
+     "url": "https://www.facebook.com/ads/library/?id=1119238384041760"
     },
     {
-     "nombre": "FIAT Ecuador",
-     "url": "https://www.facebook.com/ads/library/?id=1543538700914680"
+     "nombre": "Jessy P Carrillo",
+     "url": "https://www.facebook.com/ads/library/?id=1927658748198434"
+    },
+    {
+     "nombre": "Control Tech",
+     "url": "https://www.facebook.com/ads/library/?id=2135352037095779"
+    },
+    {
+     "nombre": "Afrikana",
+     "url": "https://www.facebook.com/ads/library/?id=29756127574000201"
     }
    ],
-   "patron": "Se repite 'Pagas al recibir + envío gratis': el pago contraentrega es un gancho clave en Ecuador."
+   "patron": "La Navidad ya se pauta a mediados de noviembre: cajas de chocolate fino con precio visible en dólares, regalos corporativos, juguetes y decoración para niños. El botón 'chatear' es el cierre más común."
   }
  ],
  "ocultar": [
@@ -1027,6 +1047,12 @@
   "Roberto Luque informa sobre la búsqueda de dos desaparecidos tras las lluvias en Guayaquil",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Refuerzan vigilancia en bancos y comercios por el Buen Fin"
+  "Refuerzan vigilancia en bancos y comercios por el Buen Fin",
+  "el universo",
+  "emergencia",
+  "prófugo",
+  "Deslizamiento de tierra en Puerto Santa Ana, zona turística de Guayaquil, provoca evacuación y alerta por nuevos desprendimientos",
+  "171 personas permanecen alojadas en albergues habilitados en Guayas y Galápagos",
+  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral"
  ]
 }

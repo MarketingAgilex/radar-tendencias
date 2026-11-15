@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La visita del papa León XIV a Lima, Chiclayo y Cusco hasta el lunes 16 domina la conversación y moviliza a miles de familias: el Metro gratuito y los cambios de atención en servicios públicos alteran la rutina en Lima. En paralelo, el consumidor se prepara para el Black Friday del 27 de noviembre, revisa si los descuentos son reales y siente la subida de tasas del BCRP en sus créditos. El calor en Lima y la alerta de El Niño costero empujan la temporada de verano. Ganan los mensajes respetuosos, de orgullo peruano y con ofertas claras.",
+ "lectura": "Último día de la visita del papa León XIV, que moviliza a miles de familias en Lima y altera el tránsito y los horarios. En paralelo, el peruano se prepara para el Black Friday del 27 con ofertas anticipadas en tecnología y la venta de Entel abre preguntas sobre el futuro de su servicio móvil. El calor de hasta 30 °C y el aviso de un Niño costero que se extendería hasta 2027 empujan productos de verano. Respeto, información útil y precios claros son la clave esta semana.",
  "ideas_hoy": [
   {
-   "titulo": "Orgullo peruano con respeto",
-   "idea": "La visita papal genera emoción y orgullo. Si tu marca participa, hazlo con un mensaje de bienvenida o de unión familiar, sin vender sobre el tema religioso.",
+   "titulo": "Lima en modo papa",
+   "idea": "Con cierres de avenidas por la misa en Las Palmas, informa tus horarios de atención y entregas del lunes y ofrece recojo en tienda. Útil y respetuoso.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Logística en días de visita",
-   "idea": "Hay cierres y cambios de horario en Lima hasta el lunes. Avisa tus horarios de entrega y atención; anticiparte evita reclamos.",
-   "formato": "Facebook"
-  },
-  {
-   "titulo": "Descuento real, chamba bien hecha",
-   "idea": "Muchos buscan cómo saber si un descuento de Black Friday es real. Muestra el precio de tu producto en las últimas semanas y el precio final con todo incluido.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Se viene el verano",
-   "idea": "El calor en Lima y el aviso de El Niño costero adelantan la temporada. Lanza tu línea de verano (protector, ropa ligera, ventiladores, bebidas) con preventa.",
+   "titulo": "Verano adelantado",
+   "idea": "El Senamhi anuncia calor de hasta 30 °C. Bloqueadores, ropa fresca, helados y ventiladores pueden lanzar su campaña de verano con precio de pre Black Friday.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cuotas con cabeza",
-   "idea": "Con la subida de tasas, comprar en cuotas pesa más. Explica de forma simple cuánto se paga al final y ofrece opciones sin intereses si las tienes.",
+   "titulo": "¿Y ahora mi línea?",
+   "idea": "La venta de Entel genera dudas. Tiendas de celulares y accesorios pueden explicar qué cambia y qué no para el usuario, con fuentes oficiales y sin alarmar.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Tasa más alta, compra planificada",
+   "idea": "El BCRP subió su tasa de referencia. Si vendes en cuotas, explica el costo total y ofrece una alternativa al contado con un beneficio.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Chamba bien hecha",
+   "idea": "Muestra el detrás de cámaras de cómo preparas los pedidos para el Black Friday. Genera confianza y anticipa compras.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "Sube la temperatura en Lima y la gente consulta el clima a diario.",
-   "idea": "Productos de verano, protectores solares, bebidas y ropa ligera con mensajes de 'ya llegó el calorcito'."
+   "por_que": "El Senamhi pronostica días soleados y calor en Lima.",
+   "idea": "Ropa fresca, bloqueador, bebidas y helados: promos del día según la temperatura."
   },
   {
    "termino": "milo j",
    "color": "verde",
-   "por_que": "El artista argentino figura entre los ganadores del Latin Grammy 2026.",
-   "idea": "Contenido musical y de cultura pop para conectar con público joven."
+   "por_que": "Los Latin Grammy 2026 dejaron ganadores que el público peruano sigue con interés.",
+   "idea": "Marcas de moda y música: looks inspirados en la alfombra roja o playlists de los ganadores."
   },
   {
    "termino": "el niño costero",
    "color": "amarillo",
-   "por_que": "ENFEN alerta que El Niño costero podría extenderse hasta 2027.",
-   "idea": "Informa con utilidad (prevención en casa y negocio) sin alarmar; evita tono comercial agresivo."
+   "por_que": "El ENFEN advierte que el fenómeno se extendería hasta el invierno de 2027.",
+   "idea": "Comunica prevención (techos, agua, salud) con datos oficiales, sin generar miedo."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Hay expectativa por el estreno de GTA VI y promociones en plataformas de streaming.",
-   "idea": "Marcas gamer pueden aprovechar el lanzamiento con combos y lives."
+   "por_que": "Se habla del impacto de GTA VI en las plataformas de streaming.",
+   "idea": "Tiendas gamer: transmisiones en vivo del lanzamiento con sorteos de accesorios."
   },
   {
-   "termino": "paramount",
-   "color": "verde",
-   "por_que": "Se anunció la unión de HBO Max y Paramount+ en un paquete.",
-   "idea": "Contenido sobre maratones de fin de año y regalos de suscripción."
+   "termino": "entel se va de peru",
+   "color": "amarillo",
+   "por_que": "Entel vende su operación peruana a Millicom; los clientes se preguntan qué cambiará.",
+   "idea": "Explica con fuentes oficiales; tiendas de equipos pueden ofrecer asesoría sin generar alarma."
   }
  ],
  "ocultar": [
@@ -86,7 +86,10 @@
   "ONPE al 100 %: lista de Renovación Popular gana la Alcaldía de Lima sobre Avanza País",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas"
+  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
+  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
+  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
+  "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera"
  ],
  "audiencias": {
   "general": {

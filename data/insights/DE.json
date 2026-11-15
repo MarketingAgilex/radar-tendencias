@@ -1,8 +1,8 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor alemán compara antes de la Black Week: abundan las ofertas anticipadas en televisores, Nintendo Switch 2, Philips Hue, KitchenAid y LEGO, mientras la UE prepara reglas contra la presión en compras en línea. La primera camiseta de la selección alemana fabricada por Nike se filtró y despierta interés de compra, y el retiro de autos del grupo VW también se sigue de cerca. La televisión del sábado y los programas de emprendedores como Riverboat o Schlag den Star mantienen audiencia. Ganan los mensajes con precio final claro, sin trucos y con entrega fiable.",
+ "lectura": "El consumidor alemán compara antes de la Black Week: abundan ofertas en televisores, Nintendo Switch 2, aspiradoras y hogar inteligente, y las organizaciones de consumidores advierten sobre trampas de precio. La filtración de la primera camiseta de la selección hecha por Nike despierta interés, y el llamado a revisión de millones de autos del grupo VW preocupa a los conductores. Las alertas por hielo y heladas marcan la semana. Funcionan los mensajes precisos, con datos y garantía.",
  "semaforo": [
   {
    "termino": "tv programm heute",
@@ -1215,32 +1215,40 @@
   "Bremen: Nach muslimischer Kritik – Verfassungsschutz beendet Kampagne gegen Islamismus",
   "Haushalt: Ökonomen warnen vor schwerer Krise ab 2028",
   "SPD-Parteivorsitz: SPD-Arbeitsgruppen wollen Wiederwahl von Klingbeil offenbar verhindern",
-  "Demonstrationen: Hunderte ziehen bei Gen-Z-Demo durch Berlin - 22 Festnahmen"
+  "Demonstrationen: Hunderte ziehen bei Gen-Z-Demo durch Berlin - 22 Festnahmen",
+  "öffentlichkeitsfahndung",
+  "potsdamer straße",
+  "stubaier gletscher",
+  "Einigung über den Bundeshaushalt 2027: Die richtigen Verteilungskämpfe stehen erst noch bevor",
+  "Vor den nächsten Gen-Z-Protesten wächst auf der Düsseldorfer Kö die Nervosität",
+  "Hamas-Kommandeur im Gazastreifen getötet",
+  "Ukraine-Gespräche: EU setzt auf Italien und Polen – Kallas außen vor",
+  "Sechs Terabyte Behördendaten gestohlen: Warum der Berliner Skandal auch Mitteldeutschland betrifft"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Black Week sin presión",
-   "idea": "La UE planea frenar las tácticas de presión en compras en línea. Haz lo contrario: cuenta regresiva honesta, sin falsas escaseces, y precio final con envío.",
-   "formato": "Copy para anuncio"
+   "titulo": "Sieben Preisfallen",
+   "idea": "Se comparten las trampas de precio del Black Friday. Publica las tuyas al revés: cómo garantizas un precio real y transparente.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "La nueva camiseta",
-   "idea": "La primera camiseta Nike de la selección se filtró y genera expectativa. Merch, personalización y accesorios para fans pueden abrir lista de espera.",
+   "titulo": "Nuevo Trikot, nuevo regalo",
+   "idea": "La primera camiseta de Nike para la selección se filtró. Tiendas deportivas pueden abrir lista de espera para Navidad.",
    "formato": "Reel"
   },
   {
-   "titulo": "Switch 2 en Navidad",
-   "idea": "Las ofertas de Switch 2 con Mario Kart World encabezan las búsquedas. Accesorios, fundas y juegos en combo para regalar.",
-   "formato": "TikTok"
+   "titulo": "Switch 2 bajo el árbol",
+   "idea": "La Switch 2 con Mario Kart está a precio mínimo. Tiendas de juguetes y tecnología pueden armar el combo de Navidad.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Hogar inteligente, invierno cálido",
-   "idea": "Los descuentos en iluminación inteligente arrancan antes. Muestra un 'ambiente de Adviento' en casa con tus productos.",
-   "formato": "Instagram"
+   "titulo": "Invierno con hielo",
+   "idea": "Con avisos de hielo, marcas de hogar y auto pueden promocionar raspadores, neumáticos de invierno y calefacción eficiente.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Lecciones de los programas de emprendedores",
-   "idea": "Ralf Dümmel y Frank Thelen están en televisión. Comparte en LinkedIn tres lecciones de producto o pitch aplicables a pymes.",
+   "titulo": "¿Tu auto está en la lista?",
+   "idea": "Hay un llamado a revisión masivo. Talleres pueden explicar cómo verificar si un auto está afectado y ofrecer cita, sin alarmar.",
    "formato": "LinkedIn"
   }
  ]

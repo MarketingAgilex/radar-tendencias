@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra de lleno en la temporada de compras: las ofertas anticipadas de Black Friday ya se notan en Montreal, los mercados navideños y de artesanos llenan la agenda y Twitch lanza anuncios comprables en el país. El primer frío y la nieve en Ontario y las alertas de viento en la Isla de Vancouver activan la venta de abrigo y hogar. La música country (premios CMA) y GTA VI, con una canción de un dúo de Vancouver que se hizo viral, mueven el entretenimiento. Ganan los mensajes bilingües, prácticos y con ofertas verificables.",
+ "lectura": "Canadá entra en temporada de compras con ofertas anticipadas de Black Friday, mercados navideños y de artesanos llenos y la llegada de los anuncios comprables de Twitch al país. El primer frío y la nieve en Ontario, junto con alertas de viento y lluvia en la Isla de Vancouver, marcan la planificación del fin de semana. La música country (CMA Awards) y el entretenimiento en streaming dominan la conversación. Funcionan los mensajes bilingües, prácticos y con sentido de comunidad.",
  "ideas_hoy": [
   {
-   "titulo": "Mercado navideño en casa",
-   "idea": "Los makers' markets abren la temporada. Si vendes artesanía o producto local, anuncia dónde estarás y ofrece pedido en línea con recogida.",
+   "titulo": "Mercado de artesanos online",
+   "idea": "Los mercados navideños atraen público. Si vendes en uno, lleva un QR a tu tienda online y ofrece envío dentro de Canadá para quien no pueda cargar todo.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Kit de primera nevada",
+   "idea": "Con la primera nieve en Ontario, tiendas de ropa y hogar pueden armar un 'kit de invierno' (guantes, botas, mantas) con precio de pre Black Friday.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit de primer invierno",
-   "idea": "Llegó el primer frío a Ontario. Arma un combo de invierno (ropa térmica, cuidado de piel, hogar) con envío rápido.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "¿Oferta real o estafa?",
-   "idea": "Los medios advierten sobre estafas en Black Friday. Publica cómo reconocer tu tienda oficial y tus canales de pago; la confianza vende.",
+   "titulo": "Vende mientras transmites",
+   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas gamer y de tecnología pueden probar un directo con productos enlazados antes del lanzamiento de GTA VI.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Vende donde se juega",
-   "idea": "Twitch habilitó anuncios comprables en Canadá. Marcas gamer y tech pueden probar colaboraciones con streamers locales antes del estreno de GTA VI.",
-   "formato": "TikTok"
+   "titulo": "¿Oferta o estafa?",
+   "idea": "Abundan las alertas por estafas en Black Friday. Publica señales para reconocer tu tienda oficial y tus canales de pago seguros, en inglés y francés.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Sonido canadiense que vende",
-   "idea": "La canción de un dúo de Vancouver se volvió viral por GTA VI. Usa audios en tendencia de artistas locales para tus videos de producto.",
-   "formato": "Reel"
+   "titulo": "Noche country",
+   "idea": "Con los CMA Awards en conversación, moda western, bares y tiendas de música pueden lanzar una noche o colección country.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "country music",
    "color": "verde",
-   "por_que": "Taylor Swift actuará en la 60.ª edición de los premios CMA y la música country está en conversación.",
-   "idea": "Moda western, botas y regalos musicales; contenido con estética country."
+   "por_que": "Taylor Swift actuará en la 60.ª edición de los CMA Awards.",
+   "idea": "Moda western, botas y eventos temáticos: contenido 'outfit country' para la temporada."
   },
   {
    "termino": "météo",
    "color": "amarillo",
-   "por_que": "Se anticipan tormentas y vientos fuertes por la corriente en chorro.",
-   "idea": "Avisa posibles demoras en entregas y ofrece productos de invierno con tono útil."
+   "por_que": "Se advierte que una corriente en chorro podría aumentar el riesgo de tormenta la próxima semana.",
+   "idea": "Avisa posibles retrasos de entrega en Quebec y ofrece productos de invierno con tono práctico."
   },
   {
    "termino": "microsoft xbox playback",
    "color": "verde",
-   "por_que": "Xbox lanzó su resumen anual personalizado para jugadores.",
-   "idea": "Marcas gamer pueden invitar a compartir su resumen y ofrecer accesorios como regalo."
+   "por_que": "Xbox lanzó su resumen anual 'Playback' y los jugadores lo comparten.",
+   "idea": "Tiendas gamer: invita a compartir su resumen y ofrece accesorios o tarjetas de regalo."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Twitch lanzó anuncios comprables en Canadá y EE. UU.",
-   "idea": "Explora colaboraciones con streamers para vender en vivo antes de las fiestas."
+   "por_que": "Twitch lanza anuncios comprables en Canadá.",
+   "idea": "Marcas: prueba un directo con productos enlazados antes del Black Friday."
   },
   {
-   "termino": "teddy swims",
+   "termino": "heartland movie 2026",
    "color": "verde",
-   "por_que": "El desfile del Día de Acción de Gracias de Macy's anuncia sus artistas para su edición 100.",
-   "idea": "Contenido de cultura pop y música para campañas de temporada."
+   "por_que": "El estreno del thriller de música country con Jessica Chastain genera reseñas y conversación.",
+   "idea": "Plataformas y creadores: listas de qué ver; moda y música pueden inspirarse en su estética."
   }
  ],
  "audiencias": {
@@ -1159,6 +1159,17 @@
   "Changes to safer supply prescriptions on pause after Toronto organization files injunction",
   "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
   "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
-  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral"
+  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral",
+  "enlèvement",
+  "the body netflix petition",
+  "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’",
+  "Carney wraps up negotiations on trade deal with Philippines",
+  "Carney unveils forest pledge after skipping two COP summits",
+  "Global defence bank headquarters office sought by Vancouver could grow to 500,000 sq. ft.",
+  "'Because of your d**k?': Australian PM's hot-mic exchange goes viral",
+  "‘Because of your d***?’ Australian PM Anthony Albanese’s genitalia remark to climate minister goes viral",
+  "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+  "New Orleans port sues to get control of tanker that crashed into cruise ship",
+  "Woman who alleges she was raped by Russell Brand waives her anonymity"
  ]
 }

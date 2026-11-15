@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor chileno ya piensa en el Black Friday de fin de mes: busca fechas, cómo comparar precios y dónde estarán las marcas con descuentos, mientras los datos del Cyber muestran un e-commerce en crecimiento. La Feria Internacional del Libro en Estación Mapocho, Creamfields y el regreso de una marca española de moda masculina marcan la agenda de ocio y retail. El tiempo cambiante, con calor y posibles lluvias y tormentas, y el bólido que iluminó el cielo generan conversación. Ganan los mensajes prácticos, con precios comparables y un tono cercano.",
+ "lectura": "El consumidor chileno prepara el Black Friday de fin de mes: busca fechas, cómo comparar precios y dónde estarán las marcas, y BancoEstado empuja el interés con su gift card de noviembre. El bólido que iluminó el cielo del centro-sur se volvió el gran tema compartido del fin de semana, y el clima cambiante pide ropa para calor y lluvia a la vez. La Feria del Libro en Estación Mapocho y los festivales de música llenan la agenda. Mensajes cercanos, precios transparentes y algo de humor funcionan bien.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin letra chica",
-   "idea": "Los chilenos buscan cómo saber si un producto bajó de verdad. Publica tu precio histórico y el precio final con despacho incluido; es la mejor prueba de confianza.",
+   "titulo": "Lo vimos todos",
+   "idea": "El bólido fue el tema del fin de semana. Una publicación ingeniosa tipo '¿lo viste? nosotros también vimos esta oferta' conecta sin forzar y genera comentarios.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Gift card y algo más",
+   "idea": "BancoEstado ofrece una gift card en noviembre y la gente busca cómo obtenerla. Comercios pueden explicar dónde se puede usar y sumar un beneficio propio.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lecturas para regalar",
-   "idea": "La Feria del Libro de Santiago celebra 45 años. Librerías, editoriales y papelerías pueden armar 'el regalo perfecto para el lector' con despacho antes de Navidad.",
+   "titulo": "Libro + café para regalar",
+   "idea": "Con la Feria del Libro en Santiago, librerías y cafeterías pueden armar un pack de regalo para Navidad con envío a regiones.",
    "formato": "Reel"
   },
   {
-   "titulo": "El cielo nos sorprendió",
-   "idea": "El bólido que iluminó Chile se volvió tema. Úsalo con humor ligero ('algo brilló más que nuestras ofertas') si encaja con tu marca.",
-   "formato": "TikTok"
+   "titulo": "Black Friday sin letra chica",
+   "idea": "Publica tu precio de hoy y el que tendrás el Black Friday para que el cliente compare. La transparencia es lo más valorado en las búsquedas.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Clima loco, clóset preparado",
-   "idea": "Calor un día y lluvia al siguiente. Muestra un 'outfit para clima bipolar' o productos de temporada con despacho rápido.",
+   "titulo": "Clóset para clima loco",
+   "idea": "Calor de día y lluvia el fin de semana: tiendas de ropa pueden mostrar un look 'en capas' que sirve para todo.",
    "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Ventas en TikTok para el Black Friday",
-   "idea": "Los expertos recomiendan lives y demostraciones. Programa un live corto con tres productos y un código exclusivo para quienes se conecten.",
-   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido iluminó el cielo de la zona centro-sur y se viralizó en video.",
-   "idea": "Contenido curioso y ligero; marcas de ciencia, educación o tecnología pueden explicar el fenómeno."
+   "por_que": "Una bola de fuego iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió viral.",
+   "idea": "Contenido curioso y ligero: astronomía, turismo de cielos (norte de Chile) y ofertas 'de otro planeta'."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "El fin de semana trae cambios de temperatura y posibles lluvias.",
-   "idea": "Ropa, hogar y delivery pueden ajustar mensajes al clima del día."
+   "por_que": "Se esperan bajas temperaturas y posibles lluvias tras días de calor.",
+   "idea": "Ropa en capas, paraguas y delivery: promos según el clima del fin de semana."
+  },
+  {
+   "termino": "inessa sorokina",
+   "color": "amarillo",
+   "por_que": "Una figura de la farándula llega a un programa de entrevistas y genera curiosidad.",
+   "idea": "Si lo usas, que sea con humor liviano y sin meterte en la vida privada de nadie."
+  },
+  {
+   "termino": "banco estado",
+   "color": "verde",
+   "por_que": "La gente busca cómo obtener la gift card de $100 mil que ofrece el banco en noviembre.",
+   "idea": "Comercios: explica si aceptas la tarjeta y suma un beneficio extra para quienes la usen."
   },
   {
    "termino": "china",
    "color": "verde",
-   "por_que": "Se habla de cómo la IA ayuda a vender en grandes fechas como el 11.11 chino.",
-   "idea": "Emprendedores pueden aprender de esas tácticas para preparar su Black Friday."
-  },
-  {
-   "termino": "twitch",
-   "color": "verde",
-   "por_que": "Hay expectativa por GTA VI y promociones ligadas al streaming.",
-   "idea": "Combos gamer y colaboraciones con streamers locales."
-  },
-  {
-   "termino": "creamfields",
-   "color": "verde",
-   "por_que": "El festival Creamfields movilizó a miles de asistentes en Santiago.",
-   "idea": "Moda, belleza y bebidas pueden usar la estética de festival en su contenido."
+   "por_que": "Se habla de cómo las herramientas de IA transforman el comercio electrónico en fechas como el 11.11.",
+   "idea": "Emprendedores: contenido de automatización y atención con IA antes del Black Friday."
   }
  ],
  "ocultar": [
@@ -102,7 +102,18 @@
   "Empleo público, seis reformas para superar un modelo agotado",
   "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
-  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas"
+  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
+  "ovalle",
+  "frente amplio",
+  "Senapred activa mensajería SAE y solicita evacuar sectores de Ovalle tras desborde de dos ríos",
+  "Crecida de ríos activa Alerta Amarilla en Huasco, Freirina y Vallenar por intensificación de deshielos",
+  "Presentan querella de capítulos contra Antonio Ulloa por presunto cohecho y otros delitos",
+  "Tras golpear al humorista: Agresor de Luis Slimming fue despedido de la Municipalidad de Arica",
+  "Expertos llaman a aprobar sala cuna universal en Chile",
+  "Digamos que se llamaba Josefina: un relato de Jaime Bayly",
+  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
+  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
+  "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros"
  ],
  "audiencias": {
   "general": {

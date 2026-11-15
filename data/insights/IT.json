@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los italianos se adelantan: tres de cada cuatro anticiparán regalos de Navidad en el Black Friday y se estima un gasto de 4.300 millones de euros, aunque con presupuesto más ajustado y atentos a los descuentos falsos. Televisores OLED, celulares y vinos con descuento lideran las ofertas, y el precio del aceite baja. El entretenimiento manda con Ballando con le Stelle, Grande Fratello y GTA VI, y la seguridad de los dispositivos del hogar preocupa. Ganan los mensajes que ayudan a comprar bien y con anticipación.",
+ "lectura": "Los italianos se adelantan: tres de cada cuatro anticiparán regalos de Navidad en el Black Friday, con un gasto estimado de 4.300 millones de euros y presupuesto más ajustado, por lo que buscan cómo reconocer descuentos falsos. Televisores OLED, celulares y aceite de oliva más barato aparecen entre los temas de consumo. La televisión de los sábados (Ballando con le Stelle, Grande Fratello) domina la conversación y GTA VI acapara a los gamers. Funciona hablar de calidad, ahorro inteligente y tradición.",
  "semaforo": [
+  {
+   "termino": "ornella muti",
+   "color": "verde",
+   "por_que": "La actriz es protagonista en Ballando con le Stelle, uno de los programas más vistos del sábado.",
+   "idea": "Moda y belleza: looks de gala inspirados en el programa; evita temas personales de los participantes."
+  },
   {
    "termino": "attacchi hacker",
    "color": "amarillo",
-   "por_que": "Preocupa la seguridad de los dispositivos conectados del hogar.",
-   "idea": "Tecnología y seguros: consejos prácticos de protección, sin alarmismo."
+   "por_que": "Se explica cómo proteger aspiradoras, televisores y cámaras inteligentes de ataques informáticos.",
+   "idea": "Tecnología y seguros: consejos prácticos de seguridad, sin alarmismo."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Hay expectativa por el lanzamiento de GTA VI y por cuánto espacio liberar en la consola.",
-   "idea": "Tiendas gamer: discos externos, mandos y combos de estreno."
+   "por_que": "Se busca cómo prepararse para el lanzamiento y cuánto espacio liberar en la consola.",
+   "idea": "Tiendas gamer: discos externos, consolas y packs de lanzamiento."
   },
   {
    "termino": "jimmy ghione",
    "color": "amarillo",
    "por_que": "El presentador habló de su separación; tema personal.",
-   "idea": "No lo uses comercialmente; respeta la privacidad."
+   "idea": "No lo uses comercialmente; si acaso, empatía y respeto."
   },
   {
    "termino": "cannavacciuolo stella michelin",
    "color": "verde",
-   "por_que": "Un chef famoso perdió una estrella Michelin y habló de mejorar.",
-   "idea": "Gastronomía: contenido sobre calidad y aprender de los errores."
-  },
-  {
-   "termino": "guida tv",
-   "color": "verde",
-   "por_que": "Los italianos consultan la programación del sábado por la noche.",
-   "idea": "Snacks, delivery y streaming: campañas de 'noche en casa'."
+   "por_que": "El chef perdió una estrella Michelin y habló de ello con humildad.",
+   "idea": "Restauración: contenido sobre superarse y la calidad diaria; nada de burlas."
   }
  ],
  "audiencias": {
@@ -1177,33 +1177,42 @@
   "Cosenza, incidente nella Galleria Fiego a San Fili: chi sono le 5 vittime",
   "Tra Meloni e Messina una telefonata di 'chiarimento'",
   "Francia, nuova giornata di proteste: oltre 100mila manifestanti per le strade di tutto il Paese",
-  "Roma, rapina a mano armata nel negozio di Andreas Muller, rubate carte pokemon"
+  "Roma, rapina a mano armata nel negozio di Andreas Muller, rubate carte pokemon",
+  "furto",
+  "trattamento di fine servizio",
+  "reddito di cittadinanza",
+  "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'",
+  "L’avvocata Nicolai: «La revoca del permesso a Ilyes è una misura abnorme»",
+  "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
+  "Paolo Agnelli (Confimi) :\"La manovra è evanescente, il taglio dell'Irpef offensivo\"",
+  "A Milano poche centinaia per il nuovo corteo di 'Italia in piazza'",
+  "Milano, quattro arresti della Polizia di Stato nel fine settimana."
  ],
  "ideas_hoy": [
   {
-   "titulo": "Regalos de Navidad anticipados",
-   "idea": "Tres de cada cuatro italianos adelantarán sus regalos. Lanza una 'lista de regalos Black Friday' con entrega garantizada antes de Navidad.",
+   "titulo": "Regali in anticipo",
+   "idea": "Tres de cada cuatro italianos anticiparán regalos de Navidad. Lanza una guía de regalos por rangos de precio con tu catálogo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Cómo reconocer un descuento real",
-   "idea": "Altroconsumo y los medios enseñan a detectar descuentos falsos. Muestra el precio de las últimas semanas junto al precio de oferta.",
+   "titulo": "Sconto vero",
+   "idea": "Altroconsumo enseña a reconocer un descuento real. Muestra el historial de precio de tus productos para generar confianza.",
    "formato": "Reel"
   },
   {
    "titulo": "Casa inteligente y segura",
-   "idea": "Se busca cómo proteger robots aspiradores, smart TV y cámaras de intrusiones. Tiendas de tecnología pueden publicar cinco consejos simples de seguridad.",
-   "formato": "TikTok"
+   "idea": "Se busca cómo proteger aparatos del hogar de ataques informáticos. Marcas de tecnología pueden dar consejos y ofrecer equipos seguros.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Cestas para regalar",
-   "idea": "Las cestas personalizadas de productos típicos se anuncian con fuerza. Si vendes alimentos o vinos, ofrece cestas por rango de presupuesto.",
+   "titulo": "Aceite más barato, cesta más rica",
+   "idea": "El precio del aceite cayó 26%. Productores y tiendas gourmet pueden armar cestas navideñas con aceite, pasta y vino.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Noche de reality",
-   "idea": "Ballando con le Stelle y Grande Fratello reúnen audiencia. Delivery y snacks pueden lanzar una promo 'para ver el programa'.",
-   "formato": "Instagram"
+   "titulo": "Noche de Ballando",
+   "idea": "Ballando con le Stelle reúne audiencias. Moda y belleza pueden recrear un look de la pista en un video corto.",
+   "formato": "TikTok"
   }
  ]
 }

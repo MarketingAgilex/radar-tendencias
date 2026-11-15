@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos vive el fin de semana de la llegada de Sinterklaas: las ciudades celebran su intocht, la entrada al 'Buitenhuis' del santo se agotó en minutos y el país entero busca al actor que asume ahora su papel. Eso abre oficialmente la temporada de regalos: quedan 12 días para el Black Friday del 27 de noviembre y 20 para pakjesavond, la noche de regalos del 5 de diciembre. Los medios ya comparan ofertas en Coolblue, Apple, Samsung, Nike, LEGO, consolas, audífonos y suscripciones de streaming, y hasta recuerdan cómo devolver una compra impulsiva. Al mismo tiempo, el aviso de seguridad sobre una leche UHT de supermercado y la caída del bitcoin muestran a un consumidor informado y prudente. Funcionan los mensajes directos, honestos y prácticos: precio final claro, entrega garantizada antes del 5 de diciembre, pago con iDEAL y devolución sin complicaciones.",
+ "lectura": "Países Bajos celebra la llegada de Sinterklaas con un nuevo actor en el papel y la intocht llena las ciudades: arranca oficialmente la temporada de regalos hacia pakjesavond (5 de diciembre). Quedan doce días para el Black Friday y el consumidor neerlandés compara precios con cuidado, mientras una alerta de seguridad sobre leche UHT de un supermercado pide atención. Las ofertas tempranas en tecnología, deporte y juguetes ya circulan. Funcionan los mensajes directos, prácticos y con humor sano.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "Es la búsqueda más fuerte de la semana: el actor neerlandés asume el papel de Sinterklaas en plena temporada de su llegada y el público quiere saber quién es.",
-   "idea": "Marcas de juguetes, dulces y regalos pueden subirse a la conversación con contenido sobre la tradición (cuenta regresiva a pakjesavond, ideas para el zapato), sin usar la imagen del actor ni de programas protegidos."
+   "por_que": "El actor asume el papel de Sinterklaas y genera enorme interés.",
+   "idea": "Marcas de regalos y juguetes: saludo festivo y guías de regalo, con respeto por la tradición."
+  },
+  {
+   "termino": "stoomboot van sinterklaas",
+   "color": "verde",
+   "por_que": "La llegada en barco de Sinterklaas reúne a familias en todo el país.",
+   "idea": "Comercio local: horarios especiales, decoración y promociones familiares del fin de semana."
   },
   {
    "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "La autoridad de seguridad alimentaria emitió un aviso sobre un lote de leche UHT de marca propia de un supermercado; los consumidores buscan si su envase está afectado.",
-   "idea": "Tiendas de alimentación y creadores de cocina pueden recordar cómo leer los avisos oficiales y revisar números de lote, con tono sobrio; nada de humor ni ofertas oportunistas."
+   "por_que": "Advertencia de seguridad sobre una leche UHT de un supermercado.",
+   "idea": "No lo uses comercialmente; si vendes alimentos, comunica tus controles de calidad con sobriedad."
   },
   {
    "termino": "de frogers",
    "color": "verde",
-   "por_que": "La familia del cantante René Froger, protagonista de un reality de televisión, despierta curiosidad por su gran familia ensamblada.",
-   "idea": "Marcas de hogar, juegos de mesa o comida pueden hablar de 'familias grandes en temporada de fiestas': cómo organizar regalos, sorpresas y cenas para muchos."
+   "por_que": "La familia de televisión genera conversación sobre familias numerosas.",
+   "idea": "Marcas familiares: contenido sobre organizar regalos y cenas para muchas personas."
   },
   {
    "termino": "amazon",
    "color": "verde",
-   "por_que": "Se buscan las ofertas anticipadas de Black Friday de Amazon y otros grandes comercios.",
-   "idea": "Compara tu precio final con envío frente a los grandes y destaca la entrega antes de pakjesavond (5 de diciembre)."
-  },
-  {
-   "termino": "bitcoin koers",
-   "color": "amarillo",
-   "por_que": "El bitcoin cayó por debajo de los 70.000 dólares y los neerlandeses, muy activos en cripto, siguen la cotización con preocupación.",
-   "idea": "Fintech y creadores de finanzas personales pueden aportar educación prudente (riesgos, diversificación, presupuesto de fin de año) sin prometer rentabilidades ni dar recomendaciones de inversión."
+   "por_que": "Se comparten ofertas tempranas de Black Friday.",
+   "idea": "Tiendas propias: compara tu precio y servicio (entrega, devoluciones) con honestidad."
   }
  ],
  "audiencias": {
@@ -1142,33 +1142,38 @@
   "TikTokker opgepakt nadat tijger 19-jarige doodt tijdens video",
   "Ongeval met letsel op Haarlemmerweg in Amsterdam",
   "Motorrijder gewond na botsing met auto op Haarlemmerweg (N200) in Amsterdam",
-  "Motorrijder en automobilist gewond bij botsing in Amsterdam"
+  "Motorrijder en automobilist gewond bij botsing in Amsterdam",
+  "‘Bolle Jos’ probeerde volgens een getuige 4 ton coke te stelen van Jan G. – tegelijk met de aanval op diens huis in Overasselt",
+  "LIVE | Drie tankers in brand na raken van mijnen in Straat van Hormuz",
+  "‘Wij, jongeren, zijn de weg kwijt’: paus Leo XIV hoort in Argentinië rauwe verhalen over leegte en zelfdoding",
+  "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanval",
+  "Het duurde slechts negen maanden om zowel de VVD als het kabinet-Jetten te onttakelen"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cuenta regresiva a pakjesavond",
-   "idea": "Sinterklaas ya llegó y faltan 20 días para el 5 de diciembre. Publica una cuenta regresiva con una idea de regalo por día y deja clara la última fecha de pedido para que llegue a tiempo a la noche de los paquetes.",
+   "titulo": "Lista para pakjesavond",
+   "idea": "Con Sinterklaas ya en el país, publica una guía de regalos por edades con fecha límite de pedido para entregar antes del 5 de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "¿Oferta real o inflada?",
-   "idea": "Los medios neerlandeses ya publican listas de ofertas de Black Friday (27 de noviembre) y explican cómo devolver una compra impulsiva. Muestra el precio de tu producto en octubre y en Black Friday, con envío incluido y política de devolución: transparencia que el comprador neerlandés agradece.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Taller exprés de surprise",
-   "idea": "Las surprises (regalos envueltos de forma creativa con un poema) son parte central de Sinterklaas en familias, colegios y oficinas. Si vendes papelería, manualidades, dulces o pequeños regalos, enseña a armar una surprise en 10 minutos con tus productos.",
+   "titulo": "El nuevo Sint",
+   "idea": "Todo el país habla del nuevo actor de Sinterklaas. Marcas pueden sumarse con un saludo festivo y un sorteo de regalos, sin bromas sobre el personaje.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit para noche de cine juvenil",
-   "idea": "La búsqueda de 'hunger games' crece ante el estreno de la nueva película de la saga. Arma un kit genérico de noche de película (snacks, mantas, juegos) para ver en casa o con amigos, sin usar logos ni imágenes protegidas.",
-   "formato": "TikTok"
+   "titulo": "Black Friday sin trucos",
+   "idea": "Se enseña a comprobar si una oferta es real (Black Friday y Singles Day). Muestra tu historial de precio y tu garantía.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Calendario de entregas de diciembre",
-   "idea": "Sinterklaas, Black Friday, Cyber Monday y Navidad se cruzan en pocas semanas. Publica en LinkedIn las fechas límite de pedido para cada fecha y cómo te preparas para la temporada alta: genera confianza en clientes y aliados.",
-   "formato": "LinkedIn"
+   "titulo": "Zapatillas de carrera en oferta",
+   "idea": "Nike rebaja sus zapatillas de alto rendimiento. Tiendas deportivas pueden armar un plan de entrenamiento de invierno con su catálogo.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Surprise hecho a mano",
+   "idea": "Talleres y tiendas creativas pueden ofrecer kits para hacer la surprise de Sinterklaas en casa.",
+   "formato": "TikTok"
   }
  ]
 }

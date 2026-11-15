@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-15T01:30:00Z",
+ "actualizado": "2026-11-15T05:00:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Faltan 11 días para Thanksgiving y 12 para el Black Friday: el consumidor estadounidense ya compra ofertas anticipadas en Apple, Costco, Walmart, Best Buy y Dyson, y vuelve a las tiendas físicas y a las ferias de vendedores locales. El estreno de GTA VI (19 de noviembre) y los acuerdos de streaming mueven la conversación de entretenimiento. Las cancelaciones de vuelos tras la suspensión nacional y la nieve en el noreste afectan los planes de viaje. Ganan los mensajes de ahorro concreto, regalos fáciles y entregas a tiempo para las fiestas.",
+ "lectura": "A once días de Thanksgiving y doce del Black Friday, el consumidor estadounidense ya compra las ofertas anticipadas en Apple, Costco, Walmart y Best Buy, y los mercados navideños de vendedores locales llenan la agenda del fin de semana. La normalización de vuelos tras la suspensión nacional y el frío que llega con El Niño marcan la planeación de viajes y compras. GTA VI sale el 19 de noviembre y los acuerdos de streaming dominan la conversación de entretenimiento. Para la comunidad hispana, es el momento de planear los regalos que viajan a Latinoamérica.",
  "ideas_hoy": [
   {
-   "titulo": "Early Black Friday, ya",
-   "idea": "Los grandes minoristas adelantaron ofertas. Lanza tu 'early access' de 48 horas para tu lista de clientes y comunica la fecha límite de envío para Thanksgiving.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Guía de regalos por menos de 50 dólares",
-   "idea": "Las listas de regalos bajo 50 dólares son de lo más leído. Arma la tuya con tus productos y un enlace directo a cada uno.",
+   "titulo": "Fecha límite para enviar a casa",
+   "idea": "Publica un calendario con la fecha recomendada para que los regalos lleguen a cada país de Latinoamérica antes de Navidad. Es contenido útil, se guarda y reduce consultas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lo hecho a mano también compite",
-   "idea": "Las ferias de vendedores locales arrancan la temporada. Cuenta la historia detrás de tu producto artesanal y ofrece envoltorio de regalo.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Noche de GTA VI",
-   "idea": "El lanzamiento de GTA VI el 19 de noviembre es un evento de consumo. Snacks, accesorios gamer, audífonos o sillas pueden armar un combo 'launch night'.",
+   "titulo": "Comidas ricas por poco",
+   "idea": "Un creador se volvió viral con comidas económicas. Restaurantes y marcas de alimentos pueden mostrar 'cena de Thanksgiving para 4 por menos de X' con productos propios.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Envíos a casa para las fiestas",
-   "idea": "Para la comunidad latina, este es el momento de mandar regalos a la familia. Comunica fechas límite de envío a Latinoamérica antes de diciembre, con calma y claridad.",
-   "formato": "Facebook"
+   "titulo": "Regalo gamer de lanzamiento",
+   "idea": "GTA VI sale el miércoles 19. Tiendas de tecnología y accesorios pueden ofrecer combos de lanzamiento y contenido de 'setup listo'.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Feria local, venta online",
+   "idea": "Los holiday markets atraen público. Si participas en uno, lleva un QR a tu tienda en línea y ofrece envío para quien no pudo cargar todo.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Planes con El Niño",
+   "idea": "Se anuncian lluvias y frío por El Niño en varias zonas. Ropa de abrigo, impermeables y hogar pueden lanzar un 'kit de invierno' con precio de Black Friday anticipado.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Se espera un El Niño fuerte que cambiará el clima del invierno en varias regiones.",
-   "idea": "Ropa de invierno, impermeables, hogar y viajes pueden informar 'qué esperar' con utilidad, sin alarmar."
+   "por_que": "Un El Niño muy fuerte llega con cambios de clima según la región; la gente busca cómo le afectará.",
+   "idea": "Hogar, ropa y seguros pueden dar consejos prácticos por región; evita el tono catastrófico."
   },
   {
    "termino": "cancer",
    "color": "amarillo",
-   "por_que": "La aprobación de un nuevo tratamiento oncológico generó búsquedas; tema de salud sensible.",
-   "idea": "Solo para salud y seguros, con fuentes médicas y tono empático."
+   "por_que": "Se aprobó en EE. UU. un nuevo esquema de tratamiento oncológico; tema de salud delicado.",
+   "idea": "Solo para marcas de salud con fuentes médicas; prevención y acompañamiento, nunca humor."
   },
   {
    "termino": "paramount",
    "color": "verde",
-   "por_que": "Los movimientos de Paramount y Warner Bros. pueden cambiar el mapa del streaming.",
-   "idea": "Contenido sobre 'qué ver estas fiestas' y regalos de suscripción."
+   "por_que": "La apuesta de Paramount y Warner Bros. podría cambiar el streaming.",
+   "idea": "Creadores de entretenimiento: listas de 'qué ver este fin de semana' y regalos de suscripción para Navidad."
   },
   {
    "termino": "valerie bertinelli body transformation post",
    "color": "amarillo",
-   "por_que": "La actriz compartió su cambio físico y su bienestar; el tema del cuerpo es delicado.",
-   "idea": "Wellness puede hablar de hábitos y bienestar, nunca de 'antes y después' ni presión sobre el peso."
+   "por_que": "La actriz compartió su cambio físico; el tema del cuerpo es sensible.",
+   "idea": "Si hablas de bienestar, enfócate en hábitos y cómo te sientes, no en kilos ni comparaciones."
   },
   {
-   "termino": "santa cruz beach closures",
-   "color": "verde",
-   "por_que": "Olas gigantes en California atrajeron surfistas y cerraron playas y muelles.",
-   "idea": "Marcas outdoor y de surf pueden mostrar el espectáculo natural con mensajes de seguridad."
+   "termino": "btc",
+   "color": "amarillo",
+   "por_que": "El bitcoin cayó con fuerza y se habla de pérdidas; el ánimo financiero es cauteloso.",
+   "idea": "Fintech y educación financiera: contenido de diversificación y riesgo; no prometas ganancias."
   }
  ],
  "audiencias": {
@@ -646,6 +646,81 @@
     "EC": "número de guía",
     "ES": "número de seguimiento"
    }
+  },
+  {
+   "expresion": "Delulu",
+   "significado": "Abreviación de 'delusional': alguien que se ilusiona con algo poco realista. Se usa con humor y a veces con orgullo ('delulu is the solulu').",
+   "uso": "Gen Z y millennials jóvenes, redes sociales en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Being delulu about Black Friday? Make a list first.",
+   "equivalentes": {
+    "CO": "ilusionado de más",
+    "MX": "bien ilusionado",
+    "EC": "soñando despierto",
+    "ES": "flipado",
+    "AR": "re ilusionado"
+   }
+  },
+  {
+   "expresion": "Rizz",
+   "significado": "Carisma o encanto para conquistar o convencer. Fue palabra del año de Oxford en 2023.",
+   "uso": "Gen Z, redes y conversación cotidiana.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "This gift has major rizz.",
+   "equivalentes": {
+    "CO": "tener labia",
+    "MX": "tener choro",
+    "EC": "tener floro",
+    "ES": "tener labia",
+    "AR": "tener chamuyo"
+   }
+  },
+  {
+   "expresion": "Aura",
+   "significado": "El 'carisma' o estatus que alguien gana o pierde por cómo actúa ('+1000 aura', 'lost aura').",
+   "uso": "Gen Z y Gen Alpha, TikTok y escuelas.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Shipping gifts on time? +1000 aura.",
+   "equivalentes": {
+    "CO": "tener caché",
+    "MX": "tener flow",
+    "EC": "tener estilo",
+    "ES": "tener carisma",
+    "AR": "tener onda"
+   }
+  },
+  {
+   "expresion": "Llamar para atrás",
+   "significado": "Devolver una llamada; calco del inglés 'call back' propio del español de EE. UU.",
+   "uso": "Comunidades hispanas en todo EE. UU., registro coloquial.",
+   "registro": "coloquial",
+   "apto_anuncio": "no",
+   "ejemplo": "Déjame tu número y te llamo para atrás.",
+   "equivalentes": {
+    "CO": "devolver la llamada",
+    "MX": "regresar la llamada",
+    "EC": "devolver la llamada",
+    "ES": "devolver la llamada",
+    "AR": "devolver el llamado"
+   }
+  },
+  {
+   "expresion": "Textear",
+   "significado": "Enviar un mensaje de texto (del inglés 'to text').",
+   "uso": "Hispanos en EE. UU., sobre todo jóvenes y bilingües.",
+   "registro": "coloquial",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Textéanos y te mandamos el tracking.",
+   "equivalentes": {
+    "CO": "escribir por WhatsApp",
+    "MX": "mandar mensaje",
+    "EC": "escribir al WhatsApp",
+    "ES": "mandar un mensaje",
+    "AR": "mandar un mensaje"
+   }
   }
  ],
  "creadores": {
@@ -770,6 +845,22 @@
    "hacia": "US",
    "sector": "moda",
    "accion": "Colaboraciones con creadoras latinas."
+  },
+  {
+   "titulo": "Tecnología de Black Friday para la familia en Latinoamérica",
+   "senal": "Las ofertas anticipadas en Apple, Best Buy y Walmart ya circulan y muchos hispanos aprovechan para comprar equipos a familiares.",
+   "desde": "US",
+   "hacia": "EC",
+   "sector": "tecnologia",
+   "accion": "Contenido sobre cómo comprar con tiempo, guardar facturas y considerar garantías y tiempos de envío; conviene verificar las normas de importación de cada país."
+  },
+  {
+   "titulo": "Chocolate fino latinoamericano como regalo corporativo",
+   "senal": "Marcas ecuatorianas pautan regalos corporativos de chocolate fino y en EE. UU. crece la demanda de regalos de origen para fin de año.",
+   "desde": "EC",
+   "hacia": "US",
+   "sector": "cafe-cacao",
+   "accion": "Explorar cajas de regalo con historia de origen para empresas con equipos hispanos; validar requisitos sanitarios y de etiquetado antes de escalar."
   }
  ],
  "anuncios": [
@@ -875,6 +966,16 @@
   "November 14, 2026: New York City Temperature at 4 PM CT Prediction Market",
   "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
   "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
-  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral"
+  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral",
+  "dallas airport",
+  "ut",
+  "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
+  "\"Si el ICE no hubiera venido, seguiríamos siendo republicanos, al 100%”: Así es como las redadas migratorias transformaron el voto en Kansas",
+  "Atacado en Panamá un periodista que investiga casos de corrupción",
+  "New York City officials on Friday were examining whether a developer’s desire to construct a taller building in Brooklyn than had initially been approved factored in the fatal collapse of a neighboring structure earlier this week. By winning approval for a three-st",
+  "Man and woman found fatally shot at Los Angeles County mobile home park, detectives say",
+  "'Because of your d**k?': Australian PM's hot-mic exchange goes viral",
+  "Two aircraft collided on a taxiway at Miami International Airport",
+  "Government facing calls to stagger age of consent after Russell Brand scandal"
  ]
 }
