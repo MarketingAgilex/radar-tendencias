@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-14T21:01:23Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A menos de dos semanas del Black Friday del 27 de noviembre, el consumidor italiano ya está comprando: tres de cada cuatro adelantan los regalos de Navidad, pero con presupuesto más ajustado y mucha atención a los falsos descuentos. La tecnología manda en las ofertas (televisores, smartphones, robots de limpieza) y el lanzamiento de GTA VI el 19 de noviembre mueve al público gamer, mientras la seguridad de los dispositivos del hogar gana interés. Con la calefacción ya encendida en el centro y sur del país y el debate sobre la factura del gas, pesa todo lo que ayude a ahorrar en casa; la noche frente al sofá (guía de TV, series italianas en Netflix) es buen momento para conectar. Funcionan los mensajes de precio honesto y comprobable, pago en cuotas y entrega a tiempo para Navidad.",
+ "lectura": "Los italianos se adelantan: tres de cada cuatro anticiparán regalos de Navidad en el Black Friday y se estima un gasto de 4.300 millones de euros, aunque con presupuesto más ajustado y atentos a los descuentos falsos. Televisores OLED, celulares y vinos con descuento lideran las ofertas, y el precio del aceite baja. El entretenimiento manda con Ballando con le Stelle, Grande Fratello y GTA VI, y la seguridad de los dispositivos del hogar preocupa. Ganan los mensajes que ayudan a comprar bien y con anticipación.",
  "semaforo": [
+  {
+   "termino": "attacchi hacker",
+   "color": "amarillo",
+   "por_que": "Preocupa la seguridad de los dispositivos conectados del hogar.",
+   "idea": "Tecnología y seguros: consejos prácticos de protección, sin alarmismo."
+  },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "GTA VI llega el 19 de noviembre y en Italia se busca cómo prepararse: espacio en la consola, accesorios y fecha de lanzamiento.",
-   "idea": "Tiendas de tecnología y gaming: checklist 'prepara tu setup' con discos, mandos, auriculares y sillas, con precio final y plazos de entrega claros. Evita usar escenas violentas del juego."
+   "por_que": "Hay expectativa por el lanzamiento de GTA VI y por cuánto espacio liberar en la consola.",
+   "idea": "Tiendas gamer: discos externos, mandos y combos de estreno."
+  },
+  {
+   "termino": "jimmy ghione",
+   "color": "amarillo",
+   "por_que": "El presentador habló de su separación; tema personal.",
+   "idea": "No lo uses comercialmente; respeta la privacidad."
+  },
+  {
+   "termino": "cannavacciuolo stella michelin",
+   "color": "verde",
+   "por_que": "Un chef famoso perdió una estrella Michelin y habló de mejorar.",
+   "idea": "Gastronomía: contenido sobre calidad y aprender de los errores."
   },
   {
    "termino": "guida tv",
    "color": "verde",
-   "por_que": "Búsqueda clásica del sábado por la noche: el público planea qué ver en el sofá, con estrenos de cine y series en abierto.",
-   "idea": "Marcas de hogar, comida y snacks: contenido tipo 'kit para la noche de cine' (manta, palomitas, chocolate caliente) publicado entre las 19:00 y las 21:00."
-  },
-  {
-   "termino": "cannavacciuolo stella michelin",
-   "color": "amarillo",
-   "por_que": "La nueva Guía Michelin Italia generó conversación al restar una estrella a un chef muy popular de la televisión.",
-   "idea": "Gastronomía y alimentos gourmet pueden hablar de la cultura de la excelencia y del producto de origen, sin burlarse del chef ni opinar sobre el veredicto."
-  },
-  {
-   "termino": "madre",
-   "color": "amarillo",
-   "por_que": "El término sube por el anuncio sorpresa de maternidad de una cantante internacional; es un tema personal y de prensa rosa.",
-   "idea": "Marcas de bebés y regalos pueden hablar de la maternidad en general (lista de nacimiento, primera Navidad del bebé) sin usar el nombre de la artista ni especular sobre su vida privada."
-  },
-  {
-   "termino": "paola barale malattia papilloma virus",
-   "color": "amarillo",
-   "por_que": "Una presentadora conocida contó su experiencia con un tumor causado por el virus del papiloma; tema de salud delicado.",
-   "idea": "Salud y farmacias pueden informar sobre prevención y vacunación con fuentes médicas; nada de humor, ofertas ni uso de su imagen."
+   "por_que": "Los italianos consultan la programación del sábado por la noche.",
+   "idea": "Snacks, delivery y streaming: campañas de 'noche en casa'."
   }
  ],
  "audiencias": {
@@ -1095,7 +1095,46 @@
    "accion": "Señal para investigar: tiendas de diseño y mercados navideños italianos, con fotos de taller y certificación de origen."
   }
  ],
- "anuncios": [],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 134291,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+    }
+   ],
+   "patron": "Gran volumen de anuncios activos; una misma marca outdoor ocupa los primeros resultados con decenas de variantes en inglés ('Black Friday Starts Now: Up to 62% Off'). La temporada ya está abierta y con mucha competencia en la subasta."
+  },
+  {
+   "busqueda": "regali di Natale",
+   "total": 5973,
+   "anunciantes": [
+    {
+     "nombre": "Caseificio Valli Di Lanzo",
+     "url": "https://www.facebook.com/ads/library/?id=2210701126162824"
+    },
+    {
+     "nombre": "LILT Milano Monza Brianza",
+     "url": "https://www.facebook.com/ads/library/?id=2437379076672138"
+    },
+    {
+     "nombre": "Babywelt",
+     "url": "https://www.facebook.com/ads/library/?id=4028096394165079"
+    },
+    {
+     "nombre": "Librio",
+     "url": "https://www.facebook.com/ads/library/?id=1671271431222981"
+    },
+    {
+     "nombre": "Ischia Spaeh",
+     "url": "https://www.facebook.com/ads/library/?id=4070778816565330"
+    }
+   ],
+   "patron": "Cestas personalizadas de productos típicos 'para todos los gustos y presupuestos', Navidad solidaria con panettone y pandoro, regalos personalizados para bebés y bienestar. Tono cálido y emocional, y comercios locales que anuncian que 'la Navidad ya llegó'."
+  }
+ ],
  "ocultar": [
   "calenda",
   "azione",
@@ -1131,33 +1170,40 @@
   "Roma, 15enne transgender si toglie la vita: parla la famiglia",
   "SCIOPERO GENERALE 20 NOVEMBRE – MANIFESTAZIONE A ROMA",
   "Lite in strada a Roma, uomo ucciso a colpi di forbici",
-  "Andreas Muller, rapina nel negozio a Roma mentre lui è al Grande Fratello: danno da migliaia di euro"
+  "Andreas Muller, rapina nel negozio a Roma mentre lui è al Grande Fratello: danno da migliaia di euro",
+  "Milano, anziano ucciso durante truffa 'finto carabiniere': 2 arresti",
+  "Il giallo dei bot contro i politici italiani: così l’AI svela l’assalto sui social",
+  "Morì dopo il vaccino anti-Covid, il pm chiede l'archiviazione per la terza volta: «All'epoca nessuna evidenza per vietare AstraZeneca",
+  "Cosenza, incidente nella Galleria Fiego a San Fili: chi sono le 5 vittime",
+  "Tra Meloni e Messina una telefonata di 'chiarimento'",
+  "Francia, nuova giornata di proteste: oltre 100mila manifestanti per le strade di tutto il Paese",
+  "Roma, rapina a mano armata nel negozio di Andreas Muller, rubate carte pokemon"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin falsos descuentos",
-   "idea": "La prensa italiana insiste en cómo reconocer un descuento real y nueve de cada diez italianos piensan comprar con presupuesto más ajustado. Publica tus ofertas mostrando el precio de referencia de los últimos 30 días junto al precio final: es el argumento de confianza que el público está buscando a trece días del 27 de noviembre.",
+   "titulo": "Regalos de Navidad anticipados",
+   "idea": "Tres de cada cuatro italianos adelantarán sus regalos. Lanza una 'lista de regalos Black Friday' con entrega garantizada antes de Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalos de Navidad adelantados",
-   "idea": "Tres de cada cuatro italianos usarán el Black Friday para adelantar los regalos de Navidad. Arma una guía 'idee regalo' por rangos de precio (menos de 20, 50 y 100 €) con fecha límite de pedido para recibir antes del 24 de diciembre.",
+   "titulo": "Cómo reconocer un descuento real",
+   "idea": "Altroconsumo y los medios enseñan a detectar descuentos falsos. Muestra el precio de las últimas semanas junto al precio de oferta.",
    "formato": "Reel"
   },
   {
-   "titulo": "Prepara tu setup para GTA VI",
-   "idea": "GTA VI sale el 19 de noviembre y ya se busca cuánto espacio liberar en la consola. Graba un checklist rápido de accesorios (disco, mando, auriculares, silla) con precio final y aprovecha el empuje antes del Black Friday.",
+   "titulo": "Casa inteligente y segura",
+   "idea": "Se busca cómo proteger robots aspiradores, smart TV y cámaras de intrusiones. Tiendas de tecnología pueden publicar cinco consejos simples de seguridad.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Noche de sofá y series",
-   "idea": "Hoy sábado la 'guida tv' es de lo más buscado y una serie policiaca italiana encabeza Netflix. Propón un 'kit serata sul divano' (manta, snacks, chocolate caliente, velas) para publicar entre las 19:00 y las 21:00.",
-   "formato": "Reel"
+   "titulo": "Cestas para regalar",
+   "idea": "Las cestas personalizadas de productos típicos se anuncian con fuerza. Si vendes alimentos o vinos, ofrece cestas por rango de presupuesto.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Ahorro en casa con la calefacción encendida",
-   "idea": "Desde el 15 de noviembre se encienden los radiadores en Roma y Nápoles y la factura del gas es tema de búsqueda. Si vendes productos para el hogar (mantas, burletes, termostatos inteligentes, ropa térmica), comunícalos con un beneficio concreto de ahorro y sin promesas exageradas.",
-   "formato": "Copy para anuncio"
+   "titulo": "Noche de reality",
+   "idea": "Ballando con le Stelle y Grande Fratello reúnen audiencia. Delivery y snacks pueden lanzar una promo 'para ver el programa'.",
+   "formato": "Instagram"
   }
  ]
 }

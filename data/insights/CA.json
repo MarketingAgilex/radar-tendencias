@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Canadá la temporada navideña ya arrancó en mercados de artesanos, ventas comunitarias y noches de compras locales, mientras crecen las alertas sobre estafas disfrazadas de Black Friday. El canadiense busca valor y confianza: compra local, ofertas verificables y regalos útiles. La canción de un dúo de Vancouver que se hizo viral por GTA VI muestra el orgullo por el talento local, y el clima húmedo en la costa oeste y Quebec invita a productos de invierno. Funcionan los mensajes honestos, bilingües cuando aplique y con fechas de envío claras.",
+ "lectura": "Canadá entra de lleno en la temporada de compras: las ofertas anticipadas de Black Friday ya se notan en Montreal, los mercados navideños y de artesanos llenan la agenda y Twitch lanza anuncios comprables en el país. El primer frío y la nieve en Ontario y las alertas de viento en la Isla de Vancouver activan la venta de abrigo y hogar. La música country (premios CMA) y GTA VI, con una canción de un dúo de Vancouver que se hizo viral, mueven el entretenimiento. Ganan los mensajes bilingües, prácticos y con ofertas verificables.",
  "ideas_hoy": [
   {
-   "titulo": "Cómo reconocer una oferta real",
-   "idea": "Publica 4 señales para distinguir un deal legítimo de una estafa (dominio, reseñas, pago seguro). Sitúa tu tienda como referencia confiable.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Detrás del maker's market",
-   "idea": "Graba tu puesto o tu proceso para un mercado navideño local. El público canadiense valora el 'hecho aquí' y comparte este tipo de historias.",
+   "titulo": "Mercado navideño en casa",
+   "idea": "Los makers' markets abren la temporada. Si vendes artesanía o producto local, anuncia dónde estarás y ofrece pedido en línea con recogida.",
    "formato": "Reel"
   },
   {
-   "titulo": "Talento local que suena",
-   "idea": "Como la canción de Vancouver en GTA VI, destaca a un creador o proveedor local con el que trabajas. Orgullo comunitario que conecta.",
-   "formato": "TikTok"
+   "titulo": "Kit de primer invierno",
+   "idea": "Llegó el primer frío a Ontario. Arma un combo de invierno (ropa térmica, cuidado de piel, hogar) con envío rápido.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit para la lluvia",
-   "idea": "Con avisos de viento y lluvia en la Isla de Vancouver y lloviznas en Montreal, agrupa productos de abrigo o cuidado del hogar en un pack de temporada.",
+   "titulo": "¿Oferta real o estafa?",
+   "idea": "Los medios advierten sobre estafas en Black Friday. Publica cómo reconocer tu tienda oficial y tus canales de pago; la confianza vende.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Fechas límite de envío",
-   "idea": "Publica tus fechas para recibir antes de Navidad dentro de Canadá y hacia EE. UU. y Latinoamérica, considerando posibles retrasos aéreos.",
-   "formato": "Facebook"
+   "titulo": "Vende donde se juega",
+   "idea": "Twitch habilitó anuncios comprables en Canadá. Marcas gamer y tech pueden probar colaboraciones con streamers locales antes del estreno de GTA VI.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Sonido canadiense que vende",
+   "idea": "La canción de un dúo de Vancouver se volvió viral por GTA VI. Usa audios en tendencia de artistas locales para tus videos de producto.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "ford's garage",
-   "color": "amarillo",
-   "por_que": "Polémica por un cargo de servicio del 20% que molestó a los clientes; la cadena se plantea revisarlo.",
-   "idea": "Úsalo como aprendizaje: comunica precios finales claros y sin recargos sorpresa, sin atacar a la marca."
-  },
-  {
-   "termino": "ana de armas",
-   "color": "verde",
-   "por_que": "Su debut en alfombra roja junto a Beto Montenegro en los Latin Grammy genera conversación de moda y estilo.",
-   "idea": "Para moda y belleza: recrea su look de gala con tus productos y precios por pieza."
-  },
-  {
-   "termino": "pont pierre laporte",
-   "color": "amarillo",
-   "por_que": "Obras nocturnas en el puente de Quebec dejan un solo carril por sentido durante varias noches de noviembre.",
-   "idea": "Negocios con reparto o tienda en la zona de Quebec: avisa horarios y rutas alternativas para recoger o recibir pedidos."
-  },
-  {
    "termino": "country music",
    "color": "verde",
-   "por_que": "La 60.ª gala de premios de la música country, con grandes estrellas anunciadas, impulsa la conversación de entretenimiento.",
-   "idea": "Guía de regalos para fans y looks de inspiración western: botas, sombreros y denim."
+   "por_que": "Taylor Swift actuará en la 60.ª edición de los premios CMA y la música country está en conversación.",
+   "idea": "Moda western, botas y regalos musicales; contenido con estética country."
   },
   {
    "termino": "météo",
+   "color": "amarillo",
+   "por_que": "Se anticipan tormentas y vientos fuertes por la corriente en chorro.",
+   "idea": "Avisa posibles demoras en entregas y ofrece productos de invierno con tono útil."
+  },
+  {
+   "termino": "microsoft xbox playback",
    "color": "verde",
-   "por_que": "Quebec sigue el pronóstico ante un posible temporal la próxima semana por un chorro de viento muy intenso.",
-   "idea": "Contenido en francés de preparación para el invierno: ropa térmica, kits para el coche y aviso de entregas antes de la tormenta."
+   "por_que": "Xbox lanzó su resumen anual personalizado para jugadores.",
+   "idea": "Marcas gamer pueden invitar a compartir su resumen y ofrecer accesorios como regalo."
+  },
+  {
+   "termino": "twitch",
+   "color": "verde",
+   "por_que": "Twitch lanzó anuncios comprables en Canadá y EE. UU.",
+   "idea": "Explora colaboraciones con streamers para vender en vivo antes de las fiestas."
+  },
+  {
+   "termino": "teddy swims",
+   "color": "verde",
+   "por_que": "El desfile del Día de Acción de Gracias de Macy's anuncia sus artistas para su edición 100.",
+   "idea": "Contenido de cultura pop y música para campañas de temporada."
   }
  ],
  "audiencias": {
@@ -1148,6 +1148,17 @@
   "{{++[Original^video#] Hansika Motwani's viral video trending on social media}}",
   "{{~[[Instagram viral mms]] FUN4U VIRAL VIDEO}}",
   "{{++(official^video)++Kirana viral video original Clip in Social Media x TikTok}}",
-  "Iraq denies 72-hour airspace closure, says viral video was old and edited"
+  "Iraq denies 72-hour airspace closure, says viral video was old and edited",
+  "kimberly polman",
+  "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+  "Carney says Canada-U.S. trade deal closer, but hurdles remain",
+  "U.S. asked Ukraine if it would cede Donbas for NATO membership, Zelensky says",
+  "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+  "Joly says Stellantis could get more government money if it promised to keep Brampton plant open",
+  "The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky",
+  "Changes to safer supply prescriptions on pause after Toronto organization files injunction",
+  "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
+  "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
+  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral"
  ]
 }

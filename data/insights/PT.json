@@ -1,32 +1,32 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Em Portugal o Black Friday oficial é a 27 de novembro, mas muitas marcas já anteciparam descontos de até 60% e a Deco alerta para falsos descontos, por isso o consumidor quer provas. O mau tempo recorde da depressão Charles empurra compras de equipamentos de aquecimento e conforto em casa. GTA 6 com desconto e as sugestões de prendas tech mostram um público gamer ativo. Funcionam mensagens com preço final transparente, garantia clara e conselhos práticos para o inverno.",
+ "lectura": "Portugal se prepara para el Black Friday del 27 de noviembre con cautela: la Deco alerta sobre descuentos falsos, la publicidad en televisión de la fecha cae y el consumidor busca celulares y barras de sonido a buen precio. La lluvia y los cortes de electricidad programados en varias zonas marcan el día a día, y el precio de los combustibles de la próxima semana también se sigue de cerca. En entretenimiento, los conciertos en el MEO Arena y los realities de la TVI generan conversación. Ganan los mensajes claros, con precio final y entrega garantizada antes de Navidad.",
  "ideas_hoy": [
   {
-   "titulo": "Desconto verdadeiro",
-   "idea": "Seguindo os conselhos da Deco, mostra o preço dos últimos 30 dias ao lado do preço de Black Friday. Transparência que gera confiança antes do dia 27.",
+   "titulo": "Descuento verdadero",
+   "idea": "La Deco alerta sobre descuentos falsos. Muestra el historial de precio de tu producto y el precio final con envío incluido; la transparencia convierte.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Inverno quentinho",
-   "idea": "Depois da chuva recorde, apresenta um kit de conforto (mantas, aquecedores, desumidificadores) com preço fechado e entrega rápida.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Setup GTA 6",
-   "idea": "Com GTA 6 em desconto em grandes lojas, mostra acessórios ou snacks para a noite de estreia num vídeo curto e divertido.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Telemóvel com desconto: o que ver",
-   "idea": "Há notícias sobre telemóveis que não valem a pena mesmo baratos. Faz um guia rápido do que verificar (bateria, atualizações, garantia).",
+   "titulo": "Casa cálida en invierno",
+   "idea": "Con lluvia y frío, los equipos para el hogar están en alza. Agrupa calefactores, mantas o deshumidificadores en una campaña de 'Black Friday anticipado'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Comércio de bairro no Natal",
-   "idea": "Destaca a loja local e o atendimento próximo como alternativa ao grande retalho. Portugal valoriza o comércio tradicional nesta época.",
+   "titulo": "El celular correcto",
+   "idea": "Los medios explican qué celulares no valen la pena aunque tengan descuento. Crea una guía honesta de 'cuál elegir' y destaca tu producto donde tenga sentido.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Regalo con fecha garantizada",
+   "idea": "Comunica la fecha límite para que los pedidos lleguen antes de Navidad. Saber cuándo pedir quita dudas y adelanta ventas.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Farmacia y belleza que se repiten",
+   "idea": "El Black Friday reta a las farmacias a convertir descuentos en compras recurrentes. Ofrece packs o suscripciones con ventaja en la segunda compra.",
    "formato": "Facebook"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "La suspensión temporal de vuelos con EE. UU. por una falla técnica generó muchas búsquedas; es un tema de servicio que preocupa a viajeros.",
-   "idea": "Para turismo y logística: comunica con calma cómo actúas si hay retrasos y recuerda fechas límite de envío para Navidad."
+   "por_que": "La suspensión de vuelos en EE. UU. afectó a pasajeros y conexiones internacionales.",
+   "idea": "Si dependes de productos que vienen de EE. UU., avisa con calma sobre posibles retrasos."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "La gente busca horarios y zonas de cortes de electricidad programados entre el 12 y el 14 de noviembre.",
-   "idea": "Para comercios y servicios: avisa en redes si tu atención o entregas cambian en esos horarios; para hogar, contenido útil sobre linternas, baterías portátiles y regletas."
+   "por_que": "Hay cortes de electricidad programados en varias localidades.",
+   "idea": "Marcas de energía y equipos pueden informar y ofrecer soluciones de respaldo, sin alarmismo."
   },
   {
    "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Búsquedas ligadas a previsiones de tormentas y granizo; útil como estacionalidad, sin dramatizar.",
-   "idea": "Para hogar y moda: impermeables, paraguas, protectores para coche o terraza con un tono práctico ('para não apanhar uma molha')."
+   "color": "verde",
+   "por_que": "La previsión de inestabilidad y granizo genera consultas del clima.",
+   "idea": "Ajusta mensajes al clima: protección del hogar, del auto y ropa de lluvia."
+  },
+  {
+   "termino": "cristina ferreira",
+   "color": "verde",
+   "por_que": "Los programas de la presentadora en la TVI generan mucha conversación en redes.",
+   "idea": "Contenido ligero con referencias a la televisión para públicos que siguen realities."
   },
   {
    "termino": "motor elétrico",
    "color": "verde",
-   "por_que": "Interés en reparación y repuestos para coches eléctricos, un mercado en crecimiento en Portugal.",
-   "idea": "Para talleres y tiendas de repuestos: contenido explicativo sobre mantenimiento del coche eléctrico y ofertas de Black Friday en accesorios de carga."
-  },
-  {
-   "termino": "dois às 10",
-   "color": "verde",
-   "por_que": "El magacín de la mañana de TVI genera conversación por sus momentos en directo; entretenimiento de audiencia amplia, sobre todo Gen X y boomers.",
-   "idea": "Para marcas de consumo masivo: contenido reactivo ligero al estilo 'magacín' o colaboraciones con caras conocidas de la TV portuguesa."
+   "por_que": "Interés por el mantenimiento de autos eléctricos y nuevos kits de reparación.",
+   "idea": "Talleres, accesorios y seguros pueden educar sobre cuidados del eléctrico."
   }
  ],
  "ocultar": [
@@ -99,7 +99,17 @@
   "Protesto junta milhares de pessoas pelo \"direito a morar\"",
   "Manifestação pela habitação juntou milhares em Lisboa e promete subir o tom: “Isto não acabou. Queremos tudo”",
   "Lisboa e Porto voltam a ser palco de novas manifestações pela habitação",
-  "Nova onda de protestos pela habitação enche ruas de Lisboa"
+  "Nova onda de protestos pela habitação enche ruas de Lisboa",
+  "Carneiro quer ULS “despartidarizadas” e recupera ideia de Pedro Nuno Santos na habitação",
+  "José Luís Gaspar garante que sai da ULS Tâmega e Sousa se houver acusação definitiva",
+  "Acampada. Recurso do MP sobre manifestações chega ao TC",
+  "Isaltino Morais cria novo partido para travar o Chega: \"Há um espaço por preencher\"",
+  "Em vídeo nas redes sociais, vereador do Avante comenta a sentença que reconheceu fraude à cota de gênero e anulou mais de 15 mil votos do partido em Porto Velho; ele segue no cargo enquanto o TRE-RO não julgar o recurso. 👉🏻 Esse texto é uma prévi",
+  "Manifestação contra a crise na habitação junta milhares de pessoas em Lisboa, sem incidentes e com muita música",
+  "Acampada volta a montar tendas em Lisboa: desta vez nos Restauradores",
+  "Manifestantes em Lisboa contam como os preços das casas condicionam escolhas de vida",
+  "Crise da habitação levou milhares de pessoas às ruas de Lisboa",
+  "Acampada de Lisboa vai montar tendas nos Restauradores"
  ],
  "audiencias": {
   "general": {

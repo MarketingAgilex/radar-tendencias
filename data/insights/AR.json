@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El argentino vive un sábado de cultura y espectáculos: la Noche de los Museos rompe récords de convocatoria en Buenos Aires y el show de María Becerra es tema en redes. En consumo, crecen las búsquedas de regalos de Navidad anticipados, el ranking de autos híbridos más vendidos y las ventas online regionales por Black Friday. Los ganchos que funcionan son precio claro, cuotas explicadas y planes de fin de semana. Contar historias locales y con humor rioplatense conecta mejor que el descuento solo.",
+ "lectura": "El argentino mira el dólar y la inflación antes de comprar: el dólar blue y el mercado cambiario siguen entre lo más buscado, y los supermercados ya adelantan el Black Friday con rebajas y cuotas sin interés. La Noche de los Museos y el Festival Salvaje Federal llenan la agenda cultural de Buenos Aires, mientras las tormentas en el norte y la lluvia en la Capital marcan el clima. Ventas de autos híbridos y movimientos en el retail muestran un consumo selectivo. Ganan los mensajes con precio en pesos claro, cuotas sin interés y valor concreto.",
  "ideas_hoy": [
   {
-   "titulo": "Tu Noche de los Museos",
-   "idea": "Si tu marca tiene local en CABA, invita a pasar después del recorrido con un beneficio para quien muestre una foto del museo. Si no, haz un carrusel 'qué ver y dónde comer'.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Cuotas sin interés, bien explicadas",
+   "idea": "Los súper adelantan el Black Friday con hasta 18 cuotas sin interés. Si ofrecés cuotas, mostrá el valor de cada una y el total; eso decide la compra.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Look de recital",
-   "idea": "El show 360 de María Becerra está en boca de todos. Arma outfits o maquillaje inspirados en estética de recital con tus productos, sin usar su imagen.",
+   "titulo": "Precio claro con el dólar en la mira",
+   "idea": "Con el blue en boca de todos, aclarás en qué moneda cobrás y si el precio se mantiene. Un 'precio congelado hasta el viernes' genera urgencia sin humo.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Noche de los Museos",
+   "idea": "La convocatoria más grande de su historia. Cafés, librerías y gastronomía cercana pueden ofrecer un beneficio 'post museos' esa noche.",
    "formato": "Reel"
   },
   {
-   "titulo": "Regalos con tiempo",
-   "idea": "Notas de psicología dicen que quien compra regalos temprano es más organizado. Lanza un 'Navidad sin vueltas' con lista de regalos y precio final.",
+   "titulo": "Lluvia y tormentas en la agenda",
+   "idea": "Hay alertas en Salta y el norte. Tips de hogar, protectores de tensión o delivery con aviso de demoras: útil y oportuno.",
+   "formato": "Facebook"
+  },
+  {
+   "titulo": "El auto que se viene",
+   "idea": "Los híbridos ganan ventas. Accesorios, seguros y talleres pueden explicar en un video corto qué cambia al tener un híbrido.",
    "formato": "TikTok"
-  },
-  {
-   "titulo": "Híbridos y accesorios",
-   "idea": "El ranking de híbridos suaves más vendidos marca interés por eficiencia. Talleres y tiendas de accesorios pueden explicar qué cambia en mantenimiento.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Cuotas, en claro",
-   "idea": "Antes del Black Friday, explica con un ejemplo real cuánto se paga en cuotas y cuánto de contado. La transparencia vende más que el '¡imperdible!'.",
-   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Tormenta fuerte en Córdoba con calles inundadas: tema útil, pero con vecinos afectados.",
-   "idea": "Contenido de prevención y cuidado del auto o la casa; evitá el humor y las ofertas oportunistas."
-  },
-  {
-   "termino": "creamfields",
-   "color": "verde",
-   "por_que": "El festival electrónico y el debut de Kevin Di Serna generan conversación joven.",
-   "idea": "Marcas de moda, bebidas sin alcohol o audio: contenido de 'qué llevar al festival'."
-  },
-  {
-   "termino": "maria becerra",
-   "color": "verde",
-   "por_que": "Abrió una serie de diez shows en el Movistar Arena con mucha repercusión.",
-   "idea": "Looks de recital, merchandising o planes previos al show para público joven."
-  },
-  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva por lluvias y cambios de temperatura en varias provincias.",
-   "idea": "Packs de temporada para lluvia, delivery y planes bajo techo."
+   "por_que": "Lluvia débil en la Capital y consultas diarias del pronóstico.",
+   "idea": "Ajustá mensajes al clima: delivery, ropa de lluvia, planes bajo techo."
   },
   {
-   "termino": "peru",
+   "termino": "clima salta",
+   "color": "amarillo",
+   "por_que": "Alerta amarilla por tormentas en Salta.",
+   "idea": "Comunicá con empatía y avisá posibles demoras de envíos."
+  },
+  {
+   "termino": "precio dolar blue",
+   "color": "amarillo",
+   "por_que": "El dólar blue sigue siendo referencia para decidir compras.",
+   "idea": "Fintech y comercios pueden explicar precios y formas de pago; evitá especular."
+  },
+  {
+   "termino": "rodrigo de paul",
    "color": "verde",
-   "por_que": "Interés por la visita del papa León XIV a Chiclayo, con tono emotivo y cultural.",
-   "idea": "Turismo y gastronomía pueden mostrar cocina peruana o viajes al norte del Perú, con respeto."
+   "por_que": "Rodrigo de Paul y Tini Stoessel anunciaron que agrandan la familia antes de su casamiento.",
+   "idea": "Marcas de bebés, familia y regalos pueden acompañar con mensajes cálidos y sin invadir lo personal."
+  },
+  {
+   "termino": "mercado cambiario",
+   "color": "amarillo",
+   "por_que": "Jornada agitada en el mercado cambiario.",
+   "idea": "Prudencia: precios estables y mensajes de previsibilidad generan confianza."
   }
  ],
  "ocultar": [
@@ -79,7 +79,14 @@
   "Nahuel Gallo: “A veces siento que se sacaron la foto y se olvidaron de mí”",
   "\"Soy una m...\": así fueron las últimas horas de Jensen Huang como CEO de Nvidia",
   "El explosivo mensaje de La China Suárez contra Wanda Nara: \"Yo no tengo antecedentes penales y no alieno a mis hijos",
-  "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO"
+  "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO",
+  "boc",
+  "arresto",
+  "Sandra Pettovello denunció amenazas de un gremio y evalúa ir a la justicia: \"Para proteger mi integridad moral y física\"",
+  "Conflictos laborales: 953 casos y Buenos Aires a la cabeza",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
+  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
+  "La Guardia Civil desmantela una red en TikTok que captaba «mulas económicas» por 100 euros"
  ],
  "audiencias": {
   "general": {

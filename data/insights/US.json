@@ -1,59 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El estadounidense ya compra regalos: las ofertas anticipadas de Black Friday en Costco, Walmart, Best Buy y QVC dominan la conversación y los minoristas apuestan por el entretenimiento para atraer gente a la tienda física. El retraso de miles de vuelos tras la parada nacional hace que los plazos de entrega pesen más que nunca antes de Thanksgiving (26 de noviembre). GTA VI y los restocks de Switch 2 mantienen caliente al público gamer. Ganan los mensajes de 'deal real', regalo resuelto y fecha de entrega garantizada; para la audiencia hispana, el tono cercano y en español suma.",
+ "lectura": "Faltan 11 días para Thanksgiving y 12 para el Black Friday: el consumidor estadounidense ya compra ofertas anticipadas en Apple, Costco, Walmart, Best Buy y Dyson, y vuelve a las tiendas físicas y a las ferias de vendedores locales. El estreno de GTA VI (19 de noviembre) y los acuerdos de streaming mueven la conversación de entretenimiento. Las cancelaciones de vuelos tras la suspensión nacional y la nieve en el noreste afectan los planes de viaje. Ganan los mensajes de ahorro concreto, regalos fáciles y entregas a tiempo para las fiestas.",
  "ideas_hoy": [
   {
-   "titulo": "Early deal, explicado",
-   "idea": "Las ofertas empiezan antes que nunca. Publica tu 'early Black Friday' con precio anterior visible y fecha de cierre; la claridad evita la sensación de truco.",
+   "titulo": "Early Black Friday, ya",
+   "idea": "Los grandes minoristas adelantaron ofertas. Lanza tu 'early access' de 48 horas para tu lista de clientes y comunica la fecha límite de envío para Thanksgiving.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Regalos por menos de $50",
-   "idea": "Las guías de regalos bajo $50 son de lo más leído. Arma la tuya con 5 productos tuyos y etiquétala por persona (mamá, gamer, anfitrión).",
+   "titulo": "Guía de regalos por menos de 50 dólares",
+   "idea": "Las listas de regalos bajo 50 dólares son de lo más leído. Arma la tuya con tus productos y un enlace directo a cada uno.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Pide con margen",
-   "idea": "Tras el caos aéreo, recuerda con calma las fechas límite para recibir antes de Thanksgiving y Navidad. Un mensaje preventivo genera confianza, sobre todo en envíos a Latinoamérica.",
+   "titulo": "Lo hecho a mano también compite",
+   "idea": "Las ferias de vendedores locales arrancan la temporada. Cuenta la historia detrás de tu producto artesanal y ofrece envoltorio de regalo.",
    "formato": "Reel"
   },
   {
-   "titulo": "Experiencia en tienda",
-   "idea": "Los minoristas atraen con entretenimiento: haz un mini evento (degustación, taller, música) el fin de semana y grábalo para redes.",
+   "titulo": "Noche de GTA VI",
+   "idea": "El lanzamiento de GTA VI el 19 de noviembre es un evento de consumo. Snacks, accesorios gamer, audífonos o sillas pueden armar un combo 'launch night'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Setup para GTA VI",
-   "idea": "Con el lanzamiento del 19 de noviembre, muestra accesorios o snacks para la 'noche de estreno'. Formato rápido con humor gamer.",
-   "formato": "TikTok"
+   "titulo": "Envíos a casa para las fiestas",
+   "idea": "Para la comunidad latina, este es el momento de mandar regalos a la familia. Comunica fechas límite de envío a Latinoamérica antes de diciembre, con calma y claridad.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
-   "termino": "fortnite power hour today",
-   "color": "verde",
-   "por_que": "Los jugadores buscan los horarios de las 'Treasure Hours' de Fortnite; audiencia joven muy activa justo antes de Black Friday.",
-   "idea": "Gaming y tecnología: publica tus ofertas en 'horas de tesoro' con horario fijo, como en el juego, para crear urgencia divertida."
-  },
-  {
    "termino": "el niño weather",
-   "color": "verde",
-   "por_que": "Un El Niño muy fuerte anticipa un invierno distinto según la región; la gente quiere saber cómo prepararse.",
-   "idea": "Ropa de invierno, hogar y viajes: guía de 'qué esperar en tu ciudad este invierno' con tus productos como solución."
+   "color": "amarillo",
+   "por_que": "Se espera un El Niño fuerte que cambiará el clima del invierno en varias regiones.",
+   "idea": "Ropa de invierno, impermeables, hogar y viajes pueden informar 'qué esperar' con utilidad, sin alarmar."
   },
   {
    "termino": "cancer",
    "color": "amarillo",
-   "por_que": "La búsqueda se relaciona con la aprobación de un nuevo tratamiento oncológico; tema médico delicado.",
-   "idea": "Solo marcas de salud y con fuentes oficiales; para el resto, mejor no usarlo como gancho."
+   "por_que": "La aprobación de un nuevo tratamiento oncológico generó búsquedas; tema de salud sensible.",
+   "idea": "Solo para salud y seguros, con fuentes médicas y tono empático."
   },
   {
-   "termino": "billionaires",
+   "termino": "paramount",
+   "color": "verde",
+   "por_que": "Los movimientos de Paramount y Warner Bros. pueden cambiar el mapa del streaming.",
+   "idea": "Contenido sobre 'qué ver estas fiestas' y regalos de suscripción."
+  },
+  {
+   "termino": "valerie bertinelli body transformation post",
    "color": "amarillo",
-   "por_que": "La conversación gira en torno a la turbulenta semana de Nvidia y su liderazgo; hay ángulos personales que no aportan.",
-   "idea": "Tecnología y finanzas pueden hablar del impacto en el mercado de chips y gadgets, sin entrar en lo personal."
+   "por_que": "La actriz compartió su cambio físico y su bienestar; el tema del cuerpo es delicado.",
+   "idea": "Wellness puede hablar de hábitos y bienestar, nunca de 'antes y después' ni presión sobre el peso."
+  },
+  {
+   "termino": "santa cruz beach closures",
+   "color": "verde",
+   "por_que": "Olas gigantes en California atrajeron surfistas y cerraron playas y muelles.",
+   "idea": "Marcas outdoor y de surf pueden mostrar el espectáculo natural con mensajes de seguridad."
   }
  ],
  "audiencias": {
@@ -854,6 +860,21 @@
   "{{++(official^video)++Kirana viral video original Clip in Social Media x TikTok}}",
   "{{~[[Instagram viral mms]] FUN4U VIRAL VIDEO}}",
   "Astronauts including Sen. Mark Kelly celebrate the opening of L.A.'s new air and space museum with plenty of kids",
-  "Human remains found near Altadena's Eaton Fire burn scar"
+  "Human remains found near Altadena's Eaton Fire burn scar",
+  "billionaires",
+  "brad pitt",
+  "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play",
+  "Can Chris Van Hollen Really Unseat Chuck Schumer?",
+  "Pope laments violence enveloping Peru as he ministers in his former diocese",
+  "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
+  "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+  "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+  "Op-Ed | A renewed fight for New York City’s transit riders",
+  "New York City Council Speaker Julie Menin and Steven Fulop | The Point Full Episode 11.14.26",
+  "LANDLORD OF COLLAPSED BROOKLYN BUILDING WAS REPEAT ‘WORST LANDLORD’ OFFENDER",
+  "November 14, 2026: New York City Temperature at 4 PM CT Prediction Market",
+  "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
+  "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
+  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral"
  ]
 }

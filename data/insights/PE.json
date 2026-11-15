@@ -1,59 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La visita del papa León XIV concentra la atención del país hasta el lunes 16, con misas multitudinarias, metro gratuito en Lima e historias virales como la del chofer del Metropolitano. Es un momento emotivo que pide respeto: sirve para contenidos de comunidad y orgullo, no para ofertas agresivas. En paralelo, el peruano ya mira el Black Friday con cautela, busca cómo verificar descuentos reales y siente el calor en el norte. Funcionan los mensajes claros, precios sin letra chica y planes de compra con tiempo.",
+ "lectura": "La visita del papa León XIV a Lima, Chiclayo y Cusco hasta el lunes 16 domina la conversación y moviliza a miles de familias: el Metro gratuito y los cambios de atención en servicios públicos alteran la rutina en Lima. En paralelo, el consumidor se prepara para el Black Friday del 27 de noviembre, revisa si los descuentos son reales y siente la subida de tasas del BCRP en sus créditos. El calor en Lima y la alerta de El Niño costero empujan la temporada de verano. Ganan los mensajes respetuosos, de orgullo peruano y con ofertas claras.",
  "ideas_hoy": [
   {
-   "titulo": "Historias de gente buena",
-   "idea": "El chofer del Metropolitano se volvió viral por su sencillez. Cuenta la historia de un cliente o trabajador tuyo con ese mismo tono humano, sin usar la visita papal como gancho comercial.",
-   "formato": "Reel"
+   "titulo": "Orgullo peruano con respeto",
+   "idea": "La visita papal genera emoción y orgullo. Si tu marca participa, hazlo con un mensaje de bienvenida o de unión familiar, sin vender sobre el tema religioso.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "¿El descuento es real?",
-   "idea": "Enseña en 3 pasos a revisar el historial de precio antes del Black Friday. Te posiciona como marca honesta, bacán para generar confianza.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Lunes de movilidad especial",
-   "idea": "Con cambios de tránsito y atención en Lima el lunes 16, avisa tus horarios y tiempos de entrega ajustados. Información práctica que se agradece.",
+   "titulo": "Logística en días de visita",
+   "idea": "Hay cierres y cambios de horario en Lima hasta el lunes. Avisa tus horarios de entrega y atención; anticiparte evita reclamos.",
    "formato": "Facebook"
   },
   {
-   "titulo": "Calor en el norte",
-   "idea": "Las altas temperaturas en Chiclayo abren la puerta a productos de protección solar, hidratación y ventilación. Arma un kit 'verano adelantado'.",
-   "formato": "Copy para anuncio"
+   "titulo": "Descuento real, chamba bien hecha",
+   "idea": "Muchos buscan cómo saber si un descuento de Black Friday es real. Muestra el precio de tu producto en las últimas semanas y el precio final con todo incluido.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalos con anticipación",
-   "idea": "Hay notas que asocian comprar regalos temprano con ser más organizado. Úsalo con humor: '¿eres de los que compra en noviembre o en Nochebuena?'.",
+   "titulo": "Se viene el verano",
+   "idea": "El calor en Lima y el aviso de El Niño costero adelantan la temporada. Lanza tu línea de verano (protector, ropa ligera, ventiladores, bebidas) con preventa.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Cuotas con cabeza",
+   "idea": "Con la subida de tasas, comprar en cuotas pesa más. Explica de forma simple cuánto se paga al final y ofrece opciones sin intereses si las tienes.",
    "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
+   "termino": "temperatura lima",
+   "color": "verde",
+   "por_que": "Sube la temperatura en Lima y la gente consulta el clima a diario.",
+   "idea": "Productos de verano, protectores solares, bebidas y ropa ligera con mensajes de 'ya llegó el calorcito'."
+  },
+  {
    "termino": "milo j",
    "color": "verde",
-   "por_que": "El artista argentino fue uno de los nombres de los Latin Grammy y conecta con público joven.",
-   "idea": "Contenido de 'mi canción del año' o playlists de temporada para marcas de moda, audio o eventos dirigidas a Gen Z."
+   "por_que": "El artista argentino figura entre los ganadores del Latin Grammy 2026.",
+   "idea": "Contenido musical y de cultura pop para conectar con público joven."
   },
   {
    "termino": "el niño costero",
    "color": "amarillo",
-   "por_que": "Alerta climática que inquieta, pero anticipa un verano más caluroso y largo.",
-   "idea": "Contenido preventivo y útil sobre hidratación, ventilación y protección solar, sin tono alarmista."
+   "por_que": "ENFEN alerta que El Niño costero podría extenderse hasta 2027.",
+   "idea": "Informa con utilidad (prevención en casa y negocio) sin alarmar; evita tono comercial agresivo."
   },
   {
-   "termino": "camila fernández",
+   "termino": "twitch",
    "color": "verde",
-   "por_que": "Ganó su primer Latin Grammy y su historia personal generó cariño en redes.",
-   "idea": "Marcas de maternidad, belleza o música pueden hablar de logros y nuevas etapas, sin usar su imagen."
+   "por_que": "Hay expectativa por el estreno de GTA VI y promociones en plataformas de streaming.",
+   "idea": "Marcas gamer pueden aprovechar el lanzamiento con combos y lives."
   },
   {
-   "termino": "1998 ky26",
+   "termino": "paramount",
    "color": "verde",
-   "por_que": "Un objeto espacial que despierta curiosidad científica; tema ligero y conversable.",
-   "idea": "Para educación, tecnología o juguetes: un dato curioso de astronomía con una pregunta para la audiencia."
+   "por_que": "Se anunció la unión de HBO Max y Paramount+ en un paquete.",
+   "idea": "Contenido sobre maratones de fin de año y regalos de suscripción."
   }
  ],
  "ocultar": [
@@ -75,7 +81,12 @@
   "Vladimiro Montesinos estará preso hasta 2037",
   "Generación Z intentó opacar llegada del papa León XIV, pero su convocatoria terminó en fracaso",
   "Mark Vito y Leslie Echevarría son cuestionados por presuntos actos indebidos dentro de camioneta: así respondieron",
-  "¿Duermen tranquilos con sus hijos en TikTok?"
+  "¿Duermen tranquilos con sus hijos en TikTok?",
+  "juan díaz",
+  "ONPE al 100 %: lista de Renovación Popular gana la Alcaldía de Lima sobre Avanza País",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
+  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
+  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas"
  ],
  "audiencias": {
   "general": {

@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El francés llega al Black Friday con muchas ofertas de tecnología ya activas (Darty, Cdiscount, Amazon) y una fuerte sensibilidad al precio y a la vida cara. Los pequeños comercios también hacen su Black Friday y lo reacondicionado gana terreno como compra inteligente. El sábado por la noche se busca qué ver en la tele, lo que abre espacio a planes en casa. Funcionan los mensajes de ahorro real, durabilidad y compra local, con un tono sobrio y bien argumentado.",
+ "lectura": "Francia ya vive el Black Friday en tecnología: Darty y Amazon rebajan celulares, televisores, audífonos y consolas, y los reacondicionados ganan terreno entre quienes quieren gastar menos. La televisión sigue reuniendo audiencias (Star Academy, programación del sábado) y GTA VI promete mover el consumo de pantallas y mandos. Las alertas por lluvia e inundaciones en el sur y los problemas de abastecimiento de carburante en algunas estaciones afectan la rutina. Ganan los mensajes de precio claro, garantía y entrega fiable.",
  "ideas_hoy": [
   {
-   "titulo": "Reacondicionado, compra lista",
-   "idea": "El iPhone reacondicionado en promoción muestra el interés por comprar mejor y gastar menos. Explica tu garantía y estado de producto en un carrusel claro.",
+   "titulo": "Reacondicionado con garantía",
+   "idea": "El interés por celulares reacondicionados crece en Black Friday. Explica tu garantía y el estado del producto en un carrusel claro.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El Black Friday del barrio",
-   "idea": "Los pequeños comercios también rebajan: muestra tu tienda, tu equipo y una oferta concreta para quien compre en local o con recogida.",
+   "titulo": "Look Star Academy",
+   "idea": "Star Academy es lo más buscado del fin de semana. Moda y belleza pueden recrear un look del prime con productos asequibles.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Setup para GTA VI",
+   "idea": "Los medios anticipan que GTA VI impulsará la compra de pantallas y mandos. Arma un combo 'setup de estreno' con precio cerrado.",
    "formato": "Reel"
   },
   {
-   "titulo": "Plan de sábado en casa",
-   "idea": "Con tanta búsqueda de 'qué ver esta noche', propone un pack 'soirée télé' (snacks, mantas, velas) con precio cerrado.",
+   "titulo": "Box de regalo con código",
+   "idea": "Las cajas de suscripción ya lanzan códigos de Black Friday. Ofrece tu primera caja o pack de regalo con descuento y mensaje para regalar en Navidad.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Ahorro real frente a la vida cara",
-   "idea": "Calcula con un ejemplo cuánto ahorra un cliente con tu producto a lo largo del año. Argumento racional que encaja con el público francés.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Cofre de regalo para Noël",
-   "idea": "Las cajas por suscripción con descuento de Black Friday funcionan. Arma un coffret de temporada con tus productos y envío incluido.",
-   "formato": "TikTok"
+   "titulo": "Casa con encanto",
+   "idea": "Las historias de casas renovadas atraen mucho tráfico. Decoración y bricolaje pueden mostrar un 'antes y después' de un rincón con sus productos.",
+   "formato": "Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "star academy",
+   "color": "verde",
+   "por_que": "El prime de Star Academy es lo más buscado del fin de semana.",
+   "idea": "Moda, belleza y snacks: contenido ligado al programa para públicos jóvenes."
+  },
+  {
    "termino": "maison",
    "color": "verde",
-   "por_que": "Gusta la historia de una pareja que compró una casona para renovar y hoy vive de contar sus obras: la reforma del hogar como proyecto y como contenido.",
-   "idea": "Marcas de hogar, decoración y bricolaje: serie 'avant/après' con presupuesto real por etapa y el producto como parte de la obra."
+   "por_que": "Historias de compra y renovación de casas generan mucho interés.",
+   "idea": "Inmobiliarias, decoración y bricolaje: inspiración de reformas con presupuesto."
   },
   {
    "termino": "hugues aufray",
-   "color": "amarillo",
-   "por_que": "Interés por el cantante de 97 años tras el aplazamiento de varios conciertos; tema de cariño generacional, pero sensible por su edad.",
-   "idea": "Solo para marcas de música, cultura o público senior: playlist o recuerdo de canciones francesas clásicas, sin hablar de su salud."
-  },
-  {
-   "termino": "brigitte bardot",
-   "color": "amarillo",
-   "por_que": "La Madrague, su casa de Saint-Tropez, abrirá al público el próximo verano: noticia de patrimonio y turismo con mucha nostalgia.",
-   "idea": "Turismo y moda: contenido sobre el estilo Riviera de los años 60 o planes en la Costa Azul para el verano 2027, con tono respetuoso."
-  },
-  {
-   "termino": "starship spacex",
-   "color": "amarillo",
-   "por_que": "Curiosidad por las pruebas del cohete Starship; atrae al público tecnológico pero es noticia de nicho y cambiante.",
-   "idea": "Marcas de tecnología o educación: video corto '¿cómo se atrapa un cohete?' explicado en 30 segundos, sin opinar sobre empresarios."
-  },
-  {
-   "termino": "rockstar games",
    "color": "verde",
-   "por_que": "El éxito de GTA VI impulsa la compra de pantallas, mandos y consolas justo antes del Black Friday.",
-   "idea": "Tiendas de tecnología y gaming: 'el setup ideal para GTA VI según tu presupuesto' con packs de pantalla + mando + PS5."
+   "por_que": "El cantante de 97 años habla tras el aplazamiento de su gira.",
+   "idea": "Nostalgia musical para públicos mayores; tono respetuoso."
+  },
+  {
+   "termino": "programme télé ce soir",
+   "color": "verde",
+   "por_que": "Los franceses consultan la programación de televisión del sábado.",
+   "idea": "Snacks, delivery y streaming: campañas de 'noche de tele en casa'."
+  },
+  {
+   "termino": "il faut brûler maman",
+   "color": "verde",
+   "por_que": "Una película recibe excelentes críticas del público.",
+   "idea": "Cultura y entretenimiento: recomendaciones de fin de semana."
   }
  ],
  "audiencias": {
@@ -1215,6 +1215,12 @@
   "Manifestation du 14 novembre : entre 24 000 et 100 000 personnes ont manifesté à Paris, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
   "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
   "Manifestations en France : 106 000 personnes ont défilé dans le pays dont 24 00 à Paris selon les autorités",
-  "Manifestation du 14 novembre à Paris : entre 24 000 et 100 000 personnes ont défilé pour cet acte V"
+  "Manifestation du 14 novembre à Paris : entre 24 000 et 100 000 personnes ont défilé pour cet acte V",
+  "rosalie van breemen aujourd'hui",
+  "a75",
+  "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
+  "Une filiale du groupe La Poste annonce un vol de données touchant 22 millions de personnes, l’une des plus importantes cyberattaques en France",
+  "«Mamies du futur», militants des droits humains, collectifs enfantistes… A Paris, une manifestation bigarrée et une moindre affluence",
+  "Boksieri Arigon Avdimetaj, që u bë viral me nokautin brutal ndaj serbit, sonte ngjitet në ring në Gjermani"
  ]
 }

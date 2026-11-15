@@ -1,0 +1,1174 @@
+{
+ "pais": "NL",
+ "actualizado": "2026-11-15T01:30:00Z",
+ "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
+ "lectura": "Países Bajos vive el fin de semana de la llegada de Sinterklaas: las ciudades celebran su intocht, la entrada al 'Buitenhuis' del santo se agotó en minutos y el país entero busca al actor que asume ahora su papel. Eso abre oficialmente la temporada de regalos: quedan 12 días para el Black Friday del 27 de noviembre y 20 para pakjesavond, la noche de regalos del 5 de diciembre. Los medios ya comparan ofertas en Coolblue, Apple, Samsung, Nike, LEGO, consolas, audífonos y suscripciones de streaming, y hasta recuerdan cómo devolver una compra impulsiva. Al mismo tiempo, el aviso de seguridad sobre una leche UHT de supermercado y la caída del bitcoin muestran a un consumidor informado y prudente. Funcionan los mensajes directos, honestos y prácticos: precio final claro, entrega garantizada antes del 5 de diciembre, pago con iDEAL y devolución sin complicaciones.",
+ "semaforo": [
+  {
+   "termino": "gijs naber",
+   "color": "verde",
+   "por_que": "Es la búsqueda más fuerte de la semana: el actor neerlandés asume el papel de Sinterklaas en plena temporada de su llegada y el público quiere saber quién es.",
+   "idea": "Marcas de juguetes, dulces y regalos pueden subirse a la conversación con contenido sobre la tradición (cuenta regresiva a pakjesavond, ideas para el zapato), sin usar la imagen del actor ni de programas protegidos."
+  },
+  {
+   "termino": "houdbare melk lidl bacteriën",
+   "color": "amarillo",
+   "por_que": "La autoridad de seguridad alimentaria emitió un aviso sobre un lote de leche UHT de marca propia de un supermercado; los consumidores buscan si su envase está afectado.",
+   "idea": "Tiendas de alimentación y creadores de cocina pueden recordar cómo leer los avisos oficiales y revisar números de lote, con tono sobrio; nada de humor ni ofertas oportunistas."
+  },
+  {
+   "termino": "de frogers",
+   "color": "verde",
+   "por_que": "La familia del cantante René Froger, protagonista de un reality de televisión, despierta curiosidad por su gran familia ensamblada.",
+   "idea": "Marcas de hogar, juegos de mesa o comida pueden hablar de 'familias grandes en temporada de fiestas': cómo organizar regalos, sorpresas y cenas para muchos."
+  },
+  {
+   "termino": "amazon",
+   "color": "verde",
+   "por_que": "Se buscan las ofertas anticipadas de Black Friday de Amazon y otros grandes comercios.",
+   "idea": "Compara tu precio final con envío frente a los grandes y destaca la entrega antes de pakjesavond (5 de diciembre)."
+  },
+  {
+   "termino": "bitcoin koers",
+   "color": "amarillo",
+   "por_que": "El bitcoin cayó por debajo de los 70.000 dólares y los neerlandeses, muy activos en cripto, siguen la cotización con preocupación.",
+   "idea": "Fintech y creadores de finanzas personales pueden aportar educación prudente (riesgos, diversificación, presupuesto de fin de año) sin prometer rentabilidades ni dar recomendaciones de inversión."
+  }
+ ],
+ "audiencias": {
+  "general": {
+   "titulo": "Consumidor neerlandés",
+   "resumen": "Práctico, informado y muy digital: compra en Bol, Coolblue, Zalando y Albert Heijn, paga con iDEAL o divide cuentas con Tikkie, y compara precios antes de decidir. Valora la calidad por su precio, la sostenibilidad real y el servicio rápido, sobre todo en la entrega al día siguiente.",
+   "como_habla": "Directo y sin rodeos; tutea con facilidad ('je/jij') incluso en marcas. Aprecia el humor seco y la autocrítica, y desconfía de las exageraciones.",
+   "dolores": [
+    "Costo de vida y alquileres altos",
+    "Precios inflados antes de Black Friday",
+    "Entregas que no llegan a tiempo para pakjesavond o Navidad",
+    "Costos ocultos al pagar"
+   ],
+   "motivaciones": [
+    "Buena relación calidad-precio ('waar voor je geld')",
+    "Rapidez y comodidad en la entrega",
+    "Sostenibilidad comprobable",
+    "Momentos gezellig en casa y con familia"
+   ],
+   "frenos": [
+    "Mensajes exagerados o con letra pequeña",
+    "Medios de pago poco habituales (sin iDEAL)",
+    "Devoluciones complicadas o caras"
+   ],
+   "tono": "Claro, honesto, cercano y con un toque de humor seco.",
+   "evitar": [
+    "Superlativos vacíos",
+    "Presión de venta agresiva",
+    "Formalidad excesiva que suena distante"
+   ],
+   "canales": [
+    "Instagram",
+    "TikTok",
+    "YouTube",
+    "Bol y Coolblue",
+    "Email",
+    "WhatsApp"
+   ],
+   "mensajes": [
+    "'Vandaag besteld, morgen in huis.' (Pide hoy, recíbelo mañana)",
+    "'Eerlijke prijs, geen verrassingen.' (Precio justo, sin sorpresas)"
+   ]
+  },
+  "emprendedor": {
+   "titulo": "Emprendedor neerlandés (ondernemer / zzp'er)",
+   "resumen": "Países Bajos tiene una enorme comunidad de autónomos (zzp'ers) y pequeñas marcas digitales que venden por Shopify, Bol, Etsy e Instagram. Son pragmáticos, prueban rápido y piensan en Europa desde el primer día, muchas veces en inglés.",
+   "como_habla": "Informal, directo y orientado a soluciones; mezcla neerlandés con inglés de negocios ('scale-up', 'funnel', 'conversie').",
+   "dolores": [
+    "Competencia con grandes marketplaces",
+    "Costos de envío y devoluciones",
+    "Administración, impuestos y facturación",
+    "Poco tiempo para crear contenido"
+   ],
+   "motivaciones": [
+    "Crecer en Europa desde Países Bajos",
+    "Herramientas que ahorran tiempo",
+    "Comunidad y red de contactos",
+    "Productos con historia y diferenciación"
+   ],
+   "frenos": [
+    "Proveedores sin plazos claros",
+    "Soluciones complicadas o con contratos largos",
+    "Falta de información en inglés o neerlandés"
+   ],
+   "tono": "Práctico, colega a colega, con datos concretos y sin humo.",
+   "evitar": [
+    "Promesas de crecimiento fácil",
+    "Lenguaje corporativo pesado",
+    "Ignorar la opción de comunicar en inglés"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Instagram",
+    "Podcasts de emprendimiento",
+    "Comunidades y eventos de startups",
+    "Newsletter"
+   ],
+   "mensajes": [
+    "'Van idee naar eerste klant in Europa.' (De la idea al primer cliente en Europa)",
+    "'Minder gedoe, meer ondernemen.' (Menos lío, más emprender)"
+   ]
+  },
+  "pyme-comex": {
+   "titulo": "Pyme importadora / exportadora neerlandesa",
+   "resumen": "Comerciantes por tradición: Países Bajos es puerta de entrada a Europa por el puerto de Rotterdam, el aeropuerto de Schiphol y el comercio mayorista de flores, frutas, café y cacao. Las pymes buscan proveedores fiables, documentación completa y cumplimiento de normas europeas.",
+   "como_habla": "Directa, eficiente y en inglés sin problema; prefiere ir al grano ('met de deur in huis vallen') y cerrar acuerdos claros por escrito.",
+   "dolores": [
+    "Normativa europea de sostenibilidad y deforestación en la cadena de suministro",
+    "Costos logísticos y congestión portuaria",
+    "Proveedores que incumplen calidad o plazos",
+    "Escasez de personal"
+   ],
+   "motivaciones": [
+    "Diversificar proveedores",
+    "Trazabilidad y certificaciones",
+    "Relaciones de largo plazo con buenos márgenes",
+    "Ferias y redes del sector"
+   ],
+   "frenos": [
+    "Documentación incompleta",
+    "Comunicación lenta o poco clara",
+    "Cambios de precio o condiciones sin aviso"
+   ],
+   "tono": "Profesional, directo, puntual y basado en datos.",
+   "evitar": [
+    "Rodeos y textos largos sin cifras",
+    "Promesas no documentables",
+    "Insistencia comercial sin valor"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Email profesional",
+    "Ferias y asociaciones sectoriales",
+    "Cámara de comercio (KVK) y redes de exportación"
+   ],
+   "mensajes": [
+    "'Betrouwbare levering, volledige documentatie.' (Entrega fiable, documentación completa)",
+    "'Direct van de bron, traceerbaar tot de oorsprong.' (Directo del origen, trazable hasta la fuente)"
+   ]
+  },
+  "corporativo": {
+   "titulo": "Empresa / corporativo en Países Bajos",
+   "resumen": "Empresas con organizaciones planas, decisiones por consenso ('polderen') y fuerte foco en sostenibilidad, datos y bienestar laboral. Muchas sedes europeas de multinacionales trabajan en inglés.",
+   "como_habla": "Tutea con naturalidad incluso a directivos; reuniones cortas y concretas; valora la franqueza y que cada propuesta tenga argumentos.",
+   "dolores": [
+    "Presión por metas ESG y reportes",
+    "Coordinación de regalos y eventos de fin de año",
+    "Proveedores que no cumplen fechas"
+   ],
+   "motivaciones": [
+    "Proveedores fiables y transparentes",
+    "Regalos corporativos sostenibles",
+    "Eficiencia y digitalización"
+   ],
+   "frenos": [
+    "Procesos de compra lentos sin consenso interno",
+    "Propuestas sin datos de impacto",
+    "Exceso de formalidad o jerarquía"
+   ],
+   "tono": "Profesional, directo, igualitario y sin exageraciones.",
+   "evitar": [
+    "Lenguaje jerárquico",
+    "Greenwashing",
+    "Presentaciones largas sin conclusión"
+   ],
+   "canales": [
+    "LinkedIn",
+    "Email",
+    "Eventos del sector",
+    "Webinars"
+   ],
+   "mensajes": [
+    "'Duurzame relatiegeschenken, op tijd geleverd.' (Regalos corporativos sostenibles, entregados a tiempo)",
+    "'Helder, betrouwbaar, zonder gedoe.' (Claro, fiable y sin complicaciones)"
+   ]
+  },
+  "genz": {
+   "titulo": "Gen Z neerlandesa (18–28)",
+   "resumen": "Vive en TikTok, Instagram, YouTube y Snapchat; compra moda de segunda mano en Vinted, adora los intercambios de ropa y los 'dupes', y gasta en belleza, conciertos, comida y gaming. Presupuesto ajustado por alquiler y estudios, pero alta disposición a probar marcas nuevas recomendadas por creadores.",
+   "como_habla": "Mezcla neerlandés, inglés y straattaal: 'chill', 'vet', 'kapot', 'mattie', 'skeer', 'ff', 'bro'. Escribe rápido, con ironía y emojis.",
+   "dolores": [
+    "Alquiler caro y falta de vivienda",
+    "Estar 'skeer' (sin dinero) a fin de mes",
+    "Marcas que fingen ser jóvenes"
+   ],
+   "motivaciones": [
+    "Autenticidad y humor",
+    "Segunda mano y sostenibilidad",
+    "Recomendaciones de creadores",
+    "Drops y ediciones limitadas"
+   ],
+   "frenos": [
+    "Anuncios demasiado pulidos",
+    "Jerga forzada",
+    "Costos de envío altos para pedidos pequeños"
+   ],
+   "tono": "Auténtico, rápido, irónico y sin sermones.",
+   "evitar": [
+    "Usar straattaal de forma forzada",
+    "Paternalismo",
+    "Videos sin gancho en los primeros segundos"
+   ],
+   "canales": [
+    "TikTok",
+    "Instagram",
+    "Snapchat",
+    "YouTube Shorts",
+    "Twitch"
+   ],
+   "mensajes": [
+    "'Vet cadeau, chill prijs.' (Regalo genial, precio relajado)",
+    "'Ff checken? Gratis retour.' (¿Le echas un vistazo? Devolución gratis)"
+   ]
+  },
+  "millennials": {
+   "titulo": "Millennials neerlandeses (29–44)",
+   "resumen": "Profesionales, muchos con hijos pequeños, que equilibran trabajo híbrido, familia y vida social. Compran mucho online, valoran la entrega rápida y las marcas sostenibles, y planifican Sinterklaas y Navidad con antelación.",
+   "como_habla": "Directo, informal y con humor; usa 'gezellig', 'lekker', 'top' y 'zeg maar' a diario, con bastante inglés.",
+   "dolores": [
+    "Falta de tiempo",
+    "Costo de la vivienda y del cuidado infantil",
+    "Organizar regalos para niños y familia a la vez"
+   ],
+   "motivaciones": [
+    "Comodidad y ahorro de tiempo",
+    "Calidad duradera",
+    "Experiencias en familia",
+    "Marcas con valores claros"
+   ],
+   "frenos": [
+    "Entregas inciertas en temporada alta",
+    "Productos de baja calidad",
+    "Procesos de compra largos"
+   ],
+   "tono": "Cercano, práctico y con un toque de humor.",
+   "evitar": [
+    "Mensajes condescendientes",
+    "Promociones confusas",
+    "Ignorar la diversidad de familias"
+   ],
+   "canales": [
+    "Instagram",
+    "YouTube",
+    "Podcasts",
+    "Pinterest",
+    "Email"
+   ],
+   "mensajes": [
+    "'Sint en Kerst in één keer geregeld.' (Sinterklaas y Navidad resueltos de una vez)",
+    "'Lekker makkelijk, morgen in huis.' (Muy fácil, en tu casa mañana)"
+   ]
+  },
+  "genx": {
+   "titulo": "Generación X neerlandesa (45–60)",
+   "resumen": "En su mejor momento de ingresos, compra con criterio y lee reseñas. Disfruta de viajes, cocina, jardinería, ciclismo y vino; compra online sin problema pero aprecia la tienda física y el buen servicio.",
+   "como_habla": "Directo, sensato y algo escéptico; prefiere la información concreta a los adjetivos.",
+   "dolores": [
+    "Precios altos de energía y vivienda",
+    "Desconfianza ante ofertas infladas",
+    "Atención al cliente impersonal"
+   ],
+   "motivaciones": [
+    "Calidad y durabilidad",
+    "Garantía y buen servicio",
+    "Viajes y experiencias",
+    "Productos con origen claro"
+   ],
+   "frenos": [
+    "Falta de reseñas o garantías",
+    "Interfaces complicadas",
+    "Marketing infantilizado"
+   ],
+   "tono": "Informativo, honesto y respetuoso.",
+   "evitar": [
+    "Jerga juvenil",
+    "Urgencia artificial",
+    "Promesas sin pruebas"
+   ],
+   "canales": [
+    "Facebook",
+    "YouTube",
+    "Email",
+    "Sitios de reseñas y comparadores",
+    "Prensa digital"
+   ],
+   "mensajes": [
+    "'Kwaliteit die blijft.' (Calidad que dura)",
+    "'Niet goed, geld terug.' (Si no te convence, te devolvemos el dinero)"
+   ]
+  },
+  "boomers": {
+   "titulo": "Boomers neerlandeses (61+)",
+   "resumen": "Activos, con buen poder adquisitivo y mucho tiempo para los nietos, los viajes y la bicicleta eléctrica. Usan WhatsApp, Facebook e iDEAL con soltura, pero valoran la confianza, la claridad y la atención por teléfono.",
+   "como_habla": "Educado, directo y tradicional; aprecia que se le hable con respeto y sin anglicismos innecesarios.",
+   "dolores": [
+    "Miedo a fraudes en línea",
+    "Letra pequeña y procesos confusos",
+    "Envíos que no llegan"
+   ],
+   "motivaciones": [
+    "Regalos para nietos en Sinterklaas y Navidad",
+    "Seguridad y confianza",
+    "Productos útiles y de calidad"
+   ],
+   "frenos": [
+    "Pagos poco conocidos",
+    "Webs solo en inglés",
+    "Falta de contacto humano"
+   ],
+   "tono": "Respetuoso, claro, tranquilo y confiable.",
+   "evitar": [
+    "Anglicismos y jerga",
+    "Presión para decidir rápido",
+    "Tratar a la persona como poco capaz"
+   ],
+   "canales": [
+    "Facebook",
+    "WhatsApp",
+    "Email",
+    "Televisión y prensa regional"
+   ],
+   "mensajes": [
+    "'Veilig betalen met iDEAL.' (Paga seguro con iDEAL)",
+    "'Op tijd voor pakjesavond, gegarandeerd.' (A tiempo para pakjesavond, garantizado)"
+   ]
+  }
+ },
+ "psicograficos": {
+  "consciente": {
+   "como_llegarle": "Consumidores que compran segunda mano en Vinted y Marktplaats, van a intercambios de ropa y revisan certificaciones; muy presentes en ciudades como Ámsterdam, Utrecht y Róterdam.",
+   "mensaje": "'Eerlijk gemaakt, eerlijk geprijsd.' (Hecho de forma justa, con precio justo)",
+   "evitar": "Greenwashing o sellos sin respaldo; el consumidor neerlandés lo investiga y lo comenta."
+  },
+  "ofertas": {
+   "como_llegarle": "Cazadores de 'koopjes' que usan comparadores de precios, portales de ofertas y apps de supermercado; Black Friday y Cyber Monday son su temporada alta.",
+   "mensaje": "'Echte deal: eindprijs inclusief verzending.' (Oferta real: precio final con envío incluido)",
+   "evitar": "Descuentos sobre precios inflados antes de Black Friday; se detecta y se comparte rápido."
+  },
+  "aspiracional": {
+   "como_llegarle": "Público urbano que sigue diseño, moda y lifestyle; aprecia el lujo discreto y funcional más que la ostentación.",
+   "mensaje": "'Doe maar gewoon mooi.' (Simplemente bonito, sin exagerar)",
+   "evitar": "Ostentación y 'flexen' exagerado; en la cultura neerlandesa sobresalir de más se ve mal."
+  },
+  "early-adopter": {
+   "como_llegarle": "Fans de tecnología, cripto, gadgets y movilidad eléctrica que leen reseñas especializadas y compran en lanzamientos.",
+   "mensaje": "'Als eerste in huis, morgen geleverd.' (El primero en tenerlo, entregado mañana)",
+   "evitar": "Fichas técnicas incompletas o promesas sin especificaciones verificables."
+  },
+  "wellness": {
+   "como_llegarle": "Personas que cuidan sueño, movimiento y alimentación; desconfían de los suplementos promovidos por influencers sin evidencia.",
+   "mensaje": "'Zelfzorg zonder poespas.' (Autocuidado sin complicaciones)",
+   "evitar": "Afirmaciones de salud sin respaldo científico."
+  },
+  "familia": {
+   "como_llegarle": "Padres y abuelos que preparan pakjesavond del 5 de diciembre, rellenan el zapato de los niños y luego compran para Navidad.",
+   "mensaje": "'Voor in de schoen en onder de boom.' (Para el zapato y para debajo del árbol)",
+   "evitar": "Fechas de entrega dudosas en temporada alta; un regalo tarde arruina la noche."
+  },
+  "viajero": {
+   "como_llegarle": "Neerlandeses que viajan mucho, en invierno buscan sol y planifican vacaciones con antelación en agencias y plataformas online.",
+   "mensaje": "'Winterzon, zonder gedoe.' (Sol de invierno, sin complicaciones)",
+   "evitar": "Precios que cambian al final de la reserva."
+  },
+  "gamer": {
+   "como_llegarle": "Gamers que esperan Black Friday para consolas, auriculares, televisores gaming y accesorios; consumen reseñas en YouTube y Twitch.",
+   "mensaje": "'Level up voor een lagere prijs.' (Sube de nivel por menos)",
+   "evitar": "Accesorios de baja calidad o compatibilidad poco clara."
+  },
+  "diaspora": {
+   "como_llegarle": "Comunidades latinoamericanas y caribeñas en Países Bajos (estudiantes, profesionales, parejas binacionales y familias con raíces en Surinam, Aruba, Curazao, Colombia y otros países) que buscan sabores de casa y envían regalos a su familia.",
+   "mensaje": "'El sabor de casa, también en Holanda.' / 'Een stukje thuis, waar je ook bent.'",
+   "evitar": "Estereotipos o tratar el origen de las personas como tema de debate."
+  }
+ },
+ "jerga": [
+  {
+   "expresion": "Gezellig",
+   "significado": "Palabra clave de la cultura neerlandesa: describe un ambiente acogedor, agradable y de buena compañía. No tiene traducción exacta.",
+   "uso": "Todo el país, todas las edades; omnipresente en diciembre.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Een gezellige avond met vrienden en warme chocolademelk. (Una velada acogedora con amigos y chocolate caliente)",
+   "equivalentes": {
+    "CO": "qué rico ese plan / qué parche tan bueno",
+    "MX": "qué ambientazo / qué a gusto",
+    "EC": "qué chévere / qué acogedor",
+    "ES": "qué buen rollo / qué a gusto",
+    "AR": "qué lindo ambiente"
+   }
+  },
+  {
+   "expresion": "Lekker",
+   "significado": "Significa 'rico' para la comida, pero se usa para casi todo lo agradable: 'lekker weer' (buen tiempo), 'lekker slapen' (dormir bien). También como 'bien hecho'.",
+   "uso": "Uso diario en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Lekker warm deze winter. (Bien calentito este invierno)",
+   "equivalentes": {
+    "CO": "rico / delicioso",
+    "MX": "rico / sabroso",
+    "EC": "rico / bacán",
+    "ES": "rico / guay",
+    "AR": "rico / bárbaro"
+   }
+  },
+  {
+   "expresion": "Doe normaal",
+   "significado": "'Compórtate normal' o 'no exageres'. Refleja el valor cultural de no sobresalir de más; también se usa con humor ante algo sorprendente.",
+   "uso": "Todo el país; en jóvenes también como reacción de asombro.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Doe normaal, deze prijs is echt! (No exageres, ¡este precio es real!)",
+   "equivalentes": {
+    "CO": "no sea exagerado / ¡no joda!",
+    "MX": "no manches / no exageres",
+    "EC": "no seas exagerado / qué fuerte",
+    "ES": "no flipes / no te pases",
+    "AR": "no da / no exageres"
+   }
+  },
+  {
+   "expresion": "Doe maar gewoon, dan doe je al gek genoeg",
+   "significado": "Refrán muy citado: 'compórtate normal, que ya es bastante loco'. Resume la preferencia por la sencillez y la modestia.",
+   "uso": "Generaciones mayores y medias; se cita con ironía.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Geen poespas, gewoon goed: doe maar gewoon. (Sin adornos, simplemente bueno: sé normal)",
+   "equivalentes": {
+    "CO": "sea normalito, que con eso basta",
+    "MX": "tranquilo, sin presumir",
+    "EC": "sea sencillo nomás",
+    "ES": "sé normal, que ya es bastante",
+    "AR": "bajá un cambio"
+   }
+  },
+  {
+   "expresion": "Boeit me niet",
+   "significado": "'No me importa' o 'me da igual'. Algo brusco; muy usado por adolescentes.",
+   "uso": "Jóvenes y adultos en contexto informal.",
+   "registro": "informal",
+   "apto_anuncio": "no",
+   "ejemplo": "Merk? Boeit me niet, als het maar goed is. (¿Marca? Me da igual, mientras sea bueno)",
+   "equivalentes": {
+    "CO": "me da igual / me vale",
+    "MX": "me vale",
+    "EC": "me da igual",
+    "ES": "me la suda (vulgar) / me da igual",
+    "AR": "me chupa un huevo (vulgar) / me da igual"
+   }
+  },
+  {
+   "expresion": "Chill",
+   "significado": "Anglicismo para 'relajado', 'tranquilo' o 'agradable'.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Chill avondje thuis met een film. (Una noche tranquila en casa con una película)",
+   "equivalentes": {
+    "CO": "relajado / suave",
+    "MX": "tranqui / chido",
+    "EC": "relajado / tranqui",
+    "ES": "tranqui / de chill",
+    "AR": "tranqui / relajado"
+   }
+  },
+  {
+   "expresion": "Tof",
+   "significado": "'Genial', 'chévere', 'agradable'. Muy común y positivo, apto para todas las edades.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Wat een toffe cadeau-ideeën! (¡Qué ideas de regalo tan geniales!)",
+   "equivalentes": {
+    "CO": "chévere / bacano",
+    "MX": "chido / padre",
+    "EC": "chévere / bacán",
+    "ES": "guay",
+    "AR": "copado / genial"
+   }
+  },
+  {
+   "expresion": "Vet",
+   "significado": "'Genial', 'buenísimo' (literalmente 'grasa'). Más juvenil que 'tof'.",
+   "uso": "Jóvenes y adultos jóvenes.",
+   "registro": "juvenil",
+   "apto_anuncio": "si",
+   "ejemplo": "Vette sneakers voor een chille prijs. (Tenis geniales a un precio relajado)",
+   "equivalentes": {
+    "CO": "bacano / qué nota",
+    "MX": "chido / qué padre",
+    "EC": "bacán / full bueno",
+    "ES": "guay / mola",
+    "AR": "re copado / zarpado"
+   }
+  },
+  {
+   "expresion": "Kapot (como intensificador)",
+   "significado": "Literalmente 'roto', pero los jóvenes lo usan para intensificar: 'kapot lekker' (riquísimo), 'kapot duur' (carísimo).",
+   "uso": "Jóvenes, sobre todo en redes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Deze pepernoten zijn kapot lekker. (Estos pepernoten están riquísimos)",
+   "equivalentes": {
+    "CO": "demasiado / súper",
+    "MX": "bien / súper",
+    "EC": "full / súper",
+    "ES": "mazo / súper",
+    "AR": "re / mal"
+   }
+  },
+  {
+   "expresion": "Mieren",
+   "significado": "'Quejarse' o 'dar la lata' por pequeñeces; equivale a 'zeuren'.",
+   "uso": "Coloquial en todo el país, más en jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Niet mieren, de verzending is gratis. (No te quejes, el envío es gratis)",
+   "equivalentes": {
+    "CO": "cantaletear / joder",
+    "MX": "dar lata / quejarse",
+    "EC": "molestar / quejarse",
+    "ES": "dar la brasa / quejarse",
+    "AR": "hinchar / quejarse"
+   }
+  },
+  {
+   "expresion": "Ff",
+   "significado": "Abreviatura escrita de 'effe' o 'even': 'un momento', 'rapidito'. Suaviza peticiones.",
+   "uso": "Chats y redes, todas las edades por debajo de 50.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Ff kijken? Nieuwe collectie online. (¿Echas un vistazo rapidito? Nueva colección en línea)",
+   "equivalentes": {
+    "CO": "un ratico / de una",
+    "MX": "tantito / al rato",
+    "EC": "un ratito / de ley",
+    "ES": "un momento / en un plis",
+    "AR": "un toque / un ratito"
+   }
+  },
+  {
+   "expresion": "Toppie",
+   "significado": "Diminutivo cariñoso de 'top': 'perfecto', 'genial', 'excelente'.",
+   "uso": "Todas las edades; muy usado en mensajes y atención al cliente informal.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Je bestelling is onderweg. Toppie! (Tu pedido va en camino. ¡Genial!)",
+   "equivalentes": {
+    "CO": "listo / perfecto",
+    "MX": "perfecto / sale",
+    "EC": "de ley / perfecto",
+    "ES": "genial / perfecto",
+    "AR": "joya / bárbaro"
+   }
+  },
+  {
+   "expresion": "Eens",
+   "significado": "'De acuerdo'. Se usa sola para mostrar acuerdo en conversaciones y comentarios.",
+   "uso": "Todo el país, sobre todo en redes y chats.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Gratis retour moet standaard zijn. — Eens! (La devolución gratis debería ser estándar. — ¡De acuerdo!)",
+   "equivalentes": {
+    "CO": "de una / de acuerdo",
+    "MX": "de acuerdo / va",
+    "EC": "de ley / de acuerdo",
+    "ES": "de acuerdo / totalmente",
+    "AR": "de una / coincido"
+   }
+  },
+  {
+   "expresion": "Zeg maar",
+   "significado": "Muletilla que significa 'digamos' o 'o sea'; se intercala al hablar.",
+   "uso": "Muy común en habla espontánea, sobre todo en jóvenes y millennials.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Het is zeg maar een adventskalender, maar dan voor Sint. (Es, digamos, un calendario de Adviento, pero para Sinterklaas)",
+   "equivalentes": {
+    "CO": "o sea / como que",
+    "MX": "o sea / tipo",
+    "EC": "o sea / como que",
+    "ES": "o sea / en plan",
+    "AR": "tipo / digamos"
+   }
+  },
+  {
+   "expresion": "Broer / bro",
+   "significado": "'Hermano' o 'bro' para dirigirse a un amigo cercano.",
+   "uso": "Jóvenes, sobre todo en entornos urbanos.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Broer, heb je deze deal gezien? (Hermano, ¿viste esta oferta?)",
+   "equivalentes": {
+    "CO": "parce / llave",
+    "MX": "carnal / bro",
+    "EC": "pana / ñaño",
+    "ES": "tío / bro",
+    "AR": "chabón / hermano"
+   }
+  },
+  {
+   "expresion": "Mattie",
+   "significado": "'Amigo', 'colega'. Viene del sranan (Surinam) 'mati'.",
+   "uso": "Jóvenes en todo el país.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Met je matties naar het concert. (Con tus amigos al concierto)",
+   "equivalentes": {
+    "CO": "parcero / llave",
+    "MX": "compa / carnal",
+    "EC": "pana",
+    "ES": "colega / tío",
+    "AR": "amigo / chabón"
+   }
+  },
+  {
+   "expresion": "Wollah",
+   "significado": "'Lo juro', 'de verdad'. Viene del árabe y es muy común en straattaal; tiene connotación religiosa.",
+   "uso": "Jóvenes urbanos.",
+   "registro": "juvenil",
+   "apto_anuncio": "no",
+   "ejemplo": "Wollah, dit is de beste deal. (Te lo juro, esta es la mejor oferta)",
+   "equivalentes": {
+    "CO": "se lo juro",
+    "MX": "te lo juro",
+    "EC": "te juro",
+    "ES": "te lo juro",
+    "AR": "te juro"
+   }
+  },
+  {
+   "expresion": "Osso",
+   "significado": "'Casa' en straattaal, del sranan.",
+   "uso": "Jóvenes urbanos.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Vanavond chillen in mijn osso. (Esta noche relajados en mi casa)",
+   "equivalentes": {
+    "CO": "la casa / el cantón",
+    "MX": "el cantón",
+    "EC": "la casa / el depa",
+    "ES": "el keli / la casa",
+    "AR": "la casa / el depto"
+   }
+  },
+  {
+   "expresion": "Patta's",
+   "significado": "'Tenis' o 'zapatillas deportivas' en straattaal, del sranan 'pata'.",
+   "uso": "Jóvenes y cultura sneaker.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nieuwe patta's voor Black Friday? (¿Tenis nuevos para Black Friday?)",
+   "equivalentes": {
+    "CO": "tenis",
+    "MX": "tenis",
+    "EC": "zapatos deportivos / tenis",
+    "ES": "zapas / bambas",
+    "AR": "zapatillas / llantas"
+   }
+  },
+  {
+   "expresion": "Skeer",
+   "significado": "'Sin dinero', 'pelado'. Del sranan.",
+   "uso": "Jóvenes, sobre todo estudiantes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Skeer tot eind van de maand? Deze cadeaus zijn onder de tien euro. (¿Sin plata hasta fin de mes? Estos regalos cuestan menos de diez euros)",
+   "equivalentes": {
+    "CO": "pelado / sin un peso",
+    "MX": "bruja / sin lana",
+    "EC": "chiro / sin plata",
+    "ES": "pelado / sin blanca",
+    "AR": "seco / sin un mango"
+   }
+  },
+  {
+   "expresion": "Doekoe",
+   "significado": "'Dinero' en straattaal, del sranan.",
+   "uso": "Jóvenes urbanos.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Bespaar je doekoe met deze deal. (Ahorra tu dinero con esta oferta)",
+   "equivalentes": {
+    "CO": "plata / billete",
+    "MX": "lana / varo",
+    "EC": "plata / billete",
+    "ES": "pasta / pelas",
+    "AR": "guita / mango"
+   }
+  },
+  {
+   "expresion": "Flexen",
+   "significado": "'Presumir' o 'fanfarronear', del inglés 'to flex'.",
+   "uso": "Jóvenes y redes sociales.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Niet flexen, gewoon genieten. (Nada de presumir, solo disfruta)",
+   "equivalentes": {
+    "CO": "creerse / chicanear",
+    "MX": "presumir / fanfarronear",
+    "EC": "aniñarse / presumir",
+    "ES": "fardar / chulear",
+    "AR": "fanfarronear / chamuyar"
+   }
+  },
+  {
+   "expresion": "Fissa",
+   "significado": "'Fiesta', del papiamento y el sranan; muy usado por jóvenes.",
+   "uso": "Jóvenes urbanos y comunidad caribeña.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Klaar voor de kerst-fissa? (¿Listo para la fiesta de Navidad?)",
+   "equivalentes": {
+    "CO": "rumba / fiesta",
+    "MX": "peda / fiesta",
+    "EC": "farra / fiesta",
+    "ES": "fiesta / juerga",
+    "AR": "joda / fiesta"
+   }
+  },
+  {
+   "expresion": "Dushi",
+   "significado": "'Cariño', 'dulce' o 'rico', del papiamento (Aruba, Curazao, Bonaire). Muy cálido y positivo.",
+   "uso": "Comunidad caribeña y jóvenes de todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Dushi cadeautje voor je lief. (Un regalito lindo para tu amor)",
+   "equivalentes": {
+    "CO": "mi amor / qué rico",
+    "MX": "mi vida / qué rico",
+    "EC": "mi amor / qué rico",
+    "ES": "cariño / qué rico",
+    "AR": "mi amor / qué rico"
+   }
+  },
+  {
+   "expresion": "Met de deur in huis vallen",
+   "significado": "Literalmente 'caer con la puerta dentro de la casa': ir directo al grano sin preámbulos.",
+   "uso": "Todas las edades; también en el mundo profesional.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Om maar met de deur in huis te vallen: alles is 30% korting. (Para ir al grano: todo tiene 30% de descuento)",
+   "equivalentes": {
+    "CO": "ir al grano / sin rodeos",
+    "MX": "ir al grano",
+    "EC": "ir al grano / sin vueltas",
+    "ES": "ir al grano",
+    "AR": "ir al grano / sin vueltas"
+   }
+  },
+  {
+   "expresion": "Nou nou",
+   "significado": "Interjección que expresa sorpresa, ironía o ligero reproche, según la entonación.",
+   "uso": "Todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nou nou, wat een korting! (¡Vaya, vaya, qué descuento!)",
+   "equivalentes": {
+    "CO": "¡uy, juemadre! / ¡vea pues!",
+    "MX": "¡órale! / ¡ándale!",
+    "EC": "¡ve! / ¡achachay!",
+    "ES": "¡vaya, vaya!",
+    "AR": "¡mirá vos!"
+   }
+  },
+  {
+   "expresion": "Jeetje",
+   "significado": "Exclamación suave de sorpresa: '¡caramba!', '¡vaya!'.",
+   "uso": "Todas las edades; más en adultos.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Jeetje, al uitverkocht? (¡Caramba, ¿ya agotado?)",
+   "equivalentes": {
+    "CO": "¡uy! / ¡Dios mío!",
+    "MX": "¡híjole!",
+    "EC": "¡achachay! / ¡uy!",
+    "ES": "¡madre mía!",
+    "AR": "¡uh! / ¡mirá vos!"
+   }
+  },
+  {
+   "expresion": "Een tikkie sturen",
+   "significado": "'Mandar un Tikkie': enviar una solicitud de pago por la app Tikkie para dividir una cuenta. El nombre de la app se volvió verbo cotidiano.",
+   "uso": "Todas las edades por debajo de 60.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ik stuur je straks een tikkie voor het cadeau. (Luego te mando un Tikkie por el regalo)",
+   "equivalentes": {
+    "CO": "le mando el Nequi / le cobro por Daviplata",
+    "MX": "te paso mi cuenta para la transferencia",
+    "EC": "te mando la transferencia / el link de pago",
+    "ES": "te hago un Bizum",
+    "AR": "te paso el alias / te pido por Mercado Pago"
+   }
+  },
+  {
+   "expresion": "Op = op",
+   "significado": "'Agotado es agotado': cuando se acaba, no hay más. Fórmula clásica de promociones limitadas.",
+   "uso": "Comercio minorista y supermercados en todo el país.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Black Friday-deal: op = op! (Oferta de Black Friday: ¡hasta agotar existencias!)",
+   "equivalentes": {
+    "CO": "hasta agotar existencias",
+    "MX": "hasta agotar existencias",
+    "EC": "hasta agotar stock",
+    "ES": "hasta fin de existencias",
+    "AR": "hasta agotar stock"
+   }
+  },
+  {
+   "expresion": "Koopje",
+   "significado": "'Ganga' u 'oferta'. De ahí 'koopjesjager' (cazador de gangas).",
+   "uso": "Todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Wat een koopje! Nu met gratis verzending. (¡Qué ganga! Ahora con envío gratis)",
+   "equivalentes": {
+    "CO": "ganga / una ganga",
+    "MX": "ganga / oferta",
+    "EC": "ganga / oferta",
+    "ES": "chollo",
+    "AR": "ganga / oferta"
+   }
+  },
+  {
+   "expresion": "Niet goed, geld terug",
+   "significado": "'Si no te convence, te devolvemos el dinero'. Frase de garantía muy conocida en el comercio neerlandés.",
+   "uso": "Comercio minorista; todas las edades.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Probeer het 30 dagen: niet goed, geld terug. (Pruébalo 30 días: si no te convence, te devolvemos el dinero)",
+   "equivalentes": {
+    "CO": "satisfacción garantizada o le devolvemos su plata",
+    "MX": "satisfacción garantizada",
+    "EC": "si no le gusta, le devolvemos su plata",
+    "ES": "si no te gusta, te devolvemos el dinero",
+    "AR": "si no te convence, te devolvemos la plata"
+   }
+  },
+  {
+   "expresion": "Pakjesavond",
+   "significado": "'Noche de los paquetes': la víspera de Sinterklaas, el 5 de diciembre, cuando las familias intercambian regalos. Es la gran fecha de regalos del país junto a Navidad.",
+   "uso": "Todas las edades; clave en el calendario comercial.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Op tijd binnen voor pakjesavond. (Llega a tiempo para pakjesavond)",
+   "equivalentes": {
+    "CO": "la noche de los regalos (como la Nochebuena)",
+    "MX": "la noche de regalos (como Reyes)",
+    "EC": "la noche de los regalos",
+    "ES": "la noche de Reyes",
+    "AR": "la noche de los regalos (como Nochebuena)"
+   }
+  },
+  {
+   "expresion": "Surprise",
+   "significado": "En Sinterklaas, regalo envuelto de forma creativa y casera, normalmente acompañado de un poema humorístico ('gedicht') para quien lo recibe.",
+   "uso": "Familias, colegios y oficinas en noviembre y diciembre.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Hulp nodig bij je surprise? Wij hebben de materialen. (¿Necesitas ayuda con tu surprise? Tenemos los materiales)",
+   "equivalentes": {
+    "CO": "el regalo sorpresa con manualidad",
+    "MX": "el regalo sorpresa hecho a mano",
+    "EC": "el regalo sorpresa con manualidad",
+    "ES": "el regalo sorpresa (como en el amigo invisible)",
+    "AR": "el regalo sorpresa armado a mano"
+   }
+  }
+ ],
+ "creadores": {
+  "hashtags_base": [
+   "#Nederland",
+   "#Amsterdam",
+   "#Rotterdam",
+   "#Utrecht",
+   "#DenHaag",
+   "#Ondernemen",
+   "#Webshop",
+   "#Sinterklaas"
+  ],
+  "por_red": {
+   "TikTok": {
+    "formatos": [
+     "Unboxing con precio final y tiempo de entrega",
+     "Ideas para el zapato y surprises de Sinterklaas",
+     "Comparativas honestas 'dupe vs. original'",
+     "Hauls de segunda mano y de Black Friday"
+    ],
+    "ganchos": [
+     "'Is dit echt een Black Friday-deal?' (¿De verdad es una oferta de Black Friday?)",
+     "'Dit had ik eerder moeten weten…' (Esto debí saberlo antes)",
+     "'POV: je surprise is eindelijk af' (POV: tu surprise por fin está lista)"
+    ],
+    "horario": "18:00–22:00 entre semana; fines de semana desde las 10:00",
+    "hashtags": [
+     "#fyp",
+     "#voorjou",
+     "#BlackFriday",
+     "#Sinterklaas",
+     "#cadeautips"
+    ]
+   },
+   "Instagram": {
+    "formatos": [
+     "Carruseles de guías de regalo por precio",
+     "Reels de empaque y preparación de pedidos",
+     "Historias con encuestas y cuenta regresiva a pakjesavond"
+    ],
+    "ganchos": [
+     "'5 cadeaus onder de €25' (5 regalos por menos de 25 euros)",
+     "'Op tijd voor pakjesavond? Zo werkt het.' (¿A tiempo para pakjesavond? Así funciona)"
+    ],
+    "horario": "12:00–13:00 y 19:00–21:30",
+    "hashtags": [
+     "#cadeautips",
+     "#sinterklaascadeau",
+     "#blackfriday",
+     "#duurzaamshoppen",
+     "#kerstcadeau"
+    ]
+   },
+   "YouTube": {
+    "formatos": [
+     "Reseñas de tecnología y gaming antes de Black Friday",
+     "Vlogs de compras navideñas",
+     "Tutoriales DIY de surprises y decoración"
+    ],
+    "ganchos": [
+     "'Welke deals zijn het écht waard?' (¿Qué ofertas valen realmente la pena?)",
+     "'Zo maak je in 10 minuten een surprise' (Así haces una surprise en 10 minutos)"
+    ],
+    "horario": "Viernes a domingo, 17:00–21:00",
+    "hashtags": [
+     "#review",
+     "#blackfriday2026",
+     "#diy",
+     "#sinterklaas"
+    ]
+   },
+   "LinkedIn": {
+    "formatos": [
+     "Aprendizajes de temporada alta",
+     "Casos de pymes que importan o exportan vía Países Bajos",
+     "Datos de e-commerce y logística en Europa"
+    ],
+    "ganchos": [
+     "'Wat wij leerden van onze eerste Black Friday' (Lo que aprendimos de nuestro primer Black Friday)",
+     "'3 cijfers over online winkelen in december' (3 cifras sobre compras online en diciembre)"
+    ],
+    "horario": "Martes a jueves, 08:00–10:00 y 12:00–13:00",
+    "hashtags": [
+     "#ecommerce",
+     "#ondernemen",
+     "#logistiek",
+     "#mkb",
+     "#export"
+    ]
+   },
+   "Facebook": {
+    "formatos": [
+     "Publicaciones de ofertas con fecha de entrega",
+     "Grupos locales y de vecinos",
+     "Videos cortos de producto para público mayor de 45"
+    ],
+    "ganchos": [
+     "'Nog op tijd voor Sinterklaas en Kerst' (Aún a tiempo para Sinterklaas y Navidad)",
+     "'Veilig betalen met iDEAL' (Paga seguro con iDEAL)"
+    ],
+    "horario": "19:00–21:00 entre semana; domingos 10:00–12:00",
+    "hashtags": [
+     "#aanbieding",
+     "#sinterklaas",
+     "#kerst",
+     "#lokaal"
+    ]
+   },
+   "X": {
+    "formatos": [
+     "Hilos con calendario de ofertas",
+     "Respuestas rápidas en tiempo real",
+     "Avisos de servicio y de fechas límite"
+    ],
+    "ganchos": [
+     "'Draadje: alle Black Friday-data op een rij' (Hilo: todas las fechas de Black Friday)",
+     "'Laatste besteldag voor pakjesavond:' (Último día para pedir para pakjesavond:)"
+    ],
+    "horario": "07:30–09:00 y 20:00–22:00",
+    "hashtags": [
+     "#BlackFriday",
+     "#CyberMonday",
+     "#Sinterklaas"
+    ]
+   }
+  }
+ },
+ "oportunidades": [
+  {
+   "titulo": "Flores latinoamericanas vía el hub neerlandés",
+   "senal": "Países Bajos es el gran centro del comercio mundial de flores (subastas de Aalsmeer y Schiphol) y la temporada de regalos de diciembre eleva la demanda de ramos y arreglos.",
+   "desde": "CO",
+   "hacia": "NL",
+   "sector": "flores-agro",
+   "accion": "Investigar requisitos fitosanitarios y canales mayoristas, y preparar contenido de origen y trazabilidad de rosas y flores de verano para importadores neerlandeses."
+  },
+  {
+   "titulo": "Cacao fino de aroma para chocolateros",
+   "senal": "Ámsterdam y la zona del Zaan son un gran polo de procesamiento de cacao, y la temporada de pepernoten de chocolate y letras de chocolate de Sinterklaas muestra el peso del chocolate en diciembre.",
+   "desde": "EC",
+   "hacia": "NL",
+   "sector": "cafe-cacao",
+   "accion": "Presentar cacao fino de aroma con muestras, fichas técnicas y documentación de la cadena de suministro conforme a la normativa europea de deforestación."
+  },
+  {
+   "titulo": "Café de especialidad con historia de finca",
+   "senal": "Los neerlandeses están entre los mayores consumidores de café per cápita del mundo y crece la escena de tostadores y cafeterías de especialidad en las ciudades.",
+   "desde": "CO",
+   "hacia": "NL",
+   "sector": "cafe-cacao",
+   "accion": "Contenido de origen, proceso y trazabilidad para tostadores y tiendas gourmet, con certificaciones claras y muestras para catas."
+  },
+  {
+   "titulo": "Frutas tropicales por el puerto de Róterdam",
+   "senal": "Róterdam es la principal puerta de entrada de frutas y verduras frescas a Europa, desde donde se redistribuyen a otros países.",
+   "desde": "EC",
+   "hacia": "NL",
+   "sector": "alimentos",
+   "accion": "Explorar importadores y distribuidores de fruta exótica (pitahaya, maracuyá, banano orgánico) y validar certificaciones y requisitos de inocuidad antes de la temporada de invierno."
+  },
+  {
+   "titulo": "Sabores de casa para la diáspora latina y caribeña",
+   "senal": "Países Bajos tiene comunidades latinoamericanas y caribeñas activas (Surinam, Aruba, Curazao, Colombia, entre otras) y en diciembre aumenta el deseo de sabores y regalos de casa.",
+   "desde": "CO",
+   "hacia": "NL",
+   "sector": "alimentos",
+   "accion": "Validar demanda de productos típicos no perecederos con tiendas étnicas y marketplaces, revisando etiquetado en neerlandés y normas sanitarias de la UE."
+  },
+  {
+   "titulo": "Diseño sostenible neerlandés para Latinoamérica",
+   "senal": "La conversación neerlandesa sobre intercambios de ropa, segunda mano y cumpleaños sostenibles refleja marcas con propuestas de diseño y circularidad que pueden interesar a consumidores conscientes en la región.",
+   "desde": "NL",
+   "hacia": "CO",
+   "sector": "sostenibilidad",
+   "accion": "Identificar marcas neerlandesas de moda circular, hogar y movilidad con tienda online y medir interés en Colombia antes de importar."
+  }
+ ],
+ "anuncios": [
+  {
+   "busqueda": "Sinterklaas",
+   "total": 3537,
+   "anunciantes": [
+    {
+     "nombre": "De Herberg",
+     "url": "https://www.facebook.com/ads/library/?id=1817466159521688"
+    },
+    {
+     "nombre": "Herman den Blijker",
+     "url": "https://www.facebook.com/ads/library/?id=1164091552727269"
+    },
+    {
+     "nombre": "Kipdirect.nl",
+     "url": "https://www.facebook.com/ads/library/?id=1488567506669191"
+    },
+    {
+     "nombre": "PUUR GLAS",
+     "url": "https://www.facebook.com/ads/library/?id=1714239190122524"
+    },
+    {
+     "nombre": "Kraal voor Kraal",
+     "url": "https://www.facebook.com/ads/library/?id=1445703647215220"
+    }
+   ],
+   "patron": "Se mezclan Sinterklaas, Black Friday y Navidad en la misma pieza: cajas de comida para compartir en familia, regalo gratis desde cierto monto y mensajes de urgencia como 'esperar no lo hace más barato'. Mucho 'regel je cadeaus nu' (organiza tus regalos ya)."
+  },
+  {
+   "busqueda": "gratis verzending",
+   "total": 35617,
+   "anunciantes": [
+    {
+     "nombre": "Walra",
+     "url": "https://www.facebook.com/ads/library/?id=1121542267143740"
+    },
+    {
+     "nombre": "Bonus-Bikes",
+     "url": "https://www.facebook.com/ads/library/?id=1456009516737483"
+    },
+    {
+     "nombre": "Vareno Watches",
+     "url": "https://www.facebook.com/ads/library/?id=1153928727631084"
+    },
+    {
+     "nombre": "Treeholder",
+     "url": "https://www.facebook.com/ads/library/?id=1114245208271797"
+    },
+    {
+     "nombre": "Leather Design",
+     "url": "https://www.facebook.com/ads/library/?id=1770065110729524"
+    }
+   ],
+   "patron": "El envío gratis se usa como argumento junto al precio de Black Friday con antes y después ('ahora 129,95 €, antes 149,95 € + envío gratis'). Descuentos de 20% a 60% en textil del hogar, bicicletas infantiles, relojes y marroquinería."
+  }
+ ],
+ "ocultar": [
+  "jeanneau van beurden",
+  "laurens dassen",
+  "ruben brekelmans",
+  "viktor orbán",
+  "stiens",
+  "slagdijkstermolen",
+  "huis",
+  "brabants dagblad",
+  "kruispunt",
+  "kanye west",
+  "zwarte piet",
+  "Groepsapp met ruim 1000 mannen, die massaal stiekem beelden delen van vrouwen",
+  "Hongarije vindt bijna 20 miljoen euro cash in corruptieonderzoek Orbán",
+  "Man kort na aanval in Overasselt gebeld door 'Bolle Jos': 'Komt zo nieuws'",
+  "Afzender bommeldingen strijdt voor 'mannenstaat', band met Rusland onduidelijk",
+  "14/11 in Nieuwsuur: Is er toekomst voor kabinet-Jetten? • Oorlogsverleden Claus ligt toch net anders • Kritiek op thuiswerken",
+  "Kabinet wankelt terwijl Hilversum kiest: 'Misschien wel de midterms voor Den Haag'",
+  "Alaska kiest voor het eerst sinds 1998 een Democratische gouverneur",
+  "Zelensky voert kritiek op SpaceX op en noemt beperking Starshield 'politiek'",
+  "LIVE | Drie doden en meer dan dertig gewonden door Russische aanvallen op Oekraïense steden",
+  "Gewonden in Duits zwembad door storing bij Microsoft: waarschuwingsmails niet aangekomen",
+  "Meta kon ongevraagd bij foto's en video's: Italië geeft boete van 800 miljoen euro",
+  "TikTokker opgepakt nadat tijger 19-jarige doodt tijdens video",
+  "Ongeval met letsel op Haarlemmerweg in Amsterdam",
+  "Motorrijder gewond na botsing met auto op Haarlemmerweg (N200) in Amsterdam",
+  "Motorrijder en automobilist gewond bij botsing in Amsterdam"
+ ],
+ "ideas_hoy": [
+  {
+   "titulo": "Cuenta regresiva a pakjesavond",
+   "idea": "Sinterklaas ya llegó y faltan 20 días para el 5 de diciembre. Publica una cuenta regresiva con una idea de regalo por día y deja clara la última fecha de pedido para que llegue a tiempo a la noche de los paquetes.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "¿Oferta real o inflada?",
+   "idea": "Los medios neerlandeses ya publican listas de ofertas de Black Friday (27 de noviembre) y explican cómo devolver una compra impulsiva. Muestra el precio de tu producto en octubre y en Black Friday, con envío incluido y política de devolución: transparencia que el comprador neerlandés agradece.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Taller exprés de surprise",
+   "idea": "Las surprises (regalos envueltos de forma creativa con un poema) son parte central de Sinterklaas en familias, colegios y oficinas. Si vendes papelería, manualidades, dulces o pequeños regalos, enseña a armar una surprise en 10 minutos con tus productos.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Kit para noche de cine juvenil",
+   "idea": "La búsqueda de 'hunger games' crece ante el estreno de la nueva película de la saga. Arma un kit genérico de noche de película (snacks, mantas, juegos) para ver en casa o con amigos, sin usar logos ni imágenes protegidas.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Calendario de entregas de diciembre",
+   "idea": "Sinterklaas, Black Friday, Cyber Monday y Navidad se cruzan en pocas semanas. Publica en LinkedIn las fechas límite de pedido para cada fecha y cómo te preparas para la temporada alta: genera confianza en clientes y aliados.",
+   "formato": "LinkedIn"
+  }
+ ]
+}

@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El chileno se prepara para el Black Friday de fin de mes con desconfianza sana: busca cómo comprobar si un precio bajó de verdad y qué marcas participarán. La Feria del Libro de Santiago celebra 45 años y los panoramas culturales gratuitos tienen tirón este fin de semana. Los vuelos cancelados por la contingencia en EE. UU. recuerdan comunicar plazos con transparencia. Funcionan los mensajes directos, la comparación honesta de precios y el apoyo a pymes de regiones.",
+ "lectura": "El consumidor chileno ya piensa en el Black Friday de fin de mes: busca fechas, cómo comparar precios y dónde estarán las marcas con descuentos, mientras los datos del Cyber muestran un e-commerce en crecimiento. La Feria Internacional del Libro en Estación Mapocho, Creamfields y el regreso de una marca española de moda masculina marcan la agenda de ocio y retail. El tiempo cambiante, con calor y posibles lluvias y tormentas, y el bólido que iluminó el cielo generan conversación. Ganan los mensajes prácticos, con precios comparables y un tono cercano.",
  "ideas_hoy": [
   {
-   "titulo": "¿Bajó o no bajó?",
-   "idea": "Muestra el historial de precio de tus productos estrella de las últimas semanas. Responde la gran duda del Black Friday con datos, sin vueltas.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Lecturas para regalar",
-   "idea": "Aprovecha la Feria del Libro en Estación Mapocho para recomendar libros o productos para lectores (marcapáginas, lámparas, café). Ideal para librerías y tiendas de regalos.",
+   "titulo": "Black Friday sin letra chica",
+   "idea": "Los chilenos buscan cómo saber si un producto bajó de verdad. Publica tu precio histórico y el precio final con despacho incluido; es la mejor prueba de confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Panorama del finde",
-   "idea": "Recomienda 3 panoramas gratis en Santiago (concierto Cielos, feria del libro) y suma tu local o producto como parte del plan. Contenido útil y cercano, bacán para compartir.",
+   "titulo": "Lecturas para regalar",
+   "idea": "La Feria del Libro de Santiago celebra 45 años. Librerías, editoriales y papelerías pueden armar 'el regalo perfecto para el lector' con despacho antes de Navidad.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "El cielo nos sorprendió",
+   "idea": "El bólido que iluminó Chile se volvió tema. Úsalo con humor ligero ('algo brilló más que nuestras ofertas') si encaja con tu marca.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Lista de marcas del Black Friday",
-   "idea": "Publica qué categorías tendrán descuento en tu tienda y desde cuándo. Ordena la intención de compra antes del evento.",
-   "formato": "Copy para anuncio"
+   "titulo": "Clima loco, clóset preparado",
+   "idea": "Calor un día y lluvia al siguiente. Muestra un 'outfit para clima bipolar' o productos de temporada con despacho rápido.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Plazos honestos",
-   "idea": "Tras las cancelaciones de vuelos desde EE. UU., explica con calma cómo pueden variar las entregas de productos importados y sugiere pedir con tiempo para Navidad.",
-   "formato": "LinkedIn"
+   "titulo": "Ventas en TikTok para el Black Friday",
+   "idea": "Los expertos recomiendan lives y demostraciones. Programa un live corto con tres productos y un código exclusivo para quienes se conecten.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
+   "termino": "bólido",
+   "color": "verde",
+   "por_que": "Un bólido iluminó el cielo de la zona centro-sur y se viralizó en video.",
+   "idea": "Contenido curioso y ligero; marcas de ciencia, educación o tecnología pueden explicar el fenómeno."
+  },
+  {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Lluvias y bajas temperaturas en el centro-sur durante el fin de semana.",
-   "idea": "Panoramas bajo techo, delivery y packs de abrigo ligero o hogar."
+   "por_que": "El fin de semana trae cambios de temperatura y posibles lluvias.",
+   "idea": "Ropa, hogar y delivery pueden ajustar mensajes al clima del día."
   },
   {
-   "termino": "inessa sorokina",
-   "color": "amarillo",
-   "por_que": "Farándula televisiva que atrae atención, pero gira en torno a una supuesta infidelidad.",
-   "idea": "Habla solo de formatos de TV o entretenimiento, sin opinar sobre su vida privada."
-  },
-  {
-   "termino": "mauricio pinilla",
-   "color": "rojo",
-   "por_que": "Conversación de escándalo personal; asociarse puede dañar la reputación de la marca.",
-   "idea": "Evítalo. Mejor apuesta por entretenimiento positivo, como música o panoramas."
-  },
-  {
-   "termino": "papa leon",
-   "color": "amarillo",
-   "por_que": "La visita del papa al Perú genera emoción, pero parte de la conversación toca temas delicados.",
-   "idea": "Si tu marca es de turismo o cultura, menciónalo con sobriedad y sin usarlo como gancho de ventas."
-  },
-  {
-   "termino": "supermercado",
+   "termino": "china",
    "color": "verde",
-   "por_que": "Interés por comparar precios de supermercado entre Chile y otros países.",
-   "idea": "Comparativas honestas de canasta o de tu categoría, mostrando qué incluye tu precio."
+   "por_que": "Se habla de cómo la IA ayuda a vender en grandes fechas como el 11.11 chino.",
+   "idea": "Emprendedores pueden aprender de esas tácticas para preparar su Black Friday."
+  },
+  {
+   "termino": "twitch",
+   "color": "verde",
+   "por_que": "Hay expectativa por GTA VI y promociones ligadas al streaming.",
+   "idea": "Combos gamer y colaboraciones con streamers locales."
+  },
+  {
+   "termino": "creamfields",
+   "color": "verde",
+   "por_que": "El festival Creamfields movilizó a miles de asistentes en Santiago.",
+   "idea": "Moda, belleza y bebidas pueden usar la estética de festival en su contenido."
   }
  ],
  "ocultar": [
@@ -88,7 +88,21 @@
   "¿Duermen tranquilos con sus hijos en TikTok?",
   "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
   "Vídeo | ¿Se ha agotado la confianza de la Gen Z europea en los Gobiernos?",
-  "Corte de Santiago ordena tramitar recurso de Mowi Chile contra rechazo de prórroga de concesión acuícola"
+  "Corte de Santiago ordena tramitar recurso de Mowi Chile contra rechazo de prórroga de concesión acuícola",
+  "cámara baja",
+  "justicia",
+  "afp uno",
+  "Núñez (RN) fija plazo para tramitar acuerdo por rebaja de combustibles y pide aprobarlo antes de discutir más medidas",
+  "Tensión en la Cámara Baja: PS emplaza a Kast a condenar las \"provocaciones\" del Partido Republicano",
+  "Hallan cuerpo en el Parque Municipal de Maipú en medio de búsqueda del joven Benjamín Galdámez",
+  "Mirosevic anuncia que recurrirá al Consejo para la Transparencia por reserva de decretos sobre rebajas de condenas",
+  "Senapred decreta alerta roja en siete comunas de la región de Coquimbo por emergencia hidrológica",
+  "Movilh cifra en 80 mil asistentes a Santiago Parade y anuncia posible demanda internacional por multa",
+  "Autorizan extradición a EE.UU. de los dos chilenos acusados de robar al esposo de Taylor Swift",
+  "Empleo público, seis reformas para superar un modelo agotado",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
+  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
+  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas"
  ],
  "audiencias": {
   "general": {

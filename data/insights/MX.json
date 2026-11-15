@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin está en pleno fin de semana largo y el consumidor mexicano compara precios con lupa: Profeco publica rangos de pantallas, lavadoras y refrigeradores, y crece la pregunta de si conviene comprar en línea o en tienda. Los adultos mayores buscan cómo combinar INAPAM con las promociones y el frío llega a CDMX con temperaturas de hasta 1 °C. También interesan la Switch 2, las laptops calidad-precio y los viajes con descuento. Funcionan los mensajes de precio final, meses sin intereses explicados y entrega garantizada.",
+ "lectura": "El Buen Fin está en su punto alto y el puente por el Día de la Revolución (lunes 16) da un día extra para comprar: el consumidor compara precios, consulta a Profeco y prefiere comprar informado. Pantallas, celulares, consolas, viajes y boletos de conciertos lideran el interés, y los adultos mayores con INAPAM buscan sus descuentos. El frío en la CDMX y los tianguis navideños anuncian la temporada decembrina. Ganan los mensajes con precio final claro, pagos seguros y garantía de entrega.",
  "ideas_hoy": [
   {
-   "titulo": "Precio de antes vs. precio de hoy",
-   "idea": "Profeco está vigilando: muestra con captura el precio de hace un mes y el del Buen Fin. Esa transparencia es tu mejor argumento frente al 'ya lo subieron para bajarlo'.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "¿Línea o tienda?",
-   "idea": "Responde la duda del momento con una tabla sencilla: tiempos de entrega, devoluciones y formas de pago en tu tienda en línea y física. Ayuda a decidir y te posiciona como confiable.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Kit para el frío",
-   "idea": "Con heladas en el Ajusco y lluvias en varias zonas, empaqueta productos de invierno (cobijas, termos, chamarras) como 'kit del puente' con un precio redondo.",
+   "titulo": "Último jalón del Buen Fin",
+   "idea": "Quedan pocas horas de Buen Fin y el lunes es feriado: lanza una oferta 'solo hasta el lunes' con precio final visible. La urgencia real convierte.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Buen Fin para los abuelos",
-   "idea": "Explica paso a paso cómo usar la credencial INAPAM junto con tus promociones. Contenido útil que los hijos comparten en WhatsApp con sus papás.",
+   "titulo": "Compra segura, cero sustos",
+   "idea": "Hay muchas alertas de fraudes digitales en estas fechas. Muestra en un carrusel cómo pagar seguro contigo y cómo reconocer tu tienda oficial; eso genera confianza.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Precio antes y ahora",
+   "idea": "Profeco invita a comparar precios mínimos y máximos. Publica el historial real de precio de tu producto estrella para demostrar que tu descuento es de a de veras.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Descuentos para los abuelos",
+   "idea": "Los adultos mayores con INAPAM buscan beneficios en el Buen Fin. Si aplica, comunica tu descuento con letra grande y lenguaje claro, pensando también en hijos que compran por ellos.",
    "formato": "Facebook"
   },
   {
-   "titulo": "Gaming de temporada",
-   "idea": "La Switch 2 aparece entre lo más buscado del Buen Fin. Si vendes accesorios, juegos o fundas, arma un 'combo gamer' y muéstralo en un unboxing rápido, ¡está padrísimo para regalo!",
-   "formato": "TikTok"
+   "titulo": "Kit contra el frío",
+   "idea": "Hay alerta por frío en la CDMX. Arma un 'kit para el frío' (cobijas, ropa térmica, bebidas calientes) y empuja la venta con entrega rápida.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "pterodáctilo en ciudad juárez",
-   "color": "verde",
-   "por_que": "Un video viral de una supuesta criatura alada sobre Ciudad Juárez desató memes y teorías; es humor ligero.",
-   "idea": "Súmate con humor: 'lo que de verdad voló este Buen Fin fueron nuestras ofertas', con foto o video de tu producto."
-  },
-  {
-   "termino": "festival del globo",
-   "color": "verde",
-   "por_que": "Despegaron unos 200 globos en León durante el puente; es plan familiar, visual y muy compartible.",
-   "idea": "Turismo, moda y fotografía: contenido de 'qué llevar al Festival del Globo' o un sorteo de productos para la temporada de frío."
-  },
-  {
    "termino": "inapam",
    "color": "verde",
-   "por_que": "Los adultos mayores buscan el pago de diciembre y si su tarjeta INAPAM se suma a las promociones del Buen Fin.",
-   "idea": "Si aceptas INAPAM, dilo claro: una pieza con letra grande que explique tu descuento y cómo se combina con el Buen Fin."
+   "por_que": "Los adultos mayores buscan pagos y descuentos con su credencial, en pleno Buen Fin.",
+   "idea": "Comercios pueden comunicar descuentos para adultos mayores con mensajes claros y respetuosos."
+  },
+  {
+   "termino": "ticketmaster",
+   "color": "verde",
+   "por_que": "El Buen Fin llegó a la venta de boletos con descuentos en conciertos y espectáculos.",
+   "idea": "Regalar experiencias: kits para conciertos, transporte o cenas antes del show."
+  },
+  {
+   "termino": "mexico va",
+   "color": "amarillo",
+   "por_que": "Circulan rumores de un apagón el 17 de noviembre; los medios aclaran qué es cierto.",
+   "idea": "Evita alimentar el rumor; marcas de energía o tecnología pueden informar con datos verificados."
   },
   {
    "termino": "karol g",
    "color": "verde",
-   "por_que": "Sus looks en la alfombra de los Latin Grammy 2026 dan conversación de moda y belleza.",
-   "idea": "Moda y belleza: 'recrea el look' con tus productos y precio final visible, en formato antes y después."
+   "por_que": "La alfombra roja del Latin Grammy 2026 puso a artistas latinas en la conversación de moda.",
+   "idea": "Moda y belleza: recrea looks inspirados en la gala con productos accesibles."
   },
   {
    "termino": "votaciones la granja vip votar",
-   "color": "amarillo",
-   "por_que": "El reality tiene audiencia fiel y votaciones activas, pero polariza a los fans.",
-   "idea": "Usa la mecánica de votación en historias para que tus seguidores elijan el producto de la semana, sin tomar partido por participantes."
+   "color": "verde",
+   "por_que": "El reality La Granja VIP mantiene a la audiencia votando y comentando cada semana.",
+   "idea": "Contenido ligero con referencias al reality y dinámicas de participación con tu marca."
   }
  ],
  "audiencias": {
@@ -1006,6 +1006,14 @@
   "Cae en Guadalajara el “Raptor”, presunto líder regional del CJNG en Colima y Jalisco",
   "Con baja oxigenación, Félix Gallardo fue llevado de Puente Grande a un hospital privado",
   "Detienen en Guadalajara al “Raptor” líder operativo en Colima y Jalisco",
-  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara"
+  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
+  "Los cadáveres que Morena no quiere ver, escribe Azucena Uresti",
+  "Enfrentamiento entre grandes potencias redefine la lógica de la economía mundial",
+  "Afirman legisladores que en la CDMX se garantiza el derecho al deporte",
+  "Marchas CDMX EN VIVO sábado 14 de noviembre: rutas y cierres",
+  "Centro Histórico de CDMX reporta más de 21 mil acciones en seguridad, mantenimiento y cultura",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
+  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
+  "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas"
  ]
 }

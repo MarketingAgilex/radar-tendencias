@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-14T21:00:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A trece días del Black Friday del 27 de noviembre, el consumidor alemán ya está comparando: los medios publican calendarios de la Black Week y ofertas anticipadas en televisores, Apple, consolas, LEGO, iluminación inteligente y electrodomésticos de cocina. La serie 'Ringe der Macht' y la programación del sábado por la noche muestran un público que consume entretenimiento en casa, mientras las llamadas a revisión de autos recuerdan lo mucho que valora la seguridad y la información transparente. Con el primer domingo de Adviento el 29 de noviembre y los Weihnachtsmärkte abriendo esa semana, funcionan los mensajes de calidad comprobable, precio final claro, devolución sencilla y entrega garantizada antes de Navidad.",
+ "lectura": "El consumidor alemán compara antes de la Black Week: abundan las ofertas anticipadas en televisores, Nintendo Switch 2, Philips Hue, KitchenAid y LEGO, mientras la UE prepara reglas contra la presión en compras en línea. La primera camiseta de la selección alemana fabricada por Nike se filtró y despierta interés de compra, y el retiro de autos del grupo VW también se sigue de cerca. La televisión del sábado y los programas de emprendedores como Riverboat o Schlag den Star mantienen audiencia. Ganan los mensajes con precio final claro, sin trucos y con entrega fiable.",
  "semaforo": [
-  {
-   "termino": "rückrufaktion",
-   "color": "amarillo",
-   "por_que": "Los conductores buscan si su auto está afectado por las llamadas a revisión de varios modelos del grupo Volkswagen; es un tema de seguridad que genera preocupación.",
-   "idea": "Talleres y tiendas de accesorios pueden publicar una guía útil y sobria para comprobar si el vehículo está afectado y cómo pedir cita; nada de humor ni ofertas oportunistas."
-  },
-  {
-   "termino": "ringe der macht",
-   "color": "verde",
-   "por_que": "Se estrenó la tercera temporada de la serie fantástica de Amazon y la conversación mezcla entusiasmo y críticas de los fans.",
-   "idea": "Tiendas de libros, juegos de mesa, decoración o snacks pueden proponer una 'noche de maratón fantástica' con productos temáticos genéricos, sin usar logos ni imágenes protegidas."
-  },
   {
    "termino": "tv programm heute",
    "color": "verde",
-   "por_que": "Búsqueda clásica del sábado: millones de alemanes revisan qué hay en la tele a las 20:15, la hora tradicional del prime time.",
-   "idea": "Publica contenido de 'segunda pantalla' para el sofá: un plan de noche en casa con mantas, té, snacks o gadgets, programado entre las 19:30 y las 20:15."
+   "por_que": "Los alemanes consultan la programación del sábado por la noche.",
+   "idea": "Snacks, delivery y streaming: campañas de 'noche de tele'."
+  },
+  {
+   "termino": "trikot",
+   "color": "verde",
+   "por_que": "Se filtró la primera camiseta de la selección alemana fabricada por Nike.",
+   "idea": "Marcas de deporte y merch: listas de espera, personalización y regalos para fans."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Los gamers alemanes buscan el mejor precio de la consola antes de Navidad; las tiendas ya anuncian paquetes con juegos y accesorios.",
-   "idea": "Vende accesorios, fundas o juegos complementarios con una comparativa honesta de precio total y una fecha clara de entrega antes del 24 de diciembre."
+   "por_que": "La Switch 2 con Mario Kart World aparece entre las mejores ofertas anticipadas.",
+   "idea": "Tiendas gamer: combos y accesorios para regalar en Navidad."
   },
   {
-   "termino": "monaco franze schauspieler",
+   "termino": "rückrufaktion",
    "color": "amarillo",
-   "por_que": "La televisión bávara repone la serie de culto de los años 80 y el público busca a su reparto; parte de la cobertura recuerda a actores ya fallecidos.",
-   "idea": "Marcas con estética retro o productos de Baviera pueden apelar a la nostalgia ochentera con respeto, sin bromas sobre el reparto."
+   "por_que": "El grupo VW llama a revisión a 4,6 millones de autos por un problema de dirección.",
+   "idea": "Talleres y seguros pueden informar con claridad; evita burlas o alarmismo."
+  },
+  {
+   "termino": "ralf dümmel",
+   "color": "verde",
+   "por_que": "El inversor de televisión habló de productos cotidianos que más venden.",
+   "idea": "Emprendedores: contenido sobre productos simples con alta rotación."
   }
  ],
  "audiencias": {
@@ -1114,7 +1114,46 @@
    "accion": "Inspirarse en el enfoque alemán de ingredientes naturales y transparencia para crear o importar líneas premium de cuidado de mascotas."
   }
  ],
- "anuncios": [],
+ "anuncios": [
+  {
+   "busqueda": "Black Friday",
+   "total": 159488,
+   "anunciantes": [
+    {
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=3664180057071174"
+    }
+   ],
+   "patron": "Volumen enorme de anuncios activos; los primeros resultados los domina una sola marca outdoor con decenas de variantes del mismo mensaje ('Black Friday empieza ya: hasta 62% de descuento'). Señal de que la Black Week arrancó semanas antes del 27 y de que se prueban muchas creatividades con un solo titular."
+  },
+  {
+   "busqueda": "Weihnachtsgeschenk",
+   "total": 10124,
+   "anunciantes": [
+    {
+     "nombre": "Mein Babykissen",
+     "url": "https://www.facebook.com/ads/library/?id=1471484395046315"
+    },
+    {
+     "nombre": "Librio",
+     "url": "https://www.facebook.com/ads/library/?id=1847713792914425"
+    },
+    {
+     "nombre": "Evergrate.de",
+     "url": "https://www.facebook.com/ads/library/?id=1101488845982637"
+    },
+    {
+     "nombre": "Peters-Reisen",
+     "url": "https://www.facebook.com/ads/library/?id=1140965578421799"
+    },
+    {
+     "nombre": "Preisners",
+     "url": "https://www.facebook.com/ads/library/?id=1795289761682706"
+    }
+   ],
+   "patron": "Predominan regalos personalizados (libros con el nombre del niño, cojines de bebé), experiencias (viajes, cervecería) y regalos 'para el que cocina'. Se mezcla Navidad con precio Black Friday ('regalo de Navidad a precio de Black Friday')."
+  }
+ ],
  "ocultar": [
   "flugunfall",
   "österreich",
@@ -1165,32 +1204,43 @@
   "Gegen Teuerung, für Bildung und Kinderschutz: Frankreich erlebt erneuten Protestsamstag",
   "Erste Gedenken – dann Kaffee und Kuchen",
   "Luxus für alle: Warum ausgerechnet die KI den Kommunismus bringen könnte",
-  "Was gegen die Überlastung der Sozialgerichte durch KI hilft"
+  "Was gegen die Überlastung der Sozialgerichte durch KI hilft",
+  "die friesenjunkies",
+  "b173",
+  "friesland krimi bestatter habedank",
+  "friesland friesische verhältnisse",
+  "Ex-Bundesarbeitsminister: Hubertus Heil will für SPD-Vorsitz kandidieren",
+  "Masern-Ausbruch in den USA: Historische Welle und Todesfälle bringen Kennedy unter Druck",
+  "Mecklenburg-Vorpommern: SPD, Linke und Grüne einigen sich auf Koalitionsvertrag",
+  "Bremen: Nach muslimischer Kritik – Verfassungsschutz beendet Kampagne gegen Islamismus",
+  "Haushalt: Ökonomen warnen vor schwerer Krise ab 2028",
+  "SPD-Parteivorsitz: SPD-Arbeitsgruppen wollen Wiederwahl von Klingbeil offenbar verhindern",
+  "Demonstrationen: Hunderte ziehen bei Gen-Z-Demo durch Berlin - 22 Festnahmen"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Tu calendario de la Black Week",
-   "idea": "Los medios alemanes ya publican todas las fechas del Black Friday 2026 (27 de noviembre) y del Cyber Monday (30 de noviembre). Publica tu propio calendario con qué productos tendrán descuento cada día y el precio final con envío incluido, para que el comprador alemán planifique sin sorpresas.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Black Week sin presión",
+   "idea": "La UE planea frenar las tácticas de presión en compras en línea. Haz lo contrario: cuenta regresiva honesta, sin falsas escaseces, y precio final con envío.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Calendario de Adviento propio",
-   "idea": "El primer domingo de Adviento es el 29 de noviembre y los Weihnachtsmärkte abren esa misma semana. Lanza un 'Adventskalender' con 24 pequeñas sorpresas, descuentos diarios o contenidos útiles y muéstralo armándose en video.",
+   "titulo": "La nueva camiseta",
+   "idea": "La primera camiseta Nike de la selección se filtró y genera expectativa. Merch, personalización y accesorios para fans pueden abrir lista de espera.",
    "formato": "Reel"
   },
   {
-   "titulo": "Relleno para la bota de Nikolaus",
-   "idea": "El 6 de diciembre los niños alemanes dejan sus botas en la puerta para recibir dulces y pequeños regalos. Propón una selección de detalles por menos de 10 euros con fecha límite de pedido para que lleguen a tiempo.",
+   "titulo": "Switch 2 en Navidad",
+   "idea": "Las ofertas de Switch 2 con Mario Kart World encabezan las búsquedas. Accesorios, fundas y juegos en combo para regalar.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Noche de maratón fantástica",
-   "idea": "La tercera temporada de 'Ringe der Macht' es tendencia en Alemania. Si vendes snacks, té, mantas, juegos de mesa o decoración, arma un 'kit para maratón de fantasía' con productos genéricos y sin usar marcas ni imágenes de la serie.",
-   "formato": "Reel"
+   "titulo": "Hogar inteligente, invierno cálido",
+   "idea": "Los descuentos en iluminación inteligente arrancan antes. Muestra un 'ambiente de Adviento' en casa con tus productos.",
+   "formato": "Instagram"
   },
   {
-   "titulo": "Fechas límite de envío para Navidad",
-   "idea": "La suspensión temporal de vuelos en EE. UU. retrasó conexiones desde Alemania y recordó que en temporada alta cualquier imprevisto pesa. Publica con claridad las fechas límite para recibir pedidos antes del 24 de diciembre y explica cómo planificas tus envíos.",
+   "titulo": "Lecciones de los programas de emprendedores",
+   "idea": "Ralf Dümmel y Frank Thelen están en televisión. Comparte en LinkedIn tres lecciones de producto o pitch aplicables a pymes.",
    "formato": "LinkedIn"
   }
  ]

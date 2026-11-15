@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor británico entra en modo Navidad: campañas para comprar 'un regalo más' en el comercio local, desfiles navideños y conciertos agotados conviven con ofertas de Black Friday en Dyson, Garmin y tecnología. Las alertas por frío del domingo empujan productos de abrigo y calefacción, y Strictly Come Dancing domina la conversación del sábado por la noche. La inflación sigue pesando, así que se premian el valor real y el precio estable. Funcionan los mensajes con humor británico ligero, regalos útiles y fechas de envío claras.",
+ "lectura": "El británico entra en la recta final antes del Black Friday con ofertas anticipadas en Dyson, Garmin y Apple, mientras las campañas de 'compra local' animan a regalar a comercios de barrio. Las alertas por frío, heladas y niebla mantienen el clima como tema diario, y el entretenimiento manda: Strictly Come Dancing, el estreno de GTA VI y los cambios en realities de ITV. El Banco de Inglaterra anticipa posibles subidas de tipos, así que el comprador cuida su presupuesto. Ganan los mensajes con valor claro, regalos útiles y entregas fiables.",
  "ideas_hoy": [
   {
-   "titulo": "One more gift, local",
-   "idea": "Súmate a la idea de comprar un regalo más en el comercio local: muestra a quién apoyas cuando te compran y ofrece envoltorio gratis.",
+   "titulo": "Un regalo más, local",
+   "idea": "Las campañas 'One More Gift' piden comprar un regalo extra en el comercio local. Súmate con un mensaje de cercanía y envoltorio gratis.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit para la alerta de frío",
-   "idea": "Con avisos de frío para el domingo, agrupa productos de abrigo o ahorro energético en un pack bajo 20 libras.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Noche de Strictly",
-   "idea": "Strictly es el plan del sábado: crea contenido de 'snacks, look o decoración para ver Strictly' con tus productos, sin usar imágenes del programa.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Deal sin trampa",
-   "idea": "Frente a la avalancha de ofertas en tecnología, publica una comparación honesta de tu precio habitual y el de Black Friday.",
+   "titulo": "Kit para la ola de frío",
+   "idea": "Hay alertas por frío y heladas. Arma un combo 'stay cosy' (mantas, ropa térmica, bebidas calientes) con envío al día siguiente.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Juego completo, sin sorpresas",
-   "idea": "Tras las quejas por cajas de GTA 6 sin código, recuerda que tus productos llegan completos y con soporte posventa claro.",
-   "formato": "X"
+   "titulo": "Brillo de Strictly",
+   "idea": "Strictly Come Dancing arrasa cada sábado. Moda, belleza y uñas pueden recrear un look de la semana con productos accesibles.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Launch night de GTA VI",
+   "idea": "Muchos buscan el mapa y la edición física de GTA VI. Accesorios, snacks y auriculares en un combo para la noche de estreno del 19 de noviembre.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Presupuesto con cabeza",
+   "idea": "Con posibles subidas de tipos, el comprador quiere valor. Compara tu producto 'coste por uso' frente a alternativas más baratas.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "ana de armas",
+   "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Su primera alfombra roja junto a Beto Montenegro en los Latin Grammy genera conversación de moda.",
-   "idea": "Para moda y belleza: 'get the look' de gala con tus productos y precio por pieza."
+   "por_que": "Los británicos consultan el pronóstico a diario con la llegada del frío.",
+   "idea": "Ajusta mensajes al clima del día: abrigo, hogar y planes bajo techo."
+  },
+  {
+   "termino": "strictly come dancing 2026",
+   "color": "verde",
+   "por_que": "Strictly Come Dancing está en su octava semana con gran audiencia.",
+   "idea": "Moda, belleza y fiestas: contenido de looks y bailes en tendencia."
+  },
+  {
+   "termino": "aljaz strictly",
+   "color": "verde",
+   "por_que": "Cambios de pareja de último minuto generan conversación entre los fans del programa.",
+   "idea": "Contenido ligero con referencias al show para públicos que lo siguen."
   },
   {
    "termino": "gta vi map",
    "color": "verde",
-   "por_que": "El lanzamiento de GTA VI concentra búsquedas; su edición física sin disco también da que hablar.",
-   "idea": "Tiendas de tecnología: explica qué incluye cada edición y arma packs de accesorios como regalo de Navidad."
+   "por_que": "La expectativa por GTA VI hace que se busque su mapa y su edición física.",
+   "idea": "Tecnología y gaming: guías, accesorios y combos de lanzamiento."
   },
   {
    "termino": "snow forecast",
-   "color": "verde",
-   "por_que": "Heladas, niebla y alertas por frío: el invierno dispara compras de abrigo, calefacción y hogar.",
-   "idea": "Contenido 'kit de invierno' con abrigos, mantas y termos, y fechas de entrega claras."
-  },
-  {
-   "termino": "the hunger games: sunrise on the reaping",
-   "color": "verde",
-   "por_que": "El estreno de la nueva película de la saga llena la conversación de cine y moda de alfombra roja.",
-   "idea": "Plan 'noche de estreno': snacks, mantas o looks inspirados en la premiere; regalos para fans."
-  },
-  {
-   "termino": "andy serkis",
-   "color": "verde",
-   "por_que": "El rodaje de 'The Hunt for Gollum' con Elijah Wood de nuevo como Frodo despierta nostalgia por la saga.",
-   "idea": "Contenido de nostalgia y regalos para fans de El Señor de los Anillos: libros, juegos de mesa, decoración."
+   "color": "amarillo",
+   "por_que": "Previsión de heladas y niebla con alertas sanitarias por frío.",
+   "idea": "Avisa posibles retrasos de envío y ofrece productos de invierno con tono útil."
   }
  ],
  "audiencias": {
@@ -1104,6 +1104,14 @@
   "{{~[[Instagram viral mms]] FUN4U VIRAL VIDEO}}",
   "{{++(official^video)++Kirana viral video original Clip in Social Media x TikTok}}",
   "{{++[Original^video#] Hansika Motwani's viral video trending on social media}}",
-  "Two children, 6 and 7, rescued from squalid London flat could only say ‘iPad’"
+  "Two children, 6 and 7, rescued from squalid London flat could only say ‘iPad’",
+  "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+  "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+  "Alleged Russell Brand rape victim wants age of consent law changed",
+  "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+  "Building fire forces closure of major south London road",
+  "++ORIGINAL+CLIP+XXX+!!Sofik Viral Video Bangla MMS , Tiktok Star Sofik Sonali Viral Video Instagram 737332258",
+  "Aryna Sabalenka Apologizes After Viral Video of Comments Toward Fans During Loss to Elina Svitolina",
+  "“My comment was not directed at Elina”: Sabalenka apologises after her anti-Ukrainian outburst during the Svitolina match goes viral"
  ]
 }

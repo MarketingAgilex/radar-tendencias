@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor español afronta el Black Friday con ganas pero con el bolsillo ajustado: tres de cada cuatro piensan comprar y millones se endeudarán, por lo que crecen las dudas sobre financiación y descuentos reales. Destacan rebajas de pequeño electrodoméstico, belleza y tecnología, y la cuenta atrás de GTA VI (19 de noviembre) mueve al público gamer. Rosalía y los Grammy Latinos dan conversación cultural. Ganan los mensajes de precio final, devolución fácil y compra sin agobios.",
+ "lectura": "Tres de cada cuatro españoles aprovecharán el Black Friday del 27 de noviembre, pero con cautela: la inflación aprieta, crece el pago aplazado y los medios enseñan a revisar el 'vendido por' y el coste real de financiar. El encendido de luces de Vigo abre la temporada navideña, y GTA VI (19 de noviembre) y los chollos de Amazon mueven la tecnología. La vivienda y el precio de la luz siguen en la conversación cotidiana. Ganan los mensajes honestos, con precio final, envío claro y nada de letra pequeña.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin deudas",
-   "idea": "Explica el coste real de pagar a plazos con un ejemplo sencillo y ofrece una alternativa clara. Con tantos españoles endeudándose, la honestidad es diferencial.",
+   "titulo": "Chollo de verdad",
+   "idea": "Muestra el precio de tu producto en las últimas semanas y el precio Black Friday. Frente al miedo a los descuentos inflados, la transparencia es tu mejor anuncio.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El chollo de la semana",
-   "idea": "Las rebajas de pequeño electrodoméstico (como aspiradores de mano) arrasan. Presenta tu producto estrella con precio antes/después y stock visible, sin exagerar.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Probé lo viral",
-   "idea": "El corrector viral de menos de 10 euros demuestra que las reseñas mandan. Haz una prueba honesta de un producto tuyo y responde dudas en comentarios, ¡mola mucho este formato!",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Noche de estreno de GTA VI",
-   "idea": "A días del lanzamiento, monta un 'pack noche de estreno' (snacks, accesorios, iluminación) y muéstralo en un vídeo corto.",
+   "titulo": "Pagar a plazos, sin sustos",
+   "idea": "Se advierte del coste de financiar compras. Explica en un vídeo corto cuánto se paga al final si ofreces aplazar; genera confianza y menos devoluciones.",
    "formato": "Reel"
   },
   {
-   "titulo": "Fichas que entiende la IA",
-   "idea": "Se prevé que los agentes de IA canalicen ventas en este Black Friday. Revisa títulos, precios y descripciones de tus productos para que sean claros y completos.",
-   "formato": "LinkedIn"
+   "titulo": "Ya huele a Navidad",
+   "idea": "El encendido de luces de Vigo marca el inicio de la temporada. Lanza tu colección navideña con fecha límite de pedido para recibir antes del 24.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Plan GTA VI",
+   "idea": "El estreno del 19 de noviembre es un evento de consumo. Snacks, sillas, mandos o auriculares en combo 'noche de estreno'.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Comercio de barrio",
+   "idea": "Hay campañas para dinamizar el comercio local en Black Friday. Si tienes tienda física, presume de cercanía: recogida en tienda y trato personal.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
-   "termino": "renfe media distancia",
-   "color": "amarillo",
-   "por_que": "Renfe cambiará los colores de sus trenes (AVE azul oscuro, regionales morado) en un momento delicado para el servicio ferroviario.",
-   "idea": "Para diseño y branding: analiza el cambio de identidad visual con tacto, sin bromear con el servicio a los viajeros."
-  },
-  {
-   "termino": "plaga",
-   "color": "amarillo",
-   "por_que": "Preocupan las plagas en los cultivos de invernadero de Almería, además de la curiosa plaga de pulpos en Reino Unido.",
-   "idea": "Agro, jardinería y hogar: consejos prácticos de prevención y productos permitidos, sin alarmismo."
-  },
-  {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Preocupación de fondo por la falta de pisos disponibles frente a más hogares; tema sensible para muchas familias.",
-   "idea": "Hogar y decoración: ideas para aprovechar pisos pequeños, con empatía y sin entrar en el debate."
+   "por_que": "El acceso a la vivienda es una preocupación diaria: más hogares y menos casas disponibles.",
+   "idea": "Inmobiliarias, reformas y muebles pueden informar con empatía; evita frivolizar."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Mercadona abre el lunes un nuevo supermercado en Aranda: interés por aperturas y cesta de la compra.",
-   "idea": "Comercio local: contenido de 'lo que no encuentras en el súper' y comparativas honestas de calidad y precio."
+   "por_que": "Aperturas de supermercados y comparación de precios de la cesta.",
+   "idea": "Alimentación y hogar: contenido de ahorro en la compra semanal."
+  },
+  {
+   "termino": "twitch",
+   "color": "verde",
+   "por_que": "Debate en el sector del streaming en plena antesala de GTA VI.",
+   "idea": "Colaboraciones con creadores y combos gamer."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento esperadísimo el 19 de noviembre, con precarga ya disponible: máxima atención gamer.",
-   "idea": "Packs de accesorios, directos de 'preparando el lanzamiento' y guías de regalo gamer."
+   "por_que": "Ya se puede precargar GTA VI antes de su estreno del 19 de noviembre.",
+   "idea": "Tecnología y snacks: campañas de 'noche de estreno'."
+  },
+  {
+   "termino": "encendido luces vigo 2026",
+   "color": "verde",
+   "por_que": "El encendido de luces de Vigo atrae visitantes y arranca la Navidad.",
+   "idea": "Hostelería y comercio local de Galicia: ofertas para quien va a ver las luces."
   }
  ],
  "ocultar": [
@@ -111,7 +111,22 @@
   "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
   "Desalojan parcialmente la Puerta del Sol tras hallarse una mochila sospechosa",
   "Nueva protesta en Madrid de los maquinistas de Renfe en demanda de un aumento de la seguridad",
-  "Comuns activa el puerta a puerta en el cinturón de Barcelona: “Ya notamos la movilización de nuestro electorado”"
+  "Comuns activa el puerta a puerta en el cinturón de Barcelona: “Ya notamos la movilización de nuestro electorado”",
+  "borja sémper",
+  "isabel peralta",
+  "carmen romero",
+  "justicia",
+  "primitiva hoy",
+  "Feijóo reivindica la gestión frente al \"despilfarro\" de Sánchez y arranca en Galicia su camino hacia el 29-N",
+  "El PP cancela su campaña en Guipúzcoa tras los incidentes en Hernani",
+  "RTVE emitirá el cara a cara decisivo entre Sánchez y Feijóo a diez días del 29-N",
+  "Otegi pide el voto para \"amargarles la noche a los fascistas del PP y Vox\"",
+  "Abel Caballero tras el encendido de las luces en Vigo: \"Acaba de arrancar la Navidad del planeta\"",
+  "Europa no se decide y designa siete voces para las negociaciones por la paz en Ucrania",
+  "Hallan en Hungría 17,6 millones de euros escondidos por un exministro de Orbán",
+  "Comprobar el resultado de La Primitiva del sábado 14 de noviembre de 2026",
+  "“¡Enano!” o la historia de una agresión en Madrid",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral"
  ],
  "audiencias": {
   "general": {

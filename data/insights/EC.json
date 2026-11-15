@@ -1,59 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-14T21:30:00Z",
+ "actualizado": "2026-11-15T01:30:00Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A trece días del Black Friday, el consumidor ecuatoriano se informa: busca consejos para comprar con presupuesto, fechas del Cyber Monday y ofertas anticipadas de belleza y tecnología. La noticia de la aduana sobre ropa de una plataforma china retenida en Guayaquil recuerda que importar de forma legal y documentada da tranquilidad. Las lluvias en la Costa piden comunicar con tacto y avisar a tiempo cualquier cambio en entregas. Ganan los mensajes de precio final claro, compra planificada para Navidad y trato cercano.",
+ "lectura": "A doce días del Black Friday, el consumidor ecuatoriano se prepara: busca consejos para comprar con presupuesto, la fecha del Cyber Monday (30 de noviembre) y ofertas anticipadas en tecnología, viajes y belleza. La venta de camionetas crece y los modelos ensamblados en el país ganan espacio. Las tormentas en Guayaquil y la Costa piden comunicar con tacto y avisar cualquier cambio en entregas. Ganan los mensajes de precio final claro, compra planificada para Navidad y trato cercano.",
  "ideas_hoy": [
   {
    "titulo": "Tu presupuesto de Black Friday",
-   "idea": "Comparte una plantilla simple de 'lista y tope de gasto' para el 27 de noviembre y ubica tus productos en ella. Educa, genera guardados y prepara la venta.",
+   "idea": "Comparte una lista sencilla de 'qué compro y cuánto gasto' para el 27 de noviembre y ubica ahí tus productos. Educa, genera guardados y prepara la venta.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Compra legal, compra tranquila",
-   "idea": "A raíz del caso de prendas retenidas en aduana, explica por qué conviene comprar a quien factura y declara bien. Sin alarmar: enfócate en la tranquilidad de recibir sin sorpresas.",
+   "titulo": "Cyber Monday, anótalo",
+   "idea": "Muchos buscan cuándo cae el Cyber Monday. Publica un calendario con tus fechas de ofertas (27 y 30 de noviembre) y pide que activen notificaciones.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Compra segura en temporada de ofertas",
+   "idea": "Abundan las alertas de promociones engañosas. Explica cómo comprar seguro contigo: factura, canales oficiales y precio final con todo incluido. 'De ley, sin sorpresas.'",
    "formato": "Reel"
   },
   {
-   "titulo": "Belleza viral, versión local",
-   "idea": "El corrector económico que arrasa en TikTok prueba que lo barato y efectivo vende. Muestra tu alternativa con un antes y después real y un 'de ley que funciona'.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Lo que llega para Navidad",
-   "idea": "Publica tu fecha límite de pedidos navideños por ciudad (Quito, Guayaquil, Cuenca). Saber cuándo pedir reduce dudas y adelanta compras.",
+   "titulo": "Para el que anda en camioneta",
+   "idea": "La venta de camionetas creció 33%. Accesorios, seguros, lavado y repuestos pueden lanzar un combo 'lista para el viaje de fin de año'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Vende más en TikTok este Black Friday",
-   "idea": "Los expertos recomiendan lives y pruebas de producto para esta fecha. Agenda un live corto con 3 productos estrella y un descuento solo para quienes estén conectados.",
-   "formato": "TikTok"
+   "titulo": "Lluvias: entregas con aviso",
+   "idea": "Con tormentas en Guayaquil y la Costa, informa con calma tus tiempos de entrega por ciudad. La transparencia genera confianza.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
    "termino": "cáncer",
    "color": "amarillo",
-   "por_que": "La búsqueda responde a nuevas guías para detectar el cáncer de próstata en hombres mayores de 50; tema de salud delicado.",
-   "idea": "Laboratorios, clínicas y aseguradoras pueden informar con fuentes médicas y fomentar el chequeo preventivo; nada de humor ni ofertas agresivas."
+   "por_que": "Una nueva guía recomienda exámenes para detectar el cáncer de próstata en hombres mayores de 50; tema de salud delicado.",
+   "idea": "Laboratorios, clínicas y aseguradoras pueden promover el chequeo preventivo con fuentes médicas; nada de humor."
   },
   {
    "termino": "vuelos cancelados estados unidos",
    "color": "amarillo",
-   "por_que": "La suspensión de despegues en EE. UU. generó retrasos en conexiones con Latinoamérica justo antes de la temporada de compras.",
-   "idea": "Si traes productos de EE. UU., avisa con calma cómo pueden variar los plazos y recomienda pedir con anticipación para Navidad."
+   "por_que": "La suspensión de despegues en EE. UU. afectó conexiones con Latinoamérica antes de la temporada de compras.",
+   "idea": "Si traes productos de EE. UU., avisa con calma cómo pueden variar los plazos y pide anticipar los pedidos navideños."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Señal de consumo real: la venta de camionetas crece 33% y modelos hechos en Ecuador compiten con los importados.",
-   "idea": "Repuestos, accesorios y seguros: comparativas honestas de precio, garantía y servicio con un 'de ley' bien puesto."
+   "por_que": "Las ventas de camionetas crecen 33% y modelos hechos en Ecuador compiten con los importados.",
+   "idea": "Concesionarios, accesorios, seguros y financiamiento: contenido comparativo y ofertas de fin de año."
   },
   {
-   "termino": "peru",
+   "termino": "tormenta eléctrica",
    "color": "amarillo",
-   "por_que": "La conversación gira en torno a la visita del papa León XIV a Perú; tema religioso que pide respeto.",
-   "idea": "Turismo y artesanía religiosa pueden mencionarlo con sobriedad; no lo uses como gancho de ofertas."
+   "por_que": "Las tormentas eléctricas en la Costa generan preocupación y afectan rutinas.",
+   "idea": "Comunica con empatía; marcas de hogar pueden ofrecer protectores de voltaje o tips de prevención."
+  },
+  {
+   "termino": "apagón mundial 17 de noviembre",
+   "color": "amarillo",
+   "por_que": "Circula un rumor de apagón mundial que los medios desmienten.",
+   "idea": "No alimentes el rumor; si vendes tecnología o energía, aclara con datos y ofrece soluciones reales de respaldo."
   }
  ],
  "audiencias": {
@@ -1016,6 +1022,11 @@
   "{{❤️[𝕩𝕏𝕩]𝕤𝕖𝕩!+𝕧𝕚𝕕𝕖𝕠)!)]𝕧𝕚𝕕𝕖𝕠 𝕕𝕖𝕝 𝕒𝕘𝕣𝕠𝕡𝕖𝕔𝕦𝕒𝕣𝕚𝕠 𝕖𝕩 𝕕𝕖 𝕒𝕚𝕕𝕒 𝕟𝕖𝕨 𝕤𝕖𝕩 𝕧𝕚𝕕𝕖𝕠 𝕧𝕚𝕣𝕒𝕝}}",
   "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO",
   "Bomberos despliegan 20 rescatistas y un dron para buscar a dos desaparecidos en Guayaquil",
-  "Dos fallecidos, dos desaparecidos y decenas de sectores bajo el agua dejan las lluvias en Guayaquil"
+  "Dos fallecidos, dos desaparecidos y decenas de sectores bajo el agua dejan las lluvias en Guayaquil",
+  "Ecuador incauta 134 kilos de cocaína ocultos en dos contenedores rumbo a Alemania",
+  "Roberto Luque informa sobre la búsqueda de dos desaparecidos tras las lluvias en Guayaquil",
+  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
+  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
+  "Refuerzan vigilancia en bancos y comercios por el Buen Fin"
  ]
 }
