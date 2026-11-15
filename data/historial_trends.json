@@ -1104,11 +1104,11 @@
   "ufc": {
    "termino": "ufc",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
     "url": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
@@ -1169,6 +1169,90 @@
     "titulo": "Portugal 1-4 Denmark: Cristiano Ronaldo-less hosts suffer heavy Nations League home loss",
     "url": "https://www.bbc.com/sport/football/live/cmgj9jnvxx2qt",
     "fuente": "BBC"
+   }
+  },
+  "herrera": {
+   "termino": "herrera",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN-GaWH45-PZlaxx04CfKYqS1TU7y-6RLuGfCw-OtM-fDrc5GRrTrDrkd34qw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "A dejarse llevar por ‘La corriente’ de Eddy Herrera y Elder Dayán",
+    "url": "https://www.elheraldo.co/sociedad/2026/11/14/a-dejarse-llevar-por-la-corriente-de-eddy-herrera-y-elder-dayan/",
+    "fuente": "ELHERALDO.CO"
+   }
+  },
+  "pelicans - nuggets": {
+   "termino": "pelicans - nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4UlVBZUJffjs6RngvdWVMSM5RtgJb-CoVlPsm-3PyDjppw-nonj0e5E3ySfM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Rafa Márquez buscará primera victoria en la olvidada casa de Usain Bolt",
+    "url": "https://www.espn.com.co/futbol/selecciones/nota/_/id/17511958/mexico-marquez-busca-victoria-jamaica-casa-usain-bolt",
+    "fuente": "ESPN Colombia"
+   }
+  },
+  "king": {
+   "termino": "king",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXZMv3hGPasjgoJq7T2_jjql6bUmA3RWCka2z1jfD3EZsmVIk-tv0GanBU0_M",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘I’m Not Sure How Many People Were Watching’ — ESPN’s Paul Finebaum Identifies Broadcasters Targeted by SEC Commissioner Greg Sankey in Officiating Rant",
+    "url": "https://www.profootballnetwork.com/cfb/espn-paul-finebaum-broadcasters-targeted-sec-commissioner/",
+    "fuente": "Pro Football Network"
+   }
+  },
+  "andoni": {
+   "termino": "andoni",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0NSKF_eRe3Wt1ylBgeQIsFZTjIHDy1rx_L8RT5fAzohtxsvk2dvhz8xpEFVA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Angelo Stiller changes agents, could push for transfer",
+    "url": "https://www.bavarianfootballworks.com/transfer-rumors/280584/angelo-stiller-changes-agents-could-push-for-transfer",
+    "fuente": "Bavarian Football Works"
+   }
+  },
+  "haiti vs usa": {
+   "termino": "haiti vs usa",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNOARDze5B8dPDhf9p83S1met1ggCh7kMjfJMd6KEYoofatm3gv7bWgmi3Q0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "USMNT Player Ratings vs. Haiti: Mauricio Pochettino’s Farewell Tour Off to Perfect Start",
+    "url": "https://forzafootball.com/news/usmnt-player-ratings-vs-haiti-mauricio-pochettinos-farewell-tour-off-to-perfect-start-159485810",
+    "fuente": "Forza Football"
    }
   }
  },
@@ -2875,6 +2959,146 @@
     "url": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
     "fuente": "CNN"
    }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbHB7LSiXFv9Januut7Mu9Yi4sRF7yaFv-YZrsgkKPg1SmlJBBFBzN8yO3zI8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "The Tao of Jim Miller",
+    "url": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "texas vs lsu": {
+   "termino": "texas vs lsu",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi2RZw8ooZSMZNFQVd7ztJmDO27-an_t2ocdc6XU-OxqG1hj3HprhizcZT3lA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Betr Promo Code FOXNEWS: Unlock $200 in Bonuses and 4 Free Picks for Any CFB Game Including Texas-LSU",
+    "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlock-200-bonuses-4-free-picks-any-cfb-game-including-texas-lsu",
+    "fuente": "Fox News"
+   }
+  },
+  "club deportivo tenerife": {
+   "termino": "club deportivo tenerife",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzk2xXs0zb-dTKfD2tSXTqAJyrDTYzvPTjFBD79coKRVJjjfKXqKbIzOVn5xQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El entrenador del Tenerife sobre la sanción a Oyono: el castigo parece suave",
+    "url": "https://es-us.noticias.yahoo.com/deportes/entrenador-tenerife-sanci%C3%B3n-oyono-castigo-173739620.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "timberwolves - bulls": {
+   "termino": "timberwolves - bulls",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlUz6Mnwyzn02OlPbtcte765pyXCGi8E3181bFbNkESMyJJOxrR8TS3akEd4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Polymarket Promo Code WSN: $25 Bonus for Bulls vs. Timberwolves (November 14)",
+    "url": "https://www.wsn.com/promos/kalshi-promo-code-nba-bulls-vs-timberwolves-11-14-2026/",
+    "fuente": "WSN.com"
+   }
+  },
+  "liga femenil": {
+   "termino": "liga femenil",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBtY7vy7AKVs3io8GAjOAbvvl5_xyzjXL6r1HXzjx1yxMMLTliCm6YmAuKqno",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liga Femenil: ¿Cómo están las Semifinales al momento?",
+    "url": "https://www.espn.com.mx/futbol/mexico/nota/_/id/17501990/liga-femenil-semifinales-apertura-2026-bracket-horarios",
+    "fuente": "ESPN México"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+    "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYHhEYjuOSPWxiZdGzsukFyyLs86jpYd_nmQkL7iHYeLXUcbYC8Yqk8HPHFw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334 video: Cesar Almeida upsets Donte Johnson with early TKO",
+    "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/ufc-334-video-cesar-almeida-upsets-donte-johnson-early-knockout/92788079007/",
+    "fuente": "MMA Junkie"
+   }
+  },
+  "noche de las estrellas 2026": {
+   "termino": "noche de las estrellas 2026",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDsjSut1wm88ORMAydBNki5lUoRo10po8PH72WhGANmH0GmMznK9vg9vN1aPE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "La Noche de las Estrellas es el evento más importante de divulgación en América Latina",
+    "url": "https://www.gaceta.unam.mx/se-aproxima-la-noche-de-las-estrellas-2026-en-las-islas-de-cu/",
+    "fuente": "Gaceta UNAM"
+   }
+  },
+  "ciryl gane": {
+   "termino": "ciryl gane",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzY7rZG6DyD8Z6FNJwE7Z1DGCLZyw06xERcnBmX7Ju5cIyHUVZT6QHGJiUQRE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334: Nunes en peso para su regreso, las peleas de campeonato son oficiales",
+    "url": "https://www.espn.com.mx/mma/nota/_/id/17511724/ufc-334-gane-vs-hokit-harrison-nunes-pesaje-oficiales",
+    "fuente": "ESPN México"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbncLraRP9SS38kZiTh5bpFP5JDRohuAT-xNXQXPJcuYiA14psaLGgmzqxo5g",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100000+",
+   "noticia": {
+    "titulo": "EN VIVO | Jamaica vs. México - Concacaf Nations League",
+    "url": "https://www.tudn.com/futbol/concacaf-nations-league/jamaica-vs-mexico-en-vivo-cuartos-final-ida-concacaf-nations-league-minuto-a-minuto-partido",
+    "fuente": "TUDN"
+   }
   }
  },
  "EC": {
@@ -3413,15 +3637,15 @@
   "haití - estados unidos": {
    "termino": "haití - estados unidos",
    "primera_vez": "2026-11-14T21:32:55Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTy5Ci4EH2BlaaQ9dJt0sNuGBtt28ASr1qOTJaZpNrNOohWuLrZ6OWuu5DB-y8",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSF2FT57yOSH8pZVIkuYiHW8ybFu5mLOKLVaJTPPfGhWh-oEfG7ih5E4p_cveM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "LIVE BLOG: Haití vs Estados Unidos | CONCACAF Nations League",
-    "url": "https://www.beinsports.com/es-us/football/articles/live-blog-hait%C3%AD-vs-estados-unidos-concacaf-nations-league-2026-11-14",
-    "fuente": "beIN SPORTS"
+    "titulo": "Estados Unidos aplastó a Haití en la Nations League",
+    "url": "https://www.ecuagol.com/noticias/internacionales/estados-unidos-aplasto-a-haiti-en-la-nations-league/227213/",
+    "fuente": "Ecuagol"
    }
   },
   "deportivo pereira - américa": {
@@ -3525,13 +3749,13 @@
   "banfield - boca juniors": {
    "termino": "banfield - boca juniors",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 20000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNyVhy0Iw4D-dU3hotrUnmcFdeYGpmdKKuTuG56xc659Q4ErFnfEeUP3eNR7U",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS74XsJn4SFVomzL571xSXISWdOSffodoRdKClMToYYQKI3Z9kveioAAtiVRDg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "20000+",
    "noticia": {
-    "titulo": "Banfield vs. Boca, por la Copa Argentina: seguilo EN VIVO",
+    "titulo": "Boca goleó a Banfield y jugará la final de la Copa Argentina: reviví lo mejor",
     "url": "https://www.tycsports.com/copa-argentina/argentina-copa-argentina-2026-banfield-vs-boca-juniors-semifinal-1-id771386.html",
     "fuente": "TyC Sports"
    }
@@ -3539,11 +3763,11 @@
   "riquelme angulo": {
    "termino": "riquelme angulo",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 100,
+   "veces": 3,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQQqe4yOizEpisXB65OCVZF1SgcsjK6v5AMJb2fLRqMNM5J6tzd_Wjz8Utjbo",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Juan Riquelme Angulo no fue convocado ante Costa Rica por una molestia física y está en duda para enfrentar a Bolivia",
     "url": "https://www.eluniverso.com/deportes/futbol/juan-riquelme-angulo-no-fue-convocado-ante-costa-rica-por-una-molestia-fisica-y-esta-en-duda-para-enfrentar-a-bolivia-nota/",
@@ -3562,6 +3786,104 @@
     "titulo": "Cristiano Ronaldo recibe un homenaje de Portugal con un exclusivo diseño",
     "url": "https://www.elcomercio.com/deportes/futbol/seleccion-portugal-homenaje-cristiano-ronaldo/",
     "fuente": "El Comercio"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+    "url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "querétaro - monterrey": {
+   "termino": "querétaro - monterrey",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa4kjHl3bO9pLJjVzbmcHy2uYc_SD0ZHzgG1hlZUWibzmfNDg6KZ6OFm0UjIA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Querétaro vs Monterrey: ¿Cómo afecta a Pumas y Liguilla?",
+    "url": "https://www.espn.com.ec/futbol/mexico/nota/_/id/17499550/queretaro-vs-monterrey-como-afecta-pumas-liguilla",
+    "fuente": "ESPN Ecuador"
+   }
+  },
+  "prófugo": {
+   "termino": "prófugo",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-72KJ8OX4H2M9FKtPFQcLGl5VO_PVfprRE8nJDFlS5Fj9RAkCPsl9oG2xek",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "¿Cómo escapa un hombre de 74 años en Argentina del arresto domiciliario en un quinto piso?",
+    "url": "https://www.nytimes.com/es/2026/11/13/espanol/america-latina/argentina-fuga-bertulazzi.html",
+    "fuente": "The New York Times"
+   }
+  },
+  "ufc": {
+   "termino": "ufc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
+    "fuente": "UFC.com"
+   }
+  },
+  "pedro vite": {
+   "termino": "pedro vite",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo2KTQd_YQYdFMT_fM3kFqjLCjwCEocC-vGgQWZPO7-mtV5-PwJBhOJjTM7qY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "El Capitan Moises Caicedo conto que le quito el penal a Pedro Vite y se emociono con defender a La Tri en el Atahualpa",
+    "url": "https://www.futbolecuador.com/site/noticia/el-capitan-moises-caicedo-conto-que-le-quito-el-penal-a-pedro-vite-y-se-emociono-con-defender-a-la-tri-en-el-atahualpa/172195",
+    "fuente": "futbolecuador.com"
+   }
+  },
+  "ufc 334": {
+   "termino": "ufc 334",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiayrrNHDYHwCIZRZgKSs72xhL77RcbAyOQsafAJXVJxbdOOVtv-va3P_93Sc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334 Highlights! Mesquita Quickly Subs Chiasson To Win Fourth Straight",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486043/watch-ufc-334-video-highlights-results-paramount-new-york-mesquita-submission-chiasson",
+    "fuente": "MMA Mania"
+   }
+  },
+  "liga de naciones concacaf": {
+   "termino": "liga de naciones concacaf",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5AgT4aq7YDIQw0A82kJ6kNPP_XzFGGAxEq4LIBqqxgDAlwzc6eDQ2b13S4L4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Alineación de México y los CINCO descartados vs Jamaica",
+    "url": "https://www.365scores.com/es/news/seleccion-mexicana-alineacion-descartados-jamaica/",
+    "fuente": "365Scores"
    }
   }
  },
@@ -6309,6 +6631,146 @@
     "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
     "fuente": "ESPN"
    }
+  },
+  "lane kiffin": {
+   "termino": "lane kiffin",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOiePDTU4s0jVItHT6OmCfz314rFdLHEsxxS1ucV52W2XWjYSPX6tpng8I48",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Landry Kiffin shares thoughts on Lane’s LSU pregame walkouts with celebrities",
+    "url": "https://sports.yahoo.com/articles/landry-kiffin-shares-thoughts-lane-222329280.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "archie manning": {
+   "termino": "archie manning",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-v1xIaWL6Ftq6-_QaBGti7raTa-FXlJ1mRajID07AwUB_eyvr92kWgwdXWA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "The MANNING TOUCH In Tiger Stadium: Will It Hand LSU Another Critical Loss And Playoffs Exit?",
+    "url": "https://www.tigerrag.com/the-manning-touch-in-tiger-stadium-will-it-hand-lsu-another-critical-loss-and-playoffs-exit/",
+    "fuente": "TigerRag.com |"
+   }
+  },
+  "whit weeks": {
+   "termino": "whit weeks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzHNlmYqNT1uyqBb7VqkmHzRa4FhkeldT5AGUoxyazBgfWAmClOIx-y9FYbo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Texas vs LSU injury report: Four players left to watch heading into Saturday",
+    "url": "https://247sports.com/college/texas/article/texas-vs-lsu-injury-report-four-players-left-to-watch-heading-into-saturday--292650029/",
+    "fuente": "247Sports"
+   }
+  },
+  "america vs red bulls": {
+   "termino": "america vs red bulls",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdcvdjYI8TjznKOqv5QLkhUviiA1Nwz6Xh5nUhGIrAmG3sAm_MrqmAC5ITQc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Red Bull New York vs Club América 2026: watch live",
+    "url": "https://www.redbull.com/us-en/events/red-bull-new-york-vs-club-america",
+    "fuente": "Red Bull"
+   }
+  },
+  "rock and roll hall of fame 2026": {
+   "termino": "rock and roll hall of fame 2026",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41d_GYoqSwe6DrRuqda3B9ol4D8d-ijNGnoR01KFgskmtOhI3scoLDqXt8ZE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Watch live coverage Saturday night: Rock and Roll Hall of Fame 2026 induction ceremony red carpet",
+    "url": "https://www.wkyc.com/article/entertainment/music/rock-hall/rock-and-roll-hall-of-fame-induction-ceremony-live-stream-video-2026-red-carpet/95-d5ad5491-784f-47d6-afb2-20394e1d999a",
+    "fuente": "WKYC"
+   }
+  },
+  "big ten network": {
+   "termino": "big ten network",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXzNd-AYTkTmnluUMlF1q8NgqJK7ELrlMFNBjthuSM7enRCza_H4hjJVidk3s",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Purdue Outlasts Michigan State to Win 2026 Big Ten Women’s Soccer Tournament Title",
+    "url": "http://www.bigten.org/news/2026/11/14/purdue-outlasts-michigan-state-to-win-2026-big-ten-womens-soccer-tournament-title.aspx",
+    "fuente": "Big Ten Conference"
+   }
+  },
+  "new movies on netflix": {
+   "termino": "new movies on netflix",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuLN0Edlg6jVio_dsQABWW81K0mHkfB0Gxyf_leDMB-53YBHXcLqB85d0qttQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "From Guarding Stars to The Altruists : What to Watch on Netflix",
+    "url": "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-november-13-2026",
+    "fuente": "Netflix"
+   }
+  },
+  "texas state football": {
+   "termino": "texas state football",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqK7U8ZQ7hoxoRVlmK1oZc75_cygaT6mbOLJ4jHUeCUew6_xEKfzMcK9N1bzo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "BarkBoard and Friends Predictions: Fresno State at Texas State",
+    "url": "https://247sports.com/college/fresno-state/longformarticle/fresno-state-at-texas-state-preview-predictions-barkboard-and-friends-betting--292637650/",
+    "fuente": "247Sports"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 50000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "50000+",
+   "noticia": {
+    "titulo": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+    "url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "sabres vs stars": {
+   "termino": "sabres vs stars",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu0ZkCV27eDRFT3SGZnnQGy1YkIivjOatlPDP452mVG6Jmq2Nx70qCtsvKzqo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Sabres at Stars | How to watch, lineup notes, and storylines",
+    "url": "https://www.nhl.com/sabres/news/how-to-watch-buffalo-sabres-dallas-stars-preview-lineup",
+    "fuente": "NHL.com"
+   }
   }
  },
  "US/nueva-york": {
@@ -8074,6 +8536,132 @@
     "titulo": "WTA Finals: Aryna Sabalenka apologises after viral clip of her swearing during Elina Svitolina defeat",
     "url": "https://www.bbc.com/sport/tennis/articles/ck62p9ge4d76o",
     "fuente": "BBC"
+   }
+  },
+  "flyers vs blue jackets": {
+   "termino": "flyers vs blue jackets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Flyers at Blue Jackets projected lineups",
+    "url": "https://www.nhl.com/news/philadelphia-flyers-columbus-blue-jackets-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "heartland": {
+   "termino": "heartland",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiIZ5S6YsRnLAeGQnTyAkH0aMTgi783udA8qAcO05PMJJib6KEpgmG1fQX-VA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘Heartland’ Review: Jessica Chastain’s Country-Music Mystery",
+    "url": "https://www.wsj.com/arts-culture/television/heartland-review-jessica-chastains-country-music-mystery-10b5e33f",
+    "fuente": "WSJ"
+   }
+  },
+  "south carolina vs arkansas": {
+   "termino": "south carolina vs arkansas",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbC9lI5af_jQ2bjIkFh8zCyU52ixvhwB5UU3F673ugfZcq2iIw3hCuEuqSrZs",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "10 Things To Know – South Carolina",
+    "url": "https://arkansasrazorbacks.com/10-things-to-know-south-carolina-2/",
+    "fuente": "Arkansas Razorbacks"
+   }
+  },
+  "oilers vs maple leafs": {
+   "termino": "oilers vs maple leafs",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBvu4N2BfOnz6eKCSBu5k01vKYLxJUfbu4d4MKDMhv1a4Ux45k2wP4SEEDuoI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "NHL On Tap: McDavid eyes point in 21st straight for Oilers at Maple Leafs",
+    "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+    "url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "wild vs bruins": {
+   "termino": "wild vs bruins",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Wild at Bruins projected lineups",
+    "url": "https://www.nhl.com/news/minnesota-wild-boston-bruins-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "charlie becker": {
+   "termino": "charlie becker",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm2jPe_2ZbBKRtZV4goswvenztc_lI11xz4OYud1j0_cc9llWUi6LLtxJj1jc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Charlie Becker gaining confidence as Indiana’s punt returner",
+    "url": "https://247sports.com/college/indiana/article/indiana-hoosiers-football-charlie-becker-gaining-confidence-as-indianas-punt-returner-292586323/",
+    "fuente": "247Sports"
+   }
+  },
+  "alexander skarsgård": {
+   "termino": "alexander skarsgård",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7b51BfZ13Gks6QmB_7w-RZt9qln0UAX6mNxjl6sZO3mj2Ovqygou8uIWF64E",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘Wicker’ is a unique romance with deeper themes hiding under its eccentrically woven surface",
+    "url": "https://theithacan.org/70547/life-culture/reviews/wicker-is-a-unique-romance-with-deeper-themes-hiding-under-its-eccentrically-woven-surface/",
+    "fuente": "The Ithacan"
+   }
+  },
+  "vivienne jolie": {
+   "termino": "vivienne jolie",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FlXB9lIJILrOJ65nv3pKxQMD5pr-lvgd18qESJSVNK_it9oxPbx37Lcmdh4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
+    "url": "https://pagesix.com/2026/11/13/celebrity-news/angelina-jolie-brad-pitts-daughter-vivienne-reveals-hospitalization-for-eating-disorder-at-la-art-exhibit/",
+    "fuente": "Page Six"
    }
   }
  },
@@ -9910,6 +10498,146 @@
     "titulo": "UFC 334: Macy Chiasson vs Beatriz Mesquita Preview & Prediction",
     "url": "https://www.thestatszone.com/ufc-334-macy-chiasson-vs-beatriz-mesquita-preview-prediction-237577",
     "fuente": "The Stats Zone"
+   }
+  },
+  "jesse palmer": {
+   "termino": "jesse palmer",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2I8XTCTd0WDSpsoHH-zJfvqLmIFH_tdLb9d_M8fWK-3DT6Rq26l80XWxMRDA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season",
+    "url": "https://www.espn.com/nfl/story/_/id/50472000/sam-hartman-bachelor-season-30",
+    "fuente": "ESPN"
+   }
+  },
+  "nets vs grizzlies": {
+   "termino": "nets vs grizzlies",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQux8pK90lJEo1Iu88bhA70KMoGvIvdIYrm8MV4G8tkcaW21Onkc0rWvi6pB5Q",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Preview: Nets close out the road trip in Memphis",
+    "url": "https://www.netsdaily.com/nets-game-previews/116139/brooklyn-nets-vs-memphis-grizzlies-preview-injury-report",
+    "fuente": "NetsDaily"
+   }
+  },
+  "devils vs capitals": {
+   "termino": "devils vs capitals",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Devils at Capitals projected lineups",
+    "url": "https://www.nhl.com/news/new-jersey-devils-washington-capitals-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "heartland netflix": {
+   "termino": "heartland netflix",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiIZ5S6YsRnLAeGQnTyAkH0aMTgi783udA8qAcO05PMJJib6KEpgmG1fQX-VA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘Heartland’ Review: Jessica Chastain’s Country-Music Mystery",
+    "url": "https://www.wsj.com/arts-culture/television/heartland-review-jessica-chastains-country-music-mystery-10b5e33f",
+    "fuente": "WSJ"
+   }
+  },
+  "chapecoense x vasco da gama": {
+   "termino": "chapecoense x vasco da gama",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIdxThts2epzCAV522-webAJueWH5enP550hlDy4WHCaAmHyHhwPTbaRmusqA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Chapecoense x Vasco: onde assistir ao vivo, horário e escalações",
+    "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/noticia/2026/11/14/chapecoense-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+    "fuente": "ge"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+    "url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "bilal hasan": {
+   "termino": "bilal hasan",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPkWYDL3qGoJ859la3COaqcQMfIZoTChpwR1Xp410f1-KCkVsXdcCDukVK6HQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bilal Hasan Is Ready To Shine On The Big Stage",
+    "url": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "oilers vs maple leafs": {
+   "termino": "oilers vs maple leafs",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBvu4N2BfOnz6eKCSBu5k01vKYLxJUfbu4d4MKDMhv1a4Ux45k2wP4SEEDuoI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "NHL On Tap: McDavid eyes point in 21st straight for Oilers at Maple Leafs",
+    "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "charlie becker": {
+   "termino": "charlie becker",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm2jPe_2ZbBKRtZV4goswvenztc_lI11xz4OYud1j0_cc9llWUi6LLtxJj1jc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Charlie Becker gaining confidence as Indiana’s punt returner",
+    "url": "https://247sports.com/college/indiana/article/indiana-hoosiers-football-charlie-becker-gaining-confidence-as-indianas-punt-returner-292586323/",
+    "fuente": "247Sports"
+   }
+  },
+  "vivienne jolie": {
+   "termino": "vivienne jolie",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FlXB9lIJILrOJ65nv3pKxQMD5pr-lvgd18qESJSVNK_it9oxPbx37Lcmdh4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
+    "url": "https://pagesix.com/2026/11/13/celebrity-news/angelina-jolie-brad-pitts-daughter-vivienne-reveals-hospitalization-for-eating-disorder-at-la-art-exhibit/",
+    "fuente": "Page Six"
    }
   }
  },
@@ -11845,6 +12573,132 @@
     "url": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
     "fuente": "CNN"
    }
+  },
+  "south carolina vs arkansas": {
+   "termino": "south carolina vs arkansas",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbC9lI5af_jQ2bjIkFh8zCyU52ixvhwB5UU3F673ugfZcq2iIw3hCuEuqSrZs",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "10 Things To Know – South Carolina",
+    "url": "https://arkansasrazorbacks.com/10-things-to-know-south-carolina-2/",
+    "fuente": "Arkansas Razorbacks"
+   }
+  },
+  "unlv vs new mexico": {
+   "termino": "unlv vs new mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9reu6fA40Ku8QM3YudAUBcD5edIeMtllbSR5wWcAGlvgvlDcIyXGfUBOi194",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Day Info: Game 10- Lobos hosting UNLV",
+    "url": "https://golobos.com/news/2026/11/13/game-day-info-game-10-lobos-hosting-unlv",
+    "fuente": "New Mexico Lobos"
+   }
+  },
+  "jeffery simmons chicago bears trade": {
+   "termino": "jeffery simmons chicago bears trade",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRozHDYC3QDSEy9qcNG4dcze1ny4wXaodrvGcc5CudXFbHygrP6EuL6esprGvc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jeffery Simmons Was Frustrated With Titans After Trade to Bears",
+    "url": "https://www.si.com/nfl/bears/onsi/jeffery-simmons-titans-frustration-trade-bears",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "nuggets": {
+   "termino": "nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "utah vs arizona": {
+   "termino": "utah vs arizona",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1Y_ci4jsEF3qyYkFD4n-Dc1pIMesIzIivGuU986-TOtneJff4QM1QT4FoepQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "How to Watch Utah vs. Arizona: TV Channel, Live Stream, Time",
+    "url": "https://www.foxsports.com/stories/college-football/how-to-watch-utah-vs-arizona-tv-channel-live-stream-time-nov-14-2026",
+    "fuente": "FOX Sports"
+   }
+  },
+  "nets vs grizzlies": {
+   "termino": "nets vs grizzlies",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQux8pK90lJEo1Iu88bhA70KMoGvIvdIYrm8MV4G8tkcaW21Onkc0rWvi6pB5Q",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Preview: Nets close out the road trip in Memphis",
+    "url": "https://www.netsdaily.com/nets-game-previews/116139/brooklyn-nets-vs-memphis-grizzlies-preview-injury-report",
+    "fuente": "NetsDaily"
+   }
+  },
+  "avalanche vs canadiens": {
+   "termino": "avalanche vs canadiens",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Avalanche at Canadiens projected lineups",
+    "url": "https://www.nhl.com/news/colorado-avalanche-montreal-canadiens-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "louisville vs unc": {
+   "termino": "louisville vs unc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVUgDbQefMlWIRL7ISuc9woBswIbedbaRN_jau07uzwN0hqro4dRYSMLw_fLM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "NOAH: What a Win Over Louisville Could Mean for Bill Belichick's UNC Program",
+    "url": "https://247sports.com/college/north-carolina/article/noah-what-a-win-over-louisville-could-mean-for-bill-belichicks-unc-program-292618394/",
+    "fuente": "247Sports"
+   }
+  },
+  "montana state vs northern co": {
+   "termino": "montana state vs northern co",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdxhWwg8ay3JN2cJNeodIbRdpDyYzizkPvTot5S0jGkXLOYxOx1owzKn0C9HI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Montana State-Northern Colorado Football Game Moved to 5 pm on Saturday",
+    "url": "https://msubobcats.com/news/2026/11/13/montana-state-northern-colorado-football-game-moved-to-5-pm-on-saturday",
+    "fuente": "Montana State University Athletics"
+   }
   }
  },
  "US/houston": {
@@ -13647,6 +14501,146 @@
     "titulo": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
     "url": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
     "fuente": "ESPN"
+   }
+  },
+  "lane kiffin": {
+   "termino": "lane kiffin",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOiePDTU4s0jVItHT6OmCfz314rFdLHEsxxS1ucV52W2XWjYSPX6tpng8I48",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Landry Kiffin shares thoughts on Lane’s LSU pregame walkouts with celebrities",
+    "url": "https://sports.yahoo.com/articles/landry-kiffin-shares-thoughts-lane-222329280.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "whit weeks": {
+   "termino": "whit weeks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzHNlmYqNT1uyqBb7VqkmHzRa4FhkeldT5AGUoxyazBgfWAmClOIx-y9FYbo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Texas vs LSU injury report: Four players left to watch heading into Saturday",
+    "url": "https://247sports.com/college/texas/article/texas-vs-lsu-injury-report-four-players-left-to-watch-heading-into-saturday--292650029/",
+    "fuente": "247Sports"
+   }
+  },
+  "steve sarkisian": {
+   "termino": "steve sarkisian",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjAvbn8C_dhZauCljBhSlPtel28jU06y8cZEajsFOhVEr5WNdgRUxkcy2SuZ4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Steve Sarkisian’s Wife Announces Health Update After Being Forced to Miss Texas-Missouri Game",
+    "url": "https://sports.yahoo.com/articles/steve-sarkisian-wife-announces-health-180047065.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "kevin holland": {
+   "termino": "kevin holland",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQknKTYXRKSq4HehctXCpKFZvV_WrbozkW3y7PbzmJW7tauM4G2NwFAKPtfvl4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Uros Medic vs. Kevin Holland prediction, pick, start time, odds for UFC 334",
+    "url": "https://sports.yahoo.com/articles/uros-medic-vs-kevin-holland-170120206.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "drew dober": {
+   "termino": "drew dober",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8k8VnpEPjk_D-Rrug_F9S9S6BBKRHNblN7FH5VXZ70lC2VNqvAENK9TB8a3s",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Drew Dober aims to test chin of 'zombie' Chris Duncan at UFC 334",
+    "url": "https://www.centraloregondaily.com/sports/drew-dober-aims-to-test-chin-of-zombie-chris-duncan-at-ufc-334/article_ce9b80f7-9233-5e0c-ae9c-3d4b0da42dfa.html",
+    "fuente": "Central Oregon Daily"
+   }
+  },
+  "texas v lsu": {
+   "termino": "texas v lsu",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVEa0nDAs_fCemoe8kZzRvOaaFbNwfCQOFAYWE7TuHuyhNW09kHE8TRBhwIkE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "College football game delays, schedule updates, live scores: Texas vs. LSU, Baylor vs. BYU and more",
+    "url": "https://sports.yahoo.com/college-football/live/college-football-game-delays-schedule-updates-live-scores-usc-vs-indiana-texas-vs-lsu-utah-vs-arizona-and-more-172326861.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "bilal hasan": {
+   "termino": "bilal hasan",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPkWYDL3qGoJ859la3COaqcQMfIZoTChpwR1Xp410f1-KCkVsXdcCDukVK6HQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bilal Hasan Is Ready To Shine On The Big Stage",
+    "url": "https://www.ufc.com/news/bilal-hasan-is-ready-to-shine-on-the-big-stage-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "texas tech vs oklahoma st": {
+   "termino": "texas tech vs oklahoma st",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYDeOOPnuFI4xOBLppWfZsoG2gphVqmpjfHwwG_qO9F4GiIkP4KuDEwkqElUY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "This Under-The-Radar Matchup Will Decide Oklahoma-Texas Tech Showdown in Week 11",
+    "url": "https://sports.yahoo.com/articles/under-radar-matchup-decide-oklahoma-200003608.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "nets vs grizzlies": {
+   "termino": "nets vs grizzlies",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQux8pK90lJEo1Iu88bhA70KMoGvIvdIYrm8MV4G8tkcaW21Onkc0rWvi6pB5Q",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Preview: Nets close out the road trip in Memphis",
+    "url": "https://www.netsdaily.com/nets-game-previews/116139/brooklyn-nets-vs-memphis-grizzlies-preview-injury-report",
+    "fuente": "NetsDaily"
+   }
+  },
+  "unlv vs new mexico": {
+   "termino": "unlv vs new mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9reu6fA40Ku8QM3YudAUBcD5edIeMtllbSR5wWcAGlvgvlDcIyXGfUBOi194",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Day Info: Game 10- Lobos hosting UNLV",
+    "url": "https://golobos.com/news/2026/11/13/game-day-info-game-10-lobos-hosting-unlv",
+    "fuente": "New Mexico Lobos"
    }
   }
  },
@@ -15684,6 +16678,132 @@
     "url": "https://www.ctvnews.ca/vancouver/article/a-terrible-mistake-bc-isis-bride-kimberly-polman-in-her-own-words/",
     "fuente": "CTV News"
    }
+  },
+  "devon levi": {
+   "termino": "devon levi",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWXMceRjZbPyaZrD-7cH3SiulVYjbKHMhXcL-YCbaBP7vta6LKbBy0y_k0jSM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Oilers' Devon Levi: Tending twine in Toronto",
+    "url": "https://www.cbssports.com/fantasy/hockey/news/oilers-devon-levi-tending-twine-in-toronto/",
+    "fuente": "CBS Sports"
+   }
+  },
+  "pistons vs heat": {
+   "termino": "pistons vs heat",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWFESIHdrohUe4DatP0X6nZKbpyG-HMJK8DI9jGqvtONJGCjeuV6WjLElXOGw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pistons vs. Heat Preview: Detroit Faces Another Test on Its Eastern Conference Road Trip",
+    "url": "https://www.si.com/nba/pistons/onsi/pistons-vs-heat-preview-detroit-faces-another-test-on-its-eastern-conference-road-trip-01m7dmqdbgan",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "sabres vs stars": {
+   "termino": "sabres vs stars",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Sabres at Stars projected lineups",
+    "url": "https://www.nhl.com/news/buffalo-sabres-dallas-stars-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "city": {
+   "termino": "city",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt00dfTqTqpwU_8EOYs_rPHlQTwNr1JklxCQ6ND74tvDeoKEbPfO9BvBOGSC4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Old City neighbours upset about Metrolinx plan to remove 81 trees",
+    "url": "https://www.guelphtoday.com/local-news/old-city-neighbours-upset-about-metrolinx-plan-to-remove-81-trees-13015582",
+    "fuente": "Guelph News"
+   }
+  },
+  "jamaica vs mexico": {
+   "termino": "jamaica vs mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Z0oRqzlXbzpYqrUajwx-lWe2LBPYUebCaA8DG-QlBMKqygcUTVVPJ5e6XIk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Jamaica vs México en vivo: horarios, transmisión online y canales de los cuartos de final de la Liga de Naciones de Concacaf en España, Latinoamérica, México y Estados Unidos",
+    "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/jamaica-vs-mexico-vivo-horarios-transmision-online-canales-liga-naciones-concacaf/pw77sqk6es8n12bwwn1stc1qs",
+    "fuente": "DAZN"
+   }
+  },
+  "bulls vs timberwolves": {
+   "termino": "bulls vs timberwolves",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu_BGUg7KN7ctrV2V_S-vn8r2_xycREOrEQxCF_6Wo6F9dvBGgKWkfSU-eY5M",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bulls at Timberwolves (7:00 PM CT): Starting Lineups, Injury Report, How to Watch",
+    "url": "https://www.si.com/nba/bulls/onsi/bulls-at-timberwolves-7-00-pm-ct-starting-lineups-injury-report-how-to-watch-14",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "heartland movie 2026": {
+   "termino": "heartland movie 2026",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiIZ5S6YsRnLAeGQnTyAkH0aMTgi783udA8qAcO05PMJJib6KEpgmG1fQX-VA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "‘Heartland’ Review: Jessica Chastain’s Country-Music Mystery",
+    "url": "https://www.wsj.com/arts-culture/television/heartland-review-jessica-chastains-country-music-mystery-10b5e33f",
+    "fuente": "WSJ"
+   }
+  },
+  "avalanche du colorado": {
+   "termino": "avalanche du colorado",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIVXQ9qhwpitw19jhAXu_fUutHlximz5ynuAmjqj0MyXTAuVxoK0m1m3kwtPg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Practice Report: Bruins Learn, Look to Rebound Against Wild | Boston Bruins",
+    "url": "https://www.nhl.com/bruins/news/practice-report-bruins-learn-look-to-rebound-against-wild",
+    "fuente": "NHL.com"
+   }
+  },
+  "marc andre fleury": {
+   "termino": "marc andre fleury",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEtoKGj_5JY7EBrvbpBQeHYUBKsDLQBHhYdRSUrRYGjvGRkZ-93ykAmAtnE8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Hall of Fame: Fleury",
+    "url": "https://www.nhl.com/penguins/video/hall-of-fame-fleury-6408392256112",
+    "fuente": "NHL.com"
+   }
   }
  },
  "CA/toronto": {
@@ -17193,6 +18313,146 @@
     "url": "https://www.bbc.com/sport/tennis/articles/ck62p9ge4d76o",
     "fuente": "BBC"
    }
+  },
+  "pistons vs heat": {
+   "termino": "pistons vs heat",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWFESIHdrohUe4DatP0X6nZKbpyG-HMJK8DI9jGqvtONJGCjeuV6WjLElXOGw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pistons vs. Heat Preview: Detroit Faces Another Test on Its Eastern Conference Road Trip",
+    "url": "https://www.si.com/nba/pistons/onsi/pistons-vs-heat-preview-detroit-faces-another-test-on-its-eastern-conference-road-trip-01m7dmqdbgan",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "bulls vs timberwolves": {
+   "termino": "bulls vs timberwolves",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu_BGUg7KN7ctrV2V_S-vn8r2_xycREOrEQxCF_6Wo6F9dvBGgKWkfSU-eY5M",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bulls at Timberwolves (7:00 PM CT): Starting Lineups, Injury Report, How to Watch",
+    "url": "https://www.si.com/nba/bulls/onsi/bulls-at-timberwolves-7-00-pm-ct-starting-lineups-injury-report-how-to-watch-14",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "panthers vs blues": {
+   "termino": "panthers vs blues",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnw9KFHMfnQm05Ly0OvDuq2F8i5iUHfTMFeHhLvxmG5qG_qZ-nOVaKrsvXbdg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Panthers vs. Blues (Nov 14, 2026) Live Score",
+    "url": "https://www.espn.com/nhl/game/_/gameId/401892716",
+    "fuente": "ESPN"
+   }
+  },
+  "city": {
+   "termino": "city",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt00dfTqTqpwU_8EOYs_rPHlQTwNr1JklxCQ6ND74tvDeoKEbPfO9BvBOGSC4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Old City neighbours upset about Metrolinx plan to remove 81 trees",
+    "url": "https://www.guelphtoday.com/local-news/old-city-neighbours-upset-about-metrolinx-plan-to-remove-81-trees-13015582",
+    "fuente": "Guelph News"
+   }
+  },
+  "devon levi": {
+   "termino": "devon levi",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWXMceRjZbPyaZrD-7cH3SiulVYjbKHMhXcL-YCbaBP7vta6LKbBy0y_k0jSM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Oilers' Devon Levi: Tending twine in Toronto",
+    "url": "https://www.cbssports.com/fantasy/hockey/news/oilers-devon-levi-tending-twine-in-toronto/",
+    "fuente": "CBS Sports"
+   }
+  },
+  "drew dober": {
+   "termino": "drew dober",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNXl-L55uQ8uBcaSTFsmQMXtJfqSM_0F9WYFGXz3oNPBA0mwCLxfaaRUkk-gY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘Have a fantastic fight on our hands’: Dober excited for bout vs. Duncan",
+    "url": "https://www.sportsnet.ca/ufc/video/have-a-fantastic-fight-on-our-hands-dober-excited-for-bout-vs-duncan/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "flyers vs blue jackets": {
+   "termino": "flyers vs blue jackets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Flyers at Blue Jackets projected lineups",
+    "url": "https://www.nhl.com/news/philadelphia-flyers-columbus-blue-jackets-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "jamaica vs mexico": {
+   "termino": "jamaica vs mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Z0oRqzlXbzpYqrUajwx-lWe2LBPYUebCaA8DG-QlBMKqygcUTVVPJ5e6XIk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Jamaica vs México en vivo: horarios, transmisión online y canales de los cuartos de final de la Liga de Naciones de Concacaf en España, Latinoamérica, México y Estados Unidos",
+    "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/jamaica-vs-mexico-vivo-horarios-transmision-online-canales-liga-naciones-concacaf/pw77sqk6es8n12bwwn1stc1qs",
+    "fuente": "DAZN"
+   }
+  },
+  "connor mcdavid": {
+   "termino": "connor mcdavid",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Oilers at Maple Leafs projected lineups",
+    "url": "https://www.nhl.com/news/edmonton-oilers-toronto-maple-leafs-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "devils vs capitals": {
+   "termino": "devils vs capitals",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Devils at Capitals projected lineups",
+    "url": "https://www.nhl.com/news/new-jersey-devils-washington-capitals-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
   }
  },
  "CA/montreal": {
@@ -18123,6 +19383,146 @@
     "url": "https://www.lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501",
     "fuente": "L'Équipe"
    }
+  },
+  "jamaica vs mexico": {
+   "termino": "jamaica vs mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Z0oRqzlXbzpYqrUajwx-lWe2LBPYUebCaA8DG-QlBMKqygcUTVVPJ5e6XIk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jamaica vs México en vivo: horarios, transmisión online y canales de los cuartos de final de la Liga de Naciones de Concacaf en España, Latinoamérica, México y Estados Unidos",
+    "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/jamaica-vs-mexico-vivo-horarios-transmision-online-canales-liga-naciones-concacaf/pw77sqk6es8n12bwwn1stc1qs",
+    "fuente": "DAZN"
+   }
+  },
+  "brock nelson": {
+   "termino": "brock nelson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNeja-HLgzgxcXbUbVorH6B02im2LhJexYKGMG8QBM7kFlm77RbwX6Vfw7Wdg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Nelson starts off Avalanche",
+    "url": "https://www.nhl.com/video/col-tor-nelson-scores-goal-against-sergei-bobrovsky-6408210267112",
+    "fuente": "NHL.com"
+   }
+  },
+  "nathan mackinnon": {
+   "termino": "nathan mackinnon",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrdRoyIs0Q69hMdQjeIrvs1nqPdLKc-3udEjbCcsThHB00Q0dh6PlKuSOOrmg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "MacKinnon out one month, Makar two weeks for Avalanche",
+    "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-injury-update-colorado-avalanche-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "artturi lehkonen": {
+   "termino": "artturi lehkonen",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzCRai3z5Q6JU8_lkONFdnrdGtnZEaSyqNCxeo4qUlyrfrKDPMM4oNkhCmJ0Y",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Artturi Lehkonen retrouve Jake Evans : un moment qui rappelle de précieux souvenirs aux partisans",
+    "url": "https://hockey30.com/nouvelles/artturi-lehkonen-retrouve-jake-evans-un-moment-qui-rappelle-de-precieux-souvenirs-aux-partisans/",
+    "fuente": "Hockey30"
+   }
+  },
+  "sportsnet": {
+   "termino": "sportsnet",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREJv21MZiDKiZ1LaD6ysWdHGlOY3L_qtqyKPbMuOFhg8WQMCQTVpnQnIYxEXU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "In Canada, Watching the N.H.L. Has Become Expensive and Cumbersome",
+    "url": "https://www.nytimes.com/2026/11/14/world/canada/national-hockey-league-rogers-sportsnet.html",
+    "fuente": "The New York Times"
+   }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHUevjTUqhM6o4xZHtUFsdXcMDQtIvlBsQeYbiinR_z7vLpRi1Cl9beTdbCdE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Terrance McKinney apologizes after failing to make weight for UFC 334",
+    "url": "https://www.sportsnet.ca/ufc/article/terrance-mckinney-apologizes-after-failing-to-make-weight-for-ufc-334/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYHhEYjuOSPWxiZdGzsukFyyLs86jpYd_nmQkL7iHYeLXUcbYC8Yqk8HPHFw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334 video: Cesar Almeida upsets Donte Johnson with early TKO",
+    "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/ufc-334-video-cesar-almeida-upsets-donte-johnson-early-knockout/92788079007/",
+    "fuente": "MMA Junkie"
+   }
+  },
+  "oilers vs maple leafs": {
+   "termino": "oilers vs maple leafs",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkpV30Wx2ZgTssTiXdSPltRtfPY15FzQRftokA0w-Mjj9LT_o2KNzPH1Po00Q",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Report: Maple Leafs' Rielly scratched vs. Oilers with lower-body injury",
+    "url": "https://www.sportsnet.ca/nhl/article/report-maple-leafs-rielly-scratched-vs-oilers-with-lower-body-injury/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "grand theft auto": {
+   "termino": "grand theft auto",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXZhUR92tiWs0EIVDtC-5XKsA5uqe5ol9OYj9VY1QZ0O-AvxmWEIFAHzwMOgs",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Vancouver duo's song goes viral after featuring in Grand Theft Auto VI",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/grand-theft-auto-vi-gta-bob-moses-song-vancouver-9.7420997",
+    "fuente": "CBC"
+   }
+  },
+  "wild – bruins": {
+   "termino": "wild – bruins",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpIxK8HvX9HwOHa_gXBcabzK_xL6mgITZxn0EgQfr6B_W6J85EQBc9W_zVl8U",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Need to Know: Bruins vs. Wild",
+    "url": "https://www.nhl.com/bruins/news/need-to-know-bruins-vs-wild-x0673",
+    "fuente": "NHL.com"
+   }
   }
  },
  "CA/vancouver": {
@@ -18866,6 +20266,132 @@
     "titulo": "NHL On Tap: McDavid eyes point in 21st straight for Oilers at Maple Leafs",
     "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-14-2026",
     "fuente": "NHL.com"
+   }
+  },
+  "jamaica vs mexico": {
+   "termino": "jamaica vs mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Z0oRqzlXbzpYqrUajwx-lWe2LBPYUebCaA8DG-QlBMKqygcUTVVPJ5e6XIk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jamaica vs México en vivo: horarios, transmisión online y canales de los cuartos de final de la Liga de Naciones de Concacaf en España, Latinoamérica, México y Estados Unidos",
+    "url": "https://www.dazn.com/es-MX/news/f%C3%BAtbol/jamaica-vs-mexico-vivo-horarios-transmision-online-canales-liga-naciones-concacaf/pw77sqk6es8n12bwwn1stc1qs",
+    "fuente": "DAZN"
+   }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHUevjTUqhM6o4xZHtUFsdXcMDQtIvlBsQeYbiinR_z7vLpRi1Cl9beTdbCdE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Terrance McKinney apologizes after failing to make weight for UFC 334",
+    "url": "https://www.sportsnet.ca/ufc/article/terrance-mckinney-apologizes-after-failing-to-make-weight-for-ufc-334/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYHhEYjuOSPWxiZdGzsukFyyLs86jpYd_nmQkL7iHYeLXUcbYC8Yqk8HPHFw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334 video: Cesar Almeida upsets Donte Johnson with early TKO",
+    "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/ufc-334-video-cesar-almeida-upsets-donte-johnson-early-knockout/92788079007/",
+    "fuente": "MMA Junkie"
+   }
+  },
+  "pamela anderson": {
+   "termino": "pamela anderson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLkNJCj9V7hlkT9bn-rUTJz136g2r1z8KSoQTwoYdhw4s18inkx3RxRjy4GH0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Pamela Anderson Turns Her Garden into Stop-Motion for Sonsie’s Holiday Campaign (Exclusive)",
+    "url": "https://people.com/pamela-anderson-turns-garden-into-stop-motion-for-sonsies-holiday-campaign-exclusive-12249466",
+    "fuente": "People.com"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+    "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "prince harry, duke of sussex": {
+   "termino": "prince harry, duke of sussex",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_ZIDw9hTNF29YxNe-5YysMfR-gagOE6n1nJuEZZgU0md2v-JOOcGRwul1riI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Prince William has 'learned' to live without Prince Harry as royal feud reaches breaking point: expert",
+    "url": "https://www.foxnews.com/entertainment/prince-william-learned-live-without-prince-harry-royal-feud-reaches-breaking-point-expert",
+    "fuente": "Fox News"
+   }
+  },
+  "avalanche vs canadiens": {
+   "termino": "avalanche vs canadiens",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Avalanche at Canadiens projected lineups",
+    "url": "https://www.nhl.com/news/colorado-avalanche-montreal-canadiens-game-preview-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "amanda nunes": {
+   "termino": "amanda nunes",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvSxWOxlhPdyQ2dL4eQr4GFjqMZ49aRmAopqYUMuPQBsroCdL-1MwkB0T_VMY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘Humbled, hungry and ready’: Harrison eager to face Nunes at UFC 334",
+    "url": "https://www.sportsnet.ca/ufc/video/humbled-hungry-and-ready-harrison-eager-to-face-nunes-at-ufc-334/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "ontario snow forecast": {
+   "termino": "ontario snow forecast",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwFeWm5F1xurMeQk7mxcj3u9kN6CCxVjfjQG6d55SPwKBnjBCvbZg4KmAjmfg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "0 degrees and flurries: Southern Ontario gets a taste of winter",
+    "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/0-degrees-and-flurries-southern-ontario-gets-a-taste-of-winter",
+    "fuente": "The Weather Network"
    }
   }
  },
@@ -19936,11 +21462,11 @@
   "paramount": {
    "termino": "paramount",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 100,
+   "veces": 3,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYiEIDcmDFWFHatFy7iPNHOH186WjNJ7PqJT8Ztyl7YS_HWtDlLW2lfebx4I4",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Skydance plans to bundle HBO Max and Paramount+ next year",
     "url": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
@@ -19950,15 +21476,15 @@
   "ufc": {
    "termino": "ufc",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82aYidxqUCE8-74eRfQWf6K9twGbeJAxgdNnp-kiJ_pJxQTV322d3CMTH3XY",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "1000+",
+   "veces": 3,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHlWLMiuP_XdlcVGBTDjdrC1-RVriFcvNLTuNe8KLlevfuCtYVCmItRG_ekPY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "UFC Tonight: Fight By Fight Preview | Polymarket UFC 334: Gane vs Hokit",
-    "url": "https://www.ufc.com/news/ufc-tonight-fight-fight-preview-polymarket-ufc-334-gane-vs-hokit",
-    "fuente": "UFC.com"
+    "titulo": "Live Now! UFC 334 ‘Gane vs. Hokit’ play-by-play, results & round scoring",
+    "url": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
+    "fuente": "Sherdog"
    }
   },
   "liga colombiana": {
@@ -20015,25 +21541,25 @@
   "posiciones de atlético nacional contra once caldas": {
    "termino": "posiciones de atlético nacional contra once caldas",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiIJBQxNumxULy32qSIijV90I33x6KU48L8aUTQ-V8K1Uv7gMIsmgyJn4Nyso",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnw9KFHMfnQm05Ly0OvDuq2F8i5iUHfTMFeHhLvxmG5qG_qZ-nOVaKrsvXbdg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Los equipos que tendrán el 'punto invisible' en los cuadrangulares de la Liga BetPlay 2026-II",
-    "url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17515886/los-equipos-que-tendran-el-punto-invisible-en-los-cuadrangulares-de-la-liga-betplay-2026---ii",
-    "fuente": "ESPN Deportes"
+    "titulo": "Panthers vs. Blues (Nov 14, 2026) Live Score",
+    "url": "https://www.espn.com/nhl/game/_/gameId/401892716",
+    "fuente": "ESPN"
    }
   },
   "querétaro - monterrey": {
    "termino": "querétaro - monterrey",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ecOWudIGFbvT_ws-caurBBXCiBxY-rBR-zUn3BauZKj2xFiZQg1-AfCKbjI",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "¿Por qué Querétaro vs. Rayados no va por TV abierta en México? Cómo ver GRATIS por el Apertura 2026",
     "url": "https://bolavip.com/mx/ligamx/por-que-queretaro-vs-rayados-no-va-por-tv-abierta-en-mexico-como-ver-gratis-por-el-apertura-2026",
@@ -20043,11 +21569,11 @@
   "paolo guerrero": {
    "termino": "paolo guerrero",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ9dkGqvTKKuWQRqGiN4Z5VziVl7sG1VD8fYtKxuA2gDAvp2SHXvm-qiX5Pjw",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "No se guardó nada: Jean Ferrari le respondió al DT Bolivia, quien dijo que Perú intenta copiar su \"modelo\"",
     "url": "https://rpp.pe/futbol/seleccion-peruana/peru-vs-bolivia-jean-ferrari-responde-a-tecnico-oscar-villegas-previo-a-amistoso-los-llevaremos-a-cerro-de-pasco-a-ver-si-les-va-a-gustar-noticia-1717615",
@@ -20080,6 +21606,62 @@
     "titulo": "Sporting Cristal vs Alianza Atlético en vivo: ¿a qué hora juegan y dónde ver la final de la Copa Caliente 2026?",
     "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-alianza-atletico-en-vivo-a-que-hora-juegan-y-donde-ver-final-copa-caliente-2026-via-america-tv-y-bicolor-partidos-de-hoy-noticia-1717823",
     "fuente": "RPP Noticias"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4UlVBZUJffjs6RngvdWVMSM5RtgJb-CoVlPsm-3PyDjppw-nonj0e5E3ySfM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Rafa Márquez buscará primera victoria en la olvidada casa de Usain Bolt",
+    "url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17511958/mexico-marquez-busca-victoria-jamaica-casa-usain-bolt",
+    "fuente": "ESPN Argentina"
+   }
+  },
+  "club sporting cristal": {
+   "termino": "club sporting cristal",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvPM5jMqyjVZIPklsLfrSpUsC8mwnbfUcxSL_tx478XXLvtxw5VOAe4G9InU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Sporting Cristal vs Alianza Atlético en vivo: ¿a qué hora juegan y dónde ver la final de la Copa Caliente 2026?",
+    "url": "https://rpp.pe/futbol/descentralizado/sporting-cristal-vs-alianza-atletico-en-vivo-a-que-hora-juegan-y-donde-ver-final-copa-caliente-2026-via-america-tv-y-bicolor-partidos-de-hoy-noticia-1717823",
+    "fuente": "RPP Noticias"
+   }
+  },
+  "nacional - albion": {
+   "termino": "nacional - albion",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO2HcPOd0HDdZ53UzHAlt1kqAx1JK6Pn1Ib_ohAQWGkQOrgk9vU4GtEV00dac",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cuándo juegan Nacional vs. Albion por el Torneo Clausura: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.pe/futbol/uruguay/nota/_/id/17502672/nacional-vs-albion-fecha-14-torneo-clausura-2026-equipo-fecha-hora-y-tv-en-vivo",
+    "fuente": "espn.com.pe"
+   }
+  },
+  "mirassol vs": {
+   "termino": "mirassol vs",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Mirassol vs Atlético Mineiro: Brazilian Serie A stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/cqly3y5nelp7t",
+    "fuente": "BBC"
    }
   }
  },
@@ -21276,6 +22858,104 @@
     "titulo": "Partidos del fútbol chileno hoy 14 de noviembre: ¿qué duelos se juegan y dónde ver en vivo, por TV y online?",
     "url": "https://www.adnradio.cl/2026/11/14/partidos-del-futbol-chileno-hoy-14-de-noviembre-que-duelos-se-juegan-y-donde-ver-en-vivo-por-tv-y-online/",
     "fuente": "ADN Radio"
+   }
+  },
+  "cavaliers - mavericks": {
+   "termino": "cavaliers - mavericks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
+    "url": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
+    "fuente": "Cleveland.com"
+   }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbHB7LSiXFv9Januut7Mu9Yi4sRF7yaFv-YZrsgkKPg1SmlJBBFBzN8yO3zI8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "The Tao of Jim Miller",
+    "url": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "mexico vs": {
+   "termino": "mexico vs",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0upynC3R959cfPph_qO-DViT9P25Ftc4hKzys4GtRacjyxJFzeuhkGHS1il4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jamaica vs México: posibles alineaciones y lo que debes saber",
+    "url": "https://www.espn.cl/futbol/selecciones/nota/_/id/17513663/jamaica-vs-mexico-alineaciones-nations-league",
+    "fuente": "ESPN Chile"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpTOXdGj4ZnJgxXa6HaOkC-N0-ZOazt8t0tnb19g2P1lz0Mx0hh6RYoBOj2ig",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Mexico vs Jamaica live stream, start time, TV info for CONCACAF Nations League",
+    "url": "https://sports.yahoo.com/articles/mexico-vs-jamaica-live-stream-214407323.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7-tAn3X7B0CTet0Mf2Yr6_qc1EZgXaXIsjqLRoBa_X2MdXAEmAW2mHQSLKAU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334 Highlights! Almeida Saves UFC Career With Massive Upset TKO",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486065/watch-ufc-334-video-highlights-results-paramount-new-york-almeida-knockout-johnson",
+    "fuente": "MMA Mania"
+   }
+  },
+  "vlado mirosevic": {
+   "termino": "vlado mirosevic",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_E0iNtQD9XErdMiv_tBK3F6xe15ojeU2ffDXX6MgEWzRj7yYgsSf3PHn3jJA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Mirosevic anuncia que recurrirá al Consejo para la Transparencia por reserva de decretos sobre rebajas de condenas",
+    "url": "https://www.latercera.com/politica/noticia/mirosevic-anuncia-que-recurrira-al-consejo-para-la-transparencia-por-reserva-de-decretos-sobre-rebajas-de-condenas/",
+    "fuente": "La Tercera"
+   }
+  },
+  "pelicans - nuggets": {
+   "termino": "pelicans - nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
    }
   }
  },
@@ -22836,6 +24516,146 @@
     "titulo": "Spaccio di droga a Grosseto, un arresto",
     "url": "https://www.ansa.it/amp/toscana/notizie/2026/11/14/spaccio-di-droga-a-grosseto-un-arresto_11ac8df8-8a45-4dee-979c-265f3a076187.html",
     "fuente": "ANSA"
+   }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbHB7LSiXFv9Januut7Mu9Yi4sRF7yaFv-YZrsgkKPg1SmlJBBFBzN8yO3zI8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "The Tao of Jim Miller",
+    "url": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "cavaliers - mavericks": {
+   "termino": "cavaliers - mavericks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
+    "url": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
+    "fuente": "Cleveland.com"
+   }
+  },
+  "adrian suar": {
+   "termino": "adrian suar",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ocK_cuBG5yYhMOjDr_8-9Suq6r5YJwBzwOw9lRjW8iSZXDxFXWizZyWCLIA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Adrián Suar se luce en Netflix con su comedia más divertida y apenas dura 98 minutos",
+    "url": "https://www.a24.com/trends/adrian-suar-se-luce-netflix-su-comedia-mas-divertida-y-apenas-dura-98-minutos-n1616530",
+    "fuente": "A24.com"
+   }
+  },
+  "ufc": {
+   "termino": "ufc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHlWLMiuP_XdlcVGBTDjdrC1-RVriFcvNLTuNe8KLlevfuCtYVCmItRG_ekPY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Live Now! UFC 334 ‘Gane vs. Hokit’ play-by-play, results & round scoring",
+    "url": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
+    "fuente": "Sherdog"
+   }
+  },
+  "batalla campal": {
+   "termino": "batalla campal",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq1WaN7fQTso6bknZa5OCdJVTIR6Xhf4v5HygOT7chCxSOlEdFaodnnpHR06Q",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Batalla campal en el fútbol de ascenso: jugadores e integrantes del cuerpo técnico terminaron a las trompadas luego de un partido",
+    "url": "https://www.infobae.com/deportes/2026/11/14/batalla-campal-en-el-futbol-de-ascenso-jugadores-e-integrantes-del-cuerpo-tecnico-terminaron-a-las-trompadas-luego-de-un-partido/",
+    "fuente": "Infobae"
+   }
+  },
+  "petróleo": {
+   "termino": "petróleo",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgQSNgVMbSPFV7kxg87_YBHUGPhL5gA2GrWLLWH_w6z7VoLnEaAdTBWXtOJg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "El petróleo superó a la harina de soja y pasó a ser el principal producto de exportación de la Argentina",
+    "url": "https://www.infobae.com/economia/2026/11/14/el-petroleo-supero-a-la-harina-de-soja-y-paso-a-ser-el-principal-producto-de-exportacion-de-la-argentina/",
+    "fuente": "Infobae"
+   }
+  },
+  "juan josé campanella": {
+   "termino": "juan josé campanella",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnyu_GLTqxPp6-SW2hF70dShZ7d3OVTeO23t7-LxUYYgBuFJntOC52k4ab3Ss",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Netflix: Juan José Campanella sorprende con su nueva serie y es el estreno más esperado por todos",
+    "url": "https://www.a24.com/trends/netflix-juan-jose-campanella-sorprende-su-nueva-serie-y-es-el-estreno-mas-esperado-todos-n1616543",
+    "fuente": "A24.com"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI_qlNdfdIOfKiXTrPBBBaacWupkvU5nFTwrts_pX-QNtgDurmEn9SMuVDaKM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "México: Gilberto Mora vale casi el doble de Jamaica",
+    "url": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17517039/mexico-gilberto-mora-valor-doble-jamaica",
+    "fuente": "ESPN Argentina"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIt9SbeyUiA5NosplPC8lmt58eBC8Rjo_iu8uFG9PDLixjyL9S4FXJoUSvXVo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Gen.G and BLG Play for $1 Million in LoL Worlds Final Saturday in Brooklyn",
+    "url": "https://aroundprague.cz/en/news/us/gen-g-and-blg-play-for-1-million-in-lol-worlds-final-saturday-in-brooklyn",
+    "fuente": "Around Prague"
+   }
+  },
+  "ufc hoy": {
+   "termino": "ufc hoy",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPLT-tpBHDaNRBhBY3ysQq5ByDiHA74J24MW2dp0I53PyPR6iXaCKr68ArSp0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Quién pelea hoy sábado 14 de noviembre en boxeo y UFC, a qué hora y dónde ver los combates EN VIVO",
+    "url": "https://www.ole.com.ar/boxeo/pelea-hoy-sabado-14-noviembre-boxeo-ufc-hora-ver-vivo_0_VRFMuR5TJh.html",
+    "fuente": "Olé"
    }
   }
  },
@@ -24961,10 +26781,10 @@
   "bitcoin": {
    "termino": "bitcoin",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwMfeqAEviEsow6wAKLfHpkNdQzalBYIxSLpFLrt8zIHAjLj-GxmpRDnig44U",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
@@ -24975,15 +26795,15 @@
   "stream fighters 5 peleas": {
    "termino": "stream fighters 5 peleas",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRb57GfGY7VQs_M-GOUkKEnsHKeOU-fTbrRz4KcaX-ed7yDBgO1biHC4gg93l4",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVTS8-FyYpatVvy01ezVOFp9bkf9WdZClLekZXlxTSNuJg0HVjQ6M92x8Kgm0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Stream Fighters 5 en vivo: hora, dónde ver gratis y cartelera completa de peleas",
-    "url": "https://www.marca.com/co/2026/11/14/stream-fighters-5-vivo-hora-ver-gratis-cartelera-completa-peleas.html",
-    "fuente": "MARCA"
+    "titulo": "‘Stream Fighters 5′ EN VIVO: Yaya Muñoz se lleva el “Royal Rumble” femenino en el Coliseo Medplus",
+    "url": "https://www.infobae.com/colombia/2026/11/14/stream-fighters-5-en-vivo-no-se-pierda-todas-las-incidencias-del-combate-en-el-coliseo-medplus/",
+    "fuente": "Infobae"
    }
   },
   "borja sémper": {
@@ -25091,6 +26911,118 @@
     "titulo": "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
     "url": "https://www.espn.com/college-football/story/_/id/50484151/darian-mensah-dices-ex-team-duke-miami-rebounds-first-loss",
     "fuente": "ESPN"
+   }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbHB7LSiXFv9Januut7Mu9Yi4sRF7yaFv-YZrsgkKPg1SmlJBBFBzN8yO3zI8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "The Tao of Jim Miller",
+    "url": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "jamaica - méxico": {
+   "termino": "jamaica - méxico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvbEPwUz_WYESlYRsu1hf51ye3Y-3Aw9RB3Eqv_crj--MwbLQy3klrGGerW6s",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jamaica vs México en vivo: horarios, transmisión online y canales de los cuartos de final de la Liga de Naciones de Concacaf en España, Latinoamérica, México y Estados Unidos",
+    "url": "https://www.dazn.com/es-ES/news/futbol/jamaica-vs-mexico-vivo-horarios-transmision-online-canales-liga-naciones-concacaf/pw77sqk6es8n12bwwn1stc1qs",
+    "fuente": "DAZN"
+   }
+  },
+  "cavaliers - mavericks": {
+   "termino": "cavaliers - mavericks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
+    "url": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
+    "fuente": "Cleveland.com"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7-tAn3X7B0CTet0Mf2Yr6_qc1EZgXaXIsjqLRoBa_X2MdXAEmAW2mHQSLKAU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334 Highlights! Almeida Saves UFC Career With Massive Upset TKO",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486065/watch-ufc-334-video-highlights-results-paramount-new-york-almeida-knockout-johnson",
+    "fuente": "MMA Mania"
+   }
+  },
+  "pelicans - nuggets": {
+   "termino": "pelicans - nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMIzWXGkWluUfQ2lBU-R7sxq4gAOKEHRN51yhY8vCVALW6SFwEr5YFkY-UwUQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "A Year of Finals, a Year of Glory: BLG's Historic 2026",
+    "url": "https://www.sheepesports.com/en/articles/a-year-of-finals-a-year-of-glory-blg-s-historic-2026/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "ufc hoy": {
+   "termino": "ufc hoy",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8WfplfKz5BBaHVCCcChIk1I9krpWp0C0yiaAm1VTrvE7b60wLQVujyai3bA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334, dos cinturones en juego en el regreso al Madison Square Garden",
+    "url": "https://www.marca.com/combates-ufc/2026/11/14/ufc-334-dos-cinturones-juego-regreso-madison-square-garden.html",
+    "fuente": "MARCA"
+   }
+  },
+  "ascensor": {
+   "termino": "ascensor",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnMvSbX10EG_cj7hnq73htcEA4_NZA8S4f9fix5SZmWi9ZaKWhLJxTsL4ofQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "El fuerte viento tira la torre de un ascensor en construcción en La Paterna (Gran Canaria)",
+    "url": "https://www.elmundo.es/espana/2026/11/12/6af58298e85ece24768b459c.html",
+    "fuente": "El Mundo"
    }
   }
  },
@@ -26194,11 +28126,11 @@
   "banfield - boca juniors": {
    "termino": "banfield - boca juniors",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 500,
+   "veces": 3,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYJd2nqGeWevw2Qe6cs90Zk3Zwz3ADNJYQRw4u-WBbJn-3-4Ja0s_3oLZez3Y",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Banfield vs Boca Juniors en vivo: canales, streaming y horarios de la Copa Argentina para España, México, Latinoamérica y USA",
     "url": "https://www.dazn.com/es-ES/news/futbol/banfield-vs-boca-juniors-vivo-canales-streaming-horarios-clausura-argentina/zx3jq5rf8nq01xvwar1qg26bs",
@@ -26208,25 +28140,25 @@
   "joventut - zaragoza": {
    "termino": "joventut - zaragoza",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDN4FkkbsnnbgdRsDeWWnb-YVdIkRFK8fjI3F3yIsY_dhhF2fXmk_zqCCS2K4",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnV03HIYnZeC4R6JCDFfxFNlAvBuzLW0bQJ2DMRb6xT_V0ktJG0emtV_ywoYw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Laprovittola y Sulejmanovic acaban con la resistencia del Casademont Zaragoza en Badalona",
-    "url": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/11/14/laprovittola-sulejmanovic-acaban-con-resistencia-casademont-zaragoza-badalona-2068669.html",
-    "fuente": "heraldo.es"
+    "titulo": "ASISA Joventut gana el pulso a Casademont Zaragoza (99-94)",
+    "url": "https://acb.com/es/liga/noticias/asisa-joventut-gana-el-pulso-a-casademont-zaragoza-99-94-146446",
+    "fuente": "ACB"
    }
   },
   "haití - estados unidos": {
    "termino": "haití - estados unidos",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6f02MTn0DMqTMPGjlZ7PvEleu2i5noTkhvpCH-Z53zYirPi34_2tUvqnfXec",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Haití - Estados Unidos | Pronóstico y cuotas 14.11.2026",
     "url": "https://as.com/apuestas/pronosticos/haiti-vs-estados-unidos-pronostico-14-11-2026/",
@@ -26264,11 +28196,11 @@
   "carmen romero": {
    "termino": "carmen romero",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXwaHF4cl0TWbgdoFRYnLBNE5v9yPnDqJtNV7vBUXO1o9_1WVRrFKWi_6Mrb8",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Carmen Romero, exmujer de Felipe González “Cuando llegamos a La Moncloa nos asombró el jardín. Había dos secuoyas maravillosas. De ahí vino la afición de Felipe por los bonsáis”",
     "url": "https://www.lecturas.com/actualidad/carmen-romero-ex-mujer-felipe-gonzalez-cuando-llegamos-a-moncloa-nos-asombro-jardin-habia-dos-secuoyas-maravillosas-ahi-vino-aficion-felipe-por-bonsais_201343",
@@ -26278,10 +28210,10 @@
   "sueños de libertad": {
    "termino": "sueños de libertad",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOPy2-InU87qwwn4bJP589hBL6GO-DytHnr9gpj0SRAZLHndpthltJfC0fmQ",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Avance del próximo capítulo de Sueños de libertad: Damián, dispuesto a conseguir que Paula se marche de Toledo",
@@ -26292,15 +28224,43 @@
   "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca": {
    "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 10000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgQ0T-aQEBoKjwjn4G0DenM8Iu2WMmP6DBokW5DnAe6N3e9T4O0_aREtoZE0M",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGUxHAI6FOwq4PebWB0WYy73gdMspDw1e7TFiRChYLmdyQCFQPgReX8Jsg3bo",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "10000+",
    "noticia": {
-    "titulo": "Portugal - Dinamarca, en directo: UEFA Nations League, hoy en vivo",
-    "url": "https://as.com/futbol/internacional/portugal-dinamarca-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
-    "fuente": "Diario AS"
+    "titulo": "Portugal no está para homenajes",
+    "url": "https://www.marca.com/futbol/nations-league/cronica/2026/11/14/portugal-homenajes.html",
+    "fuente": "MARCA"
+   }
+  },
+  "ufc": {
+   "termino": "ufc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+    "fuente": "UFC.com"
+   }
+  },
+  "massiel": {
+   "termino": "massiel",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsTzUU3MBIEobcalT6XJ9Lj24z-Dyf4njPFwfqEQr2KNNfYDEHrCY5cXJrxvA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Massiel, sobre su relación con Luis Recatero: \"Fue una pesadilla\"",
+    "url": "https://www.20minutos.es/gente/massiel-sobre-su-relacion-con-luis-recatero-fue-una-pesadilla_7060938_0.html",
+    "fuente": "20Minutos"
    }
   }
  },
@@ -27353,10 +29313,10 @@
   "haití - estados unidos": {
    "termino": "haití - estados unidos",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6f02MTn0DMqTMPGjlZ7PvEleu2i5noTkhvpCH-Z53zYirPi34_2tUvqnfXec",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Haití - Estados Unidos | Pronóstico y cuotas 14.11.2026",
@@ -27367,10 +29327,10 @@
   "banfield - boca juniors": {
    "termino": "banfield - boca juniors",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYJd2nqGeWevw2Qe6cs90Zk3Zwz3ADNJYQRw4u-WBbJn-3-4Ja0s_3oLZez3Y",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "1000+",
    "noticia": {
     "titulo": "Banfield vs Boca Juniors en vivo: canales, streaming y horarios de la Copa Argentina para España, México, Latinoamérica y USA",
@@ -27395,38 +29355,38 @@
   "ufc": {
    "termino": "ufc",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf4MRrNxydUxUXIY9vJH6LqkXGUC3YjcFXdiXP3z1vXht6tC04J-iMgyk5pZk",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Melquizael Costa says Jared Gordon ‘going to get beat up bad’ at UFC 334, eyes fast turnaround for UFC 335",
-    "url": "https://www.mmafighting.com/ufc/520929/melquizael-costa-says-jared-gordon-going-to-get-beat-up-bad-at-ufc-334-eyes-fast-turnaround-for-ufc-335",
-    "fuente": "MMA Fighting"
+    "titulo": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+    "fuente": "UFC.com"
    }
   },
   "isabel peralta": {
    "termino": "isabel peralta",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIKICxkRgq3A-bi23ajLlNgjyUAWc6_cih0tnqn81EQyRPprVA4ZjiEexc1js",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrFxyxTbV48dBM9HICRQBZ9akIWboI8AIYjSrw_-fBwFYBTlwo3I9X1AGX3eQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
-    "url": "https://elpais.com/espana/2026-11-10/militantes-de-nucleo-nacional-recibieron-formacion-paramilitar-en-ucrania-con-fusiles.html",
-    "fuente": "EL PAÍS"
+    "titulo": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+    "url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+    "fuente": "El Mundo"
    }
   },
   "guillem gisbert": {
    "termino": "guillem gisbert",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaqLkBwYYfzgGYfWsl7wa6SZi7tDXbrPi6gj_9MkHMF2d5n9GLEsjFBXwcULQ",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Las palabras brutales de Guillem Gisbert sobre la lengua catalana, señalando 2 nombres: \"Dentro de 20 años...\"",
@@ -27437,24 +29397,24 @@
   "real zaragoza": {
    "termino": "real zaragoza",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMuZLTYYDDbzTY2NJeU8kfXoRo5kT0V3OBWXHfbx4IzUba2CT_lUYYVQ7mRM",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC34uP0hrOgR8DzVEILn6Encpo5vXt0j_SIrfgZ3zOjbfdmXURwSSTNfWGPxY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Goleada a la carrera: el Real Zaragoza es más líder en Jaén (0-4)",
-    "url": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2026/11/14/partido-jaen-real-zaragoza-cronica-resultado-goles-resumen-2068683.html",
-    "fuente": "heraldo.es"
+    "titulo": "Real Jaén 0 - Zaragoza 4: resumen, goles y resultado del partido de Primera Federación",
+    "url": "https://as.com/futbol/primera-rfef/real-jaen-zaragoza-en-directo-primera-federacion-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
    }
   },
   "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca": {
    "termino": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 5000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyjE8ITqAnvHObhdQLg5y8JEeZ-ksUvNrZT_iA7giGxg5MCHMnEMNa0W7j41Q",
-   "ultima_vez": "2026-11-14T23:31:13Z",
+   "ultima_vez": "2026-11-15T00:55:46Z",
    "trafico": "5000+",
    "noticia": {
     "titulo": "Portugal 1-4 Dinamarca: resumen, goles y resultado",
@@ -27473,6 +29433,34 @@
    "noticia": {
     "titulo": "Real Valladolid 0 - 1 CD Castellón: resumen, goles y resultado",
     "url": "https://as.com/futbol/segunda/real-valladolid-cd-castellon-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "massiel": {
+   "termino": "massiel",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsTzUU3MBIEobcalT6XJ9Lj24z-Dyf4njPFwfqEQr2KNNfYDEHrCY5cXJrxvA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Massiel, sobre su relación con Luis Recatero: \"Fue una pesadilla\"",
+    "url": "https://www.20minutos.es/gente/massiel-sobre-su-relacion-con-luis-recatero-fue-una-pesadilla_7060938_0.html",
+    "fuente": "20Minutos"
+   }
+  },
+  "la liga 2": {
+   "termino": "la liga 2",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNC7JvLGr8zX_1pNUNGhcv75jBkxdQteTi8zqxrOP0JWWi9rjFl4mflVdzrdw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Resumen y goles del Real Oviedo vs. Girona, jornada 14 de LaLiga Hypermotion",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-oviedo-vs-girona-jornada-14-de-laliga-hypermotion-f202611-v/",
     "fuente": "Diario AS"
    }
   }
@@ -27495,15 +29483,15 @@
   "ufc": {
    "termino": "ufc",
    "primera_vez": "2026-11-14T03:09:44Z",
-   "veces": 7,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLBHELOe7gkuAgF4SGwR-6IR9NsdFeeb2QBK60nLlDlQ85mhkVS9JwJM_gG6E",
-   "ultima_vez": "2026-11-14T05:46:43Z",
-   "trafico": "200+",
+   "veces": 8,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHYgCr8TZpXGuk8Ku3vZxCKALxclb8Ds1rlYBwpfO7bTPc2OdHoN5zF74F5gI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
-    "url": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
-    "fuente": "MMA Fighting"
+    "titulo": "UFC: Eight face jail over Usman Nurmagomedov-Merab Dvalishvili mass brawl",
+    "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+    "fuente": "BBC"
    }
   },
   "seleção portuguesa de futebol sub-21": {
@@ -28857,15 +30845,15 @@
   "salvador salvador": {
    "termino": "salvador salvador",
    "primera_vez": "2026-11-14T22:34:19Z",
-   "veces": 2,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDJ29MB2J1Ou2qdwePB38C5QNH7rZTfDlDf6Yg9bSh3N8PtgwavHTwjHH-11w",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "veces": 3,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYA2EuYgq1nbaoZpUpaZ2wl9ieHnTNZyQuAxaGx1eFwZvU6N2Cr5KGAz0XQEI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Salvador apadrinhou estreia do irmão João no Sporting",
-    "url": "https://www.abola.pt/noticias/salvador-apadrinhou-estreia-do-irmao-joao-no-sporting-2026111313015702488",
-    "fuente": "A Bola"
+    "titulo": "Irmãos Salvador em destaque na vitória do Sporting com João a estrear-se aos 15 anos e a marcar",
+    "url": "https://sapo.pt/artigo/irmaos-salvador-em-destaque-na-vitoria-do-sporting-com-joao-a-estrear-se-aos-15-anos-e-a-marcar-6af8834556a09239b4eb17e1",
+    "fuente": "SAPO"
    }
   },
   "meo arena": {
@@ -28969,11 +30957,11 @@
   "jessica athayde": {
    "termino": "jessica athayde",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcBZtNZ6SAaIapu6qokPWj_nEVcOnsA_Y7TxMLNT7aZQrzOT5ZTfXSraCcCXY",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Jessica Athayde irreconhecível: \"Carregadinha de colagénio\"",
     "url": "https://selfie.iol.pt/famosos/jessica-athayde/jessica-athayde-irreconhecivel-carregadinha-de-colagenio/20261113/6af744cf0cf2051820fb19e7",
@@ -28983,15 +30971,15 @@
   "ufc 334": {
    "termino": "ufc 334",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNhmPg_a22EsYq8HrCDNXe8XwzySDIv04wocDDyYKrJjW_JL-64mqMmJ5JJOU",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiayrrNHDYHwCIZRZgKSs72xhL77RcbAyOQsafAJXVJxbdOOVtv-va3P_93Sc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "UFC 334 predictions",
-    "url": "https://www.mmafighting.com/ufc/520964/ufc-334-predictions",
-    "fuente": "MMA Fighting"
+    "titulo": "UFC 334 Highlights! Mesquita Quickly Subs Chiasson To Win Fourth Straight",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486043/watch-ufc-334-video-highlights-results-paramount-new-york-mesquita-submission-chiasson",
+    "fuente": "MMA Mania"
    }
   },
   "joão neves": {
@@ -29006,6 +30994,76 @@
     "titulo": "Cristiano Ronaldo faces reported dig in Joao Neves’ ‘real captain’ comment aimed at Bruno Fernandes, but th...",
     "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-faces-reported-dig-in-joao-neves-real-captain-comment-aimed-at-bruno-fernandes-but-theres-a-catch-behind-viral-portugal-video/",
     "fuente": "World Soccer Talk"
+   }
+  },
+  "playstation 5": {
+   "termino": "playstation 5",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxzYwmjobFJfmIA37-Y0Y6TPoPpkeFUJDNfMGVM4bX2B2BkQD_YOgK0Pq2WBA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Action lança jogos de PS5 ao preço mais baixo de sempre",
+    "url": "https://www.magazine-hd.com/apps/wp/action-lanca-jogos-ps5-preco-mais-baixo-sempre/",
+    "fuente": "Magazine.HD"
+   }
+  },
+  "you can see everything": {
+   "termino": "you can see everything",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwwtCEZSUqT-YGqOVzVpQlhMreJgKcMZZYpi2KFSss863RFm06NpV3CbgkUY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Billy Evans calls his portrayal in Elizabeth Holmes documentary \"crazy\" but says: \"It's entertainment\"",
+    "url": "https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-documentary-portrayal/",
+    "fuente": "CBS News"
+   }
+  },
+  "bitcoin": {
+   "termino": "bitcoin",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r4oG-jQgA66xAfUJl2YBVtBpGpSuFL1npX5uiO06FiCLA2kGJuBrwZVx1Xg",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bitcoin Drops Under $65,000, Reports Influencer @Gemini",
+    "url": "https://cryptonews.net/news/bitcoin/33753469/",
+    "fuente": "Cryptonews.net"
+   }
+  },
+  "crédito": {
+   "termino": "crédito",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmPTO8LM5-8oYbZ61jkGEPcP4i_3yLC3rVdOTw8ojUiIMtt7-0mvGCcwPsb7s",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Previdência e Bolsa Família terão crédito de R$ 149 bi após aval do Congresso",
+    "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso",
+    "fuente": "Senado"
+   }
+  },
+  "chapecoense x vasco da gama": {
+   "termino": "chapecoense x vasco da gama",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIdxThts2epzCAV522-webAJueWH5enP550hlDy4WHCaAmHyHhwPTbaRmusqA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Chapecoense x Vasco: onde assistir ao vivo, horário e escalações",
+    "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/noticia/2026/11/14/chapecoense-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+    "fuente": "ge"
    }
   }
  },
@@ -31374,15 +33432,15 @@
   "donte johnson": {
    "termino": "donte johnson",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0lKO0q1iUe9ZfC6-AQR06FiGGRmCNtiSjg1mQXnZ-LnZohL768lQG70-rPg",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYHhEYjuOSPWxiZdGzsukFyyLs86jpYd_nmQkL7iHYeLXUcbYC8Yqk8HPHFw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Prediction, pick for Donte Johnson vs. Cesar Almeida at UFC 334",
-    "url": "https://dknetwork.draftkings.com/2026/11/14/prediction-pick-for-donte-johnson-vs-cesar-almeida-at-ufc-334/",
-    "fuente": "DraftKings Network"
+    "titulo": "UFC 334 video: Cesar Almeida upsets Donte Johnson with early TKO",
+    "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/ufc-334-video-cesar-almeida-upsets-donte-johnson-early-knockout/92788079007/",
+    "fuente": "MMA Junkie"
    }
   },
   "caio borralho": {
@@ -31411,6 +33469,132 @@
     "titulo": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina",
     "url": "https://www.wtatennis.com/videos/4609029/rivalry-rewind_-the-best-of-linda-noskova-vs-elina-svitolina",
     "fuente": "WTA Tennis"
+   }
+  },
+  "drug": {
+   "termino": "drug",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkpJ7K223HUAQiaK2NnfXWrm7E1PgKLeZB5jBchdIYcnh0YwjGpMpSa2Q-VaM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Most Service Users and Staff Favor Retaining Remote Drug and Alcohol Support",
+    "url": "https://bioengineer.org/most-service-users-and-staff-favor-retaining-remote-drug-and-alcohol-support/",
+    "fuente": "Bioengineer.org"
+   }
+  },
+  "jamaica vs mexico": {
+   "termino": "jamaica vs mexico",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQWil6oRXZpndg_uggV5snJpTt9-N7qEb2TUZo-VIcWwL0fNyp53KbmgZ6q0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Rafa Márquez deja atrás los ensayos: comienza la verdadera prueba del nuevo México",
+    "url": "https://www.si.com/mx/futbol/rafa-marquez-deja-atras-los-ensayos-comienza-la-verdadera-prueba-del-nuevo-mexico",
+    "fuente": "Sports Illustrated"
+   }
+  },
+  "ufc 335": {
+   "termino": "ufc 335",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0B_UFzEzMl_SSn47KYUV7LZqpYuqxt3P9q5sjDyCA7429zYxW1k_D-HYVOG8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 335 & UFC 336 Pre-Fight Press Conference In New York City",
+    "url": "https://www.ufc.com/video/161940",
+    "fuente": "UFC.com"
+   }
+  },
+  "kevin holland": {
+   "termino": "kevin holland",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCrHI4iks0K4x800ccL8OXxoFS0ic1I8qkT_wQrn2EGPq8YuL9zByb9kI-cI4",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334 Main Card Odds, Picks & Predictions (2026)",
+    "url": "https://www.bettingpros.com/articles/ufc-334-main-card-odds-picks-predictions-2026/",
+    "fuente": "BettingPros"
+   }
+  },
+  "pelicans vs nuggets": {
+   "termino": "pelicans vs nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVFtaXQmvM3BvMe1z6mFvl893dqfWUbkhhMSOU0WjNiR9TF-psq8qKlmGv-l0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Denver Nuggets vs New Orleans Pelicans Prediction, Picks & Odds | NBA Saturday",
+    "url": "https://www.sportsgambler.com/betting-tips/basketball/denver-nuggets-vs-new-orleans-pelicans-prediction-odds-6019784/",
+    "fuente": "Sportsgambler"
+   }
+  },
+  "aew full gear 2026": {
+   "termino": "aew full gear 2026",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9nPAHXNT3kZbGFb5PLg-_NNrlHGhSiKvwiiFBmw-7wRhVXjb_u076JEVIeNU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "AEW Landed Licensed Songs For Full Gear",
+    "url": "https://www.fightful.com/wrestling/aew-landed-licensed-songs-for-full-gear/",
+    "fuente": "Fightful"
+   }
+  },
+  "ufc": {
+   "termino": "ufc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+    "fuente": "UFC.com"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+    "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "usa fc": {
+   "termino": "usa fc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7qDv2vnDCYgGHWC9BuVZeavWbWV6RdyBTWRZjYjJkWVoLVorqQreEfzbCWY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "NWSL players demand more respect for women's sports amid playoff venue issues",
+    "url": "https://www.espn.com/soccer/story/_/id/50473608/nwsl-playoffs-stadium-gotham-fc-womens-sports-washington",
+    "fuente": "ESPN"
    }
   }
  },
@@ -33859,6 +36043,146 @@
     "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
     "fuente": "CoinDesk"
    }
+  },
+  "jim miller": {
+   "termino": "jim miller",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbHB7LSiXFv9Januut7Mu9Yi4sRF7yaFv-YZrsgkKPg1SmlJBBFBzN8yO3zI8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "The Tao of Jim Miller",
+    "url": "https://www.ufc.com/news/the-way-of-jim-miller-polymarket-ufc-334",
+    "fuente": "UFC.com"
+   }
+  },
+  "cavaliers – mavericks": {
+   "termino": "cavaliers – mavericks",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYYwzGPdGfIFMxzk99lMHH4RE-5cN-xn8F1DlU-tOstzITkBapb4gXz88oi14",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘This is unprecedented’: Donovan Mitchell wants Saturday’s game cancelled with Cavs grounded in Miami",
+    "url": "https://www.cleveland.com/cavs/2026/11/this-is-unprecedented-donovan-mitchell-wants-saturdays-game-cancelled-with-cavs-grounded-in-miami.html",
+    "fuente": "Cleveland.com"
+   }
+  },
+  "denzel washington": {
+   "termino": "denzel washington",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwQyX_1j3nYDK5sbPgih3dEFhITWDT0qpCWhnaAB-7YMAMmuE68Cz_d-RGmYI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "From Man On Fire To The Book Of Eli, These 10 Denzel Washington Movies Deserve More Love From Critics",
+    "url": "https://screenrant.com/denzel-washington-movies-better-than-rotten-tomatoes-scores/",
+    "fuente": "ScreenRant"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7-tAn3X7B0CTet0Mf2Yr6_qc1EZgXaXIsjqLRoBa_X2MdXAEmAW2mHQSLKAU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "UFC 334 Highlights! Almeida Saves UFC Career With Massive Upset TKO",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486065/watch-ufc-334-video-highlights-results-paramount-new-york-almeida-knockout-johnson",
+    "fuente": "MMA Mania"
+   }
+  },
+  "lpl": {
+   "termino": "lpl",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaHDTsTwnbb5-ECkofzAJ-QkZMft22eHh-g7yrxtG5im4-GGt2p2RXwX6sTWc",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Lipid Gene Lpl Shows Anti-Inflammatory Potential in Kidney Disease",
+    "url": "https://bioengineer.org/lipid-gene-lpl-shows-anti-inflammatory-potential-in-kidney-disease/",
+    "fuente": "Bioengineer.org"
+   }
+  },
+  "amanda nunes": {
+   "termino": "amanda nunes",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLUisCk9tke9YE_S9aY4IwIyjvwdP2Fx4mON1UJ102BBtl2KDIcmG5r9Q8ds0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334: Amanda Nunes out of retirement for new challenge",
+    "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6e3dw87pyjeo",
+    "fuente": "BBC"
+   }
+  },
+  "pelicans – nuggets": {
+   "termino": "pelicans – nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "viper lol": {
+   "termino": "viper lol",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9-dINX1vx6XemnlyHGVtDxHOl8EAEB97y5hNHuTcxOz_h0mENtJNN9YrnDY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Knight finally win his first World Championship title: The ultimate missing feat of the golden left hand",
+    "url": "https://www.sheepesports.com/en/articles/knight-finally-win-his-first-world-championship-title-the-ultimate-missing-feat-of-the-golden/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "italie": {
+   "termino": "italie",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnVkECm4H7mCZHOrIsbcTaMiACe20B4YmySnlBnGctLCWo0fQjOBsiDOFrO88",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Mark Van Bommel (Belgique) : « L'Italie m'a particulièrement impressionné contre la France »",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-belgique-mark-van-bommel-belgique-l-italie-m-a-particulierement-impressionne-contre-la-france/20245588",
+    "fuente": "L'Équipe"
+   }
+  },
+  "star ac": {
+   "termino": "star ac",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG5bMlPdjRBPkhnc1u1nmKkCHWwyw3G54UTgzWdxiFebLP5gxMUYrs9UpJ3GA",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pourquoi Marine, gagnante de la «Star Academy», ne peut aller voir ses fans",
+    "url": "https://www.20minutes.fr/arts-stars/4262861-20261114-pourquoi-marine-gagnante-star-academy-interdiction-aller-rencontre-fans",
+    "fuente": "20 Minutes"
+   }
   }
  },
  "IT": {
@@ -33921,11 +36245,11 @@
   "hunger games": {
    "termino": "hunger games",
    "primera_vez": "2026-11-14T03:09:44Z",
-   "veces": 2,
-   "max_trafico": 100,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRupgmm0qbD6kqmG3pmfnDOI4Xct5DedepFY4eIqFdcscA5cloUGNR_5oS_tI",
-   "ultima_vez": "2026-11-14T04:05:16Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Mckenna Grace Wows in Silver Dress with Joseph Zada at ‘Hunger Games: Sunrise on the Reaping’ Mexico City Event",
     "url": "https://www.imdb.com/news/ni66110723/?ref_=nwc_art_perm",
@@ -36356,6 +38680,132 @@
     "titulo": "WTA Finals in tv: dalle 21 Pegula-Andreeva e Noskova-Svitolina, sfide generazionali",
     "url": "https://www.supertennis.tv/News/Wta/WTA-Finals-semifinali-Pegula-Andreeva-e-Noskova-Svitolina",
     "fuente": "SuperTennis"
+   }
+  },
+  "donna": {
+   "termino": "donna",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtLyeMplrIDrOOdzSbV3lHUWIB0TNwfApQVnEaxC5cHbzVQmcJ_B34j1nWAHM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bologna, dramma al raduno dei fan di Elisa: 35enne nel pubblico muore per un malore",
+    "url": "https://www.rainews.it/tgr/emiliaromagna/articoli/2026/11/bologna-dramma-al-raduno-dei-fan-di-elisa-35enne-nel-pubblico-muore-per-un-malore-9c8577f0-6186-4117-ba78-98ecdad6a2c6.html",
+    "fuente": "RaiNews"
+   }
+  },
+  "tv oled": {
+   "termino": "tv oled",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgwkwlRyr1F8COZJZD80jjm82L7nEsRtHIgyiKbh99BH2U9DGGhf5K9kV3bgk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Best Buy’s Huge Black Friday OLED TV Sale Just Got a New LG Doorbuster Deal",
+    "url": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+    "fuente": "CNET"
+   }
+  },
+  "sal da vinci": {
+   "termino": "sal da vinci",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLFqDypBsXabAirSLDQsuKCymidL8UOJ_DZBRMQC9c_fsNoL6jGr1V-JULAiQ",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Sal Da Vinci, arriva l'autobiografia Per sempre Sal",
+    "url": "https://tg24.sky.it/spettacolo/musica/2026/11/13/sal-da-vinci-autobiografia",
+    "fuente": "Sky TG24"
+   }
+  },
+  "pelicans - nuggets": {
+   "termino": "pelicans - nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+    "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "pellacani": {
+   "termino": "pellacani",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKKpNMxyjsX63PG2QHotWe9P4gcHbUESUE-_WKXYmz7a2F2ILfkOtColKyi0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Orientamenti, alla scoperta dei propri talenti per scegliere il futuro con l’area orientativa",
+    "url": "https://www.primocanale.it/attualit%C3%A0/73449-orientamenti,-alla-scoperta-dei-propri-talenti-per-scegliere-il-futuro-con-l-area-orientativa.html",
+    "fuente": "Primocanale"
+   }
+  },
+  "ornella muti": {
+   "termino": "ornella muti",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2eTglMEWmFMHdwA_NXMHDzQYRyfQOo8lnkvpnlIIn5eg3DCP-7K8tXvsoQow",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Marco Bocci, Antonia Desplat e Chiara Pellacani a \"Ballando con le Stelle\"",
+    "url": "https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2026/11/Marco-Bocci-Antonia-Desplat-e-Chiara-Pellacani-a--Ballando-con-le-Stelle-3946a038-3092-48c9-8475-b0c055fc43bd-ssi.html",
+    "fuente": "Rai.it"
+   }
+  },
+  "meteo napoli": {
+   "termino": "meteo napoli",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqxi-0zcYhINRXDsFVw7ODZ_vlWNGUXBw-hqD8gniV75clcwWNKvmH3Y_-z-M",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Proroga di avviso di allerta meteo per fenomeni meteorologici avversi dalle ore 15:00 di venerdì 13 novembre alle ore 12:00 di sabato 14 novembre 2026",
+    "url": "https://www.comune.napoli.it/novita/allerta-meteo-12-novembre-2026/",
+    "fuente": "Comune di Napoli"
+   }
+  },
+  "barbara d'urso": {
+   "termino": "barbara d'urso",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT1CRmcL7J6Jh-obX6GIRKXaHazH5623t82ZjOhkG85j8zKve9af_MgwNHubU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Ballando con le Stelle, Mariotto dà della falsa a Barbara D'Urso e spruzza profumo: «Che puzza». Lei: «Milly, scegli me o lui»",
+    "url": "https://www.ilmessaggero.it/persone/ballando_con_le_stelle_mariotto_contro_barbara_d_urso_cosa_e_successo-9890189.html",
+    "fuente": "Il Messaggero"
    }
   }
  },
@@ -38855,6 +41305,132 @@
     "url": "https://www.instyle.com/colin-farrell-opens-up-son-james-health-battle-angelman-syndrome-12251765",
     "fuente": "InStyle"
    }
+  },
+  "potsdamer straße": {
+   "termino": "potsdamer straße",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcSeYQsMwgCHIJooo83Bwp2h0iW2yP37_LzpAMa99mdXTKXb5-4o5JUWhuWKU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Berlin-Mitte: Kind bei Verkehrsunfall mit Bus tödlich verletzt",
+    "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-tiergarten-unfall-kind-stirbt-bus-bvg.html",
+    "fuente": "rbb24.de"
+   }
+  },
+  "maple leafs – oilers": {
+   "termino": "maple leafs – oilers",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBvu4N2BfOnz6eKCSBu5k01vKYLxJUfbu4d4MKDMhv1a4Ux45k2wP4SEEDuoI",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "NHL On Tap: McDavid eyes point in 21st straight for Oilers at Maple Leafs",
+    "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-14-2026",
+    "fuente": "NHL.com"
+   }
+  },
+  "pelicans – nuggets": {
+   "termino": "pelicans – nuggets",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTH0MjP2NSerILh0bxNXVD88qEYTgNIPftDOmBIwbcRNJ0sM6XJCTTtRvpYV0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Final Injury Report for Nuggets-Pelicans: Will Trey Murphy III, Dejounte Murray Play?",
+    "url": "https://sports.yahoo.com/articles/final-injury-report-nuggets-pelicans-200000073.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "lippstadt": {
+   "termino": "lippstadt",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEohy9TckMabniiAOCZhaSZuVOI3sOuggZ6xtps_iA4e1HTyDHqiItHlOwSFY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Lippstadt - versuchter Totschlag",
+    "url": "https://polizei.nrw/fahndung/221707",
+    "fuente": "Polizei NRW"
+   }
+  },
+  "ufc": {
+   "termino": "ufc",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+    "fuente": "UFC.com"
+   }
+  },
+  "biathlon geilo": {
+   "termino": "biathlon geilo",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK_g055ZWemxPlxlw-BVjdK-qc5r4QfVHzUonUWS3kRZCHOyR5gIdxWdR62uU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Große Überraschung bei der Biathlon-Saisoneröffnung",
+    "url": "https://www.bild.de/sport/mehr-sport/grosse-ueberraschung-bei-der-biathlon-saisoneroeffnung-6af8958b9849eea0701e2ec0",
+    "fuente": "BILD"
+   }
+  },
+  "stubaier gletscher": {
+   "termino": "stubaier gletscher",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3rb4lWAO-JZMwfdy4BavmSqpHs6Qi69Z8wKKrNI6MM3XruoK_KbFcWCj0zhk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Variantenfahrer stirbt bei Lawinenabgang",
+    "url": "https://tirol.orf.at/stories/3379551/",
+    "fuente": "tirol.ORF.at"
+   }
+  },
+  "dana diekmeier": {
+   "termino": "dana diekmeier",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8VAg0_7xWPdUKnpBU_hreONOdA5_N_5Nd87JQILF-F4OCc1KVf5g2X2v3dxY",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Delani Diekmeier: „Man muss sich nicht einschließen“ – Leben mit Krebs",
+    "url": "https://www.bild.de/unterhaltung/stars-und-leute/delani-diekmeier-man-muss-sich-nicht-einschliessen-leben-mit-krebs-6af6eb797f8bbad09ea61ff2",
+    "fuente": "BILD"
+   }
+  },
+  "lpl": {
+   "termino": "lpl",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "LoL Esports 2027 and Beyond",
+    "url": "https://lolesports.com/en-gb/news/lol-esports-2027-and-beyond",
+    "fuente": "LoL Esports"
+   }
   }
  },
  "NL": {
@@ -40718,25 +43294,25 @@
   "ufc": {
    "termino": "ufc",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLUisCk9tke9YE_S9aY4IwIyjvwdP2Fx4mON1UJ102BBtl2KDIcmG5r9Q8ds0",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "1000+",
+   "veces": 2,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCG-BvZ8wuNV3azOuoncDwqfHC2t5cEhxO-bRmTlkuKeMec9UmELftLc0g7nE",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "UFC 334: Amanda Nunes out of retirement for new challenge",
-    "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c6e3dw87pyjeo",
-    "fuente": "BBC"
+    "titulo": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+    "url": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+    "fuente": "UFC.com"
    }
   },
   "bitcoin koers": {
    "termino": "bitcoin koers",
    "primera_vez": "2026-11-14T23:31:13Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZzyD0KhdYCaZOkKROGFOI5qtyXneqv9eg_qKruXwTxkrCkwjvinbmGYcw0MU",
-   "ultima_vez": "2026-11-14T23:31:13Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Bitcoin zakt onder 70.000 dollar: hoge Amerikaanse inflatie schrikt af",
     "url": "https://www.nu.nl/economie/6416446/bitcoin-zakt-onder-70000-dollar-hoge-amerikaanse-inflatie-schrikt-af.html",
@@ -40755,6 +43331,118 @@
     "titulo": "’U komt mij bekend voor. Doet u ook iets in het voetbal?’",
     "url": "https://www.dvhn.nl/sport/u-komt-mij-bekend-voor.-doet-u-ook-iets-in-het-voetbal/164315517.html",
     "fuente": "DVHN"
+   }
+  },
+  "donte johnson": {
+   "termino": "donte johnson",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7-tAn3X7B0CTet0Mf2Yr6_qc1EZgXaXIsjqLRoBa_X2MdXAEmAW2mHQSLKAU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "UFC 334 Highlights! Almeida Saves UFC Career With Massive Upset TKO",
+    "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486065/watch-ufc-334-video-highlights-results-paramount-new-york-almeida-knockout-johnson",
+    "fuente": "MMA Mania"
+   }
+  },
+  "blg": {
+   "termino": "blg",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+    "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+    "fuente": "Sheep Esports"
+   }
+  },
+  "hbo max": {
+   "termino": "hbo max",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIyKn4H971EAJUI2NYH3Q2qM6Z3y4kFE5qTBHrixHf-Uwrv_NW4LF1MTmVftM",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Ana de Armas' (Very) R-Rated 99-Minute Thriller Remake Is Officially Being Pulled From Streaming",
+    "url": "https://movieweb.com/knock-knock-streaming-november-2026/",
+    "fuente": "MovieWeb"
+   }
+  },
+  "stoomboot van sinterklaas": {
+   "termino": "stoomboot van sinterklaas",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyqRjD5oNGpRrh5qjMzeQ3qxA-m55YM-dnQfn6LR8t1Hghc9svsprts14xETU",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Sint goed en wel terug in Nederland: 'Wees een beetje lief voor elkaar'",
+    "url": "https://www.nu.nl/media/6416533/sint-goed-en-wel-terug-in-nederland-wees-een-beetje-lief-voor-elkaar.html",
+    "fuente": "NU"
+   }
+  },
+  "zwolle": {
+   "termino": "zwolle",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWjXoqspfX3pBxznTGw2qF38Fm3u0Zzp2YbtOQi8FFLVQtVM7vMouQyKAAovw",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Elf kappers naast elkaar in één winkelstraat in Zwolle, Huseyin wil maar één ding van de gemeente",
+    "url": "https://www.ad.nl/zwolle/elf-kappers-naast-elkaar-in-een-winkelstraat-in-zwolle-huseyin-wil-maar-een-ding-van-de-gemeente~af4ca019/",
+    "fuente": "AD.nl"
+   }
+  },
+  "bitcoin": {
+   "termino": "bitcoin",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwMfeqAEviEsow6wAKLfHpkNdQzalBYIxSLpFLrt8zIHAjLj-GxmpRDnig44U",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "kevin de bruyne ajax": {
+   "termino": "kevin de bruyne ajax",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8FYqRacqQ1WJLAACJME2yAVM21xPWYwKCbGIzOR88g5D439KHJ3RXFBzKKN0",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "PSV-target Kevin De Bruyne en vrouw onder vuur in Italië na opmerkelijke uitspraken: ‘Ze veranderen in klonen van David en Victoria Beckham’",
+    "url": "https://www.ed.nl/psv/psv-target-kevin-de-bruyne-en-vrouw-onder-vuur-in-italie-na-opmerkelijke-uitspraken-ze-veranderen-in-klonen-van-david-en-victoria-beckham~ae8d43eb/",
+    "fuente": "Eindhovens Dagblad"
+   }
+  },
+  "haiti vs usa": {
+   "termino": "haiti vs usa",
+   "primera_vez": "2026-11-15T00:55:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_pSOi4ue0NjjLTiD-faKOMlTidYUDPOUfi9K5MDnFwCwIBy3V_Z3KahznMLk",
+   "ultima_vez": "2026-11-15T00:55:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "USMNT rout Haiti in Nations League opener",
+    "url": "https://onefootball.com/en/news/usmnt-rout-haiti-in-nations-league-opener-43778447",
+    "fuente": "OneFootball"
    }
   }
  }
