@@ -1916,15 +1916,15 @@
   "76ers - pacers": {
    "termino": "76ers - pacers",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0p5tkUJNdDrSK-Krm8o4Z2VDJ8lOtOh9OfmsHCCNrKglP0S3P6lvT4cHKzr8",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg3tMD1rNbvmr8wDhqGxP8AC6NixUeChsBq-9xXJ5iZAFUg0Y60MLORjQzl4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Sixers (sans Embiid) begin back-to-back with matinee hosting Pacers",
-    "url": "https://www.libertyballers.com/76ers-game-previews/101909/philadelphia-sixers-indiana-pacers-nba-preview-joel-embiid-lebron-james-tyrese-haliburton-pascal-siakam",
-    "fuente": "Liberty Ballers"
+    "titulo": "Ivica Zubac is key for Pacers matchup against Joel Embiid-less Sixers",
+    "url": "https://8points9seconds.com/ivica-zubac-is-key-for-indiana-pacers-matchup-against-joel-embiid-less-philadelphia-sixers",
+    "fuente": "8 Points 9 Seconds"
    }
   },
   "finlandia vs": {
@@ -1953,6 +1953,118 @@
     "titulo": "¡EN VIVO! Ronaldinho, en busca del gol 300, regresó al fútbol profesional en Italia",
     "url": "https://www.espn.com.co/futbol/italia/nota/_/id/17518861/ronaldinho-vuelve-futbol-profesional-ravenna-fc-serie-c-italia",
     "fuente": "ESPN Colombia"
+   }
+  },
+  "envigado fc": {
+   "termino": "envigado fc",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmEPvNlyVzhMypJZ0y2rh49aL0UhgNiOwLrRaLmePMilE9X0xlDc5pza9yNqY",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Envigado puede asegurar este domingo su regreso a la primera división del fútbol colombiano: las cuentas",
+    "url": "https://www.eltiempo.com/deportes/futbol-colombiano/envigado-puede-asegurar-este-domingo-su-regreso-a-la-primera-division-del-futbol-colombiano-las-cuentas-3601186",
+    "fuente": "El Tiempo"
+   }
+  },
+  "italia vs": {
+   "termino": "italia vs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3iQVakyqWDILDnuagmv9aTlFFdanl76jeZR385_eiw3ERpFA4tsZ9lMhrXKs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Frattesi le puso la firma a un golazo colectivo de Italia ante Francia por la Nations League",
+    "url": "https://www.espn.com.co/futbol/nota/_/id/17509207/italia-vs-francia-uefa-nations-league-2026-2027-video-gol-frattesi",
+    "fuente": "ESPN Colombia"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNvK76_Q-MDedQfjzjcdRlgVHvuJjSAEWMnKtXh1w-1ULc1lB5s-f8Ly3NEWc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Spain v England: Nations League test will reveal if Thomas Tuchel has learned lessons",
+    "url": "https://www.bbc.com/sport/football/articles/cq2d9l3e313zo",
+    "fuente": "BBC"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiC66MfDm0OdNTKGmTrt4IaeG7r6JCDAZvYjFvQp42fY-0eikDJ_1CCzaQkJI",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "España vs. Inglaterra, el plato fuerte de fútbol este domingo: hora y dónde ver por TV",
+    "url": "https://www.eltiempo.com/deportes/futbol-internacional/espana-vs-inglaterra-el-plato-fuerte-de-futbol-este-domingo-hora-y-donde-ver-por-tv-3601234",
+    "fuente": "El Tiempo"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWF18vfumeIk6UiQ_RbVvbp_nH8aQ1nmQSoHxgbilJFEbXL7SujemTWfdVT0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhaxcnz51t76u3Hh-U2feI3VRUoArZMumLQCSWEk08ETamtIwzO0b2lz_Fuqw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Cuándo juegan Bélgica vs. Italia por la UEFA Nations League 2026/27: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.co/futbol/nota/_/id/17511485/belgica-vs-italia-uefa-nations-league-2026-2027-hora-tv-en-vivo",
+    "fuente": "ESPN Colombia"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28bHRQ6VchThSU55Xh2-W_3YJj3Hlm3fKfTw99SoHQKcW0NnnfPJH_Z4bkR8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Croacia - República Checa en directo: UEFA Nations League hoy, en vivo",
+    "url": "https://as.com/futbol/internacional/croacia-republica-checa-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "falcons - chiefs": {
+   "termino": "falcons - chiefs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Mcq242k3xirDx2ZZyaLlH5jrF1mgXDsaRtSUJH4-g5OuUSDerAtP9_FLYLU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Cousins' back-shoulder 24-yard toss to Felton puts Vikings in prime-scoring position",
+    "url": "https://www.nfl.com/videos/cousins-back-shoulder-24-yard-toss-to-felton-puts-vikings-in-prime-scoring-position",
+    "fuente": "NFL.com"
    }
   }
  },
@@ -5133,6 +5245,132 @@
     "url": "https://www.espn.com.mx/futbol-americano/nota/_/id/17512840/nfl-chiefs-kenneth-walker-falcons-semana-11",
     "fuente": "ESPN México"
    }
+  },
+  "josh downs": {
+   "termino": "josh downs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRn4hfw21xrSw8bfj7A9HQQlNesUrVJOUFQvjQ7BYnOZ37qkG2PyB72BIaMuqA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Josh Downs Opens Up About Emotional Goodbyes In Indianapolis As Patrick Mahomes’ Kansas City Chiefs Become His New Home",
+    "url": "https://sports.ndtv.com/us/nfl/josh-downs-opens-up-about-emotional-goodbyes-in-indianapolis-as-patrick-mahomes-kansas-city-chiefs-become-his-new-home-12328517",
+    "fuente": "NDTV Sports"
+   }
+  },
+  "raiders vs seahawks": {
+   "termino": "raiders vs seahawks",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKSZ-NhnB38wePCjEtmERZzzJSmlv0y41xggeqCN_HQxBnEkscyuLciMdDXuo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Behind Enemy Lines: 5 things to know about the Las Vegas Raiders",
+    "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/11/15/seahawks-vs-raiders-5-things-to-know-about-las-vegas-for-nfl-week-10/92781285007/",
+    "fuente": "Seahawks Wire"
+   }
+  },
+  "fernando mendoza": {
+   "termino": "fernando mendoza",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyHCNuaQoJDT1r5GUEjuOyZEqNBS0GBqA9AThx8zgNkB40NGghfs7RZvU-Rco",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Klint Kubiak y Mike Macdonald se reencontrarán en el Raiders vs. Seahawks de la Semana 10",
+    "url": "https://www.mediotiempo.com/futbol-americano/nfl/klint-kubiak-mike-macdonald-reencontraran-raiders-vs-seahawks-semana-10",
+    "fuente": "Mediotiempo"
+   }
+  },
+  "demi moore": {
+   "termino": "demi moore",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHoeGJ--vrXkSsQA0sOzCY9P-Fffieenmt5eBe1kOF3noUU68c6oJT6jZOn2Q",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Demi Moore’s 3 Daughters Rumer, Scout, and Tallulah Tower Over Her During Rare Red Carpet Appearance",
+    "url": "https://www.instyle.com/demi-moore-daughters-rumer-scout-tallulah-willis-baby2baby-gala-2026-12255849",
+    "fuente": "InStyle"
+   }
+  },
+  "myles price": {
+   "termino": "myles price",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz7PpqmyE9TafG-8C-7S6h4h1XcAZimhkL27fWbnMwJef61xSOMEXkX2MVbl0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Packers must corral Vikings return man Myles Price",
+    "url": "https://sports.yahoo.com/articles/packers-must-corral-vikings-return-220000686.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "humedad": {
+   "termino": "humedad",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjWyB4bsceJ5C9mllRZLvBcn-tfIBj0MKssmAKfXJPmrNDV6viEs3oSTMWltw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Santiago, albañil: “Para arreglar una pared con humedad hay que picar hasta llegar a la superficie firme”",
+    "url": "https://www.lanacion.com.ar/lifestyle/santiago-albanil-para-arreglar-una-pared-con-humedad-hay-que-picar-hasta-llegar-a-la-superficie-nid15112026/",
+    "fuente": "La Nación"
+   }
+  },
+  "panama vs curazao": {
+   "termino": "panama vs curazao",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0w2M7XQRleabqdVYpGdzfz2zXBNROvIGLGuQ0JmFbZF-dQywKqETR_CrIZnQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El DT de Panamá pide \"un paso más\" a su equipo para ganar títulos",
+    "url": "https://es-us.noticias.yahoo.com/deportes/dt-panam%C3%A1-pide-paso-equipo-122129863.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThNYbruNoCGyng0i4AOPS7RotzzQgZ1XllIpQqoc0fcajNkpugJB-d4e7_VOU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "A qué hora y dónde ver el partido España vs. Inglaterra de UEFA Nations League 2026-27",
+    "url": "https://www.tudn.com/futbol/uefa-nations-league/espana-vs-inglaterra-a-que-hora-y-donde-ver-el-partido-de-uefa-nations-league-2026-27",
+    "fuente": "TUDN"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqkZyzENpAlFfgg2p0cAP3UKMOtrZ16k0nYbMlZAx9IYaFF-vLlil4bO6fpkU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Dónde ver Bélgica vs Italia: a qué hora es el juego EN VIVO",
+    "url": "https://www.milenio.com/deportes/futbol-internacional/belgica-vs-italia-en-vivo-hoy-minuto-minuto-uefa-nations-league-2026",
+    "fuente": "Milenio"
+   }
   }
  },
  "EC": {
@@ -6170,10 +6408,10 @@
   "alexander zverev": {
    "termino": "alexander zverev",
    "primera_vez": "2026-11-15T14:40:11Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6hc5wtBvM188HhAn3hTsUyiR9znBQtqEMA6EMKK5NFDtmvGPZJBOCYXXokpQ",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Highlights: Zverev powers past Jodar at Nitto ATP Finals 2026",
@@ -6184,10 +6422,10 @@
   "sadio mané": {
    "termino": "sadio mané",
    "primera_vez": "2026-11-15T14:40:11Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCf-m-m_b4t_mvmg1lAmHALhHKvacIK-59PhaYHUMS_nqNFuToRERlZOzwv4",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Will Cristiano Ronaldo and Joao Felix follow too? Sadio Mane will probably have to leave Al-Nassr | Goal.com India",
@@ -6240,43 +6478,85 @@
   "ronaldinho": {
    "termino": "ronaldinho",
    "primera_vez": "2026-11-15T16:37:24Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK9vf1oeSmUXm3ZMO6qFd4eRWSwDBfbe9ONIxntw6lvV2nqQbX8QAnFQBAiRE",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMeqkCbhcuGjEznMuTGtKOjwyvtHYR6B4nhJK1Ivr1JzptLpg7vKUWgzIT8uQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Ronaldinho plays 45 minutes on his debut for Italian side Ravenna at age of 46",
-    "url": "https://www.skysports.com/football/live-blog/13612463/ronaldinho-plays-45-minutes-on-his-debut-for-italian-side-ravenna-at-age-of-46",
-    "fuente": "Sky Sports"
+    "titulo": "Licensable picture: Italian Serie C Ravenna-Forli , Ronaldinho Comes Back",
+    "url": "https://www.reutersconnect.com/item/italian-serie-c-ravenna-forli-ronaldinho-comes-back/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBHRU9PUk8",
+    "fuente": "Reuters Connect"
    }
   },
   "deportivo - barcelona": {
    "termino": "deportivo - barcelona",
    "primera_vez": "2026-11-15T17:32:39Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLve4GFA2I-4l7pNfNKd2XSp-S638RN6mtiGCGqPOFHygzIaMUk4L8ssqsxxo",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn6jxxbWunUybbYvBXjb3GBen9i4K9TLDh3U_bfo97J8Ly8-cGqWYCPkeBH7c",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Empate en el Di Stéfano",
-    "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo-femenino/cronicas/empate-en-el-di-stefano-14-11-2026",
-    "fuente": "Real Madrid CF | Web Oficial"
+    "titulo": "Deportivo - Barcelona, en directo hoy: partido de la Liga F, en vivo",
+    "url": "https://www.sport.es/es/noticias/barca/futbol-femenino/deportivo-barcelona-directo-hoy-partido-136469363",
+    "fuente": "SPORT"
    }
   },
   "finlandia - san marino": {
    "termino": "finlandia - san marino",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Finland vs San Marino: UEFA Nations League stats & head-to-head",
     "url": "https://www.bbc.com/sport/football/live/cv702341je34t",
     "fuente": "BBC"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFdxeuL3Fnag3bASz7LDvAE_qxZkRmJ3lyIhxTz0e7Rfd1AXJ540JbLcm6-c",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Thomas Tuchel, DT de Inglaterra, dice que España “parece invencible”",
+    "url": "https://www.eluniverso.com/deportes/futbol/thomas-tuchel-dt-de-inglaterra-dice-que-espana-parece-invencible-nota/",
+    "fuente": "El Universo"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlWJaEe08N5QIofsx7olN7ZHPU8oLcw_cnxySyiWWf5OAPRoFshHxT190wyAQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Zidane afronta su primera 'final': \"No pienso en el fracaso\"",
+    "url": "https://www.marca.com/futbol/nations-league/2026/11/15/zidane-afronta-primera-final-pienso-fracaso.html",
+    "fuente": "MARCA"
+   }
+  },
+  "76ers - pacers": {
+   "termino": "76ers - pacers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0p5tkUJNdDrSK-Krm8o4Z2VDJ8lOtOh9OfmsHCCNrKglP0S3P6lvT4cHKzr8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Sixers (sans Embiid) begin back-to-back with matinee hosting Pacers",
+    "url": "https://www.libertyballers.com/76ers-game-previews/101909/philadelphia-sixers-indiana-pacers-nba-preview-joel-embiid-lebron-james-tyrese-haliburton-pascal-siakam",
+    "fuente": "Liberty Ballers"
    }
   }
  },
@@ -11133,6 +11413,146 @@
     "url": "https://www.cbssports.com/fantasy/football/news/chiefs-josh-downs-set-to-make-chiefs-debut/",
     "fuente": "CBS Sports"
    }
+  },
+  "jets backup qb": {
+   "termino": "jets backup qb",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGUp-N6TR0BR9A5f4by8LHdCIJd8KTZrasEuxc8XDiJAqHk7tQ_Ah3tbXNrWA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "DB Jordan Hancock activated and QB Shane Buechele elevated, DB Te'Cory Couch released | Week 10",
+    "url": "https://www.buffalobills.com/news/db-jordan-hancock-activated-and-qb-shane-buechele-elevated-db-te-cory-couch-released-week-10",
+    "fuente": "Buffalo Bills"
+   }
+  },
+  "kc current vs gotham": {
+   "termino": "kc current vs gotham",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVygXnMtYEJ1atmg7kHa_p50IaDMnEU3TmTMj46Wgyo6UfbWfmAwL2DaEk_l0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "FAA ground stop delays KC Current’s flight to NWSL semifinal against Gotham FC - The Athletic",
+    "url": "https://www.nytimes.com/athletic/7780360/2026/11/13/faa-ground-stop-nwls-kc-current-flight-travel-gotham/",
+    "fuente": "The New York Times"
+   }
+  },
+  "kyle van noy": {
+   "termino": "kyle van noy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-jhpx-oe-iJpBzGCq_j0T6IsqexYD6ZE3H1vA8Oxo07hxwamyQCCDzLjhqEo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Super Bowl champion Kyle Van Noy details what really happens when a player gets traded at the deadline",
+    "url": "https://www.foxnews.com/outkick-sports/super-bowl-champion-kyle-van-noy-details-what-really-happens-when-player-gets-traded-deadline",
+    "fuente": "Fox News"
+   }
+  },
+  "alvin kamara": {
+   "termino": "alvin kamara",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNkZqsj_GbfZcva43661rBLi0ncecvuY9YCLoCyPUnMEZAGks4WNWGDyUoEhg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+    "url": "https://www.espn.com/nfl/story/_/id/50483551/saints-rb-travis-etienne-activated-ir-game-vs-panthers",
+    "fuente": "ESPN"
+   }
+  },
+  "cade klubnik": {
+   "termino": "cade klubnik",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWmZonBQqu7zVYwg8BUpRZDhubq-A0hSiLJ4fa5LNrLB38rN8QEH1wkM3aUY8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Jets fans aren’t ready for Cade Klubnik yet",
+    "url": "https://www.ganggreennation.com/new-york-jets-discussion/98533/jets-fans-arent-ready-for-cade-klubnik-yet",
+    "fuente": "Gang Green Nation"
+   }
+  },
+  "spain fc": {
+   "termino": "spain fc",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgSQV4amtiDNpZYvTT3dy_LjGMd5dwlb-HsLHeo_v-QQrCbgTa5ztZvQ5TGP4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+    "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+    "fuente": "The Guardian"
+   }
+  },
+  "xavier worthy": {
+   "termino": "xavier worthy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz3C-i_Q0nM-QzoIhr_-MEhPt1q_T1iZDGtXcw2emWOz9-10vmfSdqloHKAWo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Will Xavier Worthy play today? Injury news, update for Chiefs WR",
+    "url": "https://sports.yahoo.com/articles/xavier-worthy-play-today-injury-104524385.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "aaron jones": {
+   "termino": "aaron jones",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6R_mth8ssp72q4nUNsx59_XJifSxHiEDsSCi-g7R1C6vHkunrOHKo2AH27PM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Who Should I Start? Aaron Jones Sr. or Emmett Johnson",
+    "url": "https://fantasyfootballcalculator.com/start/aaron-jones-sr.-or-emmett-johnson",
+    "fuente": "Fantasy Football Calculator"
+   }
+  },
+  "travis hunter": {
+   "termino": "travis hunter",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGvvstxQ-RDhBhCmyDIIWXTkh6uZyr9HYg4tq4Cmr_Ummd6niwv3rCHGu90zw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Can't-Miss Play: Travis Hunter swoops in front of Elic Ayomanor for epic INT against Cam Ward",
+    "url": "https://www.nfl.com/videos/can-t-miss-play-travis-hunter-swoops-in-front-of-elic-ayomanor-for-epic-int-against-cam-ward",
+    "fuente": "NFL.com"
+   }
+  },
+  "jerry jeudy": {
+   "termino": "jerry jeudy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc-9ET0IoCMhG2H34ljmD5opjfpseHiN_RhBPvDBjH_nYhn_ApBls279_bdRA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "One Browns Rookie Just Got The Call He’s Been Waiting For",
+    "url": "https://www.brownsnation.com/one-browns-rookie-just-got-the-call-hes-been-waiting-for/",
+    "fuente": "Browns Nation"
+   }
   }
  },
  "US/nueva-york": {
@@ -14368,6 +14788,132 @@
     "titulo": "Hunter Henry ready to suit up vs. Lions",
     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-13/hunter-henry-ready-to-suit-up-vs-lions",
     "fuente": "NBC Sports"
+   }
+  },
+  "jets backup qb": {
+   "termino": "jets backup qb",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGUp-N6TR0BR9A5f4by8LHdCIJd8KTZrasEuxc8XDiJAqHk7tQ_Ah3tbXNrWA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "DB Jordan Hancock activated and QB Shane Buechele elevated, DB Te'Cory Couch released | Week 10",
+    "url": "https://www.buffalobills.com/news/db-jordan-hancock-activated-and-qb-shane-buechele-elevated-db-te-cory-couch-released-week-10",
+    "fuente": "Buffalo Bills"
+   }
+  },
+  "vikings game": {
+   "termino": "vikings game",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHdmUgo72XJ0ZmMT-vXxfu7U6NuMxBXc4s1lFlfZqfLn2FvkHA5BEbC96An7A",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Packers vs. Vikings | How to watch, stream & listen | Week 10",
+    "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-10-2026",
+    "fuente": "Green Bay Packers – packers.com"
+   }
+  },
+  "jets qb": {
+   "termino": "jets qb",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWmZonBQqu7zVYwg8BUpRZDhubq-A0hSiLJ4fa5LNrLB38rN8QEH1wkM3aUY8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jets fans aren’t ready for Cade Klubnik yet",
+    "url": "https://www.ganggreennation.com/new-york-jets-discussion/98533/jets-fans-arent-ready-for-cade-klubnik-yet",
+    "fuente": "Gang Green Nation"
+   }
+  },
+  "seth mcgowan": {
+   "termino": "seth mcgowan",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPNoMQn71GyOaJIVE8PSClPqpjw6xTvns_CCzTY4lrq5Dz3ro6byv-Ndt-gT4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jonathan Taylor's Trade Value Questioned by NFL Insiders After Colts Rejected Deal at 2026 Deadline",
+    "url": "https://bleacherreport.com/articles/25533174-jonathan-taylors-trade-value-questioned-nfl-insiders-after-colts-rejected-deal-2026-deadline",
+    "fuente": "Bleacher Report"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcE_rd_qv23rN2kwNGGZLqvMl9elV8Yhg6HNeRPKltb-lqRF8jBLbrPKyTns",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "usc vs south carolina": {
+   "termino": "usc vs south carolina",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuq5-jEo8nAtx8KsMApZVfLsUlnKueTrxtUR4U4JWjxae2YWK7ab5LmsfOqN4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "The Real SC to be Decided Sunday in Greenville",
+    "url": "https://gamecocksonline.com/news/2026/11/14/the-real-sc-to-be-decided-sunday-in-greenville/",
+    "fuente": "University of South Carolina Athletics"
+   }
+  },
+  "omar cooper jr": {
+   "termino": "omar cooper jr",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8IXlNA5P4Gx1bj8Owc0ip7JAo8hyOCNVI7lQwOYs5oMJFL4KhUlAonF9w4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cooper Jr. heads to locker room with ankle injury",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-15/cooper-jr-heads-to-locker-room-with-ankle-injury",
+    "fuente": "NBC Sports"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg57PRz6QnHmAU7f_ewjK1zbiI0W7Ys87JOhn-rrD39h5uRkXmVwUUdgNMbuc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "España vs Inglaterra: posibles alineaciones y probabilidades",
+    "url": "https://espndeportes.espn.com/futbol/euro/nota/_/id/17516819/espana-vs-inglaterra-alineaciones-nations-league",
+    "fuente": "ESPN Deportes"
+   }
+  },
+  "belgium vs italy": {
+   "termino": "belgium vs italy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Belgium vs Italy: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmx27n430548t",
+    "fuente": "BBC"
    }
   }
  },
@@ -17744,6 +18290,118 @@
     "titulo": "Finland vs San Marino: UEFA Nations League stats & head-to-head",
     "url": "https://www.bbc.com/sport/football/live/cv702341je34t",
     "fuente": "BBC"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPdSlf08pod8R-3m4gSkPOxVdJFc52mj-f1mRVpfaAsIzjPoku9DhDdAFJUiw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "«¡El fútbol italiano me ha hecho madurar!»: Charles De Ketelaere se sincera antes del trascendental duelo contra Italia",
+    "url": "https://es-us.noticias.yahoo.com/deportes/f%C3%BAtbol-italiano-madurar-charles-ketelaere-073720635.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzr3i-ecrCSlwqKE_e13B7BuWO2_OycKD0Y2P5AEJ5A_Xst3oXDPNePuhQV0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Croacia - República Checa - Pronóstico, dónde ver, horario y alineaciones 15-11-2026",
+    "url": "https://onefootball.com/es/apuestas/pronosticos/croacia-vs-republica-checa-15-11-2026",
+    "fuente": "OneFootball"
+   }
+  },
+  "seth mcgowan": {
+   "termino": "seth mcgowan",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPNoMQn71GyOaJIVE8PSClPqpjw6xTvns_CCzTY4lrq5Dz3ro6byv-Ndt-gT4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jonathan Taylor's Trade Value Questioned by NFL Insiders After Colts Rejected Deal at 2026 Deadline",
+    "url": "https://bleacherreport.com/articles/25533174-jonathan-taylors-trade-value-questioned-nfl-insiders-after-colts-rejected-deal-2026-deadline",
+    "fuente": "Bleacher Report"
+   }
+  },
+  "raiders schedule": {
+   "termino": "raiders schedule",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThp-ufeN_yYTVthbZSlIxkmgUJDPTX-J5GVu0a0GD8DbaDzfl6gvLjEsMeXEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade",
+    "url": "https://www.espn.com/nfl/story/_/id/50485164/sources-raiders-had-fernando-mendoza-plan-even-no-cousins-trade",
+    "fuente": "ESPN"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg57PRz6QnHmAU7f_ewjK1zbiI0W7Ys87JOhn-rrD39h5uRkXmVwUUdgNMbuc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "España vs Inglaterra: posibles alineaciones y probabilidades",
+    "url": "https://espndeportes.espn.com/futbol/euro/nota/_/id/17516819/espana-vs-inglaterra-alineaciones-nations-league",
+    "fuente": "ESPN Deportes"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWF18vfumeIk6UiQ_RbVvbp_nH8aQ1nmQSoHxgbilJFEbXL7SujemTWfdVT0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "croatia vs czechia": {
+   "termino": "croatia vs czechia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIak-BGZysGnLmP2akEkxEVs5_FxBh421_IqrOag67fuU4_nPjWLRPXpiWhrM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Preview: Croatia vs Czech Republic - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-czech-republic-prediction-team-news-lineups_609075.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "malik washington": {
+   "termino": "malik washington",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XFV73C_UYcP6w2YrdYXALAMSHIt3ZOOcwjFuvyYPb39vBQlCrWFvF3AqqD8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Maryland QB Malik Washington doesn't start vs. Wisconsin",
+    "url": "https://www.espn.com/college-football/story/_/id/50480722/source-maryland-qb-malik-washington-start-vs-wisconsin",
+    "fuente": "ESPN"
    }
   }
  },
@@ -21157,6 +21815,118 @@
     "titulo": "Walmart Black Friday Deals start now: Score early savings from Ninja, HP, Shark, Apple and more",
     "url": "https://shopping.yahoo.com/deals/breaking-news/article/walmart-black-friday-deals-start-now-score-early-savings-from-ninja-hp-shark-apple-and-more-115816712.html",
     "fuente": "Yahoo"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPdSlf08pod8R-3m4gSkPOxVdJFc52mj-f1mRVpfaAsIzjPoku9DhDdAFJUiw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "«¡El fútbol italiano me ha hecho madurar!»: Charles De Ketelaere se sincera antes del trascendental duelo contra Italia",
+    "url": "https://es-us.noticias.yahoo.com/deportes/f%C3%BAtbol-italiano-madurar-charles-ketelaere-073720635.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "aaron jones": {
+   "termino": "aaron jones",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6R_mth8ssp72q4nUNsx59_XJifSxHiEDsSCi-g7R1C6vHkunrOHKo2AH27PM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Who Should I Start? Aaron Jones Sr. or Emmett Johnson",
+    "url": "https://fantasyfootballcalculator.com/start/aaron-jones-sr.-or-emmett-johnson",
+    "fuente": "Fantasy Football Calculator"
+   }
+  },
+  "minnesota vikings vs green bay packers match player stats": {
+   "termino": "minnesota vikings vs green bay packers match player stats",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHdmUgo72XJ0ZmMT-vXxfu7U6NuMxBXc4s1lFlfZqfLn2FvkHA5BEbC96An7A",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Packers vs. Vikings | How to watch, stream & listen | Week 10",
+    "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-10-2026",
+    "fuente": "Green Bay Packers – packers.com"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzr3i-ecrCSlwqKE_e13B7BuWO2_OycKD0Y2P5AEJ5A_Xst3oXDPNePuhQV0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Croacia - República Checa - Pronóstico, dónde ver, horario y alineaciones 15-11-2026",
+    "url": "https://onefootball.com/es/apuestas/pronosticos/croacia-vs-republica-checa-15-11-2026",
+    "fuente": "OneFootball"
+   }
+  },
+  "greenbay": {
+   "termino": "greenbay",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9v4k_jRC699X_5QH6ehEmzE-n4KT5xzSqWbWuu5K7QOkqZ1zLtrgFlCq29FA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Vikings vs. Packers Inactives for Week 10 of 2026",
+    "url": "https://www.vikings.com/news/inactives-packers-week-10-2026",
+    "fuente": "Minnesota Vikings"
+   }
+  },
+  "seth mcgowan": {
+   "termino": "seth mcgowan",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPNoMQn71GyOaJIVE8PSClPqpjw6xTvns_CCzTY4lrq5Dz3ro6byv-Ndt-gT4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jonathan Taylor's Trade Value Questioned by NFL Insiders After Colts Rejected Deal at 2026 Deadline",
+    "url": "https://bleacherreport.com/articles/25533174-jonathan-taylors-trade-value-questioned-nfl-insiders-after-colts-rejected-deal-2026-deadline",
+    "fuente": "Bleacher Report"
+   }
+  },
+  "raiders qb": {
+   "termino": "raiders qb",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThp-ufeN_yYTVthbZSlIxkmgUJDPTX-J5GVu0a0GD8DbaDzfl6gvLjEsMeXEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade",
+    "url": "https://www.espn.com/nfl/story/_/id/50485164/sources-raiders-had-fernando-mendoza-plan-even-no-cousins-trade",
+    "fuente": "ESPN"
+   }
+  },
+  "omar cooper jr": {
+   "termino": "omar cooper jr",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2ONp5eCQElq2I1mrGwY0j_enE2ppPxq-jX9scdMxEUkNJHiN22-Cv5yKoXDk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Buffalo Bills Get Concerning Injury News Ahead of Jets Week 10 Game",
+    "url": "https://sports.yahoo.com/articles/buffalo-bills-concerning-injury-news-174952711.html",
+    "fuente": "Yahoo Sports"
    }
   }
  },
@@ -24594,6 +25364,132 @@
     "url": "https://www.raiders.com/news/how-to-watch-listen-to-and-livestream-raiders-vs-seahawks",
     "fuente": "Raiders.com"
    }
+  },
+  "josh downs": {
+   "termino": "josh downs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg369hH53HNF8VI79NNLOrRx8Si5LBHp2KX3LYTa649rt5pjjANXo_5J65MC8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Josh Downs brings different dimension to Chiefs’ offense. Here’s how",
+    "url": "https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article318052280.html",
+    "fuente": "Kansas City Star"
+   }
+  },
+  "harrison smith": {
+   "termino": "harrison smith",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjCV8qN3_e-G2WgzhSUOYdnfqSJIT46M8KmMmSa3GbmImts1N38Rh3bcFtgLE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Harrison Smith snags Jordan Love's pass inside the end zone for DB's 41st career INT",
+    "url": "https://www.nfl.com/videos/harrison-smith-snags-jordan-love-s-pass-inside-the-end-zone-for-db-s-41st-career-int",
+    "fuente": "NFL.com"
+   }
+  },
+  "greg harbaugh": {
+   "termino": "greg harbaugh",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59mUT-v0xCIHD0KPixqGlHoobsluCF7Y7cbg-M9sZrDgUptQWfyUBS0_HhVs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Minnesota fires OC Greg Harbaugh Jr., ending third stint with Gophers",
+    "url": "https://www.espn.com/college-football/story/_/id/50491908/minnesota-fires-oc-greg-harbaugh-jr-ending-3rd-gophers-stint",
+    "fuente": "ESPN"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzr3i-ecrCSlwqKE_e13B7BuWO2_OycKD0Y2P5AEJ5A_Xst3oXDPNePuhQV0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Croacia - República Checa - Pronóstico, dónde ver, horario y alineaciones 15-11-2026",
+    "url": "https://onefootball.com/es/apuestas/pronosticos/croacia-vs-republica-checa-15-11-2026",
+    "fuente": "OneFootball"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPdSlf08pod8R-3m4gSkPOxVdJFc52mj-f1mRVpfaAsIzjPoku9DhDdAFJUiw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "«¡El fútbol italiano me ha hecho madurar!»: Charles De Ketelaere se sincera antes del trascendental duelo contra Italia",
+    "url": "https://es-us.noticias.yahoo.com/deportes/f%C3%BAtbol-italiano-madurar-charles-ketelaere-073720635.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "julian edelman": {
+   "termino": "julian edelman",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFhCFjVuJ5sthVTZMSK6H2HHgQ1DNRtkZk7hZXvgBWsg36Hd6n702Bs_hNnw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
+    "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
+    "fuente": "ESPN"
+   }
+  },
+  "seth mcgowan": {
+   "termino": "seth mcgowan",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCp4LNoOiWIxygCmuzENQF_sF5a2091MSQLsWzLkX2egk36ijcZIEQVI102E0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jonathan Taylor focused on being leader for Colts with trade deadline drama over",
+    "url": "https://www.espn.com/nfl/story/_/id/50463938/still-colts-jonathan-taylor-focused-being-leader",
+    "fuente": "ESPN"
+   }
+  },
+  "aaron jones": {
+   "termino": "aaron jones",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6R_mth8ssp72q4nUNsx59_XJifSxHiEDsSCi-g7R1C6vHkunrOHKo2AH27PM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Who Should I Start? Aaron Jones Sr. or Emmett Johnson",
+    "url": "https://fantasyfootballcalculator.com/start/aaron-jones-sr.-or-emmett-johnson",
+    "fuente": "Fantasy Football Calculator"
+   }
+  },
+  "juju watkins": {
+   "termino": "juju watkins",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZR-kwWImyY18rOZGmr3W38MfETEjjBISLrN0x6rjtGmfXjgGSqV8TaEqqCyc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "JuJu Watkins projected No. 1 WNBA pick in latest 2027 mock draft",
+    "url": "https://www.espn.com/wnba/story/_/id/50463130/wnba-mock-draft-2027-draft-lottery-projections",
+    "fuente": "ESPN"
+   }
   }
  },
  "CA": {
@@ -24908,15 +25804,15 @@
   "tesla cybercab": {
    "termino": "tesla cybercab",
    "primera_vez": "2026-11-14T04:49:30Z",
-   "veces": 6,
+   "veces": 7,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFzCV0H_PxLWf-ob0QAe8xY0Mtyzx9rOyg_OUFTPuql6zcUhbY1LAe7YqcPdE",
-   "ultima_vez": "2026-11-14T09:42:05Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-Lgvx9omZacZ53qfEXxEcvCVKJqr4papPqyb6se9a5wHJgo_wkT7qHeX5vE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
-    "url": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3",
-    "fuente": "WSJ"
+    "titulo": "Tesla invites select customers to buy Cybercab for personal use",
+    "url": "https://ca.finance.yahoo.com/news/tesla-invites-select-customers-buy-080131445.html",
+    "fuente": "Yahoo! Finance Canada"
    }
   },
   "yellowjackets": {
@@ -28422,6 +29318,132 @@
     "url": "https://www.thestar.com/sports/football/from-oktoberfest-to-the-nfl-how-munich-crowd-made-country-roads-a-stadium-ritual/article_d94340e9-b876-510a-b6ac-be65ae3879b5.html",
     "fuente": "Toronto Star"
    }
+  },
+  "croatie – tchéquie": {
+   "termino": "croatie – tchéquie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Croatie - Tchéquie, Ligue des nations A, match en direct le 15/11/2026",
+    "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/croatie-tchequie-live/688737",
+    "fuente": "L'Équipe"
+   }
+  },
+  "seth mcgowan": {
+   "termino": "seth mcgowan",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytmNdn2oFzUHJCRZfPYzA9gHGMOEoJUtKs4L-VP0L4cAU7AOFzPj_1XOZV1M",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "With Taylor off the trade market, Colts are keeping it business as usual for Dolphins clash",
+    "url": "https://www.tsn.ca/nfl/article/with-taylor-off-the-trade-market-colts-are-keeping-it-business-as-usual-for-dolphins-clash/",
+    "fuente": "TSN"
+   }
+  },
+  "josh downs": {
+   "termino": "josh downs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK8ox1wO4o9KDDV_TxxHS9ivGGvZSdeZE8AhePVT6EuN1yDP0FyzmIM0p0M1k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Why Josh Downs is different from the Chiefs’ past midseason trade acquisitions",
+    "url": "https://ca.sports.yahoo.com/news/why-josh-downs-different-chiefs-111500580.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "demi moore": {
+   "termino": "demi moore",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-wz-In8-yKViliprOdXjhMTRRLAz0m0q13cJ_ZueseptgT0C9iw0OtVMsmII",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Demi Moore, Cardi B and More Stars Arrive at the 2026 Baby2Baby Gala",
+    "url": "https://wwd.com/pop-culture/celebrity-news/gallery/2026-baby2baby-gala-red-carpet-style-photos-1239416697/",
+    "fuente": "WWD"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN6-7qnNX3Oc4BqYrUp-xD73mevF3kWMaoWx-4ggHinMubM2huQrFOD-MZ9XA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "España - Inglaterra en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/espana-inglaterra/2026/11/15/01_0195_20261115_118_114-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "malik washington": {
+   "termino": "malik washington",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XFV73C_UYcP6w2YrdYXALAMSHIt3ZOOcwjFuvyYPb39vBQlCrWFvF3AqqD8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Maryland QB Malik Washington doesn't start vs. Wisconsin",
+    "url": "https://www.espn.com/college-football/story/_/id/50480722/source-maryland-qb-malik-washington-start-vs-wisconsin",
+    "fuente": "ESPN"
+   }
+  },
+  "offaly": {
+   "termino": "offaly",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShcET__Vol78N922-4-4Db07Wrn8E18K21pemiBEHkxQ3DGxcLUwsZMpTcqt0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Investigation after body of woman, 20s, found in Offaly",
+    "url": "https://www.rte.ie/news/ireland/2026/1115/1599299-offaly-death/",
+    "fuente": "RTE.ie"
+   }
+  },
+  "gta 6 price": {
+   "termino": "gta 6 price",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcX3HbDpCNM6y5ct8Zb36Q0dq2OK0epLORhVFBkEfStwDKfo7YWU5uyMKUhTk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+    "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+    "fuente": "The Guardian"
+   }
+  },
+  "world junior ice hockey championships": {
+   "termino": "world junior ice hockey championships",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHpfCBdT8EzlL8yv4KujW8SvrLBXhnR68scSN3uieVJMlfCTY1yHFp8ptyEBo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "IIHF confirms Russia not competing at world juniors",
+    "url": "https://www.cbc.ca/sports/hockey/iihf-world-juniors-russia-not-competing-9.7422880",
+    "fuente": "CBC"
+   }
   }
  },
  "CA/toronto": {
@@ -31260,11 +32282,11 @@
   "deportivo vs barcelona": {
    "termino": "deportivo vs barcelona",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkLEyuHgiQuBsPfKphMqVnpjYVCkZJWIwqIHraCjooMoL46xAYGSUdZU6yVFg",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Gran oportunidad para el Barça femenino de alejarse del Madrid",
     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251135/gran-oportunidad-barca-femenino-alejarse-madrid.html",
@@ -31274,10 +32296,10 @@
   "grey cup half time show": {
    "termino": "grey cup half time show",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7cCmyPBgscXwfCFeNCqJSaHkuwGIvqVU3mWocqL5qQ7J6QDrw5kxtsTtlhW4",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "ONE THING MATTERS | 113th Grey Cup",
@@ -31288,29 +32310,29 @@
   "womens world hockey": {
    "termino": "womens world hockey",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1bqaAubUjKNQlLsxaxKlIURL1ISxtRGBIN0EHbgY-S99DU8OHWkccfEHWtWQ",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMAaSl-9GMvJ6GRxNEoORMrMT1rBU_G4L3VGgq7JqcLGMdQYvDsRjhHp89CK0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "U.S. blanks Finland to reach women's hockey worlds final",
-    "url": "https://www.sportsnet.ca/ice-hockey-world-championship/article/u-s-blanks-finland-to-reach-womens-hockey-worlds-final/",
-    "fuente": "Sportsnet.ca"
+    "url": "https://www.espn.com/olympics/hockey/story/_/id/50491132/us-blanks-finland-reach-women-hockey-worlds-final",
+    "fuente": "ESPN"
    }
   },
   "dolphins vs colts": {
    "termino": "dolphins vs colts",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYUSLOdh1swVsY3eqXxa7rat93m-KkkfG9DwT_odur0bmKyc-gcqDrTFEUoDo",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnEMmC83Ojka-ZluMY_3tsvVdu7dqvzYlKJBoqUqC0yiWqdvOImMSYJXZ4eww",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Dolphins, Colts will stage a \"someone has to win\" game",
-    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-colts-will-stage-a-someone-has-to-win-game",
-    "fuente": "NBC Sports"
+    "titulo": "Dolphins' Zeek Biggers: Leaves game with knee injury",
+    "url": "https://www.cbssports.com/fantasy/football/news/dolphins-zeek-biggers-leaves-game-with-knee-injury/",
+    "fuente": "CBS Sports"
    }
   },
   "panthers vs saints": {
@@ -31395,6 +32417,90 @@
     "titulo": "Pfizer pulls hormone therapy drug from Canada, leaving only one option that’s not covered in Ontario",
     "url": "https://www.ctvnews.ca/toronto/article/pfizer-pulls-hormone-therapy-drug-from-canada-leaving-only-one-option-thats-not-covered-in-ontario/",
     "fuente": "CTV News"
+   }
+  },
+  "packers": {
+   "termino": "packers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0etNuJ3I3zpsviSuzbS1WzHl_GwhaCLGtwyUf9sCY6lhM3-eOxH6oAMhowE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "S Xavier McKinney active for Green Bay | Packers-Vikings inactives",
+    "url": "https://www.packers.com/news/packers-vikings-week-10-inactives-nov-15-2026",
+    "fuente": "Green Bay Packers – packers.com"
+   }
+  },
+  "myles price": {
+   "termino": "myles price",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN_e_t9HIiP8Ae4PBu8y9yME7HqmrbxzW47_ZwseROdRjHd7ynryDy4Gy_iBg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Packers fans pushed away Vikings player attempting Lambeau leap",
+    "url": "https://sports.yahoo.com/articles/packers-fans-pushed-away-vikings-192438966.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "belgium vs italy": {
+   "termino": "belgium vs italy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Belgium vs Italy: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmx27n430548t",
+    "fuente": "BBC"
+   }
+  },
+  "croatia vs czechia": {
+   "termino": "croatia vs czechia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIak-BGZysGnLmP2akEkxEVs5_FxBh421_IqrOag67fuU4_nPjWLRPXpiWhrM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Preview: Croatia vs Czech Republic - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-czech-republic-prediction-team-news-lineups_609075.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "travis kelce": {
+   "termino": "travis kelce",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-1l4zZ75wgco2V-ovFURAhJKOcL_fach7aQNVWDUFDzDKwqRaNEQNWHnjd3U",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Travis Kelce heads to locker room after tackle on Chiefs' first drive vs. Falcons",
+    "url": "https://sports.yahoo.com/nfl/breaking-news/article/travis-kelce-heads-to-locker-room-after-tackle-on-chiefs-first-drive-vs-falcons-182455490.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "jaguars vs titans": {
+   "termino": "jaguars vs titans",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF6h8g1_9OlOfDsKVm2kwXjmj1Xc1MZ7t-DLuC0rLZ3NCgRS0LMUcNgVqM430",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jaguars vs. Titans odds, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus for NFL Week 10",
+    "url": "https://www.cbssports.com/prediction/news/jaguars-vs-titans-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-for-nfl-week-10/",
+    "fuente": "CBS Sports"
    }
   }
  },
@@ -33133,6 +34239,141 @@
     "url": "https://www.autoblog.com/news/winter-weather-advisory-up-to-12-inches-of-snow-and-40-mph-gusts-through-monday",
     "fuente": "Autoblog"
    }
+  },
+  "croatie – tchéquie": {
+   "termino": "croatie – tchéquie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMi2JWfJfaEXjuUktncwUQuGSpeMGhOHFdTdZJvwDJSDr0HwScWyd2H2Sv_74",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Croatie - Tchéquie, Ligue des nations A, match en direct le 15/11/2026",
+    "url": "https://www.lequipe.fr/Football/match-direct/ligue-des-nations-a/2027/croatie-tchequie-live/688737",
+    "fuente": "L'Équipe"
+   }
+  },
+  "thélyson orélien": {
+   "termino": "thélyson orélien",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+"
+  },
+  "belgium vs italy": {
+   "termino": "belgium vs italy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Belgium vs Italy: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmx27n430548t",
+    "fuente": "BBC"
+   }
+  },
+  "vikings – packers": {
+   "termino": "vikings – packers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAgBGVjY3j-kXpMlDd-g75VuAJPDuJ87SpAyWTu6JQ191YoW82wrdT470wMKA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Josh Allen zips pass to DJ Moore for 32 yards",
+    "url": "https://www.nfl.com/videos/josh-allen-zips-pass-to-dj-moore-for-32-yards",
+    "fuente": "NFL.com"
+   }
+  },
+  "belgique – italie": {
+   "termino": "belgique – italie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7sEUcsONLoh43oP8QazTfOp6wEKTpmGbPSIGHeCH4jmaJ_PnNoUdGCarYvjw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Les fédérations belge et italienne de football rendent hommage aux victimes du drame du Heysel",
+    "url": "https://www.rbfa.be/fr/nouvelles/les-federations-belge-et-italienne-de-football-rendent-hommage-aux-victimes-du-drame-du",
+    "fuente": "Royal Belgian FA"
+   }
+  },
+  "vikings vs packers": {
+   "termino": "vikings vs packers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAM4_FS4QC_h6jZ0BLnxazhk3RAGVi3dC94UMYGOj_PiXcI4Iff0TA0TRVocg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Lions 35-10 Patriots: St. Brown and Gibbs star in NFL Munich game",
+    "url": "https://www.dazn.com/en-CA/news/football/lions-patriots-35-10-recap-nfl-munich-st-brown-gibbs-maye/1wuxpm39ek9yc1kf4cx632mxgz",
+    "fuente": "DAZN"
+   }
+  },
+  "tesla cybercab": {
+   "termino": "tesla cybercab",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-Lgvx9omZacZ53qfEXxEcvCVKJqr4papPqyb6se9a5wHJgo_wkT7qHeX5vE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Tesla invites select customers to buy Cybercab for personal use",
+    "url": "https://ca.finance.yahoo.com/news/tesla-invites-select-customers-buy-080131445.html",
+    "fuente": "Yahoo! Finance Canada"
+   }
+  },
+  "france – turquie": {
+   "termino": "france – turquie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAioDW5EzOGsyed2xA_pAxbQocQyjGv-GmZfdY6-Vaw8c9VqNq0pS44wpayrU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Qu'est-ce qui changerait si les Bleus finissaient à la première place de leur groupe en Ligue des nations ?",
+    "url": "https://www.lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501",
+    "fuente": "L'Équipe"
+   }
+  },
+  "espagne – angleterre": {
+   "termino": "espagne – angleterre",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48ixvdZHh3pvBfGT34q8R7X_5egfAC7cRlIJL5Nzd3xjKgZPMRfoyYtNk-9I",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Espagne - Angleterre : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match",
+    "url": "https://www.dazn.com/fr-FR/news/football/espagne-angleterre-direct-video-streaming-chaine-tv-a-quelle-heure-et-comment-regarder-le-match/2a949hjn3aeh1il7uxluomyh9",
+    "fuente": "DAZN"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMed38VzabZGTem1okxCPWjpCipcH2iOy61l8ovG9BBYubV2w4ZemtGTmBOIk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
+    "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+    "fuente": "BBC"
+   }
   }
  },
  "CA/vancouver": {
@@ -34595,10 +35836,10 @@
   "bills vs jets": {
    "termino": "bills vs jets",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiGC_2YSYJ-YARI5gfodQ4w-Bvy_ksnYVL8_EmBmRz2L9KSyS7MJmeiOAAwMk",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Buffalo Bills inactives list at Jets | Week 10",
@@ -34609,25 +35850,25 @@
   "chiefs vs falcons": {
    "termino": "chiefs vs falcons",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEvhUMbEmGi_1CteLaQJVYYXzONDfxhVyr9Qv-3l63E34aAs1A9_JYIK799ow",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdqzx3IWckDsxFFUam1FFQZY2S13sYB8T5C9TqITZjqCbWN8D2Mlhy36L-Mjg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "When is the Chiefs vs. Falcons game?",
-    "url": "https://www.dazn.com/en-CA/news/football/chiefs-falcons-nfl-watch-week-10-news-kickoff-time-date-prediction/d7567bkge1mv1chkj9a6xwfau",
-    "fuente": "DAZN"
+    "titulo": "Chiefs' Kenneth Walker III (groin) to sit out vs. Falcons",
+    "url": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
+    "fuente": "ESPN"
    }
   },
   "waves california coast": {
    "termino": "waves california coast",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW4iotnab51IKnQV_SJnLnrxTu5Z04SSa4aOyFppnYbbDSsCVE2sNkjGwOS5U",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
     "url": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
@@ -34637,15 +35878,85 @@
   "ana de armas": {
    "termino": "ana de armas",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIyKn4H971EAJUI2NYH3Q2qM6Z3y4kFE5qTBHrixHf-Uwrv_NW4LF1MTmVftM",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Ana de Armas' (Very) R-Rated 99-Minute Thriller Remake Is Officially Being Pulled From Streaming",
     "url": "https://movieweb.com/knock-knock-streaming-november-2026/",
     "fuente": "MovieWeb"
+   }
+  },
+  "texans vs browns": {
+   "termino": "texans vs browns",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAgBGVjY3j-kXpMlDd-g75VuAJPDuJ87SpAyWTu6JQ191YoW82wrdT470wMKA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Josh Allen zips pass to DJ Moore for 32 yards",
+    "url": "https://www.nfl.com/videos/josh-allen-zips-pass-to-dj-moore-for-32-yards",
+    "fuente": "NFL.com"
+   }
+  },
+  "surrey": {
+   "termino": "surrey",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThtcEL3pBiJDAdR_Me_2OZaKUNMinNxwba2Q7fZKNt-lnnDrB5bk8EkIl1S1k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "There appear to have been senior staff changes at Surrey City Hall. The city won't talk about them",
+    "url": "https://vancouversun.com/news/there-may-have-been-senior-staff-changes-at-surrey-city-hall-the-city-wont-talk-about-them",
+    "fuente": "Vancouver Sun"
+   }
+  },
+  "pacers vs 76ers": {
+   "termino": "pacers vs 76ers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-WzSZ6fS3zoWALMYMAPi4c145v4RGepZQ79pdvng48NrhfrFR42R91aPSVs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "76ers' Joel Embiid out vs. Pacers due to plantar fascia management",
+    "url": "https://www.espn.com/nba/story/_/id/50484216/76ers-joel-embiid-vs-pacers-due-plantar-fascia-management",
+    "fuente": "ESPN"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMed38VzabZGTem1okxCPWjpCipcH2iOy61l8ovG9BBYubV2w4ZemtGTmBOIk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
+    "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+    "fuente": "BBC"
+   }
+  },
+  "vikings vs packers": {
+   "termino": "vikings vs packers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAM4_FS4QC_h6jZ0BLnxazhk3RAGVi3dC94UMYGOj_PiXcI4Iff0TA0TRVocg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Lions 35-10 Patriots: St. Brown and Gibbs star in NFL Munich game",
+    "url": "https://www.dazn.com/en-CA/news/football/lions-patriots-35-10-recap-nfl-munich-st-brown-gibbs-maye/1wuxpm39ek9yc1kf4cx632mxgz",
+    "fuente": "DAZN"
    }
   }
  },
@@ -36925,6 +38236,146 @@
     "url": "https://bolavip.com/pe/futbol-internacional/alineaciones-de-finlandia-y-san-marino-por-la-liga-de-naciones-formaciones-probables",
     "fuente": "Bolavip Perú"
    }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY9FDONjLTvFddUc8WVmBTt8w3y2N8-QwJX3zK0bCBJwazNE7ofHMcKaZd6JU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Spain v England: Nations League – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+    "fuente": "The Guardian"
+   }
+  },
+  "nation league": {
+   "termino": "nation league",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPel38Ys5ZhAm72AWtOS-np1gSZVwxEuQXY5K536ywbxbviZ8iFo9370nN6fk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Preview: Germany vs Netherlands - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/germany/uefa-nations-league/preview/germany-vs-netherlands-prediction-team-news-lineups_609122.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "domingo dianderas vs": {
+   "termino": "domingo dianderas vs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1JOhynToP2TkqPmQrEfsEC-ByjrONBEg7D1BV4WdqCBE3nrg6bmLAJcyWCP0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Copa Perú: ¿Qué canal transmitirá Bella Esperanza vs Domingo Dianderas?",
+    "url": "https://www.futbolperuano.com/copa-peru/noticias/copa-peru-que-canal-transmitira-bella-esperanza-vs-domingo-dianderas-612743",
+    "fuente": "Futbolperuano.com"
+   }
+  },
+  "eibar vs": {
+   "termino": "eibar vs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaBJXMjg3kSznYf07JLo6r9Q_wPQMRbAALo9EOdcDTXre9O65wR4BaOnN9uE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Eibar vs Cadiz Preview: Home Edge and 2-1 Prediction | News | Football.com Nigeria",
+    "url": "https://www.football.com/ng/news/150692",
+    "fuente": "Football.com"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFE3o4KKKt1sHngV_c_pqbvZ58xV7QMiHQyM-ebYXv6n1YXmY0EuodOdC9fIA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Inglaterra examina a la España invencible",
+    "url": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-examina-a-la-espana-invencible.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcE_rd_qv23rN2kwNGGZLqvMl9elV8Yhg6HNeRPKltb-lqRF8jBLbrPKyTns",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIqegFqW3pB-mn_EvLeQTMUtPjpotswMMehcL2iN-EQkcZsS_s2Eml7Q9OLXg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28bHRQ6VchThSU55Xh2-W_3YJj3Hlm3fKfTw99SoHQKcW0NnnfPJH_Z4bkR8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Croacia - República Checa en directo: UEFA Nations League hoy, en vivo",
+    "url": "https://as.com/futbol/internacional/croacia-republica-checa-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "cuando sale gta 6": {
+   "termino": "cuando sale gta 6",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk69mZSbiD5xMse3ZhNcNAmidC42-bmOQycOhh3JcCOLGa35CtrAX1AqGeziI",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "¿A qué hora se podrá jugar a GTA 6 en España? Horarios de lanzamiento y desbloqueo",
+    "url": "https://as.com/meristation/noticias/a-que-hora-se-podra-jugar-a-gta-6-en-espana-horarios-de-lanzamiento-y-desbloqueo-f202611-n/",
+    "fuente": "Diario AS"
+   }
+  },
+  "inglaterra vs. croacia": {
+   "termino": "inglaterra vs. croacia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYq_FsbLmlGx0h1slrb39izvPzZiYgKfwL8OVm7T8lWGSMSP27ydnqnOyCUM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "VIDEO: el resumen de Inglaterra vs Croacia por la Nations League",
+    "url": "https://www.espn.com.ar/futbol/nota/_/id/17509171/video-resumen-inglaterra-vs-croacia-uefa-nations-league",
+    "fuente": "ESPN Argentina"
+   }
   }
  },
  "CL": {
@@ -39118,6 +40569,104 @@
     "titulo": "Ronaldinho, dà spettacolo per un tempo contro il Forlì: ispira il gol di Donati, poi esce facendo l'inchino",
     "url": "https://www.gazzetta.it/Calcio/Serie-C/15-11-2026/ronaldinho-ravenna-forli-live-risultato-gol-diretta-serie-c.shtml",
     "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "godoy cruz": {
+   "termino": "godoy cruz",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mrptsMwCnQy-9GmMKoTyxEOKwdUkAytw5W479AwYaDULfw5Tb_PIRi9SPXA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Cuándo juegan Godoy Cruz vs. Tristán Suárez: por la final de la Primera Nacional 2026: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.cl/futbol/argentina/nota/_/id/17506483/godoy-cruz-vs-tristan-suarez-primera-nacional-final-ascenso-equipo-fecha-hora-tv-en-vivo",
+    "fuente": "ESPN Chile"
+   }
+  },
+  "luzu": {
+   "termino": "luzu",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs0vtHltCT7npC91aDjPJRMUem_lnnsViZ1rv87O9Ux-z0JZHpGc1NGk75XrM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Luzu TV vs 412: día, hora y canal TV en Perú de la revancha de ‘El Gran Partido del Streaming’",
+    "url": "https://www.infobae.com/peru/deportes/2026/11/14/luzu-tv-vs-412-dia-hora-y-canal-tv-en-peru-de-la-revancha-de-el-gran-partido-del-streaming/",
+    "fuente": "Infobae"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJXLoA6Dm1Az3bSFS_J_JlQPLrW5WF-GOfzEPX4tEKvR7BLeeJJ58lkC1hyUw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "España vs Inglaterra por la Liga de Naciones: a qué hora juegan y dónde verlo en vivo",
+    "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/15/espana-vs-inglaterra-por-la-liga-de-naciones-a-que-hora-juegan-y-donde-verlo-en-vivo.shtml",
+    "fuente": "BioBioChile"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWF18vfumeIk6UiQ_RbVvbp_nH8aQ1nmQSoHxgbilJFEbXL7SujemTWfdVT0k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGqzlIkfX5HJjk677Mi4QfqiqjjK62tNkBLbas1KE2R4GsMLJXSGzLSKvGwNU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Dónde y a qué hora ver a Bélgica vs. Italia en TV y streaming",
+    "url": "https://www.latercera.com/servicios/noticia/donde-y-a-que-hora-ver-a-belgica-vs-italia-en-tv-y-streaming/",
+    "fuente": "La Tercera"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28bHRQ6VchThSU55Xh2-W_3YJj3Hlm3fKfTw99SoHQKcW0NnnfPJH_Z4bkR8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Croacia - República Checa en directo: UEFA Nations League hoy, en vivo",
+    "url": "https://as.com/futbol/internacional/croacia-republica-checa-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "jubilación": {
+   "termino": "jubilación",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEoSNWemKrTcHr-7geuXvovIICjqYphSuOzQw-F399U_LrHdUOLe8ReNpK2-U",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Huelga en el transporte de mercancías en España en plenas Navidades",
+    "url": "https://es.euronews.com/2026/11/15/ccoo-anuncia-una-huelga-para-transportes-de-mercancias-por-carretera-en-espana-el-23-y-24-",
+    "fuente": "Euronews.com"
    }
   }
  },
@@ -41686,34 +43235,34 @@
   "ted lasso": {
    "termino": "ted lasso",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+"
   },
   "albania vs": {
    "termino": "albania vs",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9yJXuJLoibJ4uHqUWWEZzJeTnb-tyqj3C3HYRAa_VEOznpY1UBoGpDbKCYVE",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0UlADM_5QBAaq_mnX66LSIMv9mDAUPXvZfzzt9I3COLFTDmtesHvVQz4qbv0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Bielorrusia - Albania en directo hoy: ¿Dónde ver el partido por televisión y en streaming?",
-    "url": "https://www.goal.com/es-ar/noticias/bielorrusia-albania-en-directo-hoy-donde-ver-el-partido-por-television-y-en-streaming/blt2cc70eb9a3f35211",
-    "fuente": "Goal.com"
+    "titulo": "Albania venció 2-0 a Bielorrusia, por la Liga de Naciones 2026",
+    "url": "https://www.lanacion.com.ar/deportes/canchallena/albania-vencio-2-0-a-bielorrusia-por-la-liga-de-naciones-2026-nid15112026/",
+    "fuente": "La Nación"
    }
   },
   "deportivo morón - colegiales": {
    "termino": "deportivo morón - colegiales",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 5000,
+   "veces": 2,
+   "max_trafico": 10000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ11R32elVHrcfUzXn4pAhy3CHPCJPYjz5Jwh3GVq4AvrvLcXFGTPshYeP_anQ",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "5000+",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
    "noticia": {
     "titulo": "Dep. Morón vs. Colegiales en vivo: seguí el partido minuto a minuto",
     "url": "https://www.tycsports.com/primera-nacional/argentina-campeonato-primera-nacional-2026-dep-moron-vs-colegiales-llave-7-id771478.html",
@@ -41774,6 +43323,90 @@
     "titulo": "TC en Río Cuarto: Rossi volvió a la victoria y Canapino hizo negocio en la Copa de Oro",
     "url": "https://campeones.com.ar/tc-en-rio-cuarto-rossi-volvio-a-la-victoria-y-canapino-hizo-negocio-en-la-copa-de-oro/",
     "fuente": "Campeones"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3K87JhmUZow3_2Bvu2hRU99K43-euda4HniAEilY_80OjGjl5vDv8zJtWeeA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "España vs. Inglaterra, por la UEFA Nations League: día, horario, formaciones y dónde ver en vivo :: Olé - ole.com.ar",
+    "url": "https://www.ole.com.ar/futbol-internacional/espana-vs-inglaterra-partido-uefa-nations-league-dia-horario-formaciones-tv_0_Z1ScaazxC2.html",
+    "fuente": "Olé"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMcE_rd_qv23rN2kwNGGZLqvMl9elV8Yhg6HNeRPKltb-lqRF8jBLbrPKyTns",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Francia - Turquía en directo | Última hora de UEFA Nations League en vivo hoy",
+    "url": "https://www.marca.com/futbol/uefa-nations-league/francia-turquia/2026/11/15/01_0195_20261115_368_362-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa92qoRR0CEZtIRcpnS5AKVRAVK6KkbdpenLIKUGpeyvcw5d3ouZEKqRraPRs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Bélgica vs. Italia, por la UEFA Nations League, EN VIVO: la Azzurra busca los cuartos de final",
+    "url": "https://www.ole.com.ar/futbol-internacional/uefa-nations-league-italia-belgica-fase-grupos-cuartos-final-clasificacion-reconstruccion-mancini_0_qCv5OtfVzT.html",
+    "fuente": "Olé"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMaj7qIIPwFhG0-b-FUA54Pej33pyC1mLbrCGJ6wON-cqmgHPouHps6W806Hw",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Croacia vs República Checa, en vivo, por la UEFA Nations League: minuto a minuto y qué canal pasa el partido por TV",
+    "url": "https://tn.com.ar/deportes/futbol/2026/11/15/croacia-vs-republica-checa-en-vivo-por-la-fase-de-grupos-de-la-uefa-nations-league-hora-donde-ver-y-formaciones/",
+    "fuente": "TN"
+   }
+  },
+  "fútbol": {
+   "termino": "fútbol",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr8GdsqrNcIWETTbqk-g35MtLSn89Omagp5wPvCCHipW7ijihPAcZmLJW9qH8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "El show de Ronaldinho en su regreso al fútbol profesional con 46 años: de su toque en el gol a la figura de Alpine que lo acompañó",
+    "url": "https://www.infobae.com/deportes/2026/11/15/el-show-de-ronaldinho-en-su-regreso-al-futbol-profesional-con-46-anos-de-su-toque-en-el-gol-a-la-figura-de-alpine-que-lo-acompano/",
+    "fuente": "Infobae"
+   }
+  },
+  "juventud antoniana": {
+   "termino": "juventud antoniana",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-jgQclQ-jfg-2imtRQqHcaknwepccBVIOeOdnoudFF90_XQPCfWfXlTPXLSA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Federal A: Cipolletti recibe a Juventud Antoniana en busca del pase a las semifinales de la reválida",
+    "url": "https://www.rionegro.com.ar/deportes/federal-a-cipolletti-recibe-a-juventud-antoniana-en-busca-del-pase-a-las-semifinales-de-la-revalida-4798894/",
+    "fuente": "Diario Río Negro"
    }
   }
  },
@@ -45644,6 +47277,141 @@
     "url": "https://www.elcorreo.com/internacional/europa/ucrania-bombardea-rusia-mayores-complejos-petroquimicos-europa-20261115153948-ntrc.html",
     "fuente": "El Correo"
    }
+  },
+  "posiciones de valencia club de fútbol femenino contra granada club de fútbol femenino": {
+   "termino": "posiciones de valencia club de fútbol femenino contra granada club de fútbol femenino",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+"
+  },
+  "james trafford": {
+   "termino": "james trafford",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxxLPwExEUBywFlOk7hP7Vvgg46feXDG1dSR6rSAgkIkq0zhQ3l5DKXveIL_4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Does Pickford finally face serious competition for his England place?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo",
+    "fuente": "BBC"
+   }
+  },
+  "испания – англия": {
+   "termino": "испания – англия",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTEJj18xicJrCoic8jlarn-RcVlH7vklGhKcKKIRWgi188ct3mMRUNrR3h3xA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Полузащитник сборной Испании Баэна: в матче с Англией нам нужно быть осторожными",
+    "url": "https://www.championat.ru/football/news-6700720-poluzaschitnik-sbornoj-ispanii-baena-v-matche-s-angliej-nam-nuzhno-byt-ostorozhnymi.html",
+    "fuente": "https://www.championat.ru/"
+   }
+  },
+  "belgique – italie": {
+   "termino": "belgique – italie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxcnqy9aPq-gu6-WdvK_uTzKM9wZ2Pz9fS3QF7RubtWTtLrxoBvGY_Zo0gajQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Lavia titulaire, Lukaku sur le banc: le onze des Diables pour défier la Squadra Azzurra",
+    "url": "https://www.7sur7.be/diables-rouges/lavia-titulaire-lukaku-sur-le-banc-le-onze-des-diables-pour-defier-la-squadra-azzurra~aa5cbd6b/",
+    "fuente": "7sur7.be"
+   }
+  },
+  "belgio - italia": {
+   "termino": "belgio - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1_RilCX0Sc-_tesMU580CDFD581pfrjDcSyk0tE-YvWMDZ2X2nmvY9WBUeUM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "LIVE Alle 20.45 Belgio-Italia: sorpresissima Mancini, ci sono Pisilli e Koleosho in attacco con Pio",
+    "url": "https://www.gazzetta.it/Calcio/Nations-League/15-11-2026/belgio-italia-live-risultato-gol-diretta-nations-league.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "croatia vs czechia": {
+   "termino": "croatia vs czechia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIak-BGZysGnLmP2akEkxEVs5_FxBh421_IqrOag67fuU4_nPjWLRPXpiWhrM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Preview: Croatia vs Czech Republic - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-czech-republic-prediction-team-news-lineups_609075.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "real murcia": {
+   "termino": "real murcia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWxX66NpHhOD5gFd9L_P90Yr4e2_k2hgFjte-th2pgMaNgHWyY7RdL2Awag4Q",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Real Murcia - Alcorcón, en directo: Primera RFEF, hoy en vivo",
+    "url": "https://as.com/futbol/primera-rfef/real-murcia-alcorcon-en-directo-primera-rfef-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "fabián ruiz peña": {
+   "termino": "fabián ruiz peña",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsVsPHV_Ue4eXuWz2Ddu2Oi1Fb72fyWYf9c-PkS6g6QgYcGX7OjvM92RG--qM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "La orgullosa reflexión de Fabián Ruiz sobre su madre: \"La razón por la que soy quien soy es gracias a ella: a todo lo que me ha enseñado y sigue enseñándome\"",
+    "url": "https://www.hola.com/padres/20261115934561/fabian-ruiz-reflexion-sobre-su-madre-psicologia/",
+    "fuente": "HOLA"
+   }
+  },
+  "sisi": {
+   "termino": "sisi",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKFt9nTEDsjFZS6Kc0xoTgoPTNJ2uB9uOnmNF59zWG7h_RydeOtUrq8LtSaM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Egypt sets 5.4 percent growth target, plans LE 3.7TN in investments for FY2026/27",
+    "url": "https://www.egypttoday.com/Article/3/150625/Egypt-sets-5-4-percent-growth-target-plans-LE-3",
+    "fuente": "Egypt Today"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIqegFqW3pB-mn_EvLeQTMUtPjpotswMMehcL2iN-EQkcZsS_s2Eml7Q9OLXg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "fuente": "Diario AS"
+   }
   }
  },
  "ES/madrid": {
@@ -47432,10 +49200,10 @@
   "baskonia - real madrid": {
    "termino": "baskonia - real madrid",
    "primera_vez": "2026-11-15T17:32:39Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 2000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxcKztM-YzKUQ921nKg-Rk_dlzxfa6LTgDrq5mSwCJcDXFxC53Xy7_ZZHg1Y",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "2000+",
    "noticia": {
     "titulo": "Baskonia-Real Madrid: a por la octava victoria consecutiva en Liga",
@@ -47502,10 +49270,10 @@
   "falcons - chiefs": {
    "termino": "falcons - chiefs",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdqzx3IWckDsxFFUam1FFQZY2S13sYB8T5C9TqITZjqCbWN8D2Mlhy36L-Mjg",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Chiefs' Kenneth Walker III (groin) to sit out vs. Falcons",
@@ -47516,10 +49284,10 @@
   "matrícula": {
    "termino": "matrícula",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZndAYn03NhojU_tyo8xIvOTNeg_c8AIDwnGeqNRoW_uZD0PeLZ9cpmKUp3xE",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Las nuevas matrículas españolas que plantea la DGT: Adiós al sistema de cuatro cifras y tres letras",
@@ -47530,15 +49298,99 @@
   "eibar - cádiz": {
    "termino": "eibar - cádiz",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsbXrv47StLfG4ZZkCpUQJqxy1MWihb4ICRkxgS7947S5O4ne9YkfEdriqXSQ",
-   "ultima_vez": "2026-11-15T18:40:27Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnNmIkP8o74Ul5h5XJEUUcx60amb0xPSvR8WBJmH9i9UsZWv0ClCrpcTPdHDg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Eibar - Cádiz, en directo: LaLiga Hypermotion hoy en vivo",
+    "titulo": "Eibar 1- Cádiz 1: resumen, goles y resultado",
     "url": "https://as.com/futbol/segunda/eibar-cadiz-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
     "fuente": "Diario AS"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIqegFqW3pB-mn_EvLeQTMUtPjpotswMMehcL2iN-EQkcZsS_s2Eml7Q9OLXg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKC_jl9WadK7ersyEHFQKKNF_h_rhnp8ulEDeaG22hZY6LyQg2ztduKc6vKs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Francia - Turquía, hoy en directo: última hora de la Nations League en vivo",
+    "url": "https://as.com/futbol/internacional/francia-turquia-hoy-en-directo-ultima-hora-de-la-nations-league-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28bHRQ6VchThSU55Xh2-W_3YJj3Hlm3fKfTw99SoHQKcW0NnnfPJH_Z4bkR8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Croacia - República Checa en directo: UEFA Nations League hoy, en vivo",
+    "url": "https://as.com/futbol/internacional/croacia-republica-checa-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3Dl_MoArtoPOB2Gr4c7QJncWi4fA4PDwl5lb-UjxFTmFfjWJtsA6afwhbamo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "España - Inglaterra, en directo: última hora de la Selección en la Nations League, hoy en vivo",
+    "url": "https://as.com/futbol/seleccion/espana-inglaterra-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMed38VzabZGTem1okxCPWjpCipcH2iOy61l8ovG9BBYubV2w4ZemtGTmBOIk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
+    "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+    "fuente": "BBC"
+   }
+  },
+  "76ers - pacers": {
+   "termino": "76ers - pacers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg3tMD1rNbvmr8wDhqGxP8AC6NixUeChsBq-9xXJ5iZAFUg0Y60MLORjQzl4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ivica Zubac is key for Pacers matchup against Joel Embiid-less Sixers",
+    "url": "https://8points9seconds.com/ivica-zubac-is-key-for-indiana-pacers-matchup-against-joel-embiid-less-philadelphia-sixers",
+    "fuente": "8 Points 9 Seconds"
    }
   }
  },
@@ -49412,10 +51264,10 @@
   "matrícula": {
    "termino": "matrícula",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZndAYn03NhojU_tyo8xIvOTNeg_c8AIDwnGeqNRoW_uZD0PeLZ9cpmKUp3xE",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Las nuevas matrículas españolas que plantea la DGT: Adiós al sistema de cuatro cifras y tres letras",
@@ -49426,10 +51278,10 @@
   "hilary duff": {
    "termino": "hilary duff",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUGpzvWoh4yztx_W4e4c2ShfpZFT6PBRyR8iZl-xiorzGKNMjMM8jHGGQopDY",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Hilary Duff Opens Up About Why She Walked Away From Fame at the Height of Her Career",
@@ -49440,10 +51292,10 @@
   "baskonia - real madrid": {
    "termino": "baskonia - real madrid",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxcKztM-YzKUQ921nKg-Rk_dlzxfa6LTgDrq5mSwCJcDXFxC53Xy7_ZZHg1Y",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "1000+",
    "noticia": {
     "titulo": "Baskonia-Real Madrid: a por la octava victoria consecutiva en Liga",
@@ -49486,6 +51338,104 @@
     "titulo": "Eibar - Cádiz, en directo: LaLiga Hypermotion hoy en vivo",
     "url": "https://as.com/futbol/segunda/eibar-cadiz-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
     "fuente": "Diario AS"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIqegFqW3pB-mn_EvLeQTMUtPjpotswMMehcL2iN-EQkcZsS_s2Eml7Q9OLXg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "76ers - pacers": {
+   "termino": "76ers - pacers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg3tMD1rNbvmr8wDhqGxP8AC6NixUeChsBq-9xXJ5iZAFUg0Y60MLORjQzl4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Ivica Zubac is key for Pacers matchup against Joel Embiid-less Sixers",
+    "url": "https://8points9seconds.com/ivica-zubac-is-key-for-indiana-pacers-matchup-against-joel-embiid-less-philadelphia-sixers",
+    "fuente": "8 Points 9 Seconds"
+   }
+  },
+  "croacia - chequia": {
+   "termino": "croacia - chequia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ28bHRQ6VchThSU55Xh2-W_3YJj3Hlm3fKfTw99SoHQKcW0NnnfPJH_Z4bkR8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Croacia - República Checa en directo: UEFA Nations League hoy, en vivo",
+    "url": "https://as.com/futbol/internacional/croacia-republica-checa-en-directo-uefa-nations-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3Dl_MoArtoPOB2Gr4c7QJncWi4fA4PDwl5lb-UjxFTmFfjWJtsA6afwhbamo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "España - Inglaterra, en directo: última hora de la Selección en la Nations League, hoy en vivo",
+    "url": "https://as.com/futbol/seleccion/espana-inglaterra-hoy-en-directo-ultima-hora-de-la-uefa-nations-league-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKC_jl9WadK7ersyEHFQKKNF_h_rhnp8ulEDeaG22hZY6LyQg2ztduKc6vKs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Francia - Turquía, hoy en directo: última hora de la Nations League en vivo",
+    "url": "https://as.com/futbol/internacional/francia-turquia-hoy-en-directo-ultima-hora-de-la-nations-league-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgSQV4amtiDNpZYvTT3dy_LjGMd5dwlb-HsLHeo_v-QQrCbgTa5ztZvQ5TGP4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+    "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+    "fuente": "The Guardian"
+   }
+  },
+  "primera división femenina": {
+   "termino": "primera división femenina",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScrv1aEkGQKhgQTYmpf68FZCg6bZTJ7JOgI8nluMzdMga9cx9swDDgaAy61QE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "1-2: LA REACCIÓN NO FUE SUFICIENTE",
+    "url": "https://sevillafc.es/actualidad/noticias/cronica-sevilla-fc-femenino-atletico-noviembre-2026",
+    "fuente": "Sevilla FC"
    }
   }
  },
@@ -51718,19 +53668,19 @@
   "classificações de futebol clube de penafiel x lusitânia de lourosa futebol clube": {
    "termino": "classificações de futebol clube de penafiel x lusitânia de lourosa futebol clube",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "500+"
   },
   "combustível preço": {
    "termino": "combustível preço",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyAMufu617iBdQlVjRrrfyxIJipS3U_I8hYHb09N4bqWMWNGWOiUZwhQCuP2o",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "ultima_vez": "2026-11-15T19:40:38Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
@@ -51778,6 +53728,104 @@
     "titulo": "Ronaldinho plays 45 minutes on his debut for Italian side Ravenna at age of 46",
     "url": "https://www.skysports.com/football/live-blog/13612463/ronaldinho-plays-45-minutes-on-his-debut-for-italian-side-ravenna-at-age-of-46",
     "fuente": "Sky Sports"
+   }
+  },
+  "france – turquie": {
+   "termino": "france – turquie",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAioDW5EzOGsyed2xA_pAxbQocQyjGv-GmZfdY6-Vaw8c9VqNq0pS44wpayrU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Qu'est-ce qui changerait si les Bleus finissaient à la première place de leur groupe en Ligue des nations ?",
+    "url": "https://www.lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501",
+    "fuente": "L'Équipe"
+   }
+  },
+  "bélgica - itália": {
+   "termino": "bélgica - itália",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5JuYU9mL-YlvDesPhLmTWcSedUE68_9jjdyHmy9epBxjAB-skBahLTeNF0k8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Prognóstico Bélgica vs Itália - Liga das Nações (15/11/2026)",
+    "url": "https://observador.pt/prognosticos/prognostico-belgica-italia-15-11/",
+    "fuente": "Observador"
+   }
+  },
+  "espanha - inglaterra": {
+   "termino": "espanha - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSaJDixRqOm-iI3ATeBseFFnKdmibrGNB390fQ32BDOZMnMmjFn0sipBYSZAc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Thomas Tuchel esclarece comentário sobre racismo em Espanha: «A mensagem foi distorcida»",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/thomas-tuchel-esclarece-comentario-sobre-racismo-em-espanha-a-mensagem-foi-distorcida",
+    "fuente": "Record"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY9FDONjLTvFddUc8WVmBTt8w3y2N8-QwJX3zK0bCBJwazNE7ofHMcKaZd6JU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Spain v England: Nations League – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+    "fuente": "The Guardian"
+   }
+  },
+  "caminhoneiro": {
+   "termino": "caminhoneiro",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0p3DThVkfubmgGRZlNSQFNcuEtkuiX1FAmB3lYFxznSgfwoE6hWz3B6Vg4JM",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Motorista submetido a jornada de até 19 horas obtém condenação da Ambev",
+    "url": "https://iclnoticias.com.br/motorista-submetido-a-jornada-de-ate-19-horas/",
+    "fuente": "ICL Notícias"
+   }
+  },
+  "playstation": {
+   "termino": "playstation",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjQioFf4ljZEs5jzk5WV5_rzidfUHzrxbY-ib0oPBNjGJIB1sa5y2H4CJCfD8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Pré-carregamento de \"GTA VI\" leva tráfego global da Net a máximo histórico acima dos 33 terabits por segundo",
+    "url": "https://www.dn.pt/viver/pr-carregamento-de-gta-vi-leva-trfego-global-da-net-a-mximo-histrico-acima-dos-33-terabits-por-segundo",
+    "fuente": "Diário de Notícias"
+   }
+  },
+  "76ers - pacers": {
+   "termino": "76ers - pacers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg3tMD1rNbvmr8wDhqGxP8AC6NixUeChsBq-9xXJ5iZAFUg0Y60MLORjQzl4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ivica Zubac is key for Pacers matchup against Joel Embiid-less Sixers",
+    "url": "https://8points9seconds.com/ivica-zubac-is-key-for-indiana-pacers-matchup-against-joel-embiid-less-philadelphia-sixers",
+    "fuente": "8 Points 9 Seconds"
    }
   }
  },
@@ -55928,6 +57976,132 @@
     "titulo": "Dolphins, Colts will stage a \"someone has to win\" game",
     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-colts-will-stage-a-someone-has-to-win-game",
     "fuente": "NBC Sports"
+   }
+  },
+  "lewis hall": {
+   "termino": "lewis hall",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQvOZUxgj2oUx7rt8s6r1WqQtH9_n03Bu0-mLOBEKZHsDOlrsJMeuDy1zvwK4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Lewis Hall and Dan Burn help England through as Sean Neave makes Under-20 debut",
+    "url": "https://nufcblog.co.uk/lewis-hall-and-dan-burn-help-england-through-as-sean-neave-makes-under-20-debut-43876",
+    "fuente": "NUFC Blog"
+   }
+  },
+  "lamine yamal": {
+   "termino": "lamine yamal",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS29qhNdYOAzXkOoVJlDm5Bovt7xbK_fT4Ol1q_tZDufRgHhfd_mSHcgSFChnc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Spain vs England: James Trafford set to replace Jordan Pickford as goalkeeper - but how does Thomas Tuchel stop Lamine Yamal?",
+    "url": "https://www.skysports.com/football/news/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
+    "fuente": "Sky Sports"
+   }
+  },
+  "james hill": {
+   "termino": "james hill",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2zy3Dg4qCUyvlvClDTYCGDchJDj-EHwTadO8VPTxOuuneN2oEcEeuh53glMQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "England: James Hill called up as cover for Ezri Konsa for Croatia Nations League game",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo",
+    "fuente": "BBC"
+   }
+  },
+  "jarell quansah": {
+   "termino": "jarell quansah",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmnN-s9kJVZkGZi0jvruHK6aM02B-sVBHLQrpYVBIODeHTS9pxrK5CdxYoEgc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Where does Kane rank among all-time England greats?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo",
+    "fuente": "BBC"
+   }
+  },
+  "france vs turkey": {
+   "termino": "france vs turkey",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "France vs Turkey: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/cw30g3p6vd15t",
+    "fuente": "BBC"
+   }
+  },
+  "fransa - türkiye": {
+   "termino": "fransa - türkiye",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXpZqioXQftJZxqumGZzSG93dnUgoCOv7fCnxflYvsXKQJg3GMw5b9jZMp2bE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Kader maçına saatler kala Milli Takım'da şok sakatlık! Kadrodan çıkartıldı",
+    "url": "https://www.sozcu.com.tr/kader-macina-saatler-kala-milli-takim-da-sok-sakatlik-kadrodan-cikartildi-p381549",
+    "fuente": "Sözcü Gazetesi"
+   }
+  },
+  "morgan gibbs-white": {
+   "termino": "morgan gibbs-white",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrjugEm4NXNEzb0pELzPKyw1djLM9a3LWiDEVd3JHAPT7r7zy88RBHpPvJo6E",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Wood, Gibbs-White, Sels - the pressing contract situations Nottingham Forest need to address",
+    "url": "https://www.nottinghampost.com/sport/football/transfer-news/nottingham-forest-transfer-news-contracts-11240666",
+    "fuente": "Nottingham Post"
+   }
+  },
+  "españa - inglaterra": {
+   "termino": "españa - inglaterra",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFE3o4KKKt1sHngV_c_pqbvZ58xV7QMiHQyM-ebYXv6n1YXmY0EuodOdC9fIA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Inglaterra examina a la España invencible",
+    "url": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-examina-a-la-espana-invencible.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "when is thanksgiving 2026": {
+   "termino": "when is thanksgiving 2026",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrEsVLupspunY-QORuVtw_35zzX2RkPpURA4JHyW4wopDF1AP4vmloOjAcQo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "How many days until Thanksgiving 2026? More on the harvest holiday",
+    "url": "https://www.cincinnati.com/story/news/2026/11/14/when-is-thanksgiving-2026-heres-how-many-days-are-left/92762105007/",
+    "fuente": "Cincinnati Enquirer"
    }
   }
  },
@@ -60274,6 +62448,127 @@
     "titulo": "Michel Sardou ouvre les portes de sa villa à Bormes-les-Mimosas : son salon en dit long sur le chanteur",
     "url": "https://fr.news.yahoo.com/sport/michel-sardou-ouvre-portes-villa-081000267.html",
     "fuente": "Yahoo Actualités"
+   }
+  },
+  "michel drucker": {
+   "termino": "michel drucker",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgSBMpwny11dhLt4bu6j3YrMbn38cxRVfNNGpx14rMcCeQd9utySLysH0f63c",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Didier Barbelivien retrouve 3 de ses enfants dont ses jumelles adolescentes, Louise et Lola : une réunion de famille organisée par Michel Drucker",
+    "url": "https://fr.style.yahoo.com/didier-barbelivien-retrouve-3-enfants-074400171.html",
+    "fuente": "Yahoo Life France"
+   }
+  },
+  "acab": {
+   "termino": "acab",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo_i4BTvFDFrERS_SoEyQ4d0bTr4D9D6y6aG9s4JELxWW9VdF-BGEO2GsrKw0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "«Ignoble» : le slogan ACAB scandé au Bataclan la veille de l’anniversaire des attentats",
+    "url": "https://www.lejdd.fr/Societe/ignoble-le-slogan-acab-scande-au-bataclan-la-veille-de-lanniversaire-des-attentats-188787",
+    "fuente": "lejdd.fr"
+   }
+  },
+  "lisnard": {
+   "termino": "lisnard",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScZQtMFO1EcfdYuAas9X4x2OnGZNDnBhBAkYx5L0ZySQVRHsiXe3bz3qDvD4U",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "SONDAGE BFMTV. Présidentielle 2027: Jean-Luc Mélenchon continue sa progression, Teddy Riner devant Gabriel Attal dans l'un des scénarios testés",
+    "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html",
+    "fuente": "BFM"
+   }
+  },
+  "francia - turquía": {
+   "termino": "francia - turquía",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKC_jl9WadK7ersyEHFQKKNF_h_rhnp8ulEDeaG22hZY6LyQg2ztduKc6vKs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Francia - Turquía, hoy en directo: última hora de la Nations League en vivo",
+    "url": "https://as.com/futbol/internacional/francia-turquia-hoy-en-directo-ultima-hora-de-la-nations-league-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "alexis lebrun": {
+   "termino": "alexis lebrun",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+"
+  },
+  "france vs": {
+   "termino": "france vs",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzVGYbSttiu3YmIMVQuTjlgU5UDuJ4LbQqK1FOCpnOwQ6bP4djcfxGKask7xk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Arthur Fils Settles the France vs. Italy Debate in a 'Would You Rather?' Game",
+    "url": "https://en.tennistemple.com/actu/arthur-fils-settles-the-france-vs-italy-debate-in/u62A",
+    "fuente": "TennisTemple"
+   }
+  },
+  "duhamel": {
+   "termino": "duhamel",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6AwXr_OxKgMLXTkdIydO_9JQkZjLblfJprVn-jsRz1_jJ6IldCVeMYqrGKXo",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Franc-Jeu (France 2) – Benjamin Duhamel : « Je suis courtois mais pugnace »",
+    "url": "https://www.programme-television.org/news/tv/emissions-tele/franc-jeu-france-2-benjamin-duhamel-je-suis-courtois-mais-pugnace-142878",
+    "fuente": "Télé 7 Jours"
+   }
+  },
+  "quentin tarantino": {
+   "termino": "quentin tarantino",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGGKYdEVk3vgbhd_qQP8u6TCBWHkt60hpdkSZC61X-aG6qAh8hE2lMLgP0VjE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "« Les Huit Salopards » : le western de Tarantino dont le scénario s’inspire de séries des années 1960",
+    "url": "https://www.lepoint.fr/pop-culture/les-huit-salopards-le-western-de-tarantino-dont-le-scenario-sinspire-de-series-des-annees-60-TL6JNBKRMVGGDAXMK2HEQJDMVM/",
+    "fuente": "Le Point"
+   }
+  },
+  "hunger games": {
+   "termino": "hunger games",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFCUt8K3D24d1HzP6E7T6l8Ggoowm6SCijC8WGpKSB-AEVk0zFoGGwLfBgEgE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "'The Hunger Games: Catching Fire' Review: A Superior Sequel That Raises the Stakes",
+    "url": "https://www.filmfocusonline.com/post/the-hunger-games-catching-fire-review",
+    "fuente": "Film Focus Online"
    }
   }
  },
@@ -64755,6 +67050,146 @@
     "titulo": "Uganda’s Abuja mission invites diaspora to register and join trade drive",
     "url": "https://www.independent.co.ug/ugandas-abuja-mission-invites-diaspora-to-register-and-join-trade-drive/",
     "fuente": "The Independent Uganda"
+   }
+  },
+  "monte ceva": {
+   "termino": "monte ceva",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3EeyQrfs8x2UkVNFdHc1aFkl--ak16srq893VOoIdnIqORofIzp3ZFRKu4Tg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
+    "url": "https://www.repubblica.it/cronaca/2026/11/15/news/escursionista_muore_davanti_a_figlio_colli_euganei-425725385/",
+    "fuente": "la Repubblica"
+   }
+  },
+  "playstation": {
+   "termino": "playstation",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9W6b98hU9c8TxpFGIqzdbBjWM8oyVLY959yDD-0AnuGRJ2JNX1P0svAxmCpg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch",
+    "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
+    "fuente": "Push Square"
+   }
+  },
+  "shelton": {
+   "termino": "shelton",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2gn2izoG56aI80BPqZpL8eEI7Fqqbd1y6NMaBLm-wrwOYuexO1z1cbEm-qw8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Shelton practises with Ferrero for the first time at Nitto ATP Finals",
+    "url": "https://www.atptour.com/en/news/shelton-ferrero-nitto-atp-finals-2026-practice",
+    "fuente": "ATP Tour"
+   }
+  },
+  "robert de niro": {
+   "termino": "robert de niro",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSeR0WySS1SVp3eHuElDklObgwvVasDDv-VoEic7sm5ZLtXLgu9Y_c6Dhmvg",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Robert De Niro, Tiffany Chen, Ben Stiller and Christine Taylor Have Dueling Date Nights at Focker-in-Law Premiere",
+    "url": "https://people.com/robert-de-niro-tiffany-chen-ben-stiller-and-christine-taylor-step-out-for-date-night-12250619",
+    "fuente": "People.com"
+   }
+  },
+  "ben stiller": {
+   "termino": "ben stiller",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkION3Nit895X2bCKmFwJRWK5xw7sNk4OMG7vg8uUuo-g0RRAZZs9cZfP77YY",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Exclusive | Ben Stiller and Christine Taylor’s real-life romance has a sweet ‘Meet the Parents’ connection",
+    "url": "https://pagesix.com/2026/11/15/celebrity-news/ben-stiller-and-christine-taylors-real-life-romance-has-a-sweet-meet-the-parents-connection/",
+    "fuente": "Page Six"
+   }
+  },
+  "belgien – italien": {
+   "termino": "belgien – italien",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFPjTHvQgpr2bYpL9OcTTeXk8QSw_oacT1L3ne9eWDCHADHpIQ56BNdbXJJk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Der „Sizilianer“ Scifo: „Italien im Aufwind, Mancini hat Charisma, aber Vorsicht vor Lukaku und De Bruyne“",
+    "url": "https://www.gazzetta.it/de/fussball/nations-league/15-11-2026/der-sizilianer-scifo-italien-im-aufwind-mancini-hat-charisma-aber-belgien-ist-stark.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "bélgica - italia": {
+   "termino": "bélgica - italia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-1lX4f0yjwDup814me-3XxrLFrYuo5uj4hCwCGKoy8t0vUocsqkv1HJHf_jU",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bélgica vs Italia: fecha, hora, canal, TV y dónde ver online hoy la Nations League 2026/27 en España",
+    "url": "https://www.dazn.com/es-ES/news/futbol/belgica-vs-italia-fecha-hora-canal-tv-donde-ver-online-hoy-nations-league-202627-espana/wtm4v1ngnzza1bz8yjyiqpjoy",
+    "fuente": "DAZN"
+   }
+  },
+  "arthur fils": {
+   "termino": "arthur fils",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCnmpRdttwVhQQpK87w6qRzOuNVr856K7uvGTZwGP_EHDcjEuzhre3JtuLR8I",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "À quelle heure et sur quelle chaîne voir le match entre Ben Shelton et Arthur Fils des Finales ATP ?",
+    "url": "https://www.lequipe.fr/Tennis/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-le-match-entre-ben-shelton-et-arthur-fils-a-l-atp-finals/1743399",
+    "fuente": "L'Équipe"
+   }
+  },
+  "rai uno": {
+   "termino": "rai uno",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQihwVensd4y6YLUCTxY-ZzXyQCpbv6MTwkmiiKFkbb5KzCr_WbWAqPCFV0N8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Dal Bar Sport di Burano al boom su Rai Uno: il re del risotto Costantini conquista l'Italia con il suo motto: «Da noi il miglior risotto...",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/bar_sport_burano_rai_uno_punto_e_basta_leredita-9890015.html",
+    "fuente": "Il Gazzettino"
+   }
+  },
+  "ariana grande": {
+   "termino": "ariana grande",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfdx1TH642RUD8-F6DXvcfZvFthb2E89LU1Xp49Ghh4zBLr-KY3A7L2Sj1SH0",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Ariana Grande Brings Her Two Great Loves—Ricky Álvarez and Rare Vintage—to the Red Carpet",
+    "url": "https://www.vogue.com/article/ariana-grande-ricky-alvarez-red-carpet-debut-2026-11-12",
+    "fuente": "Vogue"
    }
   }
  },
@@ -69344,6 +71779,146 @@
     "url": "https://www.t-online.de/nachrichten/panorama/gesellschaft/id_101529818/nuernberg-mann-will-partnerin-offenbar-mit-gabel-toeten.html",
     "fuente": "T-Online"
    }
+  },
+  "ispanya - ingiltere": {
+   "termino": "ispanya - ingiltere",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTelPgG-7IiK7kfvAKRS6LaoxkNwIbHCf43NbKy1R4j0QOZrP6sX6nSyx_pBV8",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bugünkü futbol programı, 15 Kasım: İspanya - İngiltere",
+    "url": "https://www.vietnam.vn/tr/lich-thi-dau-bong-da-hom-nay-15-11-tay-ban-nha-gap-anh",
+    "fuente": "Vietnam.vn"
+   }
+  },
+  "jan josef liefers": {
+   "termino": "jan josef liefers",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWEotiXFcNZi5ptuDPgS0UmJZplmpgODNQd8EEdFKoFNh8X46Gf3k8vy0qmXE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Jan Josef Liefers im Steckbrief: Was kann der „Tatort“-Star nicht?",
+    "url": "https://www.bild.de/unterhaltung/stars-und-leute/jan-josef-liefers-im-steckbrief-was-kann-der-tatort-star-nicht-62a31ed09471d247b32ab6e2",
+    "fuente": "BILD"
+   }
+  },
+  "joko winterscheidt": {
+   "termino": "joko winterscheidt",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflZS1NUCacKPiqNSj8Qh5gB0a9pajFYwJWv1gX5zI8NPsQYnqZxBK_xOZCec",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "\"Das darf man da nicht?\": Carolin Kebekus überrascht Joko Winterscheidt mit ARD-Aussage",
+    "url": "https://www.ksta.de/panorama/promis/das-darf-man-da-nicht-carolin-kebekus-ueberrascht-joko-winterscheidt-mit-ard-aussage-1416995",
+    "fuente": "Kölner Stadt-Anzeiger"
+   }
+  },
+  "carolin kebekus": {
+   "termino": "carolin kebekus",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbf9UQr96tUQDx5-2ZIptY2MTry4UfhC7py3MURWnbFUlrKK3EYkM7zhE1Z4",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Mit Bitte an ganz Köln: Carolin Kebekus kündigt geheimnisvolles Himmelsspektakel an",
+    "url": "https://www.ksta.de/koeln/carolin-kebekus-mit-geheimnisvoller-ankuendigung-fuer-koeln-1417139",
+    "fuente": "Kölner Stadt-Anzeiger"
+   }
+  },
+  "франция – турция": {
+   "termino": "франция – турция",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLdtcnhAqH_HJ1sAIQp1vmlF_rSCXTLmEDHVAPYGuNKFEQRaJ3X5U7aJQCWE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Франция — Турция: прогноз (кэф 2.46) на 15 ноября 2026",
+    "url": "https://stavka.tv/matches/soccer/15-11-2026-france-turkey",
+    "fuente": "Ставка ТВ"
+   }
+  },
+  "cheyenne ochsenknecht": {
+   "termino": "cheyenne ochsenknecht",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrmMY-voNU42i-PBKgOdBOvwwnOhb0CT1OJkxPSKmknTNBEiwQ0ISHa1T5uc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Trennung von Manuel Neuer: Freundin von Anika wusste nichts vom Ehe-Aus",
+    "url": "https://www.bild.de/unterhaltung/stars-und-leute/trennung-von-manuel-neuer-freundin-von-anika-wusste-nichts-vom-ehe-aus-6af963279849eea0701e352f",
+    "fuente": "BILD"
+   }
+  },
+  "hiszpania – anglia": {
+   "termino": "hiszpania – anglia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ15Vf_rokexQ_KKG1LDe9TTDcYeId_-qrav_hvlH9V-lva4qVRyFJ9fSsqBSI",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Starcie gigantów w Lidze Narodów | Hiszpania – Anglia: typy, kursy, składy",
+    "url": "https://sportowefakty.wp.pl/bukmacherzy/1284209/starcie-gigantow-w-lidze-narodow-hiszpania-anglia-typy-kursy-sklady",
+    "fuente": "SportoweFakty"
+   }
+  },
+  "испания – англия": {
+   "termino": "испания – англия",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTEJj18xicJrCoic8jlarn-RcVlH7vklGhKcKKIRWgi188ct3mMRUNrR3h3xA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Полузащитник сборной Испании Баэна: в матче с Англией нам нужно быть осторожными",
+    "url": "https://www.championat.ru/football/news-6700720-poluzaschitnik-sbornoj-ispanii-baena-v-matche-s-angliej-nam-nuzhno-byt-ostorozhnymi.html",
+    "fuente": "https://www.championat.ru/"
+   }
+  },
+  "belgium vs italy": {
+   "termino": "belgium vs italy",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Belgium vs Italy: UEFA Nations League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmx27n430548t",
+    "fuente": "BBC"
+   }
+  },
+  "spania - anglia": {
+   "termino": "spania - anglia",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-duvNXNCv9ej7tMHuiDmBXKmea19kKcjAOftGEsArw1AMM5FuEgK0RjCbBuQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "LIVE. Runda 6 din Nations League: primele două dueluri se joacă acum",
+    "url": "https://www.gsp.ro/international/liga-natiunilor/live-runda-6-din-nations-league-belgia-italia-franta-turcia-999453.html",
+    "fuente": "GSP"
+   }
   }
  },
  "NL": {
@@ -72573,6 +75148,146 @@
     "titulo": "King Charles stops by Elton John’s podcast to talk music",
     "url": "https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/",
     "fuente": "The Washington Post"
+   }
+  },
+  "toby alderweireld": {
+   "termino": "toby alderweireld",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCr3sCUeCrfcdOHqlvR0eq53kbgozK9NfTX0U4S4x6Be57SdSxZo3GJl2fojE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+    "url": "https://www.bbc.com/sport/football/articles/c85y13pv69xwo",
+    "fuente": "BBC"
+   }
+  },
+  "noussair mazraoui": {
+   "termino": "noussair mazraoui",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv88PCTF8RMGp0EZ6k7Rh_ua_z3bd1d4XDMkA2zUAPS3ZdTJG1AUa2kNiHKKI",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Oufkir scoort bij debuut voor Marokko, Salah topscorer aller tijden Egypte",
+    "url": "https://nos.nl/artikel/2639369-oufkir-scoort-bij-debuut-voor-marokko-salah-topscorer-aller-tijden-egypte",
+    "fuente": "NOS"
+   }
+  },
+  "fransa - türkiye": {
+   "termino": "fransa - türkiye",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXpZqioXQftJZxqumGZzSG93dnUgoCOv7fCnxflYvsXKQJg3GMw5b9jZMp2bE",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Kader maçına saatler kala Milli Takım'da şok sakatlık! Kadrodan çıkartıldı",
+    "url": "https://www.sozcu.com.tr/kader-macina-saatler-kala-milli-takim-da-sok-sakatlik-kadrodan-cikartildi-p381549",
+    "fuente": "Sözcü Gazetesi"
+   }
+  },
+  "turkije frankrijk": {
+   "termino": "turkije frankrijk",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqL9Mw-X-N8-IW30erP-5U7NytjuoC0aiW-a1sJUOmjA2-LMcXn4IVCA7mv6k",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "LIVE Nations League | Oud-eredivisiespelers op de bank bij Turkije tegen Frankrijk, wereldkampioen Spanje ontvangt Engeland",
+    "url": "https://www.ad.nl/voetbal/live-nations-league-oud-eredivisiespelers-op-de-bank-bij-turkije-tegen-frankrijk-wereldkampioen-spanje-ontvangt-engeland~a2fcfaac/",
+    "fuente": "AD.nl"
+   }
+  },
+  "spanje - engeland": {
+   "termino": "spanje - engeland",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRteJea3vf2OhWOnC7gOxAG0XgW7CvEV4NND_kdJpLVpeMLZjnnB2a5pbq5l4g",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Aftellen naar kraker Spanje-Engeland • Van Bommels België strijdt tegen Italië",
+    "url": "https://nos.nl/liveblog/2639561-aftellen-naar-kraker-spanje-engeland-van-bommels-belgie-strijdt-tegen-italie",
+    "fuente": "NOS"
+   }
+  },
+  "spain vs england": {
+   "termino": "spain vs england",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMed38VzabZGTem1okxCPWjpCipcH2iOy61l8ovG9BBYubV2w4ZemtGTmBOIk",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
+    "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+    "fuente": "BBC"
+   }
+  },
+  "grand prix van qatar": {
+   "termino": "grand prix van qatar",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRKz22Kp04XEFFGBHl4p1LtAg7bjP_QOQPKikKmgQd5W8mIsE3s2_wHgeInrQ",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "F1-races in Qatar en Abu Dhabi gaan gewoon door, kondigt FIA-baas Ben Sulayem aan",
+    "url": "https://nos.nl/artikel/2638867-f1-races-in-qatar-en-abu-dhabi-gaan-gewoon-door-kondigt-fia-baas-ben-sulayem-aan",
+    "fuente": "NOS"
+   }
+  },
+  "noodweer frankrijk": {
+   "termino": "noodweer frankrijk",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUcPzEBSc_9R8Oe7AkQ30XR6SPF7yDLzWhblHvXcUzbhakMHQQipUjjZn_MHc",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Overstromingen in Franse departement Hérault, 73-jarige vermiste vrouw gered",
+    "url": "https://nos.nl/artikel/2639572-overstromingen-in-franse-departement-herault-73-jarige-vermiste-vrouw-gered",
+    "fuente": "NOS"
+   }
+  },
+  "rtl boulevard": {
+   "termino": "rtl boulevard",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScu1bQId5t_M-v23gbddapEYmQ3ooBKhGtDJyVZLLmP7wOgYn0KZe2m59aHKs",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bijnaam Bolle Jos heeft volgens ex-vrouw niets met zijn gewicht te maken",
+    "url": "https://www.omroepbrabant.nl/nieuws/6034842/bijnaam-bolle-jos-heeft-volgens-ex-vrouw-niets-met-zijn-gewicht-te-maken",
+    "fuente": "Omroep Brabant"
+   }
+  },
+  "lily collins": {
+   "termino": "lily collins",
+   "primera_vez": "2026-11-15T19:40:38Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt0QALC_uzJEqt1vYaNTRK01JYZJiJzQFWE-VJHf3xzqX_Y5o12a2RBfNF35Q",
+   "ultima_vez": "2026-11-15T19:40:38Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Phil Collins, 75, makes rare public appearance with daughter Lily amid yearslong health battles",
+    "url": "https://pagesix.com/2026/11/14/celebrity-news/phil-collins-75-makes-rare-public-appearance-with-daughter-lily/",
+    "fuente": "Page Six"
    }
   }
  }
