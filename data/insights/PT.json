@@ -1,53 +1,47 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La lluvia fuerte y persistente pone seis distritos en aviso amarillo y marca el domingo, mientras el mercado de Navidad del Rossio ya abrió en Lisboa. El portugués prepara el Black Friday con ofertas en cafeteras, lavavajillas y productos de Amazon, y los medios se preguntan cuántos regalos de Navidad compra cada familia. La caída de Microsoft 365, la expectativa por GTA VI y los estrenos de Netflix dominan la conversación digital. Contenido útil para la lluvia, regalos pensados y ofertas reales funcionan hoy.",
+ "lectura": "La lluvia fuerte vuelve a poner seis distritos en aviso amarillo y el frío ya se nota: Lidl agota la conversación con una colcha acolchada barata estilo Zara Home. El portugués prepara el Black Friday con adidas, cafeteras y auriculares en oferta, pero los medios alertan de sitios falsos y voces clonadas. La precarga de GTA VI batió récords de tráfico en internet y la caída de Microsoft 365 dio protagonismo a LibreOffice. Ofertas verificables, confort para el invierno y seguridad digital conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Domingo de chuva",
-   "idea": "Seis distritos están en aviso amarillo por lluvia. Restaurantes, delivery y tiendas online: promoción 'fica em casa' con entrega o recogida rápida.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Quantos presentes?",
-   "idea": "Los medios analizan cuántos regalos de Navidad ofrece cada portugués. Haz una encuesta y luego una guía de regalos por número de personas y presupuesto.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Adeus, cápsulas",
-   "idea": "Una cafetera sin cápsulas está en su mejor precio antes del Black Friday. Marcas de café y hogar pueden mostrar el ahorro anual de moler café en casa.",
+   "titulo": "Aconchego para a chuva",
+   "idea": "Con aviso amarillo por lluvia y la colcha del Lidl en boca de todos, las marcas de hogar pueden mostrar su 'kit de sofá' (manta, té, luz cálida) con envío rápido.",
    "formato": "Reel"
   },
   {
-   "titulo": "Mercado de Natal",
-   "idea": "Abrió el mercado de Navidad del Rossio. Artesanos y marcas locales: muestra tu puesto o tus productos con la etiqueta de feito em Portugal.",
+   "titulo": "Black Friday sin burlas",
+   "idea": "Crecen las alertas por sitios falsos y voces clonadas. Explica cómo reconocer tu tienda oficial y tus canales reales; la confianza vale más que el descuento.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Zapatillas clásicas en oferta",
+   "idea": "Samba y Gazelle están entre las ofertas más comentadas. Tiendas de moda: un video de 'tres formas de combinarlas' con precio de Black Friday.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Calendario de Adviento con cabeza",
-   "idea": "Un análisis señala los calendarios de chocolate con más azúcar. Si vendes alimentos o cosmética, ofrece un calendario alternativo y explica qué trae cada día.",
+   "titulo": "Si la nube falla",
+   "idea": "La caída de Microsoft 365 hizo que muchas empresas buscaran alternativas. Proveedores de software: contenido práctico sobre copias de seguridad y continuidad del negocio.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Navidad con presupuesto",
+   "idea": "Los medios calculan cuántos regalos ofrece cada portugués. Arma una guía 'un regalo por persona y por menos de 20 euros' para la familia.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "controle de tráfego aéreo",
+   "termino": "autoestrada",
    "color": "amarillo",
-   "por_que": "EE. UU. levantó la suspensión de vuelos tras una falla que paró el tráfico aéreo.",
-   "idea": "Agencias y envíos: informar plazos con calma."
+   "por_que": "Un país europeo evalúa bajar la velocidad en autopistas por la crisis de combustibles.",
+   "idea": "Movilidad y autos: consejos de conducción eficiente y ahorro de combustible, sin alarmismo."
   },
   {
-   "termino": "eletricidade",
-   "color": "amarillo",
-   "por_que": "Cortes programados de electricidad en varias zonas de Portugal.",
-   "idea": "Avisos útiles y productos de respaldo energético, sin aprovechar la molestia."
-  },
-  {
-   "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Previsión de inestabilidad y granizo en algunas zonas.",
-   "idea": "Mensajes de servicio y productos para mal tiempo."
+   "termino": "inteligência artificial",
+   "color": "verde",
+   "por_que": "Debate sobre cómo la IA sustituye las pizarras a tiza de los restaurantes.",
+   "idea": "Restauración y tecnología: muestra cómo combinas lo artesanal y lo digital."
   },
   {
    "termino": "cristina ferreira",
@@ -56,10 +50,16 @@
    "idea": "Contenido de entretenimiento ligero sin opinar sobre personas."
   },
   {
-   "termino": "inteligência artificial",
-   "color": "verde",
-   "por_que": "Debate sobre cómo la IA sustituye las pizarras a tiza de los restaurantes.",
-   "idea": "Restauración y tecnología: muestra cómo combinas lo artesanal y lo digital."
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "Previsión de inestabilidad y granizo en algunas zonas.",
+   "idea": "Mensajes de servicio y productos para mal tiempo."
+  },
+  {
+   "termino": "eletricidade",
+   "color": "amarillo",
+   "por_que": "Cortes programados de electricidad en varias zonas de Portugal.",
+   "idea": "Avisos útiles y productos de respaldo energético, sin aprovechar la molestia."
   }
  ],
  "ocultar": [
@@ -75,48 +75,43 @@
   "exército",
   "arrendamento",
   "norway vs wales",
-  "EUA propõem cedência de território da Ucrânia em troca de adesão à NATO",
   "rtp online",
   "saúde em portugal",
-  "\"Diga-me como vou sobreviver\": manifestantes exigem respostas à crise da habitação em Lisboa",
-  "Em vídeo nas redes sociais, vereador do Avante comenta a sentença que reconheceu fraude à cota de gênero e anulou mais de 15 mil votos do partido em Porto Velho; ele segue no cargo enquanto o TRE-RO não julgar o recurso. 👉🏻 Esse texto é uma prévi",
   "thomas berthold",
-  "UE vai enviar seis representantes para negociar com a Rússia",
   "nadador",
   "roubo",
   "chave totoloto",
   "Tom de Seguro, propostas de Pedro Nuno e uma silent disco. O arranque dos Estados Gerais de Carneiro",
-  "Passos Coelho espera que “não se percam mais 10 anos” sem reformar Segurança Social",
-  "Finanças saúda avaliação positiva da DBRS e destaca crescimento económico acima do esperado",
   "ufc",
   "insolvência",
   "imposto",
   "aeroporto internacional de miami",
   "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos",
-  "Dois aviões colidem na pista do aeroporto internacional de Miami",
-  "Habitação: Noite tranquila nos Restauradores em Lisboa com cerca de 40 tendas montadas",
-  "A disseminação de infecções por HIV ocorre nas redes sociais: Ministério da Saúde exige medidas rigorosas.",
-  "Abilio anuncia reforma administrativa; pasta da Educação terá três secretários",
-  "Acampada de Lisboa promete continuar a luta e ocupa Praça dos Restauradores",
   "Canadá \"não aceitará\" acordo com os EUA que prejudique a indústria automóvel",
   "Carneiro quer PS a voltar à “paixão pela educação” e promete pacto para a produtividade",
   "Colisão entre três carros corta EN365 na Golegã e provoca dois feridos",
   "Custo da Gala do Desporto em Santarém motiva nova discussão entre João Leite e Pedro Ribeiro",
   "Despiste de carro de luxo deixa homem em estado crítico em Beja. Vítima foi helitransportada",
-  "Dois jovens agredidos em festa universitária em Lisboa tiveram de receber tratamento hospitalar",
   "Drones ucranianos resgatam cães e gatos de cidade ocupada pela Rússia",
-  "Flávio Bolsonaro procura casa de luxo nos EUA",
-  "Flávio Bolsonaro procura casa de luxo nos EUA, diz colunista",
-  "GNR apreende 6750 litros de gasolina na A2. Quais são os riscos de transportar grandes quantidades de combustível?",
   "JPP inscreve dívida aos profissionais de saúde no ORAM 2027",
   "JPP inscreve dívida aos profissionais de saúde no orçamento de 2027 - JPP - Juntos Pelo Povo",
   "Mais de 100 cães e gatos resgatados em Ermesinde — 24 morreram",
-  "Noite tranquila nos Restauradores, em Lisboa, com cerca de 40 tendas montadas",
-  "O Ministério da Saúde está investigando o vazamento de informações sobre pessoas infectadas com HIV nas redes sociais.",
   "Protesto “Acampada Lisboa” está de volta, agora na Praça dos Restauradores",
-  "Secretário de Estado do Desporto apupado no Seixal",
-  "Seguro não garante veto à lei das rendas, dá força às Acampadas e pede filmagens de carga policial no Porto",
-  "a2"
+  "a2",
+  "estônia",
+  "câmara municipal de lisboa",
+  "Estónia vai fechar fronteira com a Rússia após nova tentativa de sabotagem",
+  "[Completo] video da menina que Viralizou com 5 meninos vídeo da menina do ônibus cascavel 5 x 1",
+  "BingX anuncia novo quiz promocional nas redes sociais com prêmio de 20 USDT",
+  "Documentário sobre Suzane von Richthofen provoca críticas nas redes sociais",
+  "Acampada de regresso a Lisboa. Restauradores são o local escolhido",
+  "Lisboa: Patriarca pede «ajuda concreta» a pobres e cristãos perseguidos",
+  "Organização estima 60 mil pessoas na manifestação em Lisboa, PSP diz que foram 8 mil. Entre discursos, música e o apoio dos partidos, desvalorização de Rangel caiu mal. As tendas voltam à rua, desta vez, nos Restauradores. Saiba mais através do link n",
+  "Luís Neves recusa comentar regresso das acampadas em Lisboa e Porto",
+  "Cidadãos tentam travar venda de terrenos da Câmara de Lisboa que estavam destinados a habitação acessível",
+  "Estónia encerra fronteira terrestre com a Rússia dia 1 após tentativa de sabotagem contra fábrica de drones",
+  "ANIMAL protesta contra a matança de cães em Marrocos",
+  "Centros de dados debaixo de fogo: Edimburgo protesta nas ruas e bolsa penaliza IA"
  ],
  "audiencias": {
   "general": {

@@ -1,41 +1,47 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Reino Unido mira el cielo: alertas sanitarias por frío, nieve y hielo en Escocia y el norte de Inglaterra, y lluvia en Londres. Strictly Come Dancing domina la conversación camino de Blackpool, las luces navideñas de Carnaby Street ya generan debate y la temporada de fiestas activa guías de estilo. En compras, Victoria's Secret anticipa menos rebajas, Asda vuelve a crecer en alimentación y se multiplican los avisos contra estafas de Black Friday. Calidez, confianza y planes de interior funcionan hoy.",
+ "lectura": "El Reino Unido se prepara para más frío: tras un breve respiro templado vuelven las alertas sanitarias por nieve y hielo en Escocia y el norte de Inglaterra, y la búsqueda del pronóstico de nieve se dispara. Los británicos planean gastar unas 103 libras en sus seres más cercanos esta Navidad, pero con presupuestos ajustados; Aldi vuelve con su batidora tipo KitchenAid y los mercados navideños abren el 21 de noviembre. Strictly Come Dancing sigue en conversación con Dianne Buswell y el estreno de GTA VI genera expectación. Calidez, ofertas útiles y planes de interior funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Cozy night in",
-   "idea": "Con alertas por frío y nieve, el plan es quedarse en casa. Propón un 'kit de noche de Strictly': manta, snacks y bebida caliente con tus productos.",
+   "titulo": "Llega la nieve",
+   "idea": "Las búsquedas sobre nieve se disparan y hay alertas por frío. Marcas de ropa, hogar y calefacción: 'tu kit para la ola de frío' con entrega antes del fin de semana.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin estafas",
-   "idea": "Los medios publican formas de detectar estafas online. Muestra en un carrusel cómo verificar tu tienda: dirección real, reseñas y métodos de pago seguros.",
+   "titulo": "Regalos por 103 libras",
+   "idea": "Los británicos prevén gastar unas 103 libras en sus seres queridos más cercanos. Arma una guía de regalos que encaje en ese presupuesto, por persona y por interés.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Luces de Navidad, versión propia",
-   "idea": "Las luces de Carnaby Street se llenaron de móviles grabando. Invita a tus seguidores a enviar la foto de su escaparate o salón iluminado y premia la mejor.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Look de party season",
-   "idea": "Arrancan las guías de estilo para fiestas. Marcas de moda y belleza: tres looks de oficina a fiesta con un solo cambio de prenda o maquillaje.",
+   "titulo": "Mercado navideño a la vista",
+   "idea": "Los mercados festivos abren el 21 de noviembre con entrada gratuita. Artesanos y emprendedores: anuncia en qué puesto estarás y lleva un producto exclusivo para el mercado.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Skincare para el frío",
-   "idea": "Llega el frío intenso y la piel lo nota. Comparte una rutina de invierno de 3 pasos con tus productos y precio del set.",
+   "titulo": "Calendario de Adviento propio",
+   "idea": "Los anuncios de calendarios de Adviento se multiplican en Meta. Pequeñas marcas pueden lanzar un 'Adviento' de 24 días con descuentos o contenidos diarios desde el 1 de diciembre.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Strictly en casa",
+   "idea": "Strictly Come Dancing mantiene a millones frente a la tele. Bares, delivery y snacks: 'pack noche de Strictly' para el sábado con un toque de humor británico.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "weather tomorrow",
+   "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Gran interés por el pronóstico ante el frío y la nieve.",
-   "idea": "Contenido según el clima del día: ropa de abrigo, calefacción y planes de interior."
+   "por_que": "Alertas por frío y nieve en Escocia y el norte de Inglaterra tras un breve respiro templado.",
+   "idea": "Ropa de abrigo, calefacción y delivery: mensajes útiles para preparar la semana fría."
+  },
+  {
+   "termino": "diane buswell",
+   "color": "verde",
+   "por_que": "La bailarina de Strictly respondió con firmeza a críticas sobre su cuerpo tras ser madre.",
+   "idea": "Marcas de bienestar y moda: mensajes de autoestima y cuerpos reales, con respeto y sin explotar la polémica."
   },
   {
    "termino": "strictly come dancing 2026",
@@ -44,16 +50,10 @@
    "idea": "Moda, belleza y snacks: looks de lentejuelas y planes para ver el programa."
   },
   {
-   "termino": "weather",
-   "color": "amarillo",
-   "por_que": "Alertas sanitarias por frío y previsiones de nieve y hielo.",
-   "idea": "Mensajes de cuidado y productos útiles; tono de servicio."
-  },
-  {
-   "termino": "strictly come dancing week 8 results",
+   "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Resultados de la semana ocho camino de Blackpool.",
-   "idea": "Encuestas y contenido de fans con humor ligero."
+   "por_que": "Gran interés por el pronóstico ante el frío y la nieve.",
+   "idea": "Contenido según el clima del día: ropa de abrigo, calefacción y planes de interior."
   },
   {
    "termino": "aljaz strictly",
@@ -1034,42 +1034,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 271874,
+   "busqueda": "Christmas gifts",
+   "total": 113157,
    "anunciantes": [
     {
-     "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=1842882063394763"
+     "nombre": "Who What Wear",
+     "url": "https://www.facebook.com/ads/library/?id=1167074932419183"
+    },
+    {
+     "nombre": "Print & Pane",
+     "url": "https://www.facebook.com/ads/library/?id=1127903383284263"
+    },
+    {
+     "nombre": "Wembley Park",
+     "url": "https://www.facebook.com/ads/library/?id=1847196763085239"
+    },
+    {
+     "nombre": "Rich Coffin Golf Coaching",
+     "url": "https://www.facebook.com/ads/library/?id=1262037560109699"
+    },
+    {
+     "nombre": "Pos Pilates",
+     "url": "https://www.facebook.com/ads/library/?id=2180559955866417"
     }
    ],
-   "patron": "El Black Friday se pauta desde semanas antes con mensajes de 'empieza ya' y descuentos de hasta 62%; un mismo anunciante corre decenas de variaciones del mismo anuncio para probar creatividades."
+   "patron": "Predominan los regalos personalizados (mascotas enmarcadas, nombres en la imagen), las guías de regalo de moda y los mercados navideños con entrada gratuita desde el 21 de noviembre. Los mensajes apelan a regalos 'que significan más' y a ver el regalo antes de comprarlo; abundan los rangos de precio de entrada ('desde 40 libras')."
   },
   {
-   "busqueda": "envíos",
-   "total": 439,
+   "busqueda": "advent calendar",
+   "total": 13045,
    "anunciantes": [
     {
-     "nombre": "Temu",
-     "url": "https://www.facebook.com/ads/library/?id=1463305455782134"
+     "nombre": "Pott'd",
+     "url": "https://www.facebook.com/ads/library/?id=1441740851418226"
     },
     {
-     "nombre": "Cuballama",
-     "url": "https://www.facebook.com/ads/library/?id=29249906008026085"
+     "nombre": "Grá",
+     "url": "https://www.facebook.com/ads/library/?id=1183180064394024"
     },
     {
-     "nombre": "Club Atlético Nacional Oficial",
-     "url": "https://www.facebook.com/ads/library/?id=965659749646694"
+     "nombre": "curatecrochetbox",
+     "url": "https://www.facebook.com/ads/library/?id=2205559633694433"
     },
     {
-     "nombre": "Iberiancards",
-     "url": "https://www.facebook.com/ads/library/?id=2584626955391101"
+     "nombre": "Pawfect Snacks",
+     "url": "https://www.facebook.com/ads/library/?id=2298311940951780"
     },
     {
-     "nombre": "Coleccionistas Adictos",
-     "url": "https://www.facebook.com/ads/library/?id=1869230781192432"
+     "nombre": "Coeliacs Like Beer",
+     "url": "https://www.facebook.com/ads/library/?id=1690466482419641"
     }
    ],
-   "patron": "En español dominan los marketplaces con 'super oferta', los envíos a familia en Latinoamérica y las tiendas que venden a la diáspora (camisetas de clubes, coleccionables) con códigos de descuento de Black Friday."
+   "patron": "Los calendarios de Adviento se nichifican: plantas, ganchillo, snacks para mascotas, cerveza sin gluten, belleza asiática o chocolate. La urgencia gira en torno al inicio del 1 de diciembre y a las ediciones limitadas; muchos incluyen un regalo extra para subir el valor percibido."
   }
  ],
  "ocultar": [
@@ -1082,39 +1098,40 @@
   "abingdon fireworks",
   "l3harris",
   "you can see everything",
-  "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-  "Noel Fielding 'appalled' by jokes he made with Russell Brand",
   "gladiators",
-  "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-  "Judo champion shakes up French presidential race with surprise candidacy",
   "polly hudson",
-  "Incident on Dublin to Waterford train goes viral after report made to Irish Rail",
   "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
   "ufc",
   "finance",
   "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-  "Israel kills Hamas commander in strike on Gaza camp, officials say",
   "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
   "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
-  "Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations",
   "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
   "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
-  "Burnham ‘faces rebellion’ from MPs on Rosebank",
-  "Iran says it targets US radar in Bahrain. What do we know?",
-  "MP welcomes FSA briefing and highlights importance of protecting food standards",
-  "RYDE RESIDENTS FEARFUL AS CARS VANDALISED AND SWASTIKA DAUBED ON BONNET",
-  "Singer's Hall of Fame induction axed over Russell Brand comments",
   "Slough man who left dogs without water given 10-year ban",
-  "Southampton Anti-Racism Alliance sees crowds gather for marching and music in a show of community unity",
   "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-  "Trident nuclear submarine concludes record underwater deployment",
-  "Ukrainian strikes hit major Russian petrochemical plant",
   "Under Capitalism, Even Kids’ Playtime Is Alienated",
-  "[xXx] Xnxx!+Xxxx) Pakistani Teacher and Student Viral Video 3AhDdkDH3K",
-  "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
-  "★彡 xxx video 彡★ viral!!】Caramel Macchiato viral video trending on social media",
-  "☠♩ χ𝐗Ж ᐯƗĎέỖ ൠඏ++[Original^video#] Hansika Motwani's viral video trending on social media",
   "nizhnekamskneftekhim",
-  "ian mcnabb"
+  "ian mcnabb",
+  "starlink",
+  "Government to consider staggered age of consent after Russell Brand allegations",
+  "Trident submarine returns home after record-breaking undersea patrol",
+  "UK on brink of EU deal to bring down price of weekly shop after Brexit disaster, says Andy Burnham",
+  "Moment dad found 27 abandoned children at nanny's home",
+  "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
+  "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+  "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+  "Company caught up in Nvidia controversy launches internal investigation",
+  "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
+  "++FULL+VIDEOS+!!Camilla Araujo Viral Video On Social Media",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin viral video , Pori Moni and Maasranga TV Instagram: Latest Search Trends",
+  "18+VIDEOS]+]Viral Video Featuring Andini Permata",
+  "SEXVIDEOXXX)video filtrado de Zao viral video de Zao intimo XVIDEOS.COM",
+  "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
+  "[[VIRAL VIDEOS]] teacher viral video link",
+  "18+VIDEOS]+]Archita Pukham Viral Video Download",
+  "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
+  "Jensen Huang’s downfall threatens the AI industry built around him",
+  "Neighbours of China’s London ‘mega’ embassy struggle to sell flats"
  ]
 }

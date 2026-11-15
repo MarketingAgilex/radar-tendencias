@@ -1,26 +1,26 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania está en plena caza de ofertas: Apple Watch, Samsung, iPhone, Switch 2 y hasta leasing de autos ya tienen precios de Black Friday, y el estadio de Hannover agotó entradas para un canto navideño masivo. La filtración de la primera camiseta Nike de la selección dispara búsquedas y las pruebas de café de supermercado y calendarios de Adviento orientan la compra. El artesanado advierte de pérdida de empleos y un Glühwein de 18 euros en Múnich abre el debate del precio. Ofertas verificables, Adviento y producto local funcionan hoy.",
+ "lectura": "Alemania vive la caza de ofertas previa al Black Friday: cafeteras automáticas, Apple Watch, iPhone, tocadiscos y Blu-rays de anime ya tienen precio rebajado, y los compradores comparan entre Amazon y eBay. Desde el 20 de noviembre entran en vigor nuevas reglas para pagos con Klarna y PayPal, y los medios piden revisarlas antes de comprar. En televisión, la serie turca 'Teşkilat' y el estreno de un Krimi de la ARD atraen búsquedas, y un cartel alemán en Italia se volvió viral. Precios comparables, pagos claros y entretenimiento en casa funcionan hoy.",
  "semaforo": [
+  {
+   "termino": "trt 1 canli",
+   "color": "verde",
+   "por_que": "La comunidad turca en Alemania sigue la nueva temporada de la serie 'Teşkilat'.",
+   "idea": "Marcas para la comunidad turco-alemana: contenido bilingüe y planes para ver la serie."
+  },
+  {
+   "termino": "mordach",
+   "color": "verde",
+   "por_que": "Estreno de un Krimi de la ARD con una actriz de Aquisgrán que se hizo conocida por una canción viral.",
+   "idea": "Medios y marcas regionales: contenido sobre talento local y planes de domingo en casa."
+  },
   {
    "termino": "tv programm heute",
    "color": "verde",
    "por_que": "Búsqueda de la programación del fin de semana.",
    "idea": "Delivery y snacks: promociones para noches de tele en casa."
-  },
-  {
-   "termino": "trikot",
-   "color": "verde",
-   "por_que": "Filtración de la primera camiseta Nike de la selección alemana.",
-   "idea": "Moda y deporte: expectativa, preventas y outfits de fan."
-  },
-  {
-   "termino": "black friday nintendo switch 2",
-   "color": "verde",
-   "por_que": "Ofertas de Switch 2 con Mario Kart World en Black Friday.",
-   "idea": "Gaming y regalos: packs con accesorios y entrega antes de Navidad."
   },
   {
    "termino": "kaffee",
@@ -29,10 +29,10 @@
    "idea": "Cafeterías y marcas de café: contenido de consumo responsable sin afirmaciones médicas."
   },
   {
-   "termino": "spacex starship",
+   "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Nuevo vuelo de prueba de Starship.",
-   "idea": "Tecnología y educación: contenido de curiosidad científica."
+   "por_que": "Ofertas de Switch 2 con Mario Kart World en Black Friday.",
+   "idea": "Gaming y regalos: packs con accesorios y entrega antes de Navidad."
   }
  ],
  "audiencias": {
@@ -1174,9 +1174,7 @@
   "solingen",
   "eric dane",
   "Dubioser TikTok-Trend - Wie „Perversling-Brillen“ junge Frauen bloßstellen",
-  "Berlin - Steinmeier würdigt Jüdisches Museum Berlin als Ort der Aufklärung und Begegnung",
   "Gegen Teuerung, für Bildung und Kinderschutz: Frankreich erlebt erneuten Protestsamstag",
-  "Was gegen die Überlastung der Sozialgerichte durch KI hilft",
   "die friesenjunkies",
   "b173",
   "friesland krimi bestatter habedank",
@@ -1189,78 +1187,64 @@
   "boris pistorius",
   "ufc",
   "droneshield",
-  "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
   "Entscheidung noch dieses Jahr: Zwei Atomkraftwerke vor Borkum?",
   "NVIDIA-Aktie: HSBC stuft ab, Börsenwert unter 4 Billionen US-Dollar – Investoren bringen Huang-Rückkehr ins Spiel",
-  "Polizei ermittelt wegen Unfallflucht gegen BVG-Fahrer Achtjährige stürzt mit Rad, wird von Bus überrollt und stirbt",
-  "Auto fährt auf Gehweg: Fußgängerin in Detmold lebensgefährlich verletzt",
-  "Auto fährt auf Gehweg: Fußgängerin nach Verkehrsunfall lebensgefährlich verletzt",
-  "Auto von \"Nius\"-Chef Julian Reichelt angezündet: Polizei prüft Bekennerschreiben",
-  "Bei Ermittlungen gegen Orbans Ex-Minister Behörde in Ungarn findet 17 Millionen Euro in Erdlöchern, Lagerhallen und Tresoren",
   "Berlin-Tiergarten: Kind stirbt nach Fahrradsturz unter Bus",
   "Berlin: Acht Verletzte nach Schlägerei auf Verlobungsfeier in Wilhelmsruh",
   "Bildung, Justiz, Lebenshaltung: Erneut große Proteste in Frankreich",
-  "Brandenburg: Teltow-Fläming: Auto schleudert in Ludwigsfelde auf Gehweg",
-  "Bus überrollt achtjähriges Kind in Berlin-Mitte – Menschen legen Blumen nieder",
   "CDU: Drogeneinrichtung in Harburg soll bis Januar umziehen",
-  "Einbrecher stehlen Schmuck und Bargeld aus Einfamilienhaus in Burlafingen",
   "Einbrechern fiel Schmuck in die Hände",
-  "Gedenkgottesdienst für verstorbene Kinder",
-  "Gesundheit - SPD gegen Selbstzahlertermine für Kassenpatienten",
   "Häuser-Bau auf deutschem Massengrab in Tschechien",
-  "Im Video: Boeing-Maschinen kollidieren mit 160 Passagieren an Bord auf Rollfeld",
   "JP Kraemer spricht nach 11 Wochen Schweigen: 231 Mal „Ich“, aber kein Wort über sein Opfer",
-  "Jemen: Regierungstruppen Jemens ziehen sich von Meerenge Bab al-Mandab zurück",
   "Jensen-Huang-Affäre: Was der Nvidia-Schock für KI-Aktien heiß",
-  "Julian Reichelt spricht von „Einschüchterungs­versuch“ Auto von „Nius“-Chefredakteur in Berlin angezündet – Polizei prüft Bekennerschreiben",
-  "Krankenkassenreform: SPD und Grüne lehnen vermehrte Selbstzahlertermine in Arztpraxen ab",
-  "Krieg im Nahen Osten - Jemen: Regierungstruppen ziehen sich von Meeresenge zurück",
-  "Landkreis Reutlingen: 77-Jährige mit Seniorenmobil von Auto erfasst",
   "Lebensmittel im Wert von 120 Euro in Schwandorf gestohlen",
-  "Massiver Jobverlust könne drohen: Handwerkspräsident rechnet mit Schwarz-Rot ab",
-  "NRW-Trend: Wüst und die CDU führen deutlich und trotzen dem Bundestrend",
-  "NVIDIA-Aktie im Blick: Megaspeed bestätigt Abgang von Alice Huang im August 2025 - Vorwürfe werden intern geprüft",
   "Nach Schockanruf – Seniorin übergibt Schmuck und Geld im Wert von einer halben Million Euro",
-  "Nach versuchtem Brandanschlag: Estland schließt Grenze zu Russland",
-  "Regierungsbildung in Berlin: Ramelow wirft Emde Vertrauensbruch vor",
   "Schmuck bei Wohnungseinbruch gestohlen",
   "Schmuck und Uhr aus Einfamilienhaus gestohlen",
   "Schockanruf in Neuhausen-Nymphenburg: Seniorin übergibt Bargeld und Schmuck an unbekannten Abholer",
-  "Spionageskandal um Nvidia-Chef Jensen Huang Alice Huang soll Unternehmen Megaspeed im August 2025 verlassen haben",
   "Tel Aviv Fashion Week: Glamour und Gegenwind",
-  "Tschechien: Demonstration in Prag gegen geplante Abschaffung der Rundfunkgebühr",
-  "Ukraine schießt großes russisches Industriegebiet in Brand",
-  "Van der Bellen: \"Mitgefühl ist keine Schwäche\"",
-  "Wolf im Schafsfell: Bremen stoppt eine umstrittene Kampagne gegen Islamisten",
-  "„Mein Kind isst nur Nudeln und Toast“: Wann eine Essstörung dahinter steckt",
   "estland",
-  "jemen"
+  "jemen",
+  "Parteivorsitz: Niedersachsens Ministerpräsident Lies warnt SPD vor „Selbstbeschäftigung“",
+  "Sabotagevorwurf: Estland schließt nach Anschlagsversuch Grenzübergänge zu Russland",
+  "\"Neue Drei-Klassen-Medizin\": Grüne warnen vor \"Paywall\" für Arzttermine",
+  "Massenprotest gegen Rundfunkreform in Tschechien",
+  "Russland: Ukraine schießt großes Industriegebiet in Brand",
+  "Umfrage in NRW: Schwarz-Grün mit stabiler Mehrheit – AfD zieht an SPD vorbei",
+  "US-Demokraten nach dem Wahlsieg: Chris van Hollen will Mehrheitsführer im US-Senat werden",
+  "Mecklenburg-Vorpommern: Weg frei für rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern",
+  "Spanien: 1580 Menschen an einem Tag – Kanaren melden neuen Rekord von ankommenden Migranten",
+  "Regenbogen trotz Razzien: Tausende demonstrieren in Türkei",
+  "Nahost: Iran meldet Explosionen an Öltankern in der Straße von Hormus – US-Militärstützpunkt angegriffen",
+  "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
+  "Berlin direkt vom 15. November 2026",
+  "Ermordete Schülerin: Lisa soll eingeäschert werden"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Adventskalender bajo la lupa",
-   "idea": "Los medios ya prueban calendarios de Adviento como el de Douglas. Muestra qué hay detrás de cada ventanita de tu calendario y su valor real frente al precio.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Café de test",
-   "idea": "Un café de Aldi ganó la prueba de café de supermercado. Cafeterías y tostadores: explica en qué se diferencia tu café y ofrece una cata comparativa.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Nuevo Trikot, nuevo look",
-   "idea": "La primera camiseta Nike de la selección alemana se filtró. Tiendas de deporte y moda: contenido de expectativa y combinaciones de outfit para fans.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Black Friday con precio real",
-   "idea": "Hay muchas ofertas 'al mejor precio'. Muestra el historial de precio de tu producto estrella para que el cliente compruebe el descuento.",
+   "titulo": "Antes del 20 de noviembre",
+   "idea": "Cambian las reglas para pagar con Klarna y PayPal. Tiendas online: explica en tres pasos qué debe hacer el cliente y qué métodos de pago aceptas sin sorpresas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Handwerk que se elige",
-   "idea": "El artesanado alerta de pérdida de empleos. Si eres artesano o vendes producto local, cuenta quién fabrica y por qué comprar local en Navidad sostiene oficios.",
-   "formato": "LinkedIn"
+   "titulo": "Compara antes de comprar",
+   "idea": "Los medios muestran diferencias enormes de precio entre plataformas. Publica tu precio con comparativa honesta y el valor añadido que ofreces (garantía, servicio, envío).",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Café perfecto en casa",
+   "idea": "Las cafeteras automáticas tienen hasta 40% de descuento anticipado. Tostadores y cafeterías: pack de granos para estrenar la máquina con receta del barista.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Vinilo para regalar",
+   "idea": "Los tocadiscos están entre los regalos tecnológicos de la temporada. Tiendas de música: guía 'tu primer tocadiscos y cinco vinilos para empezar'.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Adviento con tu marca",
+   "idea": "Los calendarios de Adviento ya son tema de compra. Pequeños comercios: un Adviento digital con una sorpresa diaria desde el 1 de diciembre para fidelizar.",
+   "formato": "Historia Instagram"
   }
  ]
 }

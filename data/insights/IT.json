@@ -1,9 +1,15 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia se prepara para el Black Friday: Amazon arranca el 19 de noviembre con doce días de ofertas, una de cada dos familias toscanas comprará y las autoridades insisten en cuidarse de las estafas online. Ballando con le Stelle domina el entretenimiento, la Colletta Alimentare recoge miles de toneladas de comida en todo el país y el mal tiempo mantiene alertas en Toscana y Roma. La inflación acumulada del 4,4% y la pensión que no alcanza en Milán explican por qué el consumidor busca ofertas reales. Chocolate artesanal, luces de Navidad y GTA VI animan la conversación.",
+ "lectura": "Italia calienta el Black Friday, que según las previsiones moverá unos 4.300 millones de euros: Amazon, MediaWorld, Unieuro y marcas como Bose, Anker o SwitchBot ya adelantan descuentos, mientras las autoridades insisten en verificar sitios y pagos. El ciberataque a la red postal francesa, con datos de 22 millones de personas, aumenta la preocupación por la seguridad. La inflación acumulada del 4,4% pesa en el bolsillo, y en Milán triunfa un mercadillo vintage gratuito; en redes, la amistad entre un zorro y un jabalí se vuelve viral. Ofertas reales, compra segura y segunda mano funcionan hoy.",
  "semaforo": [
+  {
+   "termino": "francia",
+   "color": "amarillo",
+   "por_que": "Un ciberataque al servicio postal francés expuso datos de 22 millones de personas.",
+   "idea": "Ciberseguridad y e-commerce: consejos para proteger datos y reconocer correos falsos de 'paquetes pendientes'."
+  },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
@@ -21,12 +27,6 @@
    "color": "verde",
    "por_que": "Pareja de baile del programa genera búsquedas.",
    "idea": "Usa el formato de baile y reto, no la vida privada."
-  },
-  {
-   "termino": "attacchi hacker",
-   "color": "amarillo",
-   "por_que": "Guías para proteger electrodomésticos y cámaras conectadas de intrusiones informáticas.",
-   "idea": "Tecnología y seguridad: consejos prácticos sin generar miedo."
   },
   {
    "termino": "rockstar games gta vi",
@@ -1148,76 +1148,64 @@
   "arnaldo la barbera",
   "sciopero generale",
   "campi flegrei",
-  "Cortei contro carovita e riarmo, in piazza a Milano e Torino. FOTO",
-  "Ciro Grillo in tv: «Sono stato riprovevole, ma non ho violentato quella ragazza. I giovani uomini sono in crisi»",
   "Greta Thunberg e le risate su Fridays for Future: cosa vogliono dire davvero?",
   "furto",
   "trattamento di fine servizio",
   "reddito di cittadinanza",
   "Il mondo della finanza scrive a Meloni: “Un errore il raddoppio della Tobin tax”",
-  "Così cambia la Manovra: sanità, scuola e imprese. La partita su Exit tax e pensioni",
   "ornella muti",
   "bari - foggia",
   "caserma dei vigili del fuoco",
   "merate",
   "sardegna",
   "crans-montana",
-  "Chi era Nicola Re, il vedovo gentile ucciso per aver smascherato la truffa del finto carabiniere",
-  "Ladri in fuga col Suv travolgono l’auto di una famiglia, pauroso incidente: una delle due donne incinte a bordo partorisce d’urgenza in ospedale, gravi lei e il neonato",
   "A Roma al via \"Corri Libera\", uniti contro la violenza sulle donne",
   "nvidia jensen huang",
-  "A Treviso ladri in fuga tamponano auto con due donne incinte, cesareo d'urgenza per una: gravi mamma e figlio",
-  "Caporalato in agricoltura, lunedì riparte la sezione territoriale Rlaq di Arezzo",
-  "Domodossola, fuga nei boschi dello spaccio: un giovane muore precipitando per 200 metri",
   "Donna aggredita da due cani a Strona",
-  "Fisco, pensioni, sanità: ecco tutte le trappole da evitare negli emendamenti alla manovra",
-  "Furti di oro e gioielli per oltre 330mila euro tra Como e Milano: arrestati due giovani",
-  "Inseguiti dalle forze dell'ordine, un giovane muore in un dirupo, un altro ferito",
-  "Intelligenza artificiale e industria militare, l'inchiesta \"Dual Use – Il caso Unimore\"",
   "Minacce via email alle scuole, nuove indicazioni dal Ministero dell'Istruzione e dal Viminale (NOTE)",
-  "Ora Mosca vuole ridisegnare la sicurezza in Europa: “Da questa dipenderà la pace in Ucraina”",
-  "Paura sul volo Easyjet Keflavik-Milano: fermato un passeggero ubriaco armato di coltello",
   "Porta a porta - Farouk Kassam, l'intervista: \"Quei 177 giorni con i miei rapitori\" - Video",
-  "Scende dall’auto dopo tamponamento, è travolto da un altro veicolo: Valeriu Marinuta muore a 36 anni",
-  "Scontro tra due aerei a Miami: lievi feriti, coinvolti voli Copa e UPS",
-  "Si finge carabiniere, ruba i gioielli e poi aggredisce un poliziotto in stazione: 24enne arrestato",
-  "Speronano un'auto e fuggono a piedi: grave donna incinta costretta a partorire d'urgenza. L'ipotesi della banda di ladri in fuga",
   "Treviso, suv di ladri travolge auto: a bordo due donne incinte",
-  "Ubriaco con coltello sul volo Islanda-Milano: nessun ferito",
-  "Ubriaco e con un coltello sul volo dall'Islanda a Milano, in aereo scatta l'allarme: interviene la Polizia",
   "Un libro per ragionare su quando l’arte ha a che fare col crimine. Intervista all’autore",
-  "«Ho visto un cadavere nel Fiume Liri», giallo a Pontecorvo. Scattano le ricerche",
   "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
   "bosco",
   "pontecorvo",
   "farouk kassam oggi",
-  "elon musk"
+  "elon musk",
+  "Tensione Estonia-Russia, chiusi tutti i confini: il sabotaggio sventato e l'ombra dei servizi segreti di Mosca",
+  "La patrimoniale fa discutere il Campo largo. Avs: «È una necessità». Ma il leader M5S: «No, colpiamo la speculazione finanziaria». E Schlein: «Io sono per la tassa sui super ricchi»",
+  "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
+  "Nicola Re, il finto carabiniere lascia il 92enne a terra morente e scappa lanciando via il cappellino bianco: in un video la fuga dei due rapinatori a Milano",
+  "Bognanco, inseguito dalla polizia precipita in un dirupo e muore",
+  "Lo scoop del Financial Times: «Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia. E cerca il supporto della Casa Bianca»",
+  "Roma, lui non lava i piatti e lei lo pesta a sangue con uno scaldino: arrestata",
+  "Il solito \"finto carabiniere\" deruba una nonnina: via gioielli e centinaia di euro",
+  "Sull’isola di Maiorca c’è un albergo unico nato e cresciuto attorno all’arte e agli artisti"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Black Friday dal 19",
-   "idea": "Amazon empieza el Black Friday el 19 de noviembre. Anuncia tu calendario de ofertas con fechas exactas y precio anterior visible para competir con transparencia.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Anti-truffa",
-   "idea": "El Garante y los medios publican consejos contra estafas online. Haz un carrusel con 5 señales de tienda segura y cómo las cumples tú.",
+   "titulo": "Lo sconto è vero?",
+   "idea": "Los medios enseñan a comprobar si el descuento es real. Publica el precio de los últimos 30 días de tus productos destacados, como pide la normativa europea, y gana credibilidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Serata Ballando",
-   "idea": "Ballando con le Stelle lidera el sábado. Marcas de moda, belleza y snacks: reto de pasos o look de gala inspirado en el programa.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Cioccolato artigianale",
-   "idea": "Eurochocolate y las fiestas del chocolate artesanal llenan la agenda. Pastelerías y tiendas gourmet pueden lanzar una caja navideña con origen del cacao.",
+   "titulo": "Vintage che conquista",
+   "idea": "El Remira Market de Milán atrae con moda vintage y entrada gratuita. Tiendas de segunda mano: cuenta la historia de tres prendas únicas y ofrécelas como regalo navideño.",
    "formato": "Reel"
   },
   {
-   "titulo": "La spesa che aiuta",
-   "idea": "La Colletta Alimentare movilizó a miles de voluntarios. Si tu negocio participa, cuéntalo con cifras concretas; si no, invita a donar en tu punto de venta.",
-   "formato": "Historia Instagram"
+   "titulo": "Paga sicuro",
+   "idea": "Tras el ciberataque a la red postal en Francia crece la preocupación por los datos. E-commerce: explica en 30 segundos cómo protegen tus pagos y datos tus clientes.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Carga para todo el día",
+   "idea": "Power banks y cargadores Anker están entre las ofertas más vistas. Tiendas de tecnología: 'el kit para no quedarte sin batería en Navidad' con precio cerrado.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Amistad inesperada",
+   "idea": "El video del zorro y el jabalí conquistó la red. Marcas de mascotas o naturaleza: contenido tierno sobre 'amistades improbables' con tus clientes y sus animales.",
+   "formato": "Reel"
   }
  ]
 }

@@ -1,42 +1,36 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra en la recta del Black Friday con Amazon, MacBook, PlayStation y anillos Oura ya rebajados, mientras las tormentas invernales azotan la costa oeste y el pronóstico de nieve marca la semana. La caída de Microsoft dejó a muchas empresas pensando en su dependencia tecnológica, Twitch lanzó anuncios comprables en Canadá y la semana de la Grey Cup llena Calgary de planes. Los CMA Awards con Taylor Swift y el estreno de GTA VI completan la agenda. Ofertas con fecha clara, regalos de experiencia y mensajes de invierno conectan con el consumidor canadiense.",
+ "lectura": "Canadá entra en la cuenta regresiva del Black Friday con Walmart Canada, Amazon y Costco adelantando ofertas en tecnología, cocina y calzado de invierno. Nuevos informes señalan que el salario mínimo no sigue el ritmo del costo de vida, y la caída de Microsoft reabrió el debate sobre la dependencia tecnológica de las empresas. Toronto prepara el desfile de Santa Claus en The Beaches y Vancouver estrena un gran evento navideño en un estudio de cine. Ofertas con valor real, planes de temporada y mensajes de invierno funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Early Black Friday honesto",
-   "idea": "Amazon y Apple ya muestran ofertas previas. Publica tus precios de Black Friday desde hoy con la fecha de fin real: el canadiense premia la claridad y la planificación.",
-   "formato": "Copy para anuncio"
+   "titulo": "Black Friday con presupuesto ajustado",
+   "idea": "Con el salario mínimo por detrás del costo de vida, el canadiense cuida cada dólar. Destaca productos de uso diario con descuento real y precio por unidad o por uso.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit de invierno",
-   "idea": "Tormentas con nieve y lluvia golpean el oeste. Ropa, hogar y autos: muestra un kit de invierno con entrega rápida y productos concretos.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Compra desde el directo",
-   "idea": "Twitch lanzó anuncios comprables en Canadá. Si trabajas con creadores, prueba un directo corto mostrando tu producto con enlace de compra.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Plan para la Grey Cup",
-   "idea": "La semana previa a la Grey Cup llena Calgary de planes del 16 al 20 de noviembre. Restaurantes, bares y tiendas locales pueden armar combos para ver el partido en casa.",
+   "titulo": "Ruta al desfile de Santa",
+   "idea": "El desfile de Santa Claus en The Beaches de Toronto trae cierres de calles. Negocios de la zona pueden publicar un mapa con su ubicación y un chocolate caliente de cortesía para quien llegue.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Set de regalo que sí vale",
-   "idea": "Hay cientos de sets de skincare de regalo y los medios eligen 'los que valen la pena'. Muestra qué trae tu set, cuánto ahorra frente a comprarlo suelto y para quién es ideal.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Plan B si se cae la nube",
+   "idea": "La caída de Microsoft dejó a muchas pymes sin trabajar. Proveedores de tecnología: 'tres pasos para que tu negocio siga funcionando si falla tu software', en tono práctico.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Regalos para el frío",
+   "idea": "Las ofertas anticipadas incluyen botas y abrigos. Marcas de ropa: 'el kit para sobrevivir al invierno' con precios de pre-Black Friday y envío gratis desde un monto.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Navidad de película en Vancouver",
+   "idea": "Un estudio de cine se convierte en evento navideño en Metro Vancouver. Creadores locales y restaurantes: colaboraciones con planes 'antes o después del evento'.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
-  {
-   "termino": "country music",
-   "color": "verde",
-   "por_que": "Taylor Swift actuará en los 60.º CMA Awards.",
-   "idea": "Moda, música y entretenimiento: looks country y playlists de temporada."
-  },
   {
    "termino": "winter storm",
    "color": "amarillo",
@@ -54,6 +48,12 @@
    "color": "verde",
    "por_que": "Cuenta atrás para el lanzamiento de GTA VI tras años de desarrollo.",
    "idea": "Gaming, tecnología y delivery: packs de estreno y contenido de expectativa."
+  },
+  {
+   "termino": "country music",
+   "color": "verde",
+   "por_que": "Taylor Swift actuará en los 60.º CMA Awards.",
+   "idea": "Moda, música y entretenimiento: looks country y playlists de temporada."
   },
   {
    "termino": "cher",
@@ -1125,38 +1125,37 @@
   "blue jays",
   "thunder vs clippers",
   "ontario",
-  "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
-  "Alberta changing royalty system to encourage oilsands production, new investment",
   "saint-lin-laurentides",
   "Carney’s big bet on debt",
-  "Bell: Danielle Smith to lay it on the line with rebellious UCP separatists",
   "kimberly polman",
-  "Joly says Stellantis could get more government money if it promised to keep Brampton plant open",
   "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’",
   "miami international airport",
   "john mulaney",
   "ufc tonight",
   "julie dabrusin",
-  "Aryna Sabalenka apologises after viral video, denies insulting Elina Svitolina",
-  "Araghchi: Provincial diplomacy can boost intl. arrivals and handicraft exports",
   "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
-  "British barrister suspended for ‘gas chamber,’ ‘final solution’ posts on Zionism",
   "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
-  "Country music world rocked by deaths of 2 legends: ‘This loss is lasting’",
-  "El-Sisi orders infrastructure financing frameworks finalized, expansion of digital payments - Society - Egypt",
-  "How AESOP Improves Afghan Girls’ Education",
   "In memoriam: Samuel Freedman",
-  "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
-  "NDP MLA seeks answers on environmental assessment of Sherwood AI data centre",
-  "No, Food Aid to Gaza Is Not Being Blocked by Israel",
   "Ontario gym lockdown intervention",
   "Quebec ready to vote independently from Canada for Francophonie leadership: premier",
   "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-  "Two people injured after taxiing planes collide at Miami International Airport",
   "Two planes collide on taxiway at Miami airport one day after national grounding",
-  "What could happen if the B.C. legislature sits this fall — and if it doesn't",
-  "★彡 xxx video 彡★ viral!!】Caramel Macchiato viral video trending on social media",
   "the jerusalem post",
-  "lucy beaumont"
+  "lucy beaumont",
+  "Quebec premier stands firm on U.S. outreach after first meeting with Carney",
+  "Canada, Brazil announce $540M for rainforest protection project",
+  "'A terrible mistake': B.C. ISIS bride Kimberley Polman, in her own words",
+  "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
+  "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+  "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
+  "++FULL+VIDEOS+!!Camilla Araujo Viral Video On Social Media",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin viral video , Pori Moni and Maasranga TV Instagram: Latest Search Trends",
+  "18+VIDEOS]+]Viral Video Featuring Andini Permata",
+  "SEXVIDEOXXX)video filtrado de Zao viral video de Zao intimo XVIDEOS.COM",
+  "~`(=maasranga tv=) পরিমনি pori moni viral video trending on social media X",
+  "[[VIRAL VIDEOS]] teacher viral video link",
+  "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
+  "18+VIDEOS]+]Archita Pukham Viral Video Download",
+  "Carney meets with Quebec premier during Francophone summit"
  ]
 }

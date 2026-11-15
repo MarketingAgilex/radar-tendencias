@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Thanksgiving llega el 26 de noviembre y el Black Friday al día siguiente, pero las encuestas muestran compradores con presupuesto ajustado que planean sacrificios para regalar. Home Depot, PlayStation y Apple ya adelantan ofertas, y gestos como las tarjetas de regalo de H-E-B en Texas se vuelven virales. Los viajes siguen afectados tras la suspensión nacional de vuelos y un El Niño fuerte trae tormentas invernales al oeste. Para la comunidad hispana, es momento de planear envíos navideños a casa con tiempo y precios claros.",
+ "lectura": "Faltan 11 días para Thanksgiving y 12 para el Black Friday: Amazon estira su evento a 12 días, Costco, Nordstrom, Apple y PlayStation adelantan rebajas, pero las encuestas muestran compradores con presupuesto ajustado que planean sacrificios para regalar. Hollywood calienta la temporada con 'Cliff Booth', la nueva película de Tarantino que llega en 10 días, y la comunidad hispana recuerda los Latin GRAMMY con Adamari López. Las olas gigantes en California y la recuperación de los vuelos marcan la conversación cotidiana. Precio claro, regalos con sentido y planificación de envíos a casa ganan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Envía antes de la fila",
-   "idea": "Con Thanksgiving y Black Friday encima, recuerda a la diáspora las fechas límite para que los regalos lleguen a Latinoamérica antes de Navidad. Un calendario simple genera guardados y mensajes.",
+   "titulo": "Regalos que rinden",
+   "idea": "La mayoría planea recortar en otras cosas para poder regalar. Arma una guía de regalos por menos de 25, 50 y 100 dólares con envío incluido: ayudas a decidir sin presión.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalos que rinden el presupuesto",
-   "idea": "La encuesta de Harris muestra compradores con presupuesto apretado. Organiza tu catálogo por rangos ($25, $50, $100) y destaca el costo total con envío.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Sorpresa estilo H-E-B",
-   "idea": "El regalo de tarjetas de supermercado de H-E-B a miles de compradores se volvió viral. Haz tu versión a pequeña escala: sorprende a 10 clientes y graba sus reacciones (con permiso).",
+   "titulo": "Envía a casa antes de la fila",
+   "idea": "Diciembre es temporada alta para mandar regalos a Latinoamérica. Publica fechas límite de envío para que lleguen antes de Navidad y un checklist de qué meter en la caja.",
    "formato": "Reel"
   },
   {
-   "titulo": "Viajero precavido",
-   "idea": "Tras la suspensión nacional de vuelos aún hay cancelaciones. Comparte un checklist para viajar en Thanksgiving: seguro, maleta de mano con lo esencial y apps para seguir el vuelo.",
+   "titulo": "Noche de cine en casa",
+   "idea": "'Cliff Booth' de Tarantino se estrena en 10 días y es de lo más buscado. Restaurantes, delivery y snacks pueden lanzar un combo 'noche de película' para el fin de semana del estreno.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Abrígate para la tormenta",
-   "idea": "Tormentas invernales y nieve llegan al oeste por El Niño. Marcas de ropa, hogar y autos: contenido de preparación con productos concretos y entrega rápida.",
-   "formato": "Historia Instagram"
+   "titulo": "Black Friday sin estafas",
+   "idea": "Las autoridades alertan sobre fraudes en compras navideñas. Explica en 30 segundos cómo verificar tu tienda (dominio, reseñas, pagos seguros) y por qué comprarte es seguro.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Gratitud en Thanksgiving",
+   "idea": "Gestos como las tarjetas de regalo de H-E-B se vuelven virales. Comparte una acción de agradecimiento real a tus clientes o comunidad, sin exagerar ni pedir nada a cambio.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
+  {
+   "termino": "cliff booth",
+   "color": "verde",
+   "por_que": "Gran expectativa por la nueva película de Quentin Tarantino, que llega a cines en 10 días.",
+   "idea": "Cines, restaurantes y marcas de entretenimiento: cuenta regresiva y combos para el estreno."
+  },
+  {
+   "termino": "cliff booth movie",
+   "color": "verde",
+   "por_que": "Búsquedas sobre fecha de estreno y reparto de la película de Tarantino.",
+   "idea": "Medios y creadores: explicar fecha, dónde verla y datos curiosos sin spoilers."
+  },
+  {
+   "termino": "mackenzie scott",
+   "color": "amarillo",
+   "por_que": "Interés por la historia financiera de la filántropa y sus acciones de Amazon; tema personal.",
+   "idea": "Organizaciones sin fines de lucro: hablar de filantropía y donaciones de fin de año sin entrar en su vida privada."
+  },
+  {
+   "termino": "adamari lópez",
+   "color": "verde",
+   "por_que": "La presentadora recordó su primera vez en los Latin GRAMMY junto a otras figuras hispanas.",
+   "idea": "Marcas hispanas: contenido de nostalgia musical y 'mi primera vez' con la audiencia."
+  },
   {
    "termino": "el niño weather",
    "color": "amarillo",
    "por_que": "Un El Niño fuerte cambiará el invierno en buena parte del país.",
    "idea": "Hogar, seguros y ropa: contenido de preparación práctico, sin alarmismo."
-  },
-  {
-   "termino": "spacex starship rocket launch",
-   "color": "verde",
-   "por_que": "Starship logró un vuelo histórico con recuperación de la nave.",
-   "idea": "Tecnología y educación: contenido de innovación y curiosidad científica."
-  },
-  {
-   "termino": "winter storm",
-   "color": "amarillo",
-   "por_que": "Tormentas con nieve en montañas, lluvia y oleaje fuerte en la costa oeste.",
-   "idea": "Avisos de servicio y productos de invierno con tono útil; evita bromas sobre el riesgo."
-  },
-  {
-   "termino": "cancer",
-   "color": "amarillo",
-   "por_que": "Aprobación de un nuevo tratamiento oncológico; tema de salud sensible.",
-   "idea": "Solo marcas de salud con información médica verificada y tono serio."
-  },
-  {
-   "termino": "fitness",
-   "color": "verde",
-   "por_que": "Búsquedas de rutinas para llegar en forma a 2027.",
-   "idea": "Gimnasios, apps y suplementos: retos de 30 días y planes de fin de año."
   }
  ],
  "audiencias": {
@@ -921,44 +921,40 @@
  ],
  "ocultar": [
   "mired in",
-  "caitlin cunningham uss michael murphy relieved",
-  "¿Qué pasó en el choque de un buque cisterna con un crucero fluvial en el puerto de Nueva Orleans?",
   "billionaires",
   "brad pitt",
-  "\"Si el ICE no hubiera venido, seguiríamos siendo republicanos, al 100%”: Así es como las redadas migratorias transformaron el voto en Kansas",
   "Atacado en Panamá un periodista que investiga casos de corrupción",
-  "After Her Baby Was Buried Alive, a Mother’s Painful Question: Why?",
-  "Resumen de noticias del Colapso de un edificio en Brooklyn, Nueva York, del 12 de noviembre de 2026",
   "app state vs marshall",
   "emily ratajkowski",
   "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-  "U.S. floated exchanging Ukrainian territory for NATO membership, Zelenskyy says",
   "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
   "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
-  "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
-  "Why New York City’s grocery store plan is not just about food",
-  "2 aircraft make contact on Miami International Airport taxiway",
-  "Age of consent: Pat McFadden says changes to law will be discussed after Brand allegations",
   "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
-  "Country music world rocked by deaths of 2 legends: ‘This loss is lasting’",
-  "Drones Strike Tatarstan Petrochemical Plant, Rostov Grid, Logistics Bridge in Russia",
   "Europa reivindica su lugar en las negociaciones de paz entre Ucrania y Rusia",
-  "Guest Commentary: Guard education funding, keep private schools accountable, new Orange chair writes",
-  "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
-  "Iran says it targets US radar in Bahrain. What do we know?",
-  "Nebraska ACA enrollment drops 23% as expired subsidies drive up health insurance costs",
-  "New bodycam video shows moments after college student’s 8-story fall from apartment window",
   "Planes Collide At Miami International Airport While Taxiing—One Day After Nationwide Ground Stop",
-  "Planes collide at Miami Airport, causing minor injuries",
-  "Singer's Hall of Fame induction axed over Russell Brand comments",
-  "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
-  "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
-  "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
   "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-  "Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop",
-  "Two aircraft collide at Miami International Airport",
   "Two planes collide on taxiway at Miami airport one day after national grounding",
-  "Washington and Beijing need more than an AI hotline",
-  "dhs"
+  "dhs",
+  "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+  "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+  "Jensen Huang discusses comeback as Nvidia CEO with allies",
+  "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
+  "18+!Videos) Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin viral video , Pori Moni and Maasranga TV Instagram: Latest Search Trends",
+  "SEXVIDEOXXX)video filtrado de Zao viral video de Zao intimo XVIDEOS.COM",
+  "++FULL+VIDEOS+!!Camilla Araujo Viral Video On Social Media",
+  "18+VIDEOS]+]Viral Video Featuring Andini Permata",
+  "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
+  "[[VIRAL VIDEOS]] teacher viral video link",
+  "++🥕[Xnxx-Videos!#] New Pakistani Teacher Viral Video",
+  "~`(=maasranga tv=) পরিমনি pori moni viral video trending on social media X",
+  "5 Minute 14 Second Viral Video Mms || 5 minute 14 Second video",
+  "~@()+XVIDEOS.COM)🥠 New Pakistani Teacher Viral Video",
+  "Más de 120.000 firmas encabezadas por Musk piden a Nvidia que devuelva a Huang al mando",
+  "Se enteró por televisión de que su esposa mató a sus dos hijos pequeños. Ahora quiere que nunca salga libre",
+  "Jewish advocacy group sues NYC on behalf of Jewish health workers",
+  "When Disaster Hit Next Door in Flatbush",
+  "How the tech industry and markets have responded to Jensen Huang's resignation"
  ]
 }

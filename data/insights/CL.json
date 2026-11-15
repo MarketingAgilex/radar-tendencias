@@ -1,36 +1,48 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Tras la ola de calor, Santiago se prepara para el regreso de las lluvias y el centro-sur espera hasta 100 mm, mientras un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió conversación nacional. BancoEstado ofrece una gift card de $100 mil en noviembre, Hot Wheels llega a Chile con experiencia propia y las tiendas de mascotas crecieron 132% en seis años con los 'perrihijos'. A dos semanas del Black Friday, el chileno compara y planifica regalos. Contenido útil para el cambio de clima, mascotas y entretenimiento familiar conecta hoy.",
+ "lectura": "Tras la ola de calor vuelven las lluvias a Santiago y el vórtice polar, ligado al Super Niño, despierta curiosidad por el clima de los próximos meses. A dos semanas del Black Friday, los medios enseñan a revisar si los descuentos son reales y a comparar precios, mientras Kidd Voodoo llega al Monumental con casi todo agotado. La industria local de videojuegos se luce con los Premios Games From Chile en la portada de Steam, y un estudio sobre soledad e hiperconexión digital invita a conversar. Contenido útil para el cambio de clima, transparencia en precios y orgullo creativo chileno conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "¿Viste el bólido?",
-   "idea": "El bólido que cruzó el cielo de Chile es tema de conversación. Usa el momento con humor: 'Algo pasó más rápido que el bólido: nuestro despacho'. Solo si puedes cumplirlo.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Del calor a la lluvia",
-   "idea": "Santiago pasa del calor a la lluvia y el sur espera precipitaciones intensas. Tiendas de ropa y hogar pueden mostrar un 'kit cambio de clima' con despacho rápido.",
+   "titulo": "Vuelve la lluvia, ¿estás listo?",
+   "idea": "Santiago pasa del calor a la lluvia. Tiendas de ropa y hogar pueden armar un 'kit de cambio de clima' (paraguas, chaqueta liviana, botas) con despacho rápido.",
    "formato": "Reel"
   },
   {
-   "titulo": "Perrihijos en Navidad",
-   "idea": "Las tiendas de mascotas en la RM crecieron 132% en seis años. Lanza una guía de regalos navideños para perros y gatos por presupuesto.",
+   "titulo": "Descuento real o cuento",
+   "idea": "Los medios explican cómo comprobar si una oferta de Black Friday es verdadera. Muestra el historial de precio de tus productos estrella: transparencia que diferencia.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Pista Hot Wheels en casa",
-   "idea": "El universo de Hot Wheels llega a Chile. Jugueterías y tiendas de autos a escala pueden armar un reto de pistas caseras con sus productos y premiar la más creativa.",
+   "titulo": "Orgullo gamer chileno",
+   "idea": "Los Premios Games From Chile aparecen en la portada de Steam antes de su ceremonia del martes 17. Marcas de tecnología y snacks pueden apoyar a estudios locales con un sorteo o contenido conjunto.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Graba en vertical, vende mejor",
+   "idea": "Se viralizó una guía sobre por qué todo se graba en vertical. Pymes: tres tips para grabar el producto con el celular y subirlo a Reels y TikTok hoy mismo.",
    "formato": "Reel"
   },
   {
-   "titulo": "Gift card bien usada",
-   "idea": "BancoEstado entrega una gift card de $100 mil en noviembre. Publica ideas de qué comprar con ese monto en tu tienda, con precios finales claros.",
+   "titulo": "Desconéctate un rato",
+   "idea": "Un estudio vincula soledad e hiperconexión digital. Cafés, librerías y experiencias pueden proponer 'un plan sin pantallas' para el fin de semana, con tono cálido.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
+  {
+   "termino": "vórtice polar",
+   "color": "verde",
+   "por_que": "Una ruptura del vórtice polar ligada al Super Niño despierta interés por el clima de los próximos meses.",
+   "idea": "Ropa, hogar y energía: contenido explicativo sobre cómo prepararse para cambios bruscos de temperatura."
+  },
+  {
+   "termino": "disney",
+   "color": "verde",
+   "por_que": "Novedades de Disney por la temporada navideña y estrenos de sus franquicias.",
+   "idea": "Jugueterías y regalos: guías de Navidad por edad y personajes favoritos."
+  },
   {
    "termino": "bólido",
    "color": "verde",
@@ -42,18 +54,6 @@
    "color": "verde",
    "por_que": "Cambio de calor a lluvias y bajas temperaturas.",
    "idea": "Ropa, hogar y delivery: mensajes adaptados al clima de cada día."
-  },
-  {
-   "termino": "tiempo",
-   "color": "amarillo",
-   "por_que": "Hasta 100 mm de lluvia esperados en Biobío, La Araucanía y Los Ríos.",
-   "idea": "Avisos de servicio y productos para lluvia; tono útil, no alarmista."
-  },
-  {
-   "termino": "inessa sorokina",
-   "color": "amarillo",
-   "por_que": "Farándula: ex pareja de un influencer en programa de TV.",
-   "idea": "Úsalo solo si tu marca vive del entretenimiento; evita tomar partido en polémicas."
   },
   {
    "termino": "banco estado",
@@ -69,43 +69,44 @@
   "maria camila pantoja",
   "ximena lincolao",
   "mauricio pinilla",
-  "La abogada que cobró $12 millones a desalojados de megatoma en Cerrillos",
-  "“No hagan un rescate militar”, pide subteniente secuestrada por el ELN",
   "acuerdo",
   "alerta roja",
-  "Realizan amplio operativo de búsqueda por joven que se perdió en playa Caleta Abarca en Viña del Mar",
-  "Corte de Santiago ordena tramitar recurso de Mowi Chile contra rechazo de prórroga de concesión acuícola",
   "cámara baja",
   "justicia",
   "afp uno",
-  "Mirosevic anuncia que recurrirá al Consejo para la Transparencia por reserva de decretos sobre rebajas de condenas",
-  "Senapred decreta alerta roja en siete comunas de la región de Coquimbo por emergencia hidrológica",
   "Empleo público, seis reformas para superar un modelo agotado",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "ovalle",
   "frente amplio",
-  "Presentan querella de capítulos contra Antonio Ulloa por presunto cohecho y otros delitos",
   "Digamos que se llamaba Josefina: un relato de Jaime Bayly",
   "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros",
   "nvidia jensen huang",
   "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
   "\"Soy un pedazo de mierda\": Jensen Huang se sincera tras bochorno de Nvidia",
-  "Armada realiza operativo de búsqueda tras desaparición de persona que ingresó al agua en Viña del Mar",
   "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Chatbot hentai IA: mejores plataformas hentai IA con tecnología",
   "Conductor drogado chocó varios autos y atacó a carabineros con un chuzo y una barretilla",
   "Cuando la negación agrava la catástrofe: presentar como combatientes a los niños asesinados en Gaza",
   "Exdirector de la Secom llama a unir al progresismo \"desde la DC al PC\" y cuestiona diseño comunicacional de Kast",
   "Gira de Kast por Asia busca fortalecer exportaciones chilenas y relación comercial con China",
-  "Jorge Quiroz: “Para Hacienda siempre va a haber un dolorcillo de guata cuando se abre la billetera más allá de lo que se previó”",
   "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
   "Kast no tiene uno sino seis problemas",
   "La pugna por la norma ambiental que regirá para los autos en 2027: la industria presiona para aplazarla y 90 expertos, entre ellos el exministro Juan Carlos Muñoz, salen a defenderla",
   "Lancha se hunde en Caleta El Membrillo de Valparaíso: 15 personas fueron rescatadas",
-  "Reunión con Kast, almuerzo en Viñedo Chadwick y cóctel en el Club de Golf: la agenda de Jamie Dimon en Chile",
   "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-642-2025 «Vera / Cáceres»",
-  "“Las personas merecemos respeto”: Parlamentarias del Frente Amplio respaldan a Ossandón y acusan maltrato de diputados republicanos",
-  "franco parisi"
+  "franco parisi",
+  "Franco Parisi: “Lo que yo he conversado, sí, hay una mayoría en el PDG a favor de la acusación a Rabat”",
+  "Kast toca fondo en Criteria: apenas 18% lo aprueba y 79% rechaza que mantenga a Rabat",
+  "Senapred activa mensajería SAE y solicita evacuar sectores de Ovalle tras desborde de dos ríos",
+  "Los \"niños aztecas\" : dos hermanos salvadoreños obligados a casarse en el interés del espectáculo",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
+  "Peligro infantil en TikTok | Noticias UNO -",
+  "Luzu TV vs 412: día, hora y canal TV en Perú de la revancha de ‘El Gran Partido del Streaming’",
+  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
+  "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
+  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
+  "Kast inicia gira por Asia en Vietnam con foco en ampliar el intercambio comercial y las exportaciones chilenas"
  ],
  "audiencias": {
   "general": {

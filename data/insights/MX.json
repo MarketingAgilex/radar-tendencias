@@ -1,36 +1,42 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin está en plena marcha y coincide con el puente del lunes 16 por el Día de la Revolución: plazas llenas en Puebla y en el centro de varias ciudades, Coppel y Aurrera con remates de celulares y pantallas, y Ticketmaster con descuentos en eventos. A la vez, especialistas y Profeco advierten sobre descuentos engañosos y compras impulsivas. El frente frío pide ropa abrigadora en CDMX y crecen las búsquedas sobre pagos del INAPAM y la Pensión Bienestar. Ofertas verificables, meses sin intereses claros y contenido útil para el frío conectan hoy.",
+ "lectura": "El Buen Fin vive su recta final con el puente del Día de la Revolución: ropa y juguetes son lo más buscado, hay filas en Monterrey y plazas llenas en Puebla, mientras Profeco concilia quejas y la Iglesia pide no comprar por impulso. El frío marca el domingo en CDMX, Karol G cumplió su sueño de cantar con Thalía y circula el rumor de un 'apagón mundial' que muchos buscan desmentir. El consumidor quiere ofertas verificables, entregas cumplidas y meses sin intereses claros. Lo útil y lo honesto convierte mejor que la urgencia.",
  "ideas_hoy": [
   {
-   "titulo": "Último jalón del Buen Fin",
-   "idea": "El Buen Fin termina con el puente del lunes. Haz un conteo regresivo con 3 productos y el precio anterior visible para demostrar que el descuento es real, tal como piden los especialistas.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Experiencias con descuento",
-   "idea": "Ticketmaster se sumó al Buen Fin con hasta 50% en eventos. Restaurantes, bares o tiendas cercanas a recintos pueden ofrecer 'combo antes del concierto' para quien compró boletos.",
+   "titulo": "Último día del Buen Fin",
+   "idea": "El lunes 16 cierra el Buen Fin y ropa y juguetes encabezan las búsquedas. Publica tus últimas ofertas con fecha de entrega garantizada y política de cambios visible: es justo lo que pregunta la gente.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Chamarra para el frente frío",
-   "idea": "El pronóstico pide ropa abrigadora en CDMX y el frente frío llega a Puebla. Muestra 3 outfits en capas o un kit de invierno con envío rápido: el frío resuelve la urgencia de compra.",
-   "formato": "Reel"
+   "titulo": "¿Y si no te llega el pedido?",
+   "idea": "Los medios explican qué hacer si una tienda no entrega lo del Buen Fin. Haz un video corto de 'cómo cumplimos' con tu tiempo real de envío y seguimiento: confianza en vez de promesas.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Compra sin caer en el gancho",
-   "idea": "Profeco y especialistas alertan sobre fraudes digitales y compras impulsivas. Publica una lista de 5 señales de una tienda confiable y muestra cómo cumples cada una.",
+   "titulo": "Apagón mundial: ni pánico ni rumor",
+   "idea": "Muchos buscan si habrá un apagón mundial. Marcas de energía, baterías o tecnología pueden aclarar el rumor con fuentes y sugerir un kit básico de respaldo, sin alarmismo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Mascotas, gasto que no perdona",
-   "idea": "El alimento para mascotas subió hasta 50% en cinco años. Si vendes productos para mascotas, ofrece suscripción o paquete del mes con precio fijo y cuéntalo como ahorro real.",
-   "formato": "TikTok"
+   "titulo": "Outfit para el frío chilango",
+   "idea": "CDMX amaneció fría y la semana trae nubes y lluvias. Tiendas de ropa: 'tres capas para ir de la oficina al concierto' con prendas en oferta del Buen Fin.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Momento Karol G y Thalía",
+   "idea": "El encuentro de Karol G y Thalía es tendencia. Marcas de moda y belleza pueden recrear un look inspirado en ambas épocas, cuidando no usar imágenes ni marcas ajenas.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
+  {
+   "termino": "apagón mundial",
+   "color": "amarillo",
+   "por_que": "Circula un rumor de apagón de luz e internet por tres días; los medios lo están desmintiendo.",
+   "idea": "Aclarar con fuentes oficiales y ofrecer consejos prácticos de respaldo, sin generar miedo ni urgencia falsa."
+  },
   {
    "termino": "inapam",
    "color": "verde",
@@ -44,22 +50,16 @@
    "idea": "Marcas de entretenimiento y comida: promociones ligadas a conciertos y planes de fin de semana."
   },
   {
-   "termino": "mexico va",
-   "color": "amarillo",
-   "por_que": "Rumor de un apagón en EE. UU. el 17 de noviembre que los medios desmienten.",
-   "idea": "Tecnología: tips de respaldo y baterías aclarando que es un rumor; no uses el miedo como gancho."
+   "termino": "karol g",
+   "color": "verde",
+   "por_que": "La alfombra roja de los Latin Grammy 2026 dispara búsquedas de estilos de celebridades.",
+   "idea": "Moda y belleza: 'recrea el look' con productos accesibles y referencias a la tendencia."
   },
   {
    "termino": "instituto mexicano del seguro social",
    "color": "amarillo",
    "por_que": "El IMSS anuncia cirugías nocturnas y en fin de semana para reducir el rezago.",
    "idea": "Salud y seguros: comunica opciones con tono informativo y sin prometer tiempos."
-  },
-  {
-   "termino": "karol g",
-   "color": "verde",
-   "por_que": "La alfombra roja de los Latin Grammy 2026 dispara búsquedas de estilos de celebridades.",
-   "idea": "Moda y belleza: 'recrea el look' con productos accesibles y referencias a la tendencia."
   }
  ],
  "audiencias": {
@@ -1035,31 +1035,39 @@
   "comercio",
   "kings - trail blazers",
   "pobreza en méxico",
-  "La caída de Jensen Huang de la cima de Nvidia",
-  "Detienen en Guadalajara a \"Raptor\", jefe regional en Colima y Jalisco",
-  "Detienen en Guadalajara a “Raptor” o “Lucifer”, presunto jefe operativo regional con presencia en Colima y Jalisco",
-  "Detienen a “Lucifer” en Guadalajara: Giancarlo “N” era presunto jefe operativo en Jalisco y Colima",
   "vivienne marcheline jolie-pitt",
-  "Cae en Guadalajara el “Raptor”, presunto líder regional del CJNG en Colima y Jalisco",
   "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
   "Afirman legisladores que en la CDMX se garantiza el derecho al deporte",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "karina torres",
-  "La carta de clemencia del hermano de El Mencho a jueza en EEUU: “Éramos pobres, siete hermanos y mi padre nos abandonó”",
   "colette kress nvidia",
   "nvidia jensen huang",
   "nvidia jensen huang renuncia",
-  "América y Red Bull New York terminan en golpes en amistoso",
   "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
   "Cumple un año en la congeladora iniciativa de Morena contra accesorios vehiculares",
   "Fumigan parque de Monterrey donde descansan mariposas monarca; legisladora Lorena de la Garza, admite error",
-  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
-  "Línea antiextorsión del C5 recibe casi 8 mil reportes en CDMX",
-  "Marina captura a Giancarlo ‘N’, alias ‘Lucifer’, jefe del CJNG en Jalisco",
   "Más deuda, ¿más bienestar?",
-  "México podría terminar con brote de sarampión que en dos años dejó 50 muertes: esta es la situación actual del virus",
-  "Realiza Uno de Siete Migrando colecta de dulces para posada de niñas y niños",
   "¿A qué va Claudia a China?",
-  "🚨#LoMásVisto | Un automóvil embistió diversos puestos de un mercado rodante en la colonia Barrio Aztlán, Monterrey. El incidente ocurrió en la calle Miacatlán y movilizó a los cuerpos de emergencia tras poner en riesgo a comerciantes y compradores. 📹 R"
+  "sarampión",
+  "morelia",
+  "Gabito Ballesteros, bajo investigación de la FGR; hallan arma de fuego, cartuchos y cargadores en su camioneta",
+  "Morena cuestiona a Fox por retractarse de sus dichos sobre triunfo de Calderón",
+  "Tras enfrentamiento, cae el \"Mike\", integrante \"Los R's\" del CJNG",
+  "La urdida pudibundez geopolítica del filoisraelí Marco Rubio contra Nvidia y China en “el país de Epstein y Weinstein”- Bajo la lupa",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
+  "Peligro infantil en TikTok | Noticias UNO -",
+  "La búsqueda no se detiene: Morelos, Cdmx y Estado de México darán continuidad a los trabajos en territorio",
+  "Ley de Rentas Justas en CDMX podría reducir la oferta de viviendas, advierte especialista",
+  "Marcha de la Generación Z Reúne a Menos de 200 Personas en CDMX",
+  "Ciudadanos identificados como \"Generación Z\" protestan en calles de CDMX",
+  "Fuerte Operativo de Seguridad en Hospital de Guadalajara Donde Permanece 'El R2'",
+  "Cinco presuntos escoltas del R2 enfrentan hoy audiencia de vinculación a proceso en Jalisco",
+  "Cae 'Raptor', autor intelectual de un multihomicidio en Jalisco",
+  "LOCALIZAN EN NAYARIT A MUJER REPORTADA COMO DESAPARECIDA EN GUADALAJARA",
+  "Confirman bloqueos carreteros para este martes 17 de noviembre: lista de rutas y estados afectados",
+  "Asesinaron al periodista Eduardo Flores Salado; hallan su cuerpo en Acapulco, Guerrero",
+  "Periodistas exigen justicia por Eduardo Flores y acusan impunidad en otros asesinatos",
+  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza."
  ]
 }

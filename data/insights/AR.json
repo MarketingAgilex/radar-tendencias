@@ -1,33 +1,33 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Pasado el Cyber Monday, varias marcas lo extienden y ya calientan el Black Friday y la Navidad con 2x1, cuotas sin interés y envío gratis. Buenos Aires tuvo una Noche de los Museos récord con más de 1,4 millones de visitantes, Creamfields y el Hanguk Fest con K-pop y comida coreana, y Romeo Santos con Prince Royce agotaron Vélez. El Súper Niño trae lluvias y el Paraná crece en el litoral, mientras el dólar blue y la Cuenta DNI marcan el bolsillo. El feriado del lunes 23 abre otro finde largo: cultura, experiencias y precio claro suman.",
+ "lectura": "El Súper Niño trae lluvias y el Paraná crece en el litoral, mientras la agenda comercial se ordena en torno al Black Friday con marcas que ofrecen cuotas sin interés, envío gratis y descuentos en PlayStation. Buenos Aires viene de una Noche de los Museos récord y del Hanguk Fest con K-pop y comida coreana; Romeo Santos y Prince Royce agotaron Vélez. En consumo masivo, la venta de Tía Maruca y la baja presencia de alimentos importados en góndola dan tema para hablar. El feriado del lunes 23 abre otro fin de semana largo: experiencias, cultura y precio claro suman.",
  "ideas_hoy": [
   {
-   "titulo": "Cyber extendido, precio claro",
-   "idea": "Muchas marcas extienden el Cyber Monday. Si lo haces, muestra precio final, cuotas y fecha de cierre real; evitás el 'no termina nunca' que genera desconfianza.",
+   "titulo": "Plan para el finde largo",
+   "idea": "El lunes 23 es feriado. Hoteles, restaurantes y escapadas cercanas pueden lanzar hoy un paquete con precio final en cuotas y plan B por si llueve.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Museos que venden",
-   "idea": "La Noche de los Museos rompió récord. Librerías, cafés y tiendas de diseño pueden invitar a un recorrido propio con descuento para quien muestre su foto del evento.",
-   "formato": "Historia Instagram"
+   "titulo": "Galletitas de siempre, dueño nuevo",
+   "idea": "La venta de Tía Maruca despertó nostalgia por las marcas de toda la vida. Marcas locales pueden contar su propia historia de barrio y por qué siguen haciendo las cosas igual.",
+   "formato": "Reel"
   },
   {
-   "titulo": "K-pop y kimchi",
-   "idea": "El Hanguk Fest llenó Buenos Aires con K-pop y comida coreana. Si vendés belleza, snacks o moda, armá un combo 'K' y mostrálo en formato reto.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Finde largo del 23",
-   "idea": "El lunes 23 es feriado por el Día de la Soberanía Nacional. Publicá escapadas, planes o envíos que lleguen antes del viernes.",
+   "titulo": "Black Friday en cuotas",
+   "idea": "El argentino compara cuotas antes que porcentajes. Publica cuánto queda cada cuota de tus productos estrella con y sin interés y desde cuándo rige la oferta.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Plan B para el Súper Niño",
-   "idea": "El Súper Niño trae lluvias a varias provincias. Delivery, hogar e indumentaria: tips útiles para días de lluvia con productos concretos y tono de servicio.",
-   "formato": "Reel"
+   "titulo": "El desafío del panchero",
+   "idea": "Un panchero de Temperley se viralizó por el reto que propone a sus clientes. Gastronomía: crea tu propio desafío simple con premio (un combo gratis) y graba las reacciones.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Día de lluvia, día de pedido",
+   "idea": "Las lluvias del Súper Niño mantienen a la gente en casa. Delivery y e-commerce: promo 'día de lluvia' con envío gratis cuando el pronóstico marque agua.",
+   "formato": "Historia Instagram"
   }
  ],
  "semaforo": [
@@ -44,6 +44,12 @@
    "idea": "Mensajes de servicio y productos útiles, sin dramatizar."
   },
   {
+   "termino": "peru",
+   "color": "verde",
+   "por_que": "Interés por la visita del papa León XIV a Perú.",
+   "idea": "Contenido respetuoso; turismo religioso y artesanías pueden informar sin usar la fe como gancho."
+  },
+  {
    "termino": "rocio robles",
    "color": "amarillo",
    "por_que": "Escándalo de farándula ligado a un programa de streaming.",
@@ -54,12 +60,6 @@
    "color": "amarillo",
    "por_que": "Alerta amarilla por tormentas en Salta.",
    "idea": "Avisos de horarios y entregas para el norte del país."
-  },
-  {
-   "termino": "peru",
-   "color": "verde",
-   "por_que": "Interés por la visita del papa León XIV a Perú.",
-   "idea": "Contenido respetuoso; turismo religioso y artesanías pueden informar sin usar la fe como gancho."
   }
  ],
  "ocultar": [
@@ -68,41 +68,31 @@
   "devolución",
   "hugo moyano",
   "página/12",
-  "Calles inundadas, granizo y el rescate de un hombre arrastrado por un río durante la tormenta que azotó a Córdoba",
   "nvidia jensen huang",
   "\"Soy una m...\": así fueron las últimas horas de Jensen Huang como CEO de Nvidia",
-  "RETOMARON LA ASISTENCIA INTEGRAL PARA EL ADOLESCENTE DE SAN PEDRO",
   "boc",
   "arresto",
-  "Tiene 21 años, se hizo viral por una pelea en un hotel y derrotó a una leyenda de UFC en su debut",
   "inpres san juan",
   "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
   "kayla harrison",
   "aeropuerto internacional de miami",
   "santiago del estero",
-  "Una batalla inédita. Cuatro economistas ya están en carrera por la presidencia",
-  "Dos aviones chocan en un cruce de pista en el aeropuerto de Miami: se produce un día después de la suspensión de vuelos en todo EE.UU.",
   "Andrés Watson inspeccionó la construcción del nuevo edificio para la Secundaria Nº62",
-  "Aprehendieron a una mujer tras dañar dos autos",
-  "Argentina investiga a Thales por sus vuelos desde Chile hacia Malvinas y su vínculo con las fuerzas británicas",
   "COCEMFE exige a los partidos vivienda accesible, el fin de las listas de espera y educación inclusiva",
-  "Caen presuntas farderas durante el Buen Fin en la CDMX",
   "Choque en salón de belleza en City Bell, Argentina",
-  "El PSOE cancela el acto de campaña de Pedro Sánchez y Lula da Silva en Madrid por una afonía del líder brasileño",
-  "Giaccio visitó Castelli y destacó exportaciones chaqueñas: “Con un Estado que no trabe, se puede exportar”",
-  "Investigan desvío de US$ 1.270.000 de la AFA para alquiler de yates de lujo",
-  "Investigan transferencias por US$ 1,27 millones vinculadas a la AFA para contratar yates de lujo",
-  "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-  "Kicillof encabezó la apertura de Expo Cañuelas 2026",
-  "La AFA gastó USD 1,27 millones en el alquiler de superyates de lujo en Europa",
-  "Mariana Morosi: Hemos tenido niños que repartieron sus juguetes para dejar sus cosas en orden",
-  "Natalio Botana: “León XIV señaló el camino que la democracia debería tener en la Argentina”",
-  "Petróleo en Malvinas: los detalles de la estrategia contra Reino Unido y los próximos pasos para frenar Sea Lion",
   "Robaron una joyería en Rawson tras abrir un boquete",
-  "Rompió los vidrios de dos autos, intentó agredir a los policías y terminó detenida",
-  "“Tenemos esperanzas de que las cosas cambien”: el análisis de José Mayans de la visita del Papa León XIV",
-  "“Tenemos salarios por debajo de la línea de la pobreza”",
-  "noticia"
+  "noticia",
+  "Revelan que Federico Beligoy compró un lujoso departamento en Villa Devoto una semana antes de viajar al Mundial 2026",
+  "Elisa Carrió, sobre Patricia Bullrich: “La quiero mucho, pero ella siempre busca el poder”",
+  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
+  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
+  "Entrega de equipamiento del Consejo Escolar, con fondos del Programa SAE de la Provincia de Buenos Aires",
+  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
+  "Investigan la compra de un departamento de lujo de Federico Beligoy por US$490.000",
+  "Denuncian que Federico Beligoy compró un departamento de lujo en Villa Devoto por US$490.000",
+  "Federico Beligoy adquirió un departamento de lujo en Villa Devoto por US$490.000"
  ],
  "audiencias": {
   "general": {

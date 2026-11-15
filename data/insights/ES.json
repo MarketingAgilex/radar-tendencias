@@ -1,47 +1,53 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Black Friday se acerca con menos compradores previstos y presupuestos más ajustados, y la subida de precios de fresas, tomates y frutas tropicales pesa en la cesta. Aun así, hay colas esperadas en Action por una mesita viral de menos de 15 euros, Decathlon anuncia fechas y Zara agota una camiseta de rayas. Faltan tres días para GTA VI, la Gran Recogida del Banco de Alimentos moviliza a ciudades como Zaragoza y la lluvia marca el fin de semana en Madrid. Gana lo útil, lo asequible y lo que se pueda comprar con cabeza.",
+ "lectura": "El Black Friday se acerca con menos compradores previstos y presupuestos más ajustados, aunque tres de cada cuatro españoles piensan comprar con un gasto medio cercano a los 200 euros; El Corte Inglés y MediaMarkt ya adelantan ofertas. GTA VI arrasa en ventas antes de su estreno y llegan alertas por descargas falsas que roban datos. En redes, la canción 'Algo de Interés' de María Bonilla triunfa en TikTok y crece el interés por un supuesto apagón el 17 de noviembre. Ofertas honestas, seguridad digital y contenido que entretenga ganan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "La mesita que hace cola",
-   "idea": "Se esperan colas en Action por una mesita viral de menos de 15 euros. Muestra cómo decorar un salón con menos de 50 euros usando tus productos: lo asequible es tendencia.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Black Friday con calculadora",
-   "idea": "Las previsiones hablan de menos compradores y presupuestos ajustados. Publica una guía 'compra solo lo que ibas a comprar' con tu lista de productos y el ahorro real.",
+   "titulo": "Black Friday con cabeza",
+   "idea": "Los españoles compran menos y comparan más. Publica una lista corta de 'lo que sí merece la pena' de tu tienda con precio de antes y de ahora: ayudas a decidir y ganas confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Cuenta atrás GTA VI",
-   "idea": "Faltan tres días para el lanzamiento más esperado del gaming. Bares, tiendas de tecnología y delivery pueden ofrecer un 'pack noche de estreno'.",
+   "titulo": "GTA VI sin trampas",
+   "idea": "Las descargas falsas de GTA VI están robando datos. Tiendas de videojuegos y tecnología pueden explicar cómo comprarlo seguro y ofrecer reserva física o digital oficial.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Rayas, el básico que arrasa",
-   "idea": "La camiseta de rayas de Zara de menos de 16 euros es tendencia. Marcas de moda: tres formas de llevar rayas en otoño con tus prendas.",
+   "titulo": "Suena 'Algo de Interés'",
+   "idea": "La canción de María Bonilla arrasa en TikTok. Úsala, si la biblioteca de la red lo permite, para un antes y después de tu producto o un baile del equipo.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "¿Apagón el 17? Te lo aclaramos",
+   "idea": "Muchos buscan si habrá un apagón el 17 de noviembre. Marcas de energía o tecnología: aclarar con fuentes y recomendar un pequeño kit de emergencia sin alarmar.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Súmate a la Gran Recogida",
-   "idea": "La Gran Recogida del Banco de Alimentos moviliza a miles de voluntarios. Si tu negocio colabora, cuéntalo con datos concretos y sin protagonismo excesivo.",
-   "formato": "LinkedIn"
+   "titulo": "Karaoke para las cenas de empresa",
+   "idea": "Con las cenas navideñas cerca, crecen las comparativas de altavoces para karaoke. Tiendas de audio y locales de ocio: 'el plan de karaoke para tu cena de Navidad'.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "vivienda",
-   "color": "verde",
-   "por_que": "Debate sobre más hogares y menos casas disponibles en España.",
-   "idea": "Inmobiliarias y decoración: contenido práctico sobre aprovechar espacio, sin entrar en debates."
+   "termino": "apagon 17 noviembre",
+   "color": "amarillo",
+   "por_que": "Circula un rumor sobre un apagón el 17 de noviembre que muchos buscan comprobar.",
+   "idea": "Aclarar con fuentes oficiales y aportar consejos prácticos, sin difundir el rumor como cierto."
   },
   {
    "termino": "supermercado",
    "color": "verde",
    "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
    "idea": "Comercio local: destaca tu cercanía y especialidad frente a las grandes superficies."
+  },
+  {
+   "termino": "vivienda",
+   "color": "verde",
+   "por_que": "Debate sobre más hogares y menos casas disponibles en España.",
+   "idea": "Inmobiliarias y decoración: contenido práctico sobre aprovechar espacio, sin entrar en debates."
   },
   {
    "termino": "twitch",
@@ -54,16 +60,9 @@
    "color": "verde",
    "por_que": "Ya se puede precargar GTA VI, el lanzamiento más esperado del año.",
    "idea": "Tecnología, gaming y comida a domicilio: packs de estreno y cuentas atrás."
-  },
-  {
-   "termino": "spacex starship",
-   "color": "verde",
-   "por_que": "Prueba de Starship con intento de recuperación de la nave.",
-   "idea": "Divulgación y tecnología: contenido de curiosidad científica."
   }
  ],
  "ocultar": [
-  "comisión nacional de los mercados y la competencia",
   "miniserie",
   "jordi wild pedro sánchez",
   "entrevista jordi wild pedro sanchez",
@@ -83,17 +82,12 @@
   "lara ferreiro",
   "pobreza",
   "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "¿Duermen tranquilos con sus hijos en TikTok?",
-  "La Guardia Civil desmantela una red que ofrecía 100 euros en TikTok por abrir cuentas bancarias utilizadas en ciberestafas",
-  "Nueva protesta en Madrid de los maquinistas de Renfe en demanda de un aumento de la seguridad",
   "borja sémper",
   "isabel peralta",
   "carmen romero",
   "justicia",
   "primitiva hoy",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "cristina lópez schlichting",
-  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
   "front polisario",
   "narciso monturiol (s-82)",
   "comisiones obreras",
@@ -102,32 +96,30 @@
   "ufc",
   "móstoles",
   "sobredosis",
-  "Clamor en Madrid contra el abandono ferroviario tras los siniestros de Urda y Adamuz",
   "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Abascal llama desde Cornellá a \"los que votaron separatismo\" y ven que \"el problema\" es \"con el califato islámico\"",
   "Abascal llega al cinturón rojo de Barcelona para comer terreno al PSC: \"Sánchez no merece la bandera de España, solo tiene derecho a coger la de Marruecos, la de Bildu y la estelada\"",
   "Almeida celebra que “Madrid es una de las grandes capitales del deporte”",
   "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Chatbot hentai IA: mejores plataformas hentai IA con tecnología",
-  "Colau critica que Sánchez \"ha suspendido\" en materia de vivienda",
   "Detienen a una empleada del hogar en Betanzos por la desaparición de joyas valoradas en más de 50.000 euros: las tenía escondidas en un azucarero y varias macetas",
-  "El marido de Irene Villa, David Serrato, anuncia una recaída en su enfermedad: “Ha regresado golpeando con más fuerza”",
   "Gómez Caamaño destaca las 4.699 plazas de personal estatutario que el Servicio Gallego de Salud oferta en las oposiciones celebradas en 2026",
   "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
-  "La Guardia Civil detiene a una empleada del hogar en Betanzos por robar joyas valoradas en más de 50.000 euros",
-  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
-  "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con 1.500 personas",
-  "Los chats secretos de Blocus para saquear Barcelona: joyerías, tiendas de lujo y objetivos marcados",
   "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
   "Montero afirma que el turismo condiciona la economía andaluza",
-  "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
-  "Permisos por amistad, más impuestos a la vivienda y blindaje del aborto: el nuevo catálogo de anuncios de Sánchez",
-  "Una empleada del hogar roba joyas de más de 50.000 euros y las oculta en macetas y un azucarero",
-  "Vecinos de Gallegos del Pan denuncian a la Guardia Civil la desaparición de diez gatos de la colonia que vivía en el pueblo",
   "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
   "hijas de pedro sanchez",
   "amistad",
-  "david serrato"
+  "david serrato",
+  "tdp",
+  "Permisos por amistad y más impuestos a la vivienda: el nuevo catálogo de anuncios de Sánchez",
+  "Frente Amplio propone ahora permisos para la \"familia elegida\"",
+  "Frente Amplio echa el resto para revalidar su escaño por Zaragoza: “Puede ser decisivo y se juega aquí”",
+  "De los piquetes a las urnas",
+  "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
+  "Sánchez quiere ampliar el Estado del bienestar de la cuna a la jubilación con una nueva generación de derechos sociales",
+  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
+  "Vídeo: Sánchez recomienda música en Spotify y Feijóo le responde con una sorpresa inesperada"
  ],
  "audiencias": {
   "general": {
@@ -1027,50 +1019,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday envío gratis",
-   "total": 5736,
+   "busqueda": "regalos de Navidad",
+   "total": 2798,
    "anunciantes": [
     {
-     "nombre": "Zentitanium",
-     "url": "https://www.facebook.com/ads/library/?id=1418376503402833"
+     "nombre": "Dibaq Petcare",
+     "url": "https://www.facebook.com/ads/library/?id=1061501923617370"
     },
     {
-     "nombre": "Casa Isabella",
-     "url": "https://www.facebook.com/ads/library/?id=1130104876406610"
+     "nombre": "RegaloOriginal.com",
+     "url": "https://www.facebook.com/ads/library/?id=2328274494622974"
     },
     {
-     "nombre": "Souvibook",
-     "url": "https://www.facebook.com/ads/library/?id=2335101863997517"
+     "nombre": "El Saco de Navidad",
+     "url": "https://www.facebook.com/ads/library/?id=1128712760152967"
     },
     {
-     "nombre": "Durii Editorial",
-     "url": "https://www.facebook.com/ads/library/?id=1330787425775889"
+     "nombre": "Draw My Pets",
+     "url": "https://www.facebook.com/ads/library/?id=4622815191298845"
     },
     {
-     "nombre": "Valentina Massimo",
-     "url": "https://www.facebook.com/ads/library/?id=1711581760585498"
+     "nombre": "ViaShop",
+     "url": "https://www.facebook.com/ads/library/?id=1506889117950279"
     }
    ],
-   "patron": "El Black Friday ya arrancó dos semanas antes: '-50% hoy', packs ('2 libros -41%', 'dos camisetas 59,90 €', '2 comprados = 4 en casa') y el regalo como gancho ('Regala… con un 50% OFF'). El envío gratis aparece como urgencia ('solo HOY'). Ojo: algunas páginas genéricas de 'ofertas' pagan en dólares; conviene que la marca muestre datos de empresa y devoluciones para diferenciarse."
+   "patron": "Dominan los regalos personalizados con nombre o foto (sacos de Reyes, retratos de mascotas, copas grabadas) y los regalos para perros y gatos. Muchos anuncian precio de entrada visible ('desde 34,99 €', '16,99 €') y el envío gratis como gancho principal; ya se mezcla la Navidad con los Reyes Magos."
   },
   {
-   "busqueda": "envíos a Latinoamérica",
-   "total": 29,
+   "busqueda": "calendario de adviento",
+   "total": 844,
    "anunciantes": [
     {
-     "nombre": "Liberty Express España",
-     "url": "https://www.facebook.com/ads/library/?id=1414363087245037"
+     "nombre": "Beer Republic",
+     "url": "https://www.facebook.com/ads/library/?id=1906264713874816"
     },
     {
-     "nombre": "ZenMarket - Compras a Japón",
-     "url": "https://www.facebook.com/ads/library/?id=952815621001999"
+     "nombre": "StoryDoors",
+     "url": "https://www.facebook.com/ads/library/?id=978074021665601"
     },
     {
-     "nombre": "Remitly",
-     "url": "https://www.facebook.com/ads/library/?id=2926562087707199"
+     "nombre": "Junior Palace",
+     "url": "https://www.facebook.com/ads/library/?id=1040551199054570"
+    },
+    {
+     "nombre": "KiK_Espana",
+     "url": "https://www.facebook.com/ads/library/?id=1653322116485314"
+    },
+    {
+     "nombre": "Forumshop1972",
+     "url": "https://www.facebook.com/ads/library/?id=2351885185578384"
     }
    ],
-   "patron": "Poca pauta específica de envíos de paquetería de España a Latinoamérica (unos 29 anuncios activos): aparecen courier, compras proxy y remesas, mezclados con cursos de negocio digital. El nicho de envíos para la comunidad latina en España tiene poca competencia publicitaria visible en Meta."
+   "patron": "El Adviento en España se vende como experiencia: cuentos infantiles por entregas, figuras con mensajes, cervezas artesanas y lujo de belleza. Los mensajes juegan con la escasez ('¿te vas a quedar sin él?') y con la emoción familiar de abrir una sorpresa cada día."
   }
  ]
 }

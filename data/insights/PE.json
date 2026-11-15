@@ -1,36 +1,48 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú vive la visita del papa León XIV: tras Chiclayo, Cusco y la Amazonía, la misa en la Base Aérea Las Palmas mueve rutas especiales de transporte, filas de fieles y entradas para la vigilia con jóvenes. El SENAMHI domina las búsquedas por el clima, hay cortes de luz programados en Arequipa y el Niño costero podría extenderse hasta 2027. En negocios, Entel deja el mercado peruano y el Grupo Romero compra Talma. Mensajes de servicio, orgullo local y regalos hechos en Perú encajan con el ánimo del momento.",
+ "lectura": "El Perú sigue volcado en la visita del papa León XIV: tras la Amazonía regresa a Lima para la misa en Las Palmas, con agendas, rutas y entradas para la vigilia como lo más consultado. En economía, el BCRP subió su tasa a 4,5% y la economía se desacelera, lo que vuelve al consumidor más cuidadoso con créditos y cuotas; además, Entel anunció su salida del mercado. El K-pop domina iTunes Perú y Disney renueva su mercadería navideña. Mensajes de servicio, orgullo local y regalos con buena relación precio-calidad conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Ruta de la misa",
-   "idea": "Hay rutas especiales de transporte para la misa del papa en Las Palmas. Negocios cercanos pueden publicar horarios ampliados, puntos de hidratación o combos para llevar.",
+   "titulo": "Tu negocio en la ruta del Papa",
+   "idea": "La misa en Las Palmas mueve a miles de personas en Lima. Negocios cercanos pueden publicar horarios, accesos y un combo para peregrinos (agua, snack, cargador) con tono respetuoso.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Recuerdo con identidad",
-   "idea": "Los rosarios de huayruro destacan entre las artesanías amazónicas durante la visita papal. Artesanos y tiendas pueden contar la historia de una pieza hecha en Perú y ofrecer envío nacional.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Cacao con medalla",
-   "idea": "Productores del Vraem ganaron medallas en los International Chocolate Awards. Si vendes cacao o chocolate, usa ese orgullo para tu canasta navideña con origen trazable.",
+   "titulo": "Cuotas claras tras la subida de tasa",
+   "idea": "El BCRP subió la tasa a 4,5% y el crédito se encarece. Explica cuánto pagará el cliente al final si compra en cuotas y destaca opciones sin intereses si las tienes.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Corte de luz sin drama",
-   "idea": "Seal anunció cortes programados en distritos de Arequipa. Marcas de tecnología pueden compartir cómo cargar equipos y conservar alimentos, con productos útiles.",
+   "titulo": "Playlist K-pop de la tienda",
+   "idea": "El top de iTunes Perú está lleno de K-pop. Marcas para jóvenes: un video con 'la canción que suena en nuestra tienda' y el look que combina con cada tema.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Tu plan para El Niño costero",
-   "idea": "El ENFEN alerta que El Niño costero podría durar hasta el invierno de 2027. Ferreterías, hogar y seguros: guía breve de prevención con productos concretos.",
+   "titulo": "Navidad con magia de personajes",
+   "idea": "Disney renovó su mercadería navideña. Jugueterías y tiendas de regalos pueden armar una guía 'regalos por edad' para Navidad con productos licenciados originales.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "¿Cambias de operador?",
+   "idea": "La salida de Entel genera dudas entre usuarios. Tiendas de celulares pueden explicar qué pasa con las líneas y ofrecer asesoría para elegir equipo y plan, sin alarmismo.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
+  {
+   "termino": "disney",
+   "color": "verde",
+   "por_que": "Nueva mercadería navideña en Disney Store y estrenos de la franquicia generan búsquedas.",
+   "idea": "Jugueterías y regalos: guía navideña por edades con productos originales."
+  },
+  {
+   "termino": "temperatura pucallpa",
+   "color": "verde",
+   "por_que": "La visita del Papa a Pucallpa elevó las búsquedas sobre el clima de la Amazonía.",
+   "idea": "Turismo y viajes: contenido sobre qué llevar a la selva y paquetes para conocer Ucayali."
+  },
   {
    "termino": "clima",
    "color": "verde",
@@ -48,18 +60,6 @@
    "color": "verde",
    "por_que": "Los Latin Grammy 2026 disparan búsquedas de ganadores y artistas.",
    "idea": "Música y moda: playlists, looks y concursos inspirados en la premiación."
-  },
-  {
-   "termino": "lluvia",
-   "color": "verde",
-   "por_que": "Interés por lluvias y clima en la región.",
-   "idea": "Mensajes de servicio y productos para lluvia según la zona."
-  },
-  {
-   "termino": "corte de luz arequipa hoy",
-   "color": "amarillo",
-   "por_que": "Cortes programados de luz en distritos de Arequipa.",
-   "idea": "Avisos útiles y productos de respaldo de energía, sin aprovecharse de la molestia."
   }
  ],
  "ocultar": [
@@ -68,13 +68,8 @@
   "keiko fujimori",
   "prisión",
   "maría camila pantoja",
-  "Informe técnico señala que escáner no utiliza rayos X en penal de Trujillo",
-  "“Sinvergüenza” y “encima mal vestida”: Diputados rechazan presencia de Dina Boluarte en encuentro con el papa León XIV",
-  "Los mensajes desvelados por la UCO sitúan a Óscar López como impulsor de la reunión de Sánchez con el chófer de la trama: \"Todo es raro\"",
-  "Detienen a un hombre de origen marroquí en Manacor por agredir sexualmente a una mujer y robarle, sufrió heridas en la muñeca, la espinilla y el pecho, se le acercó y le pidió fuego",
   "Vladimiro Montesinos estará preso hasta 2037",
   "juan díaz",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
   "haití - estados unidos",
   "nvidia jensen huang",
@@ -84,9 +79,15 @@
   "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
   "COCEMFE exige a los partidos vivienda accesible, el fin de las listas de espera y educación inclusiva",
   "Irán asegura haber atacado con drones un radar estadounidense en una base de Baréin",
-  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
-  "Los chats secretos de Blocus para saquear Barcelona: joyerías, tiendas de lujo y objetivos marcados",
-  "Renovación Popular ganó en 26 distritos de Lima Metropolitana: ¿en qué zonas de la capital aumentó su respaldo?"
+  "ONPE al 100 %: lista de Renovación Popular gana la Alcaldía de Lima sobre Avanza País",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
+  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
+  "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
+  "Los ucranianos desplazados realizan viajes repetidos a casa mientras persisten los obstáculos para el retorno",
+  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
+  "💎 Gabito Ballesteros y su vida de lujos: así presume sus autos deportivos y joyas millonarias https://mile.io/4kdfaBO"
  ],
  "audiencias": {
   "general": {

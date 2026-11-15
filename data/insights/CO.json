@@ -1,36 +1,48 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-15T17:05:36Z",
+ "actualizado": "2026-11-15T21:03:20Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Domingo de puente: el lunes 16 es festivo por la Independencia de Cartagena y la conversación gira en torno al plan retorno, el pico y placa regional y la coronación de la Señorita Colombia ese mismo lunes. A 12 días del Black Friday (27 de noviembre), los medios publican guías de fechas, devoluciones y cómo comprar sin desordenar el presupuesto, mientras el costo de los alimentos toca su punto más alto desde 2023 por la papa. Medellín estrena el DAVIarena y Bogotá tiene el Chocoshow: hay apetito por planes y antojos. Gana quien sea claro con precio final, envíos y cambios antes de la prima de diciembre.",
+ "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con plan retorno y la mirada puesta en el Black Friday del 27 de noviembre: los medios ya publican fechas, guías y alertas sobre compras por impulso. En tecnología preocupa la lista de celulares que se quedan sin WhatsApp desde el 16 de noviembre y crece la comparación entre consolas antes de Navidad. Medellín vibra con el DAVIarena y su tradición navideña, Barranquilla con Chayanne y Bogotá con el Bar Week; en el cine, 'Ebenezer' de Johnny Depp lidera taquilla. Precio final claro, planes y regalos útiles ganan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Retorno sin afanes",
-   "idea": "Mañana es festivo y miles regresan con pico y placa regional en Bogotá. Publica un 'kit de retorno' (snacks, cargador, playlist) o una promo válida solo el lunes festivo para quien regresa a la ciudad.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Black Friday con devolución clara",
-   "idea": "Las guías más leídas explican cómo devolver compras por internet en Colombia. Antes del 27, explica en 30 segundos tus condiciones de cambio y garantía: quita el principal miedo del comprador.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Calcula tu prima",
-   "idea": "Circulan artículos que enseñan a calcular la prima de diciembre. Haz un carrusel 'Así repartimos la prima': ahorro, deudas y un regalo, y muestra dónde encaja tu producto sin presionar.",
+   "titulo": "¿Tu celular se queda sin WhatsApp?",
+   "idea": "Desde el 16 de noviembre varios modelos antiguos dejan de tener WhatsApp. Tiendas de tecnología y planes pueden publicar la lista y ofrecer un cambio de equipo con precio de pre-Black Friday.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Corona la reina del parche",
-   "idea": "La Señorita Colombia se elige el lunes 16 y el concurso se transmite en TV. Marcas de belleza y moda pueden lanzar una encuesta de looks o un tutorial de maquillaje 'de pasarela' con los labios nube que son tendencia.",
+   "titulo": "Cuenta regresiva al Black Friday",
+   "idea": "Faltan 12 días para el 27 de noviembre y la gente teme comprar por impulso. Arma una lista de deseos con precio de hoy y precio del 27, y pide que la guarden: generas expectativa con transparencia.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Plan para después del puente",
+   "idea": "Con el regreso del festivo, la semana arranca lenta. Restaurantes y bares pueden subirse al ambiente del Bar Week Bogotá con un plan 2x1 de martes a jueves para quienes vuelven de viaje.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Navidad paisa, versión tu marca",
+   "idea": "Medellín ya habla de su tradición para recibir la Navidad. Muestra cómo tu producto encaja en la novena, el alumbrado o el regalo de fin de año, con jerga cercana: 'parcero, este diciembre sí'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cacao y antojo de temporada",
-   "idea": "El Chocoshow llena Bogotá de cacao y chocolate. Si vendes alimentos, café o regalos, arma un combo navideño con chocolate colombiano y cuéntalo con la historia del productor.",
-   "formato": "Copy para anuncio"
+   "titulo": "¿Eres rata o rana? Tu cliente también",
+   "idea": "La teoría viral de TikTok divide a todos en dos tipos. Úsala para mostrar dos perfiles de cliente y qué producto le sirve a cada uno: humor que vende sin forzar.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
+  {
+   "termino": "ebenezer",
+   "color": "verde",
+   "por_que": "La nueva película de Johnny Depp lidera la taquilla del fin de semana y divide a crítica y público.",
+   "idea": "Cines, streaming y marcas de entretenimiento: contenido de 'plan de cine' y debates de opinión con preguntas al público."
+  },
+  {
+   "termino": "weather",
+   "color": "verde",
+   "por_que": "Búsqueda general del clima, impulsada por pronósticos de frío en EE. UU.",
+   "idea": "Marcas de ropa y viajes pueden recordar qué empacar para viajes a EE. UU. en temporada de frío."
+  },
   {
    "termino": "vuelos suspendidos estados unidos",
    "color": "amarillo",
@@ -48,18 +60,6 @@
    "color": "amarillo",
    "por_que": "El Niño amenaza las reservas de agua del Atlántico y podría extenderse hasta mayo de 2027.",
    "idea": "Hogar, agro y servicios públicos: contenido de ahorro de agua y energía con tips prácticos, sin catastrofismo."
-  },
-  {
-   "termino": "emiro",
-   "color": "amarillo",
-   "por_que": "Rumores sobre la salud de un influencer de MasterChef antes de Stream Fighters 5; tema sensible.",
-   "idea": "Evita usar la salud de personas como gancho; si hablas del evento, céntrate en el entretenimiento."
-  },
-  {
-   "termino": "weather",
-   "color": "verde",
-   "por_que": "Búsqueda general del clima, impulsada por pronósticos de frío en EE. UU.",
-   "idea": "Marcas de ropa y viajes pueden recordar qué empacar para viajes a EE. UU. en temporada de frío."
   }
  ],
  "audiencias": {
@@ -1067,16 +1067,11 @@
   "dirección nacional de inteligencia",
   "congreso de la república de colombia",
   "base aérea de raf lakenheath",
-  "Se afectó el cronograma de las obras del metro: Carlos Fernando Galán lo reconoció en público",
-  "Atención: cayó alias ‘Primo Gay’, uno de los cabecillas más buscados de Antioquia",
   "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "Agente de tránsito agredido en Cali tras el partido de Colombia y Chile",
   "daren",
   "justicia",
   "toma del palacio de justicia",
   "yamid amat",
-  "Alcaldía avanza con operativos sancionatorios con la Patrulla de Puntos Críticos",
-  "ICE arrestó a un ecuatoriano en Berwyn frente a su esposa e hijos y el video se hizo viral",
   "intolerancia",
   "Super Astro Luna de hoy, sábado 14 de noviembre: consulte el número ganador y el signo zodiacal",
   "aeropuerto internacional de miami",
@@ -1085,18 +1080,26 @@
   "el espectador",
   "El escándalo de Jensen Huang deja a Nvidia con una pregunta: ¿quién financia ahora a la IA?",
   "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Las cifras clave y los factores detrás de cómo el 2026 apunta a ser el año menos violento de Medellín en su historia moderna",
-  "Así está el panamorama en Bogotá para atender la salud mental: el riesgo, la responsabilidad penal y la oferta hospitalaria",
   "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
-  "Aviones de Copa Airlines y UPS colisionaron en una pista del aeropuerto de Miami, un día después de la suspensión nacional de vuelos en EE. UU.",
-  "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico",
-  "Colombia obtiene certificación de la OTAN para una fragata y un grupo de operaciones especiales",
   "Gerson Bermont, el secretario de Salud que quiere una Bogotá sanadora",
   "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
-  "La receta de Junts para la industria: reducir costes energéticos, más seguridad jurídica y menos barreras burocráticas",
   "María Fernanda Cabal llevó su carro a un taller y se llevó tremenda sorpresa con lo hallado: “Lo estaban haciendo”",
   "“El daño ya está hecho”: Arlene Tickner, sobre relaciones con EE. UU.",
-  "fragata"
+  "fragata",
+  "ley",
+  "Atentados con explosivos en Colombia EN VIVO: video muestra el momento en que abandonan carro y explota en peaje de Pipiral, vía Bogotá-Villavicencio",
+  "Defensoría alerta de posibles retaliaciones contra civiles tras captura de alias “Primo Gay”",
+  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
+  "Peligro infantil en TikTok | Noticias UNO -",
+  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
+  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
+  "Revancha cayó en Medellín: jugador ganó $5.600 millones",
+  "Acumulado de Revancha de $5.600 millones cayó por primera vez en Medellín",
+  "Desmontan valla publicitaria en defensa de ‘Juancho Kily’ en Puerto Colombia",
+  "La hora de Uribe",
+  "Bessent exige cambios en Nvidia y pide explicaciones por sus ventas a China",
+  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
+  "Los ucranianos desplazados realizan viajes repetidos a casa mientras persisten los obstáculos para el retorno",
+  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata"
  ]
 }
