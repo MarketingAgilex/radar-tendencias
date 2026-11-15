@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor alemán compara antes de la Black Week: abundan ofertas en televisores, Nintendo Switch 2, aspiradoras y hogar inteligente, y las organizaciones de consumidores advierten sobre trampas de precio. La filtración de la primera camiseta de la selección hecha por Nike despierta interés, y el llamado a revisión de millones de autos del grupo VW preocupa a los conductores. Las alertas por hielo y heladas marcan la semana. Funcionan los mensajes precisos, con datos y garantía.",
+ "lectura": "En Alemania el Black Friday ya está en marcha con tickers de ofertas en tecnología (Switch 2, AirPods, aspiradoras Dyson) y advertencias de la Verbraucherzentrale sobre trampas de precio. La primera filtración de la camiseta Nike de la selección y los Papás Noel de chocolate más caros en Rewe, Lidl o Aldi muestran un consumidor atento al precio y a los productos con carga emocional. La llamada a revisión de 4,6 millones de autos del grupo VW y el debate sobre el café y la salud completan la agenda. Ofertas transparentes y regalos con sentido para quien 'no necesita nada' son la clave.",
  "semaforo": [
   {
    "termino": "tv programm heute",
    "color": "verde",
-   "por_que": "Los alemanes consultan la programación del sábado por la noche.",
-   "idea": "Snacks, delivery y streaming: campañas de 'noche de tele'."
+   "por_que": "Mucha gente busca qué ver en la tele el sábado por la noche.",
+   "idea": "Snacks, delivery y streaming: planes para la noche en casa."
   },
   {
    "termino": "trikot",
    "color": "verde",
-   "por_que": "Se filtró la primera camiseta de la selección alemana fabricada por Nike.",
-   "idea": "Marcas de deporte y merch: listas de espera, personalización y regalos para fans."
+   "por_que": "Se filtró la primera camiseta Nike de la selección alemana.",
+   "idea": "Deporte y moda: preventas y regalos; usa solo imágenes autorizadas."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "La Switch 2 con Mario Kart World aparece entre las mejores ofertas anticipadas.",
-   "idea": "Tiendas gamer: combos y accesorios para regalar en Navidad."
+   "por_que": "La Switch 2 con Mario Kart World tiene precio récord en Black Friday.",
+   "idea": "Gaming y tecnología: packs de regalo y accesorios complementarios."
+  },
+  {
+   "termino": "kaffee",
+   "color": "amarillo",
+   "por_que": "Un estudio relaciona el consumo de café con beneficios para la salud.",
+   "idea": "Marcas de café: habla de sabor y ritual; no hagas afirmaciones de salud en anuncios."
   },
   {
    "termino": "rückrufaktion",
    "color": "amarillo",
-   "por_que": "El grupo VW llama a revisión a 4,6 millones de autos por un problema de dirección.",
-   "idea": "Talleres y seguros pueden informar con claridad; evita burlas o alarmismo."
-  },
-  {
-   "termino": "ralf dümmel",
-   "color": "verde",
-   "por_que": "El inversor de televisión habló de productos cotidianos que más venden.",
-   "idea": "Emprendedores: contenido sobre productos simples con alta rotación."
+   "por_que": "El grupo VW llama a revisión a 4,6 millones de autos.",
+   "idea": "Talleres y seguros: información útil y citas de revisión, sin alarmismo."
   }
  ],
  "audiencias": {
@@ -1223,33 +1223,43 @@
   "Vor den nächsten Gen-Z-Protesten wächst auf der Düsseldorfer Kö die Nervosität",
   "Hamas-Kommandeur im Gazastreifen getötet",
   "Ukraine-Gespräche: EU setzt auf Italien und Polen – Kallas außen vor",
-  "Sechs Terabyte Behördendaten gestohlen: Warum der Berliner Skandal auch Mitteldeutschland betrifft"
+  "Sechs Terabyte Behördendaten gestohlen: Warum der Berliner Skandal auch Mitteldeutschland betrifft",
+  "christian lindner",
+  "hamburger dom",
+  "boris pistorius",
+  "Pflege ist unbezahlbar: Linnemann hält Kürzungen für möglich – Branche hat andere Ideen",
+  "Rekord-Haushalt 2027: Grafik zeigt, wie Klingbeils Renten-Kosten in die Höhe schnellen",
+  "USA: Richterin stoppt Trumps Plan für Umbau von öffentlichem Golfplatz",
+  "Gaza: Israel tötet hochrangigen Hamas-Kommandeur",
+  "Flammen-Inferno in Berlin: Großbrand zerstört zehn Autos",
+  "Daten-GAU in Berlin: Forensiker über den Rhysida-Leak",
+  "ufc"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Sieben Preisfallen",
-   "idea": "Se comparten las trampas de precio del Black Friday. Publica las tuyas al revés: cómo garantizas un precio real y transparente.",
+   "titulo": "Para quien no necesita nada",
+   "idea": "Las guías de regalos para quien dice 'no necesito nada' están entre lo más leído. Arma tu propia lista con experiencias, consumibles y detalles personalizados.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Nuevo Trikot, nuevo regalo",
-   "idea": "La primera camiseta de Nike para la selección se filtró. Tiendas deportivas pueden abrir lista de espera para Navidad.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Switch 2 bajo el árbol",
-   "idea": "La Switch 2 con Mario Kart está a precio mínimo. Tiendas de juguetes y tecnología pueden armar el combo de Navidad.",
+   "titulo": "Sin trampas de precio",
+   "idea": "La Verbraucherzentrale explica las trampas típicas del Black Friday. Muestra el precio de referencia de 30 días y una devolución sin complicaciones.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Invierno con hielo",
-   "idea": "Con avisos de hielo, marcas de hogar y auto pueden promocionar raspadores, neumáticos de invierno y calefacción eficiente.",
-   "formato": "Historias Instagram"
+   "titulo": "Fiebre de camiseta",
+   "idea": "Se filtró la primera camiseta Nike de la selección alemana. Tiendas deportivas y textiles: abre la lista de espera para regalarla en Navidad.",
+   "formato": "Reel"
   },
   {
-   "titulo": "¿Tu auto está en la lista?",
-   "idea": "Hay un llamado a revisión masivo. Talleres pueden explicar cómo verificar si un auto está afectado y ofrecer cita, sin alarmar.",
-   "formato": "LinkedIn"
+   "titulo": "Momento café",
+   "idea": "Un estudio sobre cuántas tazas de café al día son beneficiosas generó mucho interés. Cafeterías y tostadores: celebra el ritual del café y tus orígenes, sin promesas de salud.",
+   "formato": "Publicación Instagram"
+  },
+  {
+   "titulo": "Chequeo de llamada a revisión",
+   "idea": "El grupo VW llama a revisión a 4,6 millones de autos por un problema de dirección. Talleres: explica cómo verificar si tu auto está afectado y ofrece cita.",
+   "formato": "Publicación Facebook"
   }
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Último día de la visita del papa León XIV, que moviliza a miles de familias en Lima y altera el tránsito y los horarios. En paralelo, el peruano se prepara para el Black Friday del 27 con ofertas anticipadas en tecnología y la venta de Entel abre preguntas sobre el futuro de su servicio móvil. El calor de hasta 30 °C y el aviso de un Niño costero que se extendería hasta 2027 empujan productos de verano. Respeto, información útil y precios claros son la clave esta semana.",
+ "lectura": "La visita del papa León XIV —de Chiclayo a Cajamarca y, este lunes 16, la misa en la Base Aérea Las Palmas de Lima— concentra la atención y el orgullo peruano, con cierres de vías y alta demanda de transporte, comida y recuerdos. A la vez, Lima vive una ola de calor (hasta 31 °C) y el ENFEN advierte que El Niño costero se extendería hasta 2027. La subida de la tasa del BCRP a 4,5% vuelve más cuidadoso al consumidor con el crédito justo antes del Black Friday. Orgullo local, alivio para el calor y pagos claros son el camino.",
  "ideas_hoy": [
   {
-   "titulo": "Lima en modo papa",
-   "idea": "Con cierres de avenidas por la misa en Las Palmas, informa tus horarios de atención y entregas del lunes y ofrece recojo en tienda. Útil y respetuoso.",
-   "formato": "Historias Instagram"
+   "titulo": "Rutas y horarios del lunes",
+   "idea": "Habrá avenidas cerradas por la misa en Las Palmas. Si haces delivery o tienes local cerca, publica qué zonas atiendes y en qué horarios: la información útil se comparte mucho.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Verano adelantado",
-   "idea": "El Senamhi anuncia calor de hasta 30 °C. Bloqueadores, ropa fresca, helados y ventiladores pueden lanzar su campaña de verano con precio de pre Black Friday.",
+   "titulo": "Orgullo peruano",
+   "idea": "Se hizo viral el chofer del Metropolitano que siguió al Papa con sus pasajeros. Cuenta historias reales de orgullo y servicio de tu equipo, con respeto y sin usar símbolos religiosos para vender.",
    "formato": "Reel"
   },
   {
-   "titulo": "¿Y ahora mi línea?",
-   "idea": "La venta de Entel genera dudas. Tiendas de celulares y accesorios pueden explicar qué cambia y qué no para el usuario, con fuentes oficiales y sin alarmar.",
+   "titulo": "Kit contra el calor",
+   "idea": "Lima llegó a 31 °C. Bebidas, helados, ventiladores y bloqueador pueden lanzar un 'kit de verano adelantado' con entrega el mismo día.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Tasa más alta, compra planificada",
-   "idea": "El BCRP subió su tasa de referencia. Si vendes en cuotas, explica el costo total y ofrece una alternativa al contado con un beneficio.",
+   "titulo": "Contado o cuotas, sin sustos",
+   "idea": "El BCRP subió su tasa a 4,5% y la gente se pregunta cómo afecta créditos y precios. Muestra el precio al contado y el total en cuotas antes del Black Friday.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Chamba bien hecha",
-   "idea": "Muestra el detrás de cámaras de cómo preparas los pedidos para el Black Friday. Genera confianza y anticipa compras.",
+   "titulo": "Celulares para regalar",
+   "idea": "Llegan al Perú nuevos equipos como el Galaxy A18 y el P80 Ultra. Tiendas de tecnología: comparativa sencilla de 'cuál regalar según presupuesto' en soles.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "temperatura lima",
+   "termino": "papá león xiv",
    "color": "verde",
-   "por_que": "El Senamhi pronostica días soleados y calor en Lima.",
-   "idea": "Ropa fresca, bloqueador, bebidas y helados: promos del día según la temperatura."
+   "por_que": "La visita del Papa peruano genera orgullo y gran movimiento en Chiclayo, Cajamarca y Lima.",
+   "idea": "Turismo, transporte y gastronomía local: información práctica y mensajes de orgullo, con respeto y sin explotar la fe."
   },
   {
-   "termino": "milo j",
+   "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "Los Latin Grammy 2026 dejaron ganadores que el público peruano sigue con interés.",
-   "idea": "Marcas de moda y música: looks inspirados en la alfombra roja o playlists de los ganadores."
+   "por_que": "Lima vive días de calor intenso.",
+   "idea": "Bebidas, helados, ropa fresca y protector solar: ofertas de temporada."
   },
   {
    "termino": "el niño costero",
    "color": "amarillo",
-   "por_que": "El ENFEN advierte que el fenómeno se extendería hasta el invierno de 2027.",
-   "idea": "Comunica prevención (techos, agua, salud) con datos oficiales, sin generar miedo."
+   "por_que": "El ENFEN prevé que El Niño costero se extienda hasta el invierno de 2027.",
+   "idea": "Agro, hogar y seguros: consejos de prevención sin alarmismo."
   },
   {
    "termino": "twitch",
-   "color": "verde",
-   "por_que": "Se habla del impacto de GTA VI en las plataformas de streaming.",
-   "idea": "Tiendas gamer: transmisiones en vivo del lanzamiento con sorteos de accesorios."
+   "color": "amarillo",
+   "por_que": "Se habla de copias gratis de GTA VI en otra plataforma de streaming, fuera del Perú.",
+   "idea": "Si haces promociones con premios, publica bases claras y no prometas lo que no controlas."
   },
   {
-   "termino": "entel se va de peru",
-   "color": "amarillo",
-   "por_que": "Entel vende su operación peruana a Millicom; los clientes se preguntan qué cambiará.",
-   "idea": "Explica con fuentes oficiales; tiendas de equipos pueden ofrecer asesoría sin generar alarma."
+   "termino": "millicom entel peru",
+   "color": "verde",
+   "por_que": "Millicom compra Entel Perú, operadora con más de 10 millones de clientes.",
+   "idea": "Tecnología y telecomunicaciones: explica qué cambia para el cliente y ofrece equipos y planes con claridad."
   }
  ],
  "ocultar": [
@@ -89,7 +89,9 @@
   "Desmantelan Red de Captación de Cuentas Bancarias en TikTok: Fraudes Financieros y «Mulas Económicas",
   "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
   "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
-  "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera"
+  "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera",
+  "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
+  "haití - estados unidos"
  ],
  "audiencias": {
   "general": {
@@ -1041,58 +1043,50 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envíos internacionales",
-   "total": 402,
+   "busqueda": "Black Friday",
+   "total": 16503,
    "anunciantes": [
     {
-     "nombre": "DHL Latinoamérica",
-     "url": "https://www.facebook.com/ads/library/?id=1128871793197295"
+     "nombre": "Licenciado Manuel Gómez - Consultorio Visual",
+     "url": "https://www.facebook.com/ads/library/?id=1474501877936949"
     },
     {
-     "nombre": "Andix Tecnología",
-     "url": "https://www.facebook.com/ads/library/?id=1704985344304181"
+     "nombre": "Shoptemu",
+     "url": "https://www.facebook.com/ads/library/?id=1881805506196220"
     },
     {
-     "nombre": "Cosmetics & More",
-     "url": "https://www.facebook.com/ads/library/?id=1692502925811329"
-    },
-    {
-     "nombre": "Shandong Mikton Group-Construction Machinery",
-     "url": "https://www.facebook.com/ads/library/?id=1114642018080091"
-    },
-    {
-     "nombre": "Guangzhou Viking Auto Parts",
-     "url": "https://www.facebook.com/ads/library/?id=1466383158391625"
+     "nombre": "Aprendiendos",
+     "url": "https://www.facebook.com/ads/library/?id=2248604652707247"
     }
    ],
-   "patron": "Además de DHL ('una propuesta para todos tus envíos'), muchos fabricantes chinos pautan en español ofreciendo maquinaria, acero y repuestos 'directo de fábrica': la importación directa es un tema activo para pymes peruanas."
+   "patron": "Muchos resultados son de anunciantes globales; entre los que pautan en soles destacan los servicios con descuentos fuertes ('60% de descuento' en salud visual), los marketplaces de importación y los cursos que invitan a emprender 'para esta Navidad'. El descuento grande en el titular y la urgencia de fecha son la norma."
   },
   {
-   "busqueda": "emprendimiento",
-   "total": 4571,
+   "busqueda": "envío gratis Navidad",
+   "total": 506,
    "anunciantes": [
     {
-     "nombre": "Escuela Escotex - Centro de Capacitación",
-     "url": "https://www.facebook.com/ads/library/?id=1955609422322732"
+     "nombre": "Bevytal",
+     "url": "https://www.facebook.com/ads/library/?id=1443508321269694"
     },
     {
-     "nombre": "Con Mis Manos",
-     "url": "https://www.facebook.com/ads/library/?id=1795733328209568"
+     "nombre": "Clasica Store Peru",
+     "url": "https://www.facebook.com/ads/library/?id=1877049240317832"
     },
     {
-     "nombre": "Negocios Creativos",
-     "url": "https://www.facebook.com/ads/library/?id=987073757294389"
+     "nombre": "Lobindani Store",
+     "url": "https://www.facebook.com/ads/library/?id=1893822062030593"
     },
     {
-     "nombre": "Bioliffe Moringa-Emprende",
-     "url": "https://www.facebook.com/ads/library/?id=1381586440532851"
+     "nombre": "OSO import",
+     "url": "https://www.facebook.com/ads/library/?id=1110493885119983"
     },
     {
-     "nombre": "Diseñando Eventos - Cursos Online",
-     "url": "https://www.facebook.com/ads/library/?id=2348170799350446"
+     "nombre": "GalaxyBot",
+     "url": "https://www.facebook.com/ads/library/?id=4844249755804029"
     }
    ],
-   "patron": "Predominan cursos de oficios y negocios desde casa (confección, cestería, manualidades) y productos imprimibles navideños: el gancho es 'aprende y vende esta temporada'."
+   "patron": "Domina la 'preventa navideña' con descuento y fecha límite, la decoración con luces LED y solares, y los juguetes tecnológicos con precio en soles en el titular (por ejemplo, un perro robot a S/149). Importadoras pequeñas usan llamados directos como 'Adquiérelo ahora'."
   }
  ]
 }

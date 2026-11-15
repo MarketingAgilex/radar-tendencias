@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor chileno prepara el Black Friday de fin de mes: busca fechas, cómo comparar precios y dónde estarán las marcas, y BancoEstado empuja el interés con su gift card de noviembre. El bólido que iluminó el cielo del centro-sur se volvió el gran tema compartido del fin de semana, y el clima cambiante pide ropa para calor y lluvia a la vez. La Feria del Libro en Estación Mapocho y los festivales de música llenan la agenda. Mensajes cercanos, precios transparentes y algo de humor funcionan bien.",
+ "lectura": "El bólido que iluminó el cielo del centro-sur se volvió el tema viral del fin de semana, junto con los avisos de tormentas eléctricas en seis regiones y el vaivén entre calor y lluvia. Los chilenos llenaron la Noche de Museos y la Feria del Libro, y los conciertos se agotan (Kidd Voodoo en el Monumental, Creamfields). De cara al Black Friday buscan fechas, verifican si los descuentos son reales y aprovechan beneficios como la gift card de BancoEstado. Experiencias, cultura y descuentos comprobables son la llave.",
  "ideas_hoy": [
   {
-   "titulo": "Lo vimos todos",
-   "idea": "El bólido fue el tema del fin de semana. Una publicación ingeniosa tipo '¿lo viste? nosotros también vimos esta oferta' conecta sin forzar y genera comentarios.",
+   "titulo": "Pide un deseo al bólido",
+   "idea": "El bólido que cruzó el cielo es lo más comentado. Súmate con humor: 'Si viste el bólido, pide tu deseo de Navidad' y muestra tu lista de regalos con precios en pesos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Gift card y algo más",
-   "idea": "BancoEstado ofrece una gift card en noviembre y la gente busca cómo obtenerla. Comercios pueden explicar dónde se puede usar y sumar un beneficio propio.",
+   "titulo": "Descuento real, sin trampa",
+   "idea": "Los chilenos buscan cómo revisar si los descuentos del Black Friday son reales. Muestra el precio de las últimas semanas junto al precio de oferta: transparencia que vende.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Libro + café para regalar",
-   "idea": "Con la Feria del Libro en Santiago, librerías y cafeterías pueden armar un pack de regalo para Navidad con envío a regiones.",
-   "formato": "Reel"
+   "titulo": "Despacho con tormenta",
+   "idea": "Hay aviso de tormentas eléctricas y granizo en seis regiones. Informa a tiempo tus plazos de despacho y ofrece retiro en tienda para evitar reclamos.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Black Friday sin letra chica",
-   "idea": "Publica tu precio de hoy y el que tendrás el Black Friday para que el cliente compare. La transparencia es lo más valorado en las búsquedas.",
+   "titulo": "Regala un libro",
+   "idea": "La Feria del Libro en Estación Mapocho y la Noche de Museos rompieron récords. Librerías, editoriales y cafés: arma una promo 'libro + café' o recomienda regalos de lectura.",
+   "formato": "Publicación Instagram"
+  },
+  {
+   "titulo": "Despacho gratis y pagas al recibir",
+   "idea": "En Meta, tiendas chilenas pautan 'Despacho gratis · Pagas al recibir' y combos navideños con el precio en el título. Prueba esa estructura: precio en CLP en la primera línea y una garantía de entrega.",
    "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Clóset para clima loco",
-   "idea": "Calor de día y lluvia el fin de semana: tiendas de ropa pueden mostrar un look 'en capas' que sirve para todo.",
-   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Una bola de fuego iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió viral.",
-   "idea": "Contenido curioso y ligero: astronomía, turismo de cielos (norte de Chile) y ofertas 'de otro planeta'."
+   "por_que": "Un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos y se volvió viral.",
+   "idea": "Contenido creativo y astronomía: 'pide un deseo' para campañas de Navidad, telescopios o turismo de cielos."
   },
   {
    "termino": "pronóstico del tiempo",
-   "color": "verde",
-   "por_que": "Se esperan bajas temperaturas y posibles lluvias tras días de calor.",
-   "idea": "Ropa en capas, paraguas y delivery: promos según el clima del fin de semana."
-  },
-  {
-   "termino": "inessa sorokina",
    "color": "amarillo",
-   "por_que": "Una figura de la farándula llega a un programa de entrevistas y genera curiosidad.",
-   "idea": "Si lo usas, que sea con humor liviano y sin meterte en la vida privada de nadie."
+   "por_que": "Fin de semana con bajas temperaturas y posibles lluvias tras días de calor.",
+   "idea": "Ropa, hogar y delivery: mensajes útiles según el clima, sin dramatizar."
   },
   {
    "termino": "banco estado",
    "color": "verde",
-   "por_que": "La gente busca cómo obtener la gift card de $100 mil que ofrece el banco en noviembre.",
-   "idea": "Comercios: explica si aceptas la tarjeta y suma un beneficio extra para quienes la usen."
+   "por_que": "BancoEstado ofrece una gift card de $100 mil en noviembre y muchos buscan cómo obtenerla.",
+   "idea": "Comercios: recuerda qué medios de pago aceptas y suma beneficios propios, sin prometer el premio del banco."
   },
   {
-   "termino": "china",
-   "color": "verde",
-   "por_que": "Se habla de cómo las herramientas de IA transforman el comercio electrónico en fechas como el 11.11.",
-   "idea": "Emprendedores: contenido de automatización y atención con IA antes del Black Friday."
+   "termino": "inessa sorokina",
+   "color": "amarillo",
+   "por_que": "Tema de farándula por su paso por un programa de televisión.",
+   "idea": "Úsalo solo en contenido de entretenimiento ligero; evita opinar sobre su vida privada."
+  },
+  {
+   "termino": "supuesto apagon mundial",
+   "color": "amarillo",
+   "por_que": "Circula un rumor de apagón mundial el 17 de noviembre que los medios desmienten.",
+   "idea": "No lo alimentes; tecnología y energía pueden aclarar con datos y ofrecer respaldos reales."
   }
  ],
  "ocultar": [
@@ -113,7 +113,11 @@
   "Digamos que se llamaba Josefina: un relato de Jaime Bayly",
   "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
   "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
-  "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros"
+  "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros",
+  "[Telón de fondo] La pregunta que deja la huelga de los camioneros. Por Cristián Bofill",
+  "Encuentran un cuerpo en el Zanjón de la Aguada en medio de la búsqueda de Benjamín Galdámez",
+  "nvidia jensen huang",
+  "Desmantelan una red de ciberestafas bancarias en TikTok"
  ],
  "audiencias": {
   "general": {
@@ -1056,50 +1060,50 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envíos internacionales",
-   "total": 289,
+   "busqueda": "Black Friday",
+   "total": 20265,
    "anunciantes": [
     {
-     "nombre": "DHL Latinoamérica",
-     "url": "https://www.facebook.com/ads/library/?id=2211165452817385"
+     "nombre": "BLENS",
+     "url": "https://www.facebook.com/ads/library/?id=1855287728813095"
     },
     {
-     "nombre": "Segucargo",
-     "url": "https://www.facebook.com/ads/library/?id=1153973943874481"
-    },
-    {
-     "nombre": "Outlet USA Clau store",
-     "url": "https://www.facebook.com/ads/library/?id=2643828969410835"
-    },
-    {
-     "nombre": "American Premium Ropa",
-     "url": "https://www.facebook.com/ads/library/?id=4160959260869949"
-    }
-   ],
-   "patron": "Conviven el courier internacional, las mudanzas al exterior ('cotiza tu mudanza internacional') y tiendas que traen marcas de EE. UU. como outlet: el 'traído de EE. UU.' es un argumento de venta en Chile."
-  },
-  {
-   "busqueda": "black friday",
-   "total": 18639,
-   "anunciantes": [
-    {
-     "nombre": "Mikai Club",
-     "url": "https://www.facebook.com/ads/library/?id=923392904072975"
-    },
-    {
-     "nombre": "Minsy Chile",
-     "url": "https://www.facebook.com/ads/library/?id=1381466353869246"
+     "nombre": "ArteMadera · Planos DIY",
+     "url": "https://www.facebook.com/ads/library/?id=1451171317176724"
     },
     {
      "nombre": "Bismuto",
      "url": "https://www.facebook.com/ads/library/?id=1831272184575019"
     },
     {
-     "nombre": "Smart Data",
-     "url": "https://www.facebook.com/ads/library/?id=1771179960630461"
+     "nombre": "Aprendiendos",
+     "url": "https://www.facebook.com/ads/library/?id=2248604652707247"
     }
    ],
-   "patron": "Se repiten el 'acceso anticipado' con regalo para registrados, los cupos limitados y el 'pídelo hoy y paga cuando llegue a tu casa'. El total incluye anuncios de otros países que alcanzan a Chile."
+   "patron": "Junto a muchos anunciantes globales, los que apuntan a Chile usan promociones de volumen ('3 lentes por el precio de 1'), precio tachado en dólares para productos digitales y escasez con cupos limitados ('Black Friday · 10 cupos') para servicios a empresas."
+  },
+  {
+   "busqueda": "despacho gratis Navidad",
+   "total": 164,
+   "anunciantes": [
+    {
+     "nombre": "Litper Chile",
+     "url": "https://www.facebook.com/ads/library/?id=2916120862120909"
+    },
+    {
+     "nombre": "Saludín - Salud en casa",
+     "url": "https://www.facebook.com/ads/library/?id=4390029251214711"
+    },
+    {
+     "nombre": "Granito de Vida",
+     "url": "https://www.facebook.com/ads/library/?id=1642881107561607"
+    },
+    {
+     "nombre": "Maderin",
+     "url": "https://www.facebook.com/ads/library/?id=28807894485573476"
+    }
+   ],
+   "patron": "Se repite la fórmula 'Despacho gratis · Pagas al recibir', los combos navideños con precio en pesos en el título (por ejemplo, packs de 10 regalos o combos de salud en casa) y los productos personalizados como organizadores de madera."
   }
  ]
 }

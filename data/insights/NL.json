@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos celebra la llegada de Sinterklaas con un nuevo actor en el papel y la intocht llena las ciudades: arranca oficialmente la temporada de regalos hacia pakjesavond (5 de diciembre). Quedan doce días para el Black Friday y el consumidor neerlandés compara precios con cuidado, mientras una alerta de seguridad sobre leche UHT de un supermercado pide atención. Las ofertas tempranas en tecnología, deporte y juguetes ya circulan. Funcionan los mensajes directos, prácticos y con humor sano.",
+ "lectura": "La llegada de Sinterklaas —con Gijs Naber como nuevo Sint— y la entrada del barco de vapor concentraron la atención de los neerlandeses este fin de semana: arranca oficialmente la temporada de regalos hasta el pakjesavond del 5 de diciembre. Las entradas para la casa de Sinterklaas se agotaron en diez minutos y se reparten toneladas de dulces, mientras el Black Friday ya mueve LEGO, zapatillas, auriculares y móviles. Una alerta de seguridad sobre una leche UHT de Lidl recuerda el peso de la confianza. Regalos con poema, ofertas comprobables y transparencia ganan.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "El actor asume el papel de Sinterklaas y genera enorme interés.",
-   "idea": "Marcas de regalos y juguetes: saludo festivo y guías de regalo, con respeto por la tradición."
+   "por_que": "El actor asume el papel de Sinterklaas y generó una ola masiva de búsquedas.",
+   "idea": "Regalos, juguetes y dulces: campañas de temporada con tono familiar."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada en barco de Sinterklaas reúne a familias en todo el país.",
-   "idea": "Comercio local: horarios especiales, decoración y promociones familiares del fin de semana."
+   "por_que": "La entrada del barco de vapor marca el inicio de la temporada de regalos.",
+   "idea": "Comercio y gastronomía: cuenta regresiva al 5 de diciembre."
+  },
+  {
+   "termino": "max verstappen vdk",
+   "color": "verde",
+   "por_que": "Verstappen firmó un nuevo acuerdo de varios años con una empresa neerlandesa.",
+   "idea": "B2B y automotor: contenido de patrocinio y orgullo local, sin usar su imagen sin permiso."
   },
   {
    "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Advertencia de seguridad sobre una leche UHT de un supermercado.",
-   "idea": "No lo uses comercialmente; si vendes alimentos, comunica tus controles de calidad con sobriedad."
-  },
-  {
-   "termino": "de frogers",
-   "color": "verde",
-   "por_que": "La familia de televisión genera conversación sobre familias numerosas.",
-   "idea": "Marcas familiares: contenido sobre organizar regalos y cenas para muchas personas."
+   "por_que": "Hay una alerta de seguridad sobre una leche UHT por bacterias.",
+   "idea": "Alimentos: comunica tus controles de calidad con transparencia; no te burles del caso."
   },
   {
    "termino": "amazon",
    "color": "verde",
-   "por_que": "Se comparten ofertas tempranas de Black Friday.",
-   "idea": "Tiendas propias: compara tu precio y servicio (entrega, devoluciones) con honestidad."
+   "por_que": "Ya hay decenas de ofertas anticipadas de Black Friday.",
+   "idea": "Comercio: compite con servicio, rapidez y atención cercana."
   }
  ],
  "audiencias": {
@@ -1147,32 +1147,48 @@
   "LIVE | Drie tankers in brand na raken van mijnen in Straat van Hormuz",
   "‘Wij, jongeren, zijn de weg kwijt’: paus Leo XIV hoort in Argentinië rauwe verhalen over leegte en zelfdoding",
   "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanval",
-  "Het duurde slechts negen maanden om zowel de VVD als het kabinet-Jetten te onttakelen"
+  "Het duurde slechts negen maanden om zowel de VVD als het kabinet-Jetten te onttakelen",
+  "brand",
+  "gelderland",
+  "oplichting",
+  "Elk weekend rijden Tom en Els van Duitsland naar hun huis dat ze niet in mogen: ‘Ze zijn ons aan het doodhongeren’",
+  "Dode en zwaargewonde na aanrijding door trein in Eindhoven: 'Noodlottig ongeval'",
+  "Duizenden stiekem gemaakte foto's van borsten en billen in Achterhoekse appgroep",
+  "Coalitie probeert vandaag de scherven te lijmen in crisisoverleg, maar ‘Jetten en Yesilgöz liggen mijlenver uiteen’",
+  "Hoe oud-hoogleraar en arts Jim Reekers opnieuw een beerput opent in de zorg: ‘Als je in deze wereld klokkenluider wordt, raak je alles kwijt’",
+  "Uitslaande brand op industrieterrein Kellen in Tiel",
+  "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'",
+  "LIVE | Israël doodt Hamas-commandant in Gazastrook",
+  "Iran meldt aanval op Amerikaans radarsysteem in Bahrein",
+  "Reanimatie op Appelweg in Amsterdam",
+  "As van overledene uitstrooien op straat of op het water? In Amsterdam mag dat gewoon",
+  "As verstrooien in Amsterdam: Geen specifieke regels op gemeentelijk grondgebied",
+  "ufc"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Lista para pakjesavond",
-   "idea": "Con Sinterklaas ya en el país, publica una guía de regalos por edades con fecha límite de pedido para entregar antes del 5 de diciembre.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "El nuevo Sint",
-   "idea": "Todo el país habla del nuevo actor de Sinterklaas. Marcas pueden sumarse con un saludo festivo y un sorteo de regalos, sin bromas sobre el personaje.",
+   "titulo": "Sorpresa con poema",
+   "idea": "En Sinterklaas se acompañan los regalos con un poema. Ofrece un poema personalizado con cada compra hasta el 5 de diciembre: es un detalle que se comparte.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin trucos",
-   "idea": "Se enseña a comprobar si una oferta es real (Black Friday y Singles Day). Muestra tu historial de precio y tu garantía.",
-   "formato": "Historias Instagram"
+   "titulo": "Regalo para el zapato",
+   "idea": "Con la llegada del Sint, los niños 'ponen el zapato'. Arma una selección de mini regalos por menos de 10 euros pensada para el zapato.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Zapatillas de carrera en oferta",
-   "idea": "Nike rebaja sus zapatillas de alto rendimiento. Tiendas deportivas pueden armar un plan de entrenamiento de invierno con su catálogo.",
-   "formato": "Copy para anuncio"
+   "titulo": "Comprueba tu oferta",
+   "idea": "Los medios explican cómo comprobar si una oferta de Singles Day o Black Friday es buena. Muestra el historial de precios de tus productos estrella.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Surprise hecho a mano",
-   "idea": "Talleres y tiendas creativas pueden ofrecer kits para hacer la surprise de Sinterklaas en casa.",
+   "titulo": "El efecto Verstappen",
+   "idea": "Max Verstappen renovó un acuerdo de varios años con una empresa neerlandesa. Comparte lecciones de patrocinio y marca para pymes B2B.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Pop-up de invierno",
+   "idea": "Un restaurante abre un local temporal en el Winterparadijs de Ámsterdam. Gastronomía y ocio: anuncia tu propuesta de temporada o mercadillo de invierno.",
    "formato": "TikTok"
   }
  ]

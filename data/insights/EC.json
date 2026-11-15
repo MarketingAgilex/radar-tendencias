@@ -1,59 +1,59 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A doce días del Black Friday, el consumidor ecuatoriano compara precios y se cuida de promociones engañosas: busca la fecha del Cyber Monday (30 de noviembre) y consejos para comprar con presupuesto. En Meta crecen los anuncios de 'grupo VIP de Black Friday' por WhatsApp, los 2x1 en servicios y los regalos navideños con precio en dólares visible. Las lluvias en la Costa piden avisar con transparencia los tiempos de entrega. Precio final claro, chat directo y regalos con identidad local son la fórmula de la semana.",
+ "lectura": "A 12 días del Black Friday (27 de noviembre) y con el Cyber Monday el 30, el consumidor ecuatoriano compara precios y desconfía de las promociones engañosas. La venta de camionetas crece y los modelos ensamblados en Ecuador ganan conversación, mientras las tormentas en Guayaquil y la Costa alteran rutinas y entregas. En redes manda el video vertical y retos simples como el 'bicep heart' de TikTok. Precio final claro, entregas honestas y un guiño local son la fórmula de la semana.",
  "ideas_hoy": [
   {
-   "titulo": "Arma tu grupo VIP",
-   "idea": "Varias marcas ecuatorianas ya invitan a un 'grupo VIP de Black Friday' en WhatsApp. Crea el tuyo esta semana con un beneficio exclusivo (acceso anticipado o envío gratis) y llega al 27 con clientes listos.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Regalo con sabor ecuatoriano",
-   "idea": "Los anuncios de chocolate fino y regalos corporativos están activos. Si vendes productos locales, arma cajas navideñas con precio cerrado en dólares y ofrécelas a empresas para sus equipos.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "2x1 que sí conviene",
-   "idea": "Los centros de estética pautan 2x1 por Black Friday. Servicios (spa, cursos, talleres) pueden ofrecer 'trae a tu pana' para duplicar clientes nuevos sin bajar el precio unitario.",
+   "titulo": "Cuenta regresiva al 27",
+   "idea": "La gente busca cuándo cae el Black Friday y el Cyber Monday. Publica una cuenta regresiva de 12 días con un producto estrella por día y avisa que quienes escriban por WhatsApp recibirán el precio primero.",
    "formato": "Reel"
   },
   {
-   "titulo": "Checklist anti engaño",
-   "idea": "Hay alertas por promociones falsas. Publica un checklist corto: factura, canal oficial y precio final con todo incluido. Remata con 'de ley, sin sorpresas'.",
+   "titulo": "Corazón con el brazo",
+   "idea": "El 'bicep heart' (hacer un corazón con el brazo) es tendencia en TikTok. Graba a tu equipo o a clientes haciéndolo junto a tu producto con el texto 'lo que le pusimos de corazón a este Black Friday'.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Camioneta lista para el viaje",
+   "idea": "Las ventas de camionetas crecen 33%. Si vendes accesorios, seguros, lavado o kits de viaje, arma un carrusel con '5 cosas que tu camioneta necesita antes de los viajes de fin de año'.",
    "formato": "Carrusel Instagram"
   },
   {
    "titulo": "Entregas con lluvia",
-   "idea": "Con tormentas en Guayaquil y la Costa, informa tus tiempos de entrega por ciudad y ofrece retiro en punto. La transparencia evita reclamos y genera confianza.",
-   "formato": "Facebook"
+   "idea": "Hay alertas de tormenta en Guayaquil, Daule y Samborondón. Publica tus horarios de entrega por zona y ofrece retiro en punto: avisar a tiempo evita reclamos y suma confianza.",
+   "formato": "Historia de Instagram"
+  },
+  {
+   "titulo": "Precio final, de ley",
+   "idea": "En la región crecen las quejas por ofertas incumplidas. Usa un copy directo: 'Precio final con todo incluido, sin letra pequeña. De ley.' y muestra el precio en dólares en la primera línea.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "cáncer",
    "color": "amarillo",
-   "por_que": "Una nueva guía recomienda exámenes para detectar el cáncer de próstata en hombres mayores de 50; tema de salud delicado.",
-   "idea": "Laboratorios, clínicas y aseguradoras pueden promover el chequeo preventivo con fuentes médicas; nada de humor."
+   "por_que": "Una nueva guía recomienda exámenes de detección de cáncer de próstata a hombres mayores de 50; tema de salud delicado.",
+   "idea": "Laboratorios, clínicas y aseguradoras pueden invitar al chequeo preventivo con fuentes médicas y tono serio, sin humor."
   },
   {
    "termino": "vuelos cancelados estados unidos",
    "color": "amarillo",
-   "por_que": "La suspensión de despegues en EE. UU. afectó conexiones con Latinoamérica antes de la temporada de compras.",
-   "idea": "Si traes productos de EE. UU., avisa con calma cómo pueden variar los plazos y pide anticipar los pedidos navideños."
+   "por_que": "La paralización temporal del tráfico aéreo en EE. UU. afectó conexiones con Latinoamérica; los vuelos ya se reanudan.",
+   "idea": "Si traes productos de EE. UU., explica con calma que los plazos pueden variar y pide anticipar los pedidos navideños."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Las ventas de camionetas crecen 33% y modelos hechos en Ecuador compiten con los importados.",
-   "idea": "Concesionarios, accesorios, seguros y financiamiento: contenido comparativo y ofertas de fin de año."
+   "por_que": "Las ventas de camionetas crecen 33% y los modelos hechos en Ecuador compiten con los importados.",
+   "idea": "Concesionarios, accesorios, seguros y financiamiento: comparativas y ofertas de fin de año."
   },
   {
    "termino": "tormenta eléctrica",
    "color": "amarillo",
-   "por_que": "Las tormentas eléctricas en la Costa generan preocupación y afectan rutinas.",
-   "idea": "Comunica con empatía; marcas de hogar pueden ofrecer protectores de voltaje o tips de prevención."
+   "por_que": "Las tormentas eléctricas preocupan y afectan rutinas en la Costa.",
+   "idea": "Comunica con empatía; marcas de hogar pueden ofrecer protectores de voltaje o consejos de prevención."
   },
   {
    "termino": "apagón mundial 17 de noviembre",
@@ -1053,6 +1053,11 @@
   "prófugo",
   "Deslizamiento de tierra en Puerto Santa Ana, zona turística de Guayaquil, provoca evacuación y alerta por nuevos desprendimientos",
   "171 personas permanecen alojadas en albergues habilitados en Guayas y Galápagos",
-  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral"
+  "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
+  "Cuenca, en vilo por el desplazamiento de la criminalidad en Ecuador",
+  "Ecuador - Bolivia | Pronóstico y cuotas 17.11.2026",
+  "ufc en vivo",
+  "ufc",
+  "kayla harrison"
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal se prepara para el Black Friday del 27 de noviembre con cautela: la mitad de los consumidores aprovechará las promociones, pero se habla de gastar de más y de celulares rebajados que no valen la pena. La lluvia y los cortes de electricidad programados marcan la semana, y los videojuegos (PS5 a precio mínimo, GTA VI) atraen a los más jóvenes. Los realities de televisión siguen generando conversación. Mensajes honestos, útiles y con precio claro funcionan mejor.",
+ "lectura": "Con el Black Friday oficial el 27 de noviembre, los portugueses buscan regalos tecnológicos y de decoración, pero desconfían de los falsos descuentos (la Deco ya publica consejos). Los cortes de electricidad programados y la llegada del invierno impulsan búsquedas de equipos para el hogar, y el precio de los combustibles se sigue semana a semana. La televisión (Cristina Ferreira, 'Dois às 10') y el nuevo diseño del '7' en la camiseta de la selección dan conversación, mientras crece la tendencia de 'comer skincare'. Con los feriados del 1 y el 8 de diciembre hay espacio para escapadas y compras anticipadas.",
  "ideas_hoy": [
   {
-   "titulo": "Compra que vale la pena",
-   "idea": "Se habla de celulares en oferta que no valen la compra. Publica una comparación honesta de tus modelos: para quién es cada uno y por qué.",
+   "titulo": "Desconto verificado",
+   "idea": "La Deco advierte sobre falsos descuentos en Black Friday. Muestra el precio de los últimos 30 días junto a la oferta y gana credibilidad frente a las grandes tiendas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "PS5 al precio más bajo",
-   "idea": "Hay juegos de PS5 a su precio más bajo. Tiendas gamer pueden armar combos de juego + accesorio para regalo de Navidad.",
+   "titulo": "Inverno em casa",
+   "idea": "Se buscan equipos para empezar el invierno y hay cortes de luz programados. Calefactores, mantas, linternas y baterías portátiles: arma un pack 'invierno sin sorpresas'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Gastar sin pasarse",
-   "idea": "Se pregunta por qué gastamos de más en Black Friday. Comparte tres consejos de presupuesto y ubica tu oferta como compra planificada.",
-   "formato": "Historias Instagram"
+   "titulo": "Comer skincare",
+   "idea": "Crece la tendencia de recetas que prometen mejorar la piel. Marcas de alimentación o belleza: comparte una receta sencilla y tu producto, sin promesas médicas.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Si se va la luz",
-   "idea": "Con cortes de electricidad programados, linternas, power banks y lámparas recargables pueden comunicar soluciones prácticas.",
+   "titulo": "A camisola do 7",
+   "idea": "La Federación cambió el diseño del número 7 en la camiseta de la selección. Tiendas deportivas y merchandising: preventa para regalar en Navidad con entrega garantizada.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Decoración con descuento",
-   "idea": "Las guías de 'achados de decoração' para Black Friday se comparten mucho. Marcas de hogar pueden lanzar su propia selección navideña.",
-   "formato": "TikTok"
+   "titulo": "Ponte de dezembro",
+   "idea": "El 1 y el 8 de diciembre son feriados. Turismo y restauración: lanza paquetes de escapada con reserva anticipada y plazas limitadas.",
+   "formato": "Publicación Facebook"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "EE. UU. levantó la suspensión de vuelos tras una falla de más de cuatro horas.",
-   "idea": "Si envías o viajas a EE. UU., avisa posibles retrasos con calma y aconseja anticipar pedidos."
+   "por_que": "EE. UU. levantó la suspensión de vuelos tras una falla técnica de más de cuatro horas.",
+   "idea": "Viajes y envíos internacionales: explica posibles demoras con calma y recomienda anticipar."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
    "por_que": "Hay cortes de electricidad programados en varias zonas.",
-   "idea": "Comunica horarios de atención y ofrece soluciones de respaldo (power banks, lámparas)."
-  },
-  {
-   "termino": "granizo",
-   "color": "verde",
-   "por_que": "Inestabilidad y lluvias en el pronóstico.",
-   "idea": "Ropa impermeable, paraguas y entretenimiento en casa: promos de día lluvioso."
+   "idea": "Tecnología y hogar: baterías, linternas y consejos prácticos sin alarmismo."
   },
   {
    "termino": "cristina ferreira",
    "color": "verde",
-   "por_que": "Los realities de la presentadora generan conversación diaria.",
-   "idea": "Súmate al formato con humor liviano, sin burlarte de los concursantes."
+   "por_que": "La presentadora y su programa generan conversación de entretenimiento.",
+   "idea": "Contenido ligero de televisión y moda; evita opinar sobre conflictos personales."
   },
   {
    "termino": "playstation 5",
    "color": "verde",
-   "por_que": "Se anuncian juegos de PS5 al precio más bajo de siempre.",
-   "idea": "Tiendas gamer: combos de regalo para Navidad y contenido de 'los juegos que valen la pena'."
+   "por_que": "Juegos de PS5 al precio más bajo de siempre.",
+   "idea": "Gaming y tecnología: ofertas de regalo y packs para Navidad."
+  },
+  {
+   "termino": "crédito",
+   "color": "amarillo",
+   "por_que": "Muchos buscan cuándo prescriben las deudas de tarjeta de crédito.",
+   "idea": "Fintech y asesoría: educación financiera clara y responsable, sin incentivar el impago."
   }
  ],
  "ocultar": [
@@ -116,7 +116,15 @@
   "Acampada de Lisboa vota a favor de montar tendas nos Restauradores",
   "Plataforma cívica convocou uma manifestação nacional para este sábado em Lisboa. Esta sexta-feira, António José Seguro recebe representantes do movimento e das Acampadas de Lisboa e do Porto em Belém.",
   "Acampada volta a montar as tendas em Lisboa, desta vez nos Restauradores",
-  "01h Acampada de Lisboa muda-se para os Restauradores"
+  "01h Acampada de Lisboa muda-se para os Restauradores",
+  "nadador",
+  "roubo",
+  "chave totoloto",
+  "Tom de Seguro, propostas de Pedro Nuno e uma silent disco. O arranque dos Estados Gerais de Carneiro",
+  "Passos Coelho espera que “não se percam mais 10 anos” sem reformar Segurança Social",
+  "Finanças saúda avaliação positiva da DBRS e destaca crescimento económico acima do esperado",
+  "PS criou legislação do Volta e agora \"pede contas\" à Câmara de Lisboa por causa dela? A SIC Verifica",
+  "ufc"
  ],
  "audiencias": {
   "general": {

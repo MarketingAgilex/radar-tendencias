@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España mira el Black Friday del 27 de noviembre con ganas y con cautela: tres de cada cuatro comprarán, pero la inflación aprieta y muchos aplazarán pagos, así que buscan cómo evitar engaños y el coste real de financiar. La vivienda sigue siendo la gran preocupación cotidiana y el supermercado, el gasto que más se vigila. La Navidad ya arranca con encendidos de luces y GTA VI (19 de noviembre) concentra la conversación gamer. Ganan las marcas que ayudan a gastar con cabeza.",
+ "lectura": "El Black Friday ya adelanta la Navidad en España: los consumidores compran regalos antes de diciembre, comparan para evitar engaños y miran el coste real de financiar. El encendido de luces de Vigo y su 'test de estrés' navideño abren la temporada, mientras la vivienda y la cesta de la compra siguen en la conversación. GTA VI, el karaoke y el simracing animan las búsquedas de ocio. Funcionan los mensajes de ahorro transparente, los regalos con antelación y los planes para el puente de diciembre.",
  "ideas_hoy": [
   {
-   "titulo": "Compara antes del 27",
-   "idea": "Publica hoy el precio de tus productos estrella y promete mantener o mejorar ese precio en Black Friday. Es la mejor respuesta a la desconfianza por chollos inflados.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Pagar a plazos con calma",
-   "idea": "Cinco millones se endeudarán para comprar. Si ofreces pago aplazado, enseña el coste total con un ejemplo real y la opción sin intereses si existe.",
+   "titulo": "Regalos adelantados",
+   "idea": "Los españoles aprovechan el Black Friday para comprar regalos antes de diciembre. Publica una lista 'regalos por menos de 30 €' con envío garantizado antes de Navidad.",
    "formato": "Reel"
   },
   {
-   "titulo": "Regalos antes de diciembre",
-   "idea": "Los españoles adelantan regalos de Navidad en el Black Friday. Lanza una guía 'regalos por menos de 30 euros' con tu catálogo.",
-   "formato": "Copy para anuncio"
+   "titulo": "Sin intereses, de verdad",
+   "idea": "Se recomienda mirar el coste total antes de pagar a plazos. Explica en un carrusel cuánto paga el cliente al final con tu financiación: la claridad diferencia.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Casa pequeña, ideas grandes",
-   "idea": "La vivienda es tema diario. Marcas de hogar pueden mostrar soluciones de almacenaje y decoración para pisos pequeños.",
+   "titulo": "Ruta de luces",
+   "idea": "Miles de coches entraron en Vigo por el encendido navideño. Comercio local: propón una ruta de luces con parada en tu tienda y un detalle para quien venga.",
    "formato": "TikTok"
   },
   {
-   "titulo": "La compra de la semana",
-   "idea": "Con el supermercado en el foco, alimentación y delivery pueden proponer menús semanales ajustados con sus productos.",
-   "formato": "Historias Instagram"
+   "titulo": "Karaoke para las cenas",
+   "idea": "Las comparativas de altavoces de karaoke están entre lo más leído. Electrónica y ocio: pack 'cena de empresa con karaoke' para diciembre.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Puente de diciembre",
+   "idea": "El 6 y el 8 de diciembre son festivos. Turismo, restauración y ocio: abre ya las reservas para el puente con plazas limitadas.",
+   "formato": "Publicación Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "El acceso a la vivienda es una preocupación diaria: más hogares y menos casas disponibles.",
-   "idea": "Inmobiliarias, reformas y muebles pueden informar con empatía; evita frivolizar."
+   "por_que": "Más hogares y menos casas disponibles: la vivienda es una preocupación de fondo.",
+   "idea": "Inmobiliarias y reformas: contenido útil y realista, sin prometer gangas."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Aperturas de supermercados y comparación de precios de la cesta.",
-   "idea": "Alimentación y hogar: contenido de ahorro en la compra semanal."
+   "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
+   "idea": "Alimentación y comercio local: compara tu propuesta de valor y destaca producto de proximidad."
   },
   {
    "termino": "twitch",
-   "color": "verde",
-   "por_que": "Debate en el sector del streaming en plena antesala de GTA VI.",
-   "idea": "Colaboraciones con creadores y combos gamer."
+   "color": "amarillo",
+   "por_que": "Polémica entre creadores y la dirección de Twitch por las comisiones.",
+   "idea": "Marcas: apoya a creadores con acuerdos claros; evita tomar partido en la polémica."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Ya se puede precargar GTA VI antes de su estreno del 19 de noviembre.",
-   "idea": "Tecnología y snacks: campañas de 'noche de estreno'."
+   "por_que": "Ya se puede precargar GTA VI y la expectativa es enorme.",
+   "idea": "Gaming, tecnología y comida a domicilio: packs para la noche de lanzamiento."
   },
   {
    "termino": "encendido luces vigo 2026",
    "color": "verde",
-   "por_que": "El encendido de luces de Vigo atrae visitantes y arranca la Navidad.",
-   "idea": "Hostelería y comercio local de Galicia: ofertas para quien va a ver las luces."
+   "por_que": "El encendido navideño de Vigo atrae a miles de visitantes.",
+   "idea": "Comercio, hostelería y turismo: planes y ofertas alrededor de la ruta de luces."
   }
  ],
  "ocultar": [
@@ -132,7 +132,21 @@
   "Mensajes al bajar del cayuco: “Mamá, soy Modou. Cogí un barco, llegué a España”",
   "La estrategia de Núcleo Nacional: reclutar jóvenes, agitar la calle y quedarse en la sombra",
   "Miles de personas exigen en las calles de Antalya más ambición climática a la COP31",
-  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes"
+  "Docentes catalanes detectan los primeros ‘curis’, la nueva puerta al acoso por redes",
+  "front polisario",
+  "narciso monturiol (s-82)",
+  "comisiones obreras",
+  "comprobar sueldazo",
+  "RTVE cambia de día 'El perro andaluz' por la emisión del cara a cara entre Sánchez y Feijóo",
+  "Israel asfixia la esperanza en Gaza tras más de un año de bloqueo a la reconstrucción",
+  "El ébola sigue propagándose en República Democrática del Congo",
+  "Cortes de tráfico en Madrid hoy, domingo 15 de noviembre, por varias manifestaciones y carreras: horarios y calles afectadas",
+  "Un alumno de 13 años, herido tras ser apuñalado por un trinitario de 12 años a la salida de un instituto de Madrid al grito de \"baja patria\"",
+  "Alta velocidad Madrid-Barcelona, una reforma compleja en medio de un debate incendiado",
+  "consulado",
+  "adif",
+  "La Ronda Litoral concentra en Sant Adrià el tramo con más accidentes graves de las rondas de Barcelona",
+  "ufc"
  ],
  "audiencias": {
   "general": {

@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El argentino sigue mirando el dólar antes de comprar y adelanta el Black Friday con cuotas sin interés, mientras crecen las ventas online en el interior. El clima es tema número uno: lluvias en Buenos Aires y alertas por tormentas en Salta cambian los planes del fin de semana. La Noche de los Museos rompió récord de público y los realities de streaming generan conversación diaria. Precio claro, cuotas bien explicadas y un tono cercano y con humor funcionan esta semana.",
+ "lectura": "Las lluvias y las alertas por tormentas encabezan las búsquedas, mientras Buenos Aires celebra una Noche de los Museos récord (1,4 millones de personas) y despide a Robbie Williams. El dólar tuvo una jornada agitada y el consumidor mira la cotización antes de comprar, con el Black Friday confirmado para fin de mes y el fin de semana largo del lunes 23. La farándula (De Paul y Tini, el escándalo en PH) alimenta la charla. Conviene comunicar precio final en pesos, cuotas claras y planes para el finde largo.",
  "ideas_hoy": [
   {
-   "titulo": "Plan de domingo bajo techo",
-   "idea": "Con lluvia en Buenos Aires, ofrecé planes y productos para quedarse en casa: juegos de mesa, delivery, series o talleres online, con envío en el día.",
+   "titulo": "Finde largo del 23",
+   "idea": "El lunes 23 es feriado y habrá fin de semana largo. Turismo, gastronomía y delivery: publicá ya tu propuesta para esos días con reserva anticipada.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cuotas que se entienden",
-   "idea": "Mostrá en una sola imagen precio de contado, cuotas y total final. Con el dólar en la mira, la claridad vale más que el descuento grande.",
+   "titulo": "Precio en pesos, sin vueltas",
+   "idea": "Con el dólar agitado, la gente duda antes de comprar. Mostrá el precio final en pesos congelado hasta el domingo y las cuotas sin letra chica.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Cultura que convoca",
+   "idea": "La Noche de los Museos rompió récord con 1,4 millones de personas. Galerías, librerías y cafés: contá lo que pasó en tu espacio y ofrecé un beneficio para volver.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Récord en los museos",
-   "idea": "La Noche de los Museos convocó a 1,4 millones de personas. Marcas de diseño, libros y arte pueden lanzar una 'edición museo' o una colección inspirada en la ciudad.",
-   "formato": "Historias Instagram"
+   "titulo": "Llueve, nosotros llevamos",
+   "idea": "Lluvia en CABA y alerta en Salta: es día de quedarse en casa. Lanzá una promo de 'día de lluvia' con envío incluido por tiempo limitado.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Exportá desde tu provincia",
-   "idea": "El Black Friday en el interior ya mueve miles de ventas online. Emprendedores de provincias pueden contar cómo despachan a todo el país y al exterior.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Alerta en Salta, aviso al cliente",
-   "idea": "Con tormentas en el norte, avisá con tiempo posibles demoras de envío y ofrecé retiro en punto. Un mensaje honesto evita reclamos.",
-   "formato": "Copy para anuncio"
+   "titulo": "Copiloto de lujo",
+   "idea": "Se viralizó el video de Ramón Díaz acompañando a un camionero en Entre Ríos. Hacé tu versión con el equipo de reparto: 'el copiloto de lujo de tu pedido'.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Es la búsqueda con más tráfico del país: lluvia débil y temperaturas templadas en la Capital.",
-   "idea": "Contenido útil del día (qué ponerse, planes bajo techo) con tu producto como solución."
+   "por_que": "Las búsquedas por el clima en Capital Federal son masivas por lluvias y tormentas.",
+   "idea": "Delivery, indumentaria y hogar: promos según el pronóstico del día."
   },
   {
    "termino": "lluvia",
    "color": "verde",
-   "por_que": "El pronóstico de lluvias en Buenos Aires para el fin de semana mueve búsquedas.",
-   "idea": "Paraguas, impermeables, delivery y entretenimiento en casa: promos 'día de lluvia'."
+   "por_que": "Lluvias en Buenos Aires durante el fin de semana.",
+   "idea": "Paraguas, calzado, delivery y planes bajo techo: mensajes oportunos."
   },
   {
    "termino": "rocio robles",
    "color": "amarillo",
-   "por_que": "Una polémica en un programa de streaming genera conversación entre fans.",
-   "idea": "Podés sumarte al formato del programa sin tomar partido en la pelea ni burlarte de nadie."
+   "por_que": "Escándalo de farándula en un programa de televisión.",
+   "idea": "Solo para contenido de entretenimiento; no tomes partido ni la uses en anuncios."
   },
   {
-   "termino": "clima salta",
+   "termino": "precio dolar blue",
    "color": "amarillo",
-   "por_que": "Alerta amarilla por tormentas en Salta.",
-   "idea": "Avisá posibles demoras de entrega y comunicá con calma; evitá el humor sobre el temporal."
+   "por_que": "La cotización del dólar se sigue a diario y genera ansiedad.",
+   "idea": "Mostrá precios claros en pesos y cuotas; evitá especular con el tipo de cambio."
   },
   {
-   "termino": "peru",
+   "termino": "rodrigo de paul",
    "color": "verde",
-   "por_que": "La visita del papa León XIV a Chiclayo emociona a la comunidad católica de la región.",
-   "idea": "Turismo religioso y regalos con mensaje de fe pueden comunicar con respeto, sin uso comercial forzado."
+   "por_que": "Rodrigo de Paul y Tini Stoessel anunciaron que se agranda la familia.",
+   "idea": "Marcas de bebés, regalos y celebraciones: contenido de buenas noticias, sin usar su imagen."
   }
  ],
  "ocultar": [
@@ -90,7 +90,9 @@
   "inpres san juan",
   "El río alcanzó los 5,67 metros en Santa Fe y ya son 217 las personas alojadas en Alto Verde",
   "El PJ cierra filas y busca aliados provinciales para frenar la suspensión de las PASO",
-  "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase"
+  "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
+  "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
+  "kayla harrison"
  ],
  "audiencias": {
   "general": {

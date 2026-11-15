@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Último tramo del Buen Fin con puente por el Día de la Revolución: el mexicano compra informado, compara precios con Profeco y desconfía de las ofertas que no se respetan. Celulares, pantallas, hoteles y boletos de conciertos lideran el interés, y los adultos mayores buscan qué descuentos se suman a su credencial INAPAM. La música manda en la conversación con Karol G en la CDMX y los tianguis navideños ya abrieron. Gana quien muestra precio real, garantía y atención rápida.",
+ "lectura": "Último tramo del Buen Fin, que coincide con el puente del lunes 16 por el Día de la Revolución y con la quincena: tiendas llenas en Monterrey, CDMX y Guadalajara, y restaurantes que esperan hasta 30% más ventas. El consumidor compra más informado, compara precios y Profeco ya atiende quejas por ofertas incumplidas. Conciertos (Karol G con Belinda, Garbage en el Zócalo) y realities como La Granja VIP marcan la conversación. Gana quien cumple lo que promete y entrega rápido antes del cierre.",
  "ideas_hoy": [
   {
-   "titulo": "Hoy cierra el Buen Fin",
-   "idea": "Publica un 'últimas horas' con tus tres productos más vendidos, precio antes y ahora y existencias reales. La urgencia honesta convierte mejor que el descuento inflado.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Quejas cero",
-   "idea": "Profeco ya concilió quejas por precios no respetados. Muestra cómo cumples: precio de etiqueta = precio en caja, factura y política de cambios. Es un diferenciador real esta semana.",
+   "titulo": "Última llamada Buen Fin",
+   "idea": "El Buen Fin cierra con el puente. Haz una cuenta regresiva hasta el lunes a medianoche mostrando el precio anterior real y el de hoy: Profeco monitorea y el cliente compara.",
    "formato": "Reel"
   },
   {
-   "titulo": "Descuento INAPAM + Buen Fin",
-   "idea": "Muchos buscan si ambos descuentos se combinan. Si tu negocio acepta INAPAM, explícalo claro y dirige el contenido a los hijos que compran para sus papás.",
-   "formato": "Facebook"
+   "titulo": "Puente más quincena",
+   "idea": "Los restaurantes prevén hasta 30% más ventas por Buen Fin, puente y quincena. Lanza un combo 'de puente' o un beneficio por reservar hoy; otros negocios pueden usar 'cayó la quincena, aprovecha'.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Ya llegó el tianguis navideño",
-   "idea": "Con los tianguis navideños abiertos en Jalisco, artesanos y pequeños productores pueden anunciar su punto de venta y ofrecer envío para quien no pueda ir.",
+   "titulo": "El precio que sí respetamos",
+   "idea": "Hay quejas por precios no respetados en grandes tiendas. Muestra que el precio en caja es el anunciado y explica tu garantía: la confianza es tu ventaja frente a los grandes.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Outfit de concierto",
+   "idea": "Karol G sorprendió con Belinda en CDMX y Garbage reunió a 90 mil en el Zócalo. Moda y maquillaje: haz un 'arréglate conmigo para el concierto' con tus productos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Regala una experiencia",
-   "idea": "Ticketmaster y hoteles tienen descuentos del Buen Fin. Marcas de moda, belleza o transporte pueden armar el combo 'outfit + boleto' para conciertos de fin de año.",
-   "formato": "Copy para anuncio"
+   "titulo": "Kit contra el frío",
+   "idea": "El frente frío 5 y el granizo llegaron a Puebla. Promociona chamarras, cobijas o bebidas calientes como 'kit anti frío' con entrega durante el puente.",
+   "formato": "Publicación Facebook"
   }
  ],
  "semaforo": [
   {
    "termino": "inapam",
-   "color": "verde",
-   "por_que": "Los adultos mayores buscan pagos y descuentos con su credencial, en pleno Buen Fin.",
-   "idea": "Comercios pueden comunicar descuentos para adultos mayores con mensajes claros y respetuosos."
+   "color": "amarillo",
+   "por_que": "Muchas personas mayores buscan información del próximo pago del programa; es un tema sensible de ingresos.",
+   "idea": "No prometas pagos ni uses el programa como gancho; marcas para adultos mayores pueden ofrecer descuentos con credencial de forma clara."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "El Buen Fin llegó a la venta de boletos con descuentos en conciertos y espectáculos.",
-   "idea": "Regalar experiencias: kits para conciertos, transporte o cenas antes del show."
+   "por_que": "Ticketmaster se sumó al Buen Fin con descuentos en conciertos y festivales.",
+   "idea": "Bares, transporte y moda: 'arma tu plan de concierto' con promos complementarias."
   },
   {
    "termino": "mexico va",
    "color": "amarillo",
-   "por_que": "Circulan rumores de un apagón el 17 de noviembre; los medios aclaran qué es cierto.",
-   "idea": "Evita alimentar el rumor; marcas de energía o tecnología pueden informar con datos verificados."
+   "por_que": "Circula la duda de un apagón el 17 de noviembre; los medios aclaran qué se sabe.",
+   "idea": "No alimentes el rumor; tecnología y energía pueden ofrecer respaldo real con datos."
+  },
+  {
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "El frente frío 5 trae granizo y bajas temperaturas a Puebla y el centro.",
+   "idea": "Ropa de abrigo, seguros de auto y hogar: consejos útiles y ofertas, con empatía."
   },
   {
    "termino": "karol g",
    "color": "verde",
-   "por_que": "La alfombra roja del Latin Grammy 2026 puso a artistas latinas en la conversación de moda.",
-   "idea": "Moda y belleza: recrea looks inspirados en la gala con productos accesibles."
-  },
-  {
-   "termino": "votaciones la granja vip votar",
-   "color": "verde",
-   "por_que": "El reality La Granja VIP mantiene a la audiencia votando y comentando cada semana.",
-   "idea": "Contenido ligero con referencias al reality y dinámicas de participación con tu marca."
+   "por_que": "Karol G brilla en los Latin Grammy y en su concierto en CDMX.",
+   "idea": "Moda, belleza y música: contenido inspirado en sus looks, sin usar su imagen en anuncios."
   }
  ],
  "audiencias": {
@@ -1022,6 +1022,14 @@
   "🚕 Elementos de la SSC de CdMx detuvieron a Israel ‘N’, señalado como presunto responsable de asaltar a una mujer que, por desesperación, se lanzó de un taxi en movimiento en la alcaldía Magdalena Contreras. 📹: Carlos Jiménez",
   "Junto a ti este Buen Fin, más de mil 700 policías auxiliares cuidan la tranquilidad de las familias michoacanas",
   "De alerta en Sosafe a un paseo en scooter: el hombre de la bata en La Florida que se volvió viral",
-  "Buque petrolero choca contra crucero con 129 pasajeros en el río Misisipi"
+  "Buque petrolero choca contra crucero con 129 pasajeros en el río Misisipi",
+  "karina torres",
+  "Cae uno de 'Los R's' tras enfrentamiento en Jalisco",
+  "Morena cuestiona a Fox por retractarse de sus dichos sobre triunfo de Calderón",
+  "La carta de clemencia del hermano de El Mencho a jueza en EEUU: “Éramos pobres, siete hermanos y mi padre nos abandonó”",
+  "Ensenada activa operativo de emergencia por fuertes lluvias; rescatan a hombre atrapado en Valle Dorado",
+  "En Portugal, miles protestan contra el encarecimiento de la vida; se movilizan en más de 30 ciudades",
+  "Anuncian salida de 2 Secretarios de Monterrey",
+  "colette kress nvidia"
  ]
 }

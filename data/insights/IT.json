@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Los italianos se adelantan: tres de cada cuatro anticiparán regalos de Navidad en el Black Friday, con un gasto estimado de 4.300 millones de euros y presupuesto más ajustado, por lo que buscan cómo reconocer descuentos falsos. Televisores OLED, celulares y aceite de oliva más barato aparecen entre los temas de consumo. La televisión de los sábados (Ballando con le Stelle, Grande Fratello) domina la conversación y GTA VI acapara a los gamers. Funciona hablar de calidad, ahorro inteligente y tradición.",
+ "lectura": "Para el Black Friday se prevé un gasto de 4.300 millones de euros en Italia y tres de cada cuatro italianos adelantarán los regalos de Navidad, aunque con presupuestos a la baja por una inflación que se nota en el carrito del súper. 'Ballando con le Stelle' domina la conversación del sábado y crece la preocupación por la seguridad de los dispositivos inteligentes del hogar. La pérdida de una estrella Michelin de Cannavacciuolo y los mercados vintage de Milán muestran un público atento a la gastronomía y al consumo consciente. Ahorro real, regalos anticipados y seguridad digital conectan.",
  "semaforo": [
   {
-   "termino": "ornella muti",
+   "termino": "monica guerritore luca urso",
    "color": "verde",
-   "por_que": "La actriz es protagonista en Ballando con le Stelle, uno de los programas más vistos del sábado.",
-   "idea": "Moda y belleza: looks de gala inspirados en el programa; evita temas personales de los participantes."
+   "por_que": "'Ballando con le Stelle' y sus parejas lideran la conversación televisiva.",
+   "idea": "Moda, belleza y snacks: contenido para la noche del sábado frente a la tele."
   },
   {
    "termino": "attacchi hacker",
    "color": "amarillo",
-   "por_que": "Se explica cómo proteger aspiradoras, televisores y cámaras inteligentes de ataques informáticos.",
-   "idea": "Tecnología y seguros: consejos prácticos de seguridad, sin alarmismo."
+   "por_que": "Preocupa la seguridad de los dispositivos inteligentes del hogar.",
+   "idea": "Tecnología y seguros: consejos útiles y productos de protección, sin meter miedo."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Se busca cómo prepararse para el lanzamiento y cuánto espacio liberar en la consola.",
-   "idea": "Tiendas gamer: discos externos, consolas y packs de lanzamiento."
-  },
-  {
-   "termino": "jimmy ghione",
-   "color": "amarillo",
-   "por_que": "El presentador habló de su separación; tema personal.",
-   "idea": "No lo uses comercialmente; si acaso, empatía y respeto."
+   "por_que": "Los jugadores se preparan para el lanzamiento de GTA 6.",
+   "idea": "Gaming y tecnología: almacenamiento, accesorios y packs de lanzamiento."
   },
   {
    "termino": "cannavacciuolo stella michelin",
-   "color": "verde",
-   "por_que": "El chef perdió una estrella Michelin y habló de ello con humildad.",
-   "idea": "Restauración: contenido sobre superarse y la calidad diaria; nada de burlas."
+   "color": "amarillo",
+   "por_que": "El chef perdió una estrella Michelin y reconoció errores.",
+   "idea": "Gastronomía: habla de calidad y mejora continua; evita burlarte del caso."
+  },
+  {
+   "termino": "meteo roma",
+   "color": "amarillo",
+   "por_que": "Alerta amarilla por lluvia en Roma este domingo.",
+   "idea": "Delivery, paraguas y planes bajo techo: mensajes oportunos."
   }
  ],
  "audiencias": {
@@ -1186,33 +1186,39 @@
   "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
   "Paolo Agnelli (Confimi) :\"La manovra è evanescente, il taglio dell'Irpef offensivo\"",
   "A Milano poche centinaia per il nuovo corteo di 'Italia in piazza'",
-  "Milano, quattro arresti della Polizia di Stato nel fine settimana."
+  "Milano, quattro arresti della Polizia di Stato nel fine settimana.",
+  "Malore all'Estragon, una donna muore al concerto di Elisa",
+  "Russia, crisi benzina: le riserve potrebbero durare una settimana. Mosca teme razionamento e file ai distributori",
+  "Il mondo della finanza scrive a Meloni: “Un errore il raddoppio della Tobin tax”",
+  "Così cambia la Manovra: sanità, scuola e imprese. La partita su Exit tax e pensioni",
+  "ornella muti",
+  "bari - foggia"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Regali in anticipo",
-   "idea": "Tres de cada cuatro italianos anticiparán regalos de Navidad. Lanza una guía de regalos por rangos de precio con tu catálogo.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Sconto vero",
-   "idea": "Altroconsumo enseña a reconocer un descuento real. Muestra el historial de precio de tus productos para generar confianza.",
+   "titulo": "Regalo anticipado",
+   "idea": "Tres de cada cuatro italianos adelantarán regalos con el Black Friday. Publica una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) con envío antes de Navidad.",
    "formato": "Reel"
   },
   {
    "titulo": "Casa inteligente y segura",
-   "idea": "Se busca cómo proteger aparatos del hogar de ataques informáticos. Marcas de tecnología pueden dar consejos y ofrecer equipos seguros.",
-   "formato": "LinkedIn"
+   "idea": "Se busca cómo proteger aspiradoras robot, smart TV y routers de intrusiones. Tiendas de tecnología y aseguradoras: carrusel con 5 pasos simples de seguridad.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Aceite más barato, cesta más rica",
-   "idea": "El precio del aceite cayó 26%. Productores y tiendas gourmet pueden armar cestas navideñas con aceite, pasta y vino.",
+   "titulo": "Descuento verdadero",
+   "idea": "Codacons alerta sobre contenidos falsos hechos con IA en Black Friday. Usa un copy con precio de referencia y la garantía de 'sconto vero, verificabile'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Noche de Ballando",
-   "idea": "Ballando con le Stelle reúne audiencias. Moda y belleza pueden recrear un look de la pista en un video corto.",
+   "titulo": "Vintage que gusta",
+   "idea": "El Remira Market de Milán conquista con moda vintage de entrada gratuita. Tiendas de segunda mano: haul de prendas para las fiestas con precios.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "La cocina por dentro",
+   "idea": "La estrella Michelin perdida por Cannavacciuolo abrió el debate gastronómico. Restaurantes: muestra tu cocina y tu plato estrella, y abre reservas para las fiestas.",
+   "formato": "Publicación Instagram"
   }
  ]
 }

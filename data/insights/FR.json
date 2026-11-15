@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-15T05:00:00Z",
+ "actualizado": "2026-11-15T09:05:21Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia ya vive el Black Friday en tecnología: Darty, Fnac, Amazon y Back Market rebajan celulares, consolas, audio y pequeños electrodomésticos, y los reacondicionados ganan terreno. Las estaciones de servicio con desabastecimiento de combustible preocupan en algunas zonas, mientras la televisión sigue reuniendo audiencias con Star Academy y la programación del sábado. GTA VI promete mover el consumo gamer y las casas con encanto inspiran a quienes sueñan con cambiar de vida. Comunica con precio claro, garantía y buen gusto.",
+ "lectura": "Los franceses combinan sofá y compras: la Star Academy y 'N'oubliez pas les paroles' lideran las búsquedas, mientras el pre-Black Friday mueve muebles y descanso (Maisons du Monde, Emma), relojes deportivos y móviles, con interés creciente por lo reacondicionado. Una de cada diez gasolineras reporta falta de stock y el sur sigue en vigilancia por lluvias, lo que suma cautela. GTA VI y la Switch 2 anticipan un fin de año gamer. Ganan las ofertas útiles para el hogar, el reacondicionado con garantía y el contenido de entretenimiento.",
  "ideas_hoy": [
   {
-   "titulo": "Reacondicionado con garantía",
-   "idea": "Back Market rebaja iPhones a menos de la mitad. Si vendes reacondicionados, destaca garantía, batería y procedencia para ganar confianza.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Setup para GTA VI",
-   "idea": "Fnac vacía stocks gaming antes del lanzamiento. Tiendas de tecnología pueden armar el 'setup ideal' con pantalla, mando y audio.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Prime de sábado",
-   "idea": "Star Academy reúne a los jóvenes cada semana. Marcas de belleza y moda pueden recrear un look del programa.",
+   "titulo": "Noche de Star Academy",
+   "idea": "La Star Academy arrasa en las búsquedas del sábado. Snacks, belleza o moda: graba tu reacción al prime con tu producto en escena.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cocina con descuento",
-   "idea": "Licuadoras y pequeños electrodomésticos lideran ofertas. Muestra una receta rápida con tu producto y el precio del Black Friday.",
-   "formato": "Copy para anuncio"
+   "titulo": "Reacondicionado inteligente",
+   "idea": "Crecen las guías para comprar un smartphone reacondicionado al buen precio. Explica tu garantía, el estado de la batería y la devolución: es lo que frena la compra.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Box de regalo",
-   "idea": "Las cajas por suscripción ofrecen códigos de Black Friday. Emprendedores pueden lanzar una caja navideña con código exclusivo para su comunidad.",
-   "formato": "Historias Instagram"
+   "titulo": "Salón listo para Navidad",
+   "idea": "Las ofertas de Maisons du Monde se agotan. Decoración y hogar: muestra un antes y después del salón para las fiestas con precios visibles.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Obras que inspiran",
+   "idea": "Una pareja que compró una casona vive hoy de contar su reforma. Bricolaje y construcción: lanza una serie semanal de obra real con tus productos.",
+   "formato": "YouTube"
+  },
+  {
+   "titulo": "Temporada de setas",
+   "idea": "La temporada de cèpes se alarga en Dordoña. Gastronomía y tiendas gourmet: recetas de otoño y cajas regalo para Navidad.",
+   "formato": "Publicación Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El prime de Star Academy es lo más buscado del fin de semana.",
-   "idea": "Moda, belleza y snacks: contenido ligado al programa para públicos jóvenes."
+   "por_que": "El programa musical lidera la conversación del fin de semana.",
+   "idea": "Entretenimiento, belleza y snacks: contenido de reacción y planes de sábado."
   },
   {
    "termino": "maison",
    "color": "verde",
-   "por_que": "Historias de compra y renovación de casas generan mucho interés.",
-   "idea": "Inmobiliarias, decoración y bricolaje: inspiración de reformas con presupuesto."
+   "por_que": "Interesa la historia de una pareja que compró y reformó una gran casa a bajo precio.",
+   "idea": "Inmobiliarias, reformas y deco: contenido inspirador de proyectos reales."
   },
   {
    "termino": "hugues aufray",
-   "color": "verde",
-   "por_que": "El cantante de 97 años habla tras el aplazamiento de su gira.",
-   "idea": "Nostalgia musical para públicos mayores; tono respetuoso."
+   "color": "amarillo",
+   "por_que": "El cantante de 97 años aplazó varios conciertos y habló sobre los rumores.",
+   "idea": "Evita especular sobre su salud; solo contenido musical respetuoso."
   },
   {
-   "termino": "programme télé ce soir",
+   "termino": "brigitte bardot",
    "color": "verde",
-   "por_que": "Los franceses consultan la programación de televisión del sábado.",
-   "idea": "Snacks, delivery y streaming: campañas de 'noche de tele en casa'."
+   "por_que": "La casa de Brigitte Bardot en Saint-Tropez abrirá al público el próximo verano.",
+   "idea": "Turismo y estilo de vida: contenido de la Riviera y escapadas, sin usar su imagen en anuncios."
   },
   {
    "termino": "il faut brûler maman",
    "color": "verde",
-   "por_que": "Una película recibe excelentes críticas del público.",
-   "idea": "Cultura y entretenimiento: recomendaciones de fin de semana."
+   "por_que": "La película recibe muy buenas críticas del público.",
+   "idea": "Cine y ocio: planes de estreno y recomendaciones de fin de semana."
   }
  ],
  "audiencias": {
@@ -1230,6 +1230,16 @@
   "Eliot Deval : «Les députés ont choisi la liberté d'expression plutôt que de débattre sur la fermeture d'une chaîne»",
   "Entre élégance et simplicité, Brigitte Macron mise sur un col lavallière et un tailleur-pantalon beige au Cambodge",
   "Une filiale de La Poste victime d’une cyberattaque massive, les données de 22 millions de personnes volées",
-  "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés"
+  "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+  "le pays malouin",
+  "« Le droit de blesser n’existe pas »… La vente de mortiers suspendue",
+  "Les Gardiens iraniens de la Révolution disent avoir attaqué une base militaire américaine au Bahreïn avec des drones",
+  "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
+  "A Lyon, des journalistes de BFM-TV agressés en marge de la manifestation, la préfecture dénonce « une volonté de lynchage »",
+  "Somment de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+  "Zelensky dit que Washington a proposé des concessions territoriales en échange d'une adhésion à l'Otan",
+  "Stress et règlements de compte interne… Ambassadeur russe est-il le métier le plus dangereux au monde ?",
+  "Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes concernées… Ce que l’on sait",
+  "ciryl gane hokit"
  ]
 }
