@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Sinterklaas ya llegó a Ámsterdam, con miles de niños en los canales pese a que el barco de vapor no pudo atracar por un puente averiado, y arranca la cuenta atrás al pakjesavond del 5 de diciembre. El Black Friday mueve ofertas en Gymshark, Nike, Decathlon, Pixel, iPhone y tarifas sim only, aunque crece la duda sobre comprar de forma consciente. Un estudio muestra que los influencers de IA convencen cuando parecen humanos, y la gastronomía belga con Wout Bru y Piet Huysentruyt despierta interés. Sorpresa, ofertas honestas y comunicación cercana ganan hoy.",
+ "lectura": "Con el nuevo Sinterklaas ya en el país, Países Bajos entra en modo pakjesavond: las familias planean cuándo poner el zapato y los regalos hasta el 5 de diciembre, y crecen iniciativas solidarias como Sintvoorieder1. A once días del Black Friday las ofertas se adelantan en gaming (PS5, Switch 2), auriculares de regalo y movilidad, y Albert Heijn conquista a las familias con su Winterdorp de madera para construir. La alerta de seguridad de una leche UHT en Lidl recuerda el valor de la transparencia en alimentación, y el giro a un otoño ventoso y lluvioso impulsa paraguas, chaquetas y planes gezellig en casa. Sorpresa familiar, ofertas honestas y comunicación clara funcionan hoy.",
  "semaforo": [
   {
-   "termino": "wout bru",
-   "color": "verde",
-   "por_que": "Dos chefs icónicos cocinan juntos una noche especial y generan interés gastronómico.",
-   "idea": "Restaurantes y gourmet: experiencias de chef y cajas de cena para las fiestas."
-  },
-  {
-   "termino": "hunger games",
-   "color": "verde",
-   "por_que": "La saga vuelve a la conversación con reseñas y maratones antes de nuevos estrenos.",
-   "idea": "Streaming, cines y merchandising: maratón de fin de semana y productos temáticos."
-  },
-  {
    "termino": "gijs naber",
-   "color": "verde",
-   "por_que": "El actor es el nuevo Sinterklaas y la búsqueda se dispara.",
-   "idea": "Juguetes, dulces y regalos: contenido familiar del Sint con tono festivo."
+   "color": "amarillo",
+   "por_que": "El actor que asume el papel del Sint dispara las búsquedas, pero para los niños Sinterklaas es real.",
+   "idea": "Usa la llegada del Sint en contenido familiar sin mencionar al actor; deja la noticia para contenido dirigido a adultos."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada del barco de vapor a Ámsterdam se siguió en directo.",
-   "idea": "Marcas familiares: contenido de la llegada y cuenta atrás al pakjesavond."
+   "por_que": "La llegada del barco de vapor se siguió en directo en todo el país.",
+   "idea": "Pastelerías y jugueterías: chocoladeletters o figuras del barco con cuenta atrás hasta el 5 de diciembre."
+  },
+  {
+   "termino": "houdbare melk lidl bacteriën",
+   "color": "amarillo",
+   "por_que": "Alerta de seguridad alimentaria sobre una leche UHT; tema sensible para las familias.",
+   "idea": "Marcas de lácteos y alimentación: comunica trazabilidad y controles propios, sin aprovechar el problema de otra marca."
   },
   {
    "termino": "de frogers",
    "color": "verde",
-   "por_que": "Interés por la familia de un programa de televisión.",
-   "idea": "Contenido familiar ligero sin opinar sobre su vida privada."
+   "por_que": "El interés por esta gran familia televisiva conecta con las familias numerosas y reconstituidas.",
+   "idea": "Tiendas de regalos: guía 'Sinterklaas para familias grandes' con detalles para todos dentro de un presupuesto."
+  },
+  {
+   "termino": "stoomboot",
+   "color": "verde",
+   "por_que": "El barco no pudo seguir por un puente averiado y el Sint llegó en otra embarcación: anécdota simpática.",
+   "idea": "Ecommerce y logística: humor seco con 'hasta el Sint necesita un plan B' para explicar tus opciones de entrega antes del pakjesavond."
   }
  ],
  "audiencias": {
@@ -1158,33 +1158,73 @@
   "'Jamming' in luchtruim rond Schiphol: 'We zijn beide gps-systemen kwijt'",
   "Remco wist dat hij niet oud zou worden met Louna, maar wilde haar 14de verjaardag nog meemaken",
   "Dode gevonden in het water in Koudekerk, politie doet onderzoek",
-  "De zaak-Huang maakt duidelijk hoe riskant het bestuursmodel van de AI-sector is"
+  "De zaak-Huang maakt duidelijk hoe riskant het bestuursmodel van de AI-sector is",
+  "vvd d66 cda",
+  "ben saunders",
+  "stephan van baarle",
+  "thom de graaf",
+  "denk",
+  "dochter",
+  "crisisoverleg kabinet",
+  "Een meisje uit Hanoi ontving tijdens het filmen van een video onverwachts een brief van de voorzitter van de provincie Cao Bang.",
+  "Influencer Vera Dijkmans ‘in tranen’ in detentiecentrum ICE, moeder demonstreert voor de deur: ‘Dit is mensonterend’",
+  "Vogelgriep dichtbij Overijssel: 60.000 kippen worden geruimd",
+  "Coalitie heeft de oplossing nog niet: maandag verder in het Catshuis",
+  "Wat als er iedere dag een paar F-35’s vlak boven je percelen opstijgen of landen? ‘Dat is inderdaad een zorg’",
+  "Israël geeft toe dat er veel te weinig humanitaire hulp Gaza binnenkomt",
+  "Voor honderdduizenden Tsjechen is de maat vol: van de publieke omroep blijf je af",
+  "VS legt pijnlijk vredesvoorstel op tafel: Donbas weg in ruil voor Navo-lidmaatschap",
+  "’Jensen Huang overweegt comeback als topman van Nvidia na affaire-onthullingen’",
+  "Persoon te water Tasmanstraat in Amsterdam",
+  "Jeroen moest na ski-ongeluk van Mettom-oprichter Rob in één klap het bedrijf runnen: ‘Ik had grote schoenen te vullen’",
+  "Wat is er toch aan de hand met de zoon van Mette-Marit? Dit is het verhaal achter de veelbesproken Marius Borg Høiby",
+  "Afgebrande kiosk Bartje Bloemen inzet van ruzie tussen wethouder Çimen en eigenaar Rijkmans. ’Binnen twee weken moet kraam weg’",
+  "Onis Welzijn houdt infomiddag over Parkinson: 'Het gaat erom wat mensen met de ziekte aan de voorkant zelf kunnen doen'",
+  "Mannen met laag testosteron hebben mogelijk meer kans op kanker",
+  "’Zonder regels wordt het survival of the fittest’: Noord-Holland gaat debat over AI aan",
+  "AI-oplichters in Engeland persen baasjes af met nepfoto’s van vermist huisdier: ’Ze dreigden mijn kat te doden’",
+  "Meerdere honden gedumpt in bossen in Ravels: \"Vermoedelijk door een broodfokker\"",
+  "Nepagent komt in Beuningen sieraden en geld ophalen",
+  "GPS-signaal van meerdere vluchten boven Schiphol verstoord: 'Gaat vaker gebeuren'",
+  "54 arrestaties bij grote politieactie in Antwerpen: 124.000 euro cash, Pokémonkaarten en illegale vapes in beslag genomen",
+  "Conferentie in Hasakah over de integratie van de Universiteit van Rojava",
+  "Streep door verhoging toeristenbelasting in Katwijk, hondenbelasting omlaag",
+  "Als de VVD in haar eentje opstapt, kunnen D66 en CDA met links verder",
+  "Crypto-insiders rekenen niet op positieve ontwikkelingen tijdens de 'lame duck'-zitting van het Congres",
+  "Omstanders bieden vrouw hulp aan nadat ze met auto in water belandt",
+  "Fietser overlijdt na ongeluk in Oudewater, ambulance botst onderweg tegen auto",
+  "Vrouw belandt met auto in het water in Sprang-Capelle, maar weet voertuig snel te verlaten",
+  "Bemanning redt inzittenden gezonken auto",
+  "Eenzijdig auto ongeluk op Kapelstraat in Maasbommel",
+  "Deventenaar Johan (69) rijdt met auto vol hulpgoederen naar oorlogsgebied Oekraïne",
+  "Senaatsrepublikeinen eisen getuigenis Lutnick over export Nvidia AI-chips naar China",
+  "Binnenvaartschip schiet te water geraakte auto te hulp"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cadeautjes para el zapato",
-   "idea": "Con Sinterklaas en el país, empieza la temporada de regalos para el zapato. Arma una selección de 'schoencadeautjes' por menos de 10 euros con envío antes del 5 de diciembre.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Wanneer mag de schoen?",
+   "idea": "Un padre creó un 'Buienradar voor Pieten' para que los niños sepan cuándo poner el zapato. Jugueterías y dulcerías: publica un calendario semanal de schoen zetten con un detalle por menos de 5 euros para cada noche.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Black Friday consciente",
-   "idea": "Muchos dudan si comprar este año. Comunica tus descuentos con un mensaje de compra consciente: lo que dura, lo que se repara y lo que de verdad necesitas.",
+   "titulo": "Sint voor iedereen",
+   "idea": "La campaña Sintvoorieder1 recoge regalos para niños de familias con menos recursos. Marcas y tiendas: ofrece un punto de recogida o un 'compra uno, dona uno' y muestra el resultado real con transparencia.",
    "formato": "Reel"
   },
   {
-   "titulo": "Influencer humano gana",
-   "idea": "Un estudio dice que los influencers de IA solo convencen cuando actúan como humanos. Apuesta por tu equipo real mostrando el detrás de escena de tu negocio.",
+   "titulo": "Lekker droog de winter in",
+   "idea": "El tiempo gira a un otoño ventoso y lluvioso, y el lila y el berenjena siguen siendo el color de la temporada. Moda y outdoor: un look 'regenproof' completo en esos tonos, con precio total y entrega al día siguiente.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Vuurwerkrust voor je hond",
+   "idea": "Adiestradores recomiendan no esperar a Nochevieja para trabajar el miedo de los perros a los fuegos artificiales. Tiendas de mascotas: plan de seis semanas en vídeos cortos con ejercicios y productos de apoyo.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Corre con descuento",
-   "idea": "Nike y Decathlon rebajan zapatillas de running y bicicletas. Tiendas deportivas: 'tu plan de invierno para seguir corriendo' con productos en oferta.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Cena de chefs en casa",
-   "idea": "La cena conjunta de Wout Bru y Piet Huysentruyt despierta curiosidad. Restaurantes: una edición especial de temporada o caja para cocinar en casa con receta de chef.",
-   "formato": "Historia Instagram"
+   "titulo": "Repareren als deal",
+   "idea": "Abren tiendas de ropa gratis y los Repaircafés ganan público mientras se acerca el Black Friday. Emprendedores: presenta un servicio de reparación o segunda vida como alternativa a comprar nuevo, con datos de cuánto se ahorra.",
+   "formato": "LinkedIn"
   }
  ]
 }

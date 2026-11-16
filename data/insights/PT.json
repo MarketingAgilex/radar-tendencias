@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La lluvia fuerte vuelve a poner seis distritos en aviso amarillo y el frío ya se nota: Lidl agota la conversación con una colcha acolchada barata estilo Zara Home. El portugués prepara el Black Friday con adidas, cafeteras y auriculares en oferta, pero los medios alertan de sitios falsos y voces clonadas. La precarga de GTA VI batió récords de tráfico en internet y la caída de Microsoft 365 dio protagonismo a LibreOffice. Ofertas verificables, confort para el invierno y seguridad digital conectan hoy.",
+ "lectura": "El consumidor portugués ya compra en modo Black Friday, pero con la cabeza fría: busca ahorrar en los regalos de Navidad sin caer en compras por impulso y compara antes de pagar. Destacan las cafeteras que prescinden de las cápsulas, las zapatillas clásicas de adidas, las colecciones de anime y el gaming, con PS Plus y juegos de rol en promoción mientras crece la expectativa por GTA VI. El Grammy Latino de Dino D'Santiago despierta orgullo por la música portuguesa, y los festivos del martes 1 y del martes 8 de diciembre abren dos 'pontes' perfectas para escapadas y compras navideñas. Ofertas claras, regalos con propósito y planes para esos puentes conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Aconchego para a chuva",
-   "idea": "Con aviso amarillo por lluvia y la colcha del Lidl en boca de todos, las marcas de hogar pueden mostrar su 'kit de sofá' (manta, té, luz cálida) con envío rápido.",
+   "titulo": "Orgulho em português",
+   "idea": "Dino D'Santiago se llevó un Grammy Latino y la música portuguesa está en boca de todos. Cafés, tiendas y marcas locales pueden compartir su playlist 'made in Portugal' para la temporada navideña y pedir a su comunidad que sume canciones.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin burlas",
-   "idea": "Crecen las alertas por sitios falsos y voces clonadas. Explica cómo reconocer tu tienda oficial y tus canales reales; la confianza vale más que el descuento.",
+   "titulo": "Café sem cápsulas",
+   "idea": "Las cafeteras superautomáticas aparecen entre las ofertas previas al Black Friday. Tiendas de electrodomésticos y tostadores: compara el costo por taza frente a las cápsulas y suma un pack de café en grano como regalo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Zapatillas clásicas en oferta",
-   "idea": "Samba y Gazelle están entre las ofertas más comentadas. Tiendas de moda: un video de 'tres formas de combinarlas' con precio de Black Friday.",
+   "titulo": "Gaming a preço fixe",
+   "idea": "PS Plus y los juegos de rol están en promoción y la expectativa por GTA VI no baja. Tiendas de tecnología y accesorios: arma un 'kit gamer de invierno' (suscripción, mando, auriculares) y muéstralo en 30 segundos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Si la nube falla",
-   "idea": "La caída de Microsoft 365 hizo que muchas empresas buscaran alternativas. Proveedores de software: contenido práctico sobre copias de seguridad y continuidad del negocio.",
-   "formato": "LinkedIn"
+   "titulo": "Bora fazer ponte?",
+   "idea": "El 1 y el 8 de diciembre caen en martes, así que muchos harán puente el lunes. Alojamientos rurales, restaurantes y experiencias: lanza ya una oferta de escapada de tres días con reserva anticipada.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Navidad con presupuesto",
-   "idea": "Los medios calculan cuántos regalos ofrece cada portugués. Arma una guía 'un regalo por persona y por menos de 20 euros' para la familia.",
-   "formato": "Copy para anuncio"
+   "titulo": "Advento com outro sabor",
+   "idea": "Se critican los calendarios de Adviento de supermercado por su exceso de azúcar. Marcas de té, cosmética, juguetes o snacks saludables pueden presentar su calendario alternativo y abrir preventa antes del 1 de diciembre.",
+   "formato": "Historia Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "autoestrada",
+   "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "Un país europeo evalúa bajar la velocidad en autopistas por la crisis de combustibles.",
-   "idea": "Movilidad y autos: consejos de conducción eficiente y ahorro de combustible, sin alarmismo."
-  },
-  {
-   "termino": "inteligência artificial",
-   "color": "verde",
-   "por_que": "Debate sobre cómo la IA sustituye las pizarras a tiza de los restaurantes.",
-   "idea": "Restauración y tecnología: muestra cómo combinas lo artesanal y lo digital."
-  },
-  {
-   "termino": "cristina ferreira",
-   "color": "verde",
-   "por_que": "Conversación sobre programas de TV y reality.",
-   "idea": "Contenido de entretenimiento ligero sin opinar sobre personas."
-  },
-  {
-   "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Previsión de inestabilidad y granizo en algunas zonas.",
-   "idea": "Mensajes de servicio y productos para mal tiempo."
+   "por_que": "Una falla técnica en Estados Unidos obligó a cancelar miles de vuelos y genera dudas entre quienes viajan.",
+   "idea": "Agencias y turismo: checklist práctico para viajar en temporada alta (seguro, tarifas flexibles, avisos de la aerolínea), sin alarmismo."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Cortes programados de electricidad en varias zonas de Portugal.",
-   "idea": "Avisos útiles y productos de respaldo energético, sin aprovechar la molestia."
+   "por_que": "Hubo cortes programados de electricidad en varias zonas del país.",
+   "idea": "Tecnología y hogar: power banks y luces recargables como regalo práctico, con tono útil y sin aprovechar la molestia."
+  },
+  {
+   "termino": "playstation",
+   "color": "verde",
+   "por_que": "La precarga de GTA VI batió récords y hay promociones de PS Plus y juegos.",
+   "idea": "Tiendas de gaming: bundle de suscripción y accesorios, o una noche de juego en tienda para la comunidad."
+  },
+  {
+   "termino": "dino santiago",
+   "color": "verde",
+   "por_que": "El artista portugués ganó un Grammy Latino y genera orgullo nacional.",
+   "idea": "Marcas locales: contenido celebrando la música hecha en Portugal, sin usar su imagen sin permiso."
+  },
+  {
+   "termino": "calor",
+   "color": "amarillo",
+   "por_que": "El término viene de un pronóstico de otro país; en Portugal predominan la lluvia y el frío.",
+   "idea": "Úsalo solo en contraste: turismo de 'escapada al sol' o bebidas calientes para el frío local."
   }
  ],
  "ocultar": [
@@ -111,7 +111,38 @@
   "Cidadãos tentam travar venda de terrenos da Câmara de Lisboa que estavam destinados a habitação acessível",
   "Estónia encerra fronteira terrestre com a Rússia dia 1 após tentativa de sabotagem contra fábrica de drones",
   "ANIMAL protesta contra a matança de cães em Marrocos",
-  "Centros de dados debaixo de fogo: Edimburgo protesta nas ruas e bolsa penaliza IA"
+  "Centros de dados debaixo de fogo: Edimburgo protesta nas ruas e bolsa penaliza IA",
+  "exército brasileiro",
+  "daniela pimenta",
+  "volodymyr zelensky",
+  "Wanda Nara arrasadora visa namorada de Icardi: «Aprende a chupar p... como eu e sais-te melhor»",
+  "Jovem goiano recria brilho azul do césio-137 e viraliza nas redes sociais; veja",
+  "A disseminação de infecções por HIV ocorre nas redes sociais: Ministério da Saúde exige medidas rigorosas.",
+  "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio",
+  "Chega aprovará apoios a habitação e combustíveis no OE2017",
+  "\"O PS não é a casa de democratas cristãos”: Melo ataca ex-dirigentes do CDS presentes nos estados-gerais e repudia “turba” das acampadas",
+  "Líderes da UE incluem Itália e Polónia na equipa de negociações de paz na Ucrânia, Kallas sem lugar",
+  "Movimento Acampada de Lisboa pretende ficar nos Restauradores até ao fim da semana",
+  "Acampada de Lisboa decide manter tendas nos Restauradores até sábado",
+  "Acampada de Lisboa decide manter tendas na Praça dos Restauradores até sábado",
+  "Acampada de Lisboa decide manter-se nos Restauradores até ao próximo sábado",
+  "Carneiro aponta “silêncio cúmplice” de Montenegro na saúde",
+  "Sarampo nos EUA. “Desinformação é um dos principais problemas” de saúde pública",
+  "OMS alerta que epidemia de ébola continua a alastrar",
+  "Deputado Fábio Tardin torra meio milhão do dinheiro público para decoração de Natal; valor daria para construir 4 casas populares | RepórterMT - Notícias de Mato Grosso e Cuiabá Hoje",
+  "108 cães e gatos desnutridos resgatados de habitação em Ermesinde. 24 animais acabaram por morrer",
+  "Mais de uma centena de animais resgatados de habitação em Ermesinde. 24 animais acabaram por morrer",
+  "CÍVIS opõe-se a casas de luxo no Parque Ribeirinho de Faro e pede explicações à Câmara",
+  "CÍVIS questiona Câmara de Faro sobre projeto imobiliário de luxo “The Waterfront”",
+  "Falsos inspetores da PJ vão a julgamento por assaltos a moradias de luxo",
+  "Jardim defende música filarmónica e clássica nos arraiais e explicou saída do PSD",
+  "Xenofobia e racismo, as marcas do Ministério da Educação de Portugal no caso José",
+  "IGAS valida pagamentos feitos por Eurico Castro Alves",
+  "Cabo Verde: Conselho das Finanças Públicas avisa sobre aumento de despesas no OE 2027",
+  "Lula critica tarifaço dos EUA e destaca crescimento das exportações para outros mercados",
+  "Após escândalo da Nvidia, Congresso dos EUA acelera esforços para restringir exportações de chips",
+  "CDS quer banca e empresas a contribuir para habitação a preços acessíveis",
+  "O dilema da liberalização das exportações de derivados de Petróleo em Angola: Uma estratégia para a mitigação do contrabando e maximização da receita fiscal"
  ],
  "audiencias": {
   "general": {
@@ -1134,37 +1165,41 @@
  "anuncios": [
   {
    "busqueda": "Black Friday",
-   "total": 84771,
+   "total": 86106,
    "anunciantes": [
     {
      "nombre": "Reactive Outdoor",
      "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
     }
    ],
-   "patron": "Volumen muy alto y dominado por tiendas online internacionales que anuncian 'Black Friday ya empezó' con descuentos de hasta 62%: la fecha se adelanta casi dos semanas."
+   "patron": "Volumen alto y resultados dominados por una marca internacional que replica en Portugal la misma campaña en inglés con un descuento máximo. Hay espacio para marcas locales que hablen en portugués europeo y prometan entrega antes de Navidad."
   },
   {
-   "busqueda": "envio grátis Natal",
-   "total": 320,
+   "busqueda": "presentes de Natal",
+   "total": 1350,
    "anunciantes": [
     {
-     "nombre": "Santiago Crafts - Personalização e Corte a Laser",
-     "url": "https://www.facebook.com/ads/library/?id=2318742632253051"
+     "nombre": "Catarina Ferreira Atelier",
+     "url": "https://www.facebook.com/ads/library/?id=1513323537322370"
     },
     {
-     "nombre": "Aunox Store",
-     "url": "https://www.facebook.com/ads/library/?id=1503316928306381"
+     "nombre": "Art & Chill - Presentes",
+     "url": "https://www.facebook.com/ads/library/?id=1875843803411383"
     },
     {
-     "nombre": "Lukestore",
-     "url": "https://www.facebook.com/ads/library/?id=3071594879850155"
+     "nombre": "Agri-Mendes",
+     "url": "https://www.facebook.com/ads/library/?id=1453414173436375"
     },
     {
-     "nombre": "Ricardo Palma",
-     "url": "https://www.facebook.com/ads/library/?id=2366549737525728"
+     "nombre": "Rafi Store",
+     "url": "https://www.facebook.com/ads/library/?id=2648854495555408"
+    },
+    {
+     "nombre": "Plim Babybooh",
+     "url": "https://www.facebook.com/ads/library/?id=3916696268468308"
     }
    ],
-   "patron": "Predominan regalos personalizados (mantas con foto de la mascota, grabado láser) y decoración navideña con precio exacto en el titular, como 'Árvore de Natal 1,80 m · 49,90 €'."
+   "patron": "Predominan pequeños negocios artesanales y de regalos personalizados: colecciones de Navidad, packs gourmet, regalos pensados para los abuelos y promociones con fecha límite. Varios piden escribir por mensaje para comprar y destacan los 'portes grátis' como argumento principal."
   }
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú sigue volcado en la visita del papa León XIV: tras la Amazonía regresa a Lima para la misa en Las Palmas, con agendas, rutas y entradas para la vigilia como lo más consultado. En economía, el BCRP subió su tasa a 4,5% y la economía se desacelera, lo que vuelve al consumidor más cuidadoso con créditos y cuotas; además, Entel anunció su salida del mercado. El K-pop domina iTunes Perú y Disney renueva su mercadería navideña. Mensajes de servicio, orgullo local y regalos con buena relación precio-calidad conectan hoy.",
+ "lectura": "El Perú vive el cierre de la visita del papa León XIV, con mucha gente consultando horarios, rutas de despedida y transmisiones en televisión, y con la artesanía amazónica ganando vitrina tras su paso por Pucallpa. El clima es la búsqueda más fuerte de la semana: el calor hace pensar en ventiladores y aire acondicionado, Arequipa tuvo cortes de luz programados y El Niño costero ya encarece las frutas que llegan del norte. Con el Black Friday el 27 de noviembre y la gratificación de diciembre en camino, el consumidor quiere ofertas reales y planea sus compras, mientras la temporada de panetón y chocolate empieza a calentar motores. Precio justo, yapa y contenido útil sobre clima y temporada son la mejor carta hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Tu negocio en la ruta del Papa",
-   "idea": "La misa en Las Palmas mueve a miles de personas en Lima. Negocios cercanos pueden publicar horarios, accesos y un combo para peregrinos (agua, snack, cargador) con tono respetuoso.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Cuotas claras tras la subida de tasa",
-   "idea": "El BCRP subió la tasa a 4,5% y el crédito se encarece. Explica cuánto pagará el cliente al final si compra en cuotas y destaca opciones sin intereses si las tienes.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Playlist K-pop de la tienda",
-   "idea": "El top de iTunes Perú está lleno de K-pop. Marcas para jóvenes: un video con 'la canción que suena en nuestra tienda' y el look que combina con cada tema.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Navidad con magia de personajes",
-   "idea": "Disney renovó su mercadería navideña. Jugueterías y tiendas de regalos pueden armar una guía 'regalos por edad' para Navidad con productos licenciados originales.",
+   "titulo": "Hecho a mano en la Amazonía",
+   "idea": "Los rosarios de huayruro y la artesanía amazónica destacaron en Pucallpa durante la visita del Papa. Artesanos y tiendas de regalos pueden mostrar quién hace cada pieza y cómo, y ofrecerla como detalle navideño con historia, en tono respetuoso.",
    "formato": "Reel"
   },
   {
-   "titulo": "¿Cambias de operador?",
-   "idea": "La salida de Entel genera dudas entre usuarios. Tiendas de celulares pueden explicar qué pasa con las líneas y ofrecer asesoría para elegir equipo y plan, sin alarmismo.",
+   "titulo": "Panetón vs. panetón",
+   "idea": "Un panetón de chocolate fue elegido el mejor del mundo y la temporada ya arranca. Panaderías y marcas de chocolate: cata a ciegas con tus patas o clientes, y preventa con yapa para quien reserve antes de diciembre.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Fruta cara, menú listo",
+   "idea": "Las frutas que llegan del norte subieron en Arequipa por El Niño. Juguerías, cafeterías y restaurantes pueden mostrar su 'jugo del día' con frutas de estación más accesibles y explicar por qué cambian la carta: transparencia que genera confianza.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Calor sin recibo de susto",
+   "idea": "Crecen las búsquedas sobre el clima y cuánto cuesta usar aire acondicionado al mes. Tiendas de electro y hogar: compara consumo de ventilador, climatizador y aire acondicionado en soles para que el cliente elija al toque y sin sorpresas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Grati + Black Friday con lista",
+   "idea": "El Black Friday es el 27 de noviembre y la gratificación llega en diciembre. Anuncia hoy tus precios actuales y promete el descuento real del 27, con pago por Yape o Plin al recibir: 'precio justo y con yapa, sin letra chiquita'.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "disney",
+   "termino": "a que hora llega el papa a lima",
    "color": "verde",
-   "por_que": "Nueva mercadería navideña en Disney Store y estrenos de la franquicia generan búsquedas.",
-   "idea": "Jugueterías y regalos: guía navideña por edades con productos originales."
+   "por_que": "Alta consulta por la agenda final del papa León XIV en Lima y su despedida del país.",
+   "idea": "Negocios cercanos a las rutas: informar horarios, accesos y atención con tono respetuoso, sin usar la figura del Papa en promociones."
   },
   {
-   "termino": "temperatura pucallpa",
+   "termino": "america",
+   "color": "amarillo",
+   "por_que": "Término ambiguo que hoy se asocia a la llegada del Papa a Cusco; puede mezclarse con clubes y otros temas.",
+   "idea": "Turismo en Cusco: contenido sobre tradición y cultura de la ciudad, usando palabras clave más específicas que 'america'."
+  },
+  {
+   "termino": "américa tv",
    "color": "verde",
-   "por_que": "La visita del Papa a Pucallpa elevó las búsquedas sobre el clima de la Amazonía.",
-   "idea": "Turismo y viajes: contenido sobre qué llevar a la selva y paquetes para conocer Ucayali."
+   "por_que": "Búsqueda directa del canal, sin una noticia puntual detrás; refleja interés por su programación y coberturas en vivo.",
+   "idea": "Marcas con pauta en TV: coordinar mensajes en redes que acompañen los horarios de mayor audiencia (segunda pantalla)."
   },
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "El SENAMHI publica pronósticos diarios y el calor domina la conversación.",
-   "idea": "Bebidas, ropa ligera y protector solar: contenido según el pronóstico de cada día."
+   "por_que": "Es la búsqueda más fuerte de la semana: el pronóstico del SENAMHI marca el día a día del consumidor.",
+   "idea": "Bebidas, heladerías, ropa ligera y protector solar: publicaciones según el pronóstico diario ('hoy toca...')."
   },
   {
-   "termino": "temperatura lima",
-   "color": "verde",
-   "por_que": "Búsquedas por el pronóstico de temperatura en Lima.",
-   "idea": "Promociones de 'día de calor' o 'día nublado' ajustadas al clima del día."
-  },
-  {
-   "termino": "milo j",
-   "color": "verde",
-   "por_que": "Los Latin Grammy 2026 disparan búsquedas de ganadores y artistas.",
-   "idea": "Música y moda: playlists, looks y concursos inspirados en la premiación."
+   "termino": "corte luz arequipa",
+   "color": "amarillo",
+   "por_que": "Cortes de luz programados en siete distritos de Arequipa generaron consultas.",
+   "idea": "Comercios arequipeños: avisar horarios de atención y pagos alternativos, y ofrecer productos útiles (power bank, linternas recargables) con tono de servicio."
   }
  ],
  "ocultar": [
@@ -87,7 +87,29 @@
   "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
   "Los ucranianos desplazados realizan viajes repetidos a casa mientras persisten los obstáculos para el retorno",
   "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "💎 Gabito Ballesteros y su vida de lujos: así presume sus autos deportivos y joyas millonarias https://mile.io/4kdfaBO"
+  "💎 Gabito Ballesteros y su vida de lujos: así presume sus autos deportivos y joyas millonarias https://mile.io/4kdfaBO",
+  "defensor sporting - peñarol",
+  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
+  "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+  "Pronóstico España Inglaterra - Nations League 15/11/26",
+  "Pronóstico Defensor Sporting Peñarol - Primera División, Apertura 15/11/26",
+  "PJ: 'Rapi Endoso de depósitos de alimentos' obtiene Premio Buenas Prácticas en Gestión Pública 2026",
+  "NIÑO COSTERO 2026 AMENAZA LA AGRICULTURA FAMILIAR: KEIKO FUJIMORI PRIORIZÓ LAS DESCOLMATACIONES, QUE SE PRESTAN PARA LA CORRUPCIÓN, ADVIERTE DIRIGENTE GREMIAL",
+  "Huarmey: Red de Salud Pacífico Sur reporta un nuevo caso confirmado de dengue",
+  "Mindef asegura que escáneres instalados en penales no afectan la salud",
+  "Díaz Ayuso en la exposición Reyes del mundo que revive la victoria de España en el Mundial de Fútbol: “Desde el deporte base a los grandes eventos, todos tienen sitio en Madrid”",
+  "Más de 150 mujeres y niñas convierten el deporte en un altavoz contra la violencia machista en Palma",
+  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "Desde 2002, Cuauhtémoc Blanco ha señalado a Lomas de Cortés como su hogar en Morelos; esta es la colonia donde vive el ídolo americanista",
+  "BENEDETTI INAUGURÓ LA 34.ª FERIA NACIONAL DE ARTESANÍAS Y REAFIRMÓ SU COMPROMISO CON LA CULTURA Y EL DESARROLLO DE ARROYITO",
+  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
+  "Camionetas de lujo compradas por Rivera terminan empolvándose en depósito municipal",
+  "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
+  "Gremios obreros exigen frenar la violencia contra trabajadores y dirigentes de construcción civil",
+  "Gremios de construcción civil exigen acciones urgentes para frenar violencia contra obreros y dirigentes",
+  "Un festival de música termina en caos y una gran pelea en una famosa playa mexicana",
+  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
  ],
  "audiencias": {
   "general": {

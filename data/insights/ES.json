@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Black Friday se acerca con menos compradores previstos y presupuestos más ajustados, aunque tres de cada cuatro españoles piensan comprar con un gasto medio cercano a los 200 euros; El Corte Inglés y MediaMarkt ya adelantan ofertas. GTA VI arrasa en ventas antes de su estreno y llegan alertas por descargas falsas que roban datos. En redes, la canción 'Algo de Interés' de María Bonilla triunfa en TikTok y crece el interés por un supuesto apagón el 17 de noviembre. Ofertas honestas, seguridad digital y contenido que entretenga ganan hoy.",
+ "lectura": "El Black Friday (27 de noviembre) llega con menos compradores previstos, presupuestos más ajustados y la OCU avisando de que habrá más subidas que bajadas, así que el consumidor español compara más y desconfía de las compras por impulso. Con el frío entra la temporada de casa: secar la ropa sin humedad, elegir prendas que abriguen de verdad y caprichos de chocolate, mientras la decoración navideña apuesta por flores naturales y una estética de 'jardín de invierno'. La logística se prepara para el pico de envíos de Black Friday y Navidad, y en ocio destacan la precarga de GTA VI, el debate de comisiones en Twitch y la nueva edición de Gran Hermano VIP. Honestidad en precios, plazos de entrega claros antes de Reyes y contenido útil para el invierno marcan la diferencia hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con cabeza",
-   "idea": "Los españoles compran menos y comparan más. Publica una lista corta de 'lo que sí merece la pena' de tu tienda con precio de antes y de ahora: ayudas a decidir y ganas confianza.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "GTA VI sin trampas",
-   "idea": "Las descargas falsas de GTA VI están robando datos. Tiendas de videojuegos y tecnología pueden explicar cómo comprarlo seguro y ofrecer reserva física o digital oficial.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Suena 'Algo de Interés'",
-   "idea": "La canción de María Bonilla arrasa en TikTok. Úsala, si la biblioteca de la red lo permite, para un antes y después de tu producto o un baile del equipo.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "¿Apagón el 17? Te lo aclaramos",
-   "idea": "Muchos buscan si habrá un apagón el 17 de noviembre. Marcas de energía o tecnología: aclarar con fuentes y recomendar un pequeño kit de emergencia sin alarmar.",
+   "titulo": "La regla de las 24 horas",
+   "idea": "Una psicóloga recuerda que el Black Friday activa la parte más emocional del cerebro. Propón a tu comunidad guardar lo que les guste y volver mañana a decidir: una marca que frena el impulso gana confianza y menos devoluciones.",
    "formato": "Historia Instagram"
   },
   {
-   "titulo": "Karaoke para las cenas de empresa",
-   "idea": "Con las cenas navideñas cerca, crecen las comparativas de altavoces para karaoke. Tiendas de audio y locales de ocio: 'el plan de karaoke para tu cena de Navidad'.",
+   "titulo": "Tender dentro sin humedad",
+   "idea": "Dos ingenieros calcularon que tender en casa en invierno puede salir más caro que la secadora. Tiendas de hogar y electro: compara tendedero, secadora y deshumidificador con números sencillos y tu recomendación.",
    "formato": "Reel"
+  },
+  {
+   "titulo": "Navidad de jardín de invierno",
+   "idea": "La decoración navideña de 2026 apuesta por flores naturales y nuevas paletas. Floristerías y tiendas de deco: muestra tres centros de mesa y abre reservas antes del puente de diciembre.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Fecha límite para Reyes",
+   "idea": "Las empresas de paquetería amplían rutas para el pico de Black Friday y Navidad. Publica ya tus fechas límite de pedido para Navidad y Reyes: al cliente español le preocupa que no llegue a tiempo, y decirlo claro vende.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Tu producto entra en la casa",
+   "idea": "Ya se conocen los concursantes de GH VIP 9. Presenta tus productos como 'concursantes' con su personalidad y deja que la audiencia nomine al que se queda: humor, participación y escaparate en uno.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "apagon 17 noviembre",
+   "termino": "concursantes de gran hermano vip 2026",
+   "color": "verde",
+   "por_que": "Telecinco confirma la lista de concursantes de la nueva edición del reality.",
+   "idea": "Ocio, comida a domicilio y moda: encuestas y juegos inspirados en el formato, sin opinar sobre la vida de los participantes."
+  },
+  {
+   "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Circula un rumor sobre un apagón el 17 de noviembre que muchos buscan comprobar.",
-   "idea": "Aclarar con fuentes oficiales y aportar consejos prácticos, sin difundir el rumor como cierto."
+   "por_que": "Tema sensible: cada vez más hogares y menos casas disponibles.",
+   "idea": "Muebles y deco: soluciones prácticas para pisos pequeños (almacenaje, muebles plegables), sin entrar en el debate."
   },
   {
    "termino": "supermercado",
    "color": "verde",
    "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
-   "idea": "Comercio local: destaca tu cercanía y especialidad frente a las grandes superficies."
-  },
-  {
-   "termino": "vivienda",
-   "color": "verde",
-   "por_que": "Debate sobre más hogares y menos casas disponibles en España.",
-   "idea": "Inmobiliarias y decoración: contenido práctico sobre aprovechar espacio, sin entrar en debates."
+   "idea": "Comercio de barrio: destaca producto local, trato cercano y horarios cómodos para la compra semanal."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Polémica de los Streamer Awards con el CEO de Twitch por comisiones.",
-   "idea": "Marcas gaming y creadores: colaboraciones con streamers y transparencia en el reparto."
+   "por_que": "Los Streamer Awards abren el debate sobre comisiones de las plataformas.",
+   "idea": "Marcas gaming: patrocina a streamers pequeños con condiciones claras y cuéntalo con transparencia."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
    "por_que": "Ya se puede precargar GTA VI, el lanzamiento más esperado del año.",
-   "idea": "Tecnología, gaming y comida a domicilio: packs de estreno y cuentas atrás."
+   "idea": "Tecnología, snacks y comida a domicilio: 'kit noche de estreno' y recordatorio de descargar solo desde tiendas oficiales."
   }
  ],
  "ocultar": [
@@ -119,7 +119,34 @@
   "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
   "Sánchez quiere ampliar el Estado del bienestar de la cuna a la jubilación con una nueva generación de derechos sociales",
   "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "Vídeo: Sánchez recomienda música en Spotify y Feijóo le responde con una sorpresa inesperada"
+  "Vídeo: Sánchez recomienda música en Spotify y Feijóo le responde con una sorpresa inesperada",
+  "sindicato de inquilinos e inquilinas de barcelona",
+  "felipe vi de españa",
+  "josé manuel albares",
+  "arzobispado de barcelona",
+  "El voto desde el extranjero: un peso teórico del 7% y una influencia real anecdótica",
+  "La UE insta a Israel a permitir el acceso «inmediato» de la ayuda humanitaria a Gaza",
+  "Estonia cerrará su frontera con Rusia tras denunciar intento de sabotaje",
+  "Crece la presión para desalojar la acampada de plaza Catalunya antes de Navidad en Barcelona",
+  "El PSPV ensalza \"las oportunidades que abre\" el nuevo Plan Internacional de la Gastronomía Española para Castellón",
+  "Preocupación por el estado de salud de la infanta Margarita, hermana de Juan Carlos I",
+  "Díaz Ayuso en la exposición Reyes del mundo que revive la victoria de España en el Mundial de Fútbol: “Desde el deporte base a los grandes eventos, todos tienen sitio en Madrid”",
+  "Se divorcian y él reclama los muebles de la casa donde vivían, que era de sus suegros y que ella asegura que tenía antes de casarse: la Justicia los incluye en gananciales",
+  "Detienen a una empleada del hogar por robar joyas que escondía en macetas o un azucarero en Betanzos, A Coruña",
+  "Una empleada del hogar, detenida en Galicia por robar joyas valoradas en 50.000 euros: las escondía en macetas",
+  "La Guardia Civil investiga la desaparición de diez gatos en un pueblo de Zamora tras la denuncia de un vecino",
+  "Investigado por caza furtiva en Almedinilla tras ser sorprendido con siete perros en un coto sin autorización",
+  "El centro de día de Aspanoa para niños y adolescentes con cáncer abrirá sus puertas en diciembre",
+  "El PSOE propone un impuesto a los viajes de lujo en megayates, 'jet' privados y vuelos en clase 'business'",
+  "Armengol propone una tasa a jets privados: “Contaminan muchísimo y promueven el turismo de lujo”",
+  "Llanos Massó: “VOX garantizará una educación de calidad, sin imposiciones ideológicas y con el español en todas las aulas”",
+  "Cembrero acusa a la consejera de Educación de Madrid de \"maltratar\" a los profesores: \"Lo mínimo es recibirlos\"",
+  "La huelga indefinida de la educación pública madrileña cumple un mes sin negociación real con Ayuso",
+  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
+  "La huelga en la industria del curtido empezará el 10 de noviembre y terminará el día 12: “Con estos salarios no se llega a fin de mes”",
+  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
+  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones"
  ],
  "audiencias": {
   "general": {
@@ -863,6 +890,81 @@
     "AR": "me conviene / me rinde",
     "CL": "me conviene"
    }
+  },
+  {
+   "expresion": "Salseo",
+   "significado": "Cotilleo, drama o polémica entretenida que todos quieren comentar.",
+   "uso": "Toda España, muy usado en redes, realities y streaming.",
+   "registro": "coloquial",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Hoy hay salseo: te contamos cuál de los tres packs se agotó primero.",
+   "equivalentes": {
+    "CO": "chisme",
+    "MX": "chisme / el tea",
+    "EC": "chisme",
+    "AR": "chusmerío",
+    "CL": "copucha"
+   }
+  },
+  {
+   "expresion": "Cuqui",
+   "significado": "Mono, bonito, adorable.",
+   "uso": "Toda España, frecuente en moda, decoración y productos infantiles.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "El calendario de Adviento más cuqui para los peques.",
+   "equivalentes": {
+    "CO": "lindo / tierno",
+    "MX": "bonito / cute",
+    "EC": "lindo",
+    "AR": "divino / tierno",
+    "CL": "tierno"
+   }
+  },
+  {
+   "expresion": "Mogollón",
+   "significado": "Mucho, gran cantidad.",
+   "uso": "Toda España.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Tenemos mogollón de ideas de regalo por menos de 20 euros.",
+   "equivalentes": {
+    "CO": "un montón",
+    "MX": "un chorro / un montón",
+    "EC": "un montón / full",
+    "AR": "un montón / banda",
+    "CL": "caleta"
+   }
+  },
+  {
+   "expresion": "Ir a saco",
+   "significado": "Lanzarse con todo, sin rodeos ni dudar.",
+   "uso": "Toda España.",
+   "registro": "coloquial",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Este Black Friday vamos a saco con los envíos.",
+   "equivalentes": {
+    "CO": "ir con toda",
+    "MX": "ir con todo",
+    "EC": "ir con todo",
+    "AR": "ir a fondo / ir con todo",
+    "CL": "ir con todo"
+   }
+  },
+  {
+   "expresion": "Random",
+   "significado": "Aleatorio, sin relación o algo que sale de la nada.",
+   "uso": "Jóvenes y redes sociales en toda España (anglicismo).",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "El regalo random que acabó siendo el favorito de la cena.",
+   "equivalentes": {
+    "CO": "random",
+    "MX": "random",
+    "EC": "random",
+    "AR": "random / cualquiera",
+    "CL": "random"
+   }
   }
  ],
  "creadores": {
@@ -1015,6 +1117,14 @@
    "hacia": "ES",
    "sector": "alimentos",
    "accion": "Validar requisitos sanitarios europeos y probar con pedidos pequeños en tiendas latinas."
+  },
+  {
+   "titulo": "Turrón y dulces navideños españoles para la diáspora en América",
+   "senal": "El turrón, los polvorones y otros dulces de Navidad españoles tienen demanda en diciembre entre comunidades españolas y latinoamericanas que los asocian a las fiestas.",
+   "desde": "ES",
+   "hacia": "MX",
+   "sector": "alimentos",
+   "accion": "Señal para investigar: validar requisitos de importación de alimentos en el país de destino y comunicar fechas límite de pedido con margen antes de Navidad."
   }
  ],
  "anuncios": [

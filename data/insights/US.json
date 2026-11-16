@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Faltan 11 días para Thanksgiving y 12 para el Black Friday: Amazon estira su evento a 12 días, Costco, Nordstrom, Apple y PlayStation adelantan rebajas, pero las encuestas muestran compradores con presupuesto ajustado que planean sacrificios para regalar. Hollywood calienta la temporada con 'Cliff Booth', la nueva película de Tarantino que llega en 10 días, y la comunidad hispana recuerda los Latin GRAMMY con Adamari López. Las olas gigantes en California y la recuperación de los vuelos marcan la conversación cotidiana. Precio claro, regalos con sentido y planificación de envíos a casa ganan hoy.",
+ "lectura": "A 10 días de Thanksgiving y 11 del Black Friday, Amazon estira sus ofertas a 12 días y Costco, Nordstrom, Apple y PlayStation adelantan rebajas, aunque las familias planean recortes para poder regalar. Para la comunidad hispana hay un dato muy práctico: desde hoy varios celulares antiguos dejan de tener WhatsApp, la app con la que se habla con la familia en el país de origen. El clima pesa en la conversación con un El Niño intenso, tormentas y nieve en el Oeste y olas enormes en California, mientras el entretenimiento llega con estrenos de cine y el vuelo de Starship. Funcionan los mensajes de valor real, planificación de regalos y preparación del hogar para el invierno.",
  "ideas_hoy": [
   {
-   "titulo": "Regalos que rinden",
-   "idea": "La mayoría planea recortar en otras cosas para poder regalar. Arma una guía de regalos por menos de 25, 50 y 100 dólares con envío incluido: ayudas a decidir sin presión.",
+   "titulo": "¿Tu mamá se quedó sin WhatsApp?",
+   "idea": "Desde hoy algunos celulares viejos ya no tienen WhatsApp. Explica en 30 segundos cómo revisar si el teléfono de la familia está en la lista y propone un celular como regalo de Navidad para ellos: útil, emotivo y muy compartible.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Tu casa lista para El Niño",
+   "idea": "Con un El Niño fuerte y tormentas en el Oeste, una checklist de 10 minutos para el hogar (canaletas, sellos, kit de emergencia, ropa impermeable) aporta valor. Ferreterías, tiendas de hogar y ropa pueden enlazar cada punto con un producto.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Envía a casa antes de la fila",
-   "idea": "Diciembre es temporada alta para mandar regalos a Latinoamérica. Publica fechas límite de envío para que lleguen antes de Navidad y un checklist de qué meter en la caja.",
+   "titulo": "Tus propios 12 días",
+   "idea": "Amazon convirtió su Black Friday en un evento de 12 días. Haz tu versión a escala: una oferta distinta cada día hasta Cyber Monday (30 de nov) con sticker de cuenta regresiva, para que tu audiencia vuelva a diario.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Thanksgiving con sazón",
+   "idea": "Muchas familias latinas mezclan el pavo con platos de casa. Comparte una receta de acompañante con sabor latino y una versión alta en proteína, que hoy es tendencia en despensa y comida rápida: ideal para restaurantes, mercados y marcas de alimentos.",
    "formato": "Reel"
   },
   {
-   "titulo": "Noche de cine en casa",
-   "idea": "'Cliff Booth' de Tarantino se estrena en 10 días y es de lo más buscado. Restaurantes, delivery y snacks pueden lanzar un combo 'noche de película' para el fin de semana del estreno.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Black Friday sin estafas",
-   "idea": "Las autoridades alertan sobre fraudes en compras navideñas. Explica en 30 segundos cómo verificar tu tienda (dominio, reseñas, pagos seguros) y por qué comprarte es seguro.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Gratitud en Thanksgiving",
-   "idea": "Gestos como las tarjetas de regalo de H-E-B se vuelven virales. Comparte una acción de agradecimiento real a tus clientes o comunidad, sin exagerar ni pedir nada a cambio.",
-   "formato": "Copy para anuncio"
+   "titulo": "Lo que nos enseñó la caída",
+   "idea": "Tras la caída global de Microsoft, varias marcas ganaron atención respondiendo rápido y con humor. Comparte cómo tu negocio atendería a clientes si falla una plataforma en plena temporada alta: muestra preparación y genera confianza.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "cliff booth",
-   "color": "verde",
-   "por_que": "Gran expectativa por la nueva película de Quentin Tarantino, que llega a cines en 10 días.",
-   "idea": "Cines, restaurantes y marcas de entretenimiento: cuenta regresiva y combos para el estreno."
-  },
-  {
-   "termino": "cliff booth movie",
-   "color": "verde",
-   "por_que": "Búsquedas sobre fecha de estreno y reparto de la película de Tarantino.",
-   "idea": "Medios y creadores: explicar fecha, dónde verla y datos curiosos sin spoilers."
-  },
-  {
-   "termino": "mackenzie scott",
-   "color": "amarillo",
-   "por_que": "Interés por la historia financiera de la filántropa y sus acciones de Amazon; tema personal.",
-   "idea": "Organizaciones sin fines de lucro: hablar de filantropía y donaciones de fin de año sin entrar en su vida privada."
-  },
-  {
-   "termino": "adamari lópez",
-   "color": "verde",
-   "por_que": "La presentadora recordó su primera vez en los Latin GRAMMY junto a otras figuras hispanas.",
-   "idea": "Marcas hispanas: contenido de nostalgia musical y 'mi primera vez' con la audiencia."
-  },
-  {
    "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Un El Niño fuerte cambiará el invierno en buena parte del país.",
-   "idea": "Hogar, seguros y ropa: contenido de preparación práctico, sin alarmismo."
+   "por_que": "Hay mucha búsqueda por un El Niño muy fuerte y su efecto en cada región; conviene informar sin alarmar.",
+   "idea": "Guía práctica por zona (lluvia, nieve, calor) con productos de preparación y avisos de posibles retrasos en entregas."
+  },
+  {
+   "termino": "spacex starship rocket launch",
+   "color": "verde",
+   "por_que": "Nuevo vuelo de prueba de Starship con gran atención en vivo; tema positivo de innovación.",
+   "idea": "Tecnología y juguetes: regalos STEM y de ciencia para niños con el gancho 'pequeños astronautas'."
+  },
+  {
+   "termino": "winter storm",
+   "color": "amarillo",
+   "por_que": "Tormentas en el Oeste con nieve en montaña, lluvia intensa y oleaje fuerte; preocupa a quienes viajan o envían paquetes.",
+   "idea": "Contenido de ropa y accesorios de invierno y recordatorio de fechas límite de envío antes de Thanksgiving."
+  },
+  {
+   "termino": "fitness",
+   "color": "verde",
+   "por_que": "Crece el interés por empezar ya los propósitos de salud de 2027.",
+   "idea": "Reto de 30 días antes de fin de año, ropa deportiva como regalo y snacks altos en proteína."
+  },
+  {
+   "termino": "film",
+   "color": "verde",
+   "por_que": "La taquilla se mueve con estrenos de temporada, encabezados por una nueva película navideña de Johnny Depp.",
+   "idea": "Noche de cine en casa: combos de botanas, cobijas y reseñas cortas en español de las películas de la temporada."
   }
  ],
  "audiencias": {
@@ -955,6 +955,29 @@
   "Se enteró por televisión de que su esposa mató a sus dos hijos pequeños. Ahora quiere que nunca salga libre",
   "Jewish advocacy group sues NYC on behalf of Jewish health workers",
   "When Disaster Hit Next Door in Flatbush",
-  "How the tech industry and markets have responded to Jensen Huang's resignation"
+  "How the tech industry and markets have responded to Jensen Huang's resignation",
+  "cancer",
+  "+ORIGINAL+CLIP+XXX+! Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "++【xxx^xxx~videos】 dr zahra viral video original Clip in Social Media x TikTok",
+  "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East",
+  "'Hot mess': Scott Colom bashes flight delay with reference to viral ad",
+  "Sen. Bill Cassidy slams RFK Jr. for \"series of failures\" as Health Secretary",
+  "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+  "2 planes collide on the ground in Miami, only minor injuries reported",
+  "November 15, 2026: New York City Temperature at 6 PM CT Prediction Market",
+  "katy perry justin trudeau",
+  "Biofuels, H2-A Reform and MAHA: What Stephen Miller's Appointment May Mean for Agriculture",
+  "Flowers looks ahead to leading Sierra Vista, with water, Fort Huachuca and economic growth among priorities",
+  "China-U.S. Trade Council Holds First Meeting: Tariffs and Agriculture on Agenda",
+  "I was juggling a $99K job, a baby, and caring for my mom with Alzheimer's. Getting laid off was a relief.",
+  "60 animals rescued from alleged neglect in Florida, including dogs, cats and farm animals",
+  "2 armed robbers shoot man, steal backpack and jewelry in Philadelphia",
+  "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
+  "Texas could make significant education reforms, if lawmakers can reach across the aisle",
+  "51 years after SS Edmund Fitzgerald sank, its legacy shapes Great Lakes shipping safety",
+  "Japan shipping group ONE transits Red Sea choke point for 1st time in 3 years",
+  "CAM en Español Brings 'Thou Shall Not Discriminate' Traveling Art Exhibit to Costa Rica's Legislative Assembly on Kristallnacht Anniversary",
+  "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
+  "Greenfield cops arrest Soledad woman suspected of Facebook Marketplace fraud"
  ]
 }

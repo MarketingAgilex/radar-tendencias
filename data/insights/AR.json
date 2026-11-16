@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Súper Niño trae lluvias y el Paraná crece en el litoral, mientras la agenda comercial se ordena en torno al Black Friday con marcas que ofrecen cuotas sin interés, envío gratis y descuentos en PlayStation. Buenos Aires viene de una Noche de los Museos récord y del Hanguk Fest con K-pop y comida coreana; Romeo Santos y Prince Royce agotaron Vélez. En consumo masivo, la venta de Tía Maruca y la baja presencia de alimentos importados en góndola dan tema para hablar. El feriado del lunes 23 abre otro fin de semana largo: experiencias, cultura y precio claro suman.",
+ "lectura": "El calendario manda: Black Friday el 27 de noviembre y Cyber Monday el 30, con Defensa del Consumidor recomendando comprar seguro y pymes que arman ofertas a su medida en lugar de rebajar todo. El clima sigue en el centro de las búsquedas, con lluvias y granizo en varias provincias, y el feriado del lunes 23 abre otro finde largo para planes y escapadas. En moda vuelve el calzado bajo de la mano de figuras como María Vázquez y Pampita, mientras crece la nostalgia que cotiza (los televisores de tubo se buscan y se pagan) y la venta de autos eléctricos sube más de 650% en un mercado que cae. Precio final claro, combos pensados para el bolsillo y contenido con ingenio son lo que más rinde hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Plan para el finde largo",
-   "idea": "El lunes 23 es feriado. Hoteles, restaurantes y escapadas cercanas pueden lanzar hoy un paquete con precio final en cuotas y plan B por si llueve.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Galletitas de siempre, dueño nuevo",
-   "idea": "La venta de Tía Maruca despertó nostalgia por las marcas de toda la vida. Marcas locales pueden contar su propia historia de barrio y por qué siguen haciendo las cosas igual.",
+   "titulo": "Chau tacos, hola chatitas",
+   "idea": "María Vázquez, Pampita y Nicole Neumann confirmaron el regreso del calzado bajo. Zapaterías y tiendas de moda: mostrá tres looks con mocasines, ballerinas o zapatillas bajas para el laburo y la salida, con precio final en cuotas.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday en cuotas",
-   "idea": "El argentino compara cuotas antes que porcentajes. Publica cuánto queda cada cuota de tus productos estrella con y sin interés y desde cuándo rige la oferta.",
+   "titulo": "Cyber Monday sin sustos",
+   "idea": "Defensa del Consumidor ya difunde recomendaciones para comprar seguro. Publicá un checklist con tus datos reales: razón social, medios de pago, política de cambios y tiempos de envío. La confianza vende más que el porcentaje.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El desafío del panchero",
-   "idea": "Un panchero de Temperley se viralizó por el reto que propone a sus clientes. Gastronomía: crea tu propio desafío simple con premio (un combo gratis) y graba las reacciones.",
+   "titulo": "Lo viejo cotiza",
+   "idea": "Los televisores de tubo volvieron a buscarse y algunos superan los 345 dólares. Tiendas de usados, gaming retro o decoración vintage: contá qué objetos 'de antes' tenés y por qué hoy valen, con tono nostálgico y re copado.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Día de lluvia, día de pedido",
-   "idea": "Las lluvias del Súper Niño mantienen a la gente en casa. Delivery y e-commerce: promo 'día de lluvia' con envío gratis cuando el pronóstico marque agua.",
-   "formato": "Historia Instagram"
+   "titulo": "El cliente eléctrico llegó",
+   "idea": "Los autos eléctricos crecieron más de 650% en 2026 aunque el mercado general cae. Concesionarias, talleres y accesorios: compartí qué pregunta este nuevo comprador (carga, autonomía, mantenimiento) y cómo lo atendés.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Black a tu medida",
+   "idea": "Las pymes ensayan fórmulas finas para su Black Friday. En vez de bajar todo, armá tres combos con tus productos estrella y dale acceso anticipado a quienes te escriben por WhatsApp: 'Elegí tu combo antes que nadie'.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "valentín fuster",
+   "color": "amarillo",
+   "por_que": "Las declaraciones del cardiólogo sobre longevidad y hábitos generan conversación.",
+   "idea": "Marcas de alimentación y bienestar: contenido de hábitos simples y comprobables, sin prometer resultados de salud."
+  },
+  {
+   "termino": "maría vázquez",
+   "color": "verde",
+   "por_que": "Junto a Pampita y Nicole Neumann impulsa el regreso del calzado bajo.",
+   "idea": "Moda y calzado: lookbook de chatitas y mocasines con precio final y talles disponibles."
+  },
+  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "El pronóstico diario domina las búsquedas en plena temporada de lluvias.",
-   "idea": "Indumentaria y delivery: promociones según el clima del día."
+   "por_que": "El pronóstico diario sigue siendo de lo más buscado en plena temporada de lluvias.",
+   "idea": "Delivery, indumentaria y gastronomía: promos que cambian según el clima del día y se anuncian a primera hora."
+  },
+  {
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "Tormentas fuertes con granizo afectaron a Córdoba y otras zonas.",
+   "idea": "Mensajes de servicio y prevención (cubreautos, protección de techos y plantas), sin bromear con los daños."
   },
   {
    "termino": "lluvia",
-   "color": "amarillo",
-   "por_que": "Lluvias por el Súper Niño y alertas en varias provincias.",
-   "idea": "Mensajes de servicio y productos útiles, sin dramatizar."
-  },
-  {
-   "termino": "peru",
    "color": "verde",
-   "por_que": "Interés por la visita del papa León XIV a Perú.",
-   "idea": "Contenido respetuoso; turismo religioso y artesanías pueden informar sin usar la fe como gancho."
-  },
-  {
-   "termino": "rocio robles",
-   "color": "amarillo",
-   "por_que": "Escándalo de farándula ligado a un programa de streaming.",
-   "idea": "Evitá tomar partido; solo para marcas de entretenimiento y con humor neutro."
-  },
-  {
-   "termino": "clima salta",
-   "color": "amarillo",
-   "por_que": "Alerta amarilla por tormentas en Salta.",
-   "idea": "Avisos de horarios y entregas para el norte del país."
+   "por_que": "Lluvias en Buenos Aires y otras provincias mantienen a la gente en casa.",
+   "idea": "Planes puertas adentro: series, juegos de mesa, cocina y envío a domicilio con un mensaje cálido de 'finde de lluvia'."
   }
  ],
  "ocultar": [
@@ -92,7 +92,30 @@
   "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
   "Investigan la compra de un departamento de lujo de Federico Beligoy por US$490.000",
   "Denuncian que Federico Beligoy compró un departamento de lujo en Villa Devoto por US$490.000",
-  "Federico Beligoy adquirió un departamento de lujo en Villa Devoto por US$490.000"
+  "Federico Beligoy adquirió un departamento de lujo en Villa Devoto por US$490.000",
+  "islas malvinas",
+  "La foto subida de tono de Wanda y Zaira Nara tomando sol de espaldas que se volvió viral",
+  "Federico Beligoy compró un lujoso departamento de 380 m2, siete días antes del Mundial de Fútbol",
+  "León XIV en la Amazonia peruana: \"La sangre de los líderes indígenas asesinados reclama justicia\"",
+  "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
+  "Robaron 6 millones de pesos en ropa en un comercio de Comodoro Rivadavia",
+  "Carmen Barbieri contó cómo se recupera de su salud y cuándo volverá a la TV tras la internación",
+  "Ayuso reivindica Madrid como sitio donde se celebra desde \"el deporte base a los grandes eventos\"",
+  "Egüen encabezó en Norberto de la Riestra el Primer Encuentro de Fútbol Adaptado (PCD)",
+  "Villa Mercedes: buscan a un hombre que se ausentó de su hogar hace dos días",
+  "BENEDETTI INAUGURÓ LA 34.ª FERIA NACIONAL DE ARTESANÍAS Y REAFIRMÓ SU COMPROMISO CON LA CULTURA Y EL DESARROLLO DE ARROYITO",
+  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
+  "Encontraron un cuerpo calcinado con indicios de haber sido atacado por perros",
+  "Llaryora visita la Ciudad de los Niños en Río Cuarto, una institución con 38 años de labor social | 15 de",
+  "Rocío Robles reveló que su hermana desapareció al nacer en un hospital denunciado por tráfico de bebés: “No sabemos si está viva o muerta”",
+  "Una investigación aseguró que millones de la AFA terminaron en yates de lujo en Europa",
+  "Millones y yates de lujo: las transferencias vinculadas a la AFA que generan interrogantes",
+  "El BCRA dio de baja la billetera virtual de Sur Finanzas, la financiera vinculada a Tapia",
+  "Acerbo pide actualizar la ley que regula carreras de autos",
+  "Tres personas trasladaban materiales de construcción ajenos y terminaron en la comisaría",
+  "Radicalismo auténtico: identidad, principios y construcción de una alternativa",
+  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
  ],
  "audiencias": {
   "general": {

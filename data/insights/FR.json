@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia entra en la semana previa al Black Friday con Cdiscount, Boulanger y E.Leclerc rebajando iPhone, Samsung, audio y hasta aparatos de raclette, mientras desde el 20 de noviembre cambian las reglas del descubierto bancario. Los vientos violentos ponen 30 departamentos en vigilancia amarilla el lunes y la inundación del Hérault sigue afectando carreteras. En entretenimiento, Kurt Russell y Goldie Hawn suenan para 'Nobody Wants This' y la cocina reunionesa se vuelve viral. Ofertas transparentes, gestión del presupuesto y planes en casa conectan hoy.",
+ "lectura": "El francés afronta la última semana y media antes del Black Friday cazando 'bons plans' en tecnología, hogar y descanso: iPhone y Samsung rebajados, colchones y sofás hasta -50 %, mientras admite que solo las promociones le hacen comprar y que quiere cuidar su presupuesto de fin de año. GTA VI está a punto de salir y la liquidación de PS5 en Amazon alimenta la fiebre gamer; un chocolate lanzado por creadores populares se agotó en línea, prueba del poder de los 'drops'. El viento y la lluvia empujan al cocooning y a los planes de tele como Star Academy y N'oubliez pas les paroles, y los mercados de Navidad y los artesanos ya abren temporada. Ofertas transparentes, ediciones limitadas y confort en casa conectan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Raclette party, edición Black Friday",
-   "idea": "Las ofertas en aparatos de raclette llegan justo con el frío. Queserías, tiendas de cocina y supermercados: un pack 'soirée raclette' para cuatro con precio cerrado.",
+   "titulo": "Le drop qui part en une heure",
+   "idea": "Una tableta de chocolate promocionada por creadores se agotó en línea. Chocolaterías y marcas artesanas: anuncia una edición limitada de Navidad con preventa y número de unidades visible.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Soirée GTA",
+   "idea": "GTA VI está a días de salir y las consolas PS5 se liquidan. Delivery, snacks y tiendas de accesorios: un pack 'noche de lanzamiento' con lo necesario para jugar sin salir de casa.",
    "formato": "Reel"
   },
   {
-   "titulo": "Tu cuenta, sin sorpresas",
-   "idea": "Desde el 20 de noviembre cambian las reglas del descubierto bancario. Bancos y fintech pueden explicar en tres puntos qué cambia y cómo evitar comisiones en plena temporada de compras.",
+   "titulo": "Chambre cocon",
+   "idea": "Colchones, ropa de cama y muebles están entre las ofertas del momento y se habla del 'blues' del invierno. Tiendas de hogar: muestra en 5 diapositivas cómo transformar un dormitorio en refugio con poco presupuesto.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Reacondicionado también es regalo",
-   "idea": "Los smartphones reacondicionados están entre las ofertas más vistas. Tiendas de segunda mano: compara precio y garantía con uno nuevo y destaca el ahorro y el impacto ambiental.",
-   "formato": "TikTok"
+   "titulo": "Le bon plan sans déraper",
+   "idea": "Los medios insisten en no confundir generosidad con capacidad de gasto. Marcas: guía de regalos por tramos de precio (menos de 20, 50 y 100 euros) con un mensaje honesto de compra responsable.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Viento fuerte, entrega segura",
-   "idea": "Treinta departamentos estarán en vigilancia amarilla por viento. Comercios locales: avisa horarios y ofrece retiro en tienda para evitar retrasos.",
+   "titulo": "Rendez-vous au marché de Noël",
+   "idea": "Abren los mercados de Navidad y las tiendas efímeras de artesanos. Creadores y artesanos: comparte en qué mercado estarás, días y horarios, y un producto exclusivo para quien te visite.",
    "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Sabores de La Reunión",
-   "idea": "Un cocinero de cocina reunionesa conquista las redes. Restaurantes y marcas de alimentos: receta corta con ingredientes de ultramar y su historia.",
-   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "kurt russell",
-   "color": "verde",
-   "por_que": "Se especula con que Kurt Russell y Goldie Hawn aparezcan en la serie 'Nobody Wants This'.",
-   "idea": "Streaming y cultura pop: contenido de nostalgia y parejas icónicas del cine."
+   "termino": "trombe marine",
+   "color": "amarillo",
+   "por_que": "Alertas por tormentas y viento fuerte en el oeste del país.",
+   "idea": "Comercios locales: avisos de horario y retiro en tienda, sin dramatizar el clima."
   },
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El prime 6 de Star Academy lidera las búsquedas del fin de semana.",
-   "idea": "Entretenimiento, belleza y snacks: contenido de fans y retos musicales."
+   "por_que": "El programa sigue fuerte en audiencia y conversación de fans.",
+   "idea": "Belleza y moda: tutoriales de looks de escenario o retos de canto con tu comunidad."
   },
   {
-   "termino": "maison",
+   "termino": "gta vi",
    "color": "verde",
-   "por_que": "Historias de compra y reforma de casas antiguas para vivir de ellas.",
-   "idea": "Inmobiliarias, decoración y turismo rural: inspiración de proyectos de vida."
+   "por_que": "El lanzamiento del videojuego más esperado está muy cerca.",
+   "idea": "Gaming y alimentación: cuenta atrás hasta el 'jour J' con packs y sorteos de accesorios."
   },
   {
-   "termino": "programme télé ce soir",
+   "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Búsqueda de la programación televisiva del fin de semana.",
-   "idea": "Delivery y snacks: promociones para 'noche de tele' en casa."
+   "por_que": "Amazon liquida stock de PS5 antes de la salida de GTA VI.",
+   "idea": "Tiendas de tecnología: compara bundle, garantía y servicio posventa para diferenciarte del precio puro."
   },
   {
-   "termino": "jean gabin",
-   "color": "amarillo",
-   "por_que": "Anécdota histórica sobre el deseo de Jean Gabin de esparcir sus cenizas en el mar.",
-   "idea": "Solo contenido cultural y respetuoso; evita usarlo para vender."
+   "termino": "n oubliez pas les paroles les masters",
+   "color": "verde",
+   "por_que": "Gran interés por la final de los Masters del concurso musical.",
+   "idea": "Bares y marcas: dinámica 'termina la letra' en redes o noche de karaoke temática."
   }
  ],
  "audiencias": {
@@ -1134,41 +1134,45 @@
  "anuncios": [
   {
    "busqueda": "Black Friday",
-   "total": 166957,
+   "total": 170269,
    "anunciantes": [
     {
      "nombre": "Reactive Outdoor",
      "url": "https://www.facebook.com/ads/library/?id=1138861289079550"
+    },
+    {
+     "nombre": "Reactive Outdoor (versión en inglés)",
+     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
     }
    ],
-   "patron": "Competencia muy alta; las tiendas online pautan 'Black Friday, c'est parti' con descuentos de hasta -62% desde mediados de noviembre."
+   "patron": "El Black Friday ya arrancó semanas antes del 27 de noviembre: los primeros resultados los acapara una sola marca outdoor con decenas de variantes del mismo anuncio en francés e inglés y un descuento máximo como gancho. Señal de pruebas creativas masivas: para destacar hace falta un ángulo propio (regalo, servicio o urgencia real), no solo el porcentaje."
   },
   {
-   "busqueda": "livraison offerte Noël",
-   "total": 4004,
+   "busqueda": "calendrier de l'Avent",
+   "total": 4194,
    "anunciantes": [
     {
-     "nombre": "Des Petits Hauts",
-     "url": "https://www.facebook.com/ads/library/?id=1064720053306592"
+     "nombre": "Palais des Thés",
+     "url": "https://www.facebook.com/ads/library/?id=2646196569175353"
     },
     {
-     "nombre": "Sense Coffee",
-     "url": "https://www.facebook.com/ads/library/?id=1552451063356247"
+     "nombre": "Carrefour Courrières",
+     "url": "https://www.facebook.com/ads/library/?id=1887527108906864"
     },
     {
-     "nombre": "Calinoua",
-     "url": "https://www.facebook.com/ads/library/?id=1330519152466545"
+     "nombre": "Super U Antibes",
+     "url": "https://www.facebook.com/ads/library/?id=1475054868057390"
     },
     {
-     "nombre": "Atelier Menara",
-     "url": "https://www.facebook.com/ads/library/?id=1127381146876002"
+     "nombre": "Coopérative U",
+     "url": "https://www.facebook.com/ads/library/?id=1177674564612945"
     },
     {
-     "nombre": "Cleantex",
-     "url": "https://www.facebook.com/ads/library/?id=1866401267727641"
+     "nombre": "U Express St Symphorien d'Ozon",
+     "url": "https://www.facebook.com/ads/library/?id=958701560409623"
     }
    ],
-   "patron": "Se repiten el regalo útil o personalizado ('le cadeau qu'il utilisera', 'son premier Noël avec son prénom'), el '2 comprados, el 3.º gratis' y el envío gratis con fecha límite ('jusqu'à dimanche')."
+   "patron": "Los supermercados lanzan anuncios localizados tienda por tienda con ofertas válidas del 17 al 30 de noviembre, y las marcas gourmet (té) empujan su calendario de Adviento antes del 1 de diciembre. Para una pyme, el calendario o la caja temática con fecha de entrega garantizada es un formato probado esta semana."
   }
  ],
  "ocultar": [
@@ -1220,6 +1224,39 @@
   "L'Estonie va fermer sa frontière avec la Russie après une nouvelle tentative de sabotage",
   "Paris : Un policier municipal alcoolisé a été arrêté après avoir menacé de tuer des personnes racisées",
   "Paris: interdiction de rassemblement autour de certains lycées et universités",
-  "Made in France : quand l’industrie s’invite dans la présidentielle"
+  "Made in France : quand l’industrie s’invite dans la présidentielle",
+  "saint-martin-vésubie",
+  "fdj",
+  "yannick jadot",
+  "denis olivennes",
+  "Kénitra.. Arrestation d'une personne apparue dans une vidéo virale en possession d'une arme blanche",
+  "Sandrine Rousseau lâche sa patronne et premières déconvenues pour Teddy Riner",
+  "Édouard Philippe accepte la médiation de Gérard Larcher à droite et au centre, mais à une condition (de taille)",
+  "Des militants d’extrême droite agressés dans un bar de Saint-Julien à Marseille",
+  "« On a touché à ce qu’il y a de plus sacré pour nous » : la Corse très attentive au procès des profanateurs d’une statue de la Vierge",
+  "Un nageur israélien tente de « s’infiltrer par la mer » en Jordanie",
+  "Cyberattaque contre Maileva, filiale du groupe La Poste : une enquête ouverte et confiée à la Brigade de lutte contre la cybercriminalité",
+  "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités",
+  "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
+  "Grève du 17 novembre à Paris : écoles, fonction publique, cheminots, ce qui nous attend ce mardi",
+  "Roanne. Santé sexuelle, consentement… Une journée de prévention pour les étudiants",
+  "Attaque ultra-violente du Café de la Plage, à Brest : la porosité entre extrême droite et hooligans à nouveau jugée",
+  "Sexe, espionnage et intelligence artificielle : pourquoi le scandale Nvidia n’est pas qu’une simple affaire de tromperie",
+  "« Après les chiens, il s’en prenait à moi » : France raconte comment elle a réussi à fuir son mari violent",
+  "Gironde : très gravement brûlée par son conjoint, une mère de trois enfants décède",
+  "\"Nous en avons ras-le-bol que nos enfants soient interdits d'école\", lance un parent d'élève alors que la mobilisation lycéenne se poursuit",
+  "Violences à l'école : ces enfants s'élèvent contre le harcèlement",
+  "« Il lui fournissait drogues et jeunes hommes » : quel drame a eu lieu sur cette île de luxe en Bretagne ?",
+  "Bergerac : des vols de câbles en cuivre plongent toute une zone commerciale dans le noir",
+  "Le ministre de l’Éducation nationale à Nantes pour la réouverture de Nelson-Mandela, ce lundi 16 novembre.",
+  "France : le ministre de l’Éducation attendu lundi à Nantes pour la réouverture du lycée Nelson-Mandela",
+  "Le sommet de Zucman contre « l’oligarchie internationale » est financé par l’argent public et par des milliardaires",
+  "Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires",
+  "L'Allemagne restreint la circulation des voitures BYD, Nio et Geely sur les sites militaires pour des raisons de sécurité",
+  "Une réussite pour la 21e édition des concerts de l’espoir à Revin, au profit de la lutte contre le Sida",
+  "Budget 2027 : les sénateurs votent en faveur d’une hausse des taxes sur les boissons Vody, sucrées et ultra-alcoolisées",
+  "Les boissons énergisantes et compléments stimulants apparaissent 11 fois plus souvent dans les déclarations d'arrêt cardiaque, selon plus de 28 000 signalements médicaux analysés",
+  "11-Novembre à Aragon : bleuets et fleurs, en souvenir",
+  "Le ministre de l’Agriculture marocain auprès des producteurs de tomate à Chtouka Ait Baha"
  ]
 }

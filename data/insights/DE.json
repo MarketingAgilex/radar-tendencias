@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania vive la caza de ofertas previa al Black Friday: cafeteras automáticas, Apple Watch, iPhone, tocadiscos y Blu-rays de anime ya tienen precio rebajado, y los compradores comparan entre Amazon y eBay. Desde el 20 de noviembre entran en vigor nuevas reglas para pagos con Klarna y PayPal, y los medios piden revisarlas antes de comprar. En televisión, la serie turca 'Teşkilat' y el estreno de un Krimi de la ARD atraen búsquedas, y un cartel alemán en Italia se volvió viral. Precios comparables, pagos claros y entretenimiento en casa funcionan hoy.",
+ "lectura": "Alemania mira el bolsillo: la subida de las tarifas eléctricas desde enero dispara búsquedas y abre espacio para productos de ahorro energético, solares de balcón y electrodomésticos eficientes. A 11 días del Black Friday crecen las ofertas anticipadas en smartwatches, afeitadoras premium, impresoras 3D y Switch 2, y una encuesta indica que el 51% quiere usar IA para comparar precios, aunque solo el 37% confía en los descuentos. En casa, la televisión del sábado con 'Grill den Henssler', el lanzamiento inminente de GTA VI y la llegada de los mercados navideños antes del primer Adviento (29 de noviembre) marcan el ocio. Datos claros, ahorro demostrable y planes acogedores para el invierno funcionan hoy.",
  "semaforo": [
   {
-   "termino": "trt 1 canli",
-   "color": "verde",
-   "por_que": "La comunidad turca en Alemania sigue la nueva temporada de la serie 'Teşkilat'.",
-   "idea": "Marcas para la comunidad turco-alemana: contenido bilingüe y planes para ver la serie."
+   "termino": "strompreise 2027",
+   "color": "amarillo",
+   "por_que": "Muchos proveedores suben la tarifa eléctrica desde enero y el tema genera preocupación por el gasto del hogar.",
+   "idea": "Marcas de eficiencia y solar de balcón: guía práctica de ahorro con cifras reales, sin alarmismo ni presión de compra."
   },
   {
-   "termino": "mordach",
+   "termino": "grill den henssler",
    "color": "verde",
-   "por_que": "Estreno de un Krimi de la ARD con una actriz de Aquisgrán que se hizo conocida por una canción viral.",
-   "idea": "Medios y marcas regionales: contenido sobre talento local y planes de domingo en casa."
+   "por_que": "El duelo de cocina de la televisión del sábado concentra búsquedas.",
+   "idea": "Carnicerías, tiendas de cocina y kits de recetas: reto 'Grill den Profi' con una receta del programa y los utensilios para replicarla."
   },
   {
-   "termino": "tv programm heute",
-   "color": "verde",
-   "por_que": "Búsqueda de la programación del fin de semana.",
-   "idea": "Delivery y snacks: promociones para noches de tele en casa."
+   "termino": "gta grand theft auto",
+   "color": "amarillo",
+   "por_que": "El lanzamiento de GTA VI es inminente, pero es un juego para mayores de 18 años.",
+   "idea": "Tiendas de tecnología: comunica hardware, almacenamiento y accesorios para público adulto, sin usar escenas del juego."
   },
   {
-   "termino": "kaffee",
+   "termino": "nicolas cage",
    "color": "verde",
-   "por_que": "Estudios sobre café y salud generan interés.",
-   "idea": "Cafeterías y marcas de café: contenido de consumo responsable sin afirmaciones médicas."
+   "por_que": "Su nueva película, 'Best Pancakes in the County', genera reseñas y curiosidad.",
+   "idea": "Cafeterías y brunch: 'los mejores pancakes del barrio' como plato de la semana en clave de cine."
   },
   {
-   "termino": "black friday nintendo switch 2",
+   "termino": "thanksgiving 2026",
    "color": "verde",
-   "por_que": "Ofertas de Switch 2 con Mario Kart World en Black Friday.",
-   "idea": "Gaming y regalos: packs con accesorios y entrega antes de Navidad."
+   "por_que": "Crece el interés por Thanksgiving (26 de noviembre) y sus ofertas, sobre todo entre expatriados y curiosos.",
+   "idea": "Restaurantes y supermercados: menú o caja 'Friendsgiving' para compartir antes del Black Friday."
   }
  ],
  "audiencias": {
@@ -1218,32 +1218,62 @@
   "Nahost: Iran meldet Explosionen an Öltankern in der Straße von Hormus – US-Militärstützpunkt angegriffen",
   "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
   "Berlin direkt vom 15. November 2026",
-  "Ermordete Schülerin: Lisa soll eingeäschert werden"
+  "Ermordete Schülerin: Lisa soll eingeäschert werden",
+  "mario basler",
+  "„Niemand könnte diese Konstellation schlagen“ – Landeschef fordert Doppelspitze Heil und Schwesig",
+  "Estland schließt ab Dezember Grenzübergänge nach Russland",
+  "Tschechien: Demonstration in Prag gegen geplante Abschaffung der Rundfunkgebühr",
+  "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
+  "Israel: Eisenkot lehnt Netanjahus erneute Forderung nach Einheitsregierung ab",
+  "Van der Bellen in Berlin: \"Mitgefühl ist Zeichen von Stärke\"",
+  "Hunderte Flüchtlinge auf Kanaren angekommen",
+  "„Kein Bild der europäischen Stärke“: Grünen-Politikerin kritisiert Europas Team für die Ukraine-Gespräche",
+  "Mit Unterstützung von Musk und Co. Ex-Nvidia-Chef Huang arbeitet offenbar an Rückkehr an die Konzernspitze",
+  "Wirtschaftspolitik: US-Finanzminister fordert neuen Nvidia-Chef von außerhalb",
+  "Van der Bellen: \"Mitgefühl ist keine Schwäche\"",
+  "Viele essen es täglich: Beliebtes Lebensmittel gilt laut WHO als krebserregend",
+  "Gesundheit - Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen",
+  "Gesundheit: Hackerangriff auf Krankenhaus in Greiz",
+  "Ritter Sport gegen Wacker: Wie viel PR-Strategie steckt hinter einem solchen Rechtsstreit?",
+  "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter",
+  "Rüstungsansiedlungen in Sachsen-Anhalt: Chancen für Zulieferer, Sorge um Fachkräfte im Handwerk",
+  "„Waldfamilie“ in Italien zieht vor Oberstes Gericht",
+  "Einbruch in Heiligenstein: Täter stehlen Geld und Schmuck",
+  "Zwei Taten am Samstag: Schmuck bei Einbruch in Amorbach gestohlen",
+  "800 Zigaretten, null Kontrollen: Wie Berliner die Tabaksteuer umgehen",
+  "Beutelsbacher Konsens wird 50: Das sind seine drei Grundprinzipien",
+  "Bildung als Fundament der Demokratie: Gedenkfeier zum Volkstrauertag auf dem Getraudenfriedhof in Halle mahnt zu Wachsamkeit – Du bist Halle",
+  "Verkehrsunfall in Baden-Baden: Auto stürzt zehn Meter von Brücke - mehrere Menschen sterben",
+  "Beziehungsstreit in Brasilien eskaliert: Ex rast auf Frau zu, Auto überschlägt sich",
+  "Staatsschutz ermittelt: Auto von „Nius“-Chef angezündet – Polizei prüft Bekennerschreiben",
+  "Baden-Baden: Auto stürzt von Brücke – drei Tote",
+  "Saarland: 29-Jähriger unter seinem Auto eingeklemmt und lebensgefährlich verletzt worden",
+  "Domino-Effekt und Bau-Turbo: Das ist los in Fredenbecks Gemeinderäten"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Antes del 20 de noviembre",
-   "idea": "Cambian las reglas para pagar con Klarna y PayPal. Tiendas online: explica en tres pasos qué debe hacer el cliente y qué métodos de pago aceptas sin sorpresas.",
+   "titulo": "Strompreis-Spartipp",
+   "idea": "Las tarifas eléctricas suben desde enero y es una de las búsquedas más fuertes del día. Tiendas de electrodomésticos y hogar: muestra en euros al año cuánto consume cada producto destacado frente a un modelo antiguo; cifras concretas, sin alarmismo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Compara antes de comprar",
-   "idea": "Los medios muestran diferencias enormes de precio entre plataformas. Publica tu precio con comparativa honesta y el valor añadido que ofreces (garantía, servicio, envío).",
-   "formato": "Copy para anuncio"
+   "titulo": "Fit für KI-Shopping",
+   "idea": "El 51% de los alemanes quiere usar IA para comprar en Black Friday, pero solo el 37% confía en los descuentos. Emprendedores: comparte cómo preparas tu tienda (fichas completas, precio de referencia, preguntas frecuentes) para que los asistentes de IA y los clientes encuentren datos fiables.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Café perfecto en casa",
-   "idea": "Las cafeteras automáticas tienen hasta 40% de descuento anticipado. Tostadores y cafeterías: pack de granos para estrenar la máquina con receta del barista.",
+   "titulo": "Glühwein für zu Hause",
+   "idea": "En Múnich ya hay Glühwein de 18 euros la taza y los mercados navideños están por abrir. Tiendas gourmet y cafeterías: kit de Glühwein casero con especias y receta, para quien quiere el ambiente del Weihnachtsmarkt sin pagar precio de lujo.",
    "formato": "Reel"
   },
   {
-   "titulo": "Vinilo para regalar",
-   "idea": "Los tocadiscos están entre los regalos tecnológicos de la temporada. Tiendas de música: guía 'tu primer tocadiscos y cinco vinilos para empezar'.",
+   "titulo": "Alltagsprodukt, starker Pitch",
+   "idea": "Ralf Dümmel dijo en televisión que el mejor producto es el papel higiénico: lo que se usa a diario se vende solo. Emprendedores: cuenta en 30 segundos qué problema cotidiano resuelve tu producto y por qué se recompra, con tono directo, sin superlativos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Adviento con tu marca",
-   "idea": "Los calendarios de Adviento ya son tema de compra. Pequeños comercios: un Adviento digital con una sorpresa diaria desde el 1 de diciembre para fidelizar.",
+   "titulo": "Entspannter Hund im Winter",
+   "idea": "Un estudio con más de 40.000 perros encontró señales de miedo en el 84% de ellos. Tiendas de mascotas y adiestradores: consejos semanales para un perro tranquilo en invierno y en Nochevieja, con productos calmantes y juguetes de olfato.",
    "formato": "Historia Instagram"
   }
  ]

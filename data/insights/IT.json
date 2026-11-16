@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia calienta el Black Friday, que según las previsiones moverá unos 4.300 millones de euros: Amazon, MediaWorld, Unieuro y marcas como Bose, Anker o SwitchBot ya adelantan descuentos, mientras las autoridades insisten en verificar sitios y pagos. El ciberataque a la red postal francesa, con datos de 22 millones de personas, aumenta la preocupación por la seguridad. La inflación acumulada del 4,4% pesa en el bolsillo, y en Milán triunfa un mercadillo vintage gratuito; en redes, la amistad entre un zorro y un jabalí se vuelve viral. Ofertas reales, compra segura y segunda mano funcionan hoy.",
+ "lectura": "Italia entra en la recta final hacia el Black Friday del 27 de noviembre con ofertas anticipadas en auriculares, consolas, altavoces y smartphones, justo cuando cambian las reglas para pagar a plazos con PayPal, Klarna y Scalapay. El ocio en casa manda: Ballando con le Stelle, la telenovela 'Racconto di una notte' y la cuenta atrás de GTA VI concentran búsquedas, mientras Xbox celebra 25 años. La Colletta Alimentare superó las 8.700 toneladas, señal de un consumidor solidario pese al costo de vida, y Milán ya enciende las luces navideñas del Quadrilatero rumbo al puente de la Immacolata (8 de diciembre). Pago a plazos explicado con claridad, planes de sofá con la alerta de lluvia en Roma y regalos con alma navideña funcionan hoy.",
  "semaforo": [
   {
-   "termino": "francia",
+   "termino": "racconto di una notte",
+   "color": "verde",
+   "por_que": "La telenovela de la tarde tiene seguidores fieles que buscan el resumen de cada capítulo.",
+   "idea": "Marcas de hogar, café y snacks: contenido 'aspettando la puntata' con un pequeño ritual de merienda, sin spoilers."
+  },
+  {
+   "termino": "the body netflix",
    "color": "amarillo",
-   "por_que": "Un ciberataque al servicio postal francés expuso datos de 22 millones de personas.",
-   "idea": "Ciberseguridad y e-commerce: consejos para proteger datos y reconocer correos falsos de 'paquetes pendientes'."
+   "por_que": "Serie juvenil de estética retro descrita como sensual y con elementos oscuros; no apta para todos los públicos.",
+   "idea": "Moda y belleza para adultos: inspírate en la estética vintage de instituto sin vincular la marca a la trama ni dirigirte a menores."
+  },
+  {
+   "termino": "jennifer lawrence",
+   "color": "verde",
+   "por_que": "Sus looks de otoño (estampado de leopardo, friulane burdeos) inspiran búsquedas de moda.",
+   "idea": "Tiendas de ropa: 'el look de la semana' recreado con prendas propias y precio total visible."
   },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "El programa más buscado del fin de semana.",
-   "idea": "Entretenimiento, moda y belleza: contenido de fans y looks de gala."
+   "por_que": "El programa del sábado sigue liderando búsquedas y se ve también en diferido en RaiPlay.",
+   "idea": "Academias de baile y gimnasios: clase abierta 'stile Ballando' para principiantes, con reserva por WhatsApp."
   },
   {
    "termino": "marco bocci",
    "color": "verde",
-   "por_que": "El actor participa en Ballando con le Stelle.",
-   "idea": "Contenido ligero de entretenimiento sin opinar sobre personas."
-  },
-  {
-   "termino": "monica guerritore luca urso",
-   "color": "verde",
-   "por_que": "Pareja de baile del programa genera búsquedas.",
-   "idea": "Usa el formato de baile y reto, no la vida privada."
-  },
-  {
-   "termino": "rockstar games gta vi",
-   "color": "verde",
-   "por_que": "Preparativos para el lanzamiento de GTA VI.",
-   "idea": "Gaming y tecnología: espacio en consola, accesorios y packs de estreno."
+   "por_que": "El actor es uno de los concursantes más buscados del programa.",
+   "idea": "Ropa deportiva y bienestar: contenido sobre preparación y constancia en los ensayos, sin opinar sobre su vida personal."
   }
  ],
  "audiencias": {
@@ -1179,33 +1179,77 @@
   "Lo scoop del Financial Times: «Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia. E cerca il supporto della Casa Bianca»",
   "Roma, lui non lava i piatti e lei lo pesta a sangue con uno scaldino: arrestata",
   "Il solito \"finto carabiniere\" deruba una nonnina: via gioielli e centinaia di euro",
-  "Sull’isola di Maiorca c’è un albergo unico nato e cresciuto attorno all’arte e agli artisti"
+  "Sull’isola di Maiorca c’è un albergo unico nato e cresciuto attorno all’arte e agli artisti",
+  "famiglia",
+  "el chapo",
+  "paola barale malattia papilloma virus",
+  "Fuori dal coro: Follie social: l'immigrato sbandato diventato virale Video",
+  "L'incredibile esonero del ct dell'Egitto: rissa tra le due ex mogli e doppio divorzio. Lo scandalo, il video virale e il licenziamento",
+  "Fuori dal coro: Udine: milioni per l'accoglienza e la città è ridotta così Video",
+  "Fuori dal coro: Ma quale integrazione: l'africano che terrorizza Ostia Video",
+  "Schlein: “Io a favore di una tassa per i super ricchi, il ceto medio lo tassa Meloni”",
+  "Paura sul volo Easyjet Keflavik-Milano: fermato un passeggero ubriaco armato di coltello",
+  "Come funziona la truffa del finto carabiniere: le informazioni carpite alla vittima, la telefonata, la messa in scena con più complici e la «centrale",
+  "Iran torna a colpire in Bahrain, monito dal Golfo 'no a escalation'",
+  "Nyt, 'Lutnick ha allentato le norme sui chip in contrasto con attività di famiglia'",
+  "Lo scoop del Financial Times: Jensen Huang rivuole la guida di Nvidia. «I suoi alleati pronti ora cercano il supporto della Casa Bianca»",
+  "Vittime della strada, Bologna ricorda con biciclette e scarpe bianche: \"Fermare il nuovo Codice\"",
+  "Bici e scarpe bianche, si torna nei luoghi degli incidenti mortali | FOTO e VIDEO",
+  "Bande all'assalto della Beauty Valley, a Dovera rubati cosmetici per quasi mezzo milione",
+  "“Multati per avere portato dei fiori alle lapidi dei partigiani il 25 aprile nell’area del centro sociale Askatasuna”: la denuncia dell’Anpi Torino",
+  "Giornata del Ringraziamento Coldiretti, Giani: “Agricoltura è ricchezza fondamentale”",
+  "VIDEO | Assessora Agricoltura Campania: \"A Gustus grande fermento\"",
+  "Mennini (Min. Salute): \"Equità, universalità, innovazione. Garantire cure che bloccano l'insorgere delle malattie\"",
+  "Tumore al seno: all’Ulss3 otto Palestre della salute per contrastarlo",
+  "Avatar dei cari defunti: se l’IA inganna il lutto",
+  "Tumore del polmone, perché l'intelligenza artificiale può aiutare a individuare la cura",
+  "Taranto, la prevenzione del tumore al seno arriva in azienda: iniziativa promossa da TP Italia",
+  "Polo S. Rossore occupato: \"Ora vogliamo più spazi\"",
+  "Nordio premia al SuperCat Show l'associazione Arca Gatti della Piramide",
+  "\"Per 1 anno Totò è tornato dove il proprietario parcheggiava l'auto\", storia di Navid Tarazi, l'influencer che fotografa i cani in Doggodaiily",
+  "Elena Bonetti: «Politiche per la genitorialità, occupazione di qualità: cosa fare per le donne»",
+  "Caos del trasporto aereo negli Usa, Duffy: \"Entro lunedì i voli torneranno a pieno regime\"",
+  "Duffy, 'entro lunedì i voli torneranno a pieno regime negli Usa'",
+  "Voli Usa, la ripresa è lenta. È polemica sui fondi",
+  "Formazione docenti: bando MIM per i percorsi sulla Frontiera Adriatica",
+  "Videonews Italpress – Scuola, Valditara “Con noi la spesa per l’istruzione è aumentata”",
+  "Valditara: spese istruzione aumentate rispetto ad altri governi",
+  "Manovra, Valditara: \"Alla scuola 64,5 miliardi, risorse aumentate del 13,1%. Altri 650 mln per la climatizzazione\"",
+  "Fintech, allarme sulla Legge di Bilancio 2027: cosa pensano delle novità sull'IRAP",
+  "Mauro De Ieso, sindaco di Pago Veiano, è stato nominato componente della Commissione nazionale Anci Finanza Locale",
+  "Treviso, speronata da un'auto: donna incinta di 8 mesi partorisce d'urgenza",
+  "Scontro tra due auto in galleria, cinque morti nel Cosentino",
+  "Mantova: auto mai consegnate e false rottamazioni, tre persone denunciate dalla Polizia di Stato",
+  "Industria, energia e qualità della vita. L’appello di Loiero: \"Si usino in modo strategico le risorse pubbliche\"",
+  "Usa, Macklemore sfida l’industria musicale: «Nove arene dicono no al tour pro Palestina»",
+  "FOGGIA/CAPITANATA E GARGANO DA SUD CONNESSI TUTTO L’ANNO CON INTERMODALITÀ E LOGISTICA: CATANEO PROPONE CABINA DI REGIA.",
+  "Energy drink e integratori stimolanti, un segnale d’allarme per il cuore: arresti cardiaci 11 volte più frequenti"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Lo sconto è vero?",
-   "idea": "Los medios enseñan a comprobar si el descuento es real. Publica el precio de los últimos 30 días de tus productos destacados, como pide la normativa europea, y gana credibilidad.",
+   "titulo": "Rate chiare, zero sorprese",
+   "idea": "Cambian las reglas para pagar a plazos con PayPal, Klarna y Scalapay justo antes del Black Friday. Tiendas online: explica en tres láminas cuántas cuotas ofreces, el costo total y qué cambia para el cliente; la claridad es lo que más pesa al consumidor italiano.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Vintage che conquista",
-   "idea": "El Remira Market de Milán atrae con moda vintage y entrada gratuita. Tiendas de segunda mano: cuenta la historia de tres prendas únicas y ofrécelas como regalo navideño.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Paga sicuro",
-   "idea": "Tras el ciberataque a la red postal en Francia crece la preocupación por los datos. E-commerce: explica en 30 segundos cómo protegen tus pagos y datos tus clientes.",
+   "titulo": "Pronti per GTA VI",
+   "idea": "Los medios explican cómo preparar la consola y cuánto espacio liberar para el lanzamiento de GTA VI. Tiendas de tecnología: una checklist rápida con disco SSD, mando extra y auriculares, con precio cerrado y entrega garantizada para el día del estreno (pensada para público adulto).",
    "formato": "TikTok"
   },
   {
-   "titulo": "Carga para todo el día",
-   "idea": "Power banks y cargadores Anker están entre las ofertas más vistas. Tiendas de tecnología: 'el kit para no quedarte sin batería en Navidad' con precio cerrado.",
-   "formato": "Copy para anuncio"
+   "titulo": "Friulane, il tocco top",
+   "idea": "Jennifer Lawrence cambió los tacones por unas friulane burdeos con traje sastre y el look se volvió tendencia. Zapaterías y marcas de moda: tres formas de llevar friulane este otoño, con el origen artesanal del calzado como argumento.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Amistad inesperada",
-   "idea": "El video del zorro y el jabalí conquistó la red. Marcas de mascotas o naturaleza: contenido tierno sobre 'amistades improbables' con tus clientes y sus animales.",
-   "formato": "Reel"
+   "titulo": "Il sabato è Ballando",
+   "idea": "Ballando con le Stelle es la cita fija del sábado y sus búsquedas superan las 20.000. Delivery, bares y pastelerías: propón un 'kit serata Ballando' para pedir antes del programa y lanza una encuesta sobre la pareja favorita de la semana.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Natale fatto a mano",
+   "idea": "Vuelven los mercados de artesanía (Hand Made en Florencia, Montebello Market en Turín) y Milán ya enciende las luces de Navidad. Artesanos y pequeñas marcas: anuncia regalos hechos a mano con pedido antes del 8 de diciembre para llegar a tiempo al árbol de la Immacolata.",
+   "formato": "Copy para anuncio"
   }
  ]
 }

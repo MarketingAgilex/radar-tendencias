@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Tras la ola de calor vuelven las lluvias a Santiago y el vórtice polar, ligado al Super Niño, despierta curiosidad por el clima de los próximos meses. A dos semanas del Black Friday, los medios enseñan a revisar si los descuentos son reales y a comparar precios, mientras Kidd Voodoo llega al Monumental con casi todo agotado. La industria local de videojuegos se luce con los Premios Games From Chile en la portada de Steam, y un estudio sobre soledad e hiperconexión digital invita a conversar. Contenido útil para el cambio de clima, transparencia en precios y orgullo creativo chileno conectan hoy.",
+ "lectura": "A once días del Black Friday (27 de noviembre), el consumidor chileno busca aprender a distinguir descuentos reales de inflados y las marcas ya se adelantan, como Skechers con zapatillas gorpcore o las ofertas tempranas de belleza. El clima vuelve a mandar: tras la ola de calor regresan las lluvias y las tormentas al centro-sur, así que la ropa funcional, el hogar y el delivery tienen excusa para hablar del día a día. En entretenimiento suenan el estreno de HBO Max sobre Gary Medel y los Premios Games From Chile del martes 17, mientras el auge de los 'perrihijos' (tiendas de mascotas +132% en seis años en la RM) abre un nicho para regalos navideños. Transparencia en precios, utilidad frente al clima y cercanía con las pasiones locales son la mejor apuesta de hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Vuelve la lluvia, ¿estás listo?",
-   "idea": "Santiago pasa del calor a la lluvia. Tiendas de ropa y hogar pueden armar un 'kit de cambio de clima' (paraguas, chaqueta liviana, botas) con despacho rápido.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Descuento real o cuento",
-   "idea": "Los medios explican cómo comprobar si una oferta de Black Friday es verdadera. Muestra el historial de precio de tus productos estrella: transparencia que diferencia.",
+   "titulo": "Perrihijos también tienen Black",
+   "idea": "Las tiendas de mascotas de la RM crecieron 132% en seis años gracias a los 'perrihijos' y 'gatihijos'. Arma una guía de regalos navideños por tipo de mascota y anticipa qué productos tendrán descuento el 27: le hablas a un público que gasta con cariño.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Orgullo gamer chileno",
-   "idea": "Los Premios Games From Chile aparecen en la portada de Steam antes de su ceremonia del martes 17. Marcas de tecnología y snacks pueden apoyar a estudios locales con un sorteo o contenido conjunto.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Graba en vertical, vende mejor",
-   "idea": "Se viralizó una guía sobre por qué todo se graba en vertical. Pymes: tres tips para grabar el producto con el celular y subirlo a Reels y TikTok hoy mismo.",
+   "titulo": "Gorpcore para días de lluvia",
+   "idea": "La moda outdoor se toma la ciudad y vuelven las lluvias a Santiago. Muestra tres looks funcionales (zapatilla, cortaviento, mochila) que sirven para la pega y para el fin de semana, con precio claro y despacho al tiro.",
    "formato": "Reel"
   },
   {
-   "titulo": "Desconéctate un rato",
-   "idea": "Un estudio vincula soledad e hiperconexión digital. Cafés, librerías y experiencias pueden proponer 'un plan sin pantallas' para el fin de semana, con tono cálido.",
+   "titulo": "¿Rata o rana?",
+   "idea": "La teoría viral de TikTok divide a todos en ratas o ranas. Úsala con humor para tu marca: 'rata' compra apenas ve algo bacán, 'rana' espera el Black Friday; invita a comentar cuál son y responde con el producto ideal para cada uno.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Si se cae el correo, ¿cómo te ubican?",
+   "idea": "La caída de Outlook dejó a muchos sin correo justo antes de la temporada alta. Comparte cómo tu pyme tiene un canal de respaldo (WhatsApp, formulario o redes) para no perder pedidos ni clientes durante el Black Friday.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Tu wishlist del Black",
+   "idea": "Los medios explican dónde encontrar las marcas con descuento. Invita a tus seguidores a guardar o comentar los productos que quieren y avísales primero cuando bajen de precio: generas lista de interesados antes del 27, sin letra chica.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "vórtice polar",
-   "color": "verde",
-   "por_que": "Una ruptura del vórtice polar ligada al Super Niño despierta interés por el clima de los próximos meses.",
-   "idea": "Ropa, hogar y energía: contenido explicativo sobre cómo prepararse para cambios bruscos de temperatura."
-  },
-  {
-   "termino": "disney",
-   "color": "verde",
-   "por_que": "Novedades de Disney por la temporada navideña y estrenos de sus franquicias.",
-   "idea": "Jugueterías y regalos: guías de Navidad por edad y personajes favoritos."
+   "termino": "santa cruz",
+   "color": "amarillo",
+   "por_que": "Interés por las olas gigantes que golpean la costa de California; poca conexión directa con el consumo chileno.",
+   "idea": "Tiendas de surf y turismo costero: contenido de olas y temporada de verano, con foco en la experiencia y no en el riesgo."
   },
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido iluminó el cielo desde la RM hasta Los Ríos y se viralizó.",
-   "idea": "Contenido de curiosidad y humor ligero; ciencia, ópticas y telescopios pueden educar."
+   "por_que": "El bólido que iluminó el cielo desde la RM hasta Los Ríos sigue dando que hablar en redes.",
+   "idea": "Campaña ligera de 'pide un deseo': tu producto estrella como el deseo cumplido, con humor y sin exagerar."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Cambio de calor a lluvias y bajas temperaturas.",
-   "idea": "Ropa, hogar y delivery: mensajes adaptados al clima de cada día."
+   "por_que": "Se esperan bajas temperaturas y posibles lluvias tras días de calor.",
+   "idea": "Mensajes según el clima de cada día: paraguas y cortavientos si llueve, bebidas frías si vuelve el sol."
   },
   {
-   "termino": "banco estado",
-   "color": "verde",
-   "por_que": "Interés por la gift card de $100 mil que ofrece BancoEstado en noviembre.",
-   "idea": "Comercios: ideas de compra con ese monto y medios de pago aceptados."
+   "termino": "tiempo",
+   "color": "amarillo",
+   "por_que": "Se anuncian hasta 100 mm de lluvia en el centro-sur por un sistema frontal.",
+   "idea": "Comercios y e-commerce con envíos a Biobío, La Araucanía y Los Ríos: avisar posibles demoras con tono de servicio, sin alarmar."
+  },
+  {
+   "termino": "as",
+   "color": "amarillo",
+   "por_que": "Término genérico asociado a viajeros afectados por la detención temporal de vuelos en EE.UU.",
+   "idea": "Agencias de viaje y turismo: recordar con calma la importancia de revisar condiciones de cambio y tener margen en los itinerarios de fin de año."
   }
  ],
  "ocultar": [
@@ -106,7 +106,23 @@
   "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
   "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
   "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "Kast inicia gira por Asia en Vietnam con foco en ampliar el intercambio comercial y las exportaciones chilenas"
+  "Kast inicia gira por Asia en Vietnam con foco en ampliar el intercambio comercial y las exportaciones chilenas",
+  "jubilación",
+  "Kast baja por primera vez del 20% de popularidad, desfondado por el caso Rabat y las concesiones a los camioneros",
+  "Estonia cerrará su frontera con Rusia tras denunciar intento de sabotaje",
+  "Irán reporta hundimiento de superpetrolero tras explosiones de minas navales en estrecho de Ormuz",
+  "Colegio de Profesores se suma a marcha contra el sistema de AFP en Chile",
+  "Intentó dejar de pagar pensión de alimentos alegando que solo debía 2 meses: Corte acreditó 3 y rechazó su demanda",
+  "Centro de Salud Integral Salvador Allende: 20 años de compromiso solidario con Venezuela",
+  "Actualizan estado de salud de Mauricio Pinilla: Revelan qué ocurrió antes de su paso por Vértigo",
+  "Jhendelyn Núñez revela delicado diagnóstico de salud: 'Llevo 27 años de mi vida normalizando dolores'",
+  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
+  "Corrida MagiK convocó a más de 9 mil personas en una jornada familiar por los niños y adolescentes con cáncer",
+  "Coqueluche en Chile: Coquimbo suma 352 casos notificados y crece la preocupación por los bebés",
+  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
+  "Carabineros detiene a un hombre y recupera dos autos robados y tres chasis",
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
  ],
  "audiencias": {
   "general": {

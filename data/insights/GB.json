@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Reino Unido se prepara para más frío: tras un breve respiro templado vuelven las alertas sanitarias por nieve y hielo en Escocia y el norte de Inglaterra, y la búsqueda del pronóstico de nieve se dispara. Los británicos planean gastar unas 103 libras en sus seres más cercanos esta Navidad, pero con presupuestos ajustados; Aldi vuelve con su batidora tipo KitchenAid y los mercados navideños abren el 21 de noviembre. Strictly Come Dancing sigue en conversación con Dianne Buswell y el estreno de GTA VI genera expectación. Calidez, ofertas útiles y planes de interior funcionan hoy.",
+ "lectura": "El británico entra en la recta final hacia el Black Friday con presupuesto ajustado y lupa en el valor: Amazon estira sus ofertas a 12 días hasta el Cyber Monday, las imitaciones asequibles de productos de lujo se perfilan como éxito navideño y los calendarios de Adviento de belleza se examinan por cuánto valen de verdad. El frío y las alertas por nieve y hielo empujan las búsquedas del tiempo y el consumo de abrigo, calefacción y planes bajo techo. En entretenimiento, Strictly se encamina a su semana en Blackpool, The Hunger Games estrena precuela y la cuenta atrás de GTA VI sigue. Transparencia en el precio, regalos que se sientan especiales sin gastar de más y calidez funcionan hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Llega la nieve",
-   "idea": "Las búsquedas sobre nieve se disparan y hay alertas por frío. Marcas de ropa, hogar y calefacción: 'tu kit para la ola de frío' con entrega antes del fin de semana.",
-   "formato": "Reel"
+   "titulo": "Dupe o el original",
+   "idea": "Las versiones económicas de artículos de lujo se perfilan como éxito de esta Navidad. Marcas de moda y belleza: compara con honestidad tu producto frente a uno premium (materiales, duración, precio) en lugar de copiar logos.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Regalos por 103 libras",
-   "idea": "Los británicos prevén gastar unas 103 libras en sus seres queridos más cercanos. Arma una guía de regalos que encaje en ese presupuesto, por persona y por interés.",
+   "titulo": "¿Vale lo que cuesta el Adviento?",
+   "idea": "Los calendarios de Adviento de belleza llegan a costar cientos de libras y se cuestiona su valor. Si vendes uno, desglosa el precio de cada producto frente al total; si no, arma un mini set con valor claro.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Mercado navideño a la vista",
-   "idea": "Los mercados festivos abren el 21 de noviembre con entrada gratuita. Artesanos y emprendedores: anuncia en qué puesto estarás y lleva un producto exclusivo para el mercado.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Calendario de Adviento propio",
-   "idea": "Los anuncios de calendarios de Adviento se multiplican en Meta. Pequeñas marcas pueden lanzar un 'Adviento' de 24 días con descuentos o contenidos diarios desde el 1 de diciembre.",
+   "titulo": "Tus 12 días de ofertas",
+   "idea": "Amazon alarga su Black Friday a 12 días. Pequeños comercios: lanza una cuenta atrás propia hasta el Cyber Monday del 30 de noviembre con un producto estrella al día y stock limitado.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Strictly en casa",
-   "idea": "Strictly Come Dancing mantiene a millones frente a la tele. Bares, delivery y snacks: 'pack noche de Strictly' para el sábado con un toque de humor británico.",
-   "formato": "TikTok"
+   "titulo": "Cuppa contra el frío",
+   "idea": "Siguen las alertas sanitarias por frío y nieve. Cafeterías y panaderías: 'warm-up combo' de cuppa y mince pie con pedido para llevar, y avisa de horarios si el tiempo empeora.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Protege tu marca antes de crecer",
+   "idea": "Un pequeño negocio de fitness quedó en medio de una disputa de marca con un gigante del sector. Emprendedores: post práctico sobre por qué registrar nombre y logo antes de escalar.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Alertas por frío y nieve en Escocia y el norte de Inglaterra tras un breve respiro templado.",
-   "idea": "Ropa de abrigo, calefacción y delivery: mensajes útiles para preparar la semana fría."
-  },
-  {
-   "termino": "diane buswell",
-   "color": "verde",
-   "por_que": "La bailarina de Strictly respondió con firmeza a críticas sobre su cuerpo tras ser madre.",
-   "idea": "Marcas de bienestar y moda: mensajes de autoestima y cuerpos reales, con respeto y sin explotar la polémica."
-  },
-  {
-   "termino": "strictly come dancing 2026",
-   "color": "verde",
-   "por_que": "Strictly Come Dancing sigue liderando la conversación del sábado.",
-   "idea": "Moda, belleza y snacks: looks de lentejuelas y planes para ver el programa."
+   "por_que": "Las búsquedas de nieve se disparan con nuevas alertas por frío en el norte y Escocia.",
+   "idea": "E-commerce: comunica fechas límite de envío ante posibles retrasos y destaca productos para 'snow day' en casa."
   },
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Gran interés por el pronóstico ante el frío y la nieve.",
-   "idea": "Contenido según el clima del día: ropa de abrigo, calefacción y planes de interior."
+   "por_que": "Alto interés diario en el pronóstico ante la semana fría.",
+   "idea": "Contenido dinámico según el tiempo: ropa de abrigo en días fríos y planes de interior en días de lluvia."
   },
   {
-   "termino": "aljaz strictly",
+   "termino": "strictly come dancing week 8 results",
    "color": "verde",
-   "por_que": "Cambio de pareja de última hora en Strictly.",
-   "idea": "Úsalo solo para contenido de entretenimiento sin opinar sobre personas."
+   "por_que": "El programa vivió una gala de remontadas y se acerca la semana en Blackpool.",
+   "idea": "Moda y belleza: looks con brillo y lentejuelas para fiestas de diciembre inspirados en el baile de salón."
+  },
+  {
+   "termino": "blake lively",
+   "color": "amarillo",
+   "por_que": "Interés por los nuevos proyectos de la actriz, figura con historial mediático polémico.",
+   "idea": "Solo para inspiración de estilo o belleza; evita opinar sobre su vida personal."
+  },
+  {
+   "termino": "a24",
+   "color": "verde",
+   "por_que": "Conversación sobre la distribución en cines de un éxito viral de la productora.",
+   "idea": "Cines, bares y tiendas de merchandising: noche de cine independiente o selección de regalos para cinéfilos."
   }
  ],
  "audiencias": {
@@ -1132,6 +1132,35 @@
   "18+VIDEOS]+]Archita Pukham Viral Video Download",
   "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
   "Jensen Huang’s downfall threatens the AI industry built around him",
-  "Neighbours of China’s London ‘mega’ embassy struggle to sell flats"
+  "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
+  "brian mackinnon",
+  "raptors vs knicks",
+  "russia",
+  "alan milburn",
+  "+ORIGINAL+CLIP+XXX+! Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "18+!Videos) Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "++【xxx^xxx~videos】 dr zahra viral video original Clip in Social Media x TikTok",
+  "~`(=maasranga tv=) পরিমনি pori moni viral video trending on social media X",
+  "PM to say 'Brexit hasn't worked' and set out conditions for future EU deal in major speech",
+  "Tories pledge to halt screen-based school exams and cut coursework",
+  "Shocking moment migrant reveals true intentions for coming to UK in four chilling words",
+  "Pope travels in helicopter weeks after lung cancer surgery",
+  "US and allies sign accord to protect AI supply chains from China",
+  "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+  "Pasta, pies and paperwork errors: the reality of Brexit food checks",
+  "Mental health expert to visit Inverness in wake of concerning Highland probable suicide figures",
+  "Whitehall swamped by AI complaints",
+  "Man who left dogs without water given 10-year ban",
+  "Interview: Barack Obama, the Illuminati and Reservoir Dogs meet New Orleans Jazz",
+  "This is Amy and little Arlo. The 35-year-old mum was diagnosed with stage four brain cancer while pregnant 💔 To allow doctors to begin emergency treatment immediately, she was forced to deliver her son nine weeks prematurely via an emergency caesarean",
+  "William and Kate change India travel plans after being invited to meet Modi | ITV News",
+  "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
+  "19 to 24-year-olds to get more funding for college under benefits overhaul",
+  "Iraq Resumes Oil Exports to Mediterranean via Syria Overland Route",
+  "RFPs: Defence Industry Development Grants Program – Exports Stream (Australia)",
+  "Bulgarian thieves pose as recycling firm drivers to steal cooking oil from eateries",
+  "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
+  "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
+  "Farm payment penalties spark cross-party opposition as pressure mounts on Agriculture Minister Andrew Muir"
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-15T21:03:20Z",
+ "actualizado": "2026-11-16T01:03:27Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra en la cuenta regresiva del Black Friday con Walmart Canada, Amazon y Costco adelantando ofertas en tecnología, cocina y calzado de invierno. Nuevos informes señalan que el salario mínimo no sigue el ritmo del costo de vida, y la caída de Microsoft reabrió el debate sobre la dependencia tecnológica de las empresas. Toronto prepara el desfile de Santa Claus en The Beaches y Vancouver estrena un gran evento navideño en un estudio de cine. Ofertas con valor real, planes de temporada y mensajes de invierno funcionan hoy.",
+ "lectura": "Canadá calienta el Black Friday con Walmart Canada, Amazon y Nordstrom adelantando ofertas en tecnología, botas de invierno y accesorios, mientras el consumidor busca valor real en un contexto de costo de vida alto. El invierno vuelve a las Praderas con nieve en Calgary y lluvias en la isla de Vancouver, y en Quebec preocupa un posible temporal la próxima semana. El entretenimiento empuja con los premios CMA, una serie de Harry Potter en camino, el resumen anual de Xbox y la canción de un dúo de Vancouver en GTA VI; además, Twitch ya permite anuncios comprables en Canadá. Funcionan los precios claros en CAD, los productos para el frío y los formatos de resumen y regalo.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con presupuesto ajustado",
-   "idea": "Con el salario mínimo por detrás del costo de vida, el canadiense cuida cada dólar. Destaca productos de uso diario con descuento real y precio por unidad o por uso.",
+   "titulo": "Tu año, estilo Playback",
+   "idea": "Xbox lanzó su resumen anual personalizado y la gente lo comparte. Haz el 'resumen 2026' de tu marca: productos más vendidos, la reseña favorita y un dato curioso de tus clientes, con cierre de oferta navideña.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Ruta al desfile de Santa",
-   "idea": "El desfile de Santa Claus en The Beaches de Toronto trae cierres de calles. Negocios de la zona pueden publicar un mapa con su ubicación y un chocolate caliente de cortesía para quien llegue.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Plan B si se cae la nube",
-   "idea": "La caída de Microsoft dejó a muchas pymes sin trabajar. Proveedores de tecnología: 'tres pasos para que tu negocio siga funcionando si falla tu software', en tono práctico.",
+   "titulo": "Vender en vivo en Twitch",
+   "idea": "Twitch activó anuncios comprables en Canadá. Si tu marca es de tecnología, gaming o snacks, prueba una colaboración con un streamer local y mide clics directos al producto antes del Black Friday.",
    "formato": "LinkedIn"
   },
   {
-   "titulo": "Regalos para el frío",
-   "idea": "Las ofertas anticipadas incluyen botas y abrigos. Marcas de ropa: 'el kit para sobrevivir al invierno' con precios de pre-Black Friday y envío gratis desde un monto.",
+   "titulo": "Adviento de café y matcha",
+   "idea": "Los calendarios de adviento de café y matcha son tendencia. Cafeterías y tiendas gourmet pueden armar uno con 12 o 24 muestras de origen y precio final en CAD: regalo práctico y fácil de enviar.",
    "formato": "Reel"
   },
   {
-   "titulo": "Navidad de película en Vancouver",
-   "idea": "Un estudio de cine se convierte en evento navideño en Metro Vancouver. Creadores locales y restaurantes: colaboraciones con planes 'antes o después del evento'.",
+   "titulo": "Patitas listas para el frío",
+   "idea": "Bajan las temperaturas y en Calgary ya cae nieve. Un video con 3 consejos para mascotas en invierno (botas, abrigo, cuidado de almohadillas) conecta con dueños y abre la puerta a tus productos.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "El envase que vuelve",
+   "idea": "Los compradores de Ontario ayudaron a romper un récord mundial de devolución de envases. Lanza un incentivo por traer o reutilizar tu empaque y cuéntalo con datos: el público canadiense valora lo práctico y lo sostenible.",
+   "formato": "Historia Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "winter storm",
-   "color": "amarillo",
-   "por_que": "Tormentas con nieve en montaña, lluvia y oleaje en la costa oeste.",
-   "idea": "Mensajes de servicio y productos de invierno; evita bromas sobre el riesgo."
+   "termino": "country music",
+   "color": "verde",
+   "por_que": "Los premios CMA, con Taylor Swift en el escenario, mueven a fans del country en todo el país.",
+   "idea": "Moda western (botas, sombreros, flecos) y playlists de temporada para tiendas y cafeterías."
   },
   {
    "termino": "météo",
    "color": "amarillo",
-   "por_que": "Un chorro de 300 km/h podría aumentar el riesgo de tormentas, según medios francófonos.",
-   "idea": "Marcas en Quebec: avisos de entrega y productos para el mal tiempo en francés."
+   "por_que": "En Quebec se sigue un posible temporal la próxima semana por un jet stream muy intenso.",
+   "idea": "Contenido en francés de preparación para el invierno y aviso honesto de tiempos de entrega."
   },
   {
-   "termino": "gta vi",
+   "termino": "calgary weather",
    "color": "verde",
-   "por_que": "Cuenta atrás para el lanzamiento de GTA VI tras años de desarrollo.",
-   "idea": "Gaming, tecnología y delivery: packs de estreno y contenido de expectativa."
+   "por_que": "Regresa la nieve a las Praderas (5 a 10 cm): búsqueda práctica y oportunidad estacional.",
+   "idea": "Kits de invierno para auto y casa, botas y abrigos con precio final y entrega rápida en Alberta."
   },
   {
-   "termino": "country music",
-   "color": "verde",
-   "por_que": "Taylor Swift actuará en los 60.º CMA Awards.",
-   "idea": "Moda, música y entretenimiento: looks country y playlists de temporada."
+   "termino": "ula vulcan rocket",
+   "color": "amarillo",
+   "por_que": "Una falla en pleno vuelo destruyó satélites de internet; noticia técnica con poco ángulo de consumo.",
+   "idea": "Solo para marcas de tecnología: contenido educativo sobre conectividad y planes de respaldo, sin burlas."
   },
   {
-   "termino": "cher",
+   "termino": "harry potter tv series",
    "color": "verde",
-   "por_que": "Un vestido histórico de Cher vuelve a ser referencia de moda en alfombra roja.",
-   "idea": "Moda y belleza: contenido de inspiración retro para fiestas de fin de año."
+   "por_que": "HBO compartió un adelanto de la nueva serie y reaviva la nostalgia de varias generaciones.",
+   "idea": "Noche temática o maratón, merch y regalos para fans con estética de Hogwarts."
   }
  ],
  "audiencias": {
@@ -1156,6 +1156,32 @@
   "[[VIRAL VIDEOS]] teacher viral video link",
   "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
   "18+VIDEOS]+]Archita Pukham Viral Video Download",
-  "Carney meets with Quebec premier during Francophone summit"
+  "Carney meets with Quebec premier during Francophone summit",
+  "18+!Videos) Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "+ORIGINAL+CLIP+XXX+! Camilla Araujo viral video original Clip in Social Media x TikTok",
+  "5 Minute 14 Second Viral Video Mms || 5 minute 14 Second video",
+  "~@()+XVIDEOS.COM)🥠 New Pakistani Teacher Viral Video",
+  "Bell: Danielle Smith to lay it on the line with rebellious UCP separatists",
+  "Greens elect former MP Mike Morrice, the sole candidate, to lead party",
+  "New Orleans port sues to get control of tanker that crashed into cruise ship",
+  "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+  "New AI app helps Montreal woman with ALS get her voice back",
+  "5-alarm fire breaks out at Pierrefonds-Roxboro apartment building",
+  "Five-alarm fire in Pierrefonds-Roxboro neighbourhood",
+  "venezuela",
+  "navire semi-submersible",
+  "China-U.S. Trade Council Holds First Meeting: Tariffs and Agriculture on Agenda",
+  "Health Department identifies additional exposure settings to confirmed case of measles in Durham Region",
+  "IIHF confirms Russia not competing at world juniors",
+  "Beloved sports media figure Watters passes away at 83",
+  "Desk-carrying teacher raises $19K to help kids with cancer at McMaster Children's Hospital",
+  "62% of Ontarians disapprove of Ford's education policies, Torontonians react",
+  "Walking out together happens when students resist denialism in Catholic education",
+  "57,000 Education Workers Vote on Strike Action",
+  "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
+  "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
+  "Alzheimer’s-linked protein may help detect advanced CTE: Study | Daily Sabah",
+  "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
+  "Ottawa’s Multi-Billion Food Strategy Comes With an Asterisk"
  ]
 }
