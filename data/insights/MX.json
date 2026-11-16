@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "México cierra El Buen Fin en día festivo (Día de la Revolución) con balance positivo: Concanaco reporta más ventas en la mayoría de negocios, Profeco atendió quejas y 7 de cada 10 compradores en Nuevo León fueron a tienda física. Ahora la atención pasa a Black Friday y Navidad, con boletos de eventos (Ticketmaster con descuentos), el concierto reprogramado de Karol G y el tributo a KPop Demon Hunters en CDMX. En la Biblioteca de Anuncios de Meta dominan los mensajes de 'el regalo que sí va a usar', envío gratis y 2x1. La clave es pasar del 'último día' al 'regalo resuelto' sin quemar la confianza que dejó el Buen Fin.",
+ "lectura": "México cierra hoy El Buen Fin en pleno Día de la Revolución con ventas al alza en varios estados y Profeco atendiendo quejas por ofertas no respetadas, así que el consumidor termina el maratón contento pero alerta. La atención salta ahora a Black Friday, Navidad y aguinaldos, con boletos de conciertos y combos de cine (Cinépolis, Ticketmaster) entre lo más buscado. Llegan frentes fríos con temperaturas bajo cero en el norte y el centro, y el entretenimiento manda: La Mansión VIP, La Granja VIP y el nuevo James Bond. La oportunidad es pasar del 'último día' al 'regalo resuelto' sin quemar la confianza.",
  "ideas_hoy": [
   {
-   "titulo": "Último día del Buen Fin",
-   "idea": "El Buen Fin termina hoy y la gente busca a qué hora cierra. Haz un recordatorio con cuenta regresiva y precio final claro, y ofrece apartado o meses sin intereses para quien no alcanzó.",
-   "formato": "Historias Instagram"
+   "titulo": "Cierre del Buen Fin con palabra cumplida",
+   "idea": "Profeco reporta quejas por ofertas no respetadas. Haz tu último anuncio del Buen Fin mostrando precio antes y después, condiciones claras y condiciones de devolución: hoy la transparencia vende más que el descuento.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Del Buen Fin a la lista de regalos",
-   "idea": "En Meta ya corren anuncios de 'el regalo que sí va a usar' con precio cerrado. Arma una guía de regalos por presupuesto ($299, $599, $999) con fecha de entrega antes del 24 de diciembre. ¡Está bien padre para quien odia improvisar!",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Plan para el concierto",
-   "idea": "Karol G reprogramó su concierto en el Estadio GNP para el martes y llega el tributo a KPop Demon Hunters. Marcas de moda, maquillaje y comida pueden ofrecer 'look o kit de concierto' con entrega exprés.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Día de la Gastronomía Mexicana",
-   "idea": "Hoy se celebra el Día Nacional de la Gastronomía Mexicana y CDMX tiene actividades. Restaurantes y productores pueden contar la historia de un platillo o ingrediente local en 30 segundos.",
+   "titulo": "Kit frente frío",
+   "idea": "Los frentes fríos 6 y 7 traen temperaturas de hasta -5 grados. Cobijas, térmicos, café, chocolate caliente y delivery pueden armar un \"kit para sobrevivir el frío\" con entrega rápida. ¡Está bien padre para regalar también!",
    "formato": "Reel"
   },
   {
-   "titulo": "Frente frío, compra caliente",
-   "idea": "En Monterrey se anuncia frente frío con lluvia. Cobijas, ropa térmica, café y delivery pueden hablar de 'plan de invierno en casa' con tono cálido.",
-   "formato": "Copy para anuncio"
+   "titulo": "Regalos con experiencia",
+   "idea": "Ticketmaster y Cinépolis tuvieron promociones fuertes en el Buen Fin. Propón regalar experiencias (cine, concierto, clase) con una tarjeta bonita que llegue antes del 24 de diciembre.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Votaciones de reality",
+   "idea": "La Mansión VIP y La Granja VIP están en semana de eliminaciones. Lanza una encuesta en historias (\"¿a quién salvarías?\") y conecta el resultado con un cupón para tus seguidores.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Del Buen Fin al Black Friday",
+   "idea": "Muchos ya preguntan cuándo es el Black Friday. Explica en un video corto qué conviene comprar ahora y qué esperar al 27 de noviembre, y deja tu lista de deseos abierta por WhatsApp.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "la mansion vip",
    "color": "verde",
-   "por_que": "El reality sigue entre lo más buscado de la semana con votaciones y encuestas.",
-   "idea": "Dinámicas de votación con producto o memes del reality, tono ligero."
+   "por_que": "Reality con alta conversación por votos y eliminaciones.",
+   "idea": "Encuestas, memes de marca y dinámicas de \"salva a tu favorito\" con premio."
   },
   {
    "termino": "inapam",
-   "color": "verde",
-   "por_que": "Búsquedas por el pago de diciembre a personas adultas mayores.",
-   "idea": "Comercios con descuento para adultos mayores pueden comunicarlo con claridad y respeto."
+   "color": "amarillo",
+   "por_que": "Adultos mayores buscan fechas y montos de un apoyo económico.",
+   "idea": "Solo información práctica y descuentos reales para adultos mayores; evita prometer montos o fechas oficiales."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "Descuentos de El Buen Fin en boletos de eventos.",
-   "idea": "Regalar experiencias: combos de concierto, transporte o cena para Navidad."
+   "por_que": "Descuentos en boletos por el Buen Fin y conciertos reprogramados.",
+   "idea": "Ofrece \"look o kit de concierto\" y regalos de experiencias."
   },
   {
-   "termino": "karol g concierto",
+   "termino": "rafa mercadante",
    "color": "verde",
-   "por_que": "Fechas en CDMX y concierto reprogramado; mucha conversación de fans.",
-   "idea": "Looks, maquillaje y snacks de concierto; evita usar su imagen sin permiso."
+   "por_que": "Participante de La Granja VIP con picos de búsqueda por las nominaciones.",
+   "idea": "Contenido de entretenimiento ligero; no tomes partido de forma agresiva."
   },
   {
-   "termino": "nuevo james bond",
+   "termino": "cinepolis",
    "color": "verde",
-   "por_que": "Robert Pattinson elegido como 007, conversación global de cine.",
-   "idea": "Contenido de estilo 'look de espía', relojes, trajes o cocteles, sin usar marcas registradas de la saga."
+   "por_que": "Combo especial del Buen Fin y estrenos de temporada.",
+   "idea": "Plan \"noche de cine en casa o en sala\" con snacks y promociones cruzadas."
   }
  ],
  "audiencias": {
@@ -1136,6 +1136,10 @@
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
   "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo"
+  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
+  "Deja Jesús Seade Embajada en China; va al FMI",
+  "Salieron de la pobreza 17.3 millones de mexicanos entre 2018 y 2026: Banco Mundial",
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
+  "Así fue la detención de Miguel Ángel Félix Gallardo en Guadalajara; “Me quebraron cuatro costillas”"
  ]
 }

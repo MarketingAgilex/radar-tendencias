@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Perú vive el último día de la visita del papa León XIV, con rutas cerradas, clases suspendidas en el Callao y multitudes en Lima, lo que concentra la atención y cambia los planes de movilidad y consumo del día. En economía, la subida de la tasa de referencia del BCRP a 4,5% hace que la gente pregunte por créditos y ahorro, y la venta de la operación de Entel abre dudas entre clientes. En compras, el Black Friday ya se siente con guías sobre reclamos a tiendas del exterior y la moda como categoría estrella. Las marcas que acompañen con información útil y respeto, sin usar la visita como gancho comercial, conectan mejor.",
+ "lectura": "Perú cierra una semana histórica con la despedida del papa León XIV en Lima, tras su paso por Chiclayo, Cusco y Pucallpa, y una canción dedicada en Pucallpa que se volvió viral; el ánimo es de orgullo y comunidad. En lo práctico, la gente sigue el clima y la temperatura en Lima, y hay cortes programados de luz en Arequipa. En negocios, Entel anunció su salida del mercado peruano y la Sunat posterga pagos para empresas afectadas por El Niño, mientras el Black Friday del 27 de noviembre ya se cuela en los consejos de compra, incluso sobre cómo reclamar a tiendas del exterior. Funciona el contenido cálido, útil y con identidad regional.",
  "ideas_hoy": [
   {
-   "titulo": "Delivery en día de rutas cerradas",
-   "idea": "Con desvíos y cierres por la misa en Las Palmas, muchos limeños se quedan en casa. Restaurantes y bodegas pueden comunicar zonas y horarios de reparto claros con tono amable, causa.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Black Friday desde el exterior sin miedo",
-   "idea": "Hay interés en qué hacer si tienes un reclamo con una tienda extranjera. Haz un carrusel de 5 pasos para comprar afuera con seguridad: tienda confiable, comprobantes, plazos y seguimiento del envío.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "¿Qué pasa con tu crédito?",
-   "idea": "El BCRP subió su tasa a 4,5%. Financieras, cooperativas y tiendas con crédito pueden explicar en simple cómo afecta las cuotas y por qué conviene planificar las compras de fin de año.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Moda para la temporada",
-   "idea": "La moda aparece como la categoría estrella del Black Friday. Marcas locales pueden mostrar 3 looks de verano y fiestas con precio final y tallas disponibles.",
+   "titulo": "Gracias, comunidad",
+   "idea": "Tras días de calles llenas por la visita papal, muchos negocios atendieron a miles de visitantes. Publica un agradecimiento a tus clientes y vecinos con fotos reales del equipo, sin usar la imagen del papa para vender.",
    "formato": "Reel"
   },
   {
-   "titulo": "Tu cambio de operador, sin estrés",
-   "idea": "La venta de Entel genera dudas. Tiendas de celulares y servicio técnico pueden ofrecer contenido de 'qué revisar en tu plan y tu equipo' sin hablar mal de ninguna marca.",
+   "titulo": "El ritmo de Pucallpa",
+   "idea": "La canción \"Bienvenido santo padre a la tierra colorada\" es viral. Marcas de la selva y del oriente pueden mostrar su orgullo regional con música local y productos de la zona, con respeto.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Compras al exterior sin roche",
+   "idea": "Hay notas sobre qué hacer si tienes un reclamo con una tienda del extranjero en Black Friday. Haz un carrusel con 4 consejos (guardar comprobantes, revisar costo final, tiempos de entrega) y cierra con tu canal de atención.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Lima con calorcito",
+   "idea": "La temperatura en Lima es tendencia. Bebidas, helados, bloqueador y ropa fresca pueden lanzar un \"kit de calor limeño\" con delivery el mismo día. ¡Bien chévere para empezar la semana!",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Mi operador, mi decisión",
+   "idea": "Entel anunció que dejará el mercado peruano y la gente se pregunta qué pasará con su línea. Si vendes celulares o accesorios, explica con calma qué revisar (portabilidad, contratos) sin alarmar.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsquedas altas por el pronóstico del Senamhi.",
-   "idea": "Contenido útil de verano que se acerca: bloqueador, ropa fresca, hidratación."
+   "por_que": "Alta búsqueda del pronóstico del Senamhi.",
+   "idea": "Recomendaciones de producto según el clima de cada ciudad."
   },
   {
    "termino": "ruta del papa lunes 16",
    "color": "amarillo",
-   "por_que": "Millones siguen el recorrido final del Papa; tema de fe y alta sensibilidad.",
-   "idea": "Solo información útil (horarios, desvíos, reparto); no uses la imagen del Papa para vender."
+   "por_que": "Gran interés por la agenda del papa en su último día en Perú.",
+   "idea": "Solo mensajes de servicio (horarios, cierres, movilidad); no uses su imagen para vender."
+  },
+  {
+   "termino": "temperatura lima",
+   "color": "verde",
+   "por_que": "Los limeños siguen la subida de temperatura.",
+   "idea": "Bebidas, helados, ropa fresca y bloqueador con delivery."
   },
   {
    "termino": "lunes 16 de noviembre es feriado",
-   "color": "verde",
-   "por_que": "Dudas sobre clases y trabajo por la visita papal.",
-   "idea": "Aclara tus horarios de atención y ofrece planes en casa."
+   "color": "amarillo",
+   "por_que": "Dudas sobre suspensión de clases por la visita papal en el Callao.",
+   "idea": "Informa horarios de atención con claridad; no confundas con un feriado nacional."
   },
   {
    "termino": "corte luz arequipa",
    "color": "amarillo",
-   "por_que": "Cortes programados en distritos de Arequipa.",
-   "idea": "Comercios de la zona: avisa horarios y opciones de pago alternativas."
-  },
-  {
-   "termino": "robert pattinson",
-   "color": "verde",
-   "por_que": "Anunciado como nuevo James Bond.",
-   "idea": "Ganchos de cine para moda, relojes y salidas al cine."
+   "por_que": "Cortes programados de electricidad en distritos de Arequipa.",
+   "idea": "Contenido útil: horarios, power banks, linternas y atención por WhatsApp."
   }
  ],
  "ocultar": [
@@ -127,7 +127,11 @@
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
   "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo"
+  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
+  "Carlos Castillo: Policías en retiro rechazan declaraciones sobre Inti Sotelo y Bryan Pintado",
+  "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
+  "Resumen de noticias del Colapso de un edificio en Brooklyn, Nueva York, del 12 de noviembre de 2026",
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok"
  ],
  "audiencias": {
   "general": {

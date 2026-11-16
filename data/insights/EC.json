@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador se prepara para un fin de semana largo: se decretó feriado nacional el viernes 20 de noviembre, lo que activa viajes, paseos y compras previas. El clima manda en la agenda (lluvias y calles anegadas en sectores de Guayaquil, lloviznas en Quito), y en negocios llaman la atención el efecto de El Niño sobre la producción de cacao y la venta de camionetas en alza. El Black Friday del 27 de noviembre ya domina las notas de consumo, con consejos para comparar precios y ofertas adelantadas en videojuegos. Ganan las marcas que ayuden a planificar el feriado y a comprar sin sorpresas.",
+ "lectura": "Ecuador vive una semana de lluvias fuertes en Guayaquil, Daule y Samborondón, con calles anegadas y cortes de luz, mientras el fenómeno de El Niño golpea la producción de cacao. En consumo, la noticia es que la venta de camionetas creció 33% con modelos ensamblados en el país, y el Black Friday del 27 de noviembre ya domina las búsquedas de ofertas en tecnología, moda y belleza. En entretenimiento, el nombramiento de Robert Pattinson como nuevo James Bond y la agenda cultural de Quito y Cuenca dan tema ligero. Lo que funciona hoy: contenido útil para la lluvia, ofertas claras y orgullo por lo hecho en Ecuador.",
  "ideas_hoy": [
   {
-   "titulo": "Feriado del 20: arma tu plan",
-   "idea": "Con el feriado nacional del viernes 20, propone tres planes (playa, sierra y casa) con lo que necesitas de tu tienda. Publícalo hoy para que la gente compre con tiempo, ñaño.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Plan lluvia en Guayaquil",
+   "idea": "Las lluvias dejan calles anegadas en Guayaquil y alrededores. Comparte cómo pedir a domicilio, horarios ajustados y productos útiles (impermeables, extensiones con protección, linternas), con tono empático y sin bromas.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Black Friday desde EE. UU. con cuentas claras",
-   "idea": "Los consejos para 'realmente ahorrar' en Black Friday están entre lo más leído. Muestra con un ejemplo real cómo se calcula el costo final de una compra internacional y cuándo conviene pedir para que llegue antes de Navidad.",
+   "titulo": "Hecho en Ecuador que se vende",
+   "idea": "La venta de camionetas crece 33% con modelos ensamblados en el país. Cuenta en un video quién hace tu producto y dónde: el orgullo local está de moda y genera confianza, ñaño.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cacao ecuatoriano con historia",
-   "idea": "Se habla de cómo El Niño golpea la producción de cacao. Marcas de chocolate local pueden contar el origen y el trabajo de sus proveedores, y proponer cajas de regalo navideñas hechas en Ecuador.",
-   "formato": "LinkedIn"
+   "titulo": "Guía Black Friday sin sustos",
+   "idea": "Los titulares de consumo hablan de un Black Friday más caro y de comprar con consejos. Arma un carrusel con 4 pasos para comparar precios y cierra con tu oferta y el costo final con envío incluido.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit lluvia y sol",
-   "idea": "Lluvias en Guayaquil y lloviznas en Quito con sol fuerte entre aguaceros. Arma un combo paraguas + bloqueador + funda impermeable para el celular, con humor ligero y útil.",
+   "titulo": "El nuevo 007",
+   "idea": "Robert Pattinson será el nuevo James Bond y la búsqueda está alta. Marcas de moda, perfumería o relojería pueden hacer un \"look de agente\" con productos propios y un llamado a escribir por WhatsApp.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Volar en el feriado",
-   "idea": "LATAM reportó buenos resultados y el feriado dispara búsquedas de viaje. Agencias y hoteles pueden lanzar ofertas de último minuto con precio final y condiciones claras.",
-   "formato": "Copy para anuncio"
+   "titulo": "Cacao y chocolate con historia",
+   "idea": "El Niño afecta la producción de cacao y el tema está en la prensa internacional. Chocolaterías y cafeterías pueden explicar de dónde viene su cacao y lanzar cajas de regalo navideñas con preventa.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "robert pattinson",
+   "color": "verde",
+   "por_que": "Anunciado como nuevo James Bond: tema de entretenimiento global.",
+   "idea": "Contenido de estilo \"look 007\", moda formal y regalos elegantes."
+  },
+  {
    "termino": "puerto santa ana",
    "color": "amarillo",
-   "por_que": "Búsquedas por anegamientos y cortes de luz en Guayaquil por las lluvias.",
+   "por_que": "Búsquedas por anegamientos y cortes de luz por las lluvias en Guayaquil.",
    "idea": "Solo contenido útil y empático (delivery, cuidado del hogar); nada de humor sobre la afectación."
+  },
+  {
+   "termino": "florida norte",
+   "color": "amarillo",
+   "por_que": "Sector de Guayaquil afectado por calles anegadas y falta de luz.",
+   "idea": "Información de servicio y apoyo; evita usarlo como gancho comercial."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Las ventas de camionetas crecen y llegan modelos ensamblados en el país.",
-   "idea": "Accesorios, seguros y mantenimiento para nuevos dueños, con comparativas simples."
+   "por_que": "Ventas de camionetas crecen 33% con nuevos modelos ensamblados en Ecuador.",
+   "idea": "Accesorios, seguros, mantenimiento y contenido de \"hecho en Ecuador\"."
   },
   {
-   "termino": "valentín fuster",
-   "color": "verde",
-   "por_que": "Frases del cardiólogo sobre autoestima y salud se comparten mucho.",
-   "idea": "Contenido de bienestar y hábitos saludables, sin prometer resultados médicos."
-  },
-  {
-   "termino": "latam",
-   "color": "verde",
-   "por_que": "Interés por la aerolínea y sus resultados, justo antes del feriado.",
-   "idea": "Ofertas de viaje, maletas y accesorios para el fin de semana largo."
-  },
-  {
-   "termino": "robert pattinson",
-   "color": "verde",
-   "por_que": "Fue anunciado como el nuevo James Bond.",
-   "idea": "Ganchos de cine y estilo para moda masculina, relojes o cocteles."
+   "termino": "deuda",
+   "color": "amarillo",
+   "por_que": "Búsquedas ligadas a mercados financieros y endeudamiento.",
+   "idea": "Educación financiera simple antes de las compras navideñas; no prometas crédito fácil."
   }
  ],
  "audiencias": {
@@ -1151,6 +1151,8 @@
   "Quito, Guayaquil y Cuenca: así están las intenciones de voto en estas ciudades",
   "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas"
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
+  "Ecuador and Morocco Advance on Visa Agreement and Bilateral Trade"
  ]
 }

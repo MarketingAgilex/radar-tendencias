@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Chile el bolsillo manda: el dólar tocó los $1.000 y la semana trae datos del PIB, mientras los medios enseñan a revisar si los descuentos de Black Friday son reales y alertan sobre fraudes de identidad en compras. Hay curiosidad por el cielo (el bólido visto en varias regiones y la lluvia de estrellas Leónidas) y la gente busca desmentir el rumor de un 'apagón mundial'. En Meta, las marcas chilenas pautan Black Friday con despacho a todo Chile, temas de verano como asados y viajes, y promociones 2x1. Conviene hablar en pesos, con precio final y despacho claro, y aprovechar la llegada del calor.",
+ "lectura": "Chile se prepara para el Black Friday del 27 al 30 de noviembre, cuatro días de ofertas online, con un dólar que cerró en $1.000 y advertencias sobre suplantación de identidad y descuentos falsos, así que el consumidor comparará más que nunca. El cielo también está de moda: un bólido iluminó varias regiones, se confirmó un meteorito lunar en Atacama y vienen las Leónidas. El clima cambia entre calor y lluvias fuertes en el centro-sur, y en Santiago hay cierres en la Línea 5 del Metro. Lo que conecta: ofertas verificables, contenido curioso y útil, y tono cercano.",
  "ideas_hoy": [
   {
-   "titulo": "Dólar a $1.000: compra inteligente",
-   "idea": "Con el dólar en $1.000, muchos dudan en comprar afuera. Muestra la comparación de precio final en pesos entre comprar en Chile y en el exterior, y cuándo conviene cada opción. Bacán para tu audiencia.",
+   "titulo": "Black Friday con precio real",
+   "idea": "Los medios enseñan a revisar si los descuentos son reales. Publica el historial de precios de tus productos estrella y promete que el precio del Black Friday será el más bajo del año. Eso es bacán para la confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Black Friday con asado incluido",
-   "idea": "En Meta ya hay anuncios de Black Friday con kits para asado. Si vendes alimentos, parrillas o accesorios de terraza, arma un pack 'primer asado del verano' con despacho a todo Chile.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Mira al cielo",
-   "idea": "El bólido y las Leónidas tienen a todos mirando arriba. Marcas de camping, ópticas o turismo pueden hacer una guía de cómo y dónde observar desde Chile.",
+   "titulo": "Noche de Leónidas",
+   "idea": "La lluvia de estrellas Leónidas y el bólido visto en varias regiones tienen a todos mirando al cielo. Cafeterías, tiendas de camping y ópticas pueden armar un \"kit para ver estrellas\" con mantita, termo y snacks.",
    "formato": "Reel"
   },
   {
-   "titulo": "Desmiente el apagón",
-   "idea": "El rumor de un apagón mundial circula en redes. Tiendas de tecnología y energía pueden explicar qué hay de cierto y recomendar respaldos útiles (power banks, linternas) sin generar miedo.",
+   "titulo": "Con el dólar a mil",
+   "idea": "El dólar llegó a $1.000. Si importas, explica en 30 segundos por qué conviene comprar ahora o qué productos mantienen su precio, sin hacer predicciones financieras.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Compra segura este Black Friday",
-   "idea": "Preocupan las compras no reconocidas y deudas a nombre de otros. Publica 5 señales de una tienda confiable y tus medios de pago seguros: genera confianza antes de la fecha.",
+   "titulo": "Línea 5 cerrada, tu delivery no",
+   "idea": "Metro informa cierres de estaciones en la Línea 5. Negocios del sector pueden avisar que siguen atendiendo con despacho o retiro en tienda y cómo llegar.",
    "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Cantar con el corazón",
+   "idea": "Un ejecutivo que cantó en la Teletón se volvió viral. Muestra a alguien de tu equipo con un talento oculto: humaniza la marca y genera conversación.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Videos del bólido iluminando el cielo se viralizaron.",
-   "idea": "Contenido de astronomía y turismo astronómico, camping y fotografía."
-  },
-  {
-   "termino": "robert pattinson",
-   "color": "verde",
-   "por_que": "Anunciado como el nuevo James Bond.",
-   "idea": "Guiños de cine para moda, relojes y salidas al cine."
+   "por_que": "Un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos.",
+   "idea": "Contenido curioso y productos para observar el cielo."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Cambios de temperatura y lluvias en el centro-sur.",
-   "idea": "Contenido útil según zona: verano en el norte y centro, lluvia en el sur."
+   "por_que": "Cambios bruscos entre calor y lluvia.",
+   "idea": "Recomendaciones de \"qué ponerse\" y productos para ambos climas."
+  },
+  {
+   "termino": "línea 5",
+   "color": "amarillo",
+   "por_que": "Cierre de estaciones de Metro que afecta traslados.",
+   "idea": "Información de servicio y delivery; no hagas chistes con las molestias."
+  },
+  {
+   "termino": "tiempo",
+   "color": "amarillo",
+   "por_que": "Hasta 100 mm de lluvia en el centro-sur.",
+   "idea": "Consejos prácticos e impermeables; tono empático con las zonas afectadas."
   },
   {
    "termino": "apagon mundial",
    "color": "amarillo",
-   "por_que": "Rumor viral que los medios están desmintiendo.",
-   "idea": "Solo con información verificada; no uses el miedo para vender."
-  },
-  {
-   "termino": "banco estado",
-   "color": "verde",
-   "por_que": "Interés por una gift card promocional del banco.",
-   "idea": "Comercios pueden explicar si aceptan esos medios de pago y sus promociones."
+   "por_que": "Rumor viral sobre un apagón el 17 de noviembre, sin pruebas.",
+   "idea": "Solo para aclarar y tranquilizar; no vendas con miedo."
   }
  ],
  "ocultar": [
@@ -147,7 +147,12 @@
   "El 68% de los chilenos apoya la acusación constitucional contra Fernando Rabat, según Criteria",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok"
+  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
+  "Acusación impredecible: los votos en suspenso que pueden salvar o condenar a Rabat",
+  "Papá de subsecretario Máximo Pavez queda en prisión preventiva",
+  "“Inconsecuente y mentiroso”: Inspector Vallejo reacciona a comentada imagen de Kast y lamenta haberle dado su voto",
+  "Reforma tributaria: empresas sinceran pérdidas y beneficios contables por la rebaja del impuesto corporativo",
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok"
  ],
  "audiencias": {
   "general": {

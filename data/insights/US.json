@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Estados Unidos entra en la recta final hacia Thanksgiving (26 de noviembre) y Black Friday (27): Amazon anunció 12 días de ofertas, los retailers adelantan descuentos y las encuestas muestran compradores que comparan antes de gastar. El clima pesa en la logística y los viajes (El Niño, tormentas de invierno en el oeste y la temporada alta tras la parada de vuelos de la FAA), y el entretenimiento está dominado por el casting de James Bond, las nominaciones a los Grammy y el estreno de GTA VI este jueves. Para la comunidad hispana, los Latin Grammy (Rosalía, Milo J) y los envíos de regalos a Latinoamérica son ganchos claros. Comunicar fechas límite de entrega y precio final es lo que más convierte esta semana.",
+ "lectura": "En Estados Unidos la semana arranca con la mirada en el viaje de Thanksgiving (26 de noviembre), justo después de días de vuelos cancelados por una suspensión del tráfico aéreo, y con tormentas de invierno y un El Niño fuerte cambiando los planes en el oeste. Las ofertas tempranas de Black Friday ya están en todas partes (Walmart, Best Buy, Amazon) y el Small Business Saturday gana espacio en las comunidades. Entre los hispanos, los anuncios de couriers hacia Colombia y Latinoamérica empujan los 'últimos envíos antes de Navidad'. La clave es resolver logística y regalos con anticipación, con precio final claro.",
  "ideas_hoy": [
   {
-   "titulo": "Fecha límite para que llegue a tiempo",
-   "idea": "Con Thanksgiving y Black Friday a 10 días, publica un calendario simple de 'pide antes de…' para entregas nacionales y envíos a Latinoamérica antes de Navidad.",
+   "titulo": "Última llamada para enviar a casa",
+   "idea": "En Meta ya corren anuncios de \"últimas salidas\" y \"envía tus regalos antes de Navidad\" hacia Colombia. Publica un calendario simple con la fecha límite para que un regalo llegue a tiempo a Latinoamérica y qué conviene enviar.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Thanksgiving en español",
-   "idea": "Muchas familias hispanas mezclan el pavo con platos propios. Recetas fusión (pavo con sazón latino, sides caribeños o mexicanos) son un gran formato para supermercados y restaurantes.",
+   "titulo": "Thanksgiving sin estrés de viaje",
+   "idea": "Tras días de vuelos cancelados, AAA anticipa una semana muy movida. Comparte un checklist de viaje (cargador, snacks, kit de emergencia) y ofrece entrega antes del miércoles 25.",
    "formato": "Reel"
   },
   {
-   "titulo": "Noche de estreno GTA VI",
-   "idea": "GTA VI sale el jueves y domina la conversación tech. Delivery, snacks, sillas y accesorios gamer pueden lanzar un combo 'launch night' con entrega el mismo día.",
+   "titulo": "La historia del Bronco",
+   "idea": "Se hizo viral una mujer que compró un Ford Bronco para volver a casa manejando 27 horas cuando cancelaron su vuelo. Úsalo como gancho para hablar de \"planes B\" y de cómo tu producto resuelve un imprevisto.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Viajar en temporada alta",
-   "idea": "Tras la parada de vuelos y con tormentas en el oeste, la gente busca cómo viajar sin estrés. Agencias, seguros y maletas pueden dar un checklist de viaje para el feriado.",
-   "formato": "Copy para anuncio"
+   "titulo": "Small Business Saturday en español",
+   "idea": "Las comunidades ya promueven comprar local el sábado después de Black Friday. Si tienes negocio, presenta a tu equipo y tu historia en 30 segundos y ofrece un beneficio solo para clientes del barrio.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Bond, el estilo del momento",
-   "idea": "El casting del nuevo 007 está en todas partes. Marcas de moda, barberías y relojes pueden hacer un 'look de espía' accesible, sin usar logos ni nombres registrados de la saga.",
-   "formato": "Instagram Reel"
+   "titulo": "Antes y después que engancha",
+   "idea": "Un barbero de Kentucky se volvió viral con videos de antes y después. Servicios de belleza, limpieza o remodelación pueden copiar el formato con un cierre de \"agenda tu cita para las fiestas\".",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "el niño weather",
-   "color": "amarillo",
-   "por_que": "Gran interés por lo que El Niño significa para el invierno.",
-   "idea": "Contenido útil para el hogar y viajes (preparación, seguros, ropa); evita el alarmismo."
+   "color": "verde",
+   "por_que": "Un El Niño fuerte cambia el clima esperado del invierno en varias regiones.",
+   "idea": "Contenido útil por región (lluvia, nieve, calor) con producto de temporada."
   },
   {
    "termino": "spacex starship rocket launch",
    "color": "verde",
-   "por_que": "Lanzamiento seguido en vivo, curiosidad por el espacio.",
-   "idea": "Contenido educativo o creativo para marcas tech y juguetería STEM."
+   "por_que": "Lanzamiento con mucha curiosidad tecnológica.",
+   "idea": "Contenido educativo o creativo de \"misión cumplida\" para marcas de tecnología y educación."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas en el oeste con nieve y lluvia intensa.",
-   "idea": "Avisos de horarios y entregas, productos de invierno; tono servicial."
+   "por_que": "Tormentas con nieve, lluvia y oleaje fuerte en la costa oeste.",
+   "idea": "Consejos de preparación y entregas; evita el tono alarmista."
   },
   {
-   "termino": "josh o'connor",
-   "color": "verde",
-   "por_que": "Su nombre suena en el debate sobre el nuevo James Bond.",
-   "idea": "Ganchos de cine para moda y lifestyle, en tono de conversación."
+   "termino": "brad gerstner",
+   "color": "amarillo",
+   "por_que": "Conversación de inversionistas sobre el liderazgo de Nvidia y la volatilidad en bolsa.",
+   "idea": "Solo para LinkedIn con análisis neutral de tendencias de IA; sin recomendaciones de inversión."
   },
   {
-   "termino": "idris elba",
+   "termino": "joanna gaines",
    "color": "verde",
-   "por_que": "Estreno de tráiler y conversación sobre el casting de 007.",
-   "idea": "Contenido de cine y estilo; evita usar su imagen en anuncios sin derechos."
+   "por_que": "Mostró su árbol de Navidad antes de tiempo y despertó la decoración navideña.",
+   "idea": "Ideas de decoración, \"árbol temprano\" y kits navideños con entrega rápida."
   }
  ],
  "audiencias": {
@@ -940,58 +940,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envíos a Latinoamérica Navidad",
-   "total": 24,
+   "busqueda": "envíos a Colombia",
+   "total": 459,
    "anunciantes": [
     {
-     "nombre": "Multi-Encomiendas Dallas",
-     "url": "https://www.facebook.com/ads/library/?id=1075792242165633"
+     "nombre": "305logisticscorp",
+     "url": "https://www.facebook.com/ads/library/?id=1182158184490835"
     },
     {
-     "nombre": "venetexpress",
-     "url": "https://www.facebook.com/ads/library/?id=2447636322311317"
+     "nombre": "N&J transportation",
+     "url": "https://www.facebook.com/ads/library/?id=1793375871780998"
     },
     {
-     "nombre": "Atiempocargo",
-     "url": "https://www.facebook.com/ads/library/?id=1811784293402716"
+     "nombre": "JC Pro Cargo",
+     "url": "https://www.facebook.com/ads/library/?id=1134936472417562"
     },
     {
-     "nombre": "Unión Latina Florida",
-     "url": "https://www.facebook.com/ads/library/?id=4678290955742043"
+     "nombre": "El parchecito Colombiano",
+     "url": "https://www.facebook.com/ads/library/?id=1781459349600747"
     },
     {
-     "nombre": "Destino Cargo By Servientrega",
-     "url": "https://www.facebook.com/ads/library/?id=961826206655300"
+     "nombre": "Sendex",
+     "url": "https://www.facebook.com/ads/library/?id=1438487205118078"
     }
    ],
-   "patron": "Las empresas de encomiendas hablan en español a la comunidad latina con mensajes como 'anticipa tu envío navideño', 'agenda con anticipación' y 'envía tu caja hoy'. Pocos anunciantes y muchas variaciones del mismo aviso: hay espacio para destacar con fechas límite claras por país y seguimiento del envío."
+   "patron": "Couriers y casilleros de carga hablan a la diáspora colombiana con urgencia navideña: 'últimas salidas', 'envía tus regalos antes de Navidad' y mensajes que prometen evitar retenciones en aduana. Casi todos llevan a WhatsApp. También aparecen tiendas que venden productos colombianos (pijamas, ropa) y personal shoppers de streetwear. Hay espacio para diferenciarse explicando fechas límite y costo total sin sorpresas."
   },
   {
    "busqueda": "ofertas Black Friday",
-   "total": 2053,
+   "total": 2173,
    "anunciantes": [
     {
-     "nombre": "Mr Car Automotive Group",
-     "url": "https://www.facebook.com/ads/library/?id=1888762415650075"
+     "nombre": "Smith Auto Family",
+     "url": "https://www.facebook.com/ads/library/?id=1475483598101041"
     },
     {
-     "nombre": "Cajatesoro",
-     "url": "https://www.facebook.com/ads/library/?id=1900645218028503"
+     "nombre": "Rio Mattress Furniture Palmview",
+     "url": "https://www.facebook.com/ads/library/?id=1613622847447044"
     },
     {
-     "nombre": "Aprende y Emprende Digital",
-     "url": "https://www.facebook.com/ads/library/?id=1569415048285426"
+     "nombre": "Livin Watches",
+     "url": "https://www.facebook.com/ads/library/?id=1492919736235344"
     },
     {
-     "nombre": "Soccer jersery",
-     "url": "https://www.facebook.com/ads/library/?id=1793566958523935"
+     "nombre": "JCPOWER Audio Shop",
+     "url": "https://www.facebook.com/ads/library/?id=2155616631738313"
     },
     {
-     "nombre": "Huellia",
-     "url": "https://www.facebook.com/ads/library/?id=1792575938683952"
+     "nombre": "Casa Nissan",
+     "url": "https://www.facebook.com/ads/library/?id=2513021639187351"
     }
    ],
-   "patron": "En español dominan los mensajes de urgencia ('¡No te quedes fuera!', 'Últimas unidades'), el 'Black November' con descuentos de 30% en cursos y la venta al por mayor. También aparecen páginas genéricas que repiten 'ofertas de Black Friday' sin marca clara: conviene diferenciarse con marca visible y condiciones transparentes."
+   "patron": "En español dominan concesionarios de autos, mueblerías y colchones, estudios de belleza y tiendas de audio. Los ganchos más repetidos son el porcentaje de descuento en el titular, el envío gratis en 24 a 72 horas, las reseñas de 5 estrellas como prueba social y los emojis navideños. Pocos anunciantes pequeños cuentan su historia: ahí hay una oportunidad para negocios locales."
   }
  ],
  "ocultar": [
@@ -1108,6 +1108,18 @@
   "HISD Board transition (Nov. 16, 2026)",
   "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)",
   "Megaspeed rompe el silencio sobre Alice Huang, la supuesta espía china en el centro del escándalo que sacude a Nvidia: ‘No desempeña ningún cargo’",
-  "Lindsay Clancy to face retrial for deaths of her three children in March 2027"
+  "Lindsay Clancy to face retrial for deaths of her three children in March 2027",
+  "hacker",
+  "Lindsay Clancy retrial scheduled for March over the strangulation deaths of her three children",
+  "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+  "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+  "State issues warning to Harris County judge from viral video of confrontation with IT tech",
+  "Viral video claims woman was followed by several men at Abilene shopping center",
+  "Mamdani disbands NYPD unit accused of using excessive force",
+  "Suspect in custody after report of man with gun triggers lockdown at Walnut HS, deputies say",
+  "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
+  "estafa",
+  "uscis prior approval deference removal",
+  "Magali Febles acusa a Celinee Santos de intentar agredirla físicamente"
  ]
 }

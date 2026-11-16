@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia está pendiente del tiempo (nuevas perturbaciones con lluvia y nieve) y de la televisión del fin de semana, con Ballando con le Stelle como gran tema. El Black Friday se acerca con alertas por estafas del 'paquete' por SMS, una logística bajo presión con un 40% más de envíos y consumidores que usan ChatGPT o Gemini para encontrar descuentos. GTA VI sale el jueves 19 y hasta se habla de un aumento de pedidos de vacaciones para jugarlo. Las marcas que combinen entretenimiento, seguridad en la compra y plazos de entrega claros conectan mejor.",
+ "lectura": "Italia sigue el pronóstico con un nuevo frente atlántico que trae lluvia, viento y nieve, con alerta amarilla en Roma, mientras Ballando con le Stelle y sus polémicas dominan la conversación del fin de semana. El Black Friday ya mueve la logística (los paquetes crecen alrededor de un 40%) y las marcas lanzan campañas con caras conocidas, como TIM con Massimo Lopez y Gigi D'Alessio, al tiempo que crecen los avisos contra los falsos SMS de entrega. La noticia de Cannavacciuolo perdiendo una estrella Michelin y la Christmas Parade de Roma abren la temporada gastronómica y navideña. Funciona el contenido cálido, gastronómico y que dé seguridad al comprar online.",
  "semaforo": [
   {
    "termino": "giuliacci meteo",
    "color": "verde",
-   "por_que": "Búsquedas masivas del pronóstico con lluvias y nieve.",
-   "idea": "Productos de invierno y consejos prácticos."
+   "por_que": "Gran interés por el nuevo frente de lluvia, viento y nieve.",
+   "idea": "Ropa de abrigo, paraguas y planes en casa."
   },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "El programa del sábado es el gran tema televisivo.",
-   "idea": "Contenido de moda, belleza y snacks para verlo en casa."
+   "por_que": "El programa sigue liderando la conversación televisiva.",
+   "idea": "Encuestas, looks de baile y contenido de entretenimiento."
+  },
+  {
+   "termino": "marco bocci",
+   "color": "verde",
+   "por_que": "Concursante de Ballando con mucha búsqueda.",
+   "idea": "Contenido ligero de fans; evita comentarios personales."
   },
   {
    "termino": "barbara d urso puzza",
    "color": "amarillo",
-   "por_que": "Polémica televisiva entre personajes del programa.",
-   "idea": "Mantén distancia de la polémica; solo humor muy ligero o nada."
+   "por_que": "Polémica televisiva entre concursante y jurado.",
+   "idea": "No tomes partido; si lo usas, que sea con humor amable y sin burlas."
   },
   {
-   "termino": "rockstar games gta vi",
+   "termino": "monica guerritore luca urso",
    "color": "verde",
-   "por_que": "Lanzamiento del año en videojuegos, jueves 19.",
-   "idea": "Packs gamer, accesorios y combos de comida."
-  },
-  {
-   "termino": "attacchi hacker",
-   "color": "verde",
-   "por_que": "Interés por proteger los dispositivos del hogar.",
-   "idea": "Contenido de seguridad digital y productos con buenas prácticas de privacidad."
+   "por_que": "Ensayos y actuaciones de la séptima gala de Ballando.",
+   "idea": "Contenido detrás de cámaras y de esfuerzo o entrenamiento."
   }
  ],
  "audiencias": {
@@ -1285,33 +1285,41 @@
   "Milano, occupati il liceo Parini e altri istituti: “Niente lezioni fino allo sciopero di venerdì”",
   "Esplosione a Roma, ordigno danneggia palazzo in via Treia a S. Basilio",
   "Turista ruba una statua di Gesù e la distrugge, shock in Lituania - Video",
-  "Burnham: 'Con la Brexit abbiamo perso più di quanto guadagnato'"
+  "Burnham: 'Con la Brexit abbiamo perso più di quanto guadagnato'",
+  "farouk kassam",
+  "michela ponzani",
+  "attacchi hacker",
+  "Principe Harry incontra il soldato ucraino evacuato dal fronte con un drone. Cosa si sono detti (VIDEO)",
+  "Moglie morta gli lascia un suv, padre di due figli lo trasforma in un camper: \"Così viaggio e coltivo il mio sogno\"",
+  "Occupazioni studentesche a Milano: dal liceo Parini al Bottoni si parte oggi in sei scuole",
+  "Il caso attorno ai ragazzi che aggredirono un rabbino a Milano",
+  "Truffa finto carabiniere, anziano ucciso: 2 fermati restano in carcere"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Il pacco vero",
-   "idea": "Circulan estafas de falsas entregas por SMS. Explica cómo se ven tus avisos reales de envío y qué nunca vas a pedir: una pieza útil que genera confianza.",
+   "titulo": "Paquete seguro",
+   "idea": "Crecen los avisos por falsos SMS de entrega en Black Friday. Explica cómo se ve un mensaje real de tu tienda y desde qué número escribes: proteger al cliente también es marketing.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Il sabato di Ballando",
-   "idea": "Ballando con le Stelle domina las búsquedas. Moda, belleza y comida pueden hacer contenido de 'look de la pista' o 'snacks para el sábado'.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Ferie per GTA",
-   "idea": "GTA VI sale el jueves y se habla de pedidos de vacaciones para jugarlo. Delivery, snacks y accesorios gamer pueden lanzar un pack 'giorno di uscita'.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Sconti trovati con l'IA",
-   "idea": "Los compradores usan asistentes de IA para buscar ofertas. Asegúrate de que tus fichas de producto tengan precio, medidas y condiciones claras, y cuéntalo en un post.",
+   "titulo": "La estrella perdida",
+   "idea": "Cannavacciuolo perdió una estrella Michelin y habló con humildad. Restaurantes y marcas de alimentos pueden contar qué aprendieron de un error y cómo cuidan la calidad.",
    "formato": "LinkedIn"
   },
   {
-   "titulo": "Meteo e comfort",
-   "idea": "Lluvias y nieve en buena parte del país. Ropa de abrigo, paraguas y productos para el hogar pueden ofrecer entregas antes del fin de semana.",
-   "formato": "Copy para anuncio"
+   "titulo": "Serata Ballando",
+   "idea": "Ballando con le Stelle es el tema del momento. Propón una encuesta sobre la clasificación y un \"kit serata TV\" con tus productos, sin entrar en las peleas entre jurados.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Lluvia y comfort food",
+   "idea": "Con alerta por lluvia y frío, sube el antojo de comida casera. Comparte una receta rápida con tu producto o un combo a domicilio para la noche.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Regalo vintage",
+   "idea": "Los tocadiscos vintage aparecen como idea de regalo en las ofertas. Tiendas de música, decoración y moda pueden armar una guía de regalos con estética retro.",
+   "formato": "TikTok"
   }
  ]
 }

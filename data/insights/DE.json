@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania arranca la semana con tormenta (Orkan) y la llegada del invierno, mientras sube el interés por el precio de la electricidad en 2027 y por la paga de Navidad (Weihnachtsgeld). Amazon y el retail adelantan la Black Week con ofertas en consolas, Switch 2 y tecnología del hogar, y GTA VI genera la mayor conversación gamer del año. Con el primer domingo de Adviento el 29 de noviembre, empiezan los mercados navideños y las compras de calendarios y regalos. Mensajes de eficiencia, garantía y precio transparente encajan con un consumidor alemán prudente.",
+ "lectura": "Alemania empieza una semana de tormenta, con viento, tormentas eléctricas y lluvias fuertes, y además problemas en los trenes entre Berlín y Hannóver, lo que deja a mucha gente en casa y comprando online. La 'Black Week' ya arrancó: la HDE espera ventas récord, Amazon adelanta ofertas desde el martes 17 y la Switch 2 con Mario Kart World llega a su mejor precio, mientras las eléctricas anuncian subidas de luz para enero. El Tatort del domingo, GTA VI y la camiseta de la selección filtrada por Nike completan la agenda. Funciona el ahorro inteligente, el consumo energético eficiente y el plan de Adviento en casa.",
  "semaforo": [
   {
    "termino": "orkan",
    "color": "amarillo",
-   "por_que": "Tormenta fuerte con avisos en varias regiones.",
-   "idea": "Solo contenido útil; evita bromas sobre daños."
+   "por_que": "Semana de tormenta, viento y lluvias fuertes.",
+   "idea": "Mensajes de servicio y entregas; evita el tono catastrofista."
   },
   {
-   "termino": "strompreise 2027",
+   "termino": "tatort",
    "color": "verde",
-   "por_que": "Interés por la subida de la electricidad desde enero.",
-   "idea": "Contenido de ahorro energético y productos eficientes."
+   "por_que": "Ritual de los domingos con gran audiencia.",
+   "idea": "Encuestas, snacks y planes para ver la serie en casa."
+  },
+  {
+   "termino": "tv programm heute",
+   "color": "verde",
+   "por_que": "La gente busca qué ver esta noche en televisión.",
+   "idea": "Recomendaciones de plan en casa con productos de la tienda."
   },
   {
    "termino": "gta grand theft auto",
    "color": "verde",
-   "por_que": "El lanzamiento del año en videojuegos.",
-   "idea": "Packs gamer, snacks y accesorios."
+   "por_que": "Expectativa máxima por GTA VI.",
+   "idea": "Packs gamer, consolas y accesorios con entrega garantizada."
   },
   {
-   "termino": "black friday nintendo switch 2",
+   "termino": "strompreise 2027",
    "color": "verde",
-   "por_que": "Ofertas de Switch 2 en grandes cadenas.",
-   "idea": "Comparativas de packs y regalos para Navidad."
-  },
-  {
-   "termino": "weihnachtsgeld",
-   "color": "verde",
-   "por_que": "Dudas sobre la paga de Navidad.",
-   "idea": "Guías de regalos y ahorro; nada de asesoría legal."
+   "por_que": "Subida de la tarifa eléctrica anunciada para enero.",
+   "idea": "Contenido de ahorro energético y productos eficientes."
   }
  ],
  "audiencias": {
@@ -1301,33 +1301,50 @@
   "Jobcenter wusste von nichts CSD-Attentäter Abdul B. erhielt Bürgergeld, während er im Gefängnis im Libanon saß",
   "Ukrainekrieg: Krim-Brücke bei ukrainischem Angriff beschädigt",
   "„Der neue Senat wird Namen nennen und gegen organisierte Kriminalität deutlich vorgehen“",
-  "Debatte über Stromsteuer - CSU-Chef Söder schließt Verzicht auf Erhöhung der Mütterrente aus"
+  "Debatte über Stromsteuer - CSU-Chef Söder schließt Verzicht auf Erhöhung der Mütterrente aus",
+  "bottrop",
+  "motocross",
+  "katharina reiche",
+  "Deutschland und weitere EU-Länder einigen sich auf Abschiebezentrum in Ruanda",
+  "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen",
+  "Nvidia-Skandal vor Donald Trumps China-Reise: Warum Xi Jinping triumphiert",
+  "Treffen der EU-Außenminister: Ukraine-Verhandlungen ohne Kaja Kallas",
+  "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+  "Wahlrecht: Merz: Jeder direkt gewählte Abgeordnete soll Sitz bekommen",
+  "„Wie ein schmerzender Zahn“: Geheim-Dokument zeigt, was Russland jetzt von Europa und NATO verlangt",
+  "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
+  "BSW-Aufstand vor Parteitag: Gründungsmitglieder stellen sich gegen AfD-Kurs",
+  "Linke will Berlin regieren: Video aufgetaucht! Eralp macht Skandalaussagen über Polizei​‌",
+  "Estland schließt Grenze nach Anschlagsversuch „Wir sollten Russland jetzt die Zähne zeigen“",
+  "UN-Klimakonferenz in Antalya: Entwurf für COP-Beschluss enthält Aufruf zu Ausstieg aus Öl und Gas",
+  "(S+) Lisa T. aus Berlin: Staatsanwalt erklärt Probleme bei Verfahren zu Missbrauchsbildern",
+  "Blackout in Berlin: Warum die Polizei immer noch im Dunkeln tappt"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Strom sparen",
-   "idea": "Se buscan los precios de la electricidad para 2027. Productos eficientes (termostatos, iluminación LED, electrodomésticos) pueden mostrar el ahorro estimado con datos claros.",
+   "titulo": "Luz más cara en enero",
+   "idea": "Las eléctricas suben precios desde enero. Si vendes productos eficientes (bombillas LED, enchufes inteligentes, mantas), muestra cuánto se ahorra al mes con un ejemplo simple.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Black Week con cabeza",
-   "idea": "Amazon adelanta ofertas desde el martes. Destaca tus precios reales, garantía y devolución para diferenciarte del ruido de la Black Week.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Adviento a la vista",
-   "idea": "El 29 de noviembre empieza el Adviento. Lanza tu calendario de Adviento o un pack de 4 domingos con entregas antes de esa fecha.",
+   "titulo": "Black Week con IA",
+   "idea": "Los medios enseñan a usar la IA para encontrar gangas reales. Haz un vídeo mostrando cómo comparar tu precio con el histórico y por qué tu oferta es auténtica.",
    "formato": "Reel"
   },
   {
-   "titulo": "Weihnachtsgeld, bien invertido",
-   "idea": "La paga de Navidad está entre lo más buscado. Propón una guía de regalos de calidad por presupuesto, con énfasis en durabilidad.",
-   "formato": "Instagram"
+   "titulo": "Sturmabend en casa",
+   "idea": "Con la tormenta y los trenes afectados, la gente se queda en casa. Propón una noche de Tatort o de juegos con snacks, té y velas de tu tienda con entrega rápida.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Sturmtag",
-   "idea": "Con la tormenta, la gente se queda en casa. Delivery, juegos de mesa y streaming pueden comunicar un plan de 'día de tormenta' con tono cercano.",
+   "titulo": "Casa navideña de récord",
+   "idea": "Una familia de Viersen gastó 20.000 euros en decoración navideña y es viral. Tiendas de decoración pueden mostrar cómo lograr un efecto parecido con un presupuesto de 50 euros.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Weihnachtsgeld bien invertido",
+   "idea": "Muchos buscan dudas sobre la paga de Navidad. Arma una guía de regalos por presupuesto y destaca garantías y devoluciones, algo que el consumidor alemán valora mucho.",
+   "formato": "LinkedIn"
   }
  ]
 }

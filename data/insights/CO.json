@@ -1,65 +1,53 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia arranca la semana en puente festivo (Independencia de Cartagena) y con plan retorno en las vías, así que hoy el consumo es de descanso, clima y pantalla. La conversación de entretenimiento gira en torno a los colombianos nominados a los Grammy 2027 y a la llegada de GTA VI este jueves, mientras los medios explican cómo saber si un descuento de Black Friday (27 de noviembre) es real. También pesan señales prácticas: la lista de celulares que se quedan sin WhatsApp y la nueva ruta directa Barranquilla–Nueva York desde febrero de 2027. Las marcas que hablen claro de precio final, tiempos de entrega y utilidad tendrán ventaja frente a la avalancha de ofertas.",
+ "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con plan retorno, pico y placa regional y la coronación de Señorita Colombia, mientras la conversación de consumo ya gira por completo hacia el Black Friday del 27 de noviembre. Los medios insisten en comprar con cabeza (precios reales, metas de ahorro, compras seguras) y comparan a Mercado Libre con Temu, así que el consumidor llega desconfiado pero con ganas. También circula el rumor de un 'apagón mundial' el 17 de noviembre, ya desmentido, y crece la expectativa por GTA VI. Gana quien muestre el precio final claro, entregas antes de Navidad y un tono tranquilo que ayude a decidir.",
  "ideas_hoy": [
   {
-   "titulo": "¿Tu cel se queda sin WhatsApp?",
-   "idea": "Los medios publicaron la lista de celulares que pierden WhatsApp desde hoy. Tiendas de tecnología y planes de recambio pueden hacer un 'revisa tu modelo' con opciones de upgrade y facilidades de pago, sin alarmismo.",
+   "titulo": "Checklist anti-afán de Black Friday",
+   "idea": "Los titulares de consumo piden hacerse preguntas antes de comprar. Publica una lista de 5 preguntas (¿lo necesito?, ¿cuánto costaba antes?, ¿cuándo me llega?) y cierra con tu oferta con precio final, sin letra pequeña. Eso genera confianza, parce.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Playlist de nominados al Grammy",
-   "idea": "Shakira, Karol G, Feid, Fonseca, Carlos Vives y más colombianos están nominados. Marcas de bebidas, moda o restaurantes pueden armar un 'outfit o plan según tu nominado favorito' y pedir votos en comentarios.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Black Friday sin cuento",
-   "idea": "Hay mucho interés en cómo saber si un descuento es real. Publica el precio de hoy de tus productos estrella y comprométete a mostrar el precio del 27 de noviembre al lado: transparencia que genera confianza, bien bacano para el cliente.",
+   "titulo": "De regreso del puente",
+   "idea": "Millones de carros vuelven hoy a Bogotá y Medellín tras el festivo. Un video corto de \"lo que se te olvidó en el viaje\" (cargadores, bloqueador, snacks) con entrega a domicilio mañana conecta con el momento.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Combo GTA VI y finde gamer",
-   "idea": "GTA VI sale el jueves y ya tuvo su primer parche en PS5. Domicilios, comidas rápidas y tiendas de accesorios gamer pueden lanzar un combo 'noche de estreno' con entrega programada.",
+   "titulo": "Lo del apagón, explicado en 30 segundos",
+   "idea": "El rumor del apagón mundial del 17 de noviembre está desmentido, pero mucha gente lo busca. Marcas de tecnología o energía pueden aclararlo sin alarmar y aprovechar para recomendar una power bank o una linterna recargable \"por si acaso, no por miedo\".",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "El consumidor paisa es amarrado",
+   "idea": "Un empresario contó que el consumidor de Medellín cuida mucho el bolsillo y sale menos de noche. Si vendes allá, prueba combos de valor y domicilios temprano en la tarde, con un copy que hable de \"rinde más\" en lugar de \"lujo\".",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Barranquilla ya mira a Nueva York",
-   "idea": "Avianca abre ruta directa Barranquilla–Nueva York desde febrero de 2027. Agencias, maletas, envíos y casilleros pueden empezar contenido de 'lo que vas a necesitar para tu primer viaje' y captar listas de interesados.",
-   "formato": "LinkedIn"
+   "titulo": "Cuenta regresiva para GTA VI",
+   "idea": "GTA VI ya tiene álbum con Lana Del Rey y Dua Lipa y su lanzamiento se siente cerca. Tiendas de tecnología, snacks y domicilios pueden armar el \"kit noche de juego\" con preventa y entrega el día del lanzamiento.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva por el pronóstico del festivo y el retorno; lluvias en varias ciudades.",
-   "idea": "Contenido útil: qué llevar en el retorno, domicilios para días lluviosos, impermeables y paraguas."
+   "por_que": "Búsqueda masiva del pronóstico durante el festivo y el retorno.",
+   "idea": "Contenido útil de \"qué llevar hoy\" según la ciudad, con producto de temporada (sombrillas, chaquetas, bloqueador)."
   },
   {
-   "termino": "nominaciones grammys 2027",
-   "color": "verde",
-   "por_que": "Ocho artistas colombianos entre los nominados; orgullo y conversación musical.",
-   "idea": "Dinámicas de 'a quién le vas', playlists y lanzamientos con guiño musical."
-  },
-  {
-   "termino": "gta",
-   "color": "verde",
-   "por_que": "Lanzamiento de GTA VI esta semana y conversación sobre su rendimiento en PS5.",
-   "idea": "Accesorios, combos de comida para la noche de estreno y contenido gamer ligero."
-  },
-  {
-   "termino": "fenómeno",
+   "termino": "supuesto apagón mundial",
    "color": "amarillo",
-   "por_que": "Se habla de El Niño y su efecto en las reservas de agua del Atlántico.",
-   "idea": "Contenido de ahorro de agua y energía, sin alarmismo ni promesas exageradas."
+   "por_que": "Rumor viral ya desmentido por medios y verificadores.",
+   "idea": "Solo contenido que aclare y tranquilice; nunca uses el miedo como gancho de venta."
   },
   {
-   "termino": "herrera",
-   "color": "amarillo",
-   "por_que": "Ligado a la polémica de un evento de boxeo entre streamers.",
-   "idea": "Solo si tu marca está en el mundo creator; evita tomar partido en la polémica."
+   "termino": "rockstar",
+   "color": "verde",
+   "por_que": "Crece la conversación por GTA VI y su álbum con artistas pop.",
+   "idea": "Kits gamer, preventas y planes de \"noche de lanzamiento\" con amigos."
   }
  ],
  "audiencias": {
@@ -1153,6 +1141,11 @@
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
   "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo"
+  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
+  "Revelan video inédito de la casa de Mauricio Leal y la lista completa de sus propiedades con precios",
+  "Astro Luna de hoy, domingo 15 de noviembre: consulte el número ganador y el signo zodiacal",
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
+  "Tribunal de Barranquilla alerta por posible reducción salarial de jueces con la reforma tributaria",
+  "En Medellín han identificado 56 procesos con presuntas irregularidades; hay sancionados"
  ]
 }

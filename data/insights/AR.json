@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Argentina está pendiente del clima: alertas por tormentas en varias provincias y la crecida del río Paraná marcan la agenda, junto con la cotización del dólar blue y el riesgo país. En consumo, arrancó el 'Black Mayorista' con descuentos en productos navideños, Mercado Libre muestra qué celulares se venden más y el aguinaldo de diciembre ya se busca para planificar compras. Se viene un fin de semana largo por el Día de la Soberanía Nacional (lunes 23). Las marcas que ofrezcan cuotas claras, stock real y utilidad frente a la lluvia tienen mejor recepción.",
+ "lectura": "Argentina está pendiente del cielo: un ciclón y el 'Súper Niño' traen lluvias intensas entre el lunes 16 y el viernes 20, con alertas en media país y el Paraná crecido en el Litoral. Al mismo tiempo, la gente ya hace cuentas con el aguinaldo de diciembre y el dólar, y se acerca el fin de semana largo del 23 de noviembre. En consumo hay señales lindas para marcas: vuelve la Noche de las Heladerías con 2x1, U2 suma un cuarto estadio para 2027 y los celulares más vendidos en Mercado Libre van del Moto G06 al iPhone 17. Funciona el contenido útil para la lluvia, las cuotas sin interés y los planes de finde largo.",
  "ideas_hoy": [
   {
-   "titulo": "El aguinaldo ya tiene destino",
-   "idea": "El aguinaldo de diciembre está entre lo más buscado. Armá una guía de 'qué comprar con el aguinaldo' con cuotas, precio final y stock confirmado.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Navidad mayorista para emprendedores",
-   "idea": "Arrancó el Black Mayorista con productos navideños. Si vendés al por mayor, mostrá kits de reventa para emprendedores con margen sugerido y fechas de entrega.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Día de lluvia, delivery copado",
-   "idea": "Hay alertas por tormentas. Restaurantes y comercios pueden comunicar horarios, zonas de envío y combos para quedarse en casa, con tono cercano.",
+   "titulo": "Semana pasada por agua",
+   "idea": "Hay alertas por lluvias fuertes hasta el viernes. Mostrá cómo seguir comprando sin salir (envío, retiro rápido, horarios) y productos útiles como paraguas, botas o comida para el delivery, con tono empático.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "El celu que más se vende",
-   "idea": "Mercado Libre publicó los celulares más vendidos. Tiendas de tecnología pueden comparar 3 modelos por presupuesto y explicar en simple cuál conviene.",
-   "formato": "TikTok"
+   "titulo": "Noche de las Heladerías",
+   "idea": "Después de La Noche de los Museos llega La Noche de las Heladerías con 2x1. Si tenés heladería, cafetería o pastelería, sumate con un combo y avisá horarios; si no, hacé una dinámica de \"plan helado\" con una marca aliada. Re copado.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Aguinaldo bien usado",
+   "idea": "Muchos buscan fechas y montos del aguinaldo de diciembre. Armá una guía de \"regalos que valen la pena\" en 3 o 6 cuotas sin interés, con precio final claro.",
+   "formato": "Carrusel Instagram"
   },
   {
    "titulo": "Finde largo del 23",
-   "idea": "El lunes 23 es feriado por el Día de la Soberanía Nacional. Turismo, gastronomía y escapadas cortas pueden lanzar paquetes con reserva anticipada.",
+   "idea": "Se viene el fin de semana largo del 23 de noviembre. Turismo, gastronomía y escapadas cortas pueden publicar hoy planes de 2 o 3 días con reserva por WhatsApp.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Un cafecito, riquito",
+   "idea": "Una canción hecha con inteligencia artificial sobre un cafecito se volvió viral. Cafeterías y marcas de desayuno pueden usar el audio en tendencia con su propio producto y un toque de humor local.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
+   "termino": "ciclón",
+   "color": "amarillo",
+   "por_que": "Lluvias intensas y alertas en varias regiones durante toda la semana.",
+   "idea": "Contenido de servicio y prevención; evitá el humor y el tono alarmista."
+  },
+  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva por el pronóstico con tormentas en varias provincias.",
-   "idea": "Contenido útil: qué llevar, delivery, productos para la lluvia."
-  },
-  {
-   "termino": "lluvia",
-   "color": "amarillo",
-   "por_que": "Lluvias intensas y crecida de ríos en el Litoral.",
-   "idea": "Tono servicial y empático; nada de humor con zonas afectadas."
-  },
-  {
-   "termino": "aguinaldo",
-   "color": "verde",
-   "por_que": "La gente planifica cómo usar el medio aguinaldo de diciembre.",
-   "idea": "Guías de compra en cuotas, ahorro y regalos navideños."
-  },
-  {
-   "termino": "fuga de gas",
-   "color": "amarillo",
-   "por_que": "Alarmas por fugas de gas en Lanús.",
-   "idea": "Solo contenido de prevención con profesionales matriculados; sin dramatizar."
+   "por_que": "Búsqueda masiva del pronóstico en Buenos Aires y el interior.",
+   "idea": "Recomendaciones de producto según el clima del día."
   },
   {
    "termino": "alerta meteorológica",
    "color": "amarillo",
-   "por_que": "Alertas naranja y amarilla por tormentas.",
-   "idea": "Avisos de horarios y envíos; evita promociones que inviten a salir en plena alerta."
+   "por_que": "Media Argentina en alerta por eventos extremos y ríos crecidos.",
+   "idea": "Solo información útil y solidaria con las zonas afectadas."
+  },
+  {
+   "termino": "lluvia",
+   "color": "verde",
+   "por_que": "La lluvia cambia planes y compras de la semana.",
+   "idea": "Delivery, planes bajo techo y productos para días de lluvia."
+  },
+  {
+   "termino": "aguinaldo",
+   "color": "verde",
+   "por_que": "La gente planifica gastos con el aguinaldo de diciembre.",
+   "idea": "Guías de regalos en cuotas y ahorro; sin prometer montos oficiales."
   }
  ],
  "ocultar": [
@@ -139,7 +139,16 @@
   "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "León XIV denunció explotación y violencia en la Amazonia peruana"
+  "León XIV denunció explotación y violencia en la Amazonia peruana",
+  "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
+  "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
+  "La defensa de Adorni que aceptó el fiscal abre interrogantes sobre el futuro del delito de enriquecimiento ilícito",
+  "Después de su remontada histórica, Lula respalda a Sánchez en Madrid",
+  "El video de Natacha Jaitt sobre el Wandagate que que se volvió viral",
+  "Cómo un BMW exhibido en TikTok se convirtió en pieza clave de la causa de narcolavado",
+  "El fiscal general de la Ciudad fue incorporado por unanimidad como miembro del Comité Ejecutivo de la Asociación Internacional de Fiscales",
+  "club deportivo maipú",
+  "deportivo madryn - deportivo maipú"
  ],
  "audiencias": {
   "general": {
@@ -1125,58 +1134,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Cyber Monday",
-   "total": 9364,
+   "busqueda": "compras en Estados Unidos courier",
+   "total": 11,
    "anunciantes": [
     {
-     "nombre": "Kobe",
-     "url": "https://www.facebook.com/ads/library/?id=4051959565111071"
+     "nombre": "Kalex-Importadora",
+     "url": "https://www.facebook.com/ads/library/?id=1876494683373544"
     },
     {
-     "nombre": "Central Chevrolet",
-     "url": "https://www.facebook.com/ads/library/?id=1704944194393410"
+     "nombre": "Flanker Logistics",
+     "url": "https://www.facebook.com/ads/library/?id=1123560513933174"
     },
     {
-     "nombre": "Calma Argentina",
-     "url": "https://www.facebook.com/ads/library/?id=2330402471046543"
+     "nombre": "FlyBox Argentina",
+     "url": "https://www.facebook.com/ads/library/?id=1414420063896712"
     },
     {
-     "nombre": "Nalo Store",
-     "url": "https://www.facebook.com/ads/library/?id=2984352015259841"
+     "nombre": "Airbox",
+     "url": "https://www.facebook.com/ads/library/?id=1435235551790436"
     },
     {
-     "nombre": "HONKYTONK",
-     "url": "https://www.facebook.com/ads/library/?id=5747163865509131"
+     "nombre": "Sar Express",
+     "url": "https://www.facebook.com/ads/library/?id=2093547641192460"
     }
    ],
-   "patron": "Pasado el Cyber Monday, muchas marcas lo 'extienden': 'el Cyber no termina', 2x1, 3x2 y 5x3 con envío gratis. Aparecen desde perfumes y ropa hasta autos 0 km, y varios anuncios llevan directo a WhatsApp. El reto es que la extensión no erosione la confianza: conviene fijar una fecha de cierre real."
+   "patron": "Pocos anunciantes activos para esta búsqueda: casilleros e importadoras que prometen 'comprá en Estados Unidos y recibí en Argentina sin complicaciones', algunos combinando compras desde China. Predominan los mensajes con voseo y la invitación a chatear. Con tan poca competencia visible, hay espacio para contenido educativo sobre cómo calcular el costo total antes del Black Friday."
   },
   {
    "busqueda": "regalos Navidad envío gratis",
-   "total": 141,
+   "total": 118,
    "anunciantes": [
     {
-     "nombre": "Kobe",
-     "url": "https://www.facebook.com/ads/library/?id=1139609208994541"
+     "nombre": "Bagués",
+     "url": "https://www.facebook.com/ads/library/?id=1125737390425107"
     },
     {
-     "nombre": "Terca",
-     "url": "https://www.facebook.com/ads/library/?id=1740153357050544"
+     "nombre": "Lexus Kids Argentina",
+     "url": "https://www.facebook.com/ads/library/?id=2085446942107381"
     },
     {
-     "nombre": "Musolito Argentina",
-     "url": "https://www.facebook.com/ads/library/?id=1454337726038490"
+     "nombre": "Mambal.masaje",
+     "url": "https://www.facebook.com/ads/library/?id=3981844615291578"
     },
     {
-     "nombre": "Kleos.officiall",
-     "url": "https://www.facebook.com/ads/library/?id=1822453548966056"
+     "nombre": "America Importaciones",
+     "url": "https://www.facebook.com/ads/library/?id=2135258944027369"
     },
     {
-     "nombre": "Ajuares Ora Baby",
-     "url": "https://www.facebook.com/ads/library/?id=1121644630476657"
+     "nombre": "Artículos De Fundición",
+     "url": "https://www.facebook.com/ads/library/?id=2324244918322302"
     }
    ],
-   "patron": "La Navidad apenas empieza en la pauta: pocos anuncios y muy concretos. Se repiten las guías de regalos con precio cerrado ('las 3 por $60.000'), el envío gratis desde un monto mínimo y las 3 cuotas sin interés. Hay espacio para entrar temprano con regalos emocionales (bebés, infancia) y combos."
+   "patron": "La Navidad ya arrancó en los anuncios: 2x1 especial Navidad, 'el Black Friday se adelanta', envío gratis a partir de un monto y 3 cuotas sin interés como gancho principal. Muchos usan voseo cercano ('regalá', 'llevá 3, pagá 2') y titulares emocionales. Las marcas de decoración, velas, indumentaria infantil y cocina lideran."
   }
  ]
 }

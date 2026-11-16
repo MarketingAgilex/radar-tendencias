@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos está en plena temporada de Sinterklaas: la llegada del santo (intocht) y el nuevo intérprete del personaje dominan las búsquedas, y se acerca pakjesavond el 5 de diciembre. El Black Friday se vive con escepticismo (un gran retailer pide acabar con 'cuatro semanas de Black Friday') y la policía alerta sobre tiendas falsas, mientras los neerlandeses buscan ofertas de energía (baterías domésticas antes del fin de la saldering) y fibra. Se anuncia un invierno potencialmente frío y sube el impuesto de circulación. Ganan las marcas que ayuden a resolver regalos y 'surprises' con honestidad y entrega puntual.",
+ "lectura": "Países Bajos vive la llegada de Sinterklaas, con Gijs Naber como nuevo Sint, y entra en plena cuenta atrás hacia pakjesavond (5 de diciembre): regalos, chocolate y poemas son el centro del consumo. A la vez, el Black Friday se alarga casi un mes, con ofertas en fibra óptica, LEGO, electrónica y deportes de invierno, aunque hay voces del comercio que piden acortarlo y las autoridades advierten sobre tiendas online falsas. También hubo una alerta de seguridad sobre una leche UHT de Lidl y un aumento del impuesto de circulación para el próximo año. Funcionan los regalos de Sinterklaas con entrega garantizada y la compra segura.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "El nuevo intérprete de Sinterklaas es tema nacional.",
-   "idea": "Contenido festivo de Sinterklaas con regalos y surprises."
+   "por_que": "Nuevo Sinterklaas con una enorme búsqueda.",
+   "idea": "Regalos de Sinterklaas, chocolate y contenido familiar."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada del barco de Sinterklaas reúne a familias.",
-   "idea": "Ideas de regalos, pepernoten y planes en familia."
+   "por_que": "La llegada del barco del Sint marca el inicio de la temporada.",
+   "idea": "Contenido familiar y guías de regalos para el zapato."
+  },
+  {
+   "termino": "operatie",
+   "color": "amarillo",
+   "por_que": "Noticia médica llamativa sobre una cirugía compleja.",
+   "idea": "No lo uses como gancho comercial; solo para el sector salud con tono informativo."
   },
   {
    "termino": "grammy nominations 2027",
    "color": "verde",
-   "por_que": "Conversación musical internacional.",
-   "idea": "Playlists y regalos de música o entradas."
+   "por_que": "Nominaciones lideradas por artistas mujeres.",
+   "idea": "Playlists de marca, regalos musicales y entradas de conciertos."
   },
   {
    "termino": "max verstappen vdk",
    "color": "verde",
-   "por_que": "Nuevo acuerdo de patrocinio del piloto con un banco neerlandés.",
-   "idea": "Ganchos de motor y velocidad, sin usar su imagen sin permiso."
-  },
-  {
-   "termino": "houdbare melk lidl bacteriën",
-   "color": "amarillo",
-   "por_que": "Retirada de un lote de leche por seguridad alimentaria.",
-   "idea": "Si vendes alimentos, comunica tus controles de calidad; no ataques a otras marcas."
+   "por_que": "Nuevo acuerdo de patrocinio con una empresa neerlandesa.",
+   "idea": "Contenido sobre alianzas de marca y regalos para fans del motor."
   }
  ],
  "audiencias": {
@@ -1308,32 +1308,38 @@
   "Politieke ophef bij Amsterdamse intocht Sinterklaas, JA21 wil opheldering over ’gênante flater’",
   "Europa mag van Rusland meeonderhandelen, ‘Poetin denkt: ik kan ze wel aan’",
   "Voor de vierde keer dit jaar een geluidswal bij de A10 Amsterdam-West in de fik",
-  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij"
+  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij",
+  "Politie houdt twee verdachten aan na dodelijk ongeluk in Oudewater",
+  "Deze mannen zaten in omstreden appgroep vol ‘creepshots’ van vrouwen, nu reageren zij voor het eerst",
+  "Als nabestaanden hun enorme verdriet delen, geeft de Erasmusschutter geen krimp: ‘Ik kijk mensen aan wanneer ik dat wil’",
+  "Verrassend ambitieus voorstel op klimaattop, nu begint het politieke spel",
+  "Kabinet wil ‘bewijzen’ dat het kan: uitgeprocedeerde asielzoekers uitzetten naar Rwanda",
+  "Damen begint met vertraging van twee jaar aan bouw fregatten voor Nederland en België"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cuenta atrás a pakjesavond",
-   "idea": "Faltan menos de tres semanas para el 5 de diciembre. Publica una lista de regalos por presupuesto con fecha límite de pedido para que llegue a tiempo para el 'schoen zetten' y pakjesavond.",
+   "titulo": "De nieuwe Sint",
+   "idea": "Gijs Naber es el nuevo Sinterklaas y la búsqueda explota. Lanza una guía de regalos para el zapato y para pakjesavond con fecha límite de entrega antes del 5 de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Surprise sin estrés",
-   "idea": "La temporada de surprises y poemas está en marcha. Ofrece kits de manualidades o un generador de rimas simple para acompañar el regalo, con tono gezellig.",
+   "titulo": "Poema de Sinterklaas",
+   "idea": "Los poemas son tradición en pakjesavond. Ofrece una plantilla de poema gratis o escribe uno para cada pedido: es un detalle que se comparte en redes.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin trucos",
-   "idea": "Hay cansancio de 'cuatro semanas de Black Friday' y alertas de tiendas falsas. Muestra tu número de KvK, reseñas reales y política de devolución: confianza antes que descuento.",
-   "formato": "Copy para anuncio"
+   "titulo": "Tienda real, compra segura",
+   "idea": "La policía advierte sobre tiendas online falsas en Black Friday. Muestra tus sellos de confianza, tu dirección y tu atención al cliente para tranquilizar al comprador.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Energía en casa",
-   "idea": "Las baterías domésticas aparecen en ofertas antes del fin de la saldering. Explica en simple qué cambia y para quién conviene, sin prometer ahorros exactos.",
+   "titulo": "Black Friday corto y claro",
+   "idea": "Un directivo del comercio pide acabar con las cuatro semanas de Black Friday. Diferénciate con una oferta de solo 48 horas y un mensaje honesto: menos ruido, mejor precio.",
    "formato": "LinkedIn"
   },
   {
-   "titulo": "Invierno frío a la vista",
-   "idea": "Se habla de un posible invierno frío. Ropa térmica, mantas y productos de cocina reconfortante pueden lanzar su colección de invierno.",
+   "titulo": "Ski sin gastar de más",
+   "idea": "Hay ofertas de deportes de invierno con forfait incluido. Tiendas de ropa técnica pueden hacer un checklist de \"maleta para la nieve\" con descuento por paquete.",
    "formato": "TikTok"
   }
  ]

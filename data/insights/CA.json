@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá se prepara para Black Friday con inflación estable en 3,1% y ventas minoristas que crecieron en octubre, pero con un comprador que mide cada dólar. El clima (tormentas de invierno, El Niño) y los retrasos de vuelos tras la parada en EE. UU. condicionan viajes y entregas, mientras la prueba nacional de Alerta Ready del miércoles y la oferta de Québecor por Telus son noticia. En entretenimiento, la música country (CMA Awards), GTA VI y el casting de James Bond lideran. Ganan los mensajes bilingües cuando aplica, con precios claros y fechas de entrega realistas.",
+ "lectura": "Canadá entra en modo invierno y compras navideñas: hay tormentas en la costa oeste, ráfagas de viento en Quebec y una prueba nacional del sistema Alert Ready el miércoles que tiene a mucha gente buscando qué es. La inflación sigue alta en gasolina y supermercado, por eso los compradores comparan precios (Dollarama frente a Loblaws) y se dividen sobre cuándo empezar las compras de Navidad, mientras Walmart y Best Buy adelantan ofertas de Black Friday. El entretenimiento suma con Taylor Swift en los CMA, GTA VI y las nominaciones a los Grammy de artistas quebequenses. Gana el mensaje de valor real, compra local en mercados navideños y planificación anticipada.",
  "ideas_hoy": [
   {
-   "titulo": "Guía de regalos 'worth it'",
-   "idea": "El canadiense compra con cautela pese a las ofertas. Haz una lista de regalos por valor real (durabilidad, garantía, precio por uso) en lugar de solo % de descuento.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Prepárate para el invierno",
-   "idea": "Tormentas y El Niño marcan la semana. Ropa térmica, neumáticos de invierno y kits para el auto pueden lanzar un checklist con productos disponibles.",
+   "titulo": "Qué es la alerta del miércoles",
+   "idea": "Muchos buscan la prueba del sistema Alert Ready de esta semana. Marcas de tecnología o seguros pueden explicar en 20 segundos qué va a pasar y recomendar un kit básico de invierno, sin alarmar.",
    "formato": "Reel"
   },
   {
-   "titulo": "Noche country",
-   "idea": "Los CMA Awards con Taylor Swift y el anuncio de LASSO Montreal 2027 mueven a los fans. Bares, moda western y regalos musicales pueden hacer contenido temático.",
+   "titulo": "Regalos que rinden con la inflación",
+   "idea": "Los precios de supermercado siguen altos y la gente compara Dollarama con Loblaws. Arma una guía de regalos por presupuesto ($25, $50, $100) y destaca el precio final con impuestos.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Mercados navideños locales",
+   "idea": "Ferias de artesanos y mercados navideños abren en Ontario y otras provincias. Si vendes hecho a mano, publica dónde estarás este fin de semana y ofrece apartado por mensaje directo.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "¿Ya empezaste tus compras?",
+   "idea": "Una encuesta local mostró que los compradores están divididos sobre cuándo empezar a comprar regalos. Lanza la misma pregunta en historias y responde con un descuento de \"madrugador\" válido hasta el viernes.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Bienvenue au froid",
+   "idea": "Con la ola de viento y frío en Quebec, crea contenido bilingüe con ropa térmica, café o comida reconfortante. Un \"Attache ta tuque!\" bien usado conecta con el público francófono.",
    "formato": "TikTok"
-  },
-  {
-   "titulo": "Shoppable en Twitch",
-   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas gamer y tech pueden probar colaboraciones con streamers locales antes del estreno de GTA VI.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Entregas sin sorpresas",
-   "idea": "Con retrasos aéreos y la temporada alta encima, publica tus fechas límite de envío para Navidad, incluyendo envíos a EE. UU. y Latinoamérica.",
-   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "canada emergency alert",
+   "color": "amarillo",
+   "por_que": "Prueba nacional de alertas que genera dudas, no una emergencia real.",
+   "idea": "Contenido explicativo y de preparación; nunca la uses como gancho de urgencia falsa."
+  },
+  {
    "termino": "country music",
    "color": "verde",
-   "por_que": "CMA Awards y conciertos anunciados generan conversación.",
-   "idea": "Contenido temático de música country para moda, bares y regalos."
+   "por_que": "Taylor Swift actuará en los 60 premios CMA.",
+   "idea": "Looks country, botas, sombreros y playlists de marca."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas fuertes en la costa oeste.",
-   "idea": "Productos y consejos de invierno con tono servicial."
+   "por_que": "Tormentas con nieve y lluvia en la costa oeste.",
+   "idea": "Productos de invierno y entregas con tono práctico."
   },
   {
    "termino": "météo",
    "color": "verde",
-   "por_que": "Búsquedas del pronóstico en Quebec con vientos fuertes.",
-   "idea": "Contenido en francés sobre preparación para el frío."
+   "por_que": "Quebec sigue el pronóstico por fuertes vientos y cambios de temperatura.",
+   "idea": "Contenido en francés con ropa y planes para el frío."
   },
   {
    "termino": "el niño",
-   "color": "amarillo",
-   "por_que": "Interés por los efectos de El Niño en el invierno.",
-   "idea": "Consejos prácticos, sin alarmismo."
-  },
-  {
-   "termino": "gta vi",
    "color": "verde",
-   "por_que": "El lanzamiento del año en videojuegos.",
-   "idea": "Accesorios, snacks y combos de la noche de estreno."
+   "por_que": "Interés por el impacto de El Niño en el invierno.",
+   "idea": "Explicaciones simples y productos de temporada según la región."
   }
  ],
  "audiencias": {
@@ -917,6 +917,81 @@
     "ES": "de nada",
     "AR": "de nada"
    }
+  },
+  {
+   "expresion": "Skookum",
+   "significado": "Algo muy bueno, fuerte o grande.",
+   "uso": "Columbia Británica y el norte (Yukón).",
+   "registro": "coloquial",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "That new winter jacket is skookum.",
+   "equivalentes": {
+    "CO": "berraco / bacano",
+    "MX": "chido",
+    "EC": "bestial",
+    "ES": "de lujo",
+    "AR": "zarpado"
+   }
+  },
+  {
+   "expresion": "Deke (out)",
+   "significado": "Esquivar o engañar con un amague; también escaparse un momento a algún lugar.",
+   "uso": "Todo el Canadá anglófono; viene del hockey.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "I’ll deke out to the store before the storm hits.",
+   "equivalentes": {
+    "CO": "hacer una vuelta rápida / sacar el quite",
+    "MX": "darse una escapada",
+    "EC": "dar una vuelta rápida",
+    "ES": "hacer una escapada",
+    "AR": "hacer una escapadita"
+   }
+  },
+  {
+   "expresion": "Ahlie",
+   "significado": "\"¿Cierto?\" o \"¿verdad?\"; también expresa incredulidad. Viene del patois jamaicano.",
+   "uso": "Toronto y su área metropolitana, sobre todo entre jóvenes.",
+   "registro": "jerga juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Black Friday starts early this year, ahlie?",
+   "equivalentes": {
+    "CO": "¿cierto?",
+    "MX": "¿a poco?",
+    "EC": "¿de ley?",
+    "ES": "¿a que sí?",
+    "AR": "¿posta?"
+   }
+  },
+  {
+   "expresion": "Tiguidou",
+   "significado": "Perfecto, todo bien, de acuerdo. Expresión de satisfacción algo antigua y simpática.",
+   "uso": "Quebec.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Ta commande arrive demain? Tiguidou!",
+   "equivalentes": {
+    "CO": "¡listo!",
+    "MX": "¡sale!",
+    "EC": "¡chévere!",
+    "ES": "¡perfecto!",
+    "AR": "¡joya!"
+   }
+  },
+  {
+   "expresion": "Quétaine",
+   "significado": "Cursi, anticuado o de mal gusto.",
+   "uso": "Quebec.",
+   "registro": "coloquial",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Un pull de Noël quétaine, c’est le fun pour le party de bureau.",
+   "equivalentes": {
+    "CO": "lobo / guiso",
+    "MX": "naco / cursi",
+    "EC": "cursi",
+    "ES": "hortera",
+    "AR": "grasa"
+   }
   }
  ],
  "creadores": {
@@ -1073,6 +1148,14 @@
    "hacia": "CO",
    "sector": "ecommerce",
    "accion": "Crear contenido en español sobre cómo planificar los regalos de diciembre con tiempo."
+  },
+  {
+   "titulo": "Prendas de alpaca para el invierno canadiense",
+   "senal": "Las búsquedas de clima, tormentas y frío crecen en todo Canadá y los mercados navideños destacan productos con origen y hechos a mano.",
+   "desde": "PE",
+   "hacia": "CA",
+   "sector": "moda",
+   "accion": "Investigar la demanda de bufandas, gorros y mantas de alpaca en tiendas de diseño y mercados de temporada, comunicando abrigo natural y trazabilidad."
   }
  ],
  "anuncios": [
@@ -1209,6 +1292,12 @@
   "haïti",
   "Video captures confrontation outside Chinese Consulate in Toronto",
   "PSPP and Carney have ‘very pleasant meeting’ following weeks of tensions",
-  "Montreal Opposition wants city to appoint executive responsible for systemic racism"
+  "Montreal Opposition wants city to appoint executive responsible for systemic racism",
+  "suisse – écosse",
+  "crimean bridge",
+  "tatiana kim",
+  "vincent leclair ftq",
+  "russia demands world juniors relocation",
+  "One hospitalized after fire at Montreal apartment building"
  ]
 }

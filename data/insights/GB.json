@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido entra en modo invierno: avisos de nieve y frío dominan las búsquedas, y la televisión de temporada (Strictly Come Dancing, I'm A Celebrity) concentra la conversación. En compras, la mitad de quienes harán Black Friday ya se inclina por Amazon, lo que deja al comercio de calle peleando por el segundo lugar; ayuntamientos ofrecen aparcamiento gratis para animar las compras navideñas y las galletas festivas de Morrisons se agotan. GTA VI, el casting de James Bond y el rodaje de las películas de The Beatles completan el cuadro. Diferenciarse con servicio, entrega local y producto de temporada es la vía frente a los gigantes.",
+ "lectura": "Reino Unido vive pendiente del tiempo: avisos de nieve y hielo, alertas sanitarias por frío y lluvia en Londres disparan las búsquedas del pronóstico. La televisión manda en la conversación con Strictly Come Dancing camino de Blackpool y el regreso de I'm a Celebrity, mientras el anuncio navideño de John Lewis y las luces de Carnaby Street abren oficialmente la temporada de regalos. Los compradores británicos usan la IA para elegir regalos pero se quejan del gasto final, y los ayuntamientos ofrecen aparcamiento gratis para animar el comercio local. Funciona el contenido cálido, práctico para el frío y con precios claros antes del Black Friday.",
  "ideas_hoy": [
   {
-   "titulo": "Snow day essentials",
-   "idea": "Hay aviso de nieve en gran parte del país. Arma un 'kit de día de nieve' (abrigo, calcetines térmicos, chocolate caliente) con entrega local rápida.",
+   "titulo": "Cosy night in",
+   "idea": "Con avisos de nieve y frío, la gente busca planes en casa. Propón un \"cosy night in\" para ver Strictly o I’m a Celebrity con tus productos: mantas, snacks, velas o comida a domicilio.",
    "formato": "Reel"
   },
   {
-   "titulo": "Compra local, aparca gratis",
-   "idea": "Varios ayuntamientos ofrecen parking gratis por las compras navideñas. Si tienes tienda física, avísalo y combina con una oferta exclusiva en tienda.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Black Friday sin Amazon",
-   "idea": "La mitad de los compradores irá directo a Amazon. Comunica lo que tú das y ellos no: envoltorio, atención personal, devolución en tienda o producto artesanal.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Strictly en tu marca",
-   "idea": "Strictly Come Dancing arrasa en búsquedas. Moda, maquillaje y snacks pueden hacer contenido de 'outfit de sábado de Strictly' o 'snacks para el directo'.",
+   "titulo": "Tu propio anuncio navideño",
+   "idea": "El anuncio de John Lewis ya marca la temporada. Graba un mini anuncio de Navidad de 20 segundos con tu equipo y una historia sencilla: la emoción pesa más que la producción.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Galletas festivas que vuelan",
-   "idea": "Las galletas navideñas de Morrisons se comen 'por paquetes'. Panaderías y marcas de alimentación pueden lanzar su edición festiva con edición limitada.",
-   "formato": "Reel"
+   "titulo": "Gasto final sin sorpresas",
+   "idea": "Un informe dice que los compradores están contentos con lo que eligen con IA, pero no con lo que gastan al final. Publica guías de regalos con precio total, envío incluido y fecha de entrega.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Aparca gratis, compra local",
+   "idea": "Varios ayuntamientos ofrecen aparcamiento gratis en temporada navideña. Si tienes tienda física, avisa dónde aparcar y añade un detalle para quien venga este fin de semana.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Votos del sábado",
+   "idea": "Strictly entra en su recta final rumbo a Blackpool. Haz una encuesta de \"¿quién llega a la final?\" y regala un descuento al acertar; engancha a millennials y boomers por igual.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Avisos de nieve y frío con alertas de salud.",
-   "idea": "Productos de invierno y consejos prácticos para el frío."
+   "por_que": "Avisos de nieve y hielo con alertas por frío.",
+   "idea": "Ropa de abrigo, calefacción y entregas con mensajes prácticos."
+  },
+  {
+   "termino": "weather tomorrow",
+   "color": "verde",
+   "por_que": "La gente planifica el día según el frío.",
+   "idea": "Contenido de \"qué ponerse mañana\" y productos de temporada."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "El programa del sábado es tema nacional.",
-   "idea": "Contenido de moda, belleza y snacks para verlo en casa."
+   "por_que": "Semana ocho del concurso con alta audiencia.",
+   "idea": "Encuestas, looks de baile y planes para ver el programa en casa."
   },
   {
    "termino": "what time is im a celebrity on tonight",
    "color": "verde",
-   "por_que": "Estreno del reality con gran audiencia.",
-   "idea": "Memes ligeros y retos con producto, sin burlarse de concursantes."
+   "por_que": "Regreso del reality con concursantes famosos.",
+   "idea": "Snacks para el programa, memes de marca y dinámicas de encuesta."
   },
   {
-   "termino": "gta vi map",
+   "termino": "weather",
    "color": "verde",
-   "por_que": "Gran expectativa por el lanzamiento de GTA VI.",
-   "idea": "Accesorios gamer y combos de noche de estreno."
-  },
-  {
-   "termino": "james norton",
-   "color": "verde",
-   "por_que": "Primeras imágenes del rodaje de las películas de The Beatles.",
-   "idea": "Estilo retro de los 60 para moda y peluquería."
+   "por_que": "Cambio a tiempo más templado antes de nuevas alertas por frío.",
+   "idea": "Recordatorios útiles y ofertas para preparar la casa para el invierno."
   }
  ],
  "audiencias": {
@@ -1200,6 +1200,12 @@
   "++(official^video)++surekha vani viral video original Clip in Social Media x Instagram",
   "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
   "US woman Lindsay Clancy to face retrial next year for deaths of her three children",
-  "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit"
+  "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+  "Lindsay Clancy to face retrial next year for deaths of her three children",
+  "Minister Pat McFadden refuses to rule out some young people may lose benefits after Milburn review",
+  "Miliband says he won't resign if government approves Rosebank oil field",
+  "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+  "Fraud office brings charges over ‘Britain’s biggest Ponzi scheme’",
+  "GTA 6 hacker pleads guilty after release from secure hospital"
  ]
 }

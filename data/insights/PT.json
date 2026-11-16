@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal vive un Black Friday de desconfianza: el 88% de los portugueses participa, pero duda de los precios, y crecen los contenidos sobre crédito, intereses y estafas en línea. Las operadoras logísticas refuerzan capacidad para Black Friday y Navidad, mientras el perfume de Mercadona revendido al doble en Vinted se volvió tema. El clima (lluvia y olas de hasta seis metros) y el rumor de un apagón mundial, ya desmentido, ocupan las redes, y la huelga del Metro Transportes do Sul afecta la movilidad. Con los feriados del 1 y 8 de diciembre cerca, hablar claro de precio, plazos y seguridad de pago es lo que diferencia.",
+ "lectura": "Portugal enfrenta otra semana de lluvia intensa, viento y olas por la corriente en chorro, con varios distritos bajo aviso y cortes de electricidad recientes, así que el consumidor pasa más tiempo en casa. El Black Friday se nota en todas partes: casi 9 de cada 10 portugueses participan, aunque desconfían de los precios, y PlayStation, perfumerías y transportistas como NACEX ya se preparan para Navidad. En redes divierte el perfume de Mercadona revendido al doble en Vinted y los memes por el precio del tomate, mientras el Mercado de Navidad del Rossio abre la temporada. Gana quien ofrezca transparencia de precios y planes cálidos para quedarse en casa.",
  "ideas_hoy": [
   {
-   "titulo": "Preço justo, sem truques",
-   "idea": "El 88% compra en Black Friday pero desconfía. Publica el historial de precio de tus productos estrella y explica tu descuento real en una imagen simple.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Compra segura em 5 passos",
-   "idea": "Abundan las alertas de fraudes en Black Friday. Comparte 5 señales de tienda segura y tus métodos de pago protegidos para generar confianza.",
+   "titulo": "Dias de chuva, compras em casa",
+   "idea": "Con avisos por lluvia y olas, la gente se queda en casa. Promociona entrega a domicilio, cajas de regalo y kits para el sofá con un mensaje cálido y sin alarmismo.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Dupes com cabeça",
-   "idea": "El perfume de Mercadona revendido al doble en Vinted muestra el interés por los 'dupes' baratos. Marcas de belleza pueden hacer un test honesto de relación calidad-precio.",
+   "titulo": "Desconfianza = oportunidad",
+   "idea": "Un estudio dice que el 88% de los portugueses participa en el Black Friday pero desconfía de los precios. Publica el historial de precios de tus productos y un \"preço justo garantido\".",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "El perfume que se revende",
+   "idea": "Se hizo viral la reventa al doble de un perfume de Mercadona en Vinted. Marcas de belleza pueden hacer una prueba a ciegas con su propio producto y mostrar la relación calidad-precio.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Memes del tomate",
+   "idea": "El precio del tomate genera memes. Restaurantes y tiendas de alimentación pueden sumarse con humor y una receta que rinde con pocos ingredientes.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Prazos para o Natal",
-   "idea": "Las logísticas se preparan para el pico de envíos. Publica ya tus fechas límite para recibir antes de Navidad, también para envíos a Brasil y otros países.",
+   "titulo": "Gaming para Navidad",
+   "idea": "PlayStation adelanta descuentos de Black Friday en mandos y PS Plus antes de GTA VI. Tiendas de tecnología pueden armar packs de regalo gamer con fecha de entrega garantizada.",
    "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Ponte de dezembro",
-   "idea": "El 1 y el 8 de diciembre son feriados. Hoteles, restaurantes y escapadas pueden lanzar ofertas con reserva anticipada.",
-   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "Interés por las suspensiones de vuelos en EE. UU. y su efecto en viajes.",
-   "idea": "Consejos de viaje y seguros, con tono práctico."
+   "por_que": "Interés por la falla que paralizó vuelos en Estados Unidos.",
+   "idea": "Consejos para viajeros y seguros de viaje; sin tono alarmista."
+  },
+  {
+   "termino": "corrente de jato",
+   "color": "amarillo",
+   "por_que": "Lluvia intensa, viento y olas de hasta 10 metros.",
+   "idea": "Contenido de servicio y productos para el mal tiempo, con empatía."
+  },
+  {
+   "termino": "vasco palmeirim",
+   "color": "verde",
+   "por_que": "Declaración romántica del presentador que se volvió tendencia.",
+   "idea": "Ideas de regalos para la pareja y mensajes de cariño de cara a Navidad."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Búsquedas sobre interrupciones de electricidad programadas.",
-   "idea": "Productos de respaldo y ahorro energético, sin generar miedo."
-  },
-  {
-   "termino": "playstation",
-   "color": "verde",
-   "por_que": "Descuentos de consolas y suscripciones, y llegada de GTA VI.",
-   "idea": "Combos gamer y regalos tecnológicos."
+   "por_que": "Cortes de electricidad programados y por el temporal.",
+   "idea": "Power banks, linternas e información útil; no vendas con miedo."
   },
   {
    "termino": "cristina ferreira",
    "color": "verde",
-   "por_que": "La presentadora sigue generando conversación televisiva.",
-   "idea": "Contenido ligero de televisión y entretenimiento."
-  },
-  {
-   "termino": "007",
-   "color": "verde",
-   "por_que": "Robert Pattinson anunciado como nuevo James Bond.",
-   "idea": "Ganchos de cine para moda, relojes y cocteles."
+   "por_que": "Conversación por su programa de telerrealidad.",
+   "idea": "Contenido ligero de entretenimiento y encuestas en historias."
   }
  ],
  "ocultar": [
@@ -183,7 +183,18 @@
   "Tinha apenas 23 anos! Filha de famosa socialite encontrada morta",
   "Familiares e amigos se despedem de Rogério Fróes; corpo do ator é velado no Rio de Janeiro",
   "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais",
-  "Acampada de Lisboa fica nos Restauradores e Coimbra monta tendas na Praça da República"
+  "Acampada de Lisboa fica nos Restauradores e Coimbra monta tendas na Praça da República",
+  "um milhão",
+  "Aluna violentamente agredida em escola de Lisboa já voltou às aulas. Agressores foram suspensos",
+  "Aluna de 13 anos agredida, colegas que filmaram podem ser alvo de sanção disciplinar | Educação",
+  "Alunos que agrediram colega suspensos indefinidamente",
+  "Aluna hospitalizada depois de ser agredida \"por três colegas\" em escola de Lisboa",
+  "Jovem de 13 anos agredida com “pontapés e murros” por colegas em escola de Lisboa",
+  "Aluna de 13 anos agredida a murro e pontapé por colegas em escola de Lisboa",
+  "Ministério da Educação investiga agressão violenta a aluna partilhada nas redes sociais",
+  "\"É muito fácil protestar\". Montenegro em defesa da \"estabilidade financeira\" rejeita \"distribuir tudo e a todos\"",
+  "Montenegro sobre investimento belga: “O CEO da VGP esqueceu-se de destacar a especial proximidade a Espinho”",
+  "Contas de poupança em Portugal? \"Ontem seria uma data ótima para começar\", diz Maria Luís Albuquerque"
  ],
  "audiencias": {
   "general": {

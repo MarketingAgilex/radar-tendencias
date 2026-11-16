@@ -1,32 +1,32 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-16T17:03:48Z",
+ "actualizado": "2026-11-16T21:04:46Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia mira el cielo y el bolsillo: los fuertes vientos (coup de vent) lideran las búsquedas y el Black Friday del 27 de noviembre se vive con franceses dispuestos a gastar, pero más desconfiados que nunca ante las falsas promociones. La tecnología manda en las ofertas (iPhone reacondicionado, TV OLED, PS5 para la semana de GTA VI) y el 20 de noviembre cambian las reglas del crédito al consumo y los pagos fraccionados. En televisión, Star Academy y N'oubliez pas les paroles siguen fuertes. Las marcas que expliquen precio de referencia, garantía y condiciones de pago con claridad tienen ventaja.",
+ "lectura": "Francia entra en lo que los medios ya llaman el 'Black November': Samsung y Google abren sus ofertas desde el 16 de noviembre, Amazon liquida stock de PS5 antes de GTA VI y abundan las promociones en televisores, robots aspiradores y smartphones reacondicionados, aunque crece la vigilancia contra las falsas rebajas. El tiempo manda en Bretaña, con alertas por viento de hasta 72 horas, y la televisión (Star Academy, N'oubliez pas les paroles) reúne a la familia. Además, Free Mobile desaparece el 1 de diciembre y muchos clientes buscan qué cambia. Funcionan el precio verificable, el consumo responsable y los planes en casa.",
  "ideas_hoy": [
   {
-   "titulo": "La vraie promo",
-   "idea": "Los franceses están más desconfiados que nunca con el Black Friday. Muestra el precio de referencia, el descuento real y la garantía en una sola imagen: confianza antes que urgencia.",
+   "titulo": "Black November, sin trampas",
+   "idea": "Los medios explican la regla para detectar falsas promociones antes del 27 de noviembre. Muestra el precio de referencia de tus productos y la rebaja real, con un tono pedagógico y tranquilo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Reconditionné, le bon plan",
-   "idea": "El iPhone reacondicionado aparece entre las ofertas destacadas. Si vendes tecnología reacondicionada, explica cómo se revisa cada equipo y qué garantía tiene.",
+   "titulo": "Reacondicionado con orgullo",
+   "idea": "Los iPhone reacondicionados a menos de 400 euros están entre las ofertas más vistas. Si vendes segunda mano o reparación, cuenta el ahorro y el impacto ambiental en un vídeo corto.",
    "formato": "Reel"
   },
   {
-   "titulo": "Paiement en plusieurs fois: ce qui change",
-   "idea": "Desde el 20 de noviembre cambian las reglas del crédito al consumo y los pagos fraccionados. Explica en simple tus opciones de pago y sus condiciones.",
+   "titulo": "Free Friday",
+   "idea": "En las Landas se organiza un \"Free Friday\" para consumir de otra manera. Marcas locales pueden proponer un día de reparación, trueque o donación junto a su oferta, para quien busca comprar con sentido.",
    "formato": "LinkedIn"
   },
   {
-   "titulo": "Semaine GTA",
-   "idea": "GTA VI se lanza esta semana y las ofertas de PS5 se multiplican. Arma un pack gamer o una noche de estreno con entrega rápida.",
+   "titulo": "Soirée Star Academy",
+   "idea": "Star Academy y los Masters de N’oubliez pas les paroles disparan la audiencia. Propón una \"soirée karaoké\" en casa con snacks, bebidas o altavoces de tu tienda.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Coup de vent, cocooning",
-   "idea": "Con los vientos fuertes, la gente se queda en casa. Mantas, velas, té y delivery pueden comunicar un plan cocooning con tono cálido.",
+   "titulo": "Cambio de operador sin estrés",
+   "idea": "Free Mobile desaparece el 1 de diciembre y muchos clientes buscan qué cambia. Tiendas de móviles y accesorios pueden explicar qué revisar y ofrecer ayuda en tienda.",
    "formato": "Copy para anuncio"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "coup de vent",
    "color": "amarillo",
-   "por_que": "Episodio de viento fuerte de larga duración.",
-   "idea": "Contenido útil y cocooning; evita minimizar los riesgos."
+   "por_que": "Bretaña en alerta por un episodio de viento de hasta 72 horas.",
+   "idea": "Mensajes de servicio y productos para el mal tiempo; sin dramatizar."
   },
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa sigue entre lo más visto del fin de semana.",
-   "idea": "Memes, retos de canto y moda inspirada en el programa."
+   "por_que": "El programa reúne a jóvenes y familias cada semana.",
+   "idea": "Karaoke, looks del prime y encuestas en historias."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "El lanzamiento del año en videojuegos.",
-   "idea": "Packs gamer, snacks y accesorios."
+   "por_que": "Expectativa máxima por el lanzamiento del videojuego.",
+   "idea": "Packs gamer, preventas y contenido de \"noche de lanzamiento\"."
   },
   {
    "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Ofertas fuertes de consolas antes de GTA VI.",
-   "idea": "Comparativas de packs y regalos tech para Navidad."
+   "por_que": "Bajadas de precio de consolas antes de GTA VI.",
+   "idea": "Ofertas de consola más accesorios y entrega rápida."
   },
   {
-   "termino": "maison",
-   "color": "verde",
-   "por_que": "Historias de compra de casas a buen precio en regiones.",
-   "idea": "Contenido de decoración, reforma y mudanza."
+   "termino": "arnaud sncf",
+   "color": "amarillo",
+   "por_que": "Historia viral de un viajero afectado por una multa de transporte.",
+   "idea": "Evita el tema como gancho; si eres del sector, habla de atención al cliente clara."
   }
  ],
  "audiencias": {
@@ -1308,6 +1308,22 @@
   "Manifestation du 17 novembre : retrouvez le parcours à Paris, au départ de la place de la Nation",
   "INFO BFMTV. Manifestation du 17 novembre: entre 40.000 et 80.000 personnes attendues dans les rues de Paris",
   "Grève du 17 novembre : place de la Nation plutôt que les Invalides, on sait où défilera le cortège à Paris",
-  "Grève du 17 novembre : le cortège parisien change de point de départ"
+  "Grève du 17 novembre : le cortège parisien change de point de départ",
+  "fougères",
+  "gironde",
+  "nantes",
+  "EN DIRECT - Mobilisation du 17 novembre : entre 40.000 et 80.000 manifestants attendus demain à Paris",
+  "Procès de l'assassinat du frère d'Amine Kessaci : deux figures du narcobanditisme marseillais condamnées à la perpétuité",
+  "DIRECT. Colère lycéenne: six semaines après l'incendie, les cours de nouveau suspendus au lycée Nelson-Mandela à Nantes",
+  "Sur les retraites, Marine Le Pen contrainte de céder un virage à droite",
+  "Tout de gris vêtue, Brigitte Macron inaugure un temple avec élégance, au Cambodge, au côté d’Emmanuel Macron",
+  "Cyberattaque contre des réfrigérateurs de supermarché : le jour où la France a dénoncé l’Iran",
+  "L'Europe veut donner 15 milliards de moins à la France: la ministre de l'Agriculture dit qu'il va falloir \"se battre\" pour conserver le budget de la PAC... qui assure 66% des revenus des agriculteurs",
+  "« Je crains que le pire ne soit encore à venir » : les usines à arnaques coûtent déjà 500 milliards de dollars à l'économie mondiale",
+  "Grève du 17 novembre : à Paris, la manifestation ira de la place de la Nation à la place d’Italie",
+  "Grève du 17 novembre et manifestations : stations de métro fermées à Paris, moins de trains… Quelles perturbations dans les transports",
+  "Grève du 17 novembre à Paris : ces stations de métro et de RER seront fermées dès 11 heures",
+  "Manifestation du 17 novembre à Paris : parcours, stations de métro fermées, fonction publique, à quoi faut-il s'attendre ce mardi de grève ?",
+  "17 octobre: face aux violences et aux pillages, l'est de Paris été \"défavorisé\" par rapport à l'ouest, estime le maire Emmanuel Grégoire"
  ]
 }
