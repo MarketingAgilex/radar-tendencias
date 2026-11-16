@@ -1,32 +1,32 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El británico entra en la recta final hacia el Black Friday con presupuesto ajustado y lupa en el valor: Amazon estira sus ofertas a 12 días hasta el Cyber Monday, las imitaciones asequibles de productos de lujo se perfilan como éxito navideño y los calendarios de Adviento de belleza se examinan por cuánto valen de verdad. El frío y las alertas por nieve y hielo empujan las búsquedas del tiempo y el consumo de abrigo, calefacción y planes bajo techo. En entretenimiento, Strictly se encamina a su semana en Blackpool, The Hunger Games estrena precuela y la cuenta atrás de GTA VI sigue. Transparencia en el precio, regalos que se sientan especiales sin gastar de más y calidez funcionan hoy.",
+ "lectura": "El británico vive una semana de frío, nieve y alertas sanitarias por bajas temperaturas: el tiempo es la búsqueda número uno y empuja calefacción, ropa de abrigo y planes en casa. Strictly Come Dancing domina la conversación de los fines de semana, y GTA VI llega con polémica por su edición física. A once días del Black Friday, el comprador mantiene presupuestos ajustados para Navidad y busca valor en ofertas anticipadas; las tiendas departamentales que cierran y las grandes cadenas que reajustan locales muestran un retail en cambio. Mensajes de calidez, valor real y entrega a tiempo funcionan mejor.",
  "ideas_hoy": [
   {
-   "titulo": "Dupe o el original",
-   "idea": "Las versiones económicas de artículos de lujo se perfilan como éxito de esta Navidad. Marcas de moda y belleza: compara con honestidad tu producto frente a uno premium (materiales, duración, precio) en lugar de copiar logos.",
-   "formato": "TikTok"
+   "titulo": "Cosy week ahead",
+   "idea": "Con alertas por frío y nieve, el plan es quedarse en casa. Mantas, velas, té o comfort food: un video 'cosy night in' con tu producto y entrega rápida.",
+   "formato": "Reel"
   },
   {
-   "titulo": "¿Vale lo que cuesta el Adviento?",
-   "idea": "Los calendarios de Adviento de belleza llegan a costar cientos de libras y se cuestiona su valor. Si vendes uno, desglosa el precio de cada producto frente al total; si no, arma un mini set con valor claro.",
+   "titulo": "Strictly sofa night",
+   "idea": "Strictly Come Dancing es cita fija. Marcas de snacks, bebidas o moda: encuesta de favoritos y look inspirado en la pista, con tono divertido.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Regalos con presupuesto",
+   "idea": "Los británicos planean gastar unas 103 libras en sus seres más cercanos. Guía de regalos por debajo de 25, 50 y 100 libras con fechas límite de envío navideño.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Tus 12 días de ofertas",
-   "idea": "Amazon alarga su Black Friday a 12 días. Pequeños comercios: lanza una cuenta atrás propia hasta el Cyber Monday del 30 de noviembre con un producto estrella al día y stock limitado.",
-   "formato": "Copy para anuncio"
+   "titulo": "Edición física, con todo",
+   "idea": "La edición física de GTA VI decepciona a algunos. Tiendas de tecnología: aclara qué incluye cada versión que vendes. La transparencia gana.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Cuppa contra el frío",
-   "idea": "Siguen las alertas sanitarias por frío y nieve. Cafeterías y panaderías: 'warm-up combo' de cuppa y mince pie con pedido para llevar, y avisa de horarios si el tiempo empeora.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Protege tu marca antes de crecer",
-   "idea": "Un pequeño negocio de fitness quedó en medio de una disputa de marca con un gigante del sector. Emprendedores: post práctico sobre por qué registrar nombre y logo antes de escalar.",
+   "titulo": "Retail que se reinventa",
+   "idea": "Cierres de tiendas departamentales y cambios en grandes cadenas: en LinkedIn, comparte cómo una pequeña marca puede vender online y en pop-ups navideños sin el coste de un local fijo.",
    "formato": "LinkedIn"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Las búsquedas de nieve se disparan con nuevas alertas por frío en el norte y Escocia.",
-   "idea": "E-commerce: comunica fechas límite de envío ante posibles retrasos y destaca productos para 'snow day' en casa."
+   "por_que": "Búsquedas masivas por nieve, hielo y alertas de frío.",
+   "idea": "Ropa de abrigo, calefacción y delivery: contenido práctico con entrega rápida."
   },
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Alto interés diario en el pronóstico ante la semana fría.",
-   "idea": "Contenido dinámico según el tiempo: ropa de abrigo en días fríos y planes de interior en días de lluvia."
+   "por_que": "El tiempo de mañana decide planes y desplazamientos.",
+   "idea": "Contenido diario breve: 'lo que necesitas mañana' con tu producto."
+  },
+  {
+   "termino": "strictly come dancing 2026",
+   "color": "verde",
+   "por_que": "El programa domina la conversación del fin de semana.",
+   "idea": "Moda, belleza y snacks: looks y planes de sofá inspirados en el show."
+  },
+  {
+   "termino": "weather",
+   "color": "verde",
+   "por_que": "Alertas por frío y cambios bruscos de temperatura.",
+   "idea": "Mensajes de bienestar en invierno y productos para el hogar."
   },
   {
    "termino": "strictly come dancing week 8 results",
    "color": "verde",
-   "por_que": "El programa vivió una gala de remontadas y se acerca la semana en Blackpool.",
-   "idea": "Moda y belleza: looks con brillo y lentejuelas para fiestas de diciembre inspirados en el baile de salón."
-  },
-  {
-   "termino": "blake lively",
-   "color": "amarillo",
-   "por_que": "Interés por los nuevos proyectos de la actriz, figura con historial mediático polémico.",
-   "idea": "Solo para inspiración de estilo o belleza; evita opinar sobre su vida personal."
-  },
-  {
-   "termino": "a24",
-   "color": "verde",
-   "por_que": "Conversación sobre la distribución en cines de un éxito viral de la productora.",
-   "idea": "Cines, bares y tiendas de merchandising: noche de cine independiente o selección de regalos para cinéfilos."
+   "por_que": "Interés por los resultados de la semana.",
+   "idea": "Encuestas y reacciones ligeras; no burlarse de participantes."
   }
  ],
  "audiencias": {
@@ -1161,6 +1161,17 @@
   "Bulgarian thieves pose as recycling firm drivers to steal cooking oil from eateries",
   "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
   "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
-  "Farm payment penalties spark cross-party opposition as pressure mounts on Agriculture Minister Andrew Muir"
+  "Farm payment penalties spark cross-party opposition as pressure mounts on Agriculture Minister Andrew Muir",
+  "!Dog and Woman viral video",
+  "Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal",
+  "Cut national insurance for under-25s to create jobs, Milburn report to say",
+  "Estonia to close border with Russia after second alleged sabotage attempt",
+  "Government to consider staggered age of consent after Russell Brand allegations | ITV News",
+  "Johnson: Britain would vote for Brexit again",
+  "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
+  "The City of London isn’t up for more Brexit trauma",
+  "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+  "Viral Video Captures Reactions to UFC 334 Main Event",
+  "adam catterall"
  ]
 }

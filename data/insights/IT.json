@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia entra en la recta final hacia el Black Friday del 27 de noviembre con ofertas anticipadas en auriculares, consolas, altavoces y smartphones, justo cuando cambian las reglas para pagar a plazos con PayPal, Klarna y Scalapay. El ocio en casa manda: Ballando con le Stelle, la telenovela 'Racconto di una notte' y la cuenta atrás de GTA VI concentran búsquedas, mientras Xbox celebra 25 años. La Colletta Alimentare superó las 8.700 toneladas, señal de un consumidor solidario pese al costo de vida, y Milán ya enciende las luces navideñas del Quadrilatero rumbo al puente de la Immacolata (8 de diciembre). Pago a plazos explicado con claridad, planes de sofá con la alerta de lluvia en Roma y regalos con alma navideña funcionan hoy.",
+ "lectura": "Italia entra en la semana del Black Friday anticipado: Amazon arranca el 19 de noviembre con doce días de ofertas, el volumen de negocio estimado ronda los 4.300 millones de euros y en Toscana una de cada dos familias planea comprar. El consumidor se informa sobre descuentos reales y nuevas reglas para pagar a plazos con PayPal, Klarna y Scalapay. Ballando con le Stelle y el Grande Fratello dominan la televisión, y GTA VI dispara la búsqueda de consolas y espacio de almacenamiento. Mensajes de ahorro verificable, seguridad en la compra online y entrega a tiempo para Navidad funcionan mejor.",
  "semaforo": [
-  {
-   "termino": "racconto di una notte",
-   "color": "verde",
-   "por_que": "La telenovela de la tarde tiene seguidores fieles que buscan el resumen de cada capítulo.",
-   "idea": "Marcas de hogar, café y snacks: contenido 'aspettando la puntata' con un pequeño ritual de merienda, sin spoilers."
-  },
-  {
-   "termino": "the body netflix",
-   "color": "amarillo",
-   "por_que": "Serie juvenil de estética retro descrita como sensual y con elementos oscuros; no apta para todos los públicos.",
-   "idea": "Moda y belleza para adultos: inspírate en la estética vintage de instituto sin vincular la marca a la trama ni dirigirte a menores."
-  },
-  {
-   "termino": "jennifer lawrence",
-   "color": "verde",
-   "por_que": "Sus looks de otoño (estampado de leopardo, friulane burdeos) inspiran búsquedas de moda.",
-   "idea": "Tiendas de ropa: 'el look de la semana' recreado con prendas propias y precio total visible."
-  },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "El programa del sábado sigue liderando búsquedas y se ve también en diferido en RaiPlay.",
-   "idea": "Academias de baile y gimnasios: clase abierta 'stile Ballando' para principiantes, con reserva por WhatsApp."
+   "por_que": "Audiencia y conversación alrededor del programa.",
+   "idea": "Moda y belleza: looks inspirados en la pista."
   },
   {
    "termino": "marco bocci",
    "color": "verde",
-   "por_que": "El actor es uno de los concursantes más buscados del programa.",
-   "idea": "Ropa deportiva y bienestar: contenido sobre preparación y constancia en los ensayos, sin opinar sobre su vida personal."
+   "por_que": "El actor es protagonista de la temporada de Ballando.",
+   "idea": "Creadores de entretenimiento: reacciones ligeras y respetuosas."
+  },
+  {
+   "termino": "monica guerritore luca urso",
+   "color": "verde",
+   "por_que": "Interés por los ensayos y la pareja del programa.",
+   "idea": "Contenido de entretenimiento; marcas solo con tono amable."
+  },
+  {
+   "termino": "attacchi hacker",
+   "color": "verde",
+   "por_que": "Búsquedas sobre cómo proteger dispositivos del hogar conectados.",
+   "idea": "Tecnología y seguros: guías prácticas de seguridad doméstica digital."
+  },
+  {
+   "termino": "rockstar games gta vi",
+   "color": "verde",
+   "por_que": "Preparativos para el lanzamiento del juego.",
+   "idea": "Tiendas gamer: checklist de almacenamiento y bundles."
   }
  ],
  "audiencias": {
@@ -1223,32 +1223,40 @@
   "Industria, energia e qualità della vita. L’appello di Loiero: \"Si usino in modo strategico le risorse pubbliche\"",
   "Usa, Macklemore sfida l’industria musicale: «Nove arene dicono no al tour pro Palestina»",
   "FOGGIA/CAPITANATA E GARGANO DA SUD CONNESSI TUTTO L’ANNO CON INTERMODALITÀ E LOGISTICA: CATANEO PROPONE CABINA DI REGIA.",
-  "Energy drink e integratori stimolanti, un segnale d’allarme per il cuore: arresti cardiaci 11 volte più frequenti"
+  "Energy drink e integratori stimolanti, un segnale d’allarme per il cuore: arresti cardiaci 11 volte più frequenti",
+  "Milano, torna la tendopoli alla stazione Tibaldi",
+  "Nordio interviene su Garlasco e condanna a Stasi, \"Processo da rifare dall'inizio\": perché è un caso \"unico\"",
+  "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
+  "Speronano l'auto e fuggono, parto d'urgenza per una donna all'ottavo mese",
+  "Usa, il Pentagono valuta un procedimento penale contro il generale Sylvia",
+  "ingv terremoti",
+  "paura volo easyjet",
+  "“Milano oltre i confini”, l’appello dell’ecosistema ambrosiano: “Una legge speciale per rafforzare la governance metropolitana”"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Rate chiare, zero sorprese",
-   "idea": "Cambian las reglas para pagar a plazos con PayPal, Klarna y Scalapay justo antes del Black Friday. Tiendas online: explica en tres láminas cuántas cuotas ofreces, el costo total y qué cambia para el cliente; la claridad es lo que más pesa al consumidor italiano.",
+   "titulo": "Sconto vero, garantito",
+   "idea": "Con muchas guías sobre cómo detectar descuentos falsos, publica el historial de precio de tus productos estrella antes del 19 de noviembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Pronti per GTA VI",
-   "idea": "Los medios explican cómo preparar la consola y cuánto espacio liberar para el lanzamiento de GTA VI. Tiendas de tecnología: una checklist rápida con disco SSD, mando extra y auriculares, con precio cerrado y entrega garantizada para el día del estreno (pensada para público adulto).",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Friulane, il tocco top",
-   "idea": "Jennifer Lawrence cambió los tacones por unas friulane burdeos con traje sastre y el look se volvió tendencia. Zapaterías y marcas de moda: tres formas de llevar friulane este otoño, con el origen artesanal del calzado como argumento.",
+   "titulo": "Pagare a rate, spiegato",
+   "idea": "Cambian las reglas para pagar a plazos. Comercios online: explica en un video corto cómo funciona el pago fraccionado en tu tienda y qué costes tiene, sin letra pequeña.",
    "formato": "Reel"
   },
   {
-   "titulo": "Il sabato è Ballando",
-   "idea": "Ballando con le Stelle es la cita fija del sábado y sus búsquedas superan las 20.000. Delivery, bares y pastelerías: propón un 'kit serata Ballando' para pedir antes del programa y lanza una encuesta sobre la pareja favorita de la semana.",
-   "formato": "Historia Instagram"
+   "titulo": "Sabato da Ballando",
+   "idea": "El programa es cita fija. Marcas de moda, belleza y snacks: look o receta inspirados en la gala con encuesta de favoritos.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Natale fatto a mano",
-   "idea": "Vuelven los mercados de artesanía (Hand Made en Florencia, Montebello Market en Turín) y Milán ya enciende las luces de Navidad. Artesanos y pequeñas marcas: anuncia regalos hechos a mano con pedido antes del 8 de diciembre para llegar a tiempo al árbol de la Immacolata.",
+   "titulo": "Casa smart, casa sicura",
+   "idea": "Las búsquedas sobre cómo proteger electrodomésticos conectados crecen. Tiendas de tecnología: 5 pasos para asegurar router, cámaras y smart TV antes de regalar uno.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Pronto per GTA VI",
+   "idea": "Consolas, SSD y accesorios: guía de cuánto espacio liberar y bundle de lanzamiento con entrega rápida.",
    "formato": "Copy para anuncio"
   }
  ]

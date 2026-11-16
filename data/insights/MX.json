@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin cierra hoy, en pleno puente del Día de la Revolución: ropa, juguetes, celulares y pantallas siguen siendo lo más buscado, pero el comprador compara precios con lupa y desconfía de los descuentos inflados. La conversación ya mira hacia el Cyber Monday (30 de noviembre), el aguinaldo y la Navidad, con tendencias como los árboles navideños de colores y los festivales de chocolate y pan artesanal en CDMX. En entretenimiento, Karol G movió su última fecha en el Estadio GNP al martes y la frase \"impones mucha moda\" volvió a ser viral. Gana quien muestre precio real, entrega cumplida y un plan claro para las compras de diciembre.",
+ "lectura": "México vive hoy el último día del Buen Fin en pleno puente del Día de la Revolución: plazas llenas y filas en Monterrey, pero un comprador que compara, duda de las ofertas y acude a Profeco cuando algo falla. Ropa, juguetes y tecnología encabezan lo más buscado y Ticketmaster se sumó con descuentos en eventos. Al mismo tiempo, la conversación de entretenimiento gira alrededor de La Mansión VIP, el reprogramado concierto de Karol G y el estreno de GTA VI esta semana. Mensajes de transparencia de precio, post-venta y 'lo que sigue' (Black Friday, Cyber Monday y aguinaldo) conectan mejor que más urgencia.",
  "ideas_hoy": [
   {
-   "titulo": "Impones mucha moda",
-   "idea": "La frase de Belinda volvió a encenderse en el show de Karol G en CDMX. Úsala como audio o gancho para presentar tus looks, productos o el 'outfit del martes' para quienes van al concierto reprogramado: es un meme reconocible y en tono positivo.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Del Buen Fin al aguinaldo",
-   "idea": "Muchos se quedaron con ganas de comprar o aplazaron la compra. Arma un carrusel 'lo que no alcanzaste hoy' con fechas clave (Cyber Monday 30 de nov, quincena y aguinaldo) e invita a guardar el post o activar un recordatorio: capturas intención para diciembre.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Tu árbol, a color",
-   "idea": "Los árboles navideños de colores son tendencia 2026 para decorar. Tiendas de decoración, artesanía y hogar pueden mostrar 3 paletas (rosa, azul, dorado) con productos propios y precio en pesos: inspira y vende a la vez.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El precio, sin truco",
-   "idea": "Entre los reclamos del Buen Fin destacan los descuentos engañosos. Haz un anuncio que muestre el precio de hace un mes junto al de hoy y lo que incluye (envío, meses sin intereses): neta, la transparencia convierte mejor que la urgencia.",
+   "titulo": "Último día, sin choro",
+   "idea": "El Buen Fin termina hoy y el comprador desconfía de descuentos inflados. Publica el precio anterior y el actual de tus 5 productos estrella, con la fecha de entrega real. Transparencia como argumento de venta.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Regalo con sabor a cacao",
-   "idea": "El chocolate está en la moda y en la agenda: festival del cacao tabasqueño y un festival navideño de chocolate y pan artesanal en CDMX el 28 y 29 de noviembre. Productores de café y cacao pueden lanzar cajas de regalo y contar el origen del grano.",
-   "formato": "Historia Instagram"
+   "titulo": "¿Te quedaste sin comprar?",
+   "idea": "Para quien no alcanzó el Buen Fin, adelanta tu calendario: qué tendrás en Black Friday (27 de noviembre) y Cyber Monday. Pide que activen notificaciones o se unan a tu lista de WhatsApp.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Post-venta que da confianza",
+   "idea": "Muchos buscan qué hacer si una compra del Buen Fin no llega. Explica en un video corto tu política de entregas, cambios y seguimiento del pedido: quien ya compró se tranquiliza y quien duda se anima.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Plan de puente en casa",
+   "idea": "Con La Mansión VIP y el concierto de Karol G en la conversación, el plan del lunes festivo es entretenimiento. Comida a domicilio, botanas y bebidas: un combo 'noche de reality' con encuesta de quién sale.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Cuenta regresiva gamer",
+   "idea": "GTA VI sale esta semana y dispara la búsqueda de consolas y almacenamiento. Tiendas de tecnología: carrusel 'prepárate' con SSD, controles y accesorios, con precio final visible y meses sin intereses si los ofreces.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "la mansion vip",
+   "color": "verde",
+   "por_que": "El reality domina las votaciones y la charla en redes.",
+   "idea": "Encuestas, memes ligeros y promociones temáticas sin tomar partido contra participantes."
+  },
+  {
    "termino": "inapam",
    "color": "verde",
-   "por_que": "Muchos adultos mayores buscan fechas de pago de su apoyo de diciembre: público con dinero disponible y alta búsqueda de información.",
-   "idea": "Farmacias, abarrotes y ópticas: recuerda tus descuentos con credencial INAPAM y muéstralos con letra grande y precio final."
+   "por_que": "Adultos mayores y sus familias buscan fechas y montos de apoyos de diciembre.",
+   "idea": "Farmacias, súpers y servicios para adultos mayores: contenido claro, letra grande y beneficios con credencial, sin prometer pagos."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "El Buen Fin llegó a la venta de boletos con descuentos de hasta 50% en eventos.",
-   "idea": "Promueve 'regalar experiencias': guía de eventos de diciembre y combos de boleto + cena o + outfit."
+   "por_que": "Ticketmaster se sumó al Buen Fin con descuentos en eventos.",
+   "idea": "Regalos de experiencias: 'regala un concierto' con tu producto como complemento (merch, outfit, transporte)."
+  },
+  {
+   "termino": "karol g concierto",
+   "color": "verde",
+   "por_que": "Fans pendientes de su concierto reprogramado en la CDMX.",
+   "idea": "Moda, maquillaje y accesorios: 'outfit para el concierto' con estilo urbano, sin usar su imagen sin permiso."
   },
   {
    "termino": "mexico va",
    "color": "amarillo",
-   "por_que": "La búsqueda gira en torno a un rumor de apagón en EE. UU. el 17 de noviembre; hay confusión, no un hecho confirmado.",
-   "idea": "Si vendes tecnología o energía, comparte tips prácticos de respaldo (power banks, linternas) sin alimentar el rumor ni usar miedo."
-  },
-  {
-   "termino": "karol g concierto",
-   "color": "amarillo",
-   "por_que": "Su última fecha en CDMX se reprogramó al martes; mucha conversación de fans, pero con un motivo de salud de por medio.",
-   "idea": "Contenido de ánimo y estilo para el martes (outfits, maquillaje, playlist); evita bromas sobre la cancelación."
-  },
-  {
-   "termino": "kendall jenner",
-   "color": "amarillo",
-   "por_que": "Interés de farándula por su vida en pareja y el cambio de look de su acompañante.",
-   "idea": "Úsalo solo desde moda y belleza: 'cambio de look de temporada' o tonos de rubio; sin entrar en la vida privada."
+   "por_que": "Rumor de apagón en Estados Unidos el 17 de noviembre que los medios aclaran.",
+   "idea": "Solo con tono de servicio: plan B de energía (power banks, respaldo de datos) sin alimentar el pánico."
   }
  ],
  "audiencias": {
@@ -1087,6 +1087,17 @@
   "Gremios obreros exigen frenar la violencia contra trabajadores y dirigentes de construcción civil",
   "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
   "Cómo se hizo el anuncio de Scott Colom «elige otra proteína»",
-  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones"
+  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones",
+  "Activistas y espacios culturales se organizan para apoyar la búsqueda de personas desaparecidas",
+  "Ari Telch enfrenta denuncias de sus vecinos en Morelos; lo acusan de hostigamiento y daños a una propiedad",
+  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
+  "Entregan a familiares el cuerpo de Miguel Ángel Félix Gallardo en Guadalajara",
+  "La caída de \"El Jefe de Jefes\" y el fin de una era",
+  "Las últimas 48 horas de Miguel Ángel Félix Gallardo en un hospital de Guadalajara",
+  "MILENIO. . 🔴 El cuerpo de Miguel Ángel Félix Gallardo, ‘El Jefe de Jefes’, se encuentra en una funeraria de Guadalajara. De manera extraoficial, se reporta que preparan una sala para su despedida, aunque el personal del recinto no ha confirmado su prese",
+  "Se extravía niño durante compras del Buen Fin en Monterrey",
+  "kevin holland",
+  "¿Por qué llamaban ‘El Padrino’ y ‘El Jefe de Jefes’ a Miguel Ángel Félix Gallardo?",
+  "🔴 El cuerpo de Miguel Ángel Félix Gallardo, ‘El Jefe de Jefes’, se encuentra en una funeraria de Guadalajara. De manera extraoficial, se reporta que preparan una sala para su despedida, aunque el personal del recinto no ha confirmado su presencia. 📺 #MI"
  ]
 }

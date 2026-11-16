@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor portugués ya compra en modo Black Friday, pero con la cabeza fría: busca ahorrar en los regalos de Navidad sin caer en compras por impulso y compara antes de pagar. Destacan las cafeteras que prescinden de las cápsulas, las zapatillas clásicas de adidas, las colecciones de anime y el gaming, con PS Plus y juegos de rol en promoción mientras crece la expectativa por GTA VI. El Grammy Latino de Dino D'Santiago despierta orgullo por la música portuguesa, y los festivos del martes 1 y del martes 8 de diciembre abren dos 'pontes' perfectas para escapadas y compras navideñas. Ofertas claras, regalos con propósito y planes para esos puentes conectan hoy.",
+ "lectura": "Portugal llega a la recta final antes del Black Friday con un consumidor que quiere ahorrar en los regalos de Navidad sin comprar por impulso: guías sobre ofertas reales, tiendas falsas sugeridas por IA y presupuesto por regalo ocupan los titulares. Los cortes de luz programados y las lluvias en Madeira recuerdan la importancia de comunicar entregas con claridad. El fenómeno GTA VI dispara el tráfico de internet y las búsquedas de PlayStation, mientras la televisión (Big Brother, Cristina Ferreira) sigue marcando conversación. Precio honesto, envío fiable y tono cercano son la clave.",
  "ideas_hoy": [
   {
-   "titulo": "Orgulho em português",
-   "idea": "Dino D'Santiago se llevó un Grammy Latino y la música portuguesa está en boca de todos. Cafés, tiendas y marcas locales pueden compartir su playlist 'made in Portugal' para la temporada navideña y pedir a su comunidad que sume canciones.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Café sem cápsulas",
-   "idea": "Las cafeteras superautomáticas aparecen entre las ofertas previas al Black Friday. Tiendas de electrodomésticos y tostadores: compara el costo por taza frente a las cápsulas y suma un pack de café en grano como regalo.",
+   "titulo": "Natal sem impulso",
+   "idea": "Los medios recomiendan ahorrar en los regalos sin compras impulsivas. Publica una guía de regalos por presupuesto (até 20, 50 e 100 euros) con fecha límite de entrega antes del 24.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Gaming a preço fixe",
-   "idea": "PS Plus y los juegos de rol están en promoción y la expectativa por GTA VI no baja. Tiendas de tecnología y accesorios: arma un 'kit gamer de invierno' (suscripción, mando, auriculares) y muéstralo en 30 segundos.",
-   "formato": "TikTok"
+   "titulo": "¿Tienda real o falsa?",
+   "idea": "Crecen las alertas sobre tiendas falsas recomendadas por asistentes de IA. Muestra tus datos de empresa, reseñas y políticas: la confianza se convierte en ventaja frente al Black Friday.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Bora fazer ponte?",
-   "idea": "El 1 y el 8 de diciembre caen en martes, así que muchos harán puente el lunes. Alojamientos rurales, restaurantes y experiencias: lanza ya una oferta de escapada de tres días con reserva anticipada.",
+   "titulo": "Modo GTA VI",
+   "idea": "El precarga del juego batió récords de tráfico. Tecnología, snacks y accesorios: bundle de lanzamiento con entrega rápida para esta semana.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Advento com outro sabor",
-   "idea": "Se critican los calendarios de Adviento de supermercado por su exceso de azúcar. Marcas de té, cosmética, juguetes o snacks saludables pueden presentar su calendario alternativo y abrir preventa antes del 1 de diciembre.",
-   "formato": "Historia Instagram"
+   "titulo": "Big Brother en casa",
+   "idea": "El reality concentra conversación. Restaurantes y delivery: combo para la gala con encuesta de quién se salva.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Cuando se va la luz",
+   "idea": "Con cortes de electricidad programados, power banks, lámparas recargables y respaldo de datos son útiles. Tono de servicio, sin alarmismo.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "Una falla técnica en Estados Unidos obligó a cancelar miles de vuelos y genera dudas entre quienes viajan.",
-   "idea": "Agencias y turismo: checklist práctico para viajar en temporada alta (seguro, tarifas flexibles, avisos de la aerolínea), sin alarmismo."
+   "por_que": "Interés por la suspensión temporal de vuelos en Estados Unidos, ya resuelta.",
+   "idea": "Agencias de viaje: información práctica sobre retrasos y reembolsos, sin dramatizar."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Hubo cortes programados de electricidad en varias zonas del país.",
-   "idea": "Tecnología y hogar: power banks y luces recargables como regalo práctico, con tono útil y sin aprovechar la molestia."
+   "por_que": "Búsquedas sobre cortes de luz programados por zonas.",
+   "idea": "Tecnología y hogar: soluciones de energía portátil con tono de servicio."
+  },
+  {
+   "termino": "granizo",
+   "color": "amarillo",
+   "por_que": "Búsquedas sobre granizo, en parte ligadas al tiempo en Brasil.",
+   "idea": "Solo contenido útil de clima; poco vínculo comercial directo."
+  },
+  {
+   "termino": "cristina ferreira",
+   "color": "verde",
+   "por_que": "La presentadora y sus programas generan conversación de televisión.",
+   "idea": "Creadores de entretenimiento: reacciones ligeras y respetuosas."
   },
   {
    "termino": "playstation",
    "color": "verde",
-   "por_que": "La precarga de GTA VI batió récords y hay promociones de PS Plus y juegos.",
-   "idea": "Tiendas de gaming: bundle de suscripción y accesorios, o una noche de juego en tienda para la comunidad."
-  },
-  {
-   "termino": "dino santiago",
-   "color": "verde",
-   "por_que": "El artista portugués ganó un Grammy Latino y genera orgullo nacional.",
-   "idea": "Marcas locales: contenido celebrando la música hecha en Portugal, sin usar su imagen sin permiso."
-  },
-  {
-   "termino": "calor",
-   "color": "amarillo",
-   "por_que": "El término viene de un pronóstico de otro país; en Portugal predominan la lluvia y el frío.",
-   "idea": "Úsalo solo en contraste: turismo de 'escapada al sol' o bebidas calientes para el frío local."
+   "por_que": "El lanzamiento de GTA VI dispara búsquedas de consola y accesorios.",
+   "idea": "Tiendas de tecnología: bundles y comparativas de almacenamiento."
   }
  ],
  "ocultar": [
@@ -142,7 +142,13 @@
   "Lula critica tarifaço dos EUA e destaca crescimento das exportações para outros mercados",
   "Após escândalo da Nvidia, Congresso dos EUA acelera esforços para restringir exportações de chips",
   "CDS quer banca e empresas a contribuir para habitação a preços acessíveis",
-  "O dilema da liberalização das exportações de derivados de Petróleo em Angola: Uma estratégia para a mitigação do contrabando e maximização da receita fiscal"
+  "O dilema da liberalização das exportações de derivados de Petróleo em Angola: Uma estratégia para a mitigação do contrabando e maximização da receita fiscal",
+  "Exposição de Fernando Henrique Cardoso nas redes sociais reacende debate sobre privacidade",
+  "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
+  "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa",
+  "Representantes do comércio de Lisboa recebidos por Moedas incluem deputados do PSD",
+  "starlink",
+  "suzane von richthofen"
  ],
  "audiencias": {
   "general": {

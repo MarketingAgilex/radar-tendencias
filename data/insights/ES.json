@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Black Friday (27 de noviembre) llega con menos compradores previstos, presupuestos más ajustados y la OCU avisando de que habrá más subidas que bajadas, así que el consumidor español compara más y desconfía de las compras por impulso. Con el frío entra la temporada de casa: secar la ropa sin humedad, elegir prendas que abriguen de verdad y caprichos de chocolate, mientras la decoración navideña apuesta por flores naturales y una estética de 'jardín de invierno'. La logística se prepara para el pico de envíos de Black Friday y Navidad, y en ocio destacan la precarga de GTA VI, el debate de comisiones en Twitch y la nueva edición de Gran Hermano VIP. Honestidad en precios, plazos de entrega claros antes de Reyes y contenido útil para el invierno marcan la diferencia hoy.",
+ "lectura": "España encara las dos semanas previas al Black Friday con prudencia: encuestas y la OCU apuntan a menos presupuesto, más comparación y sospecha de subidas de precio antes de la fecha, aunque el 91% dice que participará y la paquetería ya amplía rutas. La vivienda sigue siendo la gran preocupación cotidiana y el supermercado se vigila céntimo a céntimo. En el sofá mandan 'La Promesa' y las series turcas, y en redes el fenómeno de María Bonilla y su canción viral. Funciona el mensaje de compra planificada, precio honesto y entrega asegurada antes de Navidad.",
  "ideas_hoy": [
   {
-   "titulo": "La regla de las 24 horas",
-   "idea": "Una psicóloga recuerda que el Black Friday activa la parte más emocional del cerebro. Propón a tu comunidad guardar lo que les guste y volver mañana a decidir: una marca que frena el impulso gana confianza y menos devoluciones.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Tender dentro sin humedad",
-   "idea": "Dos ingenieros calcularon que tender en casa en invierno puede salir más caro que la secadora. Tiendas de hogar y electro: compara tendedero, secadora y deshumidificador con números sencillos y tu recomendación.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Navidad de jardín de invierno",
-   "idea": "La decoración navideña de 2026 apuesta por flores naturales y nuevas paletas. Floristerías y tiendas de deco: muestra tres centros de mesa y abre reservas antes del puente de diciembre.",
+   "titulo": "Precio de hoy, precio del Black",
+   "idea": "La OCU avisa de subidas antes de las rebajas. Publica hoy el precio de tus productos estrella y comprométete a que el 27 serán más baratos o iguales. Una pieza que se guarda y se comparte.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Fecha límite para Reyes",
-   "idea": "Las empresas de paquetería amplían rutas para el pico de Black Friday y Navidad. Publica ya tus fechas límite de pedido para Navidad y Reyes: al cliente español le preocupa que no llegue a tiempo, y decirlo claro vende.",
-   "formato": "Copy para anuncio"
+   "titulo": "Que llegue antes de Reyes",
+   "idea": "La paquetería amplía rutas por Black Friday y Navidad. Comunica fechas límite de pedido para Nochebuena y Reyes con un calendario visual sencillo.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Tu producto entra en la casa",
-   "idea": "Ya se conocen los concursantes de GH VIP 9. Presenta tus productos como 'concursantes' con su personalidad y deja que la audiencia nomine al que se queda: humor, participación y escaparate en uno.",
+   "titulo": "Lo pegadizo vende",
+   "idea": "La canción de María Bonilla arrasa en TikTok. Marcas desenfadadas pueden subirse al audio con un sketch de 'cuando por fin llega tu pedido', sin forzar el producto.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Martes de Promesa",
+   "idea": "'La Promesa' es cita diaria para muchos hogares. Marcas de alimentación, té o mantas: 'tu merienda para ver La Promesa' con tono cálido y cercano.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Black Friday con lupa",
+   "idea": "Los españoles gastarán menos y compararán más. En LinkedIn, comparte cómo una pyme puede competir sin destrozar margen: packs, envío gratis o regalo en vez de descuentos agresivos.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "concursantes de gran hermano vip 2026",
+   "termino": "el independiente",
    "color": "verde",
-   "por_que": "Telecinco confirma la lista de concursantes de la nueva edición del reality.",
-   "idea": "Ocio, comida a domicilio y moda: encuestas y juegos inspirados en el formato, sin opinar sobre la vida de los participantes."
+   "por_que": "Búsquedas sobre el avance semanal de la serie 'La Promesa'.",
+   "idea": "Hogar y alimentación: contenido de 'plan de tarde' con la serie como gancho."
   },
   {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Tema sensible: cada vez más hogares y menos casas disponibles.",
-   "idea": "Muebles y deco: soluciones prácticas para pisos pequeños (almacenaje, muebles plegables), sin entrar en el debate."
+   "por_que": "Preocupación por la falta de casas disponibles y el precio de la vivienda.",
+   "idea": "Inmobiliarias, reformas y decoración: tono empático y soluciones prácticas, sin opinar de política."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Mercadona abre un nuevo supermercado en Aranda.",
-   "idea": "Comercio de barrio: destaca producto local, trato cercano y horarios cómodos para la compra semanal."
+   "por_que": "Interés por aperturas de supermercados y precios de la cesta.",
+   "idea": "Marcas de alimentación: recetas económicas y packs ahorro."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Los Streamer Awards abren el debate sobre comisiones de las plataformas.",
-   "idea": "Marcas gaming: patrocina a streamers pequeños con condiciones claras y cuéntalo con transparencia."
+   "por_que": "Conversación sobre creadores, Twitch y las comisiones de plataformas.",
+   "idea": "Marcas gamer y tecnológicas: colaboraciones con streamers para el lanzamiento de GTA VI."
   },
   {
-   "termino": "rockstar games gta vi",
+   "termino": "valentín fuster",
    "color": "verde",
-   "por_que": "Ya se puede precargar GTA VI, el lanzamiento más esperado del año.",
-   "idea": "Tecnología, snacks y comida a domicilio: 'kit noche de estreno' y recordatorio de descargar solo desde tiendas oficiales."
+   "por_que": "Interés por sus consejos de salud y calidad de vida.",
+   "idea": "Wellness: hábitos sencillos y realistas, sin promesas médicas."
   }
  ],
  "ocultar": [
@@ -146,7 +146,18 @@
   "La huelga en la industria del curtido empezará el 10 de noviembre y terminará el día 12: “Con estos salarios no se llega a fin de mes”",
   "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
   "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones"
+  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones",
+  "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
+  "Colau reprocha a Sánchez falta de \"valentía\" y cree que el escaño de Zaragoza “puede ser el decisivo”",
+  "De Malasaña a Puerta del Ángel: el mapa del voto que cambió Madrid entre 2019 y 2023",
+  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
+  "Dónde han caído los 21,8 millones del Gordo de la Primitiva y los premios de la la Bonoloto y de la ONCE de hoy domingo 15 de noviembre de 2026",
+  "Estonia cerrará su frontera con Rusia en diciembre tras un presunto acto de sabotaje",
+  "La Guardia Urbana de Barcelona desaloja la acampada de plaza de Catalunya",
+  "La Guardia Urbana desaloja la acampada de la plaza Catalunya de Barcelona",
+  "Seis meses de la epidemia del ébola: alertan que puede convertirse en un brote que afecte a toda África",
+  "frente polisario",
+  "sindicato"
  ],
  "audiencias": {
   "general": {

@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania mira el bolsillo: la subida de las tarifas eléctricas desde enero dispara búsquedas y abre espacio para productos de ahorro energético, solares de balcón y electrodomésticos eficientes. A 11 días del Black Friday crecen las ofertas anticipadas en smartwatches, afeitadoras premium, impresoras 3D y Switch 2, y una encuesta indica que el 51% quiere usar IA para comparar precios, aunque solo el 37% confía en los descuentos. En casa, la televisión del sábado con 'Grill den Henssler', el lanzamiento inminente de GTA VI y la llegada de los mercados navideños antes del primer Adviento (29 de noviembre) marcan el ocio. Datos claros, ahorro demostrable y planes acogedores para el invierno funcionan hoy.",
+ "lectura": "Alemania vigila la factura: la subida de tarifas eléctricas desde enero sigue entre lo más buscado y empuja productos de ahorro energético y comparación de proveedores. A once días del Black Friday las ofertas anticipadas se concentran en Switch 2, smartwatches y electrónica, y los calendarios de Adviento (desde especias hasta herramientas) ya se anuncian con fuerza antes del primer domingo de Adviento, el 29 de noviembre. El llamado a revisión de 4,6 millones de autos del grupo VW, la nueva camiseta de la selección y GTA VI completan la conversación. Mensajes de valor verificable, eficiencia y regalo práctico encajan con el consumidor alemán.",
  "semaforo": [
   {
-   "termino": "strompreise 2027",
-   "color": "amarillo",
-   "por_que": "Muchos proveedores suben la tarifa eléctrica desde enero y el tema genera preocupación por el gasto del hogar.",
-   "idea": "Marcas de eficiencia y solar de balcón: guía práctica de ahorro con cifras reales, sin alarmismo ni presión de compra."
-  },
-  {
-   "termino": "grill den henssler",
+   "termino": "tv programm heute",
    "color": "verde",
-   "por_que": "El duelo de cocina de la televisión del sábado concentra búsquedas.",
-   "idea": "Carnicerías, tiendas de cocina y kits de recetas: reto 'Grill den Profi' con una receta del programa y los utensilios para replicarla."
+   "por_que": "El plan de noche en casa con televisión sigue fuerte.",
+   "idea": "Snacks, bebidas y delivery: 'Fernsehabend' con tu producto."
   },
   {
    "termino": "gta grand theft auto",
+   "color": "verde",
+   "por_que": "Gran expectativa por el lanzamiento del videojuego.",
+   "idea": "Tecnología y gaming: bundles y guías de preparación."
+  },
+  {
+   "termino": "strompreise 2027",
    "color": "amarillo",
-   "por_que": "El lanzamiento de GTA VI es inminente, pero es un juego para mayores de 18 años.",
-   "idea": "Tiendas de tecnología: comunica hardware, almacenamiento y accesorios para público adulto, sin usar escenas del juego."
+   "por_que": "Preocupación por la subida de tarifas eléctricas desde enero.",
+   "idea": "Ahorro energético con cifras reales; evitar el alarmismo."
   },
   {
-   "termino": "nicolas cage",
+   "termino": "trikot",
    "color": "verde",
-   "por_que": "Su nueva película, 'Best Pancakes in the County', genera reseñas y curiosidad.",
-   "idea": "Cafeterías y brunch: 'los mejores pancakes del barrio' como plato de la semana en clave de cine."
+   "por_que": "Filtración de la nueva camiseta de la selección alemana.",
+   "idea": "Tiendas deportivas: lista de espera y personalización; sin usar escudos oficiales sin licencia."
   },
   {
-   "termino": "thanksgiving 2026",
+   "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Crece el interés por Thanksgiving (26 de noviembre) y sus ofertas, sobre todo entre expatriados y curiosos.",
-   "idea": "Restaurantes y supermercados: menú o caja 'Friendsgiving' para compartir antes del Black Friday."
+   "por_que": "Búsquedas de ofertas de la consola antes del Black Friday.",
+   "idea": "Tiendas gamer: comparativas de packs y accesorios."
   }
  ],
  "audiencias": {
@@ -1116,42 +1116,42 @@
  ],
  "anuncios": [
   {
+   "busqueda": "Adventskalender",
+   "total": 12810,
+   "anunciantes": [
+    {
+     "nombre": "Boomers.gewuerze",
+     "url": "https://www.facebook.com/ads/library/?id=1552835673333929"
+    },
+    {
+     "nombre": "Wera Tool Rebels",
+     "url": "https://www.facebook.com/ads/library/?id=1156837976878272"
+    },
+    {
+     "nombre": "Jungglück",
+     "url": "https://www.facebook.com/ads/library/?id=4549498301963596"
+    },
+    {
+     "nombre": "Riddlehaus",
+     "url": "https://www.facebook.com/ads/library/?id=1455100290085821"
+    },
+    {
+     "nombre": "Antonia Wiedmann Nageldesign",
+     "url": "https://www.facebook.com/ads/library/?id=2260670671250971"
+    }
+   ],
+   "patron": "El calendario de Adviento se usa como formato para cualquier nicho: especias, herramientas, cosmética, acertijos o cursos gratuitos de 24 días. Se combina con la Black Week ('12% en el calendario', 'solo hasta el 22.11') para crear urgencia antes del 1 de diciembre."
+  },
+  {
    "busqueda": "Black Friday",
-   "total": 159488,
+   "total": 161231,
    "anunciantes": [
     {
      "nombre": "Reactive Outdoor",
      "url": "https://www.facebook.com/ads/library/?id=3664180057071174"
     }
    ],
-   "patron": "Volumen enorme de anuncios activos; los primeros resultados los domina una sola marca outdoor con decenas de variantes del mismo mensaje ('Black Friday empieza ya: hasta 62% de descuento'). Señal de que la Black Week arrancó semanas antes del 27 y de que se prueban muchas creatividades con un solo titular."
-  },
-  {
-   "busqueda": "Weihnachtsgeschenk",
-   "total": 10124,
-   "anunciantes": [
-    {
-     "nombre": "Mein Babykissen",
-     "url": "https://www.facebook.com/ads/library/?id=1471484395046315"
-    },
-    {
-     "nombre": "Librio",
-     "url": "https://www.facebook.com/ads/library/?id=1847713792914425"
-    },
-    {
-     "nombre": "Evergrate.de",
-     "url": "https://www.facebook.com/ads/library/?id=1101488845982637"
-    },
-    {
-     "nombre": "Peters-Reisen",
-     "url": "https://www.facebook.com/ads/library/?id=1140965578421799"
-    },
-    {
-     "nombre": "Preisners",
-     "url": "https://www.facebook.com/ads/library/?id=1795289761682706"
-    }
-   ],
-   "patron": "Predominan regalos personalizados (libros con el nombre del niño, cojines de bebé), experiencias (viajes, cervecería) y regalos 'para el que cocina'. Se mezcla Navidad con precio Black Friday ('regalo de Navidad a precio de Black Friday')."
+   "patron": "Más de 160.000 anuncios activos; un mismo anunciante repite decenas de variantes con 'Black Friday startet jetzt: bis zu 62% Rabatt'. Domina el porcentaje máximo en el titular y el arranque anticipado, dos semanas antes de la fecha."
   }
  ],
  "ocultar": [
@@ -1248,33 +1248,45 @@
   "Staatsschutz ermittelt: Auto von „Nius“-Chef angezündet – Polizei prüft Bekennerschreiben",
   "Baden-Baden: Auto stürzt von Brücke – drei Tote",
   "Saarland: 29-Jähriger unter seinem Auto eingeklemmt und lebensgefährlich verletzt worden",
-  "Domino-Effekt und Bau-Turbo: Das ist los in Fredenbecks Gemeinderäten"
+  "Domino-Effekt und Bau-Turbo: Das ist los in Fredenbecks Gemeinderäten",
+  "(S+) Union und SPD: Der nächste Showdown steht schon bevor",
+  "Mecklenburg-Vorpommern: SPD, Linke und Grüne einigen sich auf Koalitionsvertrag",
+  "NATO-Mitgliedschaft der Ukraine: Der US-Vorschlag ist unrealistisch",
+  "Sie wird eingeäschert! Erste Details zu Lisas (†13) Beerdigung",
+  "Ukraine: Prinz Harry besucht verwundete Kriegsveteranen in Lwiw",
+  "Unbekannte Anomalie aufgetreten: Amazon verliert bei Absturz von Vulcan-Rakete 40 Satelliten",
+  "Verbraucher - Grüne: Haushaltsgeld für Deutschlandticket statt Tankrabatt - Wirtschaft - SZ.de",
+  "Volkstrauertag vor der Michaelskirche: Erinnerung bewahren und Frieden gestalten",
+  "Wahrheitskommission zum Völkermord an den Jesiden nimmt in Berlin ihre Arbeit auf",
+  "bielefeld",
+  "jobcenter",
+  "windenergie"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Strompreis-Spartipp",
-   "idea": "Las tarifas eléctricas suben desde enero y es una de las búsquedas más fuertes del día. Tiendas de electrodomésticos y hogar: muestra en euros al año cuánto consume cada producto destacado frente a un modelo antiguo; cifras concretas, sin alarmismo.",
+   "titulo": "Strom sparen, konkret",
+   "idea": "Con la subida de la luz desde enero, muestra cuánto ahorra al año tu producto o servicio en euros. Cifras concretas y verificables convencen más que promesas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Fit für KI-Shopping",
-   "idea": "El 51% de los alemanes quiere usar IA para comprar en Black Friday, pero solo el 37% confía en los descuentos. Emprendedores: comparte cómo preparas tu tienda (fichas completas, precio de referencia, preguntas frecuentes) para que los asistentes de IA y los clientes encuentren datos fiables.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Glühwein für zu Hause",
-   "idea": "En Múnich ya hay Glühwein de 18 euros la taza y los mercados navideños están por abrir. Tiendas gourmet y cafeterías: kit de Glühwein casero con especias y receta, para quien quiere el ambiente del Weihnachtsmarkt sin pagar precio de lujo.",
+   "titulo": "Adventskalender mit Sinn",
+   "idea": "Los calendarios de Adviento temáticos (especias, herramientas, aprendizaje) están por todas partes en Meta. Pequeños negocios: arma un calendario de 24 tips o mini-ofertas en redes desde el 1 de diciembre.",
    "formato": "Reel"
   },
   {
-   "titulo": "Alltagsprodukt, starker Pitch",
-   "idea": "Ralf Dümmel dijo en televisión que el mejor producto es el papel higiénico: lo que se usa a diario se vende solo. Emprendedores: cuenta en 30 segundos qué problema cotidiano resuelve tu producto y por qué se recompra, con tono directo, sin superlativos.",
-   "formato": "TikTok"
+   "titulo": "Black Week ohne Tricks",
+   "idea": "El consumidor desconfía de los descuentos. Publica tu precio de hoy y tu precio de Black Week lado a lado.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Entspannter Hund im Winter",
-   "idea": "Un estudio con más de 40.000 perros encontró señales de miedo en el 84% de ellos. Tiendas de mascotas y adiestradores: consejos semanales para un perro tranquilo en invierno y en Nochevieja, con productos calmantes y juguetes de olfato.",
-   "formato": "Historia Instagram"
+   "titulo": "Rückruf: Tipps für Autofahrer",
+   "idea": "El llamado a revisión del grupo VW genera dudas. Talleres y tiendas de accesorios: explica cómo comprobar si tu auto está afectado, con tono informativo.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "GTA-Abend vorbereiten",
+   "idea": "Consolas, SSD y snacks para el lanzamiento de esta semana. Bundle claro con entrega rápida.",
+   "formato": "TikTok"
   }
  ]
 }

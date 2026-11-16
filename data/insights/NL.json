@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Con el nuevo Sinterklaas ya en el país, Países Bajos entra en modo pakjesavond: las familias planean cuándo poner el zapato y los regalos hasta el 5 de diciembre, y crecen iniciativas solidarias como Sintvoorieder1. A once días del Black Friday las ofertas se adelantan en gaming (PS5, Switch 2), auriculares de regalo y movilidad, y Albert Heijn conquista a las familias con su Winterdorp de madera para construir. La alerta de seguridad de una leche UHT en Lidl recuerda el valor de la transparencia en alimentación, y el giro a un otoño ventoso y lluvioso impulsa paraguas, chaquetas y planes gezellig en casa. Sorpresa familiar, ofertas honestas y comunicación clara funcionan hoy.",
+ "lectura": "Países Bajos está en plena temporada de Sinterklaas: el nuevo Sint, interpretado por Gijs Naber, llegó entre multitudes y la intocht en Ámsterdam, con su stoomboot atascado por un puente, fue lo más comentado del fin de semana. Las familias ya preparan pakjesavond (5 de diciembre), y en Meta se multiplican anuncios de regalos personalizados y 'surprises' con fecha límite de pedido. Black Friday se adelanta en tecnología, deporte y planes móviles, y el aviso sobre leche UHT de Lidl recuerda la importancia de la confianza en el súper. Regalos con fecha de entrega asegurada y tono familiar ganan.",
  "semaforo": [
   {
    "termino": "gijs naber",
-   "color": "amarillo",
-   "por_que": "El actor que asume el papel del Sint dispara las búsquedas, pero para los niños Sinterklaas es real.",
-   "idea": "Usa la llegada del Sint en contenido familiar sin mencionar al actor; deja la noticia para contenido dirigido a adultos."
+   "color": "verde",
+   "por_que": "El actor es el nuevo Sinterklaas y la noticia se volvió masiva.",
+   "idea": "Marcas familiares: contenido de bienvenida al Sint con tono cálido."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada del barco de vapor se siguió en directo en todo el país.",
-   "idea": "Pastelerías y jugueterías: chocoladeletters o figuras del barco con cuenta atrás hasta el 5 de diciembre."
+   "por_que": "La intocht y el stoomboot fueron lo más visto del fin de semana.",
+   "idea": "Juguetes, dulces y regalos: cuenta regresiva para pakjesavond."
+  },
+  {
+   "termino": "max verstappen vdk",
+   "color": "verde",
+   "por_que": "Nuevo acuerdo de patrocinio con una empresa neerlandesa.",
+   "idea": "Marcas B2B: el valor de las alianzas con figuras locales."
   },
   {
    "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Alerta de seguridad alimentaria sobre una leche UHT; tema sensible para las familias.",
-   "idea": "Marcas de lácteos y alimentación: comunica trazabilidad y controles propios, sin aprovechar el problema de otra marca."
+   "por_que": "Aviso de seguridad sobre leche UHT de una marca de Lidl.",
+   "idea": "Alimentación: comunicar controles de calidad; nunca usar el caso para atacar a otra marca."
   },
   {
    "termino": "de frogers",
    "color": "verde",
-   "por_que": "El interés por esta gran familia televisiva conecta con las familias numerosas y reconstituidas.",
-   "idea": "Tiendas de regalos: guía 'Sinterklaas para familias grandes' con detalles para todos dentro de un presupuesto."
-  },
-  {
-   "termino": "stoomboot",
-   "color": "verde",
-   "por_que": "El barco no pudo seguir por un puente averiado y el Sint llegó en otra embarcación: anécdota simpática.",
-   "idea": "Ecommerce y logística: humor seco con 'hasta el Sint necesita un plan B' para explicar tus opciones de entrega antes del pakjesavond."
+   "por_que": "Curiosidad por la familia del programa de televisión.",
+   "idea": "Contenido familiar ligero; marcas de hogar y ocio."
   }
  ],
  "audiencias": {
@@ -1062,58 +1062,42 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Sinterklaas",
-   "total": 3537,
+   "busqueda": "pakjesavond",
+   "total": 825,
    "anunciantes": [
     {
-     "nombre": "De Herberg",
-     "url": "https://www.facebook.com/ads/library/?id=1817466159521688"
+     "nombre": "The Grandmaster's Atelier",
+     "url": "https://www.facebook.com/ads/library/?id=2226851321230461"
     },
     {
-     "nombre": "Herman den Blijker",
-     "url": "https://www.facebook.com/ads/library/?id=1164091552727269"
+     "nombre": "GeheimBiertje",
+     "url": "https://www.facebook.com/ads/library/?id=1045121008601919"
     },
     {
-     "nombre": "Kipdirect.nl",
-     "url": "https://www.facebook.com/ads/library/?id=1488567506669191"
+     "nombre": "Zadelman.com",
+     "url": "https://www.facebook.com/ads/library/?id=1865540414441388"
     },
     {
-     "nombre": "PUUR GLAS",
-     "url": "https://www.facebook.com/ads/library/?id=1714239190122524"
+     "nombre": "Mivora",
+     "url": "https://www.facebook.com/ads/library/?id=1151317044048484"
     },
     {
-     "nombre": "Kraal voor Kraal",
-     "url": "https://www.facebook.com/ads/library/?id=1445703647215220"
+     "nombre": "Bookstory",
+     "url": "https://www.facebook.com/ads/library/?id=1841427106884686"
     }
    ],
-   "patron": "Se mezclan Sinterklaas, Black Friday y Navidad en la misma pieza: cajas de comida para compartir en familia, regalo gratis desde cierto monto y mensajes de urgencia como 'esperar no lo hace más barato'. Mucho 'regel je cadeaus nu' (organiza tus regalos ya)."
+   "patron": "Regalos personalizados y 'surprises' para pakjesavond con fecha límite de pedido visible ('bestel vóór 28 nov'), mystery boxes y ganchos con humor ('este año, nada de calcetines del Sint'). Muchos combinan Sinterklaas y Navidad en una sola pieza para estirar la temporada."
   },
   {
-   "busqueda": "gratis verzending",
-   "total": 35617,
+   "busqueda": "Black Friday",
+   "total": 136550,
    "anunciantes": [
     {
-     "nombre": "Walra",
-     "url": "https://www.facebook.com/ads/library/?id=1121542267143740"
-    },
-    {
-     "nombre": "Bonus-Bikes",
-     "url": "https://www.facebook.com/ads/library/?id=1456009516737483"
-    },
-    {
-     "nombre": "Vareno Watches",
-     "url": "https://www.facebook.com/ads/library/?id=1153928727631084"
-    },
-    {
-     "nombre": "Treeholder",
-     "url": "https://www.facebook.com/ads/library/?id=1114245208271797"
-    },
-    {
-     "nombre": "Leather Design",
-     "url": "https://www.facebook.com/ads/library/?id=1770065110729524"
+     "nombre": "Reactive Outdoor",
+     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
     }
    ],
-   "patron": "El envío gratis se usa como argumento junto al precio de Black Friday con antes y después ('ahora 129,95 €, antes 149,95 € + envío gratis'). Descuentos de 20% a 60% en textil del hogar, bicicletas infantiles, relojes y marroquinería."
+   "patron": "Volumen enorme de anuncios activos y un mismo anunciante repitiendo decenas de variantes de 'Black Friday empieza ya: hasta 62% de descuento'. El Black Friday se pauta como 'Black Week' desde dos semanas antes, con el porcentaje máximo en el titular."
   }
  ],
  "ocultar": [
@@ -1198,32 +1182,44 @@
   "Eenzijdig auto ongeluk op Kapelstraat in Maasbommel",
   "Deventenaar Johan (69) rijdt met auto vol hulpgoederen naar oorlogsgebied Oekraïne",
   "Senaatsrepublikeinen eisen getuigenis Lutnick over export Nvidia AI-chips naar China",
-  "Binnenvaartschip schiet te water geraakte auto te hulp"
+  "Binnenvaartschip schiet te water geraakte auto te hulp",
+  "112 meldingen rotterdam",
+  "Narcistisch zelfbeeld zit gezond debat over vermogensbelasting in de weg",
+  "Samenscholingsverbod in buurt van scholen in Parijs tegen aanhoudend geweld",
+  "Van succesvolle ondernemer naar totale afgrond: Xander verloor door hack alles wat hij had",
+  "Veel te weinig hulpgoederen komen Gaza binnen, geeft nu ook het Israëlische leger toe",
+  "Vijftig vliegtuigen boven Nederland raakten gps-signaal kwijt, ook zeven toestellen op weg naar Schiphol",
+  "Weinig jongeren bij kernenergie-demonstratie in Stad: 'Het moet eerst pijn doen, pas dan komen ze in beweging'",
+  "bolle jos",
+  "luchtvaart",
+  "vliegtuig",
+  "vliegtuigen",
+  "ziekenhuis"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Wanneer mag de schoen?",
-   "idea": "Un padre creó un 'Buienradar voor Pieten' para que los niños sepan cuándo poner el zapato. Jugueterías y dulcerías: publica un calendario semanal de schoen zetten con un detalle por menos de 5 euros para cada noche.",
-   "formato": "Historia Instagram"
+   "titulo": "Op tijd voor pakjesavond",
+   "idea": "Los anunciantes ya dicen 'bestel vóór 28 nov'. Publica tu fecha límite para pakjesavond en grande y repítela en cada pieza: es el dato que el comprador busca.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Sint voor iedereen",
-   "idea": "La campaña Sintvoorieder1 recoge regalos para niños de familias con menos recursos. Marcas y tiendas: ofrece un punto de recogida o un 'compra uno, dona uno' y muestra el resultado real con transparencia.",
+   "titulo": "Surprise met een twist",
+   "idea": "Las 'surprises' y regalos personalizados dominan los anuncios de Sinterklaas. Muestra cómo tu producto puede convertirse en una surprise casera con un poema corto.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lekker droog de winter in",
-   "idea": "El tiempo gira a un otoño ventoso y lluvioso, y el lila y el berenjena siguen siendo el color de la temporada. Moda y outdoor: un look 'regenproof' completo en esos tonos, con precio total y entrega al día siguiente.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Vuurwerkrust voor je hond",
-   "idea": "Adiestradores recomiendan no esperar a Nochevieja para trabajar el miedo de los perros a los fuegos artificiales. Tiendas de mascotas: plan de seis semanas en vídeos cortos con ejercicios y productos de apoyo.",
+   "titulo": "De nieuwe Sint",
+   "idea": "La llegada del nuevo Sint generó una conversación masiva. Marcas familiares: video cálido de 'primer zapato' con niños y tu producto como regalo, respetando la tradición.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Repareren als deal",
-   "idea": "Abren tiendas de ropa gratis y los Repaircafés ganan público mientras se acerca el Black Friday. Emprendedores: presenta un servicio de reparación o segunda vida como alternativa a comprar nuevo, con datos de cuánto se ahorra.",
+   "titulo": "Black Friday slim",
+   "idea": "Ofertas en Gymshark, Decathlon y planes sim only. Publica tus deals con precio final y condiciones claras de devolución, que el neerlandés valora mucho.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Kwaliteit die je kunt checken",
+   "idea": "Tras el aviso de Lidl sobre leche UHT, los consumidores valoran la trazabilidad. Marcas de alimentación: muestra de dónde viene tu producto y cómo lo controlas.",
    "formato": "LinkedIn"
   }
  ]

@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A once días del Black Friday (27 de noviembre), el consumidor chileno busca aprender a distinguir descuentos reales de inflados y las marcas ya se adelantan, como Skechers con zapatillas gorpcore o las ofertas tempranas de belleza. El clima vuelve a mandar: tras la ola de calor regresan las lluvias y las tormentas al centro-sur, así que la ropa funcional, el hogar y el delivery tienen excusa para hablar del día a día. En entretenimiento suenan el estreno de HBO Max sobre Gary Medel y los Premios Games From Chile del martes 17, mientras el auge de los 'perrihijos' (tiendas de mascotas +132% en seis años en la RM) abre un nicho para regalos navideños. Transparencia en precios, utilidad frente al clima y cercanía con las pasiones locales son la mejor apuesta de hoy.",
+ "lectura": "Chile pasa de la ola de calor a las lluvias: el pronóstico del tiempo, los cortes de luz programados en Santiago y el cierre de estaciones de la Línea 5 del Metro marcan la rutina y la forma de moverse. La conversación de compras gira hacia el Black Friday, con guías para revisar si los descuentos son reales y ofertas anticipadas en cruceros y pantallas. BancoEstado y su gift card de noviembre muestran el interés por beneficios concretos. Mensajes prácticos, despacho confiable y precios comparables conectan mejor con el chileno de hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Perrihijos también tienen Black",
-   "idea": "Las tiendas de mascotas de la RM crecieron 132% en seis años gracias a los 'perrihijos' y 'gatihijos'. Arma una guía de regalos navideños por tipo de mascota y anticipa qué productos tendrán descuento el 27: le hablas a un público que gasta con cariño.",
+   "titulo": "Del calor a la lluvia",
+   "idea": "El cambio brusco de temperatura obliga a ajustar el clóset. Tiendas de ropa: carrusel 'qué ponerse esta semana' con capas, parkas livianas y paraguas, con despacho rápido en Santiago.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Gorpcore para días de lluvia",
-   "idea": "La moda outdoor se toma la ciudad y vuelven las lluvias a Santiago. Muestra tres looks funcionales (zapatilla, cortaviento, mochila) que sirven para la pega y para el fin de semana, con precio claro y despacho al tiro.",
+   "titulo": "Sin Línea 5, igual llegamos",
+   "idea": "Con estaciones cerradas, muchos buscan alternativas. Comunica retiro en tienda, despacho o horarios extendidos; un mensaje de 'te lo llevamos' alivia el trayecto.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Descuento real o cuento",
+   "idea": "Los medios enseñan a revisar si las rebajas son reales. Muestra el historial de precio de tus productos estrella antes del Black Friday: transparencia que da confianza.",
    "formato": "Reel"
   },
   {
-   "titulo": "¿Rata o rana?",
-   "idea": "La teoría viral de TikTok divide a todos en ratas o ranas. Úsala con humor para tu marca: 'rata' compra apenas ve algo bacán, 'rana' espera el Black Friday; invita a comentar cuál son y responde con el producto ideal para cada uno.",
+   "titulo": "El bólido que todos grabaron",
+   "idea": "El bólido que iluminó el cielo se volvió viral. Marcas de tecnología y fotografía pueden aprovechar con tips para grabar el cielo nocturno con el celular.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Si se cae el correo, ¿cómo te ubican?",
-   "idea": "La caída de Outlook dejó a muchos sin correo justo antes de la temporada alta. Comparte cómo tu pyme tiene un canal de respaldo (WhatsApp, formulario o redes) para no perder pedidos ni clientes durante el Black Friday.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Tu wishlist del Black",
-   "idea": "Los medios explican dónde encontrar las marcas con descuento. Invita a tus seguidores a guardar o comentar los productos que quieren y avísales primero cuando bajen de precio: generas lista de interesados antes del 27, sin letra chica.",
+   "titulo": "Beneficio que suma",
+   "idea": "El interés por la gift card de BancoEstado demuestra que el chileno busca beneficios tangibles. Ofrece un regalo concreto por compra (envío gratis, accesorio) en vez de un porcentaje confuso.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "santa cruz",
-   "color": "amarillo",
-   "por_que": "Interés por las olas gigantes que golpean la costa de California; poca conexión directa con el consumo chileno.",
-   "idea": "Tiendas de surf y turismo costero: contenido de olas y temporada de verano, con foco en la experiencia y no en el riesgo."
-  },
-  {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "El bólido que iluminó el cielo desde la RM hasta Los Ríos sigue dando que hablar en redes.",
-   "idea": "Campaña ligera de 'pide un deseo': tu producto estrella como el deseo cumplido, con humor y sin exagerar."
+   "por_que": "Videos de un bólido visible desde varias regiones se volvieron virales.",
+   "idea": "Contenido de curiosidad y astronomía; tecnología y fotografía con tips para grabar el cielo."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Se esperan bajas temperaturas y posibles lluvias tras días de calor.",
-   "idea": "Mensajes según el clima de cada día: paraguas y cortavientos si llueve, bebidas frías si vuelve el sol."
+   "por_que": "Cambio de calor a lluvias y bajas temperaturas.",
+   "idea": "Ropa, calzado y hogar: recomendaciones según el clima con despacho rápido."
   },
   {
    "termino": "tiempo",
    "color": "amarillo",
-   "por_que": "Se anuncian hasta 100 mm de lluvia en el centro-sur por un sistema frontal.",
-   "idea": "Comercios y e-commerce con envíos a Biobío, La Araucanía y Los Ríos: avisar posibles demoras con tono de servicio, sin alarmar."
+   "por_que": "Lluvias intensas previstas en el centro-sur.",
+   "idea": "Tono de servicio en Biobío, La Araucanía y Los Ríos: avisos de despacho y productos útiles, sin dramatizar."
   },
   {
    "termino": "as",
    "color": "amarillo",
-   "por_que": "Término genérico asociado a viajeros afectados por la detención temporal de vuelos en EE.UU.",
-   "idea": "Agencias de viaje y turismo: recordar con calma la importancia de revisar condiciones de cambio y tener margen en los itinerarios de fin de año."
+   "por_que": "Término ambiguo ligado a viajeros afectados por retrasos aéreos en Estados Unidos.",
+   "idea": "Solo para agencias de viaje: información práctica sobre retrasos y derechos del pasajero."
+  },
+  {
+   "termino": "línea 5",
+   "color": "amarillo",
+   "por_que": "Cierre de estaciones de la Línea 5 del Metro afecta traslados.",
+   "idea": "Comercios cercanos: avisos de horarios, delivery y retiro alternativo."
   }
  ],
  "ocultar": [
@@ -122,7 +122,15 @@
   "Coqueluche en Chile: Coquimbo suma 352 casos notificados y crece la preocupación por los bebés",
   "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
   "Carabineros detiene a un hombre y recupera dos autos robados y tres chasis",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
+  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
+  "Conductor atropella a siete ciclistas del Team Rengo en ruta de O’Higgins: tres quedaron con lesiones graves",
+  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
+  "Investigan a Megaspeed por posible desvío de chips Nvidia a China: Compras superan los US$4.000 millones",
+  "Quién es quién: los aspirantes que este lunes expondrán ante la Corte para quedarse con el puesto de fiscal regional de Valparaíso",
+  "coordinadora no más afp",
+  "premio",
+  "ufc"
  ],
  "audiencias": {
   "general": {

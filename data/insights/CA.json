@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá calienta el Black Friday con Walmart Canada, Amazon y Nordstrom adelantando ofertas en tecnología, botas de invierno y accesorios, mientras el consumidor busca valor real en un contexto de costo de vida alto. El invierno vuelve a las Praderas con nieve en Calgary y lluvias en la isla de Vancouver, y en Quebec preocupa un posible temporal la próxima semana. El entretenimiento empuja con los premios CMA, una serie de Harry Potter en camino, el resumen anual de Xbox y la canción de un dúo de Vancouver en GTA VI; además, Twitch ya permite anuncios comprables en Canadá. Funcionan los precios claros en CAD, los productos para el frío y los formatos de resumen y regalo.",
+ "lectura": "Canadá empieza la temporada de compras navideñas con inflación todavía alta y un consumidor que busca valor: Walmart, Amazon y Dyson ya mueven ofertas anticipadas de Black Friday y los mercados navideños locales llenan calles. El clima de invierno y las tormentas en la costa oeste marcan rutas y planes, mientras la música country, GTA VI y la cultura pop alimentan el entretenimiento. Twitch lanzó anuncios comprables en Canadá, una señal para marcas que venden a audiencias gamer. Mensajes de ahorro inteligente, compra local y envíos confiables encajan con el momento.",
  "ideas_hoy": [
   {
-   "titulo": "Tu año, estilo Playback",
-   "idea": "Xbox lanzó su resumen anual personalizado y la gente lo comparte. Haz el 'resumen 2026' de tu marca: productos más vendidos, la reseña favorita y un dato curioso de tus clientes, con cierre de oferta navideña.",
+   "titulo": "Holiday shopping con presupuesto",
+   "idea": "La inflación preocupa al inicio de las compras navideñas. Arma una guía de regalos por rangos de precio (bajo 25, 50 y 100 dólares) con envío incluido y la fecha límite para recibir antes del 24.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Vender en vivo en Twitch",
-   "idea": "Twitch activó anuncios comprables en Canadá. Si tu marca es de tecnología, gaming o snacks, prueba una colaboración con un streamer local y mide clics directos al producto antes del Black Friday.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Adviento de café y matcha",
-   "idea": "Los calendarios de adviento de café y matcha son tendencia. Cafeterías y tiendas gourmet pueden armar uno con 12 o 24 muestras de origen y precio final en CAD: regalo práctico y fácil de enviar.",
+   "titulo": "Lo local también es regalo",
+   "idea": "Mercados navideños y días sin impuestos atraen compradores a los centros urbanos. Pequeños negocios: muestra el detrás de cámaras de cómo empacas cada pedido, en inglés y francés si vendes en Quebec.",
    "formato": "Reel"
   },
   {
-   "titulo": "Patitas listas para el frío",
-   "idea": "Bajan las temperaturas y en Calgary ya cae nieve. Un video con 3 consejos para mascotas en invierno (botas, abrigo, cuidado de almohadillas) conecta con dueños y abre la puerta a tus productos.",
-   "formato": "TikTok"
+   "titulo": "Tu tienda en Twitch",
+   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas de tecnología, snacks o merch gamer pueden probar una transmisión de lanzamiento de GTA VI con productos enlazados.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "El envase que vuelve",
-   "idea": "Los compradores de Ontario ayudaron a romper un récord mundial de devolución de envases. Lanza un incentivo por traer o reutilizar tu empaque y cuéntalo con datos: el público canadiense valora lo práctico y lo sostenible.",
-   "formato": "Historia Instagram"
+   "titulo": "Kit de invierno para el carro",
+   "idea": "Con tormentas en el oeste y frío en el resto del país, un kit de emergencia para el auto (cobija, cargador, raspador) es regalo práctico. Copy claro con beneficio y precio.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Navidad latina en Canadá",
+   "idea": "La comunidad latina en Toronto, Montreal y Vancouver ya planea regalos para casa. Video sobre cómo enviar con tiempo y qué productos de su país extrañan más.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "country music",
    "color": "verde",
-   "por_que": "Los premios CMA, con Taylor Swift en el escenario, mueven a fans del country en todo el país.",
-   "idea": "Moda western (botas, sombreros, flecos) y playlists de temporada para tiendas y cafeterías."
+   "por_que": "Expectativa por los premios CMA y presentaciones de grandes artistas.",
+   "idea": "Moda western, botas y sombreros: contenido de estilo inspirado en la gala."
+  },
+  {
+   "termino": "winter storm",
+   "color": "amarillo",
+   "por_que": "Tormentas con nieve, lluvia y oleaje en la costa oeste.",
+   "idea": "Servicio y preparación: productos de invierno y avisos de entregas, sin dramatizar."
   },
   {
    "termino": "météo",
-   "color": "amarillo",
-   "por_que": "En Quebec se sigue un posible temporal la próxima semana por un jet stream muy intenso.",
-   "idea": "Contenido en francés de preparación para el invierno y aviso honesto de tiempos de entrega."
-  },
-  {
-   "termino": "calgary weather",
    "color": "verde",
-   "por_que": "Regresa la nieve a las Praderas (5 a 10 cm): búsqueda práctica y oportunidad estacional.",
-   "idea": "Kits de invierno para auto y casa, botas y abrigos con precio final y entrega rápida en Alberta."
+   "por_que": "Quebec sigue de cerca el pronóstico y los vientos fuertes de la semana.",
+   "idea": "Marcas en Quebec: contenido en francés sobre preparación para el invierno."
   },
   {
-   "termino": "ula vulcan rocket",
-   "color": "amarillo",
-   "por_que": "Una falla en pleno vuelo destruyó satélites de internet; noticia técnica con poco ángulo de consumo.",
-   "idea": "Solo para marcas de tecnología: contenido educativo sobre conectividad y planes de respaldo, sin burlas."
-  },
-  {
-   "termino": "harry potter tv series",
+   "termino": "gta vi",
    "color": "verde",
-   "por_que": "HBO compartió un adelanto de la nueva serie y reaviva la nostalgia de varias generaciones.",
-   "idea": "Noche temática o maratón, merch y regalos para fans con estética de Hogwarts."
+   "por_que": "El lanzamiento del videojuego más esperado mueve consolas y accesorios.",
+   "idea": "Tecnología y snacks: bundles de lanzamiento y contenido de 'noche de juego'."
+  },
+  {
+   "termino": "waves california coast",
+   "color": "amarillo",
+   "por_que": "Olas gigantes en California llaman la atención por los videos.",
+   "idea": "Solo para marcas de surf o outdoor, con mensaje de seguridad; evitar el humor."
   }
  ],
  "audiencias": {
@@ -1182,6 +1182,12 @@
   "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
   "Alzheimer’s-linked protein may help detect advanced CTE: Study | Daily Sabah",
   "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
-  "Ottawa’s Multi-Billion Food Strategy Comes With an Asterisk"
+  "Ottawa’s Multi-Billion Food Strategy Comes With an Asterisk",
+  "5-alarm fire at Pierrefonds-Roxboro apartment building sends one person to hospital",
+  "Canada plans up to 200,000 extra permanent residence spaces. Here’s who could benefit",
+  "Man found guilty of assaulting tourist along Vancouver seawall",
+  "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+  "Viral Video Captures Reactions to UFC 334 Main Event",
+  "ronda rousey"
  ]
 }

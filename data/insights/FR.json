@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El francés afronta la última semana y media antes del Black Friday cazando 'bons plans' en tecnología, hogar y descanso: iPhone y Samsung rebajados, colchones y sofás hasta -50 %, mientras admite que solo las promociones le hacen comprar y que quiere cuidar su presupuesto de fin de año. GTA VI está a punto de salir y la liquidación de PS5 en Amazon alimenta la fiebre gamer; un chocolate lanzado por creadores populares se agotó en línea, prueba del poder de los 'drops'. El viento y la lluvia empujan al cocooning y a los planes de tele como Star Academy y N'oubliez pas les paroles, y los mercados de Navidad y los artesanos ya abren temporada. Ofertas transparentes, ediciones limitadas y confort en casa conectan hoy.",
+ "lectura": "Francia se calienta para el Black Friday con liquidaciones anticipadas de smartphones, consolas y electrónica: Amazon y Cdiscount compiten por el comprador y la PS5 se mueve fuerte antes del lanzamiento de GTA VI, un fenómeno que los medios describen como acontecimiento de sociedad. En casa, Star Academy y N'oubliez pas les paroles reúnen audiencias, y crece el interés por comprar y reformar casas antiguas. El cierre prolongado de la A13 complica la movilidad al oeste de París. Ofertas claras, reacondicionados y entregas fiables conectan con un consumidor atento al precio.",
  "ideas_hoy": [
   {
-   "titulo": "Le drop qui part en une heure",
-   "idea": "Una tableta de chocolate promocionada por creadores se agotó en línea. Chocolaterías y marcas artesanas: anuncia una edición limitada de Navidad con preventa y número de unidades visible.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Soirée GTA",
-   "idea": "GTA VI está a días de salir y las consolas PS5 se liquidan. Delivery, snacks y tiendas de accesorios: un pack 'noche de lanzamiento' con lo necesario para jugar sin salir de casa.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Chambre cocon",
-   "idea": "Colchones, ropa de cama y muebles están entre las ofertas del momento y se habla del 'blues' del invierno. Tiendas de hogar: muestra en 5 diapositivas cómo transformar un dormitorio en refugio con poco presupuesto.",
+   "titulo": "Le reconditionné, malin",
+   "idea": "Los smartphones reacondicionados aparecen entre las mejores ofertas del Black Friday. Explica en un carrusel garantía, estado y ahorro frente a nuevo: argumento de precio y de sostenibilidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Le bon plan sans déraper",
-   "idea": "Los medios insisten en no confundir generosidad con capacidad de gasto. Marcas: guía de regalos por tramos de precio (menos de 20, 50 y 100 euros) con un mensaje honesto de compra responsable.",
+   "titulo": "Prêt pour GTA VI",
+   "idea": "El lanzamiento de esta semana mueve consolas y accesorios. Bundle 'soirée de lancement' con entrega antes del día D y precio final visible.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Rendez-vous au marché de Noël",
-   "idea": "Abren los mercados de Navidad y las tiendas efímeras de artesanos. Creadores y artesanos: comparte en qué mercado estarás, días y horarios, y un producto exclusivo para quien te visite.",
-   "formato": "Historia Instagram"
+   "titulo": "Star Academy en directo",
+   "idea": "El programa genera conversación cada semana. Marcas de belleza y moda: reto de look o encuesta del prime, con tono ligero.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Rénover avec petit budget",
+   "idea": "La historia de una pareja que compró y reformó una casa antigua engancha. Ferreterías, decoración y artesanos: antes y después con costes realistas.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "A13 fermée, livraison assurée",
+   "idea": "Con la autopista cerrada durante meses, comercios del oeste de París pueden comunicar alternativas de entrega o retiro en tienda.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "trombe marine",
-   "color": "amarillo",
-   "por_que": "Alertas por tormentas y viento fuerte en el oeste del país.",
-   "idea": "Comercios locales: avisos de horario y retiro en tienda, sin dramatizar el clima."
-  },
-  {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa sigue fuerte en audiencia y conversación de fans.",
-   "idea": "Belleza y moda: tutoriales de looks de escenario o retos de canto con tu comunidad."
+   "por_que": "El programa reúne audiencia y conversación cada semana.",
+   "idea": "Moda, belleza y snacks: contenido inspirado en los primes."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "El lanzamiento del videojuego más esperado está muy cerca.",
-   "idea": "Gaming y alimentación: cuenta atrás hasta el 'jour J' con packs y sorteos de accesorios."
+   "por_que": "El juego se presenta como el gran lanzamiento del año.",
+   "idea": "Tecnología, snacks y merch: bundles y cuenta regresiva."
   },
   {
    "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Amazon liquida stock de PS5 antes de la salida de GTA VI.",
-   "idea": "Tiendas de tecnología: compara bundle, garantía y servicio posventa para diferenciarte del precio puro."
+   "por_que": "Liquidaciones de stock de PS5 antes del lanzamiento.",
+   "idea": "Tiendas de tecnología: comparativas claras y accesorios complementarios."
   },
   {
-   "termino": "n oubliez pas les paroles les masters",
+   "termino": "maison",
    "color": "verde",
-   "por_que": "Gran interés por la final de los Masters del concurso musical.",
-   "idea": "Bares y marcas: dinámica 'termina la letra' en redes o noche de karaoke temática."
+   "por_que": "Interés por comprar y reformar casas antiguas.",
+   "idea": "Decoración, bricolaje e inmobiliarias: contenido de antes y después."
+  },
+  {
+   "termino": "hugues aufray",
+   "color": "amarillo",
+   "por_que": "Interés por el cantante y sus conciertos reprogramados.",
+   "idea": "Solo para marcas culturales o de música, con respeto."
   }
  ],
  "audiencias": {
@@ -1257,6 +1257,15 @@
   "Budget 2027 : les sénateurs votent en faveur d’une hausse des taxes sur les boissons Vody, sucrées et ultra-alcoolisées",
   "Les boissons énergisantes et compléments stimulants apparaissent 11 fois plus souvent dans les déclarations d'arrêt cardiaque, selon plus de 28 000 signalements médicaux analysés",
   "11-Novembre à Aragon : bleuets et fleurs, en souvenir",
-  "Le ministre de l’Agriculture marocain auprès des producteurs de tomate à Chtouka Ait Baha"
+  "Le ministre de l’Agriculture marocain auprès des producteurs de tomate à Chtouka Ait Baha",
+  "Ce que l’on sait de la cyberattaque massive qui a visé une filiale de la Poste",
+  "Présidentielle 2027 : Rousseau appelle les Écologistes à se rallier à LFI pour la présidentielle, Tondelier dénonce une « provocation",
+  "abdelmadjid tebboune",
+  "jean gabin",
+  "manifestation",
+  "mère",
+  "ukraine",
+  "« Guillaume Pley agresseur » : le spectacle « Legend Tour » perturbé par des militantes féministes ce dimanche soir à Paris",
+  "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire"
  ]
 }

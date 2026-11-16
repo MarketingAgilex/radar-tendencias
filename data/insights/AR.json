@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El calendario manda: Black Friday el 27 de noviembre y Cyber Monday el 30, con Defensa del Consumidor recomendando comprar seguro y pymes que arman ofertas a su medida en lugar de rebajar todo. El clima sigue en el centro de las búsquedas, con lluvias y granizo en varias provincias, y el feriado del lunes 23 abre otro finde largo para planes y escapadas. En moda vuelve el calzado bajo de la mano de figuras como María Vázquez y Pampita, mientras crece la nostalgia que cotiza (los televisores de tubo se buscan y se pagan) y la venta de autos eléctricos sube más de 650% en un mercado que cae. Precio final claro, combos pensados para el bolsillo y contenido con ingenio son lo que más rinde hoy.",
+ "lectura": "El argentino arranca la semana pendiente del clima: lluvias, tormentas y alertas en varias provincias cambian planes y rutinas. En el bolsillo, ANSES, el dólar y las fechas confirmadas del Black Friday y el Cyber Monday ordenan la agenda de compras, con municipios y Defensa del Consumidor difundiendo consejos para comprar seguro. Crece la compra de alimentos por apps y se venden marcas emblemáticas, señales de un consumo que se reacomoda. El streaming que salta a la tele, Masterchef Celebrity y La Noche de los Museos muestran ganas de entretenimiento y cultura.",
  "ideas_hoy": [
   {
-   "titulo": "Chau tacos, hola chatitas",
-   "idea": "María Vázquez, Pampita y Nicole Neumann confirmaron el regreso del calzado bajo. Zapaterías y tiendas de moda: mostrá tres looks con mocasines, ballerinas o zapatillas bajas para el laburo y la salida, con precio final en cuotas.",
+   "titulo": "Súper sin salir de casa",
+   "idea": "La compra de alimentos por apps crece. Almacenes y dietéticas: mostrá en un video cómo es pedir por WhatsApp o app, con el horario de entrega y el mínimo de compra bien claro.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cyber Monday sin sustos",
-   "idea": "Defensa del Consumidor ya difunde recomendaciones para comprar seguro. Publicá un checklist con tus datos reales: razón social, medios de pago, política de cambios y tiempos de envío. La confianza vende más que el porcentaje.",
+   "titulo": "Cyber Monday con data",
+   "idea": "Las fechas ya están confirmadas y los municipios dan consejos de compra segura. Publicá tu lista de precios de hoy y comprometete a no inflarlos antes: confianza en un mercado desconfiado.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lo viejo cotiza",
-   "idea": "Los televisores de tubo volvieron a buscarse y algunos superan los 345 dólares. Tiendas de usados, gaming retro o decoración vintage: contá qué objetos 'de antes' tenés y por qué hoy valen, con tono nostálgico y re copado.",
+   "titulo": "Lluvia y plan B",
+   "idea": "Con tormentas y alertas en varias provincias, ofrecé retiro programado o envío a domicilio. Copy corto: 'Llueve, nosotros llevamos'.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Del stream a la tele",
+   "idea": "El salto de Tomás Rebord a la TV abierta muestra cómo el streaming marca agenda. Marcas: probá un formato charla corta con un creador local en vez de un aviso clásico.",
    "formato": "TikTok"
   },
   {
-   "titulo": "El cliente eléctrico llegó",
-   "idea": "Los autos eléctricos crecieron más de 650% en 2026 aunque el mercado general cae. Concesionarias, talleres y accesorios: compartí qué pregunta este nuevo comprador (carga, autonomía, mantenimiento) y cómo lo atendés.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Black a tu medida",
-   "idea": "Las pymes ensayan fórmulas finas para su Black Friday. En vez de bajar todo, armá tres combos con tus productos estrella y dale acceso anticipado a quienes te escriben por WhatsApp: 'Elegí tu combo antes que nadie'.",
-   "formato": "Copy para anuncio"
+   "titulo": "Galletitas con historia",
+   "idea": "La venta de una marca emblemática de galletitas despierta nostalgia. Emprendedores de alimentos: contá el origen de tu receta y por qué vale la pena cuidarla.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "valentín fuster",
-   "color": "amarillo",
-   "por_que": "Las declaraciones del cardiólogo sobre longevidad y hábitos generan conversación.",
-   "idea": "Marcas de alimentación y bienestar: contenido de hábitos simples y comprobables, sin prometer resultados de salud."
-  },
-  {
-   "termino": "maría vázquez",
-   "color": "verde",
-   "por_que": "Junto a Pampita y Nicole Neumann impulsa el regreso del calzado bajo.",
-   "idea": "Moda y calzado: lookbook de chatitas y mocasines con precio final y talles disponibles."
-  },
-  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "El pronóstico diario sigue siendo de lo más buscado en plena temporada de lluvias.",
-   "idea": "Delivery, indumentaria y gastronomía: promos que cambian según el clima del día y se anuncian a primera hora."
-  },
-  {
-   "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Tormentas fuertes con granizo afectaron a Córdoba y otras zonas.",
-   "idea": "Mensajes de servicio y prevención (cubreautos, protección de techos y plantas), sin bromear con los daños."
+   "por_que": "Pronóstico con lluvias y nubosidad en Buenos Aires y el resto del país.",
+   "idea": "Ropa, calzado y delivery: contenido según el clima del día."
   },
   {
    "termino": "lluvia",
    "color": "verde",
-   "por_que": "Lluvias en Buenos Aires y otras provincias mantienen a la gente en casa.",
-   "idea": "Planes puertas adentro: series, juegos de mesa, cocina y envío a domicilio con un mensaje cálido de 'finde de lluvia'."
+   "por_que": "Las lluvias del fin de semana siguen en la conversación.",
+   "idea": "Paraguas, camperas y envíos: 'no salgas, te lo llevamos'."
+  },
+  {
+   "termino": "rocio robles",
+   "color": "amarillo",
+   "por_que": "Polémica de farándula entre figuras de reality.",
+   "idea": "Solo para creadores de entretenimiento; las marcas mejor no tomar partido."
+  },
+  {
+   "termino": "anses",
+   "color": "verde",
+   "por_que": "Consultas sobre fechas de cobro de jubilaciones y asignaciones.",
+   "idea": "Comercios de barrio: promociones en los días de cobro con mensajes claros y respetuosos."
+  },
+  {
+   "termino": "tomas rebord",
+   "color": "verde",
+   "por_que": "Su salto del streaming a la TV abierta genera conversación.",
+   "idea": "Marcas: aprovechar el auge del streaming con formatos de charla y creadores locales."
   }
  ],
  "ocultar": [
@@ -115,7 +115,13 @@
   "Tres personas trasladaban materiales de construcción ajenos y terminaron en la comisaría",
   "Radicalismo auténtico: identidad, principios y construcción de una alternativa",
   "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
+  "Alarma en Israel por un rabino que invocó una doctrina religiosa contra políticos aliados con árabes",
+  "El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias",
+  "Escándalo con Beligoy: de las SIRA para importar zapatos a la compra de una mansión en Villa Devoto",
+  "granizo",
+  "ufc",
+  "“La 40 por los 44″: una nueva travesía para homenajear a los marinos que dejaron la vida en el ARA San Juan"
  ],
  "audiencias": {
   "general": {

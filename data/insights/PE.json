@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-16T01:03:27Z",
+ "actualizado": "2026-11-16T05:03:03Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú vive el cierre de la visita del papa León XIV, con mucha gente consultando horarios, rutas de despedida y transmisiones en televisión, y con la artesanía amazónica ganando vitrina tras su paso por Pucallpa. El clima es la búsqueda más fuerte de la semana: el calor hace pensar en ventiladores y aire acondicionado, Arequipa tuvo cortes de luz programados y El Niño costero ya encarece las frutas que llegan del norte. Con el Black Friday el 27 de noviembre y la gratificación de diciembre en camino, el consumidor quiere ofertas reales y planea sus compras, mientras la temporada de panetón y chocolate empieza a calentar motores. Precio justo, yapa y contenido útil sobre clima y temporada son la mejor carta hoy.",
+ "lectura": "Perú vive hoy el último día no laborable por la visita del papa León XIV, con Lima pendiente de rutas, horarios y transmisiones de la misa en Las Palmas: la movilidad y el consumo en casa marcan la jornada. El clima y los cortes de luz en Arequipa siguen entre lo más buscado, y la noticia de la salida de Entel del mercado y el alza de la tasa del BCRP ponen en agenda el bolsillo, los créditos y los planes móviles. Corazón Serrano estrena voz y la cumbia sigue siendo un gancho poderoso. Faltan 11 días para el Black Friday: conviene hablar de planeación y precio claro.",
  "ideas_hoy": [
   {
-   "titulo": "Hecho a mano en la Amazonía",
-   "idea": "Los rosarios de huayruro y la artesanía amazónica destacaron en Pucallpa durante la visita del Papa. Artesanos y tiendas de regalos pueden mostrar quién hace cada pieza y cómo, y ofrecerla como detalle navideño con historia, en tono respetuoso.",
-   "formato": "Reel"
+   "titulo": "Feriado en casa, pedido a domicilio",
+   "idea": "Con el feriado y desvíos por la visita papal, mucha gente se queda en casa. Restaurantes y bodegas: promo de delivery para el almuerzo familiar con zonas de reparto claras.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Panetón vs. panetón",
-   "idea": "Un panetón de chocolate fue elegido el mejor del mundo y la temporada ya arranca. Panaderías y marcas de chocolate: cata a ciegas con tus patas o clientes, y preventa con yapa para quien reserve antes de diciembre.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Fruta cara, menú listo",
-   "idea": "Las frutas que llegan del norte subieron en Arequipa por El Niño. Juguerías, cafeterías y restaurantes pueden mostrar su 'jugo del día' con frutas de estación más accesibles y explicar por qué cambian la carta: transparencia que genera confianza.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Calor sin recibo de susto",
-   "idea": "Crecen las búsquedas sobre el clima y cuánto cuesta usar aire acondicionado al mes. Tiendas de electro y hogar: compara consumo de ventilador, climatizador y aire acondicionado en soles para que el cliente elija al toque y sin sorpresas.",
+   "titulo": "Tu plan, explicado",
+   "idea": "La salida de Entel genera dudas sobre líneas y planes. Tiendas de celulares y accesorios pueden explicar qué revisar (portabilidad, equipos, garantías) sin dar por hecho cambios no anunciados.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Grati + Black Friday con lista",
-   "idea": "El Black Friday es el 27 de noviembre y la gratificación llega en diciembre. Anuncia hoy tus precios actuales y promete el descuento real del 27, con pago por Yape o Plin al recibir: 'precio justo y con yapa, sin letra chiquita'.",
+   "titulo": "Crédito con cabeza",
+   "idea": "El alza de la tasa del BCRP impacta créditos y cuotas. Comercios que venden a plazos: contenido sobre cómo comparar cuotas antes del Black Friday y por qué conviene pagar al contado si se puede.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Cumbia con nueva voz",
+   "idea": "El anuncio de la nueva voz de Corazón Serrano está en tendencia. Marcas de entretenimiento, bebidas o eventos: un trend de baile o dúo con el audio del momento, de forma respetuosa con la agrupación.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Black Friday sin letra chica",
+   "idea": "A 11 días del 27 de noviembre, publica tus precios de hoy y promete mantenerlos. Un mensaje de 'precio justo' destaca entre ofertas infladas.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "a que hora llega el papa a lima",
-   "color": "verde",
-   "por_que": "Alta consulta por la agenda final del papa León XIV en Lima y su despedida del país.",
-   "idea": "Negocios cercanos a las rutas: informar horarios, accesos y atención con tono respetuoso, sin usar la figura del Papa en promociones."
-  },
-  {
-   "termino": "america",
-   "color": "amarillo",
-   "por_que": "Término ambiguo que hoy se asocia a la llegada del Papa a Cusco; puede mezclarse con clubes y otros temas.",
-   "idea": "Turismo en Cusco: contenido sobre tradición y cultura de la ciudad, usando palabras clave más específicas que 'america'."
-  },
-  {
-   "termino": "américa tv",
-   "color": "verde",
-   "por_que": "Búsqueda directa del canal, sin una noticia puntual detrás; refleja interés por su programación y coberturas en vivo.",
-   "idea": "Marcas con pauta en TV: coordinar mensajes en redes que acompañen los horarios de mayor audiencia (segunda pantalla)."
-  },
-  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Es la búsqueda más fuerte de la semana: el pronóstico del SENAMHI marca el día a día del consumidor.",
-   "idea": "Bebidas, heladerías, ropa ligera y protector solar: publicaciones según el pronóstico diario ('hoy toca...')."
+   "por_que": "Lima y el país siguen el pronóstico del Senamhi día a día.",
+   "idea": "Ropa, bebidas y helados: contenido según el clima del día con tu producto ideal."
+  },
+  {
+   "termino": "ruta del papa lunes 16",
+   "color": "amarillo",
+   "por_que": "Limeños buscan rutas y cierres por la despedida del papa León XIV.",
+   "idea": "Solo información útil de horarios y entregas; no usar la figura del papa con fines comerciales."
+  },
+  {
+   "termino": "misa del papa en las palmas",
+   "color": "amarillo",
+   "por_que": "Interés por horarios y accesos a la misa.",
+   "idea": "Negocios cercanos: avisos de atención y delivery; evitar promociones con símbolos religiosos."
+  },
+  {
+   "termino": "temperatura lima",
+   "color": "verde",
+   "por_que": "Búsquedas sobre calor y temperatura en Lima.",
+   "idea": "Bebidas, protector solar y ropa ligera: '¿qué te pones hoy?' con el clima como gancho."
   },
   {
    "termino": "corte luz arequipa",
    "color": "amarillo",
-   "por_que": "Cortes de luz programados en siete distritos de Arequipa generaron consultas.",
-   "idea": "Comercios arequipeños: avisar horarios de atención y pagos alternativos, y ofrecer productos útiles (power bank, linternas recargables) con tono de servicio."
+   "por_que": "Cortes programados de luz en distritos de Arequipa.",
+   "idea": "Tiendas de tecnología y hogar: power banks y linternas con tono de servicio."
   }
  ],
  "ocultar": [
@@ -109,7 +109,12 @@
   "Gremios de construcción civil exigen acciones urgentes para frenar violencia contra obreros y dirigentes",
   "Un festival de música termina en caos y una gran pelea en una famosa playa mexicana",
   "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño"
+  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
+  "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
+  "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera",
+  "islas cook",
+  "ufc"
  ],
  "audiencias": {
   "general": {
