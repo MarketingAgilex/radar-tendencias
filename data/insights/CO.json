@@ -1,65 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con plan retorno y la mirada puesta en el Black Friday del 27 de noviembre: los medios ya publican fechas, categorías con más descuento y consejos para comprar seguro, señal de un comprador que quiere planear y desconfía de la letra pequeña. El ocio en casa sigue fuerte (HBO Max, Netflix, La Mansión VIP, el Concurso Nacional de Belleza) y la llegada del Renault 4 eléctrico pone la movilidad eléctrica en la conversación. Barranquilla celebra la nueva ruta directa a Nueva York desde febrero, un dato que conecta con la diáspora y los envíos. Mensajes de planeación, precio claro y confianza funcionan mejor hoy que la promesa de 'el descuento más grande'.",
+ "lectura": "Colombia cierra hoy el puente festivo de la Independencia de Cartagena con el Concurso Nacional de Belleza en pantalla y planes de entretenimiento en casa (HBO Max, Netflix, La Mansión VIP). La conversación de compras ya apunta al Black Friday del 27 de noviembre: los medios publican fechas, categorías con más descuento y consejos para comprar seguro, y en Meta abundan los anuncios con 'envío gratis' y pago contraentrega. La llegada del Renault 4 eléctrico y la subida de precios de alimentos como la papa muestran un comprador que compara y planea. Ganan los mensajes de precio claro, entrega confiable y ahorro concreto.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday sin sustos",
-   "idea": "Los medios están explicando cómo comprar seguro en Black Friday y Cyberlunes. Publica un carrusel con tus 4 reglas (precio de antes y de ahora, tiempos de entrega, cambios y garantía) y cierra invitando a guardar el post para el 27.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Lista de deseos parcera",
-   "idea": "Antes del 27 de noviembre, pide a tus seguidores que comenten qué producto quieren ver rebajado. Así validas demanda, armas tu lista de ofertas con datos reales y calientas la fecha sin regalar margen antes de tiempo.",
-   "formato": "Historias con sticker de preguntas"
-  },
-  {
-   "titulo": "Plan de sofá de festivo",
-   "idea": "Con HBO Max, Netflix y La Mansión VIP entre lo más buscado, el plan de hoy es en casa. Restaurantes, tiendas de snacks y licores pueden lanzar un 'combo maratón' con domicilio y mostrarlo en un video de 15 segundos tipo 'mi plan de festivo'.",
+   "titulo": "Lunes festivo, plan de sofá",
+   "idea": "HBO Max, Netflix y La Mansión VIP están entre lo más buscado y hoy es festivo. Restaurantes, tiendas de snacks y licoreras pueden lanzar un 'combo maratón' con domicilio y mostrarlo en un video corto tipo 'mi plan de hoy'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Barranquilla–Nueva York, más cerca",
-   "idea": "La nueva ruta directa desde febrero de 2027 conecta a la Costa con la diáspora en Nueva York. Marcas costeñas de alimentos, moda o artesanías pueden contar cómo llegan sus productos a la familia que vive allá y qué conviene enviar para diciembre.",
-   "formato": "TikTok"
+   "titulo": "Contraentrega sin letra pequeña",
+   "idea": "En Meta se repite la fórmula 'envío gratis + pago contraentrega' para Black Friday. Si la ofreces, dilo en los primeros 3 segundos; si no, explica qué garantía das (cambios, tiempos de entrega) para competir en confianza.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Cuenta regresiva al 27",
+   "idea": "Faltan 11 días para el Black Friday. Publica un carrusel con tu calendario (preventa, día principal, Cyberlunes) y pide que guarden el post; así conviertes la expectativa en recordación sin regalar margen antes de tiempo.",
+   "formato": "Carrusel Instagram"
   },
   {
    "titulo": "Lo eléctrico llegó al barrio",
-   "idea": "La llegada del Renault 4 eléctrico disparó búsquedas. Talleres, tiendas de accesorios, aseguradoras o parqueaderos pueden explicar en un post qué cambia con un carro eléctrico (carga, mantenimiento, pico y placa) y posicionarse como guía.",
+   "idea": "El nuevo Renault 4 eléctrico disparó búsquedas. Talleres, aseguradoras, parqueaderos o tiendas de accesorios pueden explicar qué cambia con un carro eléctrico (carga, mantenimiento, costos) y posicionarse como guía.",
    "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Mercado inteligente",
+   "idea": "La papa y otros alimentos están en su precio más alto desde 2023. Tiendas, fruvers y marcas de alimentos pueden publicar 'la canasta que rinde': recetas o combos de bajo costo con productos de temporada.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "vuelos suspendidos estados unidos",
-   "color": "amarillo",
-   "por_que": "Búsquedas por la suspensión temporal de despegues en Estados Unidos, que ya se normalizó pero generó retrasos.",
-   "idea": "Agencias de viaje y negocios con clientes en EE. UU.: contenido útil sobre derechos del pasajero y tiempos de llegada de envíos, sin dramatizar."
-  },
-  {
-   "termino": "fenómeno",
-   "color": "verde",
-   "por_que": "Interés por los efectos de El Niño en el agua y el clima de los próximos meses.",
-   "idea": "Hogar, ferreterías y agro: tips para ahorrar agua y prepararse para la temporada seca, con productos concretos."
-  },
-  {
-   "termino": "supuesto apagon mundial",
-   "color": "amarillo",
-   "por_que": "Circula el rumor de un apagón mundial de varios días; los medios lo desmienten.",
-   "idea": "Tono de calma: 'no es real, pero un plan B nunca sobra' (power banks, linternas, respaldo de datos), sin alimentar el miedo."
-  },
-  {
    "termino": "hbo",
    "color": "verde",
-   "por_que": "La gente busca qué ver en HBO Max esta semana.",
-   "idea": "Contenido 'qué ver + qué pedir': recomendaciones de series con tu producto o combo para la noche."
+   "por_que": "La gente busca qué ver en HBO Max, impulsada por la próxima serie de Harry Potter.",
+   "idea": "Contenido 'qué ver + qué pedir' o merch temático con tono fan, sin usar marcas registradas en tus diseños."
   },
   {
    "termino": "la mansion vip",
    "color": "verde",
-   "por_que": "El reality genera conversación y votaciones en redes.",
-   "idea": "Creadores y marcas de entretenimiento: encuestas y memes del programa con tono ligero, sin burlarse de participantes."
+   "por_que": "El reality genera votaciones y conversación diaria en redes.",
+   "idea": "Encuestas y memes ligeros del programa; evita burlarte de los participantes."
+  },
+  {
+   "termino": "the body netflix",
+   "color": "verde",
+   "por_que": "Nueva serie juvenil de Netflix con buenas críticas.",
+   "idea": "Creadores de moda y estilo: looks inspirados en la estética Y2K de la serie."
+  },
+  {
+   "termino": "nuevo renault 4",
+   "color": "verde",
+   "por_que": "Inicio de ventas del Renault 4 eléctrico en Colombia.",
+   "idea": "Contenido útil sobre movilidad eléctrica: carga en casa, accesorios y costos de uso."
+  },
+  {
+   "termino": "rocky",
+   "color": "verde",
+   "por_que": "La película cumple 50 años y vuelve a la conversación por su nueva cinta biográfica.",
+   "idea": "Gimnasios y marcas fitness: retos de entrenamiento 'estilo Rocky' con tono motivador."
   }
  ],
  "audiencias": {
@@ -1008,31 +1008,31 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 31134,
+   "busqueda": "envío gratis Black Friday",
+   "total": 3114,
    "anunciantes": [
     {
-     "nombre": "TecnoSuper.col",
-     "url": "https://www.facebook.com/ads/library/?id=2343749019703938"
+     "nombre": "OceanDrop",
+     "url": "https://www.facebook.com/ads/library/?id=1675851474337345"
     },
     {
-     "nombre": "Mega Ofertas",
-     "url": "https://www.facebook.com/ads/library/?id=1482993130429657"
+     "nombre": "Beppa.col",
+     "url": "https://www.facebook.com/ads/library/?id=1791127718670136"
     },
     {
-     "nombre": "Veranera Pilates Studio",
-     "url": "https://www.facebook.com/ads/library/?id=1469647355111415"
+     "nombre": "Pragmata Beauty",
+     "url": "https://www.facebook.com/ads/library/?id=2011258799545064"
     },
     {
-     "nombre": "Bless & Beauty Medicina Estética",
-     "url": "https://www.facebook.com/ads/library/?id=1657430762597620"
+     "nombre": "Dulce Hogar",
+     "url": "https://www.facebook.com/ads/library/?id=2127102828195901"
     },
     {
-     "nombre": "Luminus Dental Studio",
-     "url": "https://www.facebook.com/ads/library/?id=1632786521875927"
+     "nombre": "Mirium",
+     "url": "https://www.facebook.com/ads/library/?id=1139420731902882"
     }
    ],
-   "patron": "Dos patrones dominan: tecnología (consolas, televisores) a cuotas con crédito de consumo, y tiendas en línea con 'envío gratis a toda Colombia' y pago contra entrega. Servicios locales como estudios de pilates, estética y odontología también se suman con su propio Black Friday de barrio."
+   "patron": "Tiendas en línea de nicho dominan: el titular repite 'ENVÍO GRATIS' y 'pago contraentrega a toda Colombia' junto al porcentaje de descuento (20% a 50%). Calzado en cuero, maquillaje de marcas importadas y productos de limpieza para el hogar pautan muchas variantes del mismo anuncio, y ya aparecen ganchos navideños como 'el amigo secreto resuelto'."
   },
   {
    "busqueda": "regalos de Navidad",
@@ -1125,6 +1125,17 @@
   "Jenny López, esposa de Jhonny Rivera, habló sobre la dolorosa pérdida que vivieron sus padres y que dio un giro en su hogar",
   "sinuano noche",
   "“EPM es y tiene que seguir siendo cien por ciento pública”: Manuel Villa | El Colombiano",
-  "“Nuevo cambio de postura”: Rodrigo Lara le cobra a Claudia López su cambio de opinión sobre el metro de Bogotá"
+  "“Nuevo cambio de postura”: Rodrigo Lara le cobra a Claudia López su cambio de opinión sobre el metro de Bogotá",
+  "Se conocen nuevos detalles del supuesto plan en la DNI para alterar los resultados y favorecer a Iván Cepeda | El Colombiano",
+  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
+  "Incautan casi tres toneladas de cocaína ocultas en banano y café con destino a Bélgica",
+  "Descubrieron 2,5 millones de dosis de cocaína encaletadas en un contenedor de café | El Colombiano",
+  "EE.UU. exigió explicaciones a Nvidia por presunto desvío de chips de inteligencia artificial a China",
+  "Denuncian que cinco perros fueron quemados en Santa Rosa",
+  "El Ministerio de Educación pondrá ‘bajo la lupa’ a la Universidad del Magdalena por el posgrado de Jaime Vives: revisarán cómo obtuvo el título",
+  "Alcantarillado, vías rurales, educación e inseguridad, entre las principales preocupaciones de Ponedera: Isabella Pulgar",
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
+  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
+  "caribeña noche hoy"
  ]
 }

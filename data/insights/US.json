@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Estados Unidos entra en la cuenta regresiva de Thanksgiving (26 de noviembre) y Black Friday con Amazon estirando su evento a 12 días y ofertas anticipadas de hasta 75%, mientras crecen las advertencias sobre fraudes en compras navideñas. El clima es protagonista: El Niño, tormentas de invierno y olas gigantes en California cambian planes de viaje y compras de temporada. GTA VI y los premios de cine dominan el entretenimiento. Para la comunidad hispana es el momento de planear regalos y envíos a Latinoamérica con fechas límite claras.",
+ "lectura": "La semana en Estados Unidos tiene dos fechas fuertes: el lanzamiento de GTA VI el jueves 19 y el arranque de la temporada navideña con Thanksgiving (26) y Black Friday (27); Amazon ya estiró su evento a 12 días y los minoristas adelantan ofertas. El clima también pesa: tormentas en el oeste, frío y olas gigantes en California mueven búsquedas de abrigo y hogar. Ferias de artesanía y bazares navideños muestran el gusto por comprar local y regalos con historia. Ofertas claras, fechas límite de envío y contenido de entretenimiento conectan mejor esta semana.",
  "ideas_hoy": [
   {
-   "titulo": "Fecha límite para que llegue",
-   "idea": "Publica una tabla simple con la última fecha recomendada para que un regalo llegue a tiempo a cada país de Latinoamérica en Navidad. Es contenido que la diáspora guarda y comparte con la familia.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Compra segura, sin estafas",
-   "idea": "Las alertas por fraudes en compras navideñas están en las noticias. Comparte 5 señales de una tienda falsa y cómo verificar la tuya (dirección, reseñas, políticas). La confianza también vende.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Thanksgiving con sabor latino",
-   "idea": "A 10 días de Thanksgiving, muestra cómo las familias latinas mezclan el pavo con su sazón (pernil, tamales, ají). Ideal para restaurantes, tiendas de nostalgia y creadores de cocina.",
+   "titulo": "Semana GTA VI",
+   "idea": "GTA VI sale el jueves 19 y hay quienes piden días libres para jugar. Restaurantes, apps de delivery y tiendas de snacks o tecnología pueden lanzar un 'kit de lanzamiento' (combo, audífonos, cargadores) con un video corto.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Prepárate para el frío",
-   "idea": "Tormentas de invierno y nieve en el oeste: ropa térmica, cobijas, kits para el carro. Copy directo con envío rápido y beneficio concreto, en inglés y en español.",
+   "titulo": "Fechas límite de envío navideño",
+   "idea": "Con Black Friday adelantado y Thanksgiving el 26, publica ya tu calendario de envíos: hasta cuándo pedir para que llegue a tiempo, también a Latinoamérica. Reduce ansiedad y preguntas repetidas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Compra local en bazares",
+   "idea": "Las ferias de artesanía y bazares navideños llenan las noticias locales. Emprendedores pueden mostrar su stand o taller 'detrás de cámaras' y ofrecer pedidos en línea para quien no pudo ir.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Listos para la tormenta",
+   "idea": "Tormentas en el oeste y frío en buena parte del país. Ferreterías, hogar y moda: un post de 'lo que necesitas antes de la tormenta' con productos concretos y entrega rápida.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Noche de GTA VI",
-   "idea": "El juego más esperado sale esta semana. Snacks, delivery, accesorios gamer o tiendas de tecnología pueden armar un 'launch night bundle' y mostrarlo en un video corto.",
+   "titulo": "Bienestar antes de las fiestas",
+   "idea": "'Fitness' está entre las búsquedas con más tráfico. Gimnasios, entrenadores y marcas de suplementos pueden lanzar un reto de 10 días antes de Thanksgiving con rutinas cortas.",
    "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "el niño weather",
+   "termino": "gta vi game",
    "color": "verde",
-   "por_que": "Interés por cómo El Niño cambiará el invierno en cada región.",
-   "idea": "Hogar, ropa y ferretería: guías regionales de qué tener listo este invierno con tus productos."
-  },
-  {
-   "termino": "spacex starship rocket launch",
-   "color": "verde",
-   "por_que": "Gran conversación por el vuelo de prueba de Starship.",
-   "idea": "Marcas de tecnología y educación: ganchos de 'innovación' y curiosidades, sin exagerar promesas."
-  },
-  {
-   "termino": "winter storm",
-   "color": "amarillo",
-   "por_que": "Tormentas con nieve, lluvia y oleaje fuerte en el oeste.",
-   "idea": "Tono de servicio: preparación y envíos con tiempos realistas; evitar el humor con afectados."
-  },
-  {
-   "termino": "cliff booth",
-   "color": "verde",
-   "por_que": "Conversación de cine alrededor del personaje y la temporada de premios.",
-   "idea": "Cines, streaming y creadores: listas de películas para ver en Thanksgiving."
+   "por_que": "Lanzamiento de GTA VI el 19 de noviembre, uno de los estrenos más esperados de la historia.",
+   "idea": "Contenido de lanzamiento: combos, accesorios, 'checklist del gamer'. Evita usar logos o imágenes oficiales del juego."
   },
   {
    "termino": "fitness",
    "color": "verde",
-   "por_que": "Búsquedas de hábitos de ejercicio para llegar en forma a 2027.",
-   "idea": "Gimnasios, ropa deportiva y suplementos: retos de 30 días que empiecen antes de las fiestas."
+   "por_que": "Interés en evaluación física y barreras para hacer ejercicio.",
+   "idea": "Retos cortos y accesibles antes de las fiestas; tono inclusivo, sin culpas."
+  },
+  {
+   "termino": "alexandra daddario",
+   "color": "verde",
+   "por_que": "Su película está entre lo recomendado para ver en Disney+ este fin de semana.",
+   "idea": "Contenido 'qué ver + qué pedir' para planes en casa."
+  },
+  {
+   "termino": "sharad kapoor",
+   "color": "amarillo",
+   "por_que": "Un actor habla de su recuperación tras años de enfermedad.",
+   "idea": "No usarlo para promociones; tema personal y sensible."
+  },
+  {
+   "termino": "qwen4",
+   "color": "verde",
+   "por_que": "Alibaba presentó un nuevo modelo de IA que compite con los de EE. UU.",
+   "idea": "Agencias y tech: contenido explicativo sobre qué significa para negocios pequeños, sin exagerar."
   }
  ],
  "audiencias": {
@@ -1061,6 +1061,16 @@
   "Panic as fire rages in underground New York tunnel, causing huge smoke cloud",
   "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
   "US colleges struggle as international students turn away",
-  "Why Mamdani opposes RSS chief Mohan Bhagwat's NYC event"
+  "Why Mamdani opposes RSS chief Mohan Bhagwat's NYC event",
+  "Siblings of man in Texas run over by ICE agent say incident was \"intentional\": \"The videos show everything\"",
+  "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs",
+  "2 Americans die in suspected drowning incident in the Bahamas",
+  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
+  "Driver hits multiple parked cars, catches fire on East 60th Street in Savannah",
+  "N.Y.P.D. Fatally Shoots Driver Who Officers Said Was Ramming Cars",
+  "Construction workers help woman and infant escape Longview house fire",
+  "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chip exports",
+  "karely ruiz",
+  "alex bolt"
  ]
 }

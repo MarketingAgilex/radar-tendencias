@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos está en plena temporada de Sinterklaas: el nuevo Sint, interpretado por Gijs Naber, llegó entre multitudes y la intocht en Ámsterdam, con su stoomboot atascado por un puente, fue lo más comentado del fin de semana. Las familias ya preparan pakjesavond (5 de diciembre), y en Meta se multiplican anuncios de regalos personalizados y 'surprises' con fecha límite de pedido. Black Friday se adelanta en tecnología, deporte y planes móviles, y el aviso sobre leche UHT de Lidl recuerda la importancia de la confianza en el súper. Regalos con fecha de entrega asegurada y tono familiar ganan.",
+ "lectura": "Países Bajos vive en plena temporada de Sinterklaas: la llegada del Sint con un nuevo actor fue lo más buscado del fin de semana y pakjesavond (5 de diciembre) marca el calendario de regalos. A la vez, el Black Friday se adelanta con fuerte foco en baterías domésticas antes del fin de la saldering, energía y gaming. La competencia entre contratos dinámicos de energía y la retirada de un lote de leche UHT de Lidl muestran un consumidor atento a precio y seguridad. Regalos para el 5 de diciembre, ahorro energético y transparencia funcionan mejor hoy.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "El actor es el nuevo Sinterklaas y la noticia se volvió masiva.",
-   "idea": "Marcas familiares: contenido de bienvenida al Sint con tono cálido."
+   "por_que": "Nuevo actor de Sinterklaas, lo más buscado del fin de semana.",
+   "idea": "Contenido festivo y familiar de Sinterklaas; respeta la tradición."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La intocht y el stoomboot fueron lo más visto del fin de semana.",
-   "idea": "Juguetes, dulces y regalos: cuenta regresiva para pakjesavond."
+   "por_que": "La llegada del Sint abre la temporada de regalos.",
+   "idea": "Calendario de regalos y fechas límite para pakjesavond."
   },
   {
-   "termino": "max verstappen vdk",
+   "termino": "anwb",
    "color": "verde",
-   "por_que": "Nuevo acuerdo de patrocinio con una empresa neerlandesa.",
-   "idea": "Marcas B2B: el valor de las alianzas con figuras locales."
+   "por_que": "Competencia en contratos dinámicos de energía.",
+   "idea": "Comparativas y guías de ahorro con datos claros."
   },
   {
-   "termino": "houdbare melk lidl bacteriën",
+   "termino": "warmte",
+   "color": "verde",
+   "por_que": "Interés por dispositivos que detectan fugas de calor en casa.",
+   "idea": "Hogar y bricolaje: soluciones de aislamiento con precio."
+  },
+  {
+   "termino": "bruna",
    "color": "amarillo",
-   "por_que": "Aviso de seguridad sobre leche UHT de una marca de Lidl.",
-   "idea": "Alimentación: comunicar controles de calidad; nunca usar el caso para atacar a otra marca."
-  },
-  {
-   "termino": "de frogers",
-   "color": "verde",
-   "por_que": "Curiosidad por la familia del programa de televisión.",
-   "idea": "Contenido familiar ligero; marcas de hogar y ocio."
+   "por_que": "Búsqueda ambigua: puede referirse a la cadena de librerías y papelerías Bruna o a una marca de belleza brasileña.",
+   "idea": "Librerías y regalos: listas de libros para Sinterklaas; confirma el contexto antes de usar el término."
   }
  ],
  "audiencias": {
@@ -1194,32 +1194,46 @@
   "luchtvaart",
   "vliegtuig",
   "vliegtuigen",
-  "ziekenhuis"
+  "ziekenhuis",
+  "Voetbalwedstrijd in Druten loopt uit op vechtpartij; trainers houden kaken stijf op elkaar",
+  "Zwemmer zwaar mishandeld bij Kralingse Plas, mogelijk vergismishandeling",
+  "Coalitie heeft de oplossing nog niet: vanochtend verder in het Catshuis",
+  "Aantal incidenten met nepagenten weer fors toegenomen, babbeltrucs steeds slimmer",
+  "112-nieuws: Drukke ochtendspits | Auto rijdt spoor op | 40 procent meer incidenten met nepagenten",
+  "Zeker 11 doden na brand bij motorverhuurbedrijf op Thais eiland Phuket",
+  "LIVE | ’Derde Amerikaans vliegdekschip komt aan in Midden-Oosten’",
+  "Hoofdredactie: zorgpot niet bodemloos, grenzen aan solidariteit onvermijdelijk",
+  "De politie werkt samen met de man die autoruiten heeft ingeslagen in Ho Chi Minh-stad.",
+  "Vermoedelijke brandbom zet pand in Tilburg in brand: buren vluchten met baby naar buiten",
+  "Brand in huis Tilburg vermoedelijk aangestoken, buren met baby ontkomen",
+  "Vermoedelijke brandbom zet woning in Tilburg in brand: buren vluchten met baby naar buiten",
+  "file a28",
+  "eindhoven"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Op tijd voor pakjesavond",
-   "idea": "Los anunciantes ya dicen 'bestel vóór 28 nov'. Publica tu fecha límite para pakjesavond en grande y repítela en cada pieza: es el dato que el comprador busca.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Surprise met een twist",
-   "idea": "Las 'surprises' y regalos personalizados dominan los anuncios de Sinterklaas. Muestra cómo tu producto puede convertirse en una surprise casera con un poema corto.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "De nieuwe Sint",
-   "idea": "La llegada del nuevo Sint generó una conversación masiva. Marcas familiares: video cálido de 'primer zapato' con niños y tu producto como regalo, respetando la tradición.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Black Friday slim",
-   "idea": "Ofertas en Gymshark, Decathlon y planes sim only. Publica tus deals con precio final y condiciones claras de devolución, que el neerlandés valora mucho.",
+   "titulo": "Cadeautjes para pakjesavond",
+   "idea": "Con el Sint ya en el país, publica una guía de regalos por edad y presupuesto con la fecha límite de pedido para recibir antes del 5 de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kwaliteit die je kunt checken",
-   "idea": "Tras el aviso de Lidl sobre leche UHT, los consumidores valoran la trazabilidad. Marcas de alimentación: muestra de dónde viene tu producto y cómo lo controlas.",
+   "titulo": "Batería antes de la saldering",
+   "idea": "Las ofertas de baterías domésticas se multiplican antes del fin de la saldering. Instaladores y tiendas de energía pueden explicar en un video corto cuándo compensa la inversión.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Calor que no se escapa",
+   "idea": "Se busca cómo evitar que el calor se escape de la casa. Ferreterías pueden mostrar 3 arreglos baratos con su costo y el ahorro estimado.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Black November sin trampas",
+   "idea": "Muchas tiendas convierten noviembre entero en 'Black November'. Si lo haces, comunica qué producto rebajas cada semana y tu política de devoluciones, un tema que preocupa a los compradores.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Energía a la carta",
+   "idea": "La pelea por contratos dinámicos de energía entre proveedores es noticia. Asesores y comparadores pueden publicar una guía simple de cómo elegir.",
    "formato": "LinkedIn"
   }
  ]

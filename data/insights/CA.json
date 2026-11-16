@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá empieza la temporada de compras navideñas con inflación todavía alta y un consumidor que busca valor: Walmart, Amazon y Dyson ya mueven ofertas anticipadas de Black Friday y los mercados navideños locales llenan calles. El clima de invierno y las tormentas en la costa oeste marcan rutas y planes, mientras la música country, GTA VI y la cultura pop alimentan el entretenimiento. Twitch lanzó anuncios comprables en Canadá, una señal para marcas que venden a audiencias gamer. Mensajes de ahorro inteligente, compra local y envíos confiables encajan con el momento.",
+ "lectura": "En Canadá la conversación mezcla clima y entretenimiento: tormentas en la costa oeste, nieve en montaña y olas gigantes asociadas a El Niño, mientras GTA VI llega el 19 de noviembre. Walmart Canada y Amazon ya muestran ofertas anticipadas de Black Friday, y los reportes sobre salario mínimo y costo de vida explican un comprador que busca valor real. Twitch lanzó anuncios con compra directa en Canadá, una vía nueva para marcas que trabajan con creadores. Ofertas transparentes, productos de invierno y alianzas con streamers son las apuestas de la semana.",
  "ideas_hoy": [
   {
-   "titulo": "Holiday shopping con presupuesto",
-   "idea": "La inflación preocupa al inicio de las compras navideñas. Arma una guía de regalos por rangos de precio (bajo 25, 50 y 100 dólares) con envío incluido y la fecha límite para recibir antes del 24.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Lo local también es regalo",
-   "idea": "Mercados navideños y días sin impuestos atraen compradores a los centros urbanos. Pequeños negocios: muestra el detrás de cámaras de cómo empacas cada pedido, en inglés y francés si vendes en Quebec.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Tu tienda en Twitch",
-   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas de tecnología, snacks o merch gamer pueden probar una transmisión de lanzamiento de GTA VI con productos enlazados.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Kit de invierno para el carro",
-   "idea": "Con tormentas en el oeste y frío en el resto del país, un kit de emergencia para el auto (cobija, cargador, raspador) es regalo práctico. Copy claro con beneficio y precio.",
+   "titulo": "Precio honesto de temporada",
+   "idea": "Los reportes dicen que el salario mínimo no alcanza al costo de vida. Muestra el precio final con impuestos y envío desde el primer vistazo; en temporada de ofertas, la claridad diferencia.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Navidad latina en Canadá",
-   "idea": "La comunidad latina en Toronto, Montreal y Vancouver ya planea regalos para casa. Video sobre cómo enviar con tiempo y qué productos de su país extrañan más.",
+   "titulo": "Kit de invierno",
+   "idea": "Tormentas, nieve y lluvia en la costa oeste. Tiendas de ropa y hogar pueden armar un 'kit de invierno' con entrega rápida y mostrarlo en un video de 15 segundos.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Streamers que venden",
+   "idea": "Twitch activó anuncios con compra directa en Canadá. Marcas de gaming, snacks o tecnología pueden probar una colaboración con un streamer local para la semana de GTA VI.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Noche de lanzamiento",
+   "idea": "GTA VI sale el jueves 19. Restaurantes y delivery pueden lanzar un 'combo de lanzamiento' para la noche del estreno.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Navidad con la familia lejos",
+   "idea": "Muchas familias canadienses tienen raíces en Latinoamérica y Europa. Publica fechas límite para que los regalos lleguen antes del 24 y una guía de qué conviene enviar.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "el niño",
+   "color": "verde",
+   "por_que": "Olas gigantes en California y pronósticos de un El Niño intenso.",
+   "idea": "Contenido práctico de temporada (ropa, hogar, viajes) con datos verificados, sin alarmismo."
+  },
+  {
    "termino": "country music",
    "color": "verde",
-   "por_que": "Expectativa por los premios CMA y presentaciones de grandes artistas.",
-   "idea": "Moda western, botas y sombreros: contenido de estilo inspirado en la gala."
+   "por_que": "Los CMA Awards y la nueva película 'Heartland' ponen el country en tendencia.",
+   "idea": "Moda western, bares y eventos: noches temáticas o looks inspirados."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas con nieve, lluvia y oleaje en la costa oeste.",
-   "idea": "Servicio y preparación: productos de invierno y avisos de entregas, sin dramatizar."
-  },
-  {
-   "termino": "météo",
-   "color": "verde",
-   "por_que": "Quebec sigue de cerca el pronóstico y los vientos fuertes de la semana.",
-   "idea": "Marcas en Quebec: contenido en francés sobre preparación para el invierno."
+   "por_que": "Tormentas con nieve y lluvia en el oeste.",
+   "idea": "Mensajes de preparación con tono de servicio; nada de urgencia exagerada."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "El lanzamiento del videojuego más esperado mueve consolas y accesorios.",
-   "idea": "Tecnología y snacks: bundles de lanzamiento y contenido de 'noche de juego'."
+   "por_que": "Lanzamiento global el 19 de noviembre.",
+   "idea": "Combos y accesorios gamer; evita imágenes oficiales sin permiso."
   },
   {
-   "termino": "waves california coast",
+   "termino": "sharad kapoor",
    "color": "amarillo",
-   "por_que": "Olas gigantes en California llaman la atención por los videos.",
-   "idea": "Solo para marcas de surf o outdoor, con mensaje de seguridad; evitar el humor."
+   "por_que": "Tema personal de salud de un actor.",
+   "idea": "No usar en promociones."
   }
  ],
  "audiencias": {
@@ -1188,6 +1188,11 @@
   "Man found guilty of assaulting tourist along Vancouver seawall",
   "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
   "Viral Video Captures Reactions to UFC 334 Main Event",
-  "ronda rousey"
+  "ronda rousey",
+  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
+  "~~!!👙💋‍🌶️@~(.XXX-VIDEO.)™VIRAL Video Porimoni & Mehjabin intimate video Viral | Porimoni & Mehjabin viral video 3543",
+  "Parliamentary Secretary Chi highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
+  "First Chinese-Made EVs Arrive in Canada Under Deal Carney Struck With Xi",
+  "mark carney"
  ]
 }

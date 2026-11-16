@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España encara las dos semanas previas al Black Friday con prudencia: encuestas y la OCU apuntan a menos presupuesto, más comparación y sospecha de subidas de precio antes de la fecha, aunque el 91% dice que participará y la paquetería ya amplía rutas. La vivienda sigue siendo la gran preocupación cotidiana y el supermercado se vigila céntimo a céntimo. En el sofá mandan 'La Promesa' y las series turcas, y en redes el fenómeno de María Bonilla y su canción viral. Funciona el mensaje de compra planificada, precio honesto y entrega asegurada antes de Navidad.",
+ "lectura": "España afronta las dos semanas previas al Black Friday (27 de noviembre) con un consumidor más prudente: las encuestas dicen que baja el número de personas que piensa comprar y el gasto previsto, y la gente prioriza el precio sobre la fidelidad a la marca. Las tiendas estiran las ofertas a casi todo el mes y Correos Express prevé más envíos en Black Friday y Navidad. El entretenimiento televisivo (Supervivientes All Stars) y el tiempo, con lluvias y viento en Baleares, completan la conversación. Ofertas verificables, envíos fiables y argumentos de valor real funcionan mejor hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Precio de hoy, precio del Black",
-   "idea": "La OCU avisa de subidas antes de las rebajas. Publica hoy el precio de tus productos estrella y comprométete a que el 27 serán más baratos o iguales. Una pieza que se guarda y se comparte.",
+   "titulo": "Black Friday para indecisos",
+   "idea": "Baja el número de españoles que piensa comprar en Black Friday. Habla al indeciso: compara tu precio de hoy con el de octubre y explica por qué merece la pena, sin presionar.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Que llegue antes de Reyes",
-   "idea": "La paquetería amplía rutas por Black Friday y Navidad. Comunica fechas límite de pedido para Nochebuena y Reyes con un calendario visual sencillo.",
+   "titulo": "Mes entero de ofertas, bien contado",
+   "idea": "Muchas tiendas amplían el Black Friday a todo noviembre. Si lo haces, publica un calendario semanal con una categoría distinta cada semana para mantener el interés sin quemar margen.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lo pegadizo vende",
-   "idea": "La canción de María Bonilla arrasa en TikTok. Marcas desenfadadas pueden subirse al audio con un sketch de 'cuando por fin llega tu pedido', sin forzar el producto.",
+   "titulo": "Envíos de Navidad con margen",
+   "idea": "Correos Express prevé crecer un 6,6% en Black Friday y Navidad. Comunica ya tus plazos de entrega y la fecha límite para recibir antes de Nochebuena.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Chimenea sin obras y calorcito",
+   "idea": "Productos de calefacción baratos y sin instalación protagonizan los chollos del día. Tiendas de hogar pueden mostrar alternativas para el frío con consumo explicado.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Martes de Promesa",
-   "idea": "'La Promesa' es cita diaria para muchos hogares. Marcas de alimentación, té o mantas: 'tu merienda para ver La Promesa' con tono cálido y cercano.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Black Friday con lupa",
-   "idea": "Los españoles gastarán menos y compararán más. En LinkedIn, comparte cómo una pyme puede competir sin destrozar margen: packs, envío gratis o regalo en vez de descuentos agresivos.",
-   "formato": "LinkedIn"
+   "titulo": "Reality de sobremesa",
+   "idea": "Supervivientes All Stars vuelve a la conversación. Marcas de alimentación y ocio pueden subirse con encuestas ligeras o un '¿quién aguantaría en la isla?' con tu producto.",
+   "formato": "Historias con encuesta"
   }
  ],
  "semaforo": [
   {
-   "termino": "el independiente",
-   "color": "verde",
-   "por_que": "Búsquedas sobre el avance semanal de la serie 'La Promesa'.",
-   "idea": "Hogar y alimentación: contenido de 'plan de tarde' con la serie como gancho."
-  },
-  {
-   "termino": "vivienda",
+   "termino": "boe",
    "color": "amarillo",
-   "por_que": "Preocupación por la falta de casas disponibles y el precio de la vivienda.",
-   "idea": "Inmobiliarias, reformas y decoración: tono empático y soluciones prácticas, sin opinar de política."
+   "por_que": "Búsqueda ambigua (Boletín Oficial del Estado o Banco de Inglaterra).",
+   "idea": "No es un tema para marcas de consumo; solo despachos y gestorías pueden aprovecharlo con contenido útil."
   },
   {
-   "termino": "supermercado",
-   "color": "verde",
-   "por_que": "Interés por aperturas de supermercados y precios de la cesta.",
-   "idea": "Marcas de alimentación: recetas económicas y packs ahorro."
+   "termino": "tumor",
+   "color": "amarillo",
+   "por_que": "Interés por un estudio médico sobre inflamación y cáncer.",
+   "idea": "Tema de salud sensible: evita usarlo en promociones."
   },
   {
-   "termino": "twitch",
+   "termino": "sandra barneda",
    "color": "verde",
-   "por_que": "Conversación sobre creadores, Twitch y las comisiones de plataformas.",
-   "idea": "Marcas gamer y tecnológicas: colaboraciones con streamers para el lanzamiento de GTA VI."
+   "por_que": "Supervivientes All Stars genera conversación.",
+   "idea": "Memes y encuestas ligeras de televisión, sin atacar a concursantes."
   },
   {
-   "termino": "valentín fuster",
+   "termino": "antena 3 noticias",
    "color": "verde",
-   "por_que": "Interés por sus consejos de salud y calidad de vida.",
-   "idea": "Wellness: hábitos sencillos y realistas, sin promesas médicas."
+   "por_que": "La gente busca efemérides y noticias del día.",
+   "idea": "Contenido 'tal día como hoy' conectado con la historia de tu marca."
+  },
+  {
+   "termino": "pronóstico del tiempo",
+   "color": "verde",
+   "por_que": "Calor antes de lluvias y viento fuerte en Mallorca.",
+   "idea": "Moda y hogar en Baleares: 'qué necesitas esta semana'."
   }
  ],
  "ocultar": [
@@ -157,7 +157,20 @@
   "La Guardia Urbana desaloja la acampada de la plaza Catalunya de Barcelona",
   "Seis meses de la epidemia del ébola: alertan que puede convertirse en un brote que afecte a toda África",
   "frente polisario",
-  "sindicato"
+  "sindicato",
+  "El PSOE remonta pero no altera la mayoría de la derecha",
+  "Yolanda Díaz aspira a convertirse en la primera mujer y española al frente de la OIT",
+  "Vox se queda a medias en sus esfuerzos por suavizar su discurso para no dar miedo",
+  "Un parking, un viaje a Portugal y los cordones de un zapato: la investigación que dio con los ‘topos’ del CNI",
+  "Abascal advierte a Sánchez de que el resultado de las urnas «se aceptará si no hay trampas»",
+  "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
+  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
+  "Dos personas son trasladadas al Hospital de Salamanca tras el choque en cadena de tres turismos y el atropello de dos perros",
+  "El PSOE propone un impuesto a los viajes de lujo en megayates, 'jets' privados y vuelos en clase 'business'",
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
+  "Charla sobre la violencia machista en la historia del arte en El Franco",
+  "ucrania",
+  "centro nacional de inteligencia"
  ],
  "audiencias": {
   "general": {

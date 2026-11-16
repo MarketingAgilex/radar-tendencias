@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia se calienta para el Black Friday con liquidaciones anticipadas de smartphones, consolas y electrónica: Amazon y Cdiscount compiten por el comprador y la PS5 se mueve fuerte antes del lanzamiento de GTA VI, un fenómeno que los medios describen como acontecimiento de sociedad. En casa, Star Academy y N'oubliez pas les paroles reúnen audiencias, y crece el interés por comprar y reformar casas antiguas. El cierre prolongado de la A13 complica la movilidad al oeste de París. Ofertas claras, reacondicionados y entregas fiables conectan con un consumidor atento al precio.",
+ "lectura": "En Francia el Black Friday ya funciona como inicio de las compras navideñas: los medios destacan que los franceses 'compran Navidad en noviembre', con ofertas fuertes en tecnología, hogar y bicicletas. GTA VI, que sale el jueves 19, está en todas partes, al punto de que algunos asalariados piden vacaciones para jugar. Star Academy y los programas de televisión siguen fuertes, y el pádel vive un auge con nuevos clubes. Ofertas claras para regalos, contenido gamer y propuestas de ocio activo encajan bien hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Le reconditionné, malin",
-   "idea": "Los smartphones reacondicionados aparecen entre las mejores ofertas del Black Friday. Explica en un carrusel garantía, estado y ahorro frente a nuevo: argumento de precio y de sostenibilidad.",
+   "titulo": "Noël dès novembre",
+   "idea": "Los franceses adelantan sus compras de Navidad al Black Friday. Publica una guía de regalos por presupuesto (moins de 30, 50 y 100 €) y la fecha límite de entrega para Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Prêt pour GTA VI",
-   "idea": "El lanzamiento de esta semana mueve consolas y accesorios. Bundle 'soirée de lancement' con entrega antes del día D y precio final visible.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Star Academy en directo",
-   "idea": "El programa genera conversación cada semana. Marcas de belleza y moda: reto de look o encuesta del prime, con tono ligero.",
+   "titulo": "Congé GTA VI",
+   "idea": "Algunos asalariados piden días libres para jugar GTA VI. Restaurantes, delivery y tiendas tech pueden lanzar un 'pack sortie GTA VI' para la noche del jueves 19.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Rénover avec petit budget",
-   "idea": "La historia de una pareja que compró y reformó una casa antigua engancha. Ferreterías, decoración y artesanos: antes y después con costes realistas.",
+   "titulo": "La fiebre del pádel",
+   "idea": "El pádel crece en Francia aunque los clubes enfrentan retos. Tiendas deportivas y marcas de ropa pueden lanzar una guía para principiantes con su primer equipo.",
    "formato": "Reel"
   },
   {
-   "titulo": "A13 fermée, livraison assurée",
-   "idea": "Con la autopista cerrada durante meses, comercios del oeste de París pueden comunicar alternativas de entrega o retiro en tienda.",
-   "formato": "Historias Instagram"
+   "titulo": "Star Academy en casa",
+   "idea": "Star Academy reúne audiencia cada semana. Marcas de belleza y snacks pueden hacer dinámicas de votación o un 'look del prime'.",
+   "formato": "Historias con encuesta"
+  },
+  {
+   "titulo": "Hecho en Francia, explicado",
+   "idea": "Fabricar en Francia sin disparar costos es noticia. Marcas locales pueden contar su proceso y por qué su precio es el que es: el origen vende cuando se explica.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa reúne audiencia y conversación cada semana.",
-   "idea": "Moda, belleza y snacks: contenido inspirado en los primes."
+   "por_que": "El programa genera conversación cada fin de semana.",
+   "idea": "Encuestas y contenido ligero sobre los primes, sin atacar a concursantes."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "El juego se presenta como el gran lanzamiento del año.",
-   "idea": "Tecnología, snacks y merch: bundles y cuenta regresiva."
+   "por_que": "Lanzamiento el 19 de noviembre, fenómeno global.",
+   "idea": "Packs de lanzamiento y accesorios; evita material oficial sin permiso."
   },
   {
-   "termino": "playstation 5 ps5",
+   "termino": "vache",
    "color": "verde",
-   "por_que": "Liquidaciones de stock de PS5 antes del lanzamiento.",
-   "idea": "Tiendas de tecnología: comparativas claras y accesorios complementarios."
+   "por_que": "Una vaca dio a luz a trillizos de colores distintos en el Jura y se volvió viral.",
+   "idea": "Productos lácteos y de origen: contenido tierno sobre el campo y los productores."
   },
   {
-   "termino": "maison",
+   "termino": "padel",
    "color": "verde",
-   "por_que": "Interés por comprar y reformar casas antiguas.",
-   "idea": "Decoración, bricolaje e inmobiliarias: contenido de antes y después."
+   "por_que": "Auge del pádel y de nuevos clubes.",
+   "idea": "Equipamiento, ropa y clases para principiantes."
   },
   {
-   "termino": "hugues aufray",
+   "termino": "thermalisme",
    "color": "amarillo",
-   "por_que": "Interés por el cantante y sus conciertos reprogramados.",
-   "idea": "Solo para marcas culturales o de música, con respeto."
+   "por_que": "Debate sobre el reembolso de las curas termales.",
+   "idea": "Spas y turismo de bienestar: información clara de precios, sin opinar sobre el debate."
   }
  ],
  "audiencias": {
@@ -1266,6 +1266,20 @@
   "mère",
   "ukraine",
   "« Guillaume Pley agresseur » : le spectacle « Legend Tour » perturbé par des militantes féministes ce dimanche soir à Paris",
-  "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire"
+  "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire",
+  "Présidentielle 2027 : Marine Le Pen assume sa volonté d’abandonner l’Ukraine en mettant fin aux aides françaises",
+  "Mélenchon, Le Pen, Attal… Que faut-il attendre de ce premier débat sur TF1 ?",
+  "Ukraine en direct : 600 drones lancés sur Moscou, le pont de Crimée touché par une frappe",
+  "L’Estonie va fermer sa frontière avec la Russie à partir du 1er décembre",
+  "\"Des étincelles tombaient du ciel comme de la pluie\" : la COP31 à l'épreuve des incendies à répétition dans la région d'Antalya",
+  "Les incertitudes électorales peuvent-elles avoir des conséquences sur les Bourses ?",
+  "Un antiallergique glissé dans le vagin : la tendance TikTok qui alarme les pharmaciens",
+  "Hockey sur glace. Le Canada va à l’encontre du Tribunal arbitral du sport et exclut la Russie des Mondiaux juniors",
+  "« Les entreprises vont plus mal que leur carnet de commandes » : le climat politique inquiète l’industrie française",
+  "Puces d'IA : consensus au Congrès pour durcir les exportations",
+  "sainte-soline",
+  "hongrie argent liquide",
+  "bruno le maire",
+  "lukas hässig"
  ]
 }

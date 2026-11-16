@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania vigila la factura: la subida de tarifas eléctricas desde enero sigue entre lo más buscado y empuja productos de ahorro energético y comparación de proveedores. A once días del Black Friday las ofertas anticipadas se concentran en Switch 2, smartwatches y electrónica, y los calendarios de Adviento (desde especias hasta herramientas) ya se anuncian con fuerza antes del primer domingo de Adviento, el 29 de noviembre. El llamado a revisión de 4,6 millones de autos del grupo VW, la nueva camiseta de la selección y GTA VI completan la conversación. Mensajes de valor verificable, eficiencia y regalo práctico encajan con el consumidor alemán.",
+ "lectura": "En Alemania la conversación de consumo gira en torno al bolsillo: muchas distribuidoras subirán el precio de la electricidad desde enero y el sector artesanal advierte de dificultades. Al mismo tiempo el Black Friday ya está en marcha con ofertas en Nintendo Switch 2, televisores OLED y tarifas móviles, y la Verbraucherzentrale da consejos para ahorrar de verdad. GTA VI llega el jueves 19 y el primer Adviento (29 de noviembre) abre la temporada de mercados navideños. Ahorro demostrable, eficiencia energética y regalos bien elegidos son la apuesta de hoy.",
  "semaforo": [
   {
-   "termino": "tv programm heute",
-   "color": "verde",
-   "por_que": "El plan de noche en casa con televisión sigue fuerte.",
-   "idea": "Snacks, bebidas y delivery: 'Fernsehabend' con tu producto."
+   "termino": "strompreise 2027",
+   "color": "amarillo",
+   "por_que": "Subidas de precio de la electricidad anunciadas para enero.",
+   "idea": "Contenido de ahorro energético útil; evita el miedo y las promesas exactas de ahorro."
   },
   {
    "termino": "gta grand theft auto",
    "color": "verde",
-   "por_que": "Gran expectativa por el lanzamiento del videojuego.",
-   "idea": "Tecnología y gaming: bundles y guías de preparación."
-  },
-  {
-   "termino": "strompreise 2027",
-   "color": "amarillo",
-   "por_que": "Preocupación por la subida de tarifas eléctricas desde enero.",
-   "idea": "Ahorro energético con cifras reales; evitar el alarmismo."
-  },
-  {
-   "termino": "trikot",
-   "color": "verde",
-   "por_que": "Filtración de la nueva camiseta de la selección alemana.",
-   "idea": "Tiendas deportivas: lista de espera y personalización; sin usar escudos oficiales sin licencia."
+   "por_que": "Gran expectativa por el lanzamiento de GTA VI el 19 de noviembre.",
+   "idea": "Accesorios, almacenamiento y packs para la noche del estreno."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Búsquedas de ofertas de la consola antes del Black Friday.",
-   "idea": "Tiendas gamer: comparativas de packs y accesorios."
+   "por_que": "Búsquedas de ofertas de la consola para Black Friday.",
+   "idea": "Bundles de regalo con accesorios y precio final claro."
+  },
+  {
+   "termino": "cathie wood",
+   "color": "amarillo",
+   "por_que": "Interés por movimientos de inversión en acciones de IA.",
+   "idea": "Solo contenido educativo financiero, sin recomendaciones de compra."
+  },
+  {
+   "termino": "nordisch.info",
+   "color": "verde",
+   "por_que": "Historia viral sobre la restauración de una cabaña de jardín centenaria.",
+   "idea": "Hogar, jardín y artesanía: contenido de restauración y oficio."
   }
  ],
  "audiencias": {
@@ -1260,32 +1260,48 @@
   "Wahrheitskommission zum Völkermord an den Jesiden nimmt in Berlin ihre Arbeit auf",
   "bielefeld",
   "jobcenter",
-  "windenergie"
+  "windenergie",
+  "\"Die Russen massakrieren die Alten\"",
+  "Vor Ausschlussantrag am Dienstag: Emde beklagt \"Rechtsruck\" innerhalb der Linken",
+  "Bundeshaushalt: Rechnungshofpräsident rät zu Milliardeneinsparungen bei Subventionen",
+  "COP31: Ukraine ist Vorreiter bei erneuerbarer Energie - Politik - SZ.de",
+  "Streit um Stromsteuer: Druck auf Merz aus CDU wächst – „Politik für das Land, nicht für die Genossen“",
+  "Grüne warnen vor \"Paywall\" für Arzttermine",
+  "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+  "Überraschungstreffen: Prinz Harry besucht verwundete Soldaten in der Ukraine",
+  "Asylpolitik: SPD-Bundestagsabgeordnete stellen sich gegen Abschiebezentrum in Ruanda",
+  "Französischer Senat stimmt höherer Steuer auf süße alkoholische Getränke mit bis zu 25 Vol.-% zu",
+  "Logistik: Brüssel plant Sicherheitszentrum für das Schwarze Meer",
+  "Planes collide at Miami runway crossing a day after national grounding",
+  "крымский мост",
+  "miami international airport",
+  "kanada",
+  "vergesellschaftung"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Strom sparen, konkret",
-   "idea": "Con la subida de la luz desde enero, muestra cuánto ahorra al año tu producto o servicio en euros. Cifras concretas y verificables convencen más que promesas.",
+   "titulo": "Strompreise 2027: ahorra ya",
+   "idea": "Muchas distribuidoras suben la luz desde enero. Tiendas de hogar y energía pueden publicar 5 formas de ahorrar electricidad con productos concretos y el ahorro estimado explicado con prudencia.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Adventskalender mit Sinn",
-   "idea": "Los calendarios de Adviento temáticos (especias, herramientas, aprendizaje) están por todas partes en Meta. Pequeños negocios: arma un calendario de 24 tips o mini-ofertas en redes desde el 1 de diciembre.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Black Week ohne Tricks",
-   "idea": "El consumidor desconfía de los descuentos. Publica tu precio de hoy y tu precio de Black Week lado a lado.",
+   "titulo": "Black Friday con lupa",
+   "idea": "La Verbraucherzentrale enseña a detectar ofertas falsas. Muestra el historial de precios de tus productos estrella y gana confianza.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Rückruf: Tipps für Autofahrer",
-   "idea": "El llamado a revisión del grupo VW genera dudas. Talleres y tiendas de accesorios: explica cómo comprobar si tu auto está afectado, con tono informativo.",
-   "formato": "LinkedIn"
+   "titulo": "Switch 2 y regalos gamer",
+   "idea": "Switch 2 con Mario Kart World y GTA VI están en la mira. Tiendas tech pueden armar paquetes de regalo con accesorios y tarjetas de memoria.",
+   "formato": "Reel"
   },
   {
-   "titulo": "GTA-Abend vorbereiten",
-   "idea": "Consolas, SSD y snacks para el lanzamiento de esta semana. Bundle claro con entrega rápida.",
+   "titulo": "Kaffee und Gesundheit",
+   "idea": "Estudios sobre café y salud están entre lo más leído. Cafeterías y tostadores pueden compartir datos curiosos de su origen y preparación, sin hacer promesas médicas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Cuenta atrás al Adviento",
+   "idea": "El primer domingo de Adviento es el 29 de noviembre. Lanza calendarios de Adviento o packs de regalo de pequeños productores con reserva anticipada.",
    "formato": "TikTok"
   }
  ]

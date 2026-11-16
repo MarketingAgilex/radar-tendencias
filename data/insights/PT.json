@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal llega a la recta final antes del Black Friday con un consumidor que quiere ahorrar en los regalos de Navidad sin comprar por impulso: guías sobre ofertas reales, tiendas falsas sugeridas por IA y presupuesto por regalo ocupan los titulares. Los cortes de luz programados y las lluvias en Madeira recuerdan la importancia de comunicar entregas con claridad. El fenómeno GTA VI dispara el tráfico de internet y las búsquedas de PlayStation, mientras la televisión (Big Brother, Cristina Ferreira) sigue marcando conversación. Precio honesto, envío fiable y tono cercano son la clave.",
+ "lectura": "Portugal entra en la semana con aviso amarillo por lluvia fuerte en seis distritos y una conversación sobre casas que no protegen del frío, lo que impulsa búsquedas de calefacción y aislamiento. El Black Friday ya se instala en la agenda con guías de compra (freidoras de aire, auriculares, portátiles) y PlayStation anticipa descuentos; la precarga de GTA VI, que sale el jueves 19, batió récords de tráfico de internet. La Aveiro Tech Week (16 a 22 de noviembre) pone la IA en el centro, y las telenovelas y Big Brother mantienen la audiencia. Utilidad para el frío, ofertas claras y contenido gamer son la apuesta de hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Natal sem impulso",
-   "idea": "Los medios recomiendan ahorrar en los regalos sin compras impulsivas. Publica una guía de regalos por presupuesto (até 20, 50 e 100 euros) con fecha límite de entrega antes del 24.",
+   "titulo": "Casa quente, conta controlada",
+   "idea": "Las casas portuguesas protegen poco del frío y la lluvia vuelve con aviso amarillo. Tiendas de hogar pueden publicar 5 soluciones baratas (burletes, cortinas térmicas, mantas) con precios claros.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "¿Tienda real o falsa?",
-   "idea": "Crecen las alertas sobre tiendas falsas recomendadas por asistentes de IA. Muestra tus datos de empresa, reseñas y políticas: la confianza se convierte en ventaja frente al Black Friday.",
+   "titulo": "Guía de airfryer para Black Friday",
+   "idea": "Las guías para elegir freidora de aire están entre lo más leído. Tiendas de electrodomésticos pueden hacer una comparativa honesta de 3 modelos según el tamaño de la familia.",
    "formato": "Reel"
   },
   {
-   "titulo": "Modo GTA VI",
-   "idea": "El precarga del juego batió récords de tráfico. Tecnología, snacks y accesorios: bundle de lanzamiento con entrega rápida para esta semana.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Big Brother en casa",
-   "idea": "El reality concentra conversación. Restaurantes y delivery: combo para la gala con encuesta de quién se salva.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Cuando se va la luz",
-   "idea": "Con cortes de electricidad programados, power banks, lámparas recargables y respaldo de datos son útiles. Tono de servicio, sin alarmismo.",
+   "titulo": "Noche de GTA VI",
+   "idea": "GTA VI sale el jueves 19 y la precarga batió récords de tráfico. Restaurantes y delivery pueden lanzar un combo para la noche del estreno; tiendas tech, accesorios y almacenamiento.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "IA para pymes en Aveiro",
+   "idea": "La Aveiro Tech Week arranca hoy con foco en IA y ciberseguridad. Consultores y agencias pueden compartir un caso práctico corto de IA aplicada a un pequeño negocio.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Regalos de Navidad desde ya",
+   "idea": "Los medios ya calculan cuántos regalos de Navidad compra cada portugués. Lanza una lista de ideas por presupuesto y tu fecha límite de envío.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "controle de tráfego aéreo",
-   "color": "amarillo",
-   "por_que": "Interés por la suspensión temporal de vuelos en Estados Unidos, ya resuelta.",
-   "idea": "Agencias de viaje: información práctica sobre retrasos y reembolsos, sin dramatizar."
+   "termino": "páginas da vida",
+   "color": "verde",
+   "por_que": "La telenovela genera conversación diaria.",
+   "idea": "Contenido ligero de 'team' y reacciones, sin spoilers agresivos."
+  },
+  {
+   "termino": "inteligência artificial",
+   "color": "verde",
+   "por_que": "Aveiro Tech Week del 16 al 22 de noviembre con foco en IA.",
+   "idea": "Casos prácticos de IA para negocios pequeños, sin promesas exageradas."
+  },
+  {
+   "termino": "ana marques",
+   "color": "verde",
+   "por_que": "La presentadora vuelve a estudiar a los 55 años.",
+   "idea": "Formación y educación: mensajes de 'nunca es tarde para aprender'."
+  },
+  {
+   "termino": "frio",
+   "color": "verde",
+   "por_que": "Debate sobre casas poco aisladas frente al frío.",
+   "idea": "Hogar y energía: soluciones concretas y baratas, con tono empático."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Búsquedas sobre cortes de luz programados por zonas.",
-   "idea": "Tecnología y hogar: soluciones de energía portátil con tono de servicio."
-  },
-  {
-   "termino": "granizo",
-   "color": "amarillo",
-   "por_que": "Búsquedas sobre granizo, en parte ligadas al tiempo en Brasil.",
-   "idea": "Solo contenido útil de clima; poco vínculo comercial directo."
-  },
-  {
-   "termino": "cristina ferreira",
-   "color": "verde",
-   "por_que": "La presentadora y sus programas generan conversación de televisión.",
-   "idea": "Creadores de entretenimiento: reacciones ligeras y respetuosas."
-  },
-  {
-   "termino": "playstation",
-   "color": "verde",
-   "por_que": "El lanzamiento de GTA VI dispara búsquedas de consola y accesorios.",
-   "idea": "Tiendas de tecnología: bundles y comparativas de almacenamiento."
+   "por_que": "Cortes de electricidad programados en varias zonas.",
+   "idea": "Solo contenido útil (power banks, linternas, respaldo) sin alarmismo."
   }
  ],
  "ocultar": [
@@ -148,7 +148,17 @@
   "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa",
   "Representantes do comércio de Lisboa recebidos por Moedas incluem deputados do PSD",
   "starlink",
-  "suzane von richthofen"
+  "suzane von richthofen",
+  "Futuro partido de Isaltino atacado por todos",
+  "Orçamento de continuidade e que continua a não chegar a todos",
+  "\"É politicamente inaceitável que o hospital central de uma capital de distrito continue a operar num edifício completamente esgotado na sua capacidade física” - Chefes de serviço da ULSRA.",
+  "Cristina Flores recebe 8,8 milhões para estudar como a migração molda as línguas",
+  "Plano de Emergência para a Saúde. IGAS iliba Eurico Castro Alves e considera pagamentos legais",
+  "Ao manter Ana Paula Martins, Montenegro é \"corresponsável\" da situação na saúde",
+  "Ex-namorada de Russell Brand diz que ator a obrigava a escovar os dentes até sangrar",
+  "bombeiro",
+  "prisão",
+  "carolina carvalho"
  ],
  "audiencias": {
   "general": {

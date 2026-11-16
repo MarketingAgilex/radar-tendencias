@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El británico vive una semana de frío, nieve y alertas sanitarias por bajas temperaturas: el tiempo es la búsqueda número uno y empuja calefacción, ropa de abrigo y planes en casa. Strictly Come Dancing domina la conversación de los fines de semana, y GTA VI llega con polémica por su edición física. A once días del Black Friday, el comprador mantiene presupuestos ajustados para Navidad y busca valor en ofertas anticipadas; las tiendas departamentales que cierran y las grandes cadenas que reajustan locales muestran un retail en cambio. Mensajes de calidez, valor real y entrega a tiempo funcionan mejor.",
+ "lectura": "Reino Unido empieza la semana mirando el cielo: avisos de nieve, hielo y alertas sanitarias por frío dominan las búsquedas, y Strictly Come Dancing sigue siendo la gran conversación de entretenimiento. En compras, los 'dupes' de lujo a precio bajo son la tendencia navideña, los precios de la vivienda bajan más de lo habitual en noviembre y el Black Friday ya se adelanta. GTA VI llega el jueves 19 y las luces de Navidad de Carnaby Street abren la temporada. Valor por dinero, utilidad para el frío y tono festivo pero sensato funcionan mejor hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Cosy week ahead",
-   "idea": "Con alertas por frío y nieve, el plan es quedarse en casa. Mantas, velas, té o comfort food: un video 'cosy night in' con tu producto y entrega rápida.",
+   "titulo": "Ready for the cold snap",
+   "idea": "Avisos de nieve y frío en buena parte del país. Tiendas de ropa y hogar pueden promocionar un 'cold snap kit' (capas térmicas, mantas, bolsas de agua caliente) con entrega al día siguiente.",
    "formato": "Reel"
   },
   {
-   "titulo": "Strictly sofa night",
-   "idea": "Strictly Come Dancing es cita fija. Marcas de snacks, bebidas o moda: encuesta de favoritos y look inspirado en la pista, con tono divertido.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Regalos con presupuesto",
-   "idea": "Los británicos planean gastar unas 103 libras en sus seres más cercanos. Guía de regalos por debajo de 25, 50 y 100 libras con fechas límite de envío navideño.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Edición física, con todo",
-   "idea": "La edición física de GTA VI decepciona a algunos. Tiendas de tecnología: aclara qué incluye cada versión que vendes. La transparencia gana.",
+   "titulo": "El dupe honesto",
+   "idea": "Las alternativas baratas a productos de lujo son la tendencia navideña. Si tu producto es una alternativa de calidad, cuéntalo sin copiar marcas: destaca materiales, origen y precio.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Retail que se reinventa",
-   "idea": "Cierres de tiendas departamentales y cambios en grandes cadenas: en LinkedIn, comparte cómo una pequeña marca puede vender online y en pop-ups navideños sin el coste de un local fijo.",
-   "formato": "LinkedIn"
+   "titulo": "Strictly night in",
+   "idea": "Strictly Come Dancing sigue dominando los sábados. Delivery, supermercados y marcas de snacks pueden lanzar un 'Strictly night in bundle' y encuestas sobre los bailes.",
+   "formato": "Historias con encuesta"
+  },
+  {
+   "titulo": "Lights on, shopping on",
+   "idea": "Las luces navideñas de Carnaby Street abrieron la temporada. Comercios de calle pueden invitar a una noche de compras con descuentos para clientes locales.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Semana GTA VI",
+   "idea": "GTA VI sale el jueves 19 y los jugadores liberan espacio en sus consolas. Tiendas tech pueden ofrecer discos SSD, mandos y auriculares con un mensaje de 'listo para el lanzamiento'.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Búsquedas masivas por nieve, hielo y alertas de frío.",
-   "idea": "Ropa de abrigo, calefacción y delivery: contenido práctico con entrega rápida."
+   "por_que": "Avisos de nieve y alertas por frío en varias regiones.",
+   "idea": "Productos de invierno y servicios a domicilio con tono práctico; sin alarmismo."
   },
   {
-   "termino": "weather tomorrow",
+   "termino": "jaime winstone strictly come dancing",
    "color": "verde",
-   "por_que": "El tiempo de mañana decide planes y desplazamientos.",
-   "idea": "Contenido diario breve: 'lo que necesitas mañana' con tu producto."
+   "por_que": "Una de las concursantes más comentadas de Strictly.",
+   "idea": "Encuestas y contenido ligero; evita ataques personales."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
    "por_que": "El programa domina la conversación del fin de semana.",
-   "idea": "Moda, belleza y snacks: looks y planes de sofá inspirados en el show."
+   "idea": "Bundles para ver el programa en casa y retos de baile en redes."
   },
   {
-   "termino": "weather",
+   "termino": "gta vi map",
    "color": "verde",
-   "por_que": "Alertas por frío y cambios bruscos de temperatura.",
-   "idea": "Mensajes de bienestar en invierno y productos para el hogar."
+   "por_que": "Expectativa por GTA VI y su edición física antes del 19 de noviembre.",
+   "idea": "Accesorios y almacenamiento; no uses imágenes oficiales del juego."
   },
   {
-   "termino": "strictly come dancing week 8 results",
+   "termino": "carnaby street christmas lights",
    "color": "verde",
-   "por_que": "Interés por los resultados de la semana.",
-   "idea": "Encuestas y reacciones ligeras; no burlarse de participantes."
+   "por_que": "Encendido de las luces navideñas en Londres.",
+   "idea": "Comercio de calle: eventos de compras nocturnas y contenido festivo."
   }
  ],
  "audiencias": {
@@ -1172,6 +1172,20 @@
   "The City of London isn’t up for more Brexit trauma",
   "UK will have 'voice' but no vote on EU food rules in Brexit reset",
   "Viral Video Captures Reactions to UFC 334 Main Event",
-  "adam catterall"
+  "adam catterall",
+  "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+  "UK exposed to polycrisis of threats amid government ‘complacency’",
+  "Women prosecuted for abortions hail ‘historic day’ after receiving pardon",
+  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
+  "++🥕[Xnxx-Videos!#] New Pakistani Teacher Viral Video",
+  "5 Minute 14 Second Viral Video Mms || 5 minute 14 Second video",
+  "Russia recruits women from Africa to produce \"Shaheds\" under the guise of education and employment – investigation",
+  "Campaign calls for pets to be covered by domestic abuse protection orders",
+  "Harry hails wounded Ukrainians as 'role models' as he watches prospective Invictus athletes on surprise trip",
+  "david cameron",
+  "allowance",
+  "housing",
+  "katy perry justin trudeau",
+  "ed miliband"
  ]
 }

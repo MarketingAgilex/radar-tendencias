@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile pasa de la ola de calor a las lluvias: el pronóstico del tiempo, los cortes de luz programados en Santiago y el cierre de estaciones de la Línea 5 del Metro marcan la rutina y la forma de moverse. La conversación de compras gira hacia el Black Friday, con guías para revisar si los descuentos son reales y ofertas anticipadas en cruceros y pantallas. BancoEstado y su gift card de noviembre muestran el interés por beneficios concretos. Mensajes prácticos, despacho confiable y precios comparables conectan mejor con el chileno de hoy.",
+ "lectura": "Chile comienza la semana con el cierre de cinco estaciones de la Línea 5 del Metro, lluvias en el centro-sur y búsquedas del tiempo en varias ciudades: la movilidad y el clima marcan la agenda diaria. También se buscan subsidios y beneficios (Subsidio Eléctrico, la gift card de BancoEstado), señal de un consumidor atento a ahorrar. MasterChef y La Mansión VIP mueven la conversación de entretenimiento, y el Black Friday ya aparece con guías para revisar si los descuentos son reales. Mensajes prácticos, de ahorro verificable y servicio cercano funcionan mejor hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Del calor a la lluvia",
-   "idea": "El cambio brusco de temperatura obliga a ajustar el clóset. Tiendas de ropa: carrusel 'qué ponerse esta semana' con capas, parkas livianas y paraguas, con despacho rápido en Santiago.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Sin Línea 5, igual llegamos",
-   "idea": "Con estaciones cerradas, muchos buscan alternativas. Comunica retiro en tienda, despacho o horarios extendidos; un mensaje de 'te lo llevamos' alivia el trayecto.",
+   "titulo": "Línea 5 cerrada, nosotros llegamos",
+   "idea": "Con estaciones cerradas en la Línea 5, comercios del sector pueden avisar cómo llegar, ampliar delivery o retiro en tienda. Un post simple con mapa y horario resuelve y fideliza.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Descuento real o cuento",
-   "idea": "Los medios enseñan a revisar si las rebajas son reales. Muestra el historial de precio de tus productos estrella antes del Black Friday: transparencia que da confianza.",
+   "titulo": "Descuento real, no inflado",
+   "idea": "Los medios enseñan a comprobar si un descuento de Black Friday es real. Muestra el historial de precio de tus productos estrella; la transparencia es tu mejor anuncio.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Kit lluvia del sur",
+   "idea": "Hasta 100 mm de lluvia en Biobío, La Araucanía y Los Ríos. Tiendas de ropa, hogar y ferreterías del sur pueden promocionar impermeables, botas y calefacción con despacho rápido.",
    "formato": "Reel"
   },
   {
-   "titulo": "El bólido que todos grabaron",
-   "idea": "El bólido que iluminó el cielo se volvió viral. Marcas de tecnología y fotografía pueden aprovechar con tips para grabar el cielo nocturno con el celular.",
+   "titulo": "Cuentas de la luz",
+   "idea": "El Subsidio Eléctrico vuelve a abrir postulaciones pronto. Marcas de hogar y tecnología pueden compartir tips de ahorro de energía con productos concretos (ampolletas LED, enchufes inteligentes).",
    "formato": "TikTok"
   },
   {
-   "titulo": "Beneficio que suma",
-   "idea": "El interés por la gift card de BancoEstado demuestra que el chileno busca beneficios tangibles. Ofrece un regalo concreto por compra (envío gratis, accesorio) en vez de un porcentaje confuso.",
-   "formato": "Copy para anuncio"
+   "titulo": "Cocina con historia",
+   "idea": "MasterChef está en tendencia y una picada de comida chilena con 37 años de historia también es noticia. Restaurantes pueden mostrar su plato más tradicional y la historia detrás.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "bólido",
-   "color": "verde",
-   "por_que": "Videos de un bólido visible desde varias regiones se volvieron virales.",
-   "idea": "Contenido de curiosidad y astronomía; tecnología y fotografía con tips para grabar el cielo."
-  },
-  {
-   "termino": "pronóstico del tiempo",
-   "color": "verde",
-   "por_que": "Cambio de calor a lluvias y bajas temperaturas.",
-   "idea": "Ropa, calzado y hogar: recomendaciones según el clima con despacho rápido."
-  },
-  {
-   "termino": "tiempo",
-   "color": "amarillo",
-   "por_que": "Lluvias intensas previstas en el centro-sur.",
-   "idea": "Tono de servicio en Biobío, La Araucanía y Los Ríos: avisos de despacho y productos útiles, sin dramatizar."
-  },
-  {
-   "termino": "as",
-   "color": "amarillo",
-   "por_que": "Término ambiguo ligado a viajeros afectados por retrasos aéreos en Estados Unidos.",
-   "idea": "Solo para agencias de viaje: información práctica sobre retrasos y derechos del pasajero."
-  },
-  {
    "termino": "línea 5",
    "color": "amarillo",
-   "por_que": "Cierre de estaciones de la Línea 5 del Metro afecta traslados.",
-   "idea": "Comercios cercanos: avisos de horarios, delivery y retiro alternativo."
+   "por_que": "Cierre de cinco estaciones de la Línea 5 del Metro.",
+   "idea": "Avisos útiles de acceso, delivery y retiro; nada de humor con la molestia de los usuarios."
+  },
+  {
+   "termino": "maria pombo",
+   "color": "verde",
+   "por_que": "La influencer española apareció en MasterChef y generó comentarios.",
+   "idea": "Marcas de moda y belleza: contenido de estilo 'look de invitada'."
+  },
+  {
+   "termino": "subsidio",
+   "color": "verde",
+   "por_que": "Interés en la próxima postulación al Subsidio Eléctrico.",
+   "idea": "Tips de ahorro energético con productos concretos, sin prometer montos de subsidio."
+  },
+  {
+   "termino": "tiempo en curico",
+   "color": "verde",
+   "por_que": "Búsquedas del pronóstico local en la zona central.",
+   "idea": "Comercios regionales: 'qué necesitas para el clima de hoy'."
+  },
+  {
+   "termino": "la mansion vip",
+   "color": "verde",
+   "por_que": "El reality genera votaciones también en Chile.",
+   "idea": "Encuestas y memes ligeros con respeto."
   }
  ],
  "ocultar": [
@@ -130,7 +130,11 @@
   "Quién es quién: los aspirantes que este lunes expondrán ante la Corte para quedarse con el puesto de fiscal regional de Valparaíso",
   "coordinadora no más afp",
   "premio",
-  "ufc"
+  "ufc",
+  "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades",
+  "Reunión con Kast, almuerzo en Viñedo Chadwick y cóctel en el Club de Golf: la agenda de Jamie Dimon en Chile",
+  "Dramático rescate en Melipilla: familia con dos niños queda aislada por crecida del río Maipo y debe ser evacuada",
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR"
  ],
  "audiencias": {
   "general": {

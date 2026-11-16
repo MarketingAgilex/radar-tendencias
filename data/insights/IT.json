@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia entra en la semana del Black Friday anticipado: Amazon arranca el 19 de noviembre con doce días de ofertas, el volumen de negocio estimado ronda los 4.300 millones de euros y en Toscana una de cada dos familias planea comprar. El consumidor se informa sobre descuentos reales y nuevas reglas para pagar a plazos con PayPal, Klarna y Scalapay. Ballando con le Stelle y el Grande Fratello dominan la televisión, y GTA VI dispara la búsqueda de consolas y espacio de almacenamiento. Mensajes de ahorro verificable, seguridad en la compra online y entrega a tiempo para Navidad funcionan mejor.",
+ "lectura": "Italia arranca la semana con mal tiempo y alertas por lluvia en Roma y Campania, y con la televisión del fin de semana como gran tema: Ballando con le Stelle y sus polémicas dominan las búsquedas. El Black Friday se adelanta con fuerza en tecnología y belleza, y se esperan compras por unos 4.300 millones de euros en regalos con descuento. GTA VI sale el jueves 19 y en Meta los panettoni artesanales ya ocupan los anuncios de temporada. Ofertas de regalo bien explicadas, productos de tradición navideña y planes en casa conectan mejor hoy.",
  "semaforo": [
   {
-   "termino": "rai play ballando con le stelle",
-   "color": "verde",
-   "por_que": "Audiencia y conversación alrededor del programa.",
-   "idea": "Moda y belleza: looks inspirados en la pista."
+   "termino": "barbara d urso puzza",
+   "color": "amarillo",
+   "por_que": "Polémica televisiva entre personajes de Ballando con le Stelle.",
+   "idea": "Mejor no tomar partido; usa el programa en general, no la discusión."
   },
   {
-   "termino": "marco bocci",
+   "termino": "razzo",
    "color": "verde",
-   "por_que": "El actor es protagonista de la temporada de Ballando.",
-   "idea": "Creadores de entretenimiento: reacciones ligeras y respetuosas."
+   "por_que": "Fallo de un cohete que llevaba satélites de internet de Amazon.",
+   "idea": "Tech y educación: contenido divulgativo sobre satélites e internet."
   },
   {
-   "termino": "monica guerritore luca urso",
+   "termino": "jensen huang nvidia",
    "color": "verde",
-   "por_que": "Interés por los ensayos y la pareja del programa.",
-   "idea": "Contenido de entretenimiento; marcas solo con tono amable."
+   "por_que": "Debate sobre el posible regreso de Jensen Huang como CEO de Nvidia.",
+   "idea": "Finanzas y tech: análisis sobrio, sin recomendaciones de inversión."
   },
   {
-   "termino": "attacchi hacker",
+   "termino": "vanity fair",
    "color": "verde",
-   "por_que": "Búsquedas sobre cómo proteger dispositivos del hogar conectados.",
-   "idea": "Tecnología y seguros: guías prácticas de seguridad doméstica digital."
+   "por_que": "Interés por contenido de estilo y libros de celebridades.",
+   "idea": "Librerías y moda: listas de lectura y looks de temporada."
   },
   {
-   "termino": "rockstar games gta vi",
+   "termino": "cena",
    "color": "verde",
-   "por_que": "Preparativos para el lanzamiento del juego.",
-   "idea": "Tiendas gamer: checklist de almacenamiento y bundles."
+   "por_que": "La caminata después de cenar en Bari se volvió fenómeno social.",
+   "idea": "Wellness y calzado: retos de caminata grupal."
   }
  ],
  "audiencias": {
@@ -1097,42 +1097,54 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 134291,
+   "busqueda": "spedizione gratuita Black Friday",
+   "total": 5780,
    "anunciantes": [
     {
-     "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+     "nombre": "La Casa Del Bebè",
+     "url": "https://www.facebook.com/ads/library/?id=1450920893904730"
+    },
+    {
+     "nombre": "GeeKom-IT",
+     "url": "https://www.facebook.com/ads/library/?id=1029583486067501"
+    },
+    {
+     "nombre": "Luxor Home",
+     "url": "https://www.facebook.com/ads/library/?id=1657140205447246"
+    },
+    {
+     "nombre": "Kikko Utensili",
+     "url": "https://www.facebook.com/ads/library/?id=1808417190419700"
+    },
+    {
+     "nombre": "Revine Italia",
+     "url": "https://www.facebook.com/ads/library/?id=1471978238190326"
     }
    ],
-   "patron": "Gran volumen de anuncios activos; una misma marca outdoor ocupa los primeros resultados con decenas de variantes en inglés ('Black Friday Starts Now: Up to 62% Off'). La temporada ya está abierta y con mucha competencia en la subasta."
+   "patron": "El Black Friday ya corre con fechas límite explícitas ('fino al 30/11') y precios ancla ('49,90 €, poi 70 €'). Destacan puericultura, tecnología y regalos 'pensados': por ejemplo, un primer teléfono para niños sin internet. Varias marcas invitan a 'regalar antes y ahorrar' para adelantar la Navidad."
   },
   {
-   "busqueda": "regali di Natale",
-   "total": 5973,
+   "busqueda": "panettone artigianale",
+   "total": 799,
    "anunciantes": [
     {
-     "nombre": "Caseificio Valli Di Lanzo",
-     "url": "https://www.facebook.com/ads/library/?id=2210701126162824"
+     "nombre": "Taibi - Antiche Specialità Siciliane",
+     "url": "https://www.facebook.com/ads/library/?id=1152508647370862"
     },
     {
-     "nombre": "LILT Milano Monza Brianza",
-     "url": "https://www.facebook.com/ads/library/?id=2437379076672138"
+     "nombre": "Martinucci Laboratory",
+     "url": "https://www.facebook.com/ads/library/?id=2302357693880815"
     },
     {
-     "nombre": "Babywelt",
-     "url": "https://www.facebook.com/ads/library/?id=4028096394165079"
+     "nombre": "Pasticceria Dora dessert",
+     "url": "https://www.facebook.com/ads/library/?id=1133212916095674"
     },
     {
-     "nombre": "Librio",
-     "url": "https://www.facebook.com/ads/library/?id=1671271431222981"
-    },
-    {
-     "nombre": "Ischia Spaeh",
-     "url": "https://www.facebook.com/ads/library/?id=4070778816565330"
+     "nombre": "Dolcevita Pasticceria-Caffetteria",
+     "url": "https://www.facebook.com/ads/library/?id=1813828223292542"
     }
    ],
-   "patron": "Cestas personalizadas de productos típicos 'para todos los gustos y presupuestos', Navidad solidaria con panettone y pandoro, regalos personalizados para bebés y bienestar. Tono cálido y emocional, y comercios locales que anuncian que 'la Navidad ya llegó'."
+   "patron": "Pastelerías y productores regionales pautan el panettone como protagonista de las fiestas: sabores locales (pistacho siciliano), tradición desde hace décadas ('dal 1950') y variedad de gustos. El mensaje dominante es 'regala un panettone artesanal', con foco en el regalo más que en el descuento."
   }
  ],
  "ocultar": [
@@ -1231,33 +1243,41 @@
   "Usa, il Pentagono valuta un procedimento penale contro il generale Sylvia",
   "ingv terremoti",
   "paura volo easyjet",
-  "“Milano oltre i confini”, l’appello dell’ecosistema ambrosiano: “Una legge speciale per rafforzare la governance metropolitana”"
+  "“Milano oltre i confini”, l’appello dell’ecosistema ambrosiano: “Una legge speciale per rafforzare la governance metropolitana”",
+  "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+  "Alto Sebino, minorenne partorisce di nascosto in casa: bimba trovata morta",
+  "Nicola Re, il dialogo intercettato tra i due finti carabinieri: «L'hai spinto forte?». A Napoli la base dei mandanti: «Devono pagare tutti»",
+  "Ia, media: \"Usa e alleati firmano accordo per tutelare la supply chain dalla Cina\"",
+  "Masha e Orso bloccato su YouTube in Ucraina",
+  "Salma Hayek balla da sola in lingerie tra una ripresa e l'altra e il parrucchiere...",
+  "Controlli in agricoltura 2026: più ispettori contro il caporalato",
+  "gazzetta di benevento"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Sconto vero, garantito",
-   "idea": "Con muchas guías sobre cómo detectar descuentos falsos, publica el historial de precio de tus productos estrella antes del 19 de noviembre.",
+   "titulo": "Il regalo scontato",
+   "idea": "Se esperan 4.300 millones de euros en compras de regalos durante el Black Friday. Publica una selección de regalos por presupuesto y aclara la fecha límite de envío para Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Pagare a rate, spiegato",
-   "idea": "Cambian las reglas para pagar a plazos. Comercios online: explica en un video corto cómo funciona el pago fraccionado en tu tienda y qué costes tiene, sin letra pequeña.",
+   "titulo": "Panettone con storia",
+   "idea": "Los panettoni artesanales ya llenan los anuncios en Meta. Pastelerías y productores pueden contar su receta, sus horas de levado y ofrecer envío a otras ciudades.",
    "formato": "Reel"
   },
   {
-   "titulo": "Sabato da Ballando",
-   "idea": "El programa es cita fija. Marcas de moda, belleza y snacks: look o receta inspirados en la gala con encuesta de favoritos.",
-   "formato": "Historias Instagram"
+   "titulo": "Serata Ballando",
+   "idea": "Ballando con le Stelle domina la conversación. Delivery y marcas de snacks o belleza pueden hacer encuestas sobre la clasificación o un 'look de la puntata'.",
+   "formato": "Historias con encuesta"
   },
   {
-   "titulo": "Casa smart, casa sicura",
-   "idea": "Las búsquedas sobre cómo proteger electrodomésticos conectados crecen. Tiendas de tecnología: 5 pasos para asegurar router, cámaras y smart TV antes de regalar uno.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Pronto per GTA VI",
-   "idea": "Consolas, SSD y accesorios: guía de cuánto espacio liberar y bundle de lanzamiento con entrega rápida.",
+   "titulo": "Pioggia? Consegna a casa",
+   "idea": "Alerta amarilla por lluvia en Roma y prórroga en Campania. Restaurantes y comercios pueden activar ofertas de entrega a domicilio con un mensaje simple.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Quattro passi dopo cena",
+   "idea": "En Bari, caminar después de cenar se volvió fenómeno social. Marcas de calzado, wellness y cafeterías pueden proponer su propia caminata comunitaria y documentarla.",
+   "formato": "TikTok"
   }
  ]
 }

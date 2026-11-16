@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El argentino arranca la semana pendiente del clima: lluvias, tormentas y alertas en varias provincias cambian planes y rutinas. En el bolsillo, ANSES, el dólar y las fechas confirmadas del Black Friday y el Cyber Monday ordenan la agenda de compras, con municipios y Defensa del Consumidor difundiendo consejos para comprar seguro. Crece la compra de alimentos por apps y se venden marcas emblemáticas, señales de un consumo que se reacomoda. El streaming que salta a la tele, Masterchef Celebrity y La Noche de los Museos muestran ganas de entretenimiento y cultura.",
+ "lectura": "En Argentina el aguinaldo de diciembre lidera las búsquedas: la gente ya hace cuentas de cuándo cobra y cuánto, y eso anticipa compras de fin de año. El clima (lluvias en Buenos Aires, tormentas en el interior) y el dólar siguen en la conversación diaria. Las ventas de autos eléctricos crecieron más de 650% en el año y el entretenimiento en casa (The Chosen, The Body, MasterChef Celebrity) mantiene a la audiencia frente a la pantalla. Mensajes de cuotas claras, precios estables y planes para el aguinaldo conectan mejor hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Súper sin salir de casa",
-   "idea": "La compra de alimentos por apps crece. Almacenes y dietéticas: mostrá en un video cómo es pedir por WhatsApp o app, con el horario de entrega y el mínimo de compra bien claro.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Cyber Monday con data",
-   "idea": "Las fechas ya están confirmadas y los municipios dan consejos de compra segura. Publicá tu lista de precios de hoy y comprometete a no inflarlos antes: confianza en un mercado desconfiado.",
+   "titulo": "Plan aguinaldo",
+   "idea": "El aguinaldo es lo más buscado. Armá una guía 'qué hacer con el aguinaldo': un regalo, algo para la casa y un gusto, con tus productos y el precio final en cuotas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lluvia y plan B",
-   "idea": "Con tormentas y alertas en varias provincias, ofrecé retiro programado o envío a domicilio. Copy corto: 'Llueve, nosotros llevamos'.",
+   "titulo": "Precio en pesos, sin vueltas",
+   "idea": "La brecha entre dólar oficial y financiero vuelve a ser noticia. Si vendés, mostrá el precio en pesos y cuánto dura; la previsibilidad es un argumento de venta.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Del stream a la tele",
-   "idea": "El salto de Tomás Rebord a la TV abierta muestra cómo el streaming marca agenda. Marcas: probá un formato charla corta con un creador local en vez de un aviso clásico.",
+   "titulo": "Retro que vende",
+   "idea": "Los televisores de tubo vuelven a buscarse por nostalgia y videojuegos clásicos. Tiendas de segunda mano, coleccionistas y gamers pueden mostrar su catálogo retro con historia.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Galletitas con historia",
-   "idea": "La venta de una marca emblemática de galletitas despierta nostalgia. Emprendedores de alimentos: contá el origen de tu receta y por qué vale la pena cuidarla.",
+   "titulo": "Eléctricos al alza",
+   "idea": "Los patentamientos de autos eléctricos crecieron más de 650%. Talleres, cargadores y aseguradoras pueden explicar en 60 segundos qué cambia en el mantenimiento y los costos.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Día de lluvia, día de serie",
+   "idea": "Con lluvias y series en tendencia (The Chosen, The Body), restaurantes y delivery pueden lanzar un 'combo maratón' para la noche.",
    "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "clima",
+   "termino": "aguinaldo",
    "color": "verde",
-   "por_que": "Pronóstico con lluvias y nubosidad en Buenos Aires y el resto del país.",
-   "idea": "Ropa, calzado y delivery: contenido según el clima del día."
+   "por_que": "La gente busca fechas y montos del aguinaldo de diciembre.",
+   "idea": "Guías de compra y ahorro con tus productos; no prometas montos ni fechas oficiales."
   },
   {
-   "termino": "lluvia",
+   "termino": "clima cipolletti",
    "color": "verde",
-   "por_que": "Las lluvias del fin de semana siguen en la conversación.",
-   "idea": "Paraguas, camperas y envíos: 'no salgas, te lo llevamos'."
+   "por_que": "Búsquedas del pronóstico en la Patagonia norte.",
+   "idea": "Comercios regionales: productos para el clima del día."
   },
   {
-   "termino": "rocio robles",
-   "color": "amarillo",
-   "por_que": "Polémica de farándula entre figuras de reality.",
-   "idea": "Solo para creadores de entretenimiento; las marcas mejor no tomar partido."
+   "termino": "the chosen temporada 6",
+   "color": "verde",
+   "por_que": "Interés por la nueva temporada de la serie.",
+   "idea": "Contenido de recomendación para ver en familia; tono respetuoso."
   },
   {
-   "termino": "anses",
+   "termino": "the body netflix",
    "color": "verde",
-   "por_que": "Consultas sobre fechas de cobro de jubilaciones y asignaciones.",
-   "idea": "Comercios de barrio: promociones en los días de cobro con mensajes claros y respetuosos."
+   "por_que": "Serie juvenil de Netflix con buenas críticas.",
+   "idea": "Looks Y2K y contenido de estilo inspirado en la serie."
   },
   {
-   "termino": "tomas rebord",
+   "termino": "german martitegui",
    "color": "verde",
-   "por_que": "Su salto del streaming a la TV abierta genera conversación.",
-   "idea": "Marcas: aprovechar el auge del streaming con formatos de charla y creadores locales."
+   "por_que": "MasterChef Celebrity y su jurado generan conversación.",
+   "idea": "Gastronomía: recetas y desafíos 'estilo MasterChef' con tus productos."
   }
  ],
  "ocultar": [
@@ -121,7 +121,14 @@
   "Escándalo con Beligoy: de las SIRA para importar zapatos a la compra de una mansión en Villa Devoto",
   "granizo",
   "ufc",
-  "“La 40 por los 44″: una nueva travesía para homenajear a los marinos que dejaron la vida en el ARA San Juan"
+  "“La 40 por los 44″: una nueva travesía para homenajear a los marinos que dejaron la vida en el ARA San Juan",
+  "El Paraná superó el nivel de evacuación en Santa Fe y llegó a los 5,76 metros este domingo",
+  "Rocío Robles contó que su hermana desapareció al nacer en un hospital denunciado por tráfico de bebés: “No sabemos si está viva”",
+  "Denuncian que Federico Beligoy compró un departamento de lujo por US$ 490.000 | 15 de noviembre de 2026",
+  "De su frustrada inversión en La Plata al piso de lujo en Devoto: el patrimonio del árbitro Beligoy en la mira",
+  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
+  "chiqui tapia",
+  "rocio robles"
  ],
  "audiencias": {
   "general": {

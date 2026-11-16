@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Perú vive hoy el último día no laborable por la visita del papa León XIV, con Lima pendiente de rutas, horarios y transmisiones de la misa en Las Palmas: la movilidad y el consumo en casa marcan la jornada. El clima y los cortes de luz en Arequipa siguen entre lo más buscado, y la noticia de la salida de Entel del mercado y el alza de la tasa del BCRP ponen en agenda el bolsillo, los créditos y los planes móviles. Corazón Serrano estrena voz y la cumbia sigue siendo un gancho poderoso. Faltan 11 días para el Black Friday: conviene hablar de planeación y precio claro.",
+ "lectura": "Perú vive hoy el último día de la visita del papa León XIV, con jornada no laborable en Lima y Callao, rutas cerradas y miles de personas en la misa de Las Palmas; es un día de familia, calle y mucha conversación en redes. El clima también se busca mucho y el BCRP subió su tasa de referencia, algo que el consumidor sentirá en créditos y cuotas. Con la gratificación de diciembre en camino y el Black Friday del 27, el peruano compara precios y quiere saber cuánto pagará al final. Mensajes cercanos, respetuosos y con cuentas claras conectan mejor hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Feriado en casa, pedido a domicilio",
-   "idea": "Con el feriado y desvíos por la visita papal, mucha gente se queda en casa. Restaurantes y bodegas: promo de delivery para el almuerzo familiar con zonas de reparto claras.",
-   "formato": "Historias Instagram"
+   "titulo": "Día no laborable, delivery al toque",
+   "idea": "Con rutas cerradas por la misa del papa, muchos se quedan en casa o se mueven a pie. Restaurantes, pollerías y bodegas pueden activar un combo familiar con delivery y avisar zonas y horarios de atención.",
+   "formato": "Historias + WhatsApp"
   },
   {
-   "titulo": "Tu plan, explicado",
-   "idea": "La salida de Entel genera dudas sobre líneas y planes. Tiendas de celulares y accesorios pueden explicar qué revisar (portabilidad, equipos, garantías) sin dar por hecho cambios no anunciados.",
+   "titulo": "Cuotas claras tras la subida de tasa",
+   "idea": "El BCRP subió su tasa a 4,5%, y eso puede encarecer créditos. Si vendes en cuotas, publica un ejemplo simple del costo total; la transparencia genera confianza antes de la gratificación.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Crédito con cabeza",
-   "idea": "El alza de la tasa del BCRP impacta créditos y cuotas. Comercios que venden a plazos: contenido sobre cómo comparar cuotas antes del Black Friday y por qué conviene pagar al contado si se puede.",
-   "formato": "LinkedIn"
+   "titulo": "Gratificación con cabeza",
+   "idea": "La gratificación de diciembre está cerca. Arma una guía 'en qué invertir tu grati': un regalo para la familia, algo para el hogar y un gusto personal, con tus productos en cada categoría.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Cumbia con nueva voz",
-   "idea": "El anuncio de la nueva voz de Corazón Serrano está en tendencia. Marcas de entretenimiento, bebidas o eventos: un trend de baile o dúo con el audio del momento, de forma respetuosa con la agrupación.",
+   "titulo": "Orgullo hecho a mano",
+   "idea": "La visita del papa puso el arte shipibo-konibo y las artesanías amazónicas en todas las noticias. Artesanos y marcas de diseño pueden contar el origen de sus piezas y su técnica, con respeto y sin usar imágenes del pontífice para vender.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Black Friday sin letra chica",
-   "idea": "A 11 días del 27 de noviembre, publica tus precios de hoy y promete mantenerlos. Un mensaje de 'precio justo' destaca entre ofertas infladas.",
+   "titulo": "Black Friday sin palta",
+   "idea": "Faltan 11 días para el Black Friday. Publica tu calendario de ofertas y tus reglas (precio antes y después, cambios, entrega) para que tus seguidores compren sin roche ni sorpresas.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "clima",
+   "termino": "lunes 16 de noviembre es feriado",
    "color": "verde",
-   "por_que": "Lima y el país siguen el pronóstico del Senamhi día a día.",
-   "idea": "Ropa, bebidas y helados: contenido según el clima del día con tu producto ideal."
+   "por_que": "Jornada no laborable en Lima y Callao por la despedida del papa; colegios sin clases.",
+   "idea": "Planes en casa, delivery y avisos de horario; tono respetuoso con el evento religioso."
   },
   {
    "termino": "ruta del papa lunes 16",
    "color": "amarillo",
-   "por_que": "Limeños buscan rutas y cierres por la despedida del papa León XIV.",
-   "idea": "Solo información útil de horarios y entregas; no usar la figura del papa con fines comerciales."
+   "por_que": "La gente busca cierres de vías y rutas para el último día de la visita.",
+   "idea": "Comercios en la ruta: avisos de servicio y horarios; no usar la imagen del papa para vender."
   },
   {
-   "termino": "misa del papa en las palmas",
-   "color": "amarillo",
-   "por_que": "Interés por horarios y accesos a la misa.",
-   "idea": "Negocios cercanos: avisos de atención y delivery; evitar promociones con símbolos religiosos."
-  },
-  {
-   "termino": "temperatura lima",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "Búsquedas sobre calor y temperatura en Lima.",
-   "idea": "Bebidas, protector solar y ropa ligera: '¿qué te pones hoy?' con el clima como gancho."
+   "por_que": "Búsquedas constantes del pronóstico del SENAMHI con cambios de temperatura.",
+   "idea": "Moda y bebidas: contenido 'qué ponerte hoy' o 'qué tomar con este calor'."
   },
   {
-   "termino": "corte luz arequipa",
-   "color": "amarillo",
-   "por_que": "Cortes programados de luz en distritos de Arequipa.",
-   "idea": "Tiendas de tecnología y hogar: power banks y linternas con tono de servicio."
+   "termino": "valentín fuster",
+   "color": "verde",
+   "por_que": "El cardiólogo habla de longevidad y hábitos saludables.",
+   "idea": "Marcas wellness: tips de hábitos con respaldo, sin prometer resultados médicos."
+  },
+  {
+   "termino": "la mansion vip",
+   "color": "verde",
+   "por_que": "El reality suma participantes sorpresa y conversación.",
+   "idea": "Memes y encuestas ligeras, sin burlarse de los participantes."
   }
  ],
  "ocultar": [
@@ -114,7 +114,13 @@
   "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
   "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera",
   "islas cook",
-  "ufc"
+  "ufc",
+  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
+  "Chimbote: 50 jueces de paz son capacitados en juicios por alimentos y violencia familiar",
+  "AMIC rescata a seis perros en condiciones de desnutrición y deshidratación durante dos cateos en Agua Prieta •Investigaciones permitieron intervenir dos inmuebles y rescatar a los ejemplares, que presentaban signos de abandono y problemas de salud Ag",
+  "El Ministerio de Educación pondrá ‘bajo la lupa’ a la Universidad del Magdalena por el posgrado de Jaime Vives: revisarán cómo obtuvo el título",
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
+  "Buque tanker embiste crucero en Nueva Orleans: 180 personas rescatadas y 32 hospitalizadas"
  ],
  "audiencias": {
   "general": {
@@ -904,6 +910,81 @@
     "EC": "floretear / dorar la píldora",
     "ES": "dorar la píldora",
     "AR": "chamuyar"
+   }
+  },
+  {
+   "expresion": "Choche / chochera",
+   "significado": "Amigo cercano, compañero de confianza.",
+   "uso": "Todo el país, sobre todo en Lima; muy usado entre jóvenes y adultos.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Este finde sales con tu chochera y el combo corre por nuestra cuenta.",
+   "equivalentes": {
+    "CO": "parcero / parce",
+    "MX": "compa / carnal",
+    "EC": "pana",
+    "ES": "colega",
+    "AR": "amigo / chabón"
+   }
+  },
+  {
+   "expresion": "Mancha",
+   "significado": "Grupo de amigos con el que se sale o se comparte.",
+   "uso": "Lima y ciudades grandes; frecuente en redes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Arma tu pedido para toda la mancha y ahorra en el delivery.",
+   "equivalentes": {
+    "CO": "el combo / la gallada",
+    "MX": "la banda / la bandita",
+    "EC": "la jorga",
+    "ES": "la peña / la pandilla",
+    "AR": "la barra"
+   }
+  },
+  {
+   "expresion": "Chancón / chancona",
+   "significado": "Persona que estudia mucho, aplicada.",
+   "uso": "Colegios y universidades de todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Para los chancones que ya preparan el ciclo: útiles con 20% de dscto.",
+   "equivalentes": {
+    "CO": "nerdo / juicioso",
+    "MX": "matado / ñoño",
+    "EC": "aplicado / nerd",
+    "ES": "empollón",
+    "AR": "traga / nerd"
+   }
+  },
+  {
+   "expresion": "¡Ya pues!",
+   "significado": "Muletilla muy peruana: según el tono significa 'apúrate', 'de acuerdo' o 'no te creo'.",
+   "uso": "Todo el país; el tono cambia el sentido.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Todavía no pides tu panetón? ¡Ya pues, que se acaba!",
+   "equivalentes": {
+    "CO": "¡hágale pues! / ¡ajá!",
+    "MX": "¡ándale! / ¡ya estuvo!",
+    "EC": "¡ya pues!",
+    "ES": "¡venga ya!",
+    "AR": "¡dale!"
+   }
+  },
+  {
+   "expresion": "Mi flaca / mi flaco",
+   "significado": "Forma cariñosa de referirse a la enamorada o al enamorado.",
+   "uso": "Todo el país; registro afectuoso.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Sorprende a tu flaca este Black Friday con algo que de verdad le guste.",
+   "equivalentes": {
+    "CO": "mi novia / mi amor",
+    "MX": "mi vieja / mi morra",
+    "EC": "mi pelada / mi novia",
+    "ES": "mi chica / mi novia",
+    "AR": "mi novia / mi chica"
    }
   }
  ],

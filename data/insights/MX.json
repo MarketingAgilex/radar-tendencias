@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-16T05:03:03Z",
+ "actualizado": "2026-11-16T09:04:37Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "México vive hoy el último día del Buen Fin en pleno puente del Día de la Revolución: plazas llenas y filas en Monterrey, pero un comprador que compara, duda de las ofertas y acude a Profeco cuando algo falla. Ropa, juguetes y tecnología encabezan lo más buscado y Ticketmaster se sumó con descuentos en eventos. Al mismo tiempo, la conversación de entretenimiento gira alrededor de La Mansión VIP, el reprogramado concierto de Karol G y el estreno de GTA VI esta semana. Mensajes de transparencia de precio, post-venta y 'lo que sigue' (Black Friday, Cyber Monday y aguinaldo) conectan mejor que más urgencia.",
+ "lectura": "Hoy termina El Buen Fin 2026 con el puente del Día de la Revolución: plazas llenas, tecnología liderando ventas y Profeco recordando la diferencia entre oferta y promoción. Ropa y juguetes están entre lo más buscado, señal de que muchos ya adelantan Navidad. Los frentes fríos bajan temperaturas en varios estados y el entretenimiento sigue fuerte (La Granja VIP, La Mansión VIP, conciertos en CDMX). El siguiente gancho es el Black Friday del 27 de noviembre y la 'cuesta' de diciembre: mensajes de meses sin intereses, entrega puntual y precio transparente funcionan mejor.",
  "ideas_hoy": [
   {
-   "titulo": "Último día, sin choro",
-   "idea": "El Buen Fin termina hoy y el comprador desconfía de descuentos inflados. Publica el precio anterior y el actual de tus 5 productos estrella, con la fecha de entrega real. Transparencia como argumento de venta.",
-   "formato": "Copy para anuncio"
+   "titulo": "Últimas horas de Buen Fin",
+   "idea": "El Buen Fin termina hoy. Si tienes ofertas activas, publica un recordatorio con hora de cierre y stock real; si no participaste, ofrece un 'Buen Fin extendido' de 48 horas a tu base de clientes por WhatsApp.",
+   "formato": "Historias + WhatsApp"
   },
   {
-   "titulo": "¿Te quedaste sin comprar?",
-   "idea": "Para quien no alcanzó el Buen Fin, adelanta tu calendario: qué tendrás en Black Friday (27 de noviembre) y Cyber Monday. Pide que activen notificaciones o se unan a tu lista de WhatsApp.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Post-venta que da confianza",
-   "idea": "Muchos buscan qué hacer si una compra del Buen Fin no llega. Explica en un video corto tu política de entregas, cambios y seguimiento del pedido: quien ya compró se tranquiliza y quien duda se anima.",
+   "titulo": "Oferta o promoción, sin rollo",
+   "idea": "Profeco está explicando la diferencia entre oferta y promoción. Haz un video corto mostrando el precio anterior y el actual de tus productos: la transparencia hoy vende más que el porcentaje gigante.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Plan de puente en casa",
-   "idea": "Con La Mansión VIP y el concierto de Karol G en la conversación, el plan del lunes festivo es entretenimiento. Comida a domicilio, botanas y bebidas: un combo 'noche de reality' con encuesta de quién sale.",
+   "titulo": "Kit frente frío",
+   "idea": "Los frentes fríos 6 y 7 traen temperaturas bajo cero en varios estados. Tiendas de ropa, hogar y cafeterías pueden armar un 'kit para el frío' (cobija, termo, chamarra, bebida caliente) con entrega rápida.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cuenta regresiva gamer",
-   "idea": "GTA VI sale esta semana y dispara la búsqueda de consolas y almacenamiento. Tiendas de tecnología: carrusel 'prepárate' con SSD, controles y accesorios, con precio final visible y meses sin intereses si los ofreces.",
+   "titulo": "Navidad adelantada",
+   "idea": "Ropa y juguetes fueron de lo más buscado en el Buen Fin: mucha gente ya está comprando regalos. Lanza una guía de regalos por presupuesto (menos de 300, 500 y 1,000 pesos) para quien todavía no termina su lista.",
    "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Reality en tu feed",
+   "idea": "La Granja VIP y La Mansión VIP dominan la conversación. Marcas de snacks, belleza o moda pueden subirse con encuestas tipo '¿quién se queda?' y un producto como premio para quien acierte.",
+   "formato": "Historias con encuesta"
   }
  ],
  "semaforo": [
   {
-   "termino": "la mansion vip",
+   "termino": "quien salió de la granja vip hoy",
    "color": "verde",
-   "por_que": "El reality domina las votaciones y la charla en redes.",
-   "idea": "Encuestas, memes ligeros y promociones temáticas sin tomar partido contra participantes."
+   "por_que": "Alta conversación por cada eliminación del reality.",
+   "idea": "Encuestas y reacciones en tono ligero, sin burlarse de los participantes."
   },
   {
-   "termino": "inapam",
+   "termino": "apple tv",
    "color": "verde",
-   "por_que": "Adultos mayores y sus familias buscan fechas y montos de apoyos de diciembre.",
-   "idea": "Farmacias, súpers y servicios para adultos mayores: contenido claro, letra grande y beneficios con credencial, sin prometer pagos."
+   "por_que": "Interés por la plataforma y su función de lengua de señas en el cine en streaming.",
+   "idea": "Contenido de inclusión y accesibilidad: cómo tu marca facilita la vida a todos."
+  },
+  {
+   "termino": "nocturne",
+   "color": "amarillo",
+   "por_que": "Búsqueda de nicho por un videojuego con reseñas mixtas.",
+   "idea": "Solo para tiendas gamer: reseñas honestas, sin prometer que es 'el juego del año'."
+  },
+  {
+   "termino": "la mansion vip",
+   "color": "verde",
+   "por_que": "El reality sigue sumando votaciones y comentarios.",
+   "idea": "Memes y dinámicas de votación con tu producto como premio."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "Ticketmaster se sumó al Buen Fin con descuentos en eventos.",
-   "idea": "Regalos de experiencias: 'regala un concierto' con tu producto como complemento (merch, outfit, transporte)."
-  },
-  {
-   "termino": "karol g concierto",
-   "color": "verde",
-   "por_que": "Fans pendientes de su concierto reprogramado en la CDMX.",
-   "idea": "Moda, maquillaje y accesorios: 'outfit para el concierto' con estilo urbano, sin usar su imagen sin permiso."
-  },
-  {
-   "termino": "mexico va",
-   "color": "amarillo",
-   "por_que": "Rumor de apagón en Estados Unidos el 17 de noviembre que los medios aclaran.",
-   "idea": "Solo con tono de servicio: plan B de energía (power banks, respaldo de datos) sin alimentar el pánico."
+   "por_que": "Promociones de Buen Fin en boletos de conciertos y eventos.",
+   "idea": "Bares, transporte y hoteles: paquetes 'antes y después del concierto'."
   }
  ],
  "audiencias": {
@@ -1098,6 +1098,26 @@
   "Se extravía niño durante compras del Buen Fin en Monterrey",
   "kevin holland",
   "¿Por qué llamaban ‘El Padrino’ y ‘El Jefe de Jefes’ a Miguel Ángel Félix Gallardo?",
-  "🔴 El cuerpo de Miguel Ángel Félix Gallardo, ‘El Jefe de Jefes’, se encuentra en una funeraria de Guadalajara. De manera extraoficial, se reporta que preparan una sala para su despedida, aunque el personal del recinto no ha confirmado su presencia. 📺 #MI"
+  "🔴 El cuerpo de Miguel Ángel Félix Gallardo, ‘El Jefe de Jefes’, se encuentra en una funeraria de Guadalajara. De manera extraoficial, se reporta que preparan una sala para su despedida, aunque el personal del recinto no ha confirmado su presencia. 📺 #MI",
+  "Bloqueos de campesinos el 17 de noviembre: estos son los 25 puntos donde habrá movilizaciones en cinco estados",
+  "Clara Brugada inaugura la Ruta del Maíz en Tlalpan; tarifa será de solo 4 pesos",
+  "Cae por robar 3 mil 594 pesos en ropa en Galerías Monterrey",
+  "Cae mujer con ropa robada de tienda departamental en Monterrey",
+  "El periodista Eduardo Flores Salado fue hallado sin vida la noche del sábado 14 de noviembre en la zona suburbana de Acapulco, Guerrero. Su cuerpo fue localizado en inmediaciones de la colonia Canuto Nogueda, con una marca rojiza en el cuello, por lo",
+  "Diputados discutirán reformas ambientales y de bienestar animal; prevén aprobarlas esta semana",
+  "Puebla tendrá el primer Hospital Universitario IMSS-Bienestar, anuncia Armenta",
+  "El derecho al deporte se garantiza: Diputados",
+  "AMIC rescata a seis perros en condiciones de desnutrición y deshidratación durante dos cateos en Agua Prieta •Investigaciones permitieron intervenir dos inmuebles y rescatar a los ejemplares, que presentaban signos de abandono y problemas de salud Ag",
+  "Ismael Burgueño habilita registro gratuito para mascotas en Tijuana",
+  "Bonos de lujo para magistrados",
+  "Tras caos con vuelos de EEUU, la 4T lanzó plan para modernizar control aéreo",
+  "México refrenda compromiso con la atención integral a la primera infancia: Mario Delgado",
+  "Secretaría de Finanzas confirma pago de remanente al Ceepac",
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
+  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
+  "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "Celebra Duarte inversión de 40.2 mdp al Conservatorio de Música de Tultepec",
+  "Casa Quinqué reúne arte y solidaridad para acompañar a familias buscadoras - El Occidental",
+  "IMPULSA ALEXA JASSO EL DISEÑO Y TALENTO CREATIVO ZACATECANO"
  ]
 }
