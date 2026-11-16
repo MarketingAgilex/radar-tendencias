@@ -1,12 +1,17 @@
 {
- "ultima_ejecucion": "2026-11-16T19:53:47Z",
- "duracion_seg": 120.9,
- "errores": 1,
+ "ultima_ejecucion": "2026-11-16T20:46:38Z",
+ "duracion_seg": 141.2,
+ "errores": 2,
  "muestra_errores": [
   {
-   "url": "https://news.google.com/rss/search?q=Ecuador+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28%22devenu+viral%22+OR+%22vid%C3%A9o+virale%22+OR+%22tendance+TikTok%22+OR+%22buzz+sur+les+r%C3%A9seaux%22%29+when%3A1d&hl=fr&gl=FR&ceid=FR%3Afr",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:53:47Z"
+   "hora": "2026-11-16T20:46:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss?hl=it&gl=IT&ceid=IT%3Ait",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-16T20:46:38Z"
   }
  ]
 }
