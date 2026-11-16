@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España afronta las dos semanas previas al Black Friday (27 de noviembre) con un consumidor más prudente: las encuestas dicen que baja el número de personas que piensa comprar y el gasto previsto, y la gente prioriza el precio sobre la fidelidad a la marca. Las tiendas estiran las ofertas a casi todo el mes y Correos Express prevé más envíos en Black Friday y Navidad. El entretenimiento televisivo (Supervivientes All Stars) y el tiempo, con lluvias y viento en Baleares, completan la conversación. Ofertas verificables, envíos fiables y argumentos de valor real funcionan mejor hoy.",
+ "lectura": "España arranca la semana pendiente de la huelga de Renfe del martes 17 (y un nuevo paro el 23), con servicios mínimos y Cercanías afectadas en Madrid. La Aemet activa avisos por lluvias en Galicia y viento en otras comunidades. En consumo, el Black Friday se adelanta con ofertas en tecnología, moda y belleza, mientras se prevé que el gasto en regalos de Navidad baje un 4%, hasta 395 euros de media. La vivienda y los supermercados (Mercadona abre en Aranda) siguen en el radar: el consumidor busca ahorrar y descuentos verificables.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday para indecisos",
-   "idea": "Baja el número de españoles que piensa comprar en Black Friday. Habla al indeciso: compara tu precio de hoy con el de octubre y explica por qué merece la pena, sin presionar.",
+   "titulo": "Huelga de trenes: te lo llevamos",
+   "idea": "Con la huelga de Renfe del martes, ofrece envío o recogida flexible y avisa de posibles retrasos. La transparencia evita quejas.",
+   "formato": "Historia de Instagram"
+  },
+  {
+   "titulo": "Regalos de Navidad por menos de 395 €",
+   "idea": "El gasto medio en regalos bajará un 4%. Crea una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) para el consumidor que quiere cuadrar cuentas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Mes entero de ofertas, bien contado",
-   "idea": "Muchas tiendas amplían el Black Friday a todo noviembre. Si lo haces, publica un calendario semanal con una categoría distinta cada semana para mantener el interés sin quemar margen.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Envíos de Navidad con margen",
-   "idea": "Correos Express prevé crecer un 6,6% en Black Friday y Navidad. Comunica ya tus plazos de entrega y la fecha límite para recibir antes de Nochebuena.",
+   "titulo": "Black Friday sin trampa",
+   "idea": "La OCU y los medios hablan del descuento medio real. Muestra tu histórico de precio y tus condiciones de devolución para ganar confianza.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Chimenea sin obras y calorcito",
-   "idea": "Productos de calefacción baratos y sin instalación protagonizan los chollos del día. Tiendas de hogar pueden mostrar alternativas para el frío con consumo explicado.",
-   "formato": "TikTok"
+   "titulo": "Muebles para pisos pequeños",
+   "idea": "Un mueble de Lidl se volvió viral por práctico y barato. Tiendas de hogar pueden crear contenido de soluciones para casas pequeñas.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Reality de sobremesa",
-   "idea": "Supervivientes All Stars vuelve a la conversación. Marcas de alimentación y ocio pueden subirse con encuestas ligeras o un '¿quién aguantaría en la isla?' con tu producto.",
-   "formato": "Historias con encuesta"
+   "titulo": "Cafeteras y café de especialidad",
+   "idea": "Marcas como INCAPTO adelantan el Black Friday en cafeteras. Haz un video de rutina de café en casa que conecte con el frío y el ahorro frente a la cafetería.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "boe",
+   "termino": "renfe",
    "color": "amarillo",
-   "por_que": "Búsqueda ambigua (Boletín Oficial del Estado o Banco de Inglaterra).",
-   "idea": "No es un tema para marcas de consumo; solo despachos y gestorías pueden aprovecharlo con contenido útil."
+   "por_que": "Huelga y servicios mínimos el 17 de noviembre.",
+   "idea": "Información útil y opciones de entrega; evita posicionarte sobre el conflicto."
   },
   {
-   "termino": "tumor",
+   "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Interés por un estudio médico sobre inflamación y cáncer.",
-   "idea": "Tema de salud sensible: evita usarlo en promociones."
+   "por_que": "Debate sobre escasez de viviendas disponibles.",
+   "idea": "Contenido práctico de decoración y ahorro en el hogar; evita opinar sobre el debate."
   },
   {
-   "termino": "sandra barneda",
+   "termino": "supermercado",
    "color": "verde",
-   "por_que": "Supervivientes All Stars genera conversación.",
-   "idea": "Memes y encuestas ligeras de televisión, sin atacar a concursantes."
+   "por_que": "Aperturas de supermercados y búsqueda de precios.",
+   "idea": "Promos de cesta básica, recetas económicas y productos locales."
   },
   {
-   "termino": "antena 3 noticias",
+   "termino": "twitch",
    "color": "verde",
-   "por_que": "La gente busca efemérides y noticias del día.",
-   "idea": "Contenido 'tal día como hoy' conectado con la historia de tu marca."
+   "por_que": "Conversación sobre streaming y creadores.",
+   "idea": "Colaboraciones con streamers de nicho para el Black Friday."
   },
   {
-   "termino": "pronóstico del tiempo",
+   "termino": "ascensor",
    "color": "verde",
-   "por_que": "Calor antes de lluvias y viento fuerte en Mallorca.",
-   "idea": "Moda y hogar en Baleares: 'qué necesitas esta semana'."
+   "por_que": "Historia viral sobre accesibilidad en una comunidad de vecinos.",
+   "idea": "Contenido de accesibilidad y soluciones para mayores en el hogar, con respeto."
   }
  ],
  "ocultar": [
@@ -170,7 +170,17 @@
   "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
   "Charla sobre la violencia machista en la historia del arte en El Franco",
   "ucrania",
-  "centro nacional de inteligencia"
+  "centro nacional de inteligencia",
+  "juan carlos peinado",
+  "puñalada",
+  "yolanda díaz oit",
+  "acampada",
+  "financiación ilegal",
+  "Un amplio dispositivo policial desaloja la acampada de la plaza Cataluña en Barcelona",
+  "Feijóo desvelará esta tarde en Navarra su 'ley de nietos' para que los exiliados vascos por ETA puedan votar en Euskadi",
+  "Europa debate su papel en las conversaciones de paz sobre Ucrania",
+  "La Guardia Urbana y los Mossos d'Esquadra desalojan la acampada por la vivienda de Plaza Catalunya en Barcelona",
+  "El Ayuntamiento de Barcelona defiende el desalojo de 295 personas de la acampada: \"Urgía ya\""
  ],
  "audiencias": {
   "general": {

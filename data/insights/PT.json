@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal entra en la semana con aviso amarillo por lluvia fuerte en seis distritos y una conversación sobre casas que no protegen del frío, lo que impulsa búsquedas de calefacción y aislamiento. El Black Friday ya se instala en la agenda con guías de compra (freidoras de aire, auriculares, portátiles) y PlayStation anticipa descuentos; la precarga de GTA VI, que sale el jueves 19, batió récords de tráfico de internet. La Aveiro Tech Week (16 a 22 de noviembre) pone la IA en el centro, y las telenovelas y Big Brother mantienen la audiencia. Utilidad para el frío, ofertas claras y contenido gamer son la apuesta de hoy.",
+ "lectura": "Portugal vive un otoño de mal tiempo, con avisos amarillos por lluvia en cuatro distritos y comparaciones con tormentas pasadas. En consumo, la Black Friday se adelanta con perfumes, Kindle, relojes y vinos, y las empresas de última milla refuerzan equipos: NACEX prevé 12% más envíos. La precarga de GTA VI llevó el tráfico de internet a un récord y Moeve estudia vender sus gasolineras. El consumidor busca ofertas reales, entregas fiables y entretenimiento en casa.",
  "ideas_hoy": [
   {
-   "titulo": "Casa quente, conta controlada",
-   "idea": "Las casas portuguesas protegen poco del frío y la lluvia vuelve con aviso amarillo. Tiendas de hogar pueden publicar 5 soluciones baratas (burletes, cortinas térmicas, mantas) con precios claros.",
+   "titulo": "Black Friday antecipada",
+   "idea": "Perfumes, Kindle y relojes ya bajan de precio. Muestra tu oferta con precio anterior visible y plazo de entrega antes de Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Guía de airfryer para Black Friday",
-   "idea": "Las guías para elegir freidora de aire están entre lo más leído. Tiendas de electrodomésticos pueden hacer una comparativa honesta de 3 modelos según el tamaño de la familia.",
+   "titulo": "Entrega garantida para o Natal",
+   "idea": "Las empresas de última milla se preparan para el pico. Comunica tus fechas límite de envío y ofrece recogida en punto para evitar retrasos.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Tarde de chuva em casa",
+   "idea": "Con lluvia en varios distritos, propone planes en casa: series, juegos, mantas, recetas de temporada.",
    "formato": "Reel"
   },
   {
-   "titulo": "Noche de GTA VI",
-   "idea": "GTA VI sale el jueves 19 y la precarga batió récords de tráfico. Restaurantes y delivery pueden lanzar un combo para la noche del estreno; tiendas tech, accesorios y almacenamiento.",
+   "titulo": "Noite de GTA VI",
+   "idea": "La precarga de GTA VI batió récords de tráfico. Accesorios gaming, snacks y planes de internet tienen un gancho claro esta semana.",
    "formato": "TikTok"
   },
   {
-   "titulo": "IA para pymes en Aveiro",
-   "idea": "La Aveiro Tech Week arranca hoy con foco en IA y ciberseguridad. Consultores y agencias pueden compartir un caso práctico corto de IA aplicada a un pequeño negocio.",
+   "titulo": "Vinhos para a mesa de Natal",
+   "idea": "Las bodegas lanzan promociones. Propón maridajes para cenas de fin de año y cestas de regalo corporativo.",
    "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Regalos de Navidad desde ya",
-   "idea": "Los medios ya calculan cuántos regalos de Navidad compra cada portugués. Lanza una lista de ideas por presupuesto y tu fecha límite de envío.",
-   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "páginas da vida",
-   "color": "verde",
-   "por_que": "La telenovela genera conversación diaria.",
-   "idea": "Contenido ligero de 'team' y reacciones, sin spoilers agresivos."
-  },
-  {
-   "termino": "inteligência artificial",
-   "color": "verde",
-   "por_que": "Aveiro Tech Week del 16 al 22 de noviembre con foco en IA.",
-   "idea": "Casos prácticos de IA para negocios pequeños, sin promesas exageradas."
-  },
-  {
-   "termino": "ana marques",
-   "color": "verde",
-   "por_que": "La presentadora vuelve a estudiar a los 55 años.",
-   "idea": "Formación y educación: mensajes de 'nunca es tarde para aprender'."
-  },
-  {
-   "termino": "frio",
-   "color": "verde",
-   "por_que": "Debate sobre casas poco aisladas frente al frío.",
-   "idea": "Hogar y energía: soluciones concretas y baratas, con tono empático."
+   "termino": "controle de tráfego aéreo",
+   "color": "amarillo",
+   "por_que": "Interés por la falla que paró vuelos en EE. UU.",
+   "idea": "Si vendes viajes, explica políticas de cambios y seguros; tono tranquilo."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Cortes de electricidad programados en varias zonas.",
-   "idea": "Solo contenido útil (power banks, linternas, respaldo) sin alarmismo."
+   "por_que": "Cortes programados de electricidad en varias zonas.",
+   "idea": "Avisos útiles y productos de energía portátil sin alarmismo."
+  },
+  {
+   "termino": "moeve",
+   "color": "verde",
+   "por_que": "Noticia de negocios sobre la red de gasolineras.",
+   "idea": "Contenido B2B sobre movilidad y energía."
+  },
+  {
+   "termino": "diana chaves",
+   "color": "verde",
+   "por_que": "Conversación de moda y looks de celebridades.",
+   "idea": "Inspiración de looks para eventos y fiestas de fin de año."
+  },
+  {
+   "termino": "playstation",
+   "color": "verde",
+   "por_que": "GTA VI y ofertas de consolas en tendencia.",
+   "idea": "Promos de accesorios y comparativas de precios."
   }
  ],
  "ocultar": [
@@ -158,7 +158,18 @@
   "Ex-namorada de Russell Brand diz que ator a obrigava a escovar os dentes até sangrar",
   "bombeiro",
   "prisão",
-  "carolina carvalho"
+  "carolina carvalho",
+  "Caldas da Rainha. Explosão em casa faz 3 feridos graves",
+  "Zelenskyy questiona a SpaceX sobre alegadas limitações de velocidade do Starshield",
+  "“Pagar a renda ou comer”: milhares exigem respostas para a crise da habitação",
+  "Tendas regressaram ao coração de Lisboa e ficaram toda a noite nos Restauradores",
+  "Acampada de Lisboa promete ficar até sábado nos Restauradores e juntar-se à manifestação da CGTP",
+  "Isaltino: Porque não Lisboa?",
+  "Lotaria Nacional celebra 243 anos com música, tradição e uma extração especial",
+  "Procurado para cumprir pena prisão por tráfico de droga detido no aeroporto de Lisboa",
+  "A situação na Palestina em debate esta quarta-feira, em Lisboa",
+  "Sargento do Ceará divulga jogo do Tigrinho nas redes sociais",
+  "Hugo Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais"
  ],
  "audiencias": {
   "general": {

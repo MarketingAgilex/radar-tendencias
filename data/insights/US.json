@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La semana en Estados Unidos tiene dos fechas fuertes: el lanzamiento de GTA VI el jueves 19 y el arranque de la temporada navideña con Thanksgiving (26) y Black Friday (27); Amazon ya estiró su evento a 12 días y los minoristas adelantan ofertas. El clima también pesa: tormentas en el oeste, frío y olas gigantes en California mueven búsquedas de abrigo y hogar. Ferias de artesanía y bazares navideños muestran el gusto por comprar local y regalos con historia. Ofertas claras, fechas límite de envío y contenido de entretenimiento conectan mejor esta semana.",
+ "lectura": "En Estados Unidos la conversación de consumo combina clima y temporada: El Niño y las tormentas de invierno traen nieve, lluvia y olas gigantes en California, mientras el aire frío llega a Houston. Faltan diez días para Thanksgiving y once para Black Friday; Amazon extiende su evento a 12 días y las ofertas anticipadas de tecnología y gaming ya circulan. La cultura pop pesa: los Latin Grammy con Rosalía y Milo J, la llegada de GTA VI y el lanzamiento de Starship. Para la comunidad hispana, mensajes de envío a tiempo para las fiestas y regalos a familia en Latinoamérica son clave.",
  "ideas_hoy": [
   {
-   "titulo": "Semana GTA VI",
-   "idea": "GTA VI sale el jueves 19 y hay quienes piden días libres para jugar. Restaurantes, apps de delivery y tiendas de snacks o tecnología pueden lanzar un 'kit de lanzamiento' (combo, audífonos, cargadores) con un video corto.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Fechas límite de envío navideño",
-   "idea": "Con Black Friday adelantado y Thanksgiving el 26, publica ya tu calendario de envíos: hasta cuándo pedir para que llegue a tiempo, también a Latinoamérica. Reduce ansiedad y preguntas repetidas.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Compra local en bazares",
-   "idea": "Las ferias de artesanía y bazares navideños llenan las noticias locales. Emprendedores pueden mostrar su stand o taller 'detrás de cámaras' y ofrecer pedidos en línea para quien no pudo ir.",
+   "titulo": "Regalos que llegan antes de Navidad",
+   "idea": "La comunidad hispana empieza a planear regalos para su familia en Latinoamérica. Publica fechas límite de envío y qué se puede enviar, con un tono cálido de 'que llegue a tiempo'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Listos para la tormenta",
-   "idea": "Tormentas en el oeste y frío en buena parte del país. Ferreterías, hogar y moda: un post de 'lo que necesitas antes de la tormenta' con productos concretos y entrega rápida.",
+   "titulo": "Thanksgiving en 10 días",
+   "idea": "Thanksgiving es el 26 de noviembre. Restaurantes, panaderías y tiendas de hogar pueden abrir preventa de menús, centros de mesa y decoración con fecha de recogida.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Bienestar antes de las fiestas",
-   "idea": "'Fitness' está entre las búsquedas con más tráfico. Gimnasios, entrenadores y marcas de suplementos pueden lanzar un reto de 10 días antes de Thanksgiving con rutinas cortas.",
+   "titulo": "Prepárate para la tormenta",
+   "idea": "Las tormentas de invierno y El Niño son tendencia. Ropa de abrigo, calefacción, power banks y kits para el auto se comunican mejor con guías prácticas de 'qué tener a mano'.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "La ola latina de los Grammy",
+   "idea": "Rosalía y Milo J arrasaron en los Latin Grammy. Usa la música del momento (con licencia de la red) para un trend de 'outfit o look de premiación' con tu producto.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Gaming night para GTA VI",
+   "idea": "GTA VI está en todos los titulares. Marcas de snacks, accesorios, sillas o internet pueden armar un 'kit de lanzamiento' para quienes van a jugar el fin de semana.",
    "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "gta vi game",
-   "color": "verde",
-   "por_que": "Lanzamiento de GTA VI el 19 de noviembre, uno de los estrenos más esperados de la historia.",
-   "idea": "Contenido de lanzamiento: combos, accesorios, 'checklist del gamer'. Evita usar logos o imágenes oficiales del juego."
-  },
-  {
-   "termino": "fitness",
-   "color": "verde",
-   "por_que": "Interés en evaluación física y barreras para hacer ejercicio.",
-   "idea": "Retos cortos y accesibles antes de las fiestas; tono inclusivo, sin culpas."
-  },
-  {
-   "termino": "alexandra daddario",
-   "color": "verde",
-   "por_que": "Su película está entre lo recomendado para ver en Disney+ este fin de semana.",
-   "idea": "Contenido 'qué ver + qué pedir' para planes en casa."
-  },
-  {
-   "termino": "sharad kapoor",
+   "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Un actor habla de su recuperación tras años de enfermedad.",
-   "idea": "No usarlo para promociones; tema personal y sensible."
+   "por_que": "Interés por cómo afectará El Niño al clima local este invierno.",
+   "idea": "Guías de preparación del hogar y del auto con tono útil, sin alarmismo."
   },
   {
-   "termino": "qwen4",
+   "termino": "spacex starship rocket launch",
    "color": "verde",
-   "por_que": "Alibaba presentó un nuevo modelo de IA que compite con los de EE. UU.",
-   "idea": "Agencias y tech: contenido explicativo sobre qué significa para negocios pequeños, sin exagerar."
+   "por_que": "Hito tecnológico con mucha conversación.",
+   "idea": "Contenido de curiosidad y ciencia para marcas de tecnología o educación."
+  },
+  {
+   "termino": "winter storm",
+   "color": "amarillo",
+   "por_que": "Nieve, viento y olas fuertes en el oeste.",
+   "idea": "Promociones de abrigo y entrega a domicilio; evita humor sobre afectados."
+  },
+  {
+   "termino": "connections hint today",
+   "color": "verde",
+   "por_que": "Juego diario de palabras con hábito masivo.",
+   "idea": "Retos diarios o acertijos de marca para fomentar interacción."
+  },
+  {
+   "termino": "cliff booth",
+   "color": "verde",
+   "por_que": "Conversación de cine y premios.",
+   "idea": "Contenido de cultura pop y recomendaciones de películas para la temporada."
   }
  ],
  "audiencias": {
@@ -1071,6 +1071,26 @@
   "Construction workers help woman and infant escape Longview house fire",
   "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chip exports",
   "karely ruiz",
-  "alex bolt"
+  "alex bolt",
+  "jubilación",
+  "the new york times",
+  "zohran mamdani",
+  "jets metlife stadium fire",
+  "sasha digiulian yosemite el capitan",
+  "embassy",
+  "dallas love field flight shutdown",
+  "Fewer students are traveling from abroad to study at US universities, report shows",
+  "Bahrain intercepts Iranian strikes on US airbase",
+  "Yemen: Anti-Houthi forces pull back from Bab el-Mandeb Strait as rebels advance towards Aden",
+  "US floated idea swapping Ukrainian territory for NATO membership: Zelensky",
+  "Los demócratas socialistas de Nueva York instan formalmente a Alexandria Ocasio-Cortez a postularse a la presidencia",
+  "Resumen de noticias del Colapso de un edificio en Brooklyn, Nueva York, del 12 de noviembre de 2026",
+  "As SNAP Shrinks, Nearly 1.3 Million New Yorkers Rely on Food Pantries and More Than Half Are Working Or Live With Someone Who Does",
+  "Washington, D.C., New York Reach New Highs in Perceived Safety",
+  "Raid! Hochul Leaves MTA Holding $200M Bag",
+  "Marissa Roy wins Los Angeles city attorney’s race",
+  "Child falls from window in Boyle Heights, LAPD says",
+  "Raman Has Lots of Plans. Los Angeles Has Lots of Obstacles.",
+  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi"
  ]
 }

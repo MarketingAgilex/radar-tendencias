@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia arranca la semana con mal tiempo y alertas por lluvia en Roma y Campania, y con la televisión del fin de semana como gran tema: Ballando con le Stelle y sus polémicas dominan las búsquedas. El Black Friday se adelanta con fuerza en tecnología y belleza, y se esperan compras por unos 4.300 millones de euros en regalos con descuento. GTA VI sale el jueves 19 y en Meta los panettoni artesanales ya ocupan los anuncios de temporada. Ofertas de regalo bien explicadas, productos de tradición navideña y planes en casa conectan mejor hoy.",
+ "lectura": "Italia sigue pendiente del meteo: nuevo flujo atlántico con lluvias y alertas amarillas en Roma y viento en Bari. El entretenimiento televisivo domina con Ballando con le Stelle y sus polémicas, y GTA VI genera guías para preparar la consola. En consumo, el Black Friday ya corre con robots aspiradores, audio, routers y monitores, y desde el 20 de noviembre cambian reglas de los pagos a plazos (PayPal, Klarna, Scalapay). La seguridad de dispositivos del hogar frente a ataques informáticos también interesa.",
  "semaforo": [
   {
-   "termino": "barbara d urso puzza",
+   "termino": "giuliacci meteo",
+   "color": "verde",
+   "por_que": "Pronósticos muy consultados por el cambio de tiempo.",
+   "idea": "Productos de temporada y consejos útiles."
+  },
+  {
+   "termino": "rai play ballando con le stelle",
+   "color": "verde",
+   "por_que": "Programa con gran audiencia.",
+   "idea": "Retos de baile y outfits de fiesta."
+  },
+  {
+   "termino": "attacchi hacker",
    "color": "amarillo",
-   "por_que": "Polémica televisiva entre personajes de Ballando con le Stelle.",
-   "idea": "Mejor no tomar partido; usa el programa en general, no la discusión."
+   "por_que": "Interés por proteger dispositivos domésticos.",
+   "idea": "Consejos de seguridad con tono tranquilo; no uses el miedo para vender."
   },
   {
-   "termino": "razzo",
+   "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Fallo de un cohete que llevaba satélites de internet de Amazon.",
-   "idea": "Tech y educación: contenido divulgativo sobre satélites e internet."
+   "por_que": "Lanzamiento esperado de GTA VI.",
+   "idea": "Accesorios gaming y bundles."
   },
   {
-   "termino": "jensen huang nvidia",
+   "termino": "cannavacciuolo stella michelin",
    "color": "verde",
-   "por_que": "Debate sobre el posible regreso de Jensen Huang como CEO de Nvidia.",
-   "idea": "Finanzas y tech: análisis sobrio, sin recomendaciones de inversión."
-  },
-  {
-   "termino": "vanity fair",
-   "color": "verde",
-   "por_que": "Interés por contenido de estilo y libros de celebridades.",
-   "idea": "Librerías y moda: listas de lectura y looks de temporada."
-  },
-  {
-   "termino": "cena",
-   "color": "verde",
-   "por_que": "La caminata después de cenar en Bari se volvió fenómeno social.",
-   "idea": "Wellness y calzado: retos de caminata grupal."
+   "por_que": "Conversación gastronómica por la guía Michelin.",
+   "idea": "Contenido de restaurantes, recetas y experiencias gourmet como regalo."
   }
  ],
  "audiencias": {
@@ -1251,33 +1251,53 @@
   "Masha e Orso bloccato su YouTube in Ucraina",
   "Salma Hayek balla da sola in lingerie tra una ripresa e l'altra e il parrucchiere...",
   "Controlli in agricoltura 2026: più ispettori contro il caporalato",
-  "gazzetta di benevento"
+  "gazzetta di benevento",
+  "auto",
+  "aeroporto di milano malpensa",
+  "retribuzione",
+  "revolut",
+  "pecora",
+  "“Riciclaggio con aggravante mafiosa”, il tribunale commissaria Revolut",
+  "Nuova mail bombing alle scuole italiane, nessuna evacuazione",
+  "Il Cremlino minaccia l'Europa: «Accordo o useremo la forza». L'Estonia chiude tutti i confini con la Russia contro i sabotaggi di Mosca",
+  "Russia, Estonia blocca frontiera: i collegamenti con Ue ancora aperti",
+  "Ragazzina partorisce in casa di nascosto, la bimba muore",
+  "Caserta: spara al padre per 300 euro, la lite poi tre colpi di pistola, arrestato 17enne",
+  "L'Aquila, studente Erasmus di 20 anni precipita dalle mura e resta infilzato in una recinzione: è grave",
+  "Yemen, gli Houthi avanzano verso Aden: tutti gli aggiornamenti sulla situazione in Medio oriente",
+  "Depardieu rinuncia al ricorso in appello: scuse \"profonde e sincere\" alle vittime delle sue violenze",
+  "Milano, scuole occupate: protesta al Parini, mobilitati anche i licei Volta, Bottoni, Vittorio Veneto, Agnesi, Molinari e Cremona-Zappa",
+  "Scuole occupate a Milano, dopo il Parini tocca a Volta, Bottoni, Agnesi e Molinari: le ragioni della protesta",
+  "Il Questore di Milano sospende la licenza all’Hotel Ambra",
+  "Occupazioni, nuovi blitz a Roma: gli studenti si prendono Manara, Pasteur, Anco Marzio a Ostia e Sant'Agnese a Tivoli",
+  "Spedizione punitiva a Scordia, venti persone inseguono un giovane: distrutta l’auto della vigilanza",
+  "La polizia sta collaborando con l'uomo che ha infranto i finestrini di alcune auto a Ho Chi Minh City."
  ],
  "ideas_hoy": [
   {
-   "titulo": "Il regalo scontato",
-   "idea": "Se esperan 4.300 millones de euros en compras de regalos durante el Black Friday. Publica una selección de regalos por presupuesto y aclara la fecha límite de envío para Navidad.",
+   "titulo": "Pagamenti a rate: cosa cambia",
+   "idea": "Cambian las reglas de pago a plazos desde el 20/11. Explica con claridad cómo se puede pagar en tu tienda y qué cambia para el cliente.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Panettone con storia",
-   "idea": "Los panettoni artesanales ya llenan los anuncios en Meta. Pastelerías y productores pueden contar su receta, sus horas de levado y ofrecer envío a otras ciudades.",
+   "titulo": "Casa smart e sicura",
+   "idea": "Hay interés por proteger robots aspiradores, smart TV y cámaras de ataques informáticos. Marcas tech pueden dar consejos prácticos junto a sus ofertas de Black Friday.",
    "formato": "Reel"
   },
   {
-   "titulo": "Serata Ballando",
-   "idea": "Ballando con le Stelle domina la conversación. Delivery y marcas de snacks o belleza pueden hacer encuestas sobre la clasificación o un 'look de la puntata'.",
-   "formato": "Historias con encuesta"
-  },
-  {
-   "titulo": "Pioggia? Consegna a casa",
-   "idea": "Alerta amarilla por lluvia en Roma y prórroga en Campania. Restaurantes y comercios pueden activar ofertas de entrega a domicilio con un mensaje simple.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Quattro passi dopo cena",
-   "idea": "En Bari, caminar después de cenar se volvió fenómeno social. Marcas de calzado, wellness y cafeterías pueden proponer su propia caminata comunitaria y documentarla.",
+   "titulo": "Ballando-style",
+   "idea": "Ballando con le Stelle domina la conversación. Usa el formato de 'classifica' para presentar productos o looks de fiesta.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Pioggia e coperte",
+   "idea": "Con lluvia y viento, comunica productos para el hogar cálido y entrega a domicilio.",
+   "formato": "Historia de Instagram"
+  },
+  {
+   "titulo": "GTA VI: libera spazio",
+   "idea": "Las guías para preparar la consola para GTA VI son tendencia. Ofertas de discos SSD, accesorios y conexión encajan esta semana.",
+   "formato": "Reel"
   }
  ]
 }

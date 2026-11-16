@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Alemania la conversación de consumo gira en torno al bolsillo: muchas distribuidoras subirán el precio de la electricidad desde enero y el sector artesanal advierte de dificultades. Al mismo tiempo el Black Friday ya está en marcha con ofertas en Nintendo Switch 2, televisores OLED y tarifas móviles, y la Verbraucherzentrale da consejos para ahorrar de verdad. GTA VI llega el jueves 19 y el primer Adviento (29 de noviembre) abre la temporada de mercados navideños. Ahorro demostrable, eficiencia energética y regalos bien elegidos son la apuesta de hoy.",
+ "lectura": "Alemania arranca una semana de tormenta, lluvias fuertes y viento: el 'Orkan' es lo más buscado. El bolsillo está en el centro: suben los precios de la electricidad en enero, se consulta el Weihnachtsgeld y se buscan ayudas para jubilados. El comercio espera un récord de 6.200 millones de euros en los días de Black Friday, con ofertas en Switch 2, Sonos y tecnología, mientras el Adviento empieza el 29 de noviembre. El consumidor alemán compara, planifica y valora ofertas transparentes y entregas fiables.",
  "semaforo": [
   {
-   "termino": "strompreise 2027",
+   "termino": "orkan",
    "color": "amarillo",
-   "por_que": "Subidas de precio de la electricidad anunciadas para enero.",
-   "idea": "Contenido de ahorro energético útil; evita el miedo y las promesas exactas de ahorro."
+   "por_que": "Semana de tormentas y viento fuerte.",
+   "idea": "Consejos útiles y productos de preparación; sin alarmismo."
   },
   {
-   "termino": "gta grand theft auto",
+   "termino": "tatort",
    "color": "verde",
-   "por_que": "Gran expectativa por el lanzamiento de GTA VI el 19 de noviembre.",
-   "idea": "Accesorios, almacenamiento y packs para la noche del estreno."
+   "por_que": "Serie policial de culto con conversación semanal.",
+   "idea": "Planes de domingo en casa y snacks; evita referencias a crímenes."
+  },
+  {
+   "termino": "strompreise 2027",
+   "color": "verde",
+   "por_que": "Subida de precios de electricidad anunciada.",
+   "idea": "Contenido de ahorro energético y productos eficientes."
+  },
+  {
+   "termino": "weihnachtsgeld",
+   "color": "verde",
+   "por_que": "Consultas sobre la paga extra de Navidad.",
+   "idea": "Guías de regalo y planificación de compras."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Búsquedas de ofertas de la consola para Black Friday.",
-   "idea": "Bundles de regalo con accesorios y precio final claro."
-  },
-  {
-   "termino": "cathie wood",
-   "color": "amarillo",
-   "por_que": "Interés por movimientos de inversión en acciones de IA.",
-   "idea": "Solo contenido educativo financiero, sin recomendaciones de compra."
-  },
-  {
-   "termino": "nordisch.info",
-   "color": "verde",
-   "por_que": "Historia viral sobre la restauración de una cabaña de jardín centenaria.",
-   "idea": "Hogar, jardín y artesanía: contenido de restauración y oficio."
+   "por_que": "Ofertas de consolas en Black Friday.",
+   "idea": "Bundles y comparativas de precios."
   }
  ],
  "audiencias": {
@@ -1276,32 +1276,44 @@
   "крымский мост",
   "miami international airport",
   "kanada",
-  "vergesellschaftung"
+  "vergesellschaftung",
+  "эстония",
+  "erpressung",
+  "EU-Länder planen \"Return Hubs\": SPD-Politiker wollen Dobrindts Abschiebezentren in Ruanda verhindern",
+  "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+  "Massenproteste gegen Tschechiens Medienreform „Wir werden uns das Land nicht wegnehmen lassen“",
+  "Streit um Stromsteuersenkung: Jetzt live: Merz und Söder äußern sich nach Treffen in München",
+  "Andy Burnham: Britischer Premierminister erklärt Brexit für gescheitert",
+  "Wie die Golfstaaten sich unabhängig von der Straße von Hormus machen wollen",
+  "Bevölkerungsprognosen: Mit diesen Zahlen bricht Chinas Erzählung von der globalen Dominanz zusammen",
+  "Vanessa Emde: Linken-Abgeordnete zweifelt an Wahlversprechen „Berlin bezahlbar machen“",
+  "Europäische Verteidigungskooperation im Fokus: MSC bringt European Defense Roundtable und öffentliche Townhall nach Berlin",
+  "Wohnungsmangel in Berlin: Gutachter kritisieren Gesetz gegen Vergesellschaftung"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Strompreise 2027: ahorra ya",
-   "idea": "Muchas distribuidoras suben la luz desde enero. Tiendas de hogar y energía pueden publicar 5 formas de ahorrar electricidad con productos concretos y el ahorro estimado explicado con prudencia.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Black Friday con lupa",
-   "idea": "La Verbraucherzentrale enseña a detectar ofertas falsas. Muestra el historial de precios de tus productos estrella y gana confianza.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Switch 2 y regalos gamer",
-   "idea": "Switch 2 con Mario Kart World y GTA VI están en la mira. Tiendas tech pueden armar paquetes de regalo con accesorios y tarjetas de memoria.",
+   "titulo": "Sturmfest zu Hause",
+   "idea": "Con la semana de tormenta, comunica productos para el hogar (iluminación, energía portátil, impermeables) con consejos prácticos.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kaffee und Gesundheit",
-   "idea": "Estudios sobre café y salud están entre lo más leído. Cafeterías y tostadores pueden compartir datos curiosos de su origen y preparación, sin hacer promesas médicas.",
+   "titulo": "Strom sparen vor 2027",
+   "idea": "Los precios de la electricidad suben en enero. Marcas de eficiencia energética pueden explicar ahorros concretos con ejemplos de consumo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Cuenta atrás al Adviento",
-   "idea": "El primer domingo de Adviento es el 29 de noviembre. Lanza calendarios de Adviento o packs de regalo de pequeños productores con reserva anticipada.",
+   "titulo": "Weihnachtsgeld clever nutzen",
+   "idea": "El Weihnachtsgeld es tendencia. Propón una guía de regalos con buena relación calidad-precio y ofertas de Black Friday verificadas.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Adventskalender-Countdown",
+   "idea": "El Adviento empieza el 29 de noviembre. Lanza un calendario de Adviento propio con ofertas diarias o contenido sorpresa.",
+   "formato": "Historia de Instagram"
+  },
+  {
+   "titulo": "Switch 2 und Gaming-Deals",
+   "idea": "Las ofertas de Switch 2 y GTA VI concentran búsquedas. Bundles de accesorios y juegos funcionan en video corto.",
    "formato": "TikTok"
   }
  ]

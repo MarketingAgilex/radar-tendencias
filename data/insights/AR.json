@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Argentina el aguinaldo de diciembre lidera las búsquedas: la gente ya hace cuentas de cuándo cobra y cuánto, y eso anticipa compras de fin de año. El clima (lluvias en Buenos Aires, tormentas en el interior) y el dólar siguen en la conversación diaria. Las ventas de autos eléctricos crecieron más de 650% en el año y el entretenimiento en casa (The Chosen, The Body, MasterChef Celebrity) mantiene a la audiencia frente a la pantalla. Mensajes de cuotas claras, precios estables y planes para el aguinaldo conectan mejor hoy.",
+ "lectura": "En Argentina el clima domina: alertas por tormentas en Buenos Aires y otras provincias, y el pronóstico es lo más buscado. Se acerca el fin de semana largo por el feriado del lunes 23 de noviembre, y crecen las consultas por el aguinaldo de diciembre. La brecha cambiaria, los televisores de tubo que vuelven a cotizar y los inventos más disruptivos del año muestran un consumidor atento al valor y a la novedad. Ofertas para el finde largo, cuotas claras y contenido de tecnología y escapadas tienen buen momento.",
  "ideas_hoy": [
   {
-   "titulo": "Plan aguinaldo",
-   "idea": "El aguinaldo es lo más buscado. Armá una guía 'qué hacer con el aguinaldo': un regalo, algo para la casa y un gusto, con tus productos y el precio final en cuotas.",
+   "titulo": "Escapada del finde largo",
+   "idea": "El lunes 23 es feriado. Hoteles, turismo local, gastronomía y ropa de temporada pueden lanzar paquetes de 'finde XL' con reserva anticipada.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Aguinaldo con plan",
+   "idea": "Las búsquedas sobre el aguinaldo crecen. Propón listas de regalos o compras inteligentes por rango de precio, con cuotas y precio final claro.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Precio en pesos, sin vueltas",
-   "idea": "La brecha entre dólar oficial y financiero vuelve a ser noticia. Si vendés, mostrá el precio en pesos y cuánto dura; la previsibilidad es un argumento de venta.",
-   "formato": "Copy para anuncio"
+   "titulo": "Tormenta en la ciudad",
+   "idea": "Hay alertas por tormentas. Delivery, paraguas, impermeables y calzado son relevantes hoy; comunica con humor porteño liviano.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Retro que vende",
-   "idea": "Los televisores de tubo vuelven a buscarse por nostalgia y videojuegos clásicos. Tiendas de segunda mano, coleccionistas y gamers pueden mostrar su catálogo retro con historia.",
+   "titulo": "Lo retro vende",
+   "idea": "Los televisores de tubo vuelven a cotizarse. Tiendas de vintage y coleccionables pueden mostrar piezas con historia y precio de referencia.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Eléctricos al alza",
-   "idea": "Los patentamientos de autos eléctricos crecieron más de 650%. Talleres, cargadores y aseguradoras pueden explicar en 60 segundos qué cambia en el mantenimiento y los costos.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Día de lluvia, día de serie",
-   "idea": "Con lluvias y series en tendencia (The Chosen, The Body), restaurantes y delivery pueden lanzar un 'combo maratón' para la noche.",
-   "formato": "Reel"
+   "titulo": "Cyber Monday a la vista",
+   "idea": "Prepara tu catálogo para Black Friday y Cyber Monday con lista de espera y aviso por WhatsApp; el argentino compara y espera el mejor momento.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "clima",
+   "color": "verde",
+   "por_que": "Pronósticos y alertas por tormentas en varias provincias.",
+   "idea": "Productos de lluvia y delivery con tono útil."
+  },
+  {
    "termino": "aguinaldo",
    "color": "verde",
-   "por_que": "La gente busca fechas y montos del aguinaldo de diciembre.",
-   "idea": "Guías de compra y ahorro con tus productos; no prometas montos ni fechas oficiales."
+   "por_que": "Consultas por montos y fechas de pago de diciembre.",
+   "idea": "Planes de regalo y compras en cuotas para las fiestas."
   },
   {
-   "termino": "clima cipolletti",
+   "termino": "lunes 23 de noviembre es feriado",
    "color": "verde",
-   "por_que": "Búsquedas del pronóstico en la Patagonia norte.",
-   "idea": "Comercios regionales: productos para el clima del día."
+   "por_que": "Se viene fin de semana largo.",
+   "idea": "Turismo, gastronomía y escapadas con reserva anticipada."
   },
   {
-   "termino": "the chosen temporada 6",
-   "color": "verde",
-   "por_que": "Interés por la nueva temporada de la serie.",
-   "idea": "Contenido de recomendación para ver en familia; tono respetuoso."
+   "termino": "anses",
+   "color": "amarillo",
+   "por_que": "Consultas por pagos y fechas de beneficios.",
+   "idea": "Solo información útil; no prometas beneficios que no gestionas."
   },
   {
-   "termino": "the body netflix",
+   "termino": "vulcan",
    "color": "verde",
-   "por_que": "Serie juvenil de Netflix con buenas críticas.",
-   "idea": "Looks Y2K y contenido de estilo inspirado en la serie."
-  },
-  {
-   "termino": "german martitegui",
-   "color": "verde",
-   "por_que": "MasterChef Celebrity y su jurado generan conversación.",
-   "idea": "Gastronomía: recetas y desafíos 'estilo MasterChef' con tus productos."
+   "por_que": "Falla de un cohete con satélites de internet de Amazon.",
+   "idea": "Contenido tecnológico de curiosidad para marcas de conectividad."
   }
  ],
  "ocultar": [
@@ -128,7 +128,9 @@
   "De su frustrada inversión en La Plata al piso de lujo en Devoto: el patrimonio del árbitro Beligoy en la mira",
   "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
   "chiqui tapia",
-  "rocio robles"
+  "rocio robles",
+  "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
+  "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof"
  ],
  "audiencias": {
   "general": {

@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos vive en plena temporada de Sinterklaas: la llegada del Sint con un nuevo actor fue lo más buscado del fin de semana y pakjesavond (5 de diciembre) marca el calendario de regalos. A la vez, el Black Friday se adelanta con fuerte foco en baterías domésticas antes del fin de la saldering, energía y gaming. La competencia entre contratos dinámicos de energía y la retirada de un lote de leche UHT de Lidl muestran un consumidor atento a precio y seguridad. Regalos para el 5 de diciembre, ahorro energético y transparencia funcionan mejor hoy.",
+ "lectura": "Países Bajos vive la temporada de Sinterklaas: el nuevo Sint, interpretado por Gijs Naber, y la llegada del barco de vapor fueron lo más buscado, y la pakjesavond del 5 de diciembre ya marca las compras. En consumo, el Black Friday se extiende durante semanas (y hay críticas de empresarios), y es el último antes del fin de la 'saldering' de paneles solares. Lidl retiró una leche UHT por bacterias y Max Verstappen firmó con una empresa neerlandesa. El consumidor neerlandés busca valor, practicidad y regalos para la fiesta familiar.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "Nuevo actor de Sinterklaas, lo más buscado del fin de semana.",
-   "idea": "Contenido festivo y familiar de Sinterklaas; respeta la tradición."
+   "por_que": "Nuevo intérprete de Sinterklaas con enorme interés.",
+   "idea": "Contenido familiar y de regalos para pakjesavond, con respeto a la tradición."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada del Sint abre la temporada de regalos.",
-   "idea": "Calendario de regalos y fechas límite para pakjesavond."
+   "por_que": "Llegada del Sint a Países Bajos.",
+   "idea": "Campañas de regalos y contenido para niños y familias."
   },
   {
-   "termino": "anwb",
+   "termino": "max verstappen vdk",
    "color": "verde",
-   "por_que": "Competencia en contratos dinámicos de energía.",
-   "idea": "Comparativas y guías de ahorro con datos claros."
+   "por_que": "Nuevo acuerdo comercial del piloto con una empresa neerlandesa.",
+   "idea": "Contenido de motor y patrocinio; evita usar su imagen sin permiso."
   },
   {
-   "termino": "warmte",
-   "color": "verde",
-   "por_que": "Interés por dispositivos que detectan fugas de calor en casa.",
-   "idea": "Hogar y bricolaje: soluciones de aislamiento con precio."
-  },
-  {
-   "termino": "bruna",
+   "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Búsqueda ambigua: puede referirse a la cadena de librerías y papelerías Bruna o a una marca de belleza brasileña.",
-   "idea": "Librerías y regalos: listas de libros para Sinterklaas; confirma el contexto antes de usar el término."
+   "por_que": "Retirada de un producto lácteo por seguridad.",
+   "idea": "Solo información de seguridad alimentaria; no lo uses para vender."
+  },
+  {
+   "termino": "nicolette kluijver",
+   "color": "verde",
+   "por_que": "Conversación por el programa Expeditie Robinson.",
+   "idea": "Contenido de aventura y 'qué llevarías a una isla' con tus productos."
   }
  ],
  "audiencias": {
@@ -1208,33 +1208,45 @@
   "Brand in huis Tilburg vermoedelijk aangestoken, buren met baby ontkomen",
   "Vermoedelijke brandbom zet woning in Tilburg in brand: buren vluchten met baby naar buiten",
   "file a28",
-  "eindhoven"
+  "eindhoven",
+  "rené karst",
+  "dilan yeşilgöz-zegerius",
+  "sasha digiulian",
+  "In enorme Achterhoekse groepsapp worden duizenden 'creepshots' gedeeld",
+  "Oplichters steeds slimmer met babbeltrucs: dit jaar al ruim 14.000 meldingen van nepagenten",
+  "112-nieuws: Aanhoudingen na dodelijk ongeluk Oudewater | Verborgen ruimtes in auto's",
+  "Tranen bij Bredase huurster na drugs in haar woning: „Als ik het had geweten, had hij op straat gestaan”",
+  "Nieuwe hype onder criminelen: prijzige Pokémonkaart is ‘de nieuwe Rolex’",
+  "Praat mee: om vliegen veilig te houden, moét de Navo reageren op de Russische gps-sabotage",
+  "Ondernemers bellen niet met de VVD en willen dat de partij inbindt",
+  "Het is tijd voor ander leiderschap bij de VVD, en de oplossing kan uit Rotterdam komen",
+  "Grote brand op Elbaweg in Amsterdam gemeld"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cadeautjes para pakjesavond",
-   "idea": "Con el Sint ya en el país, publica una guía de regalos por edad y presupuesto con la fecha límite de pedido para recibir antes del 5 de diciembre.",
+   "titulo": "Cadeautjes voor pakjesavond",
+   "idea": "Con Sinterklaas en el centro, propone regalos por presupuesto con entrega antes del 5 de diciembre y opción de envoltorio.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Batería antes de la saldering",
-   "idea": "Las ofertas de baterías domésticas se multiplican antes del fin de la saldering. Instaladores y tiendas de energía pueden explicar en un video corto cuándo compensa la inversión.",
+   "titulo": "Gedicht met je product",
+   "idea": "Los poemas de Sinterklaas son tradición. Invita a tu comunidad a escribir un 'gedicht' sobre tu producto y premia los mejores.",
    "formato": "Reel"
   },
   {
-   "titulo": "Calor que no se escapa",
-   "idea": "Se busca cómo evitar que el calor se escape de la casa. Ferreterías pueden mostrar 3 arreglos baratos con su costo y el ahorro estimado.",
-   "formato": "TikTok"
+   "titulo": "Laatste Black Friday voor de saldering",
+   "idea": "Es el último Black Friday antes del fin de la saldering. Marcas de energía y baterías pueden explicar el cambio con datos claros.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Black November sin trampas",
-   "idea": "Muchas tiendas convierten noviembre entero en 'Black November'. Si lo haces, comunica qué producto rebajas cada semana y tu política de devoluciones, un tema que preocupa a los compradores.",
+   "titulo": "Black Friday zonder stress",
+   "idea": "Hay cansancio por las semanas de Black Friday. Diferénciate con una sola oferta clara y sin presión.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Energía a la carta",
-   "idea": "La pelea por contratos dinámicos de energía entre proveedores es noticia. Asesores y comparadores pueden publicar una guía simple de cómo elegir.",
-   "formato": "LinkedIn"
+   "titulo": "Winterse koffie",
+   "idea": "Wakuli abrió su local 25 en Amsterdam Centraal. Marcas de café y bebidas calientes pueden conectar con la rutina de invierno.",
+   "formato": "TikTok"
   }
  ]
 }

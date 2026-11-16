@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Francia el Black Friday ya funciona como inicio de las compras navideñas: los medios destacan que los franceses 'compran Navidad en noviembre', con ofertas fuertes en tecnología, hogar y bicicletas. GTA VI, que sale el jueves 19, está en todas partes, al punto de que algunos asalariados piden vacaciones para jugar. Star Academy y los programas de televisión siguen fuertes, y el pádel vive un auge con nuevos clubes. Ofertas claras para regalos, contenido gamer y propuestas de ocio activo encajan bien hoy.",
+ "lectura": "Francia se prepara para la jornada de huelga del martes 17 de noviembre en función pública, transportes y liceos, y para rachas de viento intensas. En consumo, el Black Friday ya empezó en tecnología (TV OLED, tabletas, SSD, PC gamer) y la liquidación de stocks de PS5 antes de GTA VI concentra búsquedas. El entretenimiento televisivo (Star Academy, N'oubliez pas les paroles) y las historias de casas reformadas inspiran conversación. El consumidor francés busca 'bons plans' verificados y comodidad en casa.",
  "ideas_hoy": [
   {
-   "titulo": "Noël dès novembre",
-   "idea": "Los franceses adelantan sus compras de Navidad al Black Friday. Publica una guía de regalos por presupuesto (moins de 30, 50 y 100 €) y la fecha límite de entrega para Navidad.",
+   "titulo": "Grève du 17 : on livre quand même",
+   "idea": "Anticipa la huelga del martes con mensajes de entrega o recogida alternativa y horarios. Reduce la incertidumbre del cliente.",
+   "formato": "Historia de Instagram"
+  },
+  {
+   "titulo": "Bons plans vérifiés",
+   "idea": "Los medios están listando ofertas reales de Black Friday. Publica tu precio de referencia y el descuento real para ganar credibilidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Congé GTA VI",
-   "idea": "Algunos asalariados piden días libres para jugar GTA VI. Restaurantes, delivery y tiendas tech pueden lanzar un 'pack sortie GTA VI' para la noche del jueves 19.",
+   "titulo": "Prêt pour GTA VI",
+   "idea": "La liquidación de PS5 y GTA VI dominan las búsquedas. Bundles de accesorios, snacks e internet funcionan esta semana.",
    "formato": "TikTok"
   },
   {
-   "titulo": "La fiebre del pádel",
-   "idea": "El pádel crece en Francia aunque los clubes enfrentan retos. Tiendas deportivas y marcas de ropa pueden lanzar una guía para principiantes con su primer equipo.",
+   "titulo": "Avant/après rénovation",
+   "idea": "Historias de casas reformadas son tendencia. Marcas de bricolaje y deco pueden mostrar transformaciones reales con presupuesto.",
    "formato": "Reel"
   },
   {
-   "titulo": "Star Academy en casa",
-   "idea": "Star Academy reúne audiencia cada semana. Marcas de belleza y snacks pueden hacer dinámicas de votación o un 'look del prime'.",
-   "formato": "Historias con encuesta"
-  },
-  {
-   "titulo": "Hecho en Francia, explicado",
-   "idea": "Fabricar en Francia sin disparar costos es noticia. Marcas locales pueden contar su proceso y por qué su precio es el que es: el origen vende cuando se explica.",
-   "formato": "LinkedIn"
+   "titulo": "Soirée Star Academy",
+   "idea": "Star Academy reúne audiencia. Propón planes de 'noche de programa' con comida, deco o moda para verlo en grupo.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "El programa genera conversación cada fin de semana.",
-   "idea": "Encuestas y contenido ligero sobre los primes, sin atacar a concursantes."
+   "por_que": "Programa musical con gran audiencia.",
+   "idea": "Retos musicales y votaciones con tus productos."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento el 19 de noviembre, fenómeno global.",
-   "idea": "Packs de lanzamiento y accesorios; evita material oficial sin permiso."
+   "por_que": "Lanzamiento esperado de videojuego.",
+   "idea": "Bundles gaming y contenido de preparación."
   },
   {
-   "termino": "vache",
+   "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Una vaca dio a luz a trillizos de colores distintos en el Jura y se volvió viral.",
-   "idea": "Productos lácteos y de origen: contenido tierno sobre el campo y los productores."
+   "por_que": "Liquidación de stocks de PS5 antes del lanzamiento.",
+   "idea": "Comparativas de precios y accesorios."
   },
   {
-   "termino": "padel",
-   "color": "verde",
-   "por_que": "Auge del pádel y de nuevos clubes.",
-   "idea": "Equipamiento, ropa y clases para principiantes."
-  },
-  {
-   "termino": "thermalisme",
+   "termino": "arnaud sncf",
    "color": "amarillo",
-   "por_que": "Debate sobre el reembolso de las curas termales.",
-   "idea": "Spas y turismo de bienestar: información clara de precios, sin opinar sobre el debate."
+   "por_que": "Historia viral de un control que tuvo consecuencias graves para un usuario.",
+   "idea": "Evita usarla para vender; si eres de movilidad, habla de transparencia y atención al cliente."
+  },
+  {
+   "termino": "maison",
+   "color": "verde",
+   "por_que": "Historias de compra y reforma de casas.",
+   "idea": "Contenido de deco, bricolaje y antes/después."
   }
  ],
  "audiencias": {
@@ -1280,6 +1280,20 @@
   "sainte-soline",
   "hongrie argent liquide",
   "bruno le maire",
-  "lukas hässig"
+  "lukas hässig",
+  "rafale",
+  "expatrié",
+  "bagnolet",
+  "gérard depardieu",
+  "DIRECT. Colère lycéenne: interpellé dans un lycée de Nantes, Édouard Geffray dit \"respecter\" les revendications des élèves",
+  "EN DIRECT, présidentielle 2027 : « Toutes les catégories de revenus ont tendance à se situer au milieu de l’échelle sociale »",
+  "\"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes",
+  "Colère des lycéens : Les rassemblements interdits devant plusieurs lycées et universités à Paris",
+  "Saint-Denis : ciblé par des menaces, le proviseur du lycée Paul-Éluard bénéficie d'une «autorisation d’absence»",
+  "Loi « relance du logement » : des maires rappellent l’urgence d’un ANRU 3 pour résorber les « trappes à pauvreté » dans les quartiers populaires",
+  "«Robots tueurs» : le secrétaire général de l'ONU appelle à agir contre ces armes «impitoyables»",
+  "Les rassemblements et cortèges sont interdits autour de plusieurs lycées et universités à Paris et en région parisienne",
+  "À Paris, la préfecture interdit les rassemblements près de 15 lycées et campus universitaires",
+  "Des interdictions de rassemblement autour de lycées et d'établissements supérieurs à Paris et en région parisienne"
  ]
 }

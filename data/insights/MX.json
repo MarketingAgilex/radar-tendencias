@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Hoy termina El Buen Fin 2026 con el puente del Día de la Revolución: plazas llenas, tecnología liderando ventas y Profeco recordando la diferencia entre oferta y promoción. Ropa y juguetes están entre lo más buscado, señal de que muchos ya adelantan Navidad. Los frentes fríos bajan temperaturas en varios estados y el entretenimiento sigue fuerte (La Granja VIP, La Mansión VIP, conciertos en CDMX). El siguiente gancho es el Black Friday del 27 de noviembre y la 'cuesta' de diciembre: mensajes de meses sin intereses, entrega puntual y precio transparente funcionan mejor.",
+ "lectura": "Hoy termina El Buen Fin: los medios reportan plazas llenas, tecnología al frente de las ventas, compras a meses sin intereses y quejas atendidas por Profeco. El consumidor mexicano compara 'oferta' contra 'promoción' y piensa ya en el Black Friday y en la Navidad adelantada. El entretenimiento manda en la conversación: La Granja VIP, La Mansión VIP y los conciertos de Karol G en CDMX, además de la llegada de los frentes fríos 6 y 7. Es buen momento para cerrar ventas de último día y preparar la siguiente ola con mensajes claros de entrega y garantía.",
  "ideas_hoy": [
   {
    "titulo": "Últimas horas de Buen Fin",
-   "idea": "El Buen Fin termina hoy. Si tienes ofertas activas, publica un recordatorio con hora de cierre y stock real; si no participaste, ofrece un 'Buen Fin extendido' de 48 horas a tu base de clientes por WhatsApp.",
-   "formato": "Historias + WhatsApp"
+   "idea": "Hoy cierra El Buen Fin. Haz un recordatorio con hora límite, precio final y fecha de entrega garantizada; quien aún duda necesita certeza de que su compra llega a tiempo.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Oferta o promoción, sin rollo",
-   "idea": "Profeco está explicando la diferencia entre oferta y promoción. Haz un video corto mostrando el precio anterior y el actual de tus productos: la transparencia hoy vende más que el porcentaje gigante.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Kit frente frío",
-   "idea": "Los frentes fríos 6 y 7 traen temperaturas bajo cero en varios estados. Tiendas de ropa, hogar y cafeterías pueden armar un 'kit para el frío' (cobija, termo, chamarra, bebida caliente) con entrega rápida.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Navidad adelantada",
-   "idea": "Ropa y juguetes fueron de lo más buscado en el Buen Fin: mucha gente ya está comprando regalos. Lanza una guía de regalos por presupuesto (menos de 300, 500 y 1,000 pesos) para quien todavía no termina su lista.",
+   "titulo": "Oferta vs. promoción",
+   "idea": "Profeco está explicando la diferencia y los medios hablan de quejas. Un carrusel que muestre tu política de devolución y tu precio de referencia te diferencia de quien infla precios.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Reality en tu feed",
-   "idea": "La Granja VIP y La Mansión VIP dominan la conversación. Marcas de snacks, belleza o moda pueden subirse con encuestas tipo '¿quién se queda?' y un producto como premio para quien acierte.",
-   "formato": "Historias con encuesta"
+   "titulo": "Kit para el frente frío",
+   "idea": "Los frentes fríos 6 y 7 traen temperaturas bajo cero en varios estados. Ropa térmica, cobijas, calefactores y bebidas calientes con envío rápido tienen gancho inmediato.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Reality que vende",
+   "idea": "La Granja VIP y La Mansión VIP están en lo más buscado. Usa el formato de 'eliminación' o 'votación' para que tu audiencia elija el producto que entra a tu catálogo navideño.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Del Buen Fin al Black Friday",
+   "idea": "Muchos esperan el 27 de noviembre para comparar. Anuncia desde ya qué productos tendrán precio especial y abre lista de espera por WhatsApp para capturar al indeciso.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "quien salió de la granja vip hoy",
-   "color": "verde",
-   "por_que": "Alta conversación por cada eliminación del reality.",
-   "idea": "Encuestas y reacciones en tono ligero, sin burlarse de los participantes."
-  },
-  {
-   "termino": "apple tv",
-   "color": "verde",
-   "por_que": "Interés por la plataforma y su función de lengua de señas en el cine en streaming.",
-   "idea": "Contenido de inclusión y accesibilidad: cómo tu marca facilita la vida a todos."
-  },
-  {
-   "termino": "nocturne",
-   "color": "amarillo",
-   "por_que": "Búsqueda de nicho por un videojuego con reseñas mixtas.",
-   "idea": "Solo para tiendas gamer: reseñas honestas, sin prometer que es 'el juego del año'."
-  },
-  {
    "termino": "la mansion vip",
    "color": "verde",
-   "por_que": "El reality sigue sumando votaciones y comentarios.",
-   "idea": "Memes y dinámicas de votación con tu producto como premio."
+   "por_que": "Reality con alta conversación por votaciones y eliminaciones.",
+   "idea": "Dinámicas de votación y memes de 'quién se queda' con tus productos."
+  },
+  {
+   "termino": "inapam",
+   "color": "amarillo",
+   "por_que": "Búsquedas sobre pagos y beneficios para adultos mayores.",
+   "idea": "Información útil y descuentos para adultos mayores, sin prometer apoyos que no das."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "Promociones de Buen Fin en boletos de conciertos y eventos.",
-   "idea": "Bares, transporte y hoteles: paquetes 'antes y después del concierto'."
+   "por_que": "El Buen Fin llegó a la venta de boletos con descuentos.",
+   "idea": "Experiencias como regalo navideño: combos de boleto más producto o servicio."
+  },
+  {
+   "termino": "karol g concierto",
+   "color": "verde",
+   "por_que": "Conciertos masivos en CDMX y reprogramación de una fecha.",
+   "idea": "Contenido de outfit y 'lo que llevo al concierto'; evita usar la imagen de la artista sin permiso."
+  },
+  {
+   "termino": "mexico va",
+   "color": "amarillo",
+   "por_que": "Rumor de apagón que medios están desmintiendo.",
+   "idea": "No amplifiques el rumor; si vendes energía portátil, habla de prevención general."
   }
  ],
  "audiencias": {
@@ -1118,6 +1118,13 @@
   "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
   "Celebra Duarte inversión de 40.2 mdp al Conservatorio de Música de Tultepec",
   "Casa Quinqué reúne arte y solidaridad para acompañar a familias buscadoras - El Occidental",
-  "IMPULSA ALEXA JASSO EL DISEÑO Y TALENTO CREATIVO ZACATECANO"
+  "IMPULSA ALEXA JASSO EL DISEÑO Y TALENTO CREATIVO ZACATECANO",
+  "Marcha de Generación Z arriba al Zócalo; reportan saldo blanco tras asistencia de 120 personas",
+  "Marchas en CDMX Hoy Lunes 16 de Noviembre: Calles y Avenidas con Bloqueos",
+  "Busca ONG legalizar la eutanasia en la CDMX",
+  "En la CDMX, 1 de cada 2 muertes viales son en moto; “mejor arreglen las calles”, responden repartidores ante regulación",
+  "MILENIO. . 🔴 De manera extraoficial, se espera que los restos de Miguel Ángel Félix Gallardo lleguen a una funeraria de Guadalajara, donde preparan una sala para su despedida. Hasta el momento, no hay confirmación de autoridades ni familiares. 📺#MILE",
+  "🔴 De manera extraoficial, se espera que los restos de Miguel Ángel Félix Gallardo lleguen a una funeraria de Guadalajara, donde preparan una sala para su despedida. Hasta el momento, no hay confirmación de autoridades ni familiares. 📺#MILENIO22h co",
+  "\"Un hombre de buena voluntad\": esto opinaba Miguel Ángel Félix Gallardo de AMLO"
  ]
 }

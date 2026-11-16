@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile comienza la semana con el cierre de cinco estaciones de la Línea 5 del Metro, lluvias en el centro-sur y búsquedas del tiempo en varias ciudades: la movilidad y el clima marcan la agenda diaria. También se buscan subsidios y beneficios (Subsidio Eléctrico, la gift card de BancoEstado), señal de un consumidor atento a ahorrar. MasterChef y La Mansión VIP mueven la conversación de entretenimiento, y el Black Friday ya aparece con guías para revisar si los descuentos son reales. Mensajes prácticos, de ahorro verificable y servicio cercano funcionan mejor hoy.",
+ "lectura": "Chile está pendiente del clima: tras la ola de calor vuelven las lluvias a Santiago, hay alerta en el centro-sur y cortes de luz programados en varias comunas. Un bólido que iluminó el cielo del país se volvió conversación nacional. En consumo, Samsung y el retail preparan el Black Friday, BancoEstado ofrece gift cards en noviembre y se abre el nuevo tramo del subsidio habitacional DS1. Es buen momento para mensajes útiles, ofertas con precio claro y contenido liviano que aproveche la curiosidad del momento.",
  "ideas_hoy": [
   {
-   "titulo": "Línea 5 cerrada, nosotros llegamos",
-   "idea": "Con estaciones cerradas en la Línea 5, comercios del sector pueden avisar cómo llegar, ampliar delivery o retiro en tienda. Un post simple con mapa y horario resuelve y fideliza.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Descuento real, no inflado",
-   "idea": "Los medios enseñan a comprobar si un descuento de Black Friday es real. Muestra el historial de precio de tus productos estrella; la transparencia es tu mejor anuncio.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Kit lluvia del sur",
-   "idea": "Hasta 100 mm de lluvia en Biobío, La Araucanía y Los Ríos. Tiendas de ropa, hogar y ferreterías del sur pueden promocionar impermeables, botas y calefacción con despacho rápido.",
+   "titulo": "Del calor a la lluvia",
+   "idea": "Santiago pasa de ola de calor a lluvias y tormentas eléctricas. Tiendas de ropa y hogar pueden mostrar 'lo que necesitas esta semana' con despacho rápido.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cuentas de la luz",
-   "idea": "El Subsidio Eléctrico vuelve a abrir postulaciones pronto. Marcas de hogar y tecnología pueden compartir tips de ahorro de energía con productos concretos (ampolletas LED, enchufes inteligentes).",
+   "titulo": "El bólido como gancho",
+   "idea": "El bólido que cruzó el cielo de Chile es tendencia. Úsalo como gancho creativo ('esto pasó más rápido que nuestro despacho') con humor liviano.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cocina con historia",
-   "idea": "MasterChef está en tendencia y una picada de comida chilena con 37 años de historia también es noticia. Restaurantes pueden mostrar su plato más tradicional y la historia detrás.",
-   "formato": "Reel"
+   "titulo": "Black Friday sin chamullo",
+   "idea": "Comparte tu precio antes y después y las condiciones de despacho. El consumidor chileno compara harto y castiga las ofertas infladas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Hogar nuevo con subsidio",
+   "idea": "Se abre el tramo 4 del Subsidio DS1. Marcas de muebles, decoración y servicios para el hogar pueden crear guías para quien sueña con la casa propia, sin prometer beneficios estatales.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Cortes de luz: prepárate",
+   "idea": "Hay cortes programados en Santiago. Linternas, power banks y planes para trabajar desde cafés o cowork se comunican bien con tono práctico.",
+   "formato": "Historia de Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "bólido",
+   "color": "verde",
+   "por_que": "Fenómeno visto desde varias regiones con mucha conversación.",
+   "idea": "Ganchos creativos de curiosidad y ciencia, con tono liviano."
+  },
+  {
+   "termino": "pronóstico del tiempo",
+   "color": "verde",
+   "por_que": "Cambio brusco de calor a lluvias.",
+   "idea": "Ropa, calzado y accesorios para el cambio de clima."
+  },
+  {
    "termino": "línea 5",
    "color": "amarillo",
-   "por_que": "Cierre de cinco estaciones de la Línea 5 del Metro.",
-   "idea": "Avisos útiles de acceso, delivery y retiro; nada de humor con la molestia de los usuarios."
+   "por_que": "Cierre de estaciones del Metro afecta traslados.",
+   "idea": "Información útil y promos de despacho para evitar el traslado."
   },
   {
-   "termino": "maria pombo",
+   "termino": "banco estado",
    "color": "verde",
-   "por_que": "La influencer española apareció en MasterChef y generó comentarios.",
-   "idea": "Marcas de moda y belleza: contenido de estilo 'look de invitada'."
+   "por_que": "Interés por la gift card que ofrece el banco en noviembre.",
+   "idea": "Explica medios de pago aceptados y beneficios de tu tienda."
   },
   {
-   "termino": "subsidio",
+   "termino": "hbo max",
    "color": "verde",
-   "por_que": "Interés en la próxima postulación al Subsidio Eléctrico.",
-   "idea": "Tips de ahorro energético con productos concretos, sin prometer montos de subsidio."
-  },
-  {
-   "termino": "tiempo en curico",
-   "color": "verde",
-   "por_que": "Búsquedas del pronóstico local en la zona central.",
-   "idea": "Comercios regionales: 'qué necesitas para el clima de hoy'."
-  },
-  {
-   "termino": "la mansion vip",
-   "color": "verde",
-   "por_que": "El reality genera votaciones también en Chile.",
-   "idea": "Encuestas y memes ligeros con respeto."
+   "por_que": "Estreno de documental sobre un ídolo del fútbol chileno.",
+   "idea": "Contenido de entretenimiento y 'plan de fin de semana' en casa."
   }
  ],
  "ocultar": [
@@ -134,7 +134,12 @@
   "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades",
   "Reunión con Kast, almuerzo en Viñedo Chadwick y cóctel en el Club de Golf: la agenda de Jamie Dimon en Chile",
   "Dramático rescate en Melipilla: familia con dos niños queda aislada por crecida del río Maipo y debe ser evacuada",
-  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR"
+  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
+  "estrecho",
+  "Kast deposita ofrenda floral a Ho Chi Minh en Vietnam: años antes, lo tildó de \"asesino en serie\"",
+  "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”",
+  "Entre promesas y pañales: la eterna espera de las familias chilenas por una sala cuna universal",
+  "Amparo económico rechazado por licitación de buses en Santiago"
  ],
  "audiencias": {
   "general": {
@@ -917,6 +922,81 @@
     "ES": "¡vaya!",
     "AR": "¡uh! / ¡qué macana!"
    }
+  },
+  {
+   "expresion": "Pulento",
+   "significado": "Excelente, muy bueno.",
+   "uso": "Todo el país, sobre todo jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Quedó pulento el regalo, gracias.",
+   "equivalentes": {
+    "CO": "chévere / bacano",
+    "MX": "chido",
+    "EC": "bacán",
+    "ES": "guay",
+    "AR": "genial / re copado"
+   }
+  },
+  {
+   "expresion": "Cahuín",
+   "significado": "Chisme, enredo o lío entre personas.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Nada de cahuines: el precio es el que ves.",
+   "equivalentes": {
+    "CO": "chisme / bochinche",
+    "MX": "chisme / argüende",
+    "EC": "chisme",
+    "ES": "cotilleo / lío",
+    "AR": "chusmerío / quilombo"
+   }
+  },
+  {
+   "expresion": "Achuntarle",
+   "significado": "Acertar, atinarle.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Le achuntaste al regalo perfecto.",
+   "equivalentes": {
+    "CO": "atinarle",
+    "MX": "atinarle",
+    "EC": "atinarle",
+    "ES": "acertar / dar en el clavo",
+    "AR": "pegarla"
+   }
+  },
+  {
+   "expresion": "Chamullo",
+   "significado": "Mentira, cuento o palabrería para convencer.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Ofertas reales, sin chamullo.",
+   "equivalentes": {
+    "CO": "carreta / paja",
+    "MX": "choro / cuento",
+    "EC": "cuento / floro",
+    "ES": "rollo / camelo",
+    "AR": "chamuyo / verso"
+   }
+  },
+  {
+   "expresion": "Fono",
+   "significado": "Teléfono (número o aparato fijo).",
+   "uso": "Todo el país, también en avisos comerciales.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Pide por WhatsApp o al fono de la tienda.",
+   "equivalentes": {
+    "CO": "teléfono / cel",
+    "MX": "teléfono / cel",
+    "EC": "teléfono",
+    "ES": "teléfono / móvil",
+    "AR": "teléfono / celu"
+   }
   }
  ],
  "creadores": {
@@ -1060,11 +1140,11 @@
   },
   {
    "titulo": "Tecnología y gaming para Black Friday",
-   "senal": "Medios chilenos publican guías de monitores gamer y pantallas para el Black Friday.",
+   "senal": "Samsung y el retail chileno preparan eventos de pantallas y tecnología para el Black Friday, y GTA VI impulsa la demanda de consolas y accesorios a nivel global.",
    "desde": "US",
    "hacia": "CL",
    "sector": "gaming",
-   "accion": "Comparativas honestas de precio local vs. traer desde EE. UU., con costos completos."
+   "accion": "Comparativas honestas de precio local vs. traer desde EE. UU., con costos completos y plazos de entrega reales."
   },
   {
    "titulo": "Productos del mar y salmón chileno",
@@ -1073,6 +1153,14 @@
    "hacia": "US",
    "sector": "alimentos",
    "accion": "Contenido B2B sobre calidad, certificaciones y sostenibilidad de la cadena."
+  },
+  {
+   "titulo": "Ropa y accesorios para el cambio de clima",
+   "senal": "Santiago pasa de ola de calor a lluvias y tormentas, y crecen las búsquedas del pronóstico del tiempo.",
+   "desde": "CL",
+   "hacia": "CL",
+   "sector": "moda",
+   "accion": "Señal para investigar: colecciones de entretiempo y despacho rápido comunicadas con guías de uso según el clima."
   }
  ],
  "anuncios": [

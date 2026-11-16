@@ -1,65 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia cierra hoy el puente festivo de la Independencia de Cartagena con el Concurso Nacional de Belleza en pantalla y planes de entretenimiento en casa (HBO Max, Netflix, La Mansión VIP). La conversación de compras ya apunta al Black Friday del 27 de noviembre: los medios publican fechas, categorías con más descuento y consejos para comprar seguro, y en Meta abundan los anuncios con 'envío gratis' y pago contraentrega. La llegada del Renault 4 eléctrico y la subida de precios de alimentos como la papa muestran un comprador que compara y planea. Ganan los mensajes de precio claro, entrega confiable y ahorro concreto.",
+ "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con 2,1 millones de vehículos en las vías de Cundinamarca y búsquedas del pico y placa regional para el regreso a Bogotá. La atención de compras ya está en el Black Friday del 27 de noviembre: los medios publican fechas y productos con mayores descuentos, y el consumidor quiere saber si las rebajas son reales. También pesan el precio del dólar, la lista de celulares que se quedan sin WhatsApp y los bazares prenavideños de emprendedoras en Bogotá. Las marcas que expliquen con claridad precio final, garantía y fechas de entrega tienen terreno ganado.",
  "ideas_hoy": [
   {
-   "titulo": "Lunes festivo, plan de sofá",
-   "idea": "HBO Max, Netflix y La Mansión VIP están entre lo más buscado y hoy es festivo. Restaurantes, tiendas de snacks y licoreras pueden lanzar un 'combo maratón' con domicilio y mostrarlo en un video corto tipo 'mi plan de hoy'.",
-   "formato": "Reel"
+   "titulo": "Regreso del puente sin estrés",
+   "idea": "Hoy miles vuelven a Bogotá con pico y placa regional. Publica un contenido útil con horarios y una oferta para recibir pedidos en casa o en la oficina esta semana, y engancha con el 'ya volvimos a la rutina'.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Contraentrega sin letra pequeña",
-   "idea": "En Meta se repite la fórmula 'envío gratis + pago contraentrega' para Black Friday. Si la ofreces, dilo en los primeros 3 segundos; si no, explica qué garantía das (cambios, tiempos de entrega) para competir en confianza.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Cuenta regresiva al 27",
-   "idea": "Faltan 11 días para el Black Friday. Publica un carrusel con tu calendario (preventa, día principal, Cyberlunes) y pide que guarden el post; así conviertes la expectativa en recordación sin regalar margen antes de tiempo.",
+   "titulo": "Black Friday con precio real",
+   "idea": "Los medios están enseñando a comprobar si un descuento es real. Muestra tu precio de antes y de ahora, con envío incluido, y aclara condiciones: la transparencia genera confianza frente a los 'descuentos inflados'.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lo eléctrico llegó al barrio",
-   "idea": "El nuevo Renault 4 eléctrico disparó búsquedas. Talleres, aseguradoras, parqueaderos o tiendas de accesorios pueden explicar qué cambia con un carro eléctrico (carga, mantenimiento, costos) y posicionarse como guía.",
-   "formato": "LinkedIn"
+   "titulo": "¿Tu celular se queda sin WhatsApp?",
+   "idea": "Es tendencia la lista de celulares que pierden WhatsApp desde hoy. Tiendas de tecnología y accesorios pueden ofrecer guía de cambio de equipo y planes de pago antes del Black Friday.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Mercado inteligente",
-   "idea": "La papa y otros alimentos están en su precio más alto desde 2023. Tiendas, fruvers y marcas de alimentos pueden publicar 'la canasta que rinde': recetas o combos de bajo costo con productos de temporada.",
-   "formato": "TikTok"
+   "titulo": "Bazar prenavideño en digital",
+   "idea": "Bogotá anuncia bazares de 60 emprendimientos liderados por mujeres. Si eres emprendedora, sube un catálogo navideño con precios cerrados y opción de pedido por WhatsApp; si eres marca, aliate con alguna para un kit de regalo.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Dólar del día en tus precios",
+   "idea": "El precio del dólar está entre las búsquedas. Si vendes productos importados, explica cuándo congelas precios y por cuánto tiempo, para que el cliente decida sin miedo al cambio.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "hbo",
-   "color": "verde",
-   "por_que": "La gente busca qué ver en HBO Max, impulsada por la próxima serie de Harry Potter.",
-   "idea": "Contenido 'qué ver + qué pedir' o merch temático con tono fan, sin usar marcas registradas en tus diseños."
+   "termino": "fenómeno",
+   "color": "amarillo",
+   "por_que": "Búsquedas por advertencias de El Niño y su efecto en reservas de agua.",
+   "idea": "Contenido práctico de ahorro de agua y energía en el hogar; evita el alarmismo."
   },
   {
-   "termino": "la mansion vip",
-   "color": "verde",
-   "por_que": "El reality genera votaciones y conversación diaria en redes.",
-   "idea": "Encuestas y memes ligeros del programa; evita burlarte de los participantes."
+   "termino": "supuesto apagon mundial",
+   "color": "amarillo",
+   "por_que": "Rumor viral sobre un apagón de varios días que los medios están desmintiendo.",
+   "idea": "Solo si aportas: power banks o linternas con mensaje de 'preparado siempre', sin alimentar el rumor."
   },
   {
-   "termino": "the body netflix",
+   "termino": "pico y placa regional",
    "color": "verde",
-   "por_que": "Nueva serie juvenil de Netflix con buenas críticas.",
-   "idea": "Creadores de moda y estilo: looks inspirados en la estética Y2K de la serie."
+   "por_que": "Regreso masivo a Bogotá tras el puente festivo.",
+   "idea": "Domicilios y recogida en tienda como alternativa a moverse en hora pico."
   },
   {
-   "termino": "nuevo renault 4",
+   "termino": "precio del dolar",
    "color": "verde",
-   "por_que": "Inicio de ventas del Renault 4 eléctrico en Colombia.",
-   "idea": "Contenido útil sobre movilidad eléctrica: carga en casa, accesorios y costos de uso."
+   "por_que": "La TRM sigue siendo referencia para compras importadas y viajes.",
+   "idea": "Explica precios en pesos con envío incluido y fecha de vigencia."
   },
   {
-   "termino": "rocky",
+   "termino": "united launch alliance",
    "color": "verde",
-   "por_que": "La película cumple 50 años y vuelve a la conversación por su nueva cinta biográfica.",
-   "idea": "Gimnasios y marcas fitness: retos de entrenamiento 'estilo Rocky' con tono motivador."
+   "por_que": "Interés por lanzamientos espaciales y el internet satelital de Amazon.",
+   "idea": "Contenido de curiosidad tecnológica para marcas de conectividad o educación."
   }
  ],
  "audiencias": {
@@ -1136,6 +1136,13 @@
   "Alcantarillado, vías rurales, educación e inseguridad, entre las principales preocupaciones de Ponedera: Isabella Pulgar",
   "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
   "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
-  "caribeña noche hoy"
+  "caribeña noche hoy",
+  "semana",
+  "15 de noviembre",
+  "vuelos suspendidos estados unidos",
+  "Andrea Ramírez, la intocable en el caso UNGRD, declaró en otro proceso por cupos indicativos",
+  "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
+  "Actor de ‘El patrón del mal’ reveló incómoda experiencia con Vicky Hernández: “Me sentí…”",
+  "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico"
  ]
 }

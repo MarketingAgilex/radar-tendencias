@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador amanece con lluvias intensas en la Costa y la Sierra: Guayaquil, Daule y Samborondón reportan calles anegadas y cortes de luz, y Quito mantiene alerta por lloviznas. La conversación de compras gira hacia el Black Friday del 27 de noviembre, con consejos para comparar precios y evitar estafas en línea. Las ventas de camionetas crecen y aparecen modelos ensamblados en el país, señal de un consumidor que invierte en movilidad. Contenido útil para la temporada de lluvias y mensajes de compra segura son la apuesta de hoy.",
+ "lectura": "Ecuador sigue pendiente del clima: hay lluvias moderadas, alerta amarilla por lloviznas en Quito, radiación UV extremadamente alta y calles anegadas en sectores de Guayaquil. En compras, el foco está en el Black Friday del 27 de noviembre y en cómo comparar descuentos; además, las ventas de camionetas crecen 33% con modelos ensamblados en el país. En la Biblioteca de Anuncios de Meta, los casilleros y couriers compiten con mensajes de 'trae tus compras de EE. UU.' y precio por libra. Las marcas que combinen utilidad (lluvia, sol, envíos) con claridad de costos conectan mejor.",
  "ideas_hoy": [
   {
-   "titulo": "Kit para el aguacero",
-   "idea": "Con calles anegadas en Guayaquil y lluvias en varios cantones, ferreterías, tiendas de hogar y moda pueden promocionar botas, impermeables, linternas y power banks con entrega a domicilio y tono práctico, sin dramatizar.",
+   "titulo": "Lluvia y sol el mismo día",
+   "idea": "El Inamhi prevé lluvias y radiación UV extremadamente alta. Arma un kit doble (paraguas o impermeable + bloqueador y gorra) y comunícalo con humor ligero y tono útil.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin sustos",
-   "idea": "Los medios están dando consejos para comprar seguro. Publica un carrusel con tus garantías (precio antes y después, tiempo de entrega, cambios) y cierra con un 'guarda este post para el 27'.",
+   "titulo": "Black Friday desde EE. UU. sin sorpresas",
+   "idea": "Los couriers ya anuncian 'trae tus compras de USA'. Explica paso a paso cómo calcular el costo final de una compra internacional (producto, envío y tasas) para que el cliente llegue informado al 27 de noviembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Delivery bajo la lluvia",
-   "idea": "Cuando llueve la gente no sale. Restaurantes y tiendas pueden activar un 'combo día de lluvia' con envío y mostrarlo en un video de 15 segundos desde la ventana.",
+   "titulo": "Accesorios para la camioneta nueva",
+   "idea": "Las ventas de camionetas crecen 33%. Tiendas de accesorios, repuestos y lavado pueden lanzar paquetes de 'estreno' y contenido de antes y después.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Camionetas en alza",
-   "idea": "Las ventas de camionetas crecen y llegan modelos ensamblados en Ecuador. Talleres, accesorios y aseguradoras pueden publicar una guía de mantenimiento para la temporada de lluvias.",
-   "formato": "LinkedIn"
+   "titulo": "Quito Fashion Week en tu feed",
+   "idea": "La Quito Fashion Week pone en vitrina a diseñadores ecuatorianos. Marcas de moda local pueden mostrar proceso, origen y piezas disponibles para regalar en Navidad.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Regalos con tiempo para la familia afuera",
-   "idea": "Diciembre se acerca y muchas familias tienen parientes en Estados Unidos y España. Marcas de artesanías, chocolate o café pueden mostrar qué productos viajan bien y recordar que conviene enviar con anticipación.",
+   "titulo": "Lista de regalos con tiempo",
+   "idea": "Con el Black Friday cerca y la Navidad detrás, propone una lista de regalos por presupuesto (USD 20, 50, 100) con fechas de entrega garantizadas.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "florida norte",
-   "color": "amarillo",
-   "por_que": "Búsquedas por anegamientos y cortes de luz en Guayaquil por las lluvias.",
-   "idea": "Solo contenido útil (rutas, cuidado del hogar, delivery) con tono empático; nada de humor sobre la emergencia."
+   "termino": "camioneta",
+   "color": "verde",
+   "por_que": "Crecen 33% las ventas de camionetas y entran modelos ensamblados en el país.",
+   "idea": "Accesorios, seguros, mantenimiento y contenido comparativo para nuevos dueños."
   },
   {
    "termino": "puerto santa ana",
    "color": "amarillo",
-   "por_que": "Mismo evento de lluvias en Guayaquil.",
-   "idea": "Comercios de la zona: avisos de horario y servicio a domicilio, sin dramatizar."
+   "por_que": "Búsquedas por anegamientos y cortes de luz en Guayaquil por las lluvias.",
+   "idea": "Solo contenido útil y empático (delivery, cuidado del hogar); nada de humor sobre la emergencia."
   },
   {
-   "termino": "camioneta",
-   "color": "verde",
-   "por_que": "Las ventas de camionetas crecen 33% y entran modelos hechos en Ecuador.",
-   "idea": "Accesorios, seguros y talleres: guías de mantenimiento y equipamiento."
-  },
-  {
-   "termino": "matías prats luque",
+   "termino": "florida norte",
    "color": "amarillo",
-   "por_que": "Interés puntual por una figura de la televisión española.",
-   "idea": "Poco aprovechable para marcas locales; mejor no forzarlo."
+   "por_que": "Mismo evento de lluvias en Guayaquil.",
+   "idea": "Comercios de la zona: avisa horarios y opciones de entrega con tono solidario."
+  },
+  {
+   "termino": "deuda",
+   "color": "amarillo",
+   "por_que": "Interés por temas financieros y de mercados.",
+   "idea": "Contenido de educación financiera y compras planificadas; evita prometer ganancias."
   },
   {
    "termino": "la mansion vip",
    "color": "verde",
-   "por_que": "El reality genera conversación en redes también en Ecuador.",
-   "idea": "Memes y encuestas ligeras con tono respetuoso."
+   "por_que": "El reality mexicano también se sigue en Ecuador.",
+   "idea": "Dinámicas de votación con productos o memes sobre el reality, con tono ligero."
   }
  ],
  "audiencias": {
@@ -1020,6 +1020,33 @@
  ],
  "anuncios": [
   {
+   "busqueda": "compras Estados Unidos envío Ecuador",
+   "total": 50,
+   "anunciantes": [
+    {
+     "nombre": "Upper Ecuador",
+     "url": "https://www.facebook.com/ads/library/?id=2637171833362167"
+    },
+    {
+     "nombre": "PlanetPaq",
+     "url": "https://www.facebook.com/ads/library/?id=1822629125436962"
+    },
+    {
+     "nombre": "Ecuaworld Box",
+     "url": "https://www.facebook.com/ads/library/?id=1082169664799978"
+    },
+    {
+     "nombre": "Marketsz",
+     "url": "https://www.facebook.com/ads/library/?id=2368823010559723"
+    },
+    {
+     "nombre": "NeoBox Ec",
+     "url": "https://www.facebook.com/ads/library/?id=2174652870090432"
+    }
+   ],
+   "patron": "Casilleros y couriers compiten con mensajes de 'trae tus compras de EE. UU.' y 'tus productos favoritos directo desde USA', precio por libra en el titular, promociones atadas al 11.11 y llamadas a chatear por WhatsApp o Messenger. Pocos explican el costo final completo: ahí hay espacio para diferenciarse con transparencia."
+  },
+  {
    "busqueda": "Black Friday",
    "total": 22289,
    "anunciantes": [
@@ -1045,33 +1072,6 @@
     }
    ],
    "patron": "Se repite la invitación a un 'grupo VIP de Black Friday' para enterarse primero de las ofertas, los 2x1 en servicios de belleza y los anuncios que llevan directo al chat. Las marcas calientan la fecha dos semanas antes."
-  },
-  {
-   "busqueda": "regalos Navidad",
-   "total": 1195,
-   "anunciantes": [
-    {
-     "nombre": "Cacao Yankana",
-     "url": "https://www.facebook.com/ads/library/?id=29732612546323451"
-    },
-    {
-     "nombre": "Toys & Hobbies Ec.",
-     "url": "https://www.facebook.com/ads/library/?id=1119238384041760"
-    },
-    {
-     "nombre": "Jessy P Carrillo",
-     "url": "https://www.facebook.com/ads/library/?id=1927658748198434"
-    },
-    {
-     "nombre": "Control Tech",
-     "url": "https://www.facebook.com/ads/library/?id=2135352037095779"
-    },
-    {
-     "nombre": "Afrikana",
-     "url": "https://www.facebook.com/ads/library/?id=29756127574000201"
-    }
-   ],
-   "patron": "La Navidad ya se pauta a mediados de noviembre: cajas de chocolate fino con precio visible en dólares, regalos corporativos, juguetes y decoración para niños. El botón 'chatear' es el cierre más común."
   }
  ],
  "ocultar": [
@@ -1144,6 +1144,8 @@
   "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
   "Publicación de un artículo de Xi Jinping sobre la construcción conjunta de una comunidad de futuro compartido Asia-Pacífico",
   "Buque tanker embiste crucero en Nueva Orleans: 180 personas rescatadas y 32 hospitalizadas",
-  "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China"
+  "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+  "ley",
+  "Lluvias amenazan 21 recintos electorales a días de las votaciones en Ecuador"
  ]
 }

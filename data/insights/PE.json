@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Perú vive hoy el último día de la visita del papa León XIV, con jornada no laborable en Lima y Callao, rutas cerradas y miles de personas en la misa de Las Palmas; es un día de familia, calle y mucha conversación en redes. El clima también se busca mucho y el BCRP subió su tasa de referencia, algo que el consumidor sentirá en créditos y cuotas. Con la gratificación de diciembre en camino y el Black Friday del 27, el peruano compara precios y quiere saber cuánto pagará al final. Mensajes cercanos, respetuosos y con cuentas claras conectan mejor hoy.",
+ "lectura": "Perú vive el último día de la visita del papa León XIV, con jornada no laborable, rutas especiales y transmisiones en vivo. El clima y la temperatura en Lima siguen entre lo más buscado, además de cortes programados de agua y luz. En negocios, el alza de la tasa de referencia del BCRP a 4,5% y la salida de Entel del mercado generan preguntas sobre créditos y servicios móviles. En Meta, las marcas ya empujan un 'Pre Black Friday' con pago contra entrega, polos de algodón pima y tecnología importada.",
  "ideas_hoy": [
   {
-   "titulo": "Día no laborable, delivery al toque",
-   "idea": "Con rutas cerradas por la misa del papa, muchos se quedan en casa o se mueven a pie. Restaurantes, pollerías y bodegas pueden activar un combo familiar con delivery y avisar zonas y horarios de atención.",
-   "formato": "Historias + WhatsApp"
+   "titulo": "Feriado en casa, pedido a domicilio",
+   "idea": "Hoy es día no laborable por la visita del papa. Restaurantes y tiendas pueden ofrecer delivery con mensaje cercano para quienes se quedan en casa siguiendo la transmisión.",
+   "formato": "Historia de Instagram"
   },
   {
-   "titulo": "Cuotas claras tras la subida de tasa",
-   "idea": "El BCRP subió su tasa a 4,5%, y eso puede encarecer créditos. Si vendes en cuotas, publica un ejemplo simple del costo total; la transparencia genera confianza antes de la gratificación.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Pre Black Friday con pago contra entrega",
+   "idea": "En la Biblioteca de Anuncios destacan 'pagas al recibir'. Si lo ofreces, ponlo en el titular: reduce el miedo a comprar online antes del 27 de noviembre.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Gratificación con cabeza",
-   "idea": "La gratificación de diciembre está cerca. Arma una guía 'en qué invertir tu grati': un regalo para la familia, algo para el hogar y un gusto personal, con tus productos en cada categoría.",
+   "titulo": "Orgullo pima",
+   "idea": "Marcas peruanas venden polos de algodón pima con 'calidad que le gana al mall'. Muestra textura, origen y costura en video corto para justificar el precio.",
    "formato": "Reel"
   },
   {
-   "titulo": "Orgullo hecho a mano",
-   "idea": "La visita del papa puso el arte shipibo-konibo y las artesanías amazónicas en todas las noticias. Artesanos y marcas de diseño pueden contar el origen de sus piezas y su técnica, con respeto y sin usar imágenes del pontífice para vender.",
+   "titulo": "¿Cambias de operador?",
+   "idea": "La salida de Entel genera dudas. Tiendas de celulares y accesorios pueden explicar qué pasa con equipos y planes y ofrecer asesoría sin alarmar.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Black Friday sin palta",
-   "idea": "Faltan 11 días para el Black Friday. Publica tu calendario de ofertas y tus reglas (precio antes y después, cambios, entrega) para que tus seguidores compren sin roche ni sorpresas.",
-   "formato": "Copy para anuncio"
+   "titulo": "Crédito más caro, compra inteligente",
+   "idea": "El BCRP subió la tasa a 4,5%. Ofrece guías de compra planificada y cuotas claras para las fiestas, con lenguaje simple.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "lunes 16 de noviembre es feriado",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "Jornada no laborable en Lima y Callao por la despedida del papa; colegios sin clases.",
-   "idea": "Planes en casa, delivery y avisos de horario; tono respetuoso con el evento religioso."
+   "por_que": "Alta búsqueda de pronóstico en plena transición a verano.",
+   "idea": "Productos de temporada (bloqueador, ropa ligera) con guía del clima de la semana."
   },
   {
    "termino": "ruta del papa lunes 16",
    "color": "amarillo",
-   "por_que": "La gente busca cierres de vías y rutas para el último día de la visita.",
-   "idea": "Comercios en la ruta: avisos de servicio y horarios; no usar la imagen del papa para vender."
+   "por_que": "Rutas y cierres por la despedida del papa.",
+   "idea": "Solo información útil de horarios y entregas; respeto total al tema religioso, sin usarlo para vender."
   },
   {
-   "termino": "clima",
+   "termino": "lunes 16 de noviembre es feriado",
    "color": "verde",
-   "por_que": "Búsquedas constantes del pronóstico del SENAMHI con cambios de temperatura.",
-   "idea": "Moda y bebidas: contenido 'qué ponerte hoy' o 'qué tomar con este calor'."
+   "por_que": "Dudas sobre el día no laborable.",
+   "idea": "Promos de delivery y planes en casa para el día libre."
   },
   {
-   "termino": "valentín fuster",
-   "color": "verde",
-   "por_que": "El cardiólogo habla de longevidad y hábitos saludables.",
-   "idea": "Marcas wellness: tips de hábitos con respaldo, sin prometer resultados médicos."
+   "termino": "corte luz arequipa",
+   "color": "amarillo",
+   "por_que": "Cortes programados en distritos de Arequipa.",
+   "idea": "Comercios locales: avisa horarios y alternativas de atención."
   },
   {
-   "termino": "la mansion vip",
+   "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "El reality suma participantes sorpresa y conversación.",
-   "idea": "Memes y encuestas ligeras, sin burlarse de los participantes."
+   "por_que": "Interés por el cambio de temperatura en Lima.",
+   "idea": "Contenido de 'qué ponerte hoy' y bebidas frías."
   }
  ],
  "ocultar": [
@@ -1147,23 +1147,31 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 16503,
+   "busqueda": "Black Friday envío gratis",
+   "total": 341,
    "anunciantes": [
     {
-     "nombre": "Licenciado Manuel Gómez - Consultorio Visual",
-     "url": "https://www.facebook.com/ads/library/?id=1474501877936949"
+     "nombre": "Deslouv",
+     "url": "https://www.facebook.com/ads/library/?id=2585026761998890"
     },
     {
-     "nombre": "Shoptemu",
-     "url": "https://www.facebook.com/ads/library/?id=1881805506196220"
+     "nombre": "Hit Import Perú",
+     "url": "https://www.facebook.com/ads/library/?id=2403986170425781"
     },
     {
-     "nombre": "Aprendiendos",
-     "url": "https://www.facebook.com/ads/library/?id=2248604652707247"
+     "nombre": "LUKMA STORE",
+     "url": "https://www.facebook.com/ads/library/?id=1684076149986711"
+    },
+    {
+     "nombre": "OPEN MARK",
+     "url": "https://www.facebook.com/ads/library/?id=1623953662836684"
+    },
+    {
+     "nombre": "Mavela",
+     "url": "https://www.facebook.com/ads/library/?id=1107297495463718"
     }
    ],
-   "patron": "Muchos resultados son de anunciantes globales; entre los que pautan en soles destacan los servicios con descuentos fuertes ('60% de descuento' en salud visual), los marketplaces de importación y los cursos que invitan a emprender 'para esta Navidad'. El descuento grande en el titular y la urgencia de fecha son la norma."
+   "patron": "Domina el 'Pre Black Friday' con pago contra entrega ('pagas al recibir') en el titular, packs de polos de algodón pima con precio cerrado, 50% de descuento como gancho y tecnología importada con precio en soles. Las marcas repiten muchas variantes del mismo anuncio para probar titulares."
   },
   {
    "busqueda": "envío gratis Navidad",

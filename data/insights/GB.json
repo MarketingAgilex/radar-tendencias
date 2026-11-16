@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T09:04:37Z",
+ "actualizado": "2026-11-16T13:04:54Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido empieza la semana mirando el cielo: avisos de nieve, hielo y alertas sanitarias por frío dominan las búsquedas, y Strictly Come Dancing sigue siendo la gran conversación de entretenimiento. En compras, los 'dupes' de lujo a precio bajo son la tendencia navideña, los precios de la vivienda bajan más de lo habitual en noviembre y el Black Friday ya se adelanta. GTA VI llega el jueves 19 y las luces de Navidad de Carnaby Street abren la temporada. Valor por dinero, utilidad para el frío y tono festivo pero sensato funcionan mejor hoy.",
+ "lectura": "Reino Unido está pendiente del frío: avisos amarillos por nieve, alertas de salud por frío y heladas generalizadas. El entretenimiento manda con Strictly Come Dancing rumbo a Blackpool, GTA VI y la gira de Foo Fighters. En compras, la mitad de los compradores de Black Friday ya prefiere Amazon y el comercio de calle busca el segundo lugar; las luces navideñas de Carnaby Street generan conversación. El consumidor británico, con precios de vivienda a la baja en noviembre, valora ofertas claras y comodidad.",
  "ideas_hoy": [
   {
-   "titulo": "Ready for the cold snap",
-   "idea": "Avisos de nieve y frío en buena parte del país. Tiendas de ropa y hogar pueden promocionar un 'cold snap kit' (capas térmicas, mantas, bolsas de agua caliente) con entrega al día siguiente.",
-   "formato": "Reel"
+   "titulo": "Cosy winter edit",
+   "idea": "Con nieve y alertas de frío, crea una selección de productos para el hogar cálido (mantas, calefacción eficiente, bebidas calientes) con entrega rápida.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El dupe honesto",
-   "idea": "Las alternativas baratas a productos de lujo son la tendencia navideña. Si tu producto es una alternativa de calidad, cuéntalo sin copiar marcas: destaca materiales, origen y precio.",
+   "titulo": "Strictly-style reveal",
+   "idea": "Strictly está en lo más buscado. Usa el formato de 'puntuación del jurado' para presentar productos o looks de fiesta.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Strictly night in",
-   "idea": "Strictly Come Dancing sigue dominando los sábados. Delivery, supermercados y marcas de snacks pueden lanzar un 'Strictly night in bundle' y encuestas sobre los bailes.",
-   "formato": "Historias con encuesta"
-  },
-  {
-   "titulo": "Lights on, shopping on",
-   "idea": "Las luces navideñas de Carnaby Street abrieron la temporada. Comercios de calle pueden invitar a una noche de compras con descuentos para clientes locales.",
+   "titulo": "Beat Amazon on service",
+   "idea": "Los compradores se inclinan por Amazon en Black Friday. Diferénciate con atención personalizada, empaque de regalo o 'click and collect' local.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Semana GTA VI",
-   "idea": "GTA VI sale el jueves 19 y los jugadores liberan espacio en sus consolas. Tiendas tech pueden ofrecer discos SSD, mandos y auriculares con un mensaje de 'listo para el lanzamiento'.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Christmas lights moment",
+   "idea": "Las luces de Carnaby Street son tendencia. Si tienes tienda física, invita a una visita con experiencia navideña; si es online, comparte tu 'escaparate' digital.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "GTA VI game night",
+   "idea": "GTA VI domina la conversación gamer. Snacks, sillas, auriculares y planes de banda ancha encajan en un 'game night bundle'.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
-   "color": "verde",
-   "por_que": "Avisos de nieve y alertas por frío en varias regiones.",
-   "idea": "Productos de invierno y servicios a domicilio con tono práctico; sin alarmismo."
-  },
-  {
-   "termino": "jaime winstone strictly come dancing",
-   "color": "verde",
-   "por_que": "Una de las concursantes más comentadas de Strictly.",
-   "idea": "Encuestas y contenido ligero; evita ataques personales."
+   "color": "amarillo",
+   "por_que": "Nieve y alertas de salud por frío.",
+   "idea": "Productos de invierno y consejos útiles; sin trivializar el impacto."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "El programa domina la conversación del fin de semana.",
-   "idea": "Bundles para ver el programa en casa y retos de baile en redes."
+   "por_que": "Programa con gran audiencia y conversación semanal.",
+   "idea": "Formatos de baile, outfits de fiesta y votaciones."
   },
   {
    "termino": "gta vi map",
    "color": "verde",
-   "por_que": "Expectativa por GTA VI y su edición física antes del 19 de noviembre.",
-   "idea": "Accesorios y almacenamiento; no uses imágenes oficiales del juego."
+   "por_que": "Expectativa por el lanzamiento de GTA VI.",
+   "idea": "Contenido gamer y bundles de accesorios."
+  },
+  {
+   "termino": "foo fighters tour",
+   "color": "verde",
+   "por_que": "Gira con fechas nuevas.",
+   "idea": "Merch, outfits de concierto y experiencias como regalo."
   },
   {
    "termino": "carnaby street christmas lights",
    "color": "verde",
-   "por_que": "Encendido de las luces navideñas en Londres.",
-   "idea": "Comercio de calle: eventos de compras nocturnas y contenido festivo."
+   "por_que": "Encendido navideño con conversación en redes.",
+   "idea": "Contenido de compras navideñas en tienda y escaparates."
   }
  ],
  "audiencias": {
@@ -1186,6 +1186,11 @@
   "allowance",
   "housing",
   "katy perry justin trudeau",
-  "ed miliband"
+  "ed miliband",
+  "Miliband says Russell Brand's crimes were 'heinous and awful'",
+  "Keep terrestrial TV to protect Britain from Russia, say peers",
+  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
+  "++FULL+VIDEOS+!!Paige Spiranac Viral Video On Social Media",
+  "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)"
  ]
 }
