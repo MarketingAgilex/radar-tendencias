@@ -1,32 +1,32 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Argentina el clima domina: alertas por tormentas en Buenos Aires y otras provincias, y el pronóstico es lo más buscado. Se acerca el fin de semana largo por el feriado del lunes 23 de noviembre, y crecen las consultas por el aguinaldo de diciembre. La brecha cambiaria, los televisores de tubo que vuelven a cotizar y los inventos más disruptivos del año muestran un consumidor atento al valor y a la novedad. Ofertas para el finde largo, cuotas claras y contenido de tecnología y escapadas tienen buen momento.",
+ "lectura": "Argentina está pendiente del clima: alertas por tormentas en varias provincias y la crecida del río Paraná marcan la agenda, junto con la cotización del dólar blue y el riesgo país. En consumo, arrancó el 'Black Mayorista' con descuentos en productos navideños, Mercado Libre muestra qué celulares se venden más y el aguinaldo de diciembre ya se busca para planificar compras. Se viene un fin de semana largo por el Día de la Soberanía Nacional (lunes 23). Las marcas que ofrezcan cuotas claras, stock real y utilidad frente a la lluvia tienen mejor recepción.",
  "ideas_hoy": [
   {
-   "titulo": "Escapada del finde largo",
-   "idea": "El lunes 23 es feriado. Hoteles, turismo local, gastronomía y ropa de temporada pueden lanzar paquetes de 'finde XL' con reserva anticipada.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Aguinaldo con plan",
-   "idea": "Las búsquedas sobre el aguinaldo crecen. Propón listas de regalos o compras inteligentes por rango de precio, con cuotas y precio final claro.",
+   "titulo": "El aguinaldo ya tiene destino",
+   "idea": "El aguinaldo de diciembre está entre lo más buscado. Armá una guía de 'qué comprar con el aguinaldo' con cuotas, precio final y stock confirmado.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Tormenta en la ciudad",
-   "idea": "Hay alertas por tormentas. Delivery, paraguas, impermeables y calzado son relevantes hoy; comunica con humor porteño liviano.",
-   "formato": "Historia de Instagram"
+   "titulo": "Navidad mayorista para emprendedores",
+   "idea": "Arrancó el Black Mayorista con productos navideños. Si vendés al por mayor, mostrá kits de reventa para emprendedores con margen sugerido y fechas de entrega.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Lo retro vende",
-   "idea": "Los televisores de tubo vuelven a cotizarse. Tiendas de vintage y coleccionables pueden mostrar piezas con historia y precio de referencia.",
+   "titulo": "Día de lluvia, delivery copado",
+   "idea": "Hay alertas por tormentas. Restaurantes y comercios pueden comunicar horarios, zonas de envío y combos para quedarse en casa, con tono cercano.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "El celu que más se vende",
+   "idea": "Mercado Libre publicó los celulares más vendidos. Tiendas de tecnología pueden comparar 3 modelos por presupuesto y explicar en simple cuál conviene.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cyber Monday a la vista",
-   "idea": "Prepara tu catálogo para Black Friday y Cyber Monday con lista de espera y aviso por WhatsApp; el argentino compara y espera el mejor momento.",
+   "titulo": "Finde largo del 23",
+   "idea": "El lunes 23 es feriado por el Día de la Soberanía Nacional. Turismo, gastronomía y escapadas cortas pueden lanzar paquetes con reserva anticipada.",
    "formato": "Copy para anuncio"
   }
  ],
@@ -34,32 +34,32 @@
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Pronósticos y alertas por tormentas en varias provincias.",
-   "idea": "Productos de lluvia y delivery con tono útil."
+   "por_que": "Búsqueda masiva por el pronóstico con tormentas en varias provincias.",
+   "idea": "Contenido útil: qué llevar, delivery, productos para la lluvia."
+  },
+  {
+   "termino": "lluvia",
+   "color": "amarillo",
+   "por_que": "Lluvias intensas y crecida de ríos en el Litoral.",
+   "idea": "Tono servicial y empático; nada de humor con zonas afectadas."
   },
   {
    "termino": "aguinaldo",
    "color": "verde",
-   "por_que": "Consultas por montos y fechas de pago de diciembre.",
-   "idea": "Planes de regalo y compras en cuotas para las fiestas."
+   "por_que": "La gente planifica cómo usar el medio aguinaldo de diciembre.",
+   "idea": "Guías de compra en cuotas, ahorro y regalos navideños."
   },
   {
-   "termino": "lunes 23 de noviembre es feriado",
-   "color": "verde",
-   "por_que": "Se viene fin de semana largo.",
-   "idea": "Turismo, gastronomía y escapadas con reserva anticipada."
-  },
-  {
-   "termino": "anses",
+   "termino": "fuga de gas",
    "color": "amarillo",
-   "por_que": "Consultas por pagos y fechas de beneficios.",
-   "idea": "Solo información útil; no prometas beneficios que no gestionas."
+   "por_que": "Alarmas por fugas de gas en Lanús.",
+   "idea": "Solo contenido de prevención con profesionales matriculados; sin dramatizar."
   },
   {
-   "termino": "vulcan",
-   "color": "verde",
-   "por_que": "Falla de un cohete con satélites de internet de Amazon.",
-   "idea": "Contenido tecnológico de curiosidad para marcas de conectividad."
+   "termino": "alerta meteorológica",
+   "color": "amarillo",
+   "por_que": "Alertas naranja y amarilla por tormentas.",
+   "idea": "Avisos de horarios y envíos; evita promociones que inviten a salir en plena alerta."
   }
  ],
  "ocultar": [
@@ -130,7 +130,16 @@
   "chiqui tapia",
   "rocio robles",
   "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
-  "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof"
+  "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
+  "camionero",
+  "Las vueltas de Caputo para explicar por qué no llegan “los mejores 18 meses de la historia”",
+  "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
+  "El peronismo rechaza suspender las PASO y el PRO duda",
+  "Alejandra Monteoliva será sometida a una intervención quirúrgica",
+  "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
+  "El CCII exige a TikTok retirar material de presunto abuso infantil",
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
+  "León XIV denunció explotación y violencia en la Amazonia peruana"
  ],
  "audiencias": {
   "general": {

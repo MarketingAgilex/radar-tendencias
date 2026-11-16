@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal vive un otoño de mal tiempo, con avisos amarillos por lluvia en cuatro distritos y comparaciones con tormentas pasadas. En consumo, la Black Friday se adelanta con perfumes, Kindle, relojes y vinos, y las empresas de última milla refuerzan equipos: NACEX prevé 12% más envíos. La precarga de GTA VI llevó el tráfico de internet a un récord y Moeve estudia vender sus gasolineras. El consumidor busca ofertas reales, entregas fiables y entretenimiento en casa.",
+ "lectura": "Portugal vive un Black Friday de desconfianza: el 88% de los portugueses participa, pero duda de los precios, y crecen los contenidos sobre crédito, intereses y estafas en línea. Las operadoras logísticas refuerzan capacidad para Black Friday y Navidad, mientras el perfume de Mercadona revendido al doble en Vinted se volvió tema. El clima (lluvia y olas de hasta seis metros) y el rumor de un apagón mundial, ya desmentido, ocupan las redes, y la huelga del Metro Transportes do Sul afecta la movilidad. Con los feriados del 1 y 8 de diciembre cerca, hablar claro de precio, plazos y seguridad de pago es lo que diferencia.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday antecipada",
-   "idea": "Perfumes, Kindle y relojes ya bajan de precio. Muestra tu oferta con precio anterior visible y plazo de entrega antes de Navidad.",
+   "titulo": "Preço justo, sem truques",
+   "idea": "El 88% compra en Black Friday pero desconfía. Publica el historial de precio de tus productos estrella y explica tu descuento real en una imagen simple.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Entrega garantida para o Natal",
-   "idea": "Las empresas de última milla se preparan para el pico. Comunica tus fechas límite de envío y ofrece recogida en punto para evitar retrasos.",
-   "formato": "Copy para anuncio"
+   "titulo": "Compra segura em 5 passos",
+   "idea": "Abundan las alertas de fraudes en Black Friday. Comparte 5 señales de tienda segura y tus métodos de pago protegidos para generar confianza.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Tarde de chuva em casa",
-   "idea": "Con lluvia en varios distritos, propone planes en casa: series, juegos, mantas, recetas de temporada.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Noite de GTA VI",
-   "idea": "La precarga de GTA VI batió récords de tráfico. Accesorios gaming, snacks y planes de internet tienen un gancho claro esta semana.",
+   "titulo": "Dupes com cabeça",
+   "idea": "El perfume de Mercadona revendido al doble en Vinted muestra el interés por los 'dupes' baratos. Marcas de belleza pueden hacer un test honesto de relación calidad-precio.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Vinhos para a mesa de Natal",
-   "idea": "Las bodegas lanzan promociones. Propón maridajes para cenas de fin de año y cestas de regalo corporativo.",
-   "formato": "LinkedIn"
+   "titulo": "Prazos para o Natal",
+   "idea": "Las logísticas se preparan para el pico de envíos. Publica ya tus fechas límite para recibir antes de Navidad, también para envíos a Brasil y otros países.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Ponte de dezembro",
+   "idea": "El 1 y el 8 de diciembre son feriados. Hoteles, restaurantes y escapadas pueden lanzar ofertas con reserva anticipada.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "Interés por la falla que paró vuelos en EE. UU.",
-   "idea": "Si vendes viajes, explica políticas de cambios y seguros; tono tranquilo."
+   "por_que": "Interés por las suspensiones de vuelos en EE. UU. y su efecto en viajes.",
+   "idea": "Consejos de viaje y seguros, con tono práctico."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
-   "por_que": "Cortes programados de electricidad en varias zonas.",
-   "idea": "Avisos útiles y productos de energía portátil sin alarmismo."
-  },
-  {
-   "termino": "moeve",
-   "color": "verde",
-   "por_que": "Noticia de negocios sobre la red de gasolineras.",
-   "idea": "Contenido B2B sobre movilidad y energía."
-  },
-  {
-   "termino": "diana chaves",
-   "color": "verde",
-   "por_que": "Conversación de moda y looks de celebridades.",
-   "idea": "Inspiración de looks para eventos y fiestas de fin de año."
+   "por_que": "Búsquedas sobre interrupciones de electricidad programadas.",
+   "idea": "Productos de respaldo y ahorro energético, sin generar miedo."
   },
   {
    "termino": "playstation",
    "color": "verde",
-   "por_que": "GTA VI y ofertas de consolas en tendencia.",
-   "idea": "Promos de accesorios y comparativas de precios."
+   "por_que": "Descuentos de consolas y suscripciones, y llegada de GTA VI.",
+   "idea": "Combos gamer y regalos tecnológicos."
+  },
+  {
+   "termino": "cristina ferreira",
+   "color": "verde",
+   "por_que": "La presentadora sigue generando conversación televisiva.",
+   "idea": "Contenido ligero de televisión y entretenimiento."
+  },
+  {
+   "termino": "007",
+   "color": "verde",
+   "por_que": "Robert Pattinson anunciado como nuevo James Bond.",
+   "idea": "Ganchos de cine para moda, relojes y cocteles."
   }
  ],
  "ocultar": [
@@ -169,7 +169,21 @@
   "Procurado para cumprir pena prisão por tráfico de droga detido no aeroporto de Lisboa",
   "A situação na Palestina em debate esta quarta-feira, em Lisboa",
   "Sargento do Ceará divulga jogo do Tigrinho nas redes sociais",
-  "Hugo Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais"
+  "Hugo Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
+  "apresentador de televisão",
+  "capotamento",
+  "Explosão provoca desabamento de casa nas Caldas da Rainha. Há três feridos, incluindo criança de quatro anos",
+  "PSP e GNR esperam que Luís Neves apresente hoje proposta concreta",
+  "José Luís Gaspar garante que sai da ULS Tâmega e Sousa se houver acusação definitiva",
+  "Aluna agredida violentamente por colegas em escola de Lisboa",
+  "Aluna agredida por colegas em escola de Lisboa",
+  "Aluna hospitalizada após agressões em escola de Lisboa",
+  "Aluna hospitalizada em estado grave após agressões numa escola de Lisboa. Colegas filmaram e incentivaram violência",
+  "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
+  "Tinha apenas 23 anos! Filha de famosa socialite encontrada morta",
+  "Familiares e amigos se despedem de Rogério Fróes; corpo do ator é velado no Rio de Janeiro",
+  "Diretor-geral da PF autoriza investigação contra escrivã que o criticou nas redes sociais",
+  "Acampada de Lisboa fica nos Restauradores e Coimbra monta tendas na Praça da República"
  ],
  "audiencias": {
   "general": {

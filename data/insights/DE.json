@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Alemania arranca una semana de tormenta, lluvias fuertes y viento: el 'Orkan' es lo más buscado. El bolsillo está en el centro: suben los precios de la electricidad en enero, se consulta el Weihnachtsgeld y se buscan ayudas para jubilados. El comercio espera un récord de 6.200 millones de euros en los días de Black Friday, con ofertas en Switch 2, Sonos y tecnología, mientras el Adviento empieza el 29 de noviembre. El consumidor alemán compara, planifica y valora ofertas transparentes y entregas fiables.",
+ "lectura": "Alemania arranca la semana con tormenta (Orkan) y la llegada del invierno, mientras sube el interés por el precio de la electricidad en 2027 y por la paga de Navidad (Weihnachtsgeld). Amazon y el retail adelantan la Black Week con ofertas en consolas, Switch 2 y tecnología del hogar, y GTA VI genera la mayor conversación gamer del año. Con el primer domingo de Adviento el 29 de noviembre, empiezan los mercados navideños y las compras de calendarios y regalos. Mensajes de eficiencia, garantía y precio transparente encajan con un consumidor alemán prudente.",
  "semaforo": [
   {
    "termino": "orkan",
    "color": "amarillo",
-   "por_que": "Semana de tormentas y viento fuerte.",
-   "idea": "Consejos útiles y productos de preparación; sin alarmismo."
-  },
-  {
-   "termino": "tatort",
-   "color": "verde",
-   "por_que": "Serie policial de culto con conversación semanal.",
-   "idea": "Planes de domingo en casa y snacks; evita referencias a crímenes."
+   "por_que": "Tormenta fuerte con avisos en varias regiones.",
+   "idea": "Solo contenido útil; evita bromas sobre daños."
   },
   {
    "termino": "strompreise 2027",
    "color": "verde",
-   "por_que": "Subida de precios de electricidad anunciada.",
+   "por_que": "Interés por la subida de la electricidad desde enero.",
    "idea": "Contenido de ahorro energético y productos eficientes."
   },
   {
-   "termino": "weihnachtsgeld",
+   "termino": "gta grand theft auto",
    "color": "verde",
-   "por_que": "Consultas sobre la paga extra de Navidad.",
-   "idea": "Guías de regalo y planificación de compras."
+   "por_que": "El lanzamiento del año en videojuegos.",
+   "idea": "Packs gamer, snacks y accesorios."
   },
   {
    "termino": "black friday nintendo switch 2",
    "color": "verde",
-   "por_que": "Ofertas de consolas en Black Friday.",
-   "idea": "Bundles y comparativas de precios."
+   "por_que": "Ofertas de Switch 2 en grandes cadenas.",
+   "idea": "Comparativas de packs y regalos para Navidad."
+  },
+  {
+   "termino": "weihnachtsgeld",
+   "color": "verde",
+   "por_que": "Dudas sobre la paga de Navidad.",
+   "idea": "Guías de regalos y ahorro; nada de asesoría legal."
   }
  ],
  "audiencias": {
@@ -1288,32 +1288,45 @@
   "Bevölkerungsprognosen: Mit diesen Zahlen bricht Chinas Erzählung von der globalen Dominanz zusammen",
   "Vanessa Emde: Linken-Abgeordnete zweifelt an Wahlversprechen „Berlin bezahlbar machen“",
   "Europäische Verteidigungskooperation im Fokus: MSC bringt European Defense Roundtable und öffentliche Townhall nach Berlin",
-  "Wohnungsmangel in Berlin: Gutachter kritisieren Gesetz gegen Vergesellschaftung"
+  "Wohnungsmangel in Berlin: Gutachter kritisieren Gesetz gegen Vergesellschaftung",
+  "bundesrechnungshof",
+  "winfried kretschmann",
+  "mütterrente nachzahlung",
+  "Start wohl bereits 2027: Deutschland und vier weitere EU-Staaten planen Abschiebezentrum in Ruanda",
+  "Mission \"Volia\": Nato-Staat hat wohl Soldaten in die Ukraine verlegt",
+  "Flugzeug verkauft: Friedrich Merz fliegt nicht mehr selbst – das ist der Grund",
+  "Manuela Schwesig erneut zur Ministerpräsidentin gewählt – erstmals Rot-Rot-Grün im Landtag",
+  "Führungsdebatte: Stegner hält Schwesig in SPD-Spitze für denkbar",
+  "\"Kann kein Partner sein\": Gründungsmitglieder des BSW protestieren gegen AfD-Kurs",
+  "Jobcenter wusste von nichts CSD-Attentäter Abdul B. erhielt Bürgergeld, während er im Gefängnis im Libanon saß",
+  "Ukrainekrieg: Krim-Brücke bei ukrainischem Angriff beschädigt",
+  "„Der neue Senat wird Namen nennen und gegen organisierte Kriminalität deutlich vorgehen“",
+  "Debatte über Stromsteuer - CSU-Chef Söder schließt Verzicht auf Erhöhung der Mütterrente aus"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Sturmfest zu Hause",
-   "idea": "Con la semana de tormenta, comunica productos para el hogar (iluminación, energía portátil, impermeables) con consejos prácticos.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Strom sparen vor 2027",
-   "idea": "Los precios de la electricidad suben en enero. Marcas de eficiencia energética pueden explicar ahorros concretos con ejemplos de consumo.",
+   "titulo": "Strom sparen",
+   "idea": "Se buscan los precios de la electricidad para 2027. Productos eficientes (termostatos, iluminación LED, electrodomésticos) pueden mostrar el ahorro estimado con datos claros.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Weihnachtsgeld clever nutzen",
-   "idea": "El Weihnachtsgeld es tendencia. Propón una guía de regalos con buena relación calidad-precio y ofertas de Black Friday verificadas.",
+   "titulo": "Black Week con cabeza",
+   "idea": "Amazon adelanta ofertas desde el martes. Destaca tus precios reales, garantía y devolución para diferenciarte del ruido de la Black Week.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Adventskalender-Countdown",
-   "idea": "El Adviento empieza el 29 de noviembre. Lanza un calendario de Adviento propio con ofertas diarias o contenido sorpresa.",
-   "formato": "Historia de Instagram"
+   "titulo": "Adviento a la vista",
+   "idea": "El 29 de noviembre empieza el Adviento. Lanza tu calendario de Adviento o un pack de 4 domingos con entregas antes de esa fecha.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Switch 2 und Gaming-Deals",
-   "idea": "Las ofertas de Switch 2 y GTA VI concentran búsquedas. Bundles de accesorios y juegos funcionan en video corto.",
+   "titulo": "Weihnachtsgeld, bien invertido",
+   "idea": "La paga de Navidad está entre lo más buscado. Propón una guía de regalos de calidad por presupuesto, con énfasis en durabilidad.",
+   "formato": "Instagram"
+  },
+  {
+   "titulo": "Sturmtag",
+   "idea": "Con la tormenta, la gente se queda en casa. Delivery, juegos de mesa y streaming pueden comunicar un plan de 'día de tormenta' con tono cercano.",
    "formato": "TikTok"
   }
  ]

@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos vive la temporada de Sinterklaas: el nuevo Sint, interpretado por Gijs Naber, y la llegada del barco de vapor fueron lo más buscado, y la pakjesavond del 5 de diciembre ya marca las compras. En consumo, el Black Friday se extiende durante semanas (y hay críticas de empresarios), y es el último antes del fin de la 'saldering' de paneles solares. Lidl retiró una leche UHT por bacterias y Max Verstappen firmó con una empresa neerlandesa. El consumidor neerlandés busca valor, practicidad y regalos para la fiesta familiar.",
+ "lectura": "Países Bajos está en plena temporada de Sinterklaas: la llegada del santo (intocht) y el nuevo intérprete del personaje dominan las búsquedas, y se acerca pakjesavond el 5 de diciembre. El Black Friday se vive con escepticismo (un gran retailer pide acabar con 'cuatro semanas de Black Friday') y la policía alerta sobre tiendas falsas, mientras los neerlandeses buscan ofertas de energía (baterías domésticas antes del fin de la saldering) y fibra. Se anuncia un invierno potencialmente frío y sube el impuesto de circulación. Ganan las marcas que ayuden a resolver regalos y 'surprises' con honestidad y entrega puntual.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "Nuevo intérprete de Sinterklaas con enorme interés.",
-   "idea": "Contenido familiar y de regalos para pakjesavond, con respeto a la tradición."
+   "por_que": "El nuevo intérprete de Sinterklaas es tema nacional.",
+   "idea": "Contenido festivo de Sinterklaas con regalos y surprises."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "Llegada del Sint a Países Bajos.",
-   "idea": "Campañas de regalos y contenido para niños y familias."
+   "por_que": "La llegada del barco de Sinterklaas reúne a familias.",
+   "idea": "Ideas de regalos, pepernoten y planes en familia."
+  },
+  {
+   "termino": "grammy nominations 2027",
+   "color": "verde",
+   "por_que": "Conversación musical internacional.",
+   "idea": "Playlists y regalos de música o entradas."
   },
   {
    "termino": "max verstappen vdk",
    "color": "verde",
-   "por_que": "Nuevo acuerdo comercial del piloto con una empresa neerlandesa.",
-   "idea": "Contenido de motor y patrocinio; evita usar su imagen sin permiso."
+   "por_que": "Nuevo acuerdo de patrocinio del piloto con un banco neerlandés.",
+   "idea": "Ganchos de motor y velocidad, sin usar su imagen sin permiso."
   },
   {
    "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Retirada de un producto lácteo por seguridad.",
-   "idea": "Solo información de seguridad alimentaria; no lo uses para vender."
-  },
-  {
-   "termino": "nicolette kluijver",
-   "color": "verde",
-   "por_que": "Conversación por el programa Expeditie Robinson.",
-   "idea": "Contenido de aventura y 'qué llevarías a una isla' con tus productos."
+   "por_que": "Retirada de un lote de leche por seguridad alimentaria.",
+   "idea": "Si vendes alimentos, comunica tus controles de calidad; no ataques a otras marcas."
   }
  ],
  "audiencias": {
@@ -882,6 +882,81 @@
     "ES": "el regalo sorpresa (como en el amigo invisible)",
     "AR": "el regalo sorpresa armado a mano"
    }
+  },
+  {
+   "expresion": "Brakka",
+   "significado": "Muy cansado, agotado o con resaca.",
+   "uso": "Jóvenes, straattaal extendida en todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Brakka na het weekend? Wij bezorgen je ontbijt. (¿Destrozado después del finde? Te llevamos el desayuno)",
+   "equivalentes": {
+    "CO": "estar enguayabado / mamado",
+    "MX": "estar crudo / molido",
+    "EC": "estar chuchaqui",
+    "ES": "estar reventado / con resaca",
+    "AR": "estar hecho bolsa / de resaca"
+   }
+  },
+  {
+   "expresion": "Loesoe gaan",
+   "significado": "Desmadrarse, soltarse, pasarla en grande sin control (originalmente 'irse').",
+   "uso": "Jóvenes y fiesta; straattaal que se mantiene en uso.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Vrijdag gaan we loesoe op de dansvloer. (El viernes nos soltamos en la pista)",
+   "equivalentes": {
+    "CO": "desordenarse",
+    "MX": "desmadrarse",
+    "EC": "farrear duro",
+    "ES": "desfasar / liarla",
+    "AR": "descontrolarse"
+   }
+  },
+  {
+   "expresion": "Fatoe",
+   "significado": "Broma, chiste; algo que se dice para reír.",
+   "uso": "Jóvenes urbanos, redes sociales.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Geen fatoe: deze deal is echt. (No es broma: esta oferta es real)",
+   "equivalentes": {
+    "CO": "una mamadera de gallo / un chiste",
+    "MX": "un cotorreo / una broma",
+    "EC": "una vacilada",
+    "ES": "una broma / coña",
+    "AR": "un chiste / joda"
+   }
+  },
+  {
+   "expresion": "Schoen zetten",
+   "significado": "Poner el zapato junto a la chimenea o la puerta para que Sinterklaas deje un pequeño regalo o dulces durante noviembre.",
+   "uso": "Familias con niños, desde la llegada de Sinterklaas hasta el 5 de diciembre.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Iets kleins voor in de schoen? Vanaf €2,50. (¿Algo pequeño para el zapato? Desde 2,50 €)",
+   "equivalentes": {
+    "CO": "dejar el zapato para el Niño Dios",
+    "MX": "dejar el zapato para los Reyes Magos",
+    "EC": "dejar la carta al Niño Dios",
+    "ES": "dejar los zapatos para los Reyes",
+    "AR": "dejar los zapatos para los Reyes"
+   }
+  },
+  {
+   "expresion": "Kerstpakket",
+   "significado": "Cesta o paquete navideño que la empresa regala a sus empleados en diciembre; tradición muy arraigada.",
+   "uso": "Ámbito laboral y B2B, noviembre y diciembre.",
+   "registro": "neutro",
+   "apto_anuncio": "si",
+   "ejemplo": "Op zoek naar een duurzaam kerstpakket voor je team? (¿Buscas una cesta navideña sostenible para tu equipo?)",
+   "equivalentes": {
+    "CO": "la ancheta navideña",
+    "MX": "la canasta navideña",
+    "EC": "la canasta navideña",
+    "ES": "la cesta de Navidad",
+    "AR": "la caja navideña"
+   }
   }
  ],
  "creadores": {
@@ -1033,7 +1108,7 @@
    "desde": "CO",
    "hacia": "NL",
    "sector": "cafe-cacao",
-   "accion": "Contenido de origen, proceso y trazabilidad para tostadores y tiendas gourmet, con certificaciones claras y muestras para catas."
+   "accion": "Contenido de origen, proceso y trazabilidad para tostadores y tiendas gourmet, con certificaciones claras y muestras para catas; explorar además la temporada de cestas navideñas de empresa (kerstpakketten), que privilegia productos sostenibles y con historia."
   },
   {
    "titulo": "Frutas tropicales por el puerto de Róterdam",
@@ -1220,32 +1295,45 @@
   "Praat mee: om vliegen veilig te houden, moét de Navo reageren op de Russische gps-sabotage",
   "Ondernemers bellen niet met de VVD en willen dat de partij inbindt",
   "Het is tijd voor ander leiderschap bij de VVD, en de oplossing kan uit Rotterdam komen",
-  "Grote brand op Elbaweg in Amsterdam gemeld"
+  "Grote brand op Elbaweg in Amsterdam gemeld",
+  "leeghwaterbrug",
+  "brandstichting",
+  "mette-marit",
+  "Nederland wil uitgeprocedeerde asielzoekers uitzetten naar Rwanda",
+  "Gevangenen tot 4 weken eerder vrij vanwege tekort aan plekken, maar strafkorting kan nog verder oplopen",
+  "Man (51) en vrouw (47) aangehouden na dodelijk ongeluk Oudewater",
+  "Crisisoverleg VVD, D66 en CDA gaat deze ochtend verder op Catshuis",
+  "Zwarte Cross reageert fel na Pointer-uitzending over creepshot-app en wil gedrag ‘de kop indrukken’",
+  "Kritiek op hoge legerrang Máxima: 'Dit is gewoon waanzin'",
+  "Politieke ophef bij Amsterdamse intocht Sinterklaas, JA21 wil opheldering over ’gênante flater’",
+  "Europa mag van Rusland meeonderhandelen, ‘Poetin denkt: ik kan ze wel aan’",
+  "Voor de vierde keer dit jaar een geluidswal bij de A10 Amsterdam-West in de fik",
+  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cadeautjes voor pakjesavond",
-   "idea": "Con Sinterklaas en el centro, propone regalos por presupuesto con entrega antes del 5 de diciembre y opción de envoltorio.",
+   "titulo": "Cuenta atrás a pakjesavond",
+   "idea": "Faltan menos de tres semanas para el 5 de diciembre. Publica una lista de regalos por presupuesto con fecha límite de pedido para que llegue a tiempo para el 'schoen zetten' y pakjesavond.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Gedicht met je product",
-   "idea": "Los poemas de Sinterklaas son tradición. Invita a tu comunidad a escribir un 'gedicht' sobre tu producto y premia los mejores.",
+   "titulo": "Surprise sin estrés",
+   "idea": "La temporada de surprises y poemas está en marcha. Ofrece kits de manualidades o un generador de rimas simple para acompañar el regalo, con tono gezellig.",
    "formato": "Reel"
   },
   {
-   "titulo": "Laatste Black Friday voor de saldering",
-   "idea": "Es el último Black Friday antes del fin de la saldering. Marcas de energía y baterías pueden explicar el cambio con datos claros.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Black Friday zonder stress",
-   "idea": "Hay cansancio por las semanas de Black Friday. Diferénciate con una sola oferta clara y sin presión.",
+   "titulo": "Black Friday sin trucos",
+   "idea": "Hay cansancio de 'cuatro semanas de Black Friday' y alertas de tiendas falsas. Muestra tu número de KvK, reseñas reales y política de devolución: confianza antes que descuento.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Winterse koffie",
-   "idea": "Wakuli abrió su local 25 en Amsterdam Centraal. Marcas de café y bebidas calientes pueden conectar con la rutina de invierno.",
+   "titulo": "Energía en casa",
+   "idea": "Las baterías domésticas aparecen en ofertas antes del fin de la saldering. Explica en simple qué cambia y para quién conviene, sin prometer ahorros exactos.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Invierno frío a la vista",
+   "idea": "Se habla de un posible invierno frío. Ropa térmica, mantas y productos de cocina reconfortante pueden lanzar su colección de invierno.",
    "formato": "TikTok"
   }
  ]

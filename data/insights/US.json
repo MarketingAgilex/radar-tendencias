@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Estados Unidos la conversación de consumo combina clima y temporada: El Niño y las tormentas de invierno traen nieve, lluvia y olas gigantes en California, mientras el aire frío llega a Houston. Faltan diez días para Thanksgiving y once para Black Friday; Amazon extiende su evento a 12 días y las ofertas anticipadas de tecnología y gaming ya circulan. La cultura pop pesa: los Latin Grammy con Rosalía y Milo J, la llegada de GTA VI y el lanzamiento de Starship. Para la comunidad hispana, mensajes de envío a tiempo para las fiestas y regalos a familia en Latinoamérica son clave.",
+ "lectura": "Estados Unidos entra en la recta final hacia Thanksgiving (26 de noviembre) y Black Friday (27): Amazon anunció 12 días de ofertas, los retailers adelantan descuentos y las encuestas muestran compradores que comparan antes de gastar. El clima pesa en la logística y los viajes (El Niño, tormentas de invierno en el oeste y la temporada alta tras la parada de vuelos de la FAA), y el entretenimiento está dominado por el casting de James Bond, las nominaciones a los Grammy y el estreno de GTA VI este jueves. Para la comunidad hispana, los Latin Grammy (Rosalía, Milo J) y los envíos de regalos a Latinoamérica son ganchos claros. Comunicar fechas límite de entrega y precio final es lo que más convierte esta semana.",
  "ideas_hoy": [
   {
-   "titulo": "Regalos que llegan antes de Navidad",
-   "idea": "La comunidad hispana empieza a planear regalos para su familia en Latinoamérica. Publica fechas límite de envío y qué se puede enviar, con un tono cálido de 'que llegue a tiempo'.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Thanksgiving en 10 días",
-   "idea": "Thanksgiving es el 26 de noviembre. Restaurantes, panaderías y tiendas de hogar pueden abrir preventa de menús, centros de mesa y decoración con fecha de recogida.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Prepárate para la tormenta",
-   "idea": "Las tormentas de invierno y El Niño son tendencia. Ropa de abrigo, calefacción, power banks y kits para el auto se comunican mejor con guías prácticas de 'qué tener a mano'.",
+   "titulo": "Fecha límite para que llegue a tiempo",
+   "idea": "Con Thanksgiving y Black Friday a 10 días, publica un calendario simple de 'pide antes de…' para entregas nacionales y envíos a Latinoamérica antes de Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "La ola latina de los Grammy",
-   "idea": "Rosalía y Milo J arrasaron en los Latin Grammy. Usa la música del momento (con licencia de la red) para un trend de 'outfit o look de premiación' con tu producto.",
+   "titulo": "Thanksgiving en español",
+   "idea": "Muchas familias hispanas mezclan el pavo con platos propios. Recetas fusión (pavo con sazón latino, sides caribeños o mexicanos) son un gran formato para supermercados y restaurantes.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Noche de estreno GTA VI",
+   "idea": "GTA VI sale el jueves y domina la conversación tech. Delivery, snacks, sillas y accesorios gamer pueden lanzar un combo 'launch night' con entrega el mismo día.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Gaming night para GTA VI",
-   "idea": "GTA VI está en todos los titulares. Marcas de snacks, accesorios, sillas o internet pueden armar un 'kit de lanzamiento' para quienes van a jugar el fin de semana.",
-   "formato": "Reel"
+   "titulo": "Viajar en temporada alta",
+   "idea": "Tras la parada de vuelos y con tormentas en el oeste, la gente busca cómo viajar sin estrés. Agencias, seguros y maletas pueden dar un checklist de viaje para el feriado.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Bond, el estilo del momento",
+   "idea": "El casting del nuevo 007 está en todas partes. Marcas de moda, barberías y relojes pueden hacer un 'look de espía' accesible, sin usar logos ni nombres registrados de la saga.",
+   "formato": "Instagram Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Interés por cómo afectará El Niño al clima local este invierno.",
-   "idea": "Guías de preparación del hogar y del auto con tono útil, sin alarmismo."
+   "por_que": "Gran interés por lo que El Niño significa para el invierno.",
+   "idea": "Contenido útil para el hogar y viajes (preparación, seguros, ropa); evita el alarmismo."
   },
   {
    "termino": "spacex starship rocket launch",
    "color": "verde",
-   "por_que": "Hito tecnológico con mucha conversación.",
-   "idea": "Contenido de curiosidad y ciencia para marcas de tecnología o educación."
+   "por_que": "Lanzamiento seguido en vivo, curiosidad por el espacio.",
+   "idea": "Contenido educativo o creativo para marcas tech y juguetería STEM."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Nieve, viento y olas fuertes en el oeste.",
-   "idea": "Promociones de abrigo y entrega a domicilio; evita humor sobre afectados."
+   "por_que": "Tormentas en el oeste con nieve y lluvia intensa.",
+   "idea": "Avisos de horarios y entregas, productos de invierno; tono servicial."
   },
   {
-   "termino": "connections hint today",
+   "termino": "josh o'connor",
    "color": "verde",
-   "por_que": "Juego diario de palabras con hábito masivo.",
-   "idea": "Retos diarios o acertijos de marca para fomentar interacción."
+   "por_que": "Su nombre suena en el debate sobre el nuevo James Bond.",
+   "idea": "Ganchos de cine para moda y lifestyle, en tono de conversación."
   },
   {
-   "termino": "cliff booth",
+   "termino": "idris elba",
    "color": "verde",
-   "por_que": "Conversación de cine y premios.",
-   "idea": "Contenido de cultura pop y recomendaciones de películas para la temporada."
+   "por_que": "Estreno de tráiler y conversación sobre el casting de 007.",
+   "idea": "Contenido de cine y estilo; evita usar su imagen en anuncios sin derechos."
   }
  ],
  "audiencias": {
@@ -1091,6 +1091,23 @@
   "Marissa Roy wins Los Angeles city attorney’s race",
   "Child falls from window in Boyle Heights, LAPD says",
   "Raman Has Lots of Plans. Los Angeles Has Lots of Obstacles.",
-  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi"
+  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
+  "rockstar games hacker arion kurtaj",
+  "SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise",
+  "Mamdani disbands controversial NYPD unit accused of using excessive force",
+  "Mamdani, Tisch disband NYPD's Strategic Response Group",
+  "Mamdani disbanding controversial NYPD unit",
+  "International Students Are Turning Away From U.S. Universities",
+  "Houthis seize ground on Yemen's southern coast, edge closer to Aden",
+  "Short of time at the ASEAN",
+  "¿Quién era Miguel Ángel Félix Gallardo, el Jefe de Jefes?",
+  "Hombre mata a su ex pareja y al novio de ella y luego se suicida en Miami Gardens",
+  "El caos entre las cinco fuerzas armadas que operan en Haití eleva el riesgo para la población civil: “Es una orquesta sin director”",
+  "Schumer vs. Van Hollen—The Race Everyone Finds Awkward",
+  "The US Border Religion",
+  "HISD Board transition (Nov. 16, 2026)",
+  "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)",
+  "Megaspeed rompe el silencio sobre Alice Huang, la supuesta espía china en el centro del escándalo que sacude a Nvidia: ‘No desempeña ningún cargo’",
+  "Lindsay Clancy to face retrial for deaths of her three children in March 2027"
  ]
 }

@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia sigue pendiente del meteo: nuevo flujo atlántico con lluvias y alertas amarillas en Roma y viento en Bari. El entretenimiento televisivo domina con Ballando con le Stelle y sus polémicas, y GTA VI genera guías para preparar la consola. En consumo, el Black Friday ya corre con robots aspiradores, audio, routers y monitores, y desde el 20 de noviembre cambian reglas de los pagos a plazos (PayPal, Klarna, Scalapay). La seguridad de dispositivos del hogar frente a ataques informáticos también interesa.",
+ "lectura": "Italia está pendiente del tiempo (nuevas perturbaciones con lluvia y nieve) y de la televisión del fin de semana, con Ballando con le Stelle como gran tema. El Black Friday se acerca con alertas por estafas del 'paquete' por SMS, una logística bajo presión con un 40% más de envíos y consumidores que usan ChatGPT o Gemini para encontrar descuentos. GTA VI sale el jueves 19 y hasta se habla de un aumento de pedidos de vacaciones para jugarlo. Las marcas que combinen entretenimiento, seguridad en la compra y plazos de entrega claros conectan mejor.",
  "semaforo": [
   {
    "termino": "giuliacci meteo",
    "color": "verde",
-   "por_que": "Pronósticos muy consultados por el cambio de tiempo.",
-   "idea": "Productos de temporada y consejos útiles."
+   "por_que": "Búsquedas masivas del pronóstico con lluvias y nieve.",
+   "idea": "Productos de invierno y consejos prácticos."
   },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "Programa con gran audiencia.",
-   "idea": "Retos de baile y outfits de fiesta."
+   "por_que": "El programa del sábado es el gran tema televisivo.",
+   "idea": "Contenido de moda, belleza y snacks para verlo en casa."
   },
   {
-   "termino": "attacchi hacker",
+   "termino": "barbara d urso puzza",
    "color": "amarillo",
-   "por_que": "Interés por proteger dispositivos domésticos.",
-   "idea": "Consejos de seguridad con tono tranquilo; no uses el miedo para vender."
+   "por_que": "Polémica televisiva entre personajes del programa.",
+   "idea": "Mantén distancia de la polémica; solo humor muy ligero o nada."
   },
   {
    "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento esperado de GTA VI.",
-   "idea": "Accesorios gaming y bundles."
+   "por_que": "Lanzamiento del año en videojuegos, jueves 19.",
+   "idea": "Packs gamer, accesorios y combos de comida."
   },
   {
-   "termino": "cannavacciuolo stella michelin",
+   "termino": "attacchi hacker",
    "color": "verde",
-   "por_que": "Conversación gastronómica por la guía Michelin.",
-   "idea": "Contenido de restaurantes, recetas y experiencias gourmet como regalo."
+   "por_que": "Interés por proteger los dispositivos del hogar.",
+   "idea": "Contenido de seguridad digital y productos con buenas prácticas de privacidad."
   }
  ],
  "audiencias": {
@@ -1271,33 +1271,47 @@
   "Il Questore di Milano sospende la licenza all’Hotel Ambra",
   "Occupazioni, nuovi blitz a Roma: gli studenti si prendono Manara, Pasteur, Anco Marzio a Ostia e Sant'Agnese a Tivoli",
   "Spedizione punitiva a Scordia, venti persone inseguono un giovane: distrutta l’auto della vigilanza",
-  "La polizia sta collaborando con l'uomo che ha infranto i finestrini di alcune auto a Ho Chi Minh City."
+  "La polizia sta collaborando con l'uomo che ha infranto i finestrini di alcune auto a Ho Chi Minh City.",
+  "Cos’è Revolut, la fintech da 6 milioni di clienti in Italia finita in amministrazione giudiziaria",
+  "De Gennaro indagato per il caso Borsellino. I giudici cercano l'«agenda rossa»",
+  "Sciopero Cgil venerdì 20 novembre: trasporti, scuola, sanità a rischio stop, gli orari. In piazza anche Cobas e studenti",
+  "Bergamo, partorisce da sola in bagno a 17 anni: la neonata trovata morta in casa",
+  "Droga e legami col clan Capriati, nei guai anche un ex attaccante del Bari: i retroscena e tutti i nomi",
+  "L'Ue sanziona hacker e propagandisti russi: nel mirino NoName057(16)",
+  "Migranti irregolari, pronto l’accordo di cinque Paesi europei con il Ruanda. La Commissione Ue applaude",
+  "«Ho trasformato il suv di mia moglie morta in un camper, aspettavo la pensione e ora vivo il mio sogno»",
+  "Revolut, la banca in amministrazione giudiziaria. La Procura di Milano: flussi sospetti per 76,5 milioni",
+  "Amministrazione giudiziaria per Revolut, Tribunale Milano: \"Riciclaggio con aggravante mafiosa\"",
+  "Milano, occupati il liceo Parini e altri istituti: “Niente lezioni fino allo sciopero di venerdì”",
+  "Esplosione a Roma, ordigno danneggia palazzo in via Treia a S. Basilio",
+  "Turista ruba una statua di Gesù e la distrugge, shock in Lituania - Video",
+  "Burnham: 'Con la Brexit abbiamo perso più di quanto guadagnato'"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Pagamenti a rate: cosa cambia",
-   "idea": "Cambian las reglas de pago a plazos desde el 20/11. Explica con claridad cómo se puede pagar en tu tienda y qué cambia para el cliente.",
+   "titulo": "Il pacco vero",
+   "idea": "Circulan estafas de falsas entregas por SMS. Explica cómo se ven tus avisos reales de envío y qué nunca vas a pedir: una pieza útil que genera confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Casa smart e sicura",
-   "idea": "Hay interés por proteger robots aspiradores, smart TV y cámaras de ataques informáticos. Marcas tech pueden dar consejos prácticos junto a sus ofertas de Black Friday.",
+   "titulo": "Il sabato di Ballando",
+   "idea": "Ballando con le Stelle domina las búsquedas. Moda, belleza y comida pueden hacer contenido de 'look de la pista' o 'snacks para el sábado'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Ballando-style",
-   "idea": "Ballando con le Stelle domina la conversación. Usa el formato de 'classifica' para presentar productos o looks de fiesta.",
+   "titulo": "Ferie per GTA",
+   "idea": "GTA VI sale el jueves y se habla de pedidos de vacaciones para jugarlo. Delivery, snacks y accesorios gamer pueden lanzar un pack 'giorno di uscita'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Pioggia e coperte",
-   "idea": "Con lluvia y viento, comunica productos para el hogar cálido y entrega a domicilio.",
-   "formato": "Historia de Instagram"
+   "titulo": "Sconti trovati con l'IA",
+   "idea": "Los compradores usan asistentes de IA para buscar ofertas. Asegúrate de que tus fichas de producto tengan precio, medidas y condiciones claras, y cuéntalo en un post.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "GTA VI: libera spazio",
-   "idea": "Las guías para preparar la consola para GTA VI son tendencia. Ofertas de discos SSD, accesorios y conexión encajan esta semana.",
-   "formato": "Reel"
+   "titulo": "Meteo e comfort",
+   "idea": "Lluvias y nieve en buena parte del país. Ropa de abrigo, paraguas y productos para el hogar pueden ofrecer entregas antes del fin de semana.",
+   "formato": "Copy para anuncio"
   }
  ]
 }

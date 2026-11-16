@@ -1,65 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con 2,1 millones de vehículos en las vías de Cundinamarca y búsquedas del pico y placa regional para el regreso a Bogotá. La atención de compras ya está en el Black Friday del 27 de noviembre: los medios publican fechas y productos con mayores descuentos, y el consumidor quiere saber si las rebajas son reales. También pesan el precio del dólar, la lista de celulares que se quedan sin WhatsApp y los bazares prenavideños de emprendedoras en Bogotá. Las marcas que expliquen con claridad precio final, garantía y fechas de entrega tienen terreno ganado.",
+ "lectura": "Colombia arranca la semana en puente festivo (Independencia de Cartagena) y con plan retorno en las vías, así que hoy el consumo es de descanso, clima y pantalla. La conversación de entretenimiento gira en torno a los colombianos nominados a los Grammy 2027 y a la llegada de GTA VI este jueves, mientras los medios explican cómo saber si un descuento de Black Friday (27 de noviembre) es real. También pesan señales prácticas: la lista de celulares que se quedan sin WhatsApp y la nueva ruta directa Barranquilla–Nueva York desde febrero de 2027. Las marcas que hablen claro de precio final, tiempos de entrega y utilidad tendrán ventaja frente a la avalancha de ofertas.",
  "ideas_hoy": [
   {
-   "titulo": "Regreso del puente sin estrés",
-   "idea": "Hoy miles vuelven a Bogotá con pico y placa regional. Publica un contenido útil con horarios y una oferta para recibir pedidos en casa o en la oficina esta semana, y engancha con el 'ya volvimos a la rutina'.",
-   "formato": "Historia de Instagram"
-  },
-  {
-   "titulo": "Black Friday con precio real",
-   "idea": "Los medios están enseñando a comprobar si un descuento es real. Muestra tu precio de antes y de ahora, con envío incluido, y aclara condiciones: la transparencia genera confianza frente a los 'descuentos inflados'.",
+   "titulo": "¿Tu cel se queda sin WhatsApp?",
+   "idea": "Los medios publicaron la lista de celulares que pierden WhatsApp desde hoy. Tiendas de tecnología y planes de recambio pueden hacer un 'revisa tu modelo' con opciones de upgrade y facilidades de pago, sin alarmismo.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "¿Tu celular se queda sin WhatsApp?",
-   "idea": "Es tendencia la lista de celulares que pierden WhatsApp desde hoy. Tiendas de tecnología y accesorios pueden ofrecer guía de cambio de equipo y planes de pago antes del Black Friday.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Bazar prenavideño en digital",
-   "idea": "Bogotá anuncia bazares de 60 emprendimientos liderados por mujeres. Si eres emprendedora, sube un catálogo navideño con precios cerrados y opción de pedido por WhatsApp; si eres marca, aliate con alguna para un kit de regalo.",
+   "titulo": "Playlist de nominados al Grammy",
+   "idea": "Shakira, Karol G, Feid, Fonseca, Carlos Vives y más colombianos están nominados. Marcas de bebidas, moda o restaurantes pueden armar un 'outfit o plan según tu nominado favorito' y pedir votos en comentarios.",
    "formato": "Reel"
   },
   {
-   "titulo": "Dólar del día en tus precios",
-   "idea": "El precio del dólar está entre las búsquedas. Si vendes productos importados, explica cuándo congelas precios y por cuánto tiempo, para que el cliente decida sin miedo al cambio.",
+   "titulo": "Black Friday sin cuento",
+   "idea": "Hay mucho interés en cómo saber si un descuento es real. Publica el precio de hoy de tus productos estrella y comprométete a mostrar el precio del 27 de noviembre al lado: transparencia que genera confianza, bien bacano para el cliente.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Combo GTA VI y finde gamer",
+   "idea": "GTA VI sale el jueves y ya tuvo su primer parche en PS5. Domicilios, comidas rápidas y tiendas de accesorios gamer pueden lanzar un combo 'noche de estreno' con entrega programada.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Barranquilla ya mira a Nueva York",
+   "idea": "Avianca abre ruta directa Barranquilla–Nueva York desde febrero de 2027. Agencias, maletas, envíos y casilleros pueden empezar contenido de 'lo que vas a necesitar para tu primer viaje' y captar listas de interesados.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "clima",
+   "color": "verde",
+   "por_que": "Búsqueda masiva por el pronóstico del festivo y el retorno; lluvias en varias ciudades.",
+   "idea": "Contenido útil: qué llevar en el retorno, domicilios para días lluviosos, impermeables y paraguas."
+  },
+  {
+   "termino": "nominaciones grammys 2027",
+   "color": "verde",
+   "por_que": "Ocho artistas colombianos entre los nominados; orgullo y conversación musical.",
+   "idea": "Dinámicas de 'a quién le vas', playlists y lanzamientos con guiño musical."
+  },
+  {
+   "termino": "gta",
+   "color": "verde",
+   "por_que": "Lanzamiento de GTA VI esta semana y conversación sobre su rendimiento en PS5.",
+   "idea": "Accesorios, combos de comida para la noche de estreno y contenido gamer ligero."
+  },
+  {
    "termino": "fenómeno",
    "color": "amarillo",
-   "por_que": "Búsquedas por advertencias de El Niño y su efecto en reservas de agua.",
-   "idea": "Contenido práctico de ahorro de agua y energía en el hogar; evita el alarmismo."
+   "por_que": "Se habla de El Niño y su efecto en las reservas de agua del Atlántico.",
+   "idea": "Contenido de ahorro de agua y energía, sin alarmismo ni promesas exageradas."
   },
   {
-   "termino": "supuesto apagon mundial",
+   "termino": "herrera",
    "color": "amarillo",
-   "por_que": "Rumor viral sobre un apagón de varios días que los medios están desmintiendo.",
-   "idea": "Solo si aportas: power banks o linternas con mensaje de 'preparado siempre', sin alimentar el rumor."
-  },
-  {
-   "termino": "pico y placa regional",
-   "color": "verde",
-   "por_que": "Regreso masivo a Bogotá tras el puente festivo.",
-   "idea": "Domicilios y recogida en tienda como alternativa a moverse en hora pico."
-  },
-  {
-   "termino": "precio del dolar",
-   "color": "verde",
-   "por_que": "La TRM sigue siendo referencia para compras importadas y viajes.",
-   "idea": "Explica precios en pesos con envío incluido y fecha de vigencia."
-  },
-  {
-   "termino": "united launch alliance",
-   "color": "verde",
-   "por_que": "Interés por lanzamientos espaciales y el internet satelital de Amazon.",
-   "idea": "Contenido de curiosidad tecnológica para marcas de conectividad o educación."
+   "por_que": "Ligado a la polémica de un evento de boxeo entre streamers.",
+   "idea": "Solo si tu marca está en el mundo creator; evita tomar partido en la polémica."
   }
  ],
  "audiencias": {
@@ -1143,6 +1143,16 @@
   "Andrea Ramírez, la intocable en el caso UNGRD, declaró en otro proceso por cupos indicativos",
   "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
   "Actor de ‘El patrón del mal’ reveló incómoda experiencia con Vicky Hernández: “Me sentí…”",
-  "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico"
+  "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico",
+  "acusación",
+  "alejandro ordóñez",
+  "Juez legalizó captura de alias ‘Primo Gay’, señalado por graves crímenes, pero ordenó investigar lo ocurrido tras su detención: ¿qué pasó?",
+  "Operativo en la comuna 1 de Medellín dejó cinco capturados e incautación de un arma de fuego",
+  "Personería abrió investigación por presunta corrupción en Secretaría de Hacienda de Medellín",
+  "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
+  "El CCII exige a TikTok retirar material de presunto abuso infantil",
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
+  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
+  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo"
  ]
 }

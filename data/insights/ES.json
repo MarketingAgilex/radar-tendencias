@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España arranca la semana pendiente de la huelga de Renfe del martes 17 (y un nuevo paro el 23), con servicios mínimos y Cercanías afectadas en Madrid. La Aemet activa avisos por lluvias en Galicia y viento en otras comunidades. En consumo, el Black Friday se adelanta con ofertas en tecnología, moda y belleza, mientras se prevé que el gasto en regalos de Navidad baje un 4%, hasta 395 euros de media. La vivienda y los supermercados (Mercadona abre en Aranda) siguen en el radar: el consumidor busca ahorrar y descuentos verificables.",
+ "lectura": "España calienta motores para el Black Friday del 27 de noviembre con un consumidor desconfiado: se leen guías para saber si un descuento es real, la OCU pone cifra al ahorro medio y el comercio de barrio defiende la compra pensada. En redes triunfan el mueble viral de Lidl para casas pequeñas, la canción de María Bonilla en TikTok y la serie vertical de Playz, mientras la huelga de Renfe del martes 17 condiciona la movilidad en Madrid y Barcelona. Con el puente de diciembre (6 y 8) a la vista, las marcas que combinen precio honesto, formato vertical y soluciones para el día a día lo tienen más fácil.",
  "ideas_hoy": [
   {
-   "titulo": "Huelga de trenes: te lo llevamos",
-   "idea": "Con la huelga de Renfe del martes, ofrece envío o recogida flexible y avisa de posibles retrasos. La transparencia evita quejas.",
-   "formato": "Historia de Instagram"
-  },
-  {
-   "titulo": "Regalos de Navidad por menos de 395 €",
-   "idea": "El gasto medio en regalos bajará un 4%. Crea una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) para el consumidor que quiere cuadrar cuentas.",
+   "titulo": "Precio de hoy vs. precio del Black Friday",
+   "idea": "Los españoles quieren saber si el descuento es real. Publica hoy el precio de tus 5 productos estrella y comprométete a enseñar el del 27 de noviembre: transparencia que mola y que la OCU aplaudiría.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Black Friday sin trampa",
-   "idea": "La OCU y los medios hablan del descuento medio real. Muestra tu histórico de precio y tus condiciones de devolución para ganar confianza.",
-   "formato": "Copy para anuncio"
+   "titulo": "Casa pequeña, ideas grandes",
+   "idea": "El mueble viral de Lidl demuestra el interés por soluciones para pisos pequeños. Muestra 3 trucos de orden o almacenaje con tus productos en formato antes y después.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Muebles para pisos pequeños",
-   "idea": "Un mueble de Lidl se volvió viral por práctico y barato. Tiendas de hogar pueden crear contenido de soluciones para casas pequeñas.",
+   "titulo": "Tu marca en vertical",
+   "idea": "Playz estrena una serie vertical que mezcla ficción e improvisación. Prueba una mini serie de 3 capítulos de 30 segundos con tu producto como protagonista.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cafeteras y café de especialidad",
-   "idea": "Marcas como INCAPTO adelantan el Black Friday en cafeteras. Haz un video de rutina de café en casa que conecte con el frío y el ahorro frente a la cafetería.",
-   "formato": "TikTok"
+   "titulo": "Martes de huelga, plan B",
+   "idea": "La huelga de Renfe del 17 afecta a Cercanías. Comercios y servicios pueden comunicar horarios, recogida en tienda o envío a domicilio para quien no pueda desplazarse.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Puente de diciembre",
+   "idea": "El 6 y el 8 de diciembre son festivos. Hoteles, casas rurales y restaurantes pueden lanzar ya ofertas de escapada con reserva anticipada y precio cerrado.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "play z",
+   "color": "verde",
+   "por_que": "La nueva serie vertical 'Estúpido Cupido' dispara las búsquedas.",
+   "idea": "Contenido en formato vertical y serializado para marcas jóvenes."
+  },
+  {
    "termino": "renfe",
    "color": "amarillo",
    "por_que": "Huelga y servicios mínimos el 17 de noviembre.",
-   "idea": "Información útil y opciones de entrega; evita posicionarte sobre el conflicto."
+   "idea": "Información útil de horarios y entregas; evita bromas sobre los afectados."
   },
   {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Debate sobre escasez de viviendas disponibles.",
-   "idea": "Contenido práctico de decoración y ahorro en el hogar; evita opinar sobre el debate."
+   "por_que": "Debate sobre el acceso a la vivienda en España.",
+   "idea": "Contenido práctico (ahorro, orden, pisos pequeños); evita posicionamientos."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Aperturas de supermercados y búsqueda de precios.",
-   "idea": "Promos de cesta básica, recetas económicas y productos locales."
+   "por_que": "Aperturas de supermercados y comparación de cestas.",
+   "idea": "Comparativas de precio, recetas económicas y productos de temporada."
   },
   {
-   "termino": "twitch",
+   "termino": "luz",
    "color": "verde",
-   "por_que": "Conversación sobre streaming y creadores.",
-   "idea": "Colaboraciones con streamers de nicho para el Black Friday."
-  },
-  {
-   "termino": "ascensor",
-   "color": "verde",
-   "por_que": "Historia viral sobre accesibilidad en una comunidad de vecinos.",
-   "idea": "Contenido de accesibilidad y soluciones para mayores en el hogar, con respeto."
+   "por_que": "Interés por la tarifa de la luz por horas y el consumo en invierno.",
+   "idea": "Consejos de ahorro energético y productos eficientes para el hogar."
   }
  ],
  "ocultar": [
@@ -180,7 +180,25 @@
   "Feijóo desvelará esta tarde en Navarra su 'ley de nietos' para que los exiliados vascos por ETA puedan votar en Euskadi",
   "Europa debate su papel en las conversaciones de paz sobre Ucrania",
   "La Guardia Urbana y los Mossos d'Esquadra desalojan la acampada por la vivienda de Plaza Catalunya en Barcelona",
-  "El Ayuntamiento de Barcelona defiende el desalojo de 295 personas de la acampada: \"Urgía ya\""
+  "El Ayuntamiento de Barcelona defiende el desalojo de 295 personas de la acampada: \"Urgía ya\"",
+  "ruanda",
+  "endesa",
+  "revolut",
+  "revolut italia",
+  "El togolés Gilbert Houngbo es reelegido al frente de la OIT",
+  "Pedro Sánchez y Lula da Silva reafirman su compromiso con la defensa de las instituciones democráticas durante su encuentro en Madrid",
+  "Frente Amplio anuncia sus propuestas económicas para el 29-N: recuperar la jubilación a los 65 años, subir las pensiones mínimas hasta el SMI y comedores escolares gratuitos",
+  "La derecha sale contra Sánchez por ondear la bandera española en un mitin socialista: \"Es la de todos, pero no la merece\"",
+  "La ruta canaria se desborda con más de 3.600 personas rescatadas este fin de semana: ¿qué está pasando?",
+  "Decenas de docentes en huelga irrumpen en un acto de la consejera de Educación de Madrid y provocan su cancelación",
+  "La consejera de Educación de Madrid anuncia que llevará ante los tribunales a los docentes en huelga por “acoso”",
+  "'El Ruso' no viajaba en el tren de Rodalies que registraron Mossos y Guardia Civil",
+  "El gran despliegue policial para localizar a El Ruso en un tren de Barcelona, tras la denuncia de un ciudadano, confirma que ha sido una falsa alarma",
+  "Operativo fallido para localizar a 'El Ruso' en un tren de Barcelona",
+  "El CCII exige a TikTok retirar material de presunto abuso infantil",
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
+  "Eroski suspende su publicidad en TikTok",
+  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok"
  ],
  "audiencias": {
   "general": {

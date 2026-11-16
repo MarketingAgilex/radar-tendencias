@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido está pendiente del frío: avisos amarillos por nieve, alertas de salud por frío y heladas generalizadas. El entretenimiento manda con Strictly Come Dancing rumbo a Blackpool, GTA VI y la gira de Foo Fighters. En compras, la mitad de los compradores de Black Friday ya prefiere Amazon y el comercio de calle busca el segundo lugar; las luces navideñas de Carnaby Street generan conversación. El consumidor británico, con precios de vivienda a la baja en noviembre, valora ofertas claras y comodidad.",
+ "lectura": "Reino Unido entra en modo invierno: avisos de nieve y frío dominan las búsquedas, y la televisión de temporada (Strictly Come Dancing, I'm A Celebrity) concentra la conversación. En compras, la mitad de quienes harán Black Friday ya se inclina por Amazon, lo que deja al comercio de calle peleando por el segundo lugar; ayuntamientos ofrecen aparcamiento gratis para animar las compras navideñas y las galletas festivas de Morrisons se agotan. GTA VI, el casting de James Bond y el rodaje de las películas de The Beatles completan el cuadro. Diferenciarse con servicio, entrega local y producto de temporada es la vía frente a los gigantes.",
  "ideas_hoy": [
   {
-   "titulo": "Cosy winter edit",
-   "idea": "Con nieve y alertas de frío, crea una selección de productos para el hogar cálido (mantas, calefacción eficiente, bebidas calientes) con entrega rápida.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Strictly-style reveal",
-   "idea": "Strictly está en lo más buscado. Usa el formato de 'puntuación del jurado' para presentar productos o looks de fiesta.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Beat Amazon on service",
-   "idea": "Los compradores se inclinan por Amazon en Black Friday. Diferénciate con atención personalizada, empaque de regalo o 'click and collect' local.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Christmas lights moment",
-   "idea": "Las luces de Carnaby Street son tendencia. Si tienes tienda física, invita a una visita con experiencia navideña; si es online, comparte tu 'escaparate' digital.",
+   "titulo": "Snow day essentials",
+   "idea": "Hay aviso de nieve en gran parte del país. Arma un 'kit de día de nieve' (abrigo, calcetines térmicos, chocolate caliente) con entrega local rápida.",
    "formato": "Reel"
   },
   {
-   "titulo": "GTA VI game night",
-   "idea": "GTA VI domina la conversación gamer. Snacks, sillas, auriculares y planes de banda ancha encajan en un 'game night bundle'.",
+   "titulo": "Compra local, aparca gratis",
+   "idea": "Varios ayuntamientos ofrecen parking gratis por las compras navideñas. Si tienes tienda física, avísalo y combina con una oferta exclusiva en tienda.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Black Friday sin Amazon",
+   "idea": "La mitad de los compradores irá directo a Amazon. Comunica lo que tú das y ellos no: envoltorio, atención personal, devolución en tienda o producto artesanal.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Strictly en tu marca",
+   "idea": "Strictly Come Dancing arrasa en búsquedas. Moda, maquillaje y snacks pueden hacer contenido de 'outfit de sábado de Strictly' o 'snacks para el directo'.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Galletas festivas que vuelan",
+   "idea": "Las galletas navideñas de Morrisons se comen 'por paquetes'. Panaderías y marcas de alimentación pueden lanzar su edición festiva con edición limitada.",
    "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
-   "color": "amarillo",
-   "por_que": "Nieve y alertas de salud por frío.",
-   "idea": "Productos de invierno y consejos útiles; sin trivializar el impacto."
+   "color": "verde",
+   "por_que": "Avisos de nieve y frío con alertas de salud.",
+   "idea": "Productos de invierno y consejos prácticos para el frío."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "Programa con gran audiencia y conversación semanal.",
-   "idea": "Formatos de baile, outfits de fiesta y votaciones."
+   "por_que": "El programa del sábado es tema nacional.",
+   "idea": "Contenido de moda, belleza y snacks para verlo en casa."
+  },
+  {
+   "termino": "what time is im a celebrity on tonight",
+   "color": "verde",
+   "por_que": "Estreno del reality con gran audiencia.",
+   "idea": "Memes ligeros y retos con producto, sin burlarse de concursantes."
   },
   {
    "termino": "gta vi map",
    "color": "verde",
-   "por_que": "Expectativa por el lanzamiento de GTA VI.",
-   "idea": "Contenido gamer y bundles de accesorios."
+   "por_que": "Gran expectativa por el lanzamiento de GTA VI.",
+   "idea": "Accesorios gamer y combos de noche de estreno."
   },
   {
-   "termino": "foo fighters tour",
+   "termino": "james norton",
    "color": "verde",
-   "por_que": "Gira con fechas nuevas.",
-   "idea": "Merch, outfits de concierto y experiencias como regalo."
-  },
-  {
-   "termino": "carnaby street christmas lights",
-   "color": "verde",
-   "por_que": "Encendido navideño con conversación en redes.",
-   "idea": "Contenido de compras navideñas en tienda y escaparates."
+   "por_que": "Primeras imágenes del rodaje de las películas de The Beatles.",
+   "idea": "Estilo retro de los 60 para moda y peluquería."
   }
  ],
  "audiencias": {
@@ -1191,6 +1191,15 @@
   "Keep terrestrial TV to protect Britain from Russia, say peers",
   "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
   "++FULL+VIDEOS+!!Paige Spiranac Viral Video On Social Media",
-  "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)"
+  "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)",
+  "Barristers could be barred from practice over use of rape myths, warns justice secretary",
+  "Nuclear submariners return ‘grey’ from record seven months at sea",
+  "SFO charges eight over £251m London Capital & Finance collapse",
+  "SFO charges eight over London Capital & Finance collapse",
+  "Security Alert: U.S. Embassy London, November 16, 2026",
+  "++(official^video)++surekha vani viral video original Clip in Social Media x Instagram",
+  "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+  "US woman Lindsay Clancy to face retrial next year for deaths of her three children",
+  "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit"
  ]
 }

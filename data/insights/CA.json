@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra en modo invierno: tormentas en la costa oeste, aviso de vientos fuertes en Quebec y búsquedas de clima en aumento. En compras, el Black Friday ya se anticipa con ofertas de PlayStation y tecnología, y Twitch estrena anuncios comprables en Canadá. La conversación incluye GTA VI, la música country rumbo a los CMA Awards y los derechos de los pasajeros aéreos tras la cancelación de vuelos en EE. UU. Un consumidor que siente el costo de vida valora ofertas claras, entregas fiables y políticas de reembolso sencillas.",
+ "lectura": "Canadá se prepara para Black Friday con inflación estable en 3,1% y ventas minoristas que crecieron en octubre, pero con un comprador que mide cada dólar. El clima (tormentas de invierno, El Niño) y los retrasos de vuelos tras la parada en EE. UU. condicionan viajes y entregas, mientras la prueba nacional de Alerta Ready del miércoles y la oferta de Québecor por Telus son noticia. En entretenimiento, la música country (CMA Awards), GTA VI y el casting de James Bond lideran. Ganan los mensajes bilingües cuando aplica, con precios claros y fechas de entrega realistas.",
  "ideas_hoy": [
   {
-   "titulo": "Shoppable en Twitch",
-   "idea": "Twitch lanzó anuncios comprables en Canadá. Si tu audiencia es gamer, prueba una transmisión o colaboración con creador que muestre el producto en uso antes del Black Friday.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Winter-ready checklist",
-   "idea": "Con tormentas y frío en la agenda, publica una lista de lo esencial para el invierno (abrigo, llantas, energía portátil) con tus productos y envío rápido.",
+   "titulo": "Guía de regalos 'worth it'",
+   "idea": "El canadiense compra con cautela pese a las ofertas. Haz una lista de regalos por valor real (durabilidad, garantía, precio por uso) en lugar de solo % de descuento.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Política de reembolso visible",
-   "idea": "El caso de WestJet sobre vuelos cancelados es tendencia. Aprovecha para mostrar con claridad tu política de devoluciones y cambios: la confianza vende en temporada alta.",
+   "titulo": "Prepárate para el invierno",
+   "idea": "Tormentas y El Niño marcan la semana. Ropa térmica, neumáticos de invierno y kits para el auto pueden lanzar un checklist con productos disponibles.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Noche country",
+   "idea": "Los CMA Awards con Taylor Swift y el anuncio de LASSO Montreal 2027 mueven a los fans. Bares, moda western y regalos musicales pueden hacer contenido temático.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Shoppable en Twitch",
+   "idea": "Twitch lanzó anuncios comprables en Canadá. Marcas gamer y tech pueden probar colaboraciones con streamers locales antes del estreno de GTA VI.",
    "formato": "LinkedIn"
   },
   {
-   "titulo": "Bilingüe para Quebec",
-   "idea": "Las búsquedas de 'météo' y temas en francés crecen. Adapta tus anuncios de Black Friday al francés quebequense para no perder ese mercado.",
+   "titulo": "Entregas sin sorpresas",
+   "idea": "Con retrasos aéreos y la temporada alta encima, publica tus fechas límite de envío para Navidad, incluyendo envíos a EE. UU. y Latinoamérica.",
    "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "GTA VI y gaming deals",
-   "idea": "GTA VI y las ofertas de PS5 dominan la conversación. Comparativas honestas de precios de consolas y accesorios funcionan bien en video corto.",
-   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "country music",
    "color": "verde",
-   "por_que": "La música country está en tendencia por los CMA Awards.",
-   "idea": "Playlists y contenido de estilo western para moda, bebidas sin alcohol o eventos."
+   "por_que": "CMA Awards y conciertos anunciados generan conversación.",
+   "idea": "Contenido temático de música country para moda, bares y regalos."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas con nieve y vientos fuertes.",
-   "idea": "Mensajes de preparación y entrega a domicilio; sin bromas sobre afectados."
+   "por_que": "Tormentas fuertes en la costa oeste.",
+   "idea": "Productos y consejos de invierno con tono servicial."
   },
   {
    "termino": "météo",
+   "color": "verde",
+   "por_que": "Búsquedas del pronóstico en Quebec con vientos fuertes.",
+   "idea": "Contenido en francés sobre preparación para el frío."
+  },
+  {
+   "termino": "el niño",
    "color": "amarillo",
-   "por_que": "Pronósticos de vientos intensos en Quebec y Francia.",
-   "idea": "Contenido útil en francés sobre cómo preparar el hogar."
+   "por_que": "Interés por los efectos de El Niño en el invierno.",
+   "idea": "Consejos prácticos, sin alarmismo."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento de videojuego esperado globalmente.",
-   "idea": "Promos de accesorios, snacks e internet para la 'noche de juego'."
-  },
-  {
-   "termino": "twitch",
-   "color": "verde",
-   "por_que": "Twitch lanza anuncios comprables en Canadá.",
-   "idea": "Explorar live shopping con creadores de nicho."
+   "por_que": "El lanzamiento del año en videojuegos.",
+   "idea": "Accesorios, snacks y combos de la noche de estreno."
   }
  ],
  "audiencias": {
@@ -1204,6 +1204,11 @@
   "1 person in hospital following 5-alarm fire at Pierrefonds-Roxboro apartment building",
   "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
   "++FULL+VIDEOS+!!Paige Spiranac Viral Video On Social Media",
-  "!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Video on social media"
+  "!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Video on social media",
+  "maurice morrow",
+  "haïti",
+  "Video captures confrontation outside Chinese Consulate in Toronto",
+  "PSPP and Carney have ‘very pleasant meeting’ following weeks of tensions",
+  "Montreal Opposition wants city to appoint executive responsible for systemic racism"
  ]
 }

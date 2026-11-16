@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia se prepara para la jornada de huelga del martes 17 de noviembre en función pública, transportes y liceos, y para rachas de viento intensas. En consumo, el Black Friday ya empezó en tecnología (TV OLED, tabletas, SSD, PC gamer) y la liquidación de stocks de PS5 antes de GTA VI concentra búsquedas. El entretenimiento televisivo (Star Academy, N'oubliez pas les paroles) y las historias de casas reformadas inspiran conversación. El consumidor francés busca 'bons plans' verificados y comodidad en casa.",
+ "lectura": "Francia mira el cielo y el bolsillo: los fuertes vientos (coup de vent) lideran las búsquedas y el Black Friday del 27 de noviembre se vive con franceses dispuestos a gastar, pero más desconfiados que nunca ante las falsas promociones. La tecnología manda en las ofertas (iPhone reacondicionado, TV OLED, PS5 para la semana de GTA VI) y el 20 de noviembre cambian las reglas del crédito al consumo y los pagos fraccionados. En televisión, Star Academy y N'oubliez pas les paroles siguen fuertes. Las marcas que expliquen precio de referencia, garantía y condiciones de pago con claridad tienen ventaja.",
  "ideas_hoy": [
   {
-   "titulo": "Grève du 17 : on livre quand même",
-   "idea": "Anticipa la huelga del martes con mensajes de entrega o recogida alternativa y horarios. Reduce la incertidumbre del cliente.",
-   "formato": "Historia de Instagram"
-  },
-  {
-   "titulo": "Bons plans vérifiés",
-   "idea": "Los medios están listando ofertas reales de Black Friday. Publica tu precio de referencia y el descuento real para ganar credibilidad.",
+   "titulo": "La vraie promo",
+   "idea": "Los franceses están más desconfiados que nunca con el Black Friday. Muestra el precio de referencia, el descuento real y la garantía en una sola imagen: confianza antes que urgencia.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Prêt pour GTA VI",
-   "idea": "La liquidación de PS5 y GTA VI dominan las búsquedas. Bundles de accesorios, snacks e internet funcionan esta semana.",
+   "titulo": "Reconditionné, le bon plan",
+   "idea": "El iPhone reacondicionado aparece entre las ofertas destacadas. Si vendes tecnología reacondicionada, explica cómo se revisa cada equipo y qué garantía tiene.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Paiement en plusieurs fois: ce qui change",
+   "idea": "Desde el 20 de noviembre cambian las reglas del crédito al consumo y los pagos fraccionados. Explica en simple tus opciones de pago y sus condiciones.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Semaine GTA",
+   "idea": "GTA VI se lanza esta semana y las ofertas de PS5 se multiplican. Arma un pack gamer o una noche de estreno con entrega rápida.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Avant/après rénovation",
-   "idea": "Historias de casas reformadas son tendencia. Marcas de bricolaje y deco pueden mostrar transformaciones reales con presupuesto.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Soirée Star Academy",
-   "idea": "Star Academy reúne audiencia. Propón planes de 'noche de programa' con comida, deco o moda para verlo en grupo.",
-   "formato": "Reel"
+   "titulo": "Coup de vent, cocooning",
+   "idea": "Con los vientos fuertes, la gente se queda en casa. Mantas, velas, té y delivery pueden comunicar un plan cocooning con tono cálido.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
+   "termino": "coup de vent",
+   "color": "amarillo",
+   "por_que": "Episodio de viento fuerte de larga duración.",
+   "idea": "Contenido útil y cocooning; evita minimizar los riesgos."
+  },
+  {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "Programa musical con gran audiencia.",
-   "idea": "Retos musicales y votaciones con tus productos."
+   "por_que": "El programa sigue entre lo más visto del fin de semana.",
+   "idea": "Memes, retos de canto y moda inspirada en el programa."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento esperado de videojuego.",
-   "idea": "Bundles gaming y contenido de preparación."
+   "por_que": "El lanzamiento del año en videojuegos.",
+   "idea": "Packs gamer, snacks y accesorios."
   },
   {
    "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Liquidación de stocks de PS5 antes del lanzamiento.",
-   "idea": "Comparativas de precios y accesorios."
-  },
-  {
-   "termino": "arnaud sncf",
-   "color": "amarillo",
-   "por_que": "Historia viral de un control que tuvo consecuencias graves para un usuario.",
-   "idea": "Evita usarla para vender; si eres de movilidad, habla de transparencia y atención al cliente."
+   "por_que": "Ofertas fuertes de consolas antes de GTA VI.",
+   "idea": "Comparativas de packs y regalos tech para Navidad."
   },
   {
    "termino": "maison",
    "color": "verde",
-   "por_que": "Historias de compra y reforma de casas.",
-   "idea": "Contenido de deco, bricolaje y antes/después."
+   "por_que": "Historias de compra de casas a buen precio en regiones.",
+   "idea": "Contenido de decoración, reforma y mudanza."
   }
  ],
  "audiencias": {
@@ -1294,6 +1294,20 @@
   "«Robots tueurs» : le secrétaire général de l'ONU appelle à agir contre ces armes «impitoyables»",
   "Les rassemblements et cortèges sont interdits autour de plusieurs lycées et universités à Paris et en région parisienne",
   "À Paris, la préfecture interdit les rassemblements près de 15 lycées et campus universitaires",
-  "Des interdictions de rassemblement autour de lycées et d'établissements supérieurs à Paris et en région parisienne"
+  "Des interdictions de rassemblement autour de lycées et d'établissements supérieurs à Paris et en région parisienne",
+  "ferme",
+  "Édouard Geffray hué, CNews visée, tensions avec les CRS… Les images de la réouverture chaotique du lycée Mandela à Nantes",
+  "Grève du mardi 17 novembre : fonction publique, transports, lycées… À quoi faut-il s’attendre",
+  "DIRECT. 17 novembre: entre 220.000 et 300.000 manifestants attendus hors région parisienne (info BFMTV)",
+  "« Fractures françaises » : la violence comme marqueur politique déterminant",
+  "DIRECT. Procès de la \"martyre de l'A10\": 20 ans de réclusion criminelle requis contre la mère d'Inass, 14 ans contre le père",
+  "Un proviseur de Saint-Denis quitte son poste après l’intervention de la BAC",
+  "Estonie : le sabotage d'une usine de drone déjoué in extremis, Tallinn ferme sa frontière avec la Russie",
+  "Armes autonomes : « Confier la décision de tuer à des systèmes algorithmiques revient à franchir une ligne rouge morale »",
+  "Manifestation du 17 novembre à Paris : le parcours dévoilé",
+  "Manifestation du 17 novembre : retrouvez le parcours à Paris, au départ de la place de la Nation",
+  "INFO BFMTV. Manifestation du 17 novembre: entre 40.000 et 80.000 personnes attendues dans les rues de Paris",
+  "Grève du 17 novembre : place de la Nation plutôt que les Invalides, on sait où défilera le cortège à Paris",
+  "Grève du 17 novembre : le cortège parisien change de point de départ"
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador sigue pendiente del clima: hay lluvias moderadas, alerta amarilla por lloviznas en Quito, radiación UV extremadamente alta y calles anegadas en sectores de Guayaquil. En compras, el foco está en el Black Friday del 27 de noviembre y en cómo comparar descuentos; además, las ventas de camionetas crecen 33% con modelos ensamblados en el país. En la Biblioteca de Anuncios de Meta, los casilleros y couriers compiten con mensajes de 'trae tus compras de EE. UU.' y precio por libra. Las marcas que combinen utilidad (lluvia, sol, envíos) con claridad de costos conectan mejor.",
+ "lectura": "Ecuador se prepara para un fin de semana largo: se decretó feriado nacional el viernes 20 de noviembre, lo que activa viajes, paseos y compras previas. El clima manda en la agenda (lluvias y calles anegadas en sectores de Guayaquil, lloviznas en Quito), y en negocios llaman la atención el efecto de El Niño sobre la producción de cacao y la venta de camionetas en alza. El Black Friday del 27 de noviembre ya domina las notas de consumo, con consejos para comparar precios y ofertas adelantadas en videojuegos. Ganan las marcas que ayuden a planificar el feriado y a comprar sin sorpresas.",
  "ideas_hoy": [
   {
-   "titulo": "Lluvia y sol el mismo día",
-   "idea": "El Inamhi prevé lluvias y radiación UV extremadamente alta. Arma un kit doble (paraguas o impermeable + bloqueador y gorra) y comunícalo con humor ligero y tono útil.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Black Friday desde EE. UU. sin sorpresas",
-   "idea": "Los couriers ya anuncian 'trae tus compras de USA'. Explica paso a paso cómo calcular el costo final de una compra internacional (producto, envío y tasas) para que el cliente llegue informado al 27 de noviembre.",
+   "titulo": "Feriado del 20: arma tu plan",
+   "idea": "Con el feriado nacional del viernes 20, propone tres planes (playa, sierra y casa) con lo que necesitas de tu tienda. Publícalo hoy para que la gente compre con tiempo, ñaño.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Accesorios para la camioneta nueva",
-   "idea": "Las ventas de camionetas crecen 33%. Tiendas de accesorios, repuestos y lavado pueden lanzar paquetes de 'estreno' y contenido de antes y después.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Quito Fashion Week en tu feed",
-   "idea": "La Quito Fashion Week pone en vitrina a diseñadores ecuatorianos. Marcas de moda local pueden mostrar proceso, origen y piezas disponibles para regalar en Navidad.",
+   "titulo": "Black Friday desde EE. UU. con cuentas claras",
+   "idea": "Los consejos para 'realmente ahorrar' en Black Friday están entre lo más leído. Muestra con un ejemplo real cómo se calcula el costo final de una compra internacional y cuándo conviene pedir para que llegue antes de Navidad.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lista de regalos con tiempo",
-   "idea": "Con el Black Friday cerca y la Navidad detrás, propone una lista de regalos por presupuesto (USD 20, 50, 100) con fechas de entrega garantizadas.",
+   "titulo": "Cacao ecuatoriano con historia",
+   "idea": "Se habla de cómo El Niño golpea la producción de cacao. Marcas de chocolate local pueden contar el origen y el trabajo de sus proveedores, y proponer cajas de regalo navideñas hechas en Ecuador.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Kit lluvia y sol",
+   "idea": "Lluvias en Guayaquil y lloviznas en Quito con sol fuerte entre aguaceros. Arma un combo paraguas + bloqueador + funda impermeable para el celular, con humor ligero y útil.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Volar en el feriado",
+   "idea": "LATAM reportó buenos resultados y el feriado dispara búsquedas de viaje. Agencias y hoteles pueden lanzar ofertas de último minuto con precio final y condiciones claras.",
    "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
-   "termino": "camioneta",
-   "color": "verde",
-   "por_que": "Crecen 33% las ventas de camionetas y entran modelos ensamblados en el país.",
-   "idea": "Accesorios, seguros, mantenimiento y contenido comparativo para nuevos dueños."
-  },
-  {
    "termino": "puerto santa ana",
    "color": "amarillo",
    "por_que": "Búsquedas por anegamientos y cortes de luz en Guayaquil por las lluvias.",
-   "idea": "Solo contenido útil y empático (delivery, cuidado del hogar); nada de humor sobre la emergencia."
+   "idea": "Solo contenido útil y empático (delivery, cuidado del hogar); nada de humor sobre la afectación."
   },
   {
-   "termino": "florida norte",
-   "color": "amarillo",
-   "por_que": "Mismo evento de lluvias en Guayaquil.",
-   "idea": "Comercios de la zona: avisa horarios y opciones de entrega con tono solidario."
-  },
-  {
-   "termino": "deuda",
-   "color": "amarillo",
-   "por_que": "Interés por temas financieros y de mercados.",
-   "idea": "Contenido de educación financiera y compras planificadas; evita prometer ganancias."
-  },
-  {
-   "termino": "la mansion vip",
+   "termino": "camioneta",
    "color": "verde",
-   "por_que": "El reality mexicano también se sigue en Ecuador.",
-   "idea": "Dinámicas de votación con productos o memes sobre el reality, con tono ligero."
+   "por_que": "Las ventas de camionetas crecen y llegan modelos ensamblados en el país.",
+   "idea": "Accesorios, seguros y mantenimiento para nuevos dueños, con comparativas simples."
+  },
+  {
+   "termino": "valentín fuster",
+   "color": "verde",
+   "por_que": "Frases del cardiólogo sobre autoestima y salud se comparten mucho.",
+   "idea": "Contenido de bienestar y hábitos saludables, sin prometer resultados médicos."
+  },
+  {
+   "termino": "latam",
+   "color": "verde",
+   "por_que": "Interés por la aerolínea y sus resultados, justo antes del feriado.",
+   "idea": "Ofertas de viaje, maletas y accesorios para el fin de semana largo."
+  },
+  {
+   "termino": "robert pattinson",
+   "color": "verde",
+   "por_que": "Fue anunciado como el nuevo James Bond.",
+   "idea": "Ganchos de cine y estilo para moda masculina, relojes o cocteles."
   }
  ],
  "audiencias": {
@@ -1146,6 +1146,11 @@
   "Buque tanker embiste crucero en Nueva Orleans: 180 personas rescatadas y 32 hospitalizadas",
   "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
   "ley",
-  "Lluvias amenazan 21 recintos electorales a días de las votaciones en Ecuador"
+  "Lluvias amenazan 21 recintos electorales a días de las votaciones en Ecuador",
+  "Profesores universitarios anuncian su participación en la protesta nacional del Black Friday",
+  "Quito, Guayaquil y Cuenca: así están las intenciones de voto en estas ciudades",
+  "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
+  "El CCII exige a TikTok retirar material de presunto abuso infantil",
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas"
  ]
 }

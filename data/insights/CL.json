@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T13:04:54Z",
+ "actualizado": "2026-11-16T17:03:48Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile está pendiente del clima: tras la ola de calor vuelven las lluvias a Santiago, hay alerta en el centro-sur y cortes de luz programados en varias comunas. Un bólido que iluminó el cielo del país se volvió conversación nacional. En consumo, Samsung y el retail preparan el Black Friday, BancoEstado ofrece gift cards en noviembre y se abre el nuevo tramo del subsidio habitacional DS1. Es buen momento para mensajes útiles, ofertas con precio claro y contenido liviano que aproveche la curiosidad del momento.",
+ "lectura": "En Chile el bolsillo manda: el dólar tocó los $1.000 y la semana trae datos del PIB, mientras los medios enseñan a revisar si los descuentos de Black Friday son reales y alertan sobre fraudes de identidad en compras. Hay curiosidad por el cielo (el bólido visto en varias regiones y la lluvia de estrellas Leónidas) y la gente busca desmentir el rumor de un 'apagón mundial'. En Meta, las marcas chilenas pautan Black Friday con despacho a todo Chile, temas de verano como asados y viajes, y promociones 2x1. Conviene hablar en pesos, con precio final y despacho claro, y aprovechar la llegada del calor.",
  "ideas_hoy": [
   {
-   "titulo": "Del calor a la lluvia",
-   "idea": "Santiago pasa de ola de calor a lluvias y tormentas eléctricas. Tiendas de ropa y hogar pueden mostrar 'lo que necesitas esta semana' con despacho rápido.",
+   "titulo": "Dólar a $1.000: compra inteligente",
+   "idea": "Con el dólar en $1.000, muchos dudan en comprar afuera. Muestra la comparación de precio final en pesos entre comprar en Chile y en el exterior, y cuándo conviene cada opción. Bacán para tu audiencia.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Black Friday con asado incluido",
+   "idea": "En Meta ya hay anuncios de Black Friday con kits para asado. Si vendes alimentos, parrillas o accesorios de terraza, arma un pack 'primer asado del verano' con despacho a todo Chile.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Mira al cielo",
+   "idea": "El bólido y las Leónidas tienen a todos mirando arriba. Marcas de camping, ópticas o turismo pueden hacer una guía de cómo y dónde observar desde Chile.",
    "formato": "Reel"
   },
   {
-   "titulo": "El bólido como gancho",
-   "idea": "El bólido que cruzó el cielo de Chile es tendencia. Úsalo como gancho creativo ('esto pasó más rápido que nuestro despacho') con humor liviano.",
+   "titulo": "Desmiente el apagón",
+   "idea": "El rumor de un apagón mundial circula en redes. Tiendas de tecnología y energía pueden explicar qué hay de cierto y recomendar respaldos útiles (power banks, linternas) sin generar miedo.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Black Friday sin chamullo",
-   "idea": "Comparte tu precio antes y después y las condiciones de despacho. El consumidor chileno compara harto y castiga las ofertas infladas.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Hogar nuevo con subsidio",
-   "idea": "Se abre el tramo 4 del Subsidio DS1. Marcas de muebles, decoración y servicios para el hogar pueden crear guías para quien sueña con la casa propia, sin prometer beneficios estatales.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Cortes de luz: prepárate",
-   "idea": "Hay cortes programados en Santiago. Linternas, power banks y planes para trabajar desde cafés o cowork se comunican bien con tono práctico.",
-   "formato": "Historia de Instagram"
+   "titulo": "Compra segura este Black Friday",
+   "idea": "Preocupan las compras no reconocidas y deudas a nombre de otros. Publica 5 señales de una tienda confiable y tus medios de pago seguros: genera confianza antes de la fecha.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Fenómeno visto desde varias regiones con mucha conversación.",
-   "idea": "Ganchos creativos de curiosidad y ciencia, con tono liviano."
+   "por_que": "Videos del bólido iluminando el cielo se viralizaron.",
+   "idea": "Contenido de astronomía y turismo astronómico, camping y fotografía."
+  },
+  {
+   "termino": "robert pattinson",
+   "color": "verde",
+   "por_que": "Anunciado como el nuevo James Bond.",
+   "idea": "Guiños de cine para moda, relojes y salidas al cine."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Cambio brusco de calor a lluvias.",
-   "idea": "Ropa, calzado y accesorios para el cambio de clima."
+   "por_que": "Cambios de temperatura y lluvias en el centro-sur.",
+   "idea": "Contenido útil según zona: verano en el norte y centro, lluvia en el sur."
   },
   {
-   "termino": "línea 5",
+   "termino": "apagon mundial",
    "color": "amarillo",
-   "por_que": "Cierre de estaciones del Metro afecta traslados.",
-   "idea": "Información útil y promos de despacho para evitar el traslado."
+   "por_que": "Rumor viral que los medios están desmintiendo.",
+   "idea": "Solo con información verificada; no uses el miedo para vender."
   },
   {
    "termino": "banco estado",
    "color": "verde",
-   "por_que": "Interés por la gift card que ofrece el banco en noviembre.",
-   "idea": "Explica medios de pago aceptados y beneficios de tu tienda."
-  },
-  {
-   "termino": "hbo max",
-   "color": "verde",
-   "por_que": "Estreno de documental sobre un ídolo del fútbol chileno.",
-   "idea": "Contenido de entretenimiento y 'plan de fin de semana' en casa."
+   "por_que": "Interés por una gift card promocional del banco.",
+   "idea": "Comercios pueden explicar si aceptan esos medios de pago y sus promociones."
   }
  ],
  "ocultar": [
@@ -139,7 +139,15 @@
   "Kast deposita ofrenda floral a Ho Chi Minh en Vietnam: años antes, lo tildó de \"asesino en serie\"",
   "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”",
   "Entre promesas y pañales: la eterna espera de las familias chilenas por una sala cuna universal",
-  "Amparo económico rechazado por licitación de buses en Santiago"
+  "Amparo económico rechazado por licitación de buses en Santiago",
+  "Quiroz defiende concesiones a camioneros por US$700 millones pese a discurso de austeridad",
+  "Jorge Quiroz: “Para Hacienda siempre va a haber un dolorcillo de guata cuando se abre la billetera más allá de lo que se previó”",
+  "Informe anual de DDHH y “ley mordaza” a la prensa: “sería inconstitucional”",
+  "Soldados franceses operan en secreto en Ucrania desde hace meses, según reveló un reportaje de RFI",
+  "El 68% de los chilenos apoya la acusación constitucional contra Fernando Rabat, según Criteria",
+  "El CCII exige a TikTok retirar material de presunto abuso infantil",
+  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
+  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok"
  ],
  "audiencias": {
   "general": {
@@ -1165,27 +1173,31 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 20265,
+   "busqueda": "Black Friday despacho a todo Chile",
+   "total": 1021,
    "anunciantes": [
     {
-     "nombre": "BLENS",
-     "url": "https://www.facebook.com/ads/library/?id=1855287728813095"
+     "nombre": "Drakhon Chile",
+     "url": "https://www.facebook.com/ads/library/?id=1992179674784236"
     },
     {
-     "nombre": "ArteMadera · Planos DIY",
-     "url": "https://www.facebook.com/ads/library/?id=1451171317176724"
+     "nombre": "Happy Mat Chile",
+     "url": "https://www.facebook.com/ads/library/?id=1142704698118368"
     },
     {
-     "nombre": "Bismuto",
-     "url": "https://www.facebook.com/ads/library/?id=1831272184575019"
+     "nombre": "Cummins Chile",
+     "url": "https://www.facebook.com/ads/library/?id=1612618696792759"
     },
     {
-     "nombre": "Aprendiendos",
-     "url": "https://www.facebook.com/ads/library/?id=2248604652707247"
+     "nombre": "Oceania Cruises Chile",
+     "url": "https://www.facebook.com/ads/library/?id=1021076484368175"
+    },
+    {
+     "nombre": "LumeyaChilee",
+     "url": "https://www.facebook.com/ads/library/?id=1400097342195894"
     }
    ],
-   "patron": "Junto a muchos anunciantes globales, los que apuntan a Chile usan promociones de volumen ('3 lentes por el precio de 1'), precio tachado en dólares para productos digitales y escasez con cupos limitados ('Black Friday · 10 cupos') para servicios a empresas."
+   "patron": "Black Friday adelantado con temática de verano (kits para asado, cruceros y viajes), listas de acceso anticipado ('lista secreta'), 2x1 y llamados a conversar por WhatsApp. Precios en pesos y despacho nacional como argumento."
   },
   {
    "busqueda": "despacho gratis Navidad",
