@@ -1,57 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-17T07:55:05Z",
- "duracion_seg": 868.6,
- "errores": 20,
- "muestra_errores": [
-  {
-   "url": "https://news.google.com/rss/search?q=%28mascotas+OR+perros+OR+gatos%29+when%3A1d&hl=es-419&gl=CO&ceid=CO%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28beb%C3%A9s+OR+ni%C3%B1os+OR+maternidad%29+when%3A1d&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28%28moda+OR+ropa+OR+calzado%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28%28caf%C3%A9+OR+cacao+OR+chocolate%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28hogar+OR+decoraci%C3%B3n+OR+muebles%29+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28%28artesan%C3%ADas+OR+%22hecho+a+mano%22%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28%28joyer%C3%ADa+OR+accesorios+OR+relojes%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28%28turismo+OR+viajes+OR+vuelos%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28construcci%C3%B3n+OR+industria+OR+manufactura%29+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28mascotas+OR+perros+OR+gatos%29+when%3A1d&hl=es-419&gl=PE&ceid=PE%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T07:55:05Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-17T19:39:26Z",
+ "duracion_seg": 501.3,
+ "errores": 0,
+ "muestra_errores": []
 }
