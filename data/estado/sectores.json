@@ -1,52 +1,37 @@
 {
- "ultima_ejecucion": "2026-11-16T19:35:32Z",
- "duracion_seg": 828.0,
- "errores": 9,
+ "ultima_ejecucion": "2026-11-17T01:52:54Z",
+ "duracion_seg": 761.3,
+ "errores": 6,
  "muestra_errores": [
   {
-   "url": "https://news.google.com/rss/search?q=%28joyer%C3%ADa+OR+accesorios+OR+relojes%29+when%3A1d&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28alimentos+OR+bebidas+OR+gastronom%C3%ADa%29+when%3A1d&hl=es-419&gl=CO&ceid=CO%3Aes-419",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   },
   {
-   "url": "https://news.google.com/rss/search?q=%28belleza+OR+cosm%C3%A9ticos+OR+skincare%29+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28%28moda+OR+ropa+OR+calzado%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   },
   {
-   "url": "https://news.google.com/rss/search?q=%28%28videojuegos+OR+gaming%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28%28tecnolog%C3%ADa+OR+celulares+OR+%22inteligencia+artificial%22%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   },
   {
-   "url": "https://news.google.com/rss/search?q=%28%28beb%C3%A9s+OR+ni%C3%B1os+OR+maternidad%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28fintech+OR+%22pagos+digitales%22+OR+finanzas%29+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   },
   {
-   "url": "https://news.google.com/rss/search?q=%28turismo+OR+viajes+OR+vuelos%29+when%3A1d&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28beb%C3%A9s+OR+crian%C3%A7as+OR+maternidade%29+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   },
   {
-   "url": "https://news.google.com/rss/search?q=%28%28log%C3%ADstica+OR+%22comercio+exterior%22+OR+exportaciones%29+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
+   "url": "https://news.google.com/rss/search?q=%28educa%C3%A7%C3%A3o+OR+%22cursos+online%22%29+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150",
    "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28fintech+OR+%22pagos+digitales%22+OR+finanzas%29+when%3A1d&hl=es-419&gl=CL&ceid=CL%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28alimentos+OR+bebidas+OR+gastronomia%29+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
-  },
-  {
-   "url": "https://news.google.com/rss/search?q=%28health+OR+wellness%29+when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-16T19:35:32Z"
+   "hora": "2026-11-17T01:52:54Z"
   }
  ]
 }
