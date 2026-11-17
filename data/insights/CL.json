@@ -1,97 +1,74 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Black Friday ya tiene fecha en Chile y los medios explican cuántos días dura y cómo evitar estafas en los despachos. La conversación digital mezcla la recepción dispar de GTA 6 en Metacritic, el nuevo disco de Denise Rosenthal y videos virales de la Teletón. Es buen momento para ofertas con seguimiento de envío transparente y contenido cercano y emotivo.",
+ "lectura": "Chile se prepara para su Black Friday, que comienza el viernes 27 de noviembre con cuatro días de ofertas online, y la conversación gira en torno a encontrar buenas ofertas y evitar estafas de despacho. El dólar tocó los $1.000, lo que encarece los importados y empuja a comparar precios. Las lluvias en Santiago y el centro-sur, el bólido que iluminó el cielo y la Teletón (con un ejecutivo que se volvió viral cantando) marcan el tono emocional de la semana.",
  "ideas_hoy": [
   {
    "titulo": "Despacho seguro",
-   "idea": "Se publican consejos para proteger encomiendas y evitar estafas de despacho. Muestra cómo rastrear tu pedido y por qué canales oficiales te contactas.",
+   "idea": "Los medios publican consejos para proteger encomiendas y evitar estafas en Black Friday. Muestra tus garantías de despacho (seguimiento, plazos, contacto) y déjalas fijas en tu perfil.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Cuenta regresiva Black Friday",
-   "idea": "Ya hay fecha para el Black Friday chileno con cuatro días de ofertas. Crea expectativa con 'adelantos' diarios de tus mejores precios.",
+   "titulo": "Cuenta regresiva al 27",
+   "idea": "El Black Friday Chile comienza el viernes 27 de noviembre. Publica historias diarias con un adelanto de tu oferta y una lista de espera por WhatsApp.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "GTA 6: ¿vale la pena?",
-   "idea": "Las reseñas de GTA 6 en Metacritic están divididas. Tiendas gamer pueden pedir a su comunidad su opinión y ofrecer accesorios con descuento.",
+   "titulo": "Hecho en Chile, precio en pesos",
+   "idea": "El dólar superó los $1.000. Si vendes productos nacionales, destaca que tu precio no depende del dólar frente a los importados.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Mira al cielo",
+   "idea": "El bólido y la lluvia de meteoros Leónidas generaron muchas búsquedas. Marcas de outdoor, ópticas o turismo astronómico pueden explicar cómo y dónde mirar el cielo en Chile.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Canciones para sanar",
-   "idea": "Las nuevas canciones de Denise Rosenthal son tema. Marcas de bienestar o autocuidado pueden crear un 'kit de equilibrio' con tono positivo.",
+   "titulo": "Lluvia en Santiago",
+   "idea": "Se esperan precipitaciones en la Región Metropolitana. Activa productos para la lluvia o el mensaje 'pide sin salir' con despacho en el día.",
    "formato": "Reel"
-  },
-  {
-   "titulo": "Solidaridad que vende bien",
-   "idea": "Un ejecutivo se volvió viral cantando en la Teletón. Si tu marca apoya una causa, cuéntalo con transparencia y sin exagerar.",
-   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "pensión",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "Consultas por el pago de la Pensión Garantizada Universal de noviembre.",
-   "idea": "Ofertas y servicios pensados para adultos mayores, con letra grande y atención cercana."
+   "por_que": "Pronóstico cambiante con lluvias en Santiago y el centro-sur.",
+   "idea": "Ofertas según el clima del día y despacho rápido."
   },
   {
-   "termino": "bancos estados unidos",
+   "termino": "bólido",
+   "color": "verde",
+   "por_que": "Fenómeno en el cielo que se volvió tema de conversación.",
+   "idea": "Contenido curioso y de astronomía para marcas de outdoor y turismo."
+  },
+  {
+   "termino": "línea 5",
    "color": "amarillo",
-   "por_que": "Fallas en bancos de EE. UU. que afectan pagos.",
-   "idea": "Recomienda medios de pago alternativos en compras internacionales."
+   "por_que": "Cierre de estaciones del Metro que afecta traslados.",
+   "idea": "Informa cambios de horario o retiro en tienda con empatía."
   },
   {
-   "termino": "the economist 2027",
-   "color": "verde",
-   "por_que": "Interés por tendencias del próximo año.",
-   "idea": "Contenido de tendencias 2027 para emprendedores."
-  },
-  {
-   "termino": "equilibrar la balanza denise rosenthal",
+   "termino": "apagon mundial",
    "color": "amarillo",
-   "por_que": "Canciones vinculadas a una ruptura de pareja famosa.",
-   "idea": "Habla de la música y el autocuidado, no de la vida privada."
+   "por_que": "Rumor desmentido que generó inquietud.",
+   "idea": "No lo amplifiques; si vendes energía de respaldo, habla de preparación habitual."
   },
   {
-   "termino": "los juegos del hambre",
+   "termino": "robert pattinson",
    "color": "verde",
-   "por_que": "Estreno de la nueva película.",
-   "idea": "Planes de cine y sorteos de entradas."
+   "por_que": "Anuncio del actor como nuevo James Bond.",
+   "idea": "Contenido de estilo 'agente secreto' para moda y regalos."
   }
  ],
  "ocultar": [
   "desalojo",
-  "mauricio pinilla",
-  "ovalle",
   "franco parisi",
-  "Kast baja por primera vez del 20% de popularidad, desfondado por el caso Rabat y las concesiones a los camioneros",
   "estrecho",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "máximo pavez cerda",
   "daniel manouchehri",
-  "pinilla",
-  "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles cambia postura y adelanta que 12 PDG apoyarían el libelo",
-  "Por unanimidad: Comisión de Hacienda de la Cámara aprueba en general y particular proyecto de ley para frenar alza de combustibles",
-  "Prisión preventiva para padre de subsecretario Pavez tras chocar ebrio en Lampa",
-  "Este es el reajuste que está solicitando la CUT para el sector público",
-  "Quién es Aldo Ulloa, el jinete que desapareció tras ir al río Maipo con sus dos yeguas",
-  "Cómo Israel cargó 3,5 millones de fotografías en plataforma de Amazon para rastrear a palestinos",
-  "pangal",
-  "máximo pavez",
   "Padre del subsecretario Pavez será formalizado tras choque que dejó a un hombre en riesgo vital",
-  "Polémica en Chile por premio de poesía que fue anulado por el Ministerio de Cultura",
   "claudio alvarado",
-  "Cadem: Aprobación de Kast cayó al 27% y paro camionero tuvo alto respaldo ciudadano",
-  "Acusación contra Rabat apunta a Kast y pide aclarar si ordenó rebajas de condena",
-  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
-  "Comisión investigadora de AC contra Rabat quedó con mayoría opositora",
-  "La billetera fiscal tiene ruedas: La Moneda obligada al pragmatismo a un costo de US$ 700 millones",
-  "“No se pueden minimizar”: crece inquietud en el oficialismo por baja de Kast en las encuestas",
-  "Presentan libro sobre Fidel en Feria de Santiago de Chile",
   "Vestirse para gobernar: la moda del poder en América Latina",
   "Tonka Tomicic responde al documental del Caso Relojes: \"Me contactaron una sola vez\"",
   "El BCE plantea una oleada de inspecciones a los bancos por la inteligencia artificial y el fraude",
@@ -101,7 +78,16 @@
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
   "sin senos sí hay paraíso 4",
-  "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”"
+  "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”",
+  "hidrógeno verde",
+  "Kast contra Kast: el 18% que inquieta a La Moneda y los tuits que hoy le pasan la cuenta",
+  "Eduardo Sepúlveda por apoyo de Jiles a AC contra Rabat: “Hay que tener mucho cuidado con el populismo, porque se sabe lo nocivo de sus resultados”",
+  "Ocurrió en Toltén: Hombre mató de balazo en la cabeza a menor que iba en auto que atropelló a su perro",
+  "La frase de Ester Muñoz a Pedro Sánchez que se le ha vuelto en contra: los votantes del PSOE la hacen suya y la convierten en tendencia en redes",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "Acoso a menores en TikTok LIVE: qué halló el informe",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "Descuentos por deuda hospitalaria en pensión de carabinero"
  ],
  "audiencias": {
   "general": {

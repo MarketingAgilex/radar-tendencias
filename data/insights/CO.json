@@ -1,59 +1,65 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El colombiano está en modo Black Friday antes de tiempo: las marcas de ropa deportiva ya publican descuentos y hasta los proyectos de vivienda en Bogotá anuncian su propio Black Friday. En tecnología llama la atención la advertencia sobre apps piratas de TV como Xuper TV, una oportunidad para hablar de streaming legal y seguro. Con cortes de agua programados en Bogotá y la Navidad a la vuelta, funcionan los mensajes útiles: comprar con tiempo, comparar precios y saber exactamente cuándo llega el pedido.",
+ "lectura": "El colombiano ya está en modo Black Friday: la fecha oficial es el 27 de noviembre, pero las marcas arrancan esta semana y hasta los proyectos de vivienda en Bogotá anuncian su propio Black Friday. Dominan las búsquedas prácticas (clima, pico y placa, cortes de agua programados en Bogotá), así que ganan los mensajes claros sobre cuándo llega el pedido y cuánto cuesta con envío. En redes pesa el entretenimiento, como el Concurso Nacional de Belleza en Cartagena y el nuevo James Bond, y las tiendas ya pautan decoración y luces para el Día de las Velitas (7 de diciembre).",
  "ideas_hoy": [
   {
-   "titulo": "Tu TV, sin riesgos",
-   "idea": "Expertos piden desinstalar Xuper TV por riesgos de seguridad. Tiendas de tecnología pueden publicar un carrusel con 'cómo ver tus series de forma legal' y recomendar dispositivos o planes oficiales.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Black Friday sin afán",
-   "idea": "Las marcas ya adelantan descuentos y los medios piden 'hacerse cinco preguntas antes de comprar'. Haz un video corto con tu checklist de compra inteligente y cierra con tu oferta con precio antes y después.",
+   "titulo": "Velitas que se venden solas",
+   "idea": "Los anuncios activos en Meta ya empujan luces LED y velitas con 'pagas al recibir'. Si vendes decoración, publica hoy un antes y después de un balcón iluminado y cierra con el precio del combo.",
    "formato": "Reel"
   },
   {
-   "titulo": "Fecha límite navideña",
-   "idea": "A cinco semanas de Navidad, publica un calendario con la última fecha para pedir y recibir a tiempo. Reduce la ansiedad del comprador y adelanta ventas.",
+   "titulo": "Cuenta regresiva al 27",
+   "idea": "El Black Friday colombiano será el 27 de noviembre y las campañas arrancan esta semana. Sube una historia diaria con 'faltan X días' y un adelanto del descuento para reunir interesados antes de la avalancha de ofertas.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Vende por WhatsApp sin enredos",
+   "idea": "Los medios destacan WhatsApp e IA como claves para vender más en Black Friday. Prepara respuestas rápidas con catálogo, precios y tiempos de entrega por ciudad, y anúncialo con un 'escríbenos y te respondemos de una'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Tendencias 2027 para tu negocio",
-   "idea": "'The Economist 2027' es búsqueda en alza. Escribe un post para emprendedores con tres tendencias del próximo año aterrizadas a tu sector.",
-   "formato": "LinkedIn"
+   "titulo": "Look de reinado para el día a día",
+   "idea": "El Concurso Nacional de Belleza en Cartagena mueve conversación. Marcas de moda y belleza pueden mostrar 'el look de gala en versión diaria' con sus productos, sin opinar sobre las participantes.",
+   "formato": "TikTok"
   },
   {
-   "titulo": "Kit para los días sin agua",
-   "idea": "Hay cortes de agua programados en barrios de Bogotá y Soacha del 17 al 19 de noviembre. Negocios de hogar pueden recomendar recipientes, toallas húmedas o pedidos programados, con tono de servicio.",
-   "formato": "TikTok"
+   "titulo": "Lo que viene en 2027",
+   "idea": "The Economist publicó sus tendencias para 2027 y aparece entre las búsquedas. Escoge tres tendencias, explica cómo afectan a tu sector y cierra con una pregunta para tus clientes.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "the economist 2027",
-   "color": "verde",
-   "por_que": "Interés por las tendencias del próximo año.",
-   "idea": "Contenido de 'qué viene en 2027' aplicado a tu sector, ideal para LinkedIn."
-  },
-  {
-   "termino": "xuper tv",
-   "color": "amarillo",
-   "por_que": "Alertas de seguridad sobre una app de TV no oficial.",
-   "idea": "Educa sobre streaming seguro sin señalar a usuarios; ofrece alternativas legales."
-  },
-  {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda alta por pronóstico en Bogotá.",
-   "idea": "Mensajes de 'llueva o no, tu pedido llega' y productos de temporada de lluvias."
+   "por_que": "Búsquedas diarias de pronóstico por lluvias en Bogotá y la Costa.",
+   "idea": "Productos para la lluvia (paraguas, impermeables) y domicilios 'sin mojarte'."
+  },
+  {
+   "termino": "pico y placa bogota",
+   "color": "verde",
+   "por_que": "Consulta práctica de movilidad tras el puente festivo.",
+   "idea": "Mensaje de 'pide desde casa y evita el trancón' para comercio local."
   },
   {
    "termino": "estados unidos bancos",
    "color": "amarillo",
-   "por_que": "Fallas en apps de bancos de EE. UU. que afectan a quienes compran o envían desde allá.",
-   "idea": "Recuerda tener un medio de pago alterno y confirma pagos antes de despachar."
+   "por_que": "Fallas en la banca en línea de EE. UU. que pueden afectar a familias con lazos allá.",
+   "idea": "Informa medios de pago alternos con calma, sin generar alarma."
+  },
+  {
+   "termino": "the economist 2027",
+   "color": "verde",
+   "por_que": "Interés por las tendencias del próximo año.",
+   "idea": "Contenido de 'qué viene en 2027' aplicado a tu sector."
+  },
+  {
+   "termino": "quien gano el reinado de cartagena 2026",
+   "color": "verde",
+   "por_que": "Curiosidad por el resultado del Concurso Nacional de Belleza.",
+   "idea": "Moda, maquillaje y peinados inspirados en la gala, sin comparar ni juzgar a las participantes."
   }
  ],
  "audiencias": {
@@ -1072,88 +1078,74 @@
  ],
  "anuncios": [
   {
-   "busqueda": "envío gratis Black Friday",
-   "total": 3114,
+   "busqueda": "envío gratis Navidad",
+   "total": 5288,
    "anunciantes": [
     {
-     "nombre": "OceanDrop",
-     "url": "https://www.facebook.com/ads/library/?id=1675851474337345"
+     "nombre": "Electrocentro",
+     "url": "https://www.facebook.com/ads/library/?id=1676637780480826"
     },
     {
-     "nombre": "Beppa.col",
-     "url": "https://www.facebook.com/ads/library/?id=1791127718670136"
+     "nombre": "Mega Ofertas",
+     "url": "https://www.facebook.com/ads/library/?id=1005960945245441"
     },
     {
-     "nombre": "Pragmata Beauty",
-     "url": "https://www.facebook.com/ads/library/?id=2011258799545064"
+     "nombre": "Click&Go",
+     "url": "https://www.facebook.com/ads/library/?id=1828915514921185"
     },
     {
-     "nombre": "Dulce Hogar",
-     "url": "https://www.facebook.com/ads/library/?id=2127102828195901"
+     "nombre": "Autentica.",
+     "url": "https://www.facebook.com/ads/library/?id=1127203286599139"
     },
     {
-     "nombre": "Mirium",
-     "url": "https://www.facebook.com/ads/library/?id=1139420731902882"
+     "nombre": "ElevateBy",
+     "url": "https://www.facebook.com/ads/library/?id=2244328119763035"
     }
    ],
-   "patron": "Tiendas en línea de nicho dominan: el titular repite 'ENVÍO GRATIS' y 'pago contraentrega a toda Colombia' junto al porcentaje de descuento (20% a 50%). Calzado en cuero, maquillaje de marcas importadas y productos de limpieza para el hogar pautan muchas variantes del mismo anuncio, y ya aparecen ganchos navideños como 'el amigo secreto resuelto'."
+   "patron": "La Navidad ya domina la pauta: decoración (árboles, luces, adornos), juguetes y herramientas con titulares emotivos y emojis navideños. Se repite el cierre con 'chatea con nosotros' o catálogo por WhatsApp, y aparecen ventas por paquete (polos x2, x6, x12) pensadas para quien revende en temporada."
   },
   {
-   "busqueda": "regalos de Navidad",
-   "total": 3279,
+   "busqueda": "día de velitas",
+   "total": 485,
    "anunciantes": [
     {
-     "nombre": "Iris D’Oro",
-     "url": "https://www.facebook.com/ads/library/?id=1490244109644933"
+     "nombre": "Covéa Store",
+     "url": "https://www.facebook.com/ads/library/?id=2702050240227877"
     },
     {
-     "nombre": "La Puzzleria",
-     "url": "https://www.facebook.com/ads/library/?id=3461101994277894"
+     "nombre": "AurenShop",
+     "url": "https://www.facebook.com/ads/library/?id=1510548101128285"
     },
     {
-     "nombre": "Ambienta Home",
-     "url": "https://www.facebook.com/ads/library/?id=1123030866990633"
+     "nombre": "Pidelisto",
+     "url": "https://www.facebook.com/ads/library/?id=1488639543405323"
     },
     {
-     "nombre": "cositas_magic",
-     "url": "https://www.facebook.com/ads/library/?id=1110469621697813"
+     "nombre": "Elizabeth Colombia",
+     "url": "https://www.facebook.com/ads/library/?id=2229675701228165"
     },
     {
-     "nombre": "Mall Zona Dos",
-     "url": "https://www.facebook.com/ads/library/?id=1168287312217122"
+     "nombre": "buhogarcolombia.com",
+     "url": "https://www.facebook.com/ads/library/?id=1124219363695238"
     }
    ],
-   "patron": "La Navidad se pauta desde mediados de noviembre con mensajes como 'no le regales lo de siempre': joyería a cuotas, rompecabezas, decoración del hogar y regalos personalizados. El crédito en cuotas aparece también en regalos."
+   "patron": "Las velitas se pautan con tres semanas de antelación: luces LED y cascadas con el precio en el titular, combos '2 por' y la promesa 'pagas al recibir'. Las tiendas mezclan la tradición con promociones 2x1 ('10 velitas, 10 deseos') y ya hay proveedores que venden diseños navideños a emprendedores para estampar y revender."
   }
  ],
  "ocultar": [
   "justicia",
-  "ufc",
   "suspenden vuelos eeuu",
   "sinuano noche",
   "15 de noviembre",
   "vuelos suspendidos estados unidos",
   "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico",
-  "Operativo en la comuna 1 de Medellín dejó cinco capturados e incautación de un arma de fuego",
   "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
   "Indepaz: 45 líderes sociales asesinados en primeros 100 días de Abelardo",
-  "Por qué están atacando los peajes en Colombia: van siete atentados en noviembre",
-  "Un rosario lanzado desde la multitud golpeó al papa León XIV en Perú: el Vaticano se pronunció",
-  "Wilfrido Vargas pierde batalla legal por 'El baile del perrito': deberá pagar millonaria indemnización por la coautoría",
-  "Hallan en Sitionuevo el cuerpo de hombre que había desaparecido en Barranquilla",
-  "VIDEO | Papa León XIV recibió un golpe en el rostro con un rosario durante su último recorrido en Perú: así reaccionó el pontífice",
-  "María Fernanda Cabal llevó su carro a un taller y se llevó tremenda sorpresa con lo hallado: “Lo estaban haciendo”",
   "Manifestaciones en Bogotá: agenda del 17 al 22 de noviembre de 2026",
-  "Tribunal de Barranquilla alerta por posible reducción salarial de jueces con la reforma tributaria",
   "“Es la única sede que está en anormalidad académica”: así avanza la asamblea en la U. Nacional de Medellín",
   "sinuano noche hoy",
   "Papa León XIV fue golpeado en la cara con un rosario en medio de su recorrido en Perú",
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
-  "Milagro Week: José Manuel Restrepo anuncia que Grupo Plata aumentará su inversión en Colombia a US$400 millones",
-  "16 de noviembre",
-  "indonesia",
   "Estos son los alimentos que se salvarían del IVA en Colombia",
   "Campesinos de Codazzi exponen sus vidas por el abandono de las vías terciarias",
   "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP",
@@ -1165,6 +1157,12 @@
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
   "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
-  "resultado caribeña día"
+  "la fm en vivo",
+  "Atentados con explosivos contra peajes en la vía al Llano y Huila: esto se sabe",
+  "Acoso a menores en TikTok LIVE: qué halló el informe",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "Barranquilla refuerza controles en hoteles ante final de la Copa Sudamericana",
+  "Colombia ya eligió a sus mejores policías: hoy serán premiados en Barranquilla"
  ]
 }

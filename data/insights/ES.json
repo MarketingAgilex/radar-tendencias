@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España calienta motores para Black Friday: los medios ya publican fechas oficiales y las marcas de moda y deporte adelantan rebajas. La huelga de maquinistas complica la movilidad en Cercanías y Rodalies, y llegan la nieve y los temporales al norte. En redes triunfan los cosméticos coreanos virales y las series verticales: contenido corto, útil y con oferta clara es lo que mejor funciona hoy.",
+ "lectura": "En España el Black Friday ya es casi una temporada: tres de cada cuatro españoles piensan comprar y se espera un gasto un 10 % más alto, con la tienda física recuperando terreno y MRW sumando rutas para Navidad. La huelga de Renfe complica los desplazamientos en Madrid, así que la entrega a domicilio y la compra en el barrio ganan atractivo. La vivienda sigue siendo una preocupación de fondo, y el entretenimiento (Playz, Luis Zahera, Javier Ambrossi) marca la conversación en redes.",
  "ideas_hoy": [
   {
-   "titulo": "Teletrabajo en día de huelga",
-   "idea": "La huelga de maquinistas deja Cercanías casi sin servicio. Cafeterías, coworkings y tiendas de tecnología pueden ofrecer planes para trabajar cerca de casa o entrega a domicilio.",
-   "formato": "Historias Instagram"
+   "titulo": "Que gane tu barrio",
+   "idea": "Hay iniciativas locales que impulsan el comercio de proximidad en Black Friday. Presenta a tu equipo y tu oferta con el mensaje 'compra cerca, te lo llevamos hoy'.",
+   "formato": "Reel"
   },
   {
-   "titulo": "El stick coreano",
-   "idea": "El bálsamo coreano con 'efecto relleno' arrasa en TikTok. Tiendas de belleza: haz una prueba antes y después con tu producto similar y precio claro.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Preparado para la nieve",
-   "idea": "Burgos ya instala saleros por la nieve. Tiendas de ropa y hogar pueden lanzar un pack de invierno con entrega rápida.",
+   "titulo": "Sin tren, con envío",
+   "idea": "La huelga de Renfe deja Cercanías Madrid con poco servicio. Ofrece recogida o envío exprés con un copy directo: 'no te muevas, te lo llevamos'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Black Friday con fecha",
-   "idea": "Ya se conocen las fechas oficiales de Black Friday. Publica tu calendario y aclara si tus descuentos son sobre el precio de los últimos 30 días, algo que el comprador valora.",
+   "titulo": "Black Friday planificado",
+   "idea": "La UCE aconseja planificar las compras y no dejarse llevar por las gangas. Propón una 'lista de Black Friday en tres pasos' con tu producto como imprescindible.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Series verticales",
-   "idea": "Las series en formato vertical ganan público. Prueba una miniserie de tres capítulos contando la historia de tu producto o tu cliente.",
-   "formato": "Reel"
+   "titulo": "Tu mini serie vertical",
+   "idea": "Playz estrena una serie vertical que mezcla ficción e improvisación. Inspírate y graba una mini serie de tres capítulos sobre el día a día de tu negocio.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Fechas límite de envío",
+   "idea": "MRW lanza 450 rutas adicionales por Black Friday y Navidad. Comparte tus fechas límite de envío navideño para clientes y empresas.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "belén rueda",
+   "termino": "play z",
    "color": "verde",
-   "por_que": "Anécdota de cine de una actriz muy querida.",
-   "idea": "Contenido de cine español y planes de fin de semana."
+   "por_que": "Estreno de una serie vertical que despierta curiosidad.",
+   "idea": "Formatos verticales y de humor improvisado para tu marca."
   },
   {
-   "termino": "emma watson",
-   "color": "amarillo",
-   "por_que": "Incidente con fotógrafos y cazadores de autógrafos.",
-   "idea": "Habla de respeto y privacidad en general, sin explotar el episodio."
-  },
-  {
-   "termino": "the economist 2027",
+   "termino": "macarena gómez",
    "color": "verde",
-   "por_que": "Interés por las tendencias del próximo año.",
-   "idea": "Posts de 'qué viene en 2027' para emprendedores."
+   "por_que": "Interés por la actriz de 'La que se avecina'.",
+   "idea": "Humor de comunidad de vecinos para marcas de hogar y barrio."
   },
   {
    "termino": "renfe",
    "color": "amarillo",
-   "por_que": "Huelga de maquinistas con servicios mínimos.",
-   "idea": "Mensajes de servicio: entregas a domicilio y alternativas para moverse."
+   "por_que": "Huelga con afectaciones en Cercanías.",
+   "idea": "Ofrece alternativas de entrega o recogida; no opines sobre el conflicto."
+  },
+  {
+   "termino": "vivienda",
+   "color": "amarillo",
+   "por_que": "Preocupación por el acceso a la vivienda.",
+   "idea": "Contenido útil para inmobiliarias y hogar, con tono empático y sin prometer soluciones."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Aperturas de supermercados y precio de la compra.",
-   "idea": "Comparativas de cesta y ofertas de temporada."
+   "por_que": "Aperturas de supermercados y comparación de precios.",
+   "idea": "Comparativas de cesta y ofertas de alimentación con precio claro."
   }
  ],
  "ocultar": [
@@ -72,43 +72,16 @@
   "comprobar sueldazo",
   "ufc",
   "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
-  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
-  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
   "ucrania",
   "centro nacional de inteligencia",
-  "Pedro Sánchez y Lula da Silva reafirman su compromiso con la defensa de las instituciones democráticas durante su encuentro en Madrid",
   "Decenas de docentes en huelga irrumpen en un acto de la consejera de Educación de Madrid y provocan su cancelación",
   "La consejera de Educación de Madrid anuncia que llevará ante los tribunales a los docentes en huelga por “acoso”",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "Eroski suspende su publicidad en TikTok",
   "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
   "amaral",
-  "Detrás del repunte de la llegada de cayucos a El Hierro",
-  "Díaz Ayuso se reúne con representantes del Colegio Oficial de Farmacéuticos de Madrid",
   "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
-  "Feijóo promete \"saldar una deuda\" con los exiliados por ETA para que puedan votar en Euskadi y Navarra",
-  "Burnham prepara un nuevo acuerdo con la UE: \"No nos podemos permitir otros diez años así\"",
-  "Un rosario golpea al Papa León XIV en el ojo en su despedida de Perú",
-  "Comprueba el resultado de la Bonoloto de hoy, lunes 16 de noviembre de 2026",
-  "leire diaz",
-  "leire diez",
-  "ketty garat",
-  "Los primeros mensajes de la Guardia Civil sobre Marruecos por la entrada en Ceuta: “Los están dejando pasar. No quieren liarse a palos”",
-  "Díaz Ayuso: “Todos los proyectos cuentan en esta sociedad pujante de Madrid donde lo importante son la solvencia, el talento y las ganas”",
-  "óscar puente",
-  "agencia estatal de seguridad ferroviaria",
-  "Yolanda Díaz renuncia a liderar la OIT y carga contra su dirección",
-  "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
-  "El cara a cara de Sánchez y Feijóo deja sin programa a Broncano y Pablo Motos pero Iker Jiménez aguanta",
   "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
-  "carmen puente",
-  "El togolés Gilbert Houngbo es reelegido al frente de la OIT",
   "Japón denuncia que dos aviones rusos violaron su espacio aéreo y protesta ante Moscú",
-  "El Papa, el \"cuerdo de Dios\" en Perú, el país de los extremos",
-  "🗣️ Los desalojados de la acampada en Barcelona se concentran en Sant Jaume y aseguran que seguirán \"combativos y activos\" 🎥 Europa Press #Barcelona #PlazaCatalunya #Vivienda #Cataluña #España",
-  "Collboni desaloja la acampada de Barcelona tras detectar un impacto en las encuestas",
   "Clara Bilbao: \"La moda es una máquina tragaperras muy grande. Solo hay que pensar en todo que se vende por minuto\"",
   "La DANA deja una importante huella en la salud mental: el 49% de las personas adultas presenta malestar psicológico y el 15,7% síntomas de estrés postraumático",
   "Esta vez protestan los dueños de perros en Vitoria",
@@ -118,11 +91,20 @@
   "Danza, palabra y música el miércoles en la IV Gala contra la violencia de género",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
   "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
-  "ley",
-  "china",
-  "Intrahistoria del fracaso de la candidatura de Yolanda Díaz para liderar la OIT (y de una renuncia incoherente)",
-  "Radiografía del PSOE: Los socialistas se aferran a la movilización el 29-N",
-  "Japón protesta ante Rusia y envía cazas por violar su espacio aéreo"
+  "guaguas municipales",
+  "Redondo condena las agresiones al PP en Hernani: \"La violencia no cabe en una democracia\"",
+  "Salvamento Marítimo rescata a 339 personas a bordo de 3 cayucos durante la noche de ayer y el día de hoy",
+  "Abascal evita revelar en campaña cuál es su plan para las pensiones",
+  "Empiezan a desmontar los plafones de las pinturas profanas de Sijena para trasladarlas a Aragón",
+  "Ucrania golpea de nuevo el puente de Crimea y Rusia ataca infraestructuras críticas en Kiev",
+  "De las calles al poder: el desafío de la Lista de Estudiantes que derrotó a Vucic en Serbia",
+  "El PSOE apunta en su programa a las grandes del Ibex por su desigualdad salarial",
+  "La frase de Ester Muñoz a Pedro Sánchez que se le ha vuelto en contra: los votantes del PSOE la hacen suya y la convierten en tendencia en redes",
+  "Casos oscuros: Pedófilos en TikTok - Casos oscuros - No son horas",
+  "Acoso a menores en TikTok LIVE: qué halló el informe",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "Jóvenes universitarios colaboran con Madrid Salud de cara al Plan de Adicciones 2027-2031",
+  "Desalojan un edificio de la calle Ave María de Madrid tras caer el techo de una de las viviendas"
  ],
  "audiencias": {
   "general": {

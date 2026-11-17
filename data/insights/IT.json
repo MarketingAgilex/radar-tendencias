@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia mira hacia la huelga general del 20 de noviembre, que afectará trenes y transportes, y hacia la llegada de un nuevo frente atlántico. En entretenimiento, 'Ballando con le Stelle' y la nueva película de 'Hunger Games' concentran la conversación; en tecnología, la expectativa por GTA VI y la PS5 Pro. Funcionan mensajes de planificación (entregas, teletrabajo) y contenido de ocio en casa.",
+ "lectura": "En Italia el mal tiempo (nuevas perturbaciones y alertas en varias regiones) y la televisión del fin de semana (Ballando con le stelle, Domenica In) acaparan las búsquedas. El Black Friday ya está en marcha en electrónica, videojuegos y viajes, y el Garante advierte sobre fraudes online, lo que exige mensajes de confianza. La gastronomía sigue siendo pasión nacional: la estrella Michelin de Cannavacciuolo fue tema, y los regalos gourmet ya asoman para Navidad.",
  "semaforo": [
-  {
-   "termino": "sciopero treni 20 novembre 2026",
-   "color": "amarillo",
-   "por_que": "Huelga general con impacto en transporte.",
-   "idea": "Solo mensajes de servicio y planificación; no tomes postura."
-  },
-  {
-   "termino": "avio",
-   "color": "verde",
-   "por_que": "Oferta pública sobre una empresa aeroespacial.",
-   "idea": "Contenido financiero y de innovación para LinkedIn."
-  },
-  {
-   "termino": "sophie marceau",
-   "color": "verde",
-   "por_que": "La actriz celebra 60 años con gran admiración.",
-   "idea": "Belleza y estilo sin edad: mensajes de autocuidado."
-  },
   {
    "termino": "giuliacci meteo",
    "color": "verde",
-   "por_que": "Llega un nuevo flujo atlántico.",
-   "idea": "Packs de invierno y entrega a domicilio."
+   "por_que": "Consulta del pronóstico ante nuevas perturbaciones.",
+   "idea": "Ofertas según el clima y productos para la lluvia."
   },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "El programa más comentado de la semana.",
-   "idea": "Contenido de 'sábado noche' con snacks o moda de baile."
+   "por_que": "Programa de baile con gran audiencia.",
+   "idea": "Moda de fiesta y contenido de baile para tu marca."
+  },
+  {
+   "termino": "barbara d urso puzza",
+   "color": "amarillo",
+   "por_que": "Polémica televisiva entre presentadores.",
+   "idea": "Si lo mencionas, solo con humor ligero y sin tomar partido."
+  },
+  {
+   "termino": "rockstar games gta vi",
+   "color": "verde",
+   "por_que": "Lanzamiento esperado que mueve a gamers.",
+   "idea": "Guías de preparación (espacio en consola, accesorios) para tiendas tech."
+  },
+  {
+   "termino": "cannavacciuolo stella michelin",
+   "color": "verde",
+   "por_que": "Interés por la guía Michelin y la alta cocina.",
+   "idea": "Contenido gastronómico y regalos gourmet."
   }
  ],
  "audiencias": {
@@ -1148,52 +1148,21 @@
   }
  ],
  "ocultar": [
-  "ceo nvidia jensen huang",
   "collisione frontale",
   "patto di varsavia",
   "ornella muti",
   "bari - foggia",
   "paola barale malattia papilloma virus",
-  "Salma Hayek balla da sola in lingerie tra una ripresa e l'altra e il parrucchiere...",
   "revolut",
   "pecora",
-  "La polizia sta collaborando con l'uomo che ha infranto i finestrini di alcune auto a Ho Chi Minh City.",
-  "L'Ue sanziona hacker e propagandisti russi: nel mirino NoName057(16)",
   "«Ho trasformato il suv di mia moglie morta in un camper, aspettavo la pensione e ora vivo il mio sogno»",
   "Turista ruba una statua di Gesù e la distrugge, shock in Lituania - Video",
   "farouk kassam",
   "attacchi hacker",
-  "Principe Harry incontra il soldato ucraino evacuato dal fronte con un drone. Cosa si sono detti (VIDEO)",
   "Moglie morta gli lascia un suv, padre di due figli lo trasforma in un camper: \"Così viaggio e coltivo il mio sogno\"",
-  "Occupazioni studentesche a Milano: dal liceo Parini al Bottoni si parte oggi in sei scuole",
-  "Truffa finto carabiniere, anziano ucciso: 2 fermati restano in carcere",
-  "mediaset",
   "the apprentice film",
-  "achille polonara",
-  "andreas muller",
   "Superbonus, exit tax e scuola: verso nuovo vertice e modifiche in arrivo. Così può cambiare la manovra",
-  "Writer caduti durante murales a Torino, polemica per post di una prof: “Mano de Dios”",
-  "Giorgia Meloni a Napoli, visita al Comando unità forestali dell’Arma dei carabinieri. «Su Terra dei Fuochi fieri di averci messo la faccia»",
-  "D'Amico vince le suppletive di Chieti: il campo largo conquista un seggio alla Camera",
-  "Il riciclaggio cinese svela tre gruppi criminali a Roma. I nomi, i depositi e le piazze di spaccio di \"Mela\", \"Zio Leonardo\" e \"Yellow\"",
-  "Commissariata la banca Revolut, 'rapporti con indagati per mafia'",
-  "Il caso attorno ai due fratelli che aggredirono un rabbino a Milano",
-  "Il dibattito nel centrosinistra di Milano: riconoscere (o no) l’eredità degli ultimi 15 anni",
   "farouk kassam rapimento",
-  "Chi sono i cinque Paesi europei che vogliono aprire un centro per i rimpatri in Ruanda entro il 2027",
-  "Revolut in amministrazione giudiziaria, cosa cambia per i correntisti",
-  "Ilyes resta nel Cpr di Milano. Tutto pronto per l’espulsione",
-  "Le notizie sul conflitto tra Ucraina e Russia di lunedì 16 novembre",
-  "Don Patriciello incontra Giorgia Meloni: «La premier mi ha promesso che finirà lavoro a Caivano»",
-  "Iran: 'Dieci nazioni sostengono il piano di due giorni per lo Stretto di Hormuz'",
-  "La cooperazione tra Italia e Stati Uniti in materia di estradizione (Milano, 24 novembre).",
-  "condono",
-  "Incursione aerea russa nella Corea del Sud: Seul fa decollare i caccia",
-  "M5S propone una tassa sui patrimoni finanziari oltre 1 milione",
-  "Manovra, spunta il maxi-condono: varrà in tutta la penisola. Meloni: spegnere i focolai",
-  "Il Papa colpito da un rosario al volto, ma nessuna conseguenza",
-  "La Lega frena su Quota 64: sarà un provvedimento autonomo. Forza Italia all'attacco sulle pensioni",
-  "La figlia di Borsellino dopo l'indagine su De Gennaro: «Sulla strage di via D'Amelio il depistaggio più grave e grossolano della storia d'Italia»",
   "Mattarella a Milano, le tappe della giornata del capo dello Stato dall'apertura dell'anno accademico alla Cattolica alle inaugurazioni al Besta",
   "Gli stivaletti stringati di Caterina Balivo sono la svolta sexy (e audace) a tutti i look invernali",
   "Tacchi a stiletto: l’arma di seduzione che diventa anche tendenza",
@@ -1206,42 +1175,48 @@
   "Il video dell'operazione della Guardia di Finanza",
   "Travolta da un'auto mentre cammina lungo la strada: l'impatto devastante, morta una ragazza di 30 anni, inutili i disperati tentativi dei soccorritori per salvarle la vita",
   "solidarieta’ musica, inclusione e riscatto sociale: a milano il concerto dei detenuti di bollate “note di libertà”",
-  "quota 64",
-  "poliziotto",
-  "ponte di crimea",
-  "ambasciatore",
-  "news biella",
-  "Manovra, oggi gli ultimi emendamenti. Pensioni, la Lega «rimanda» quota 64. Apertura su Ires e Irap, le ipotesi sul Superbonus",
-  "Un altro furto di Fentanyl, sparite cinquanta fiale da una clinica di Roma",
   "Depardieu chiede scusa dopo le aggressioni alle donne sul set: «Ho creato sofferenza, appartengo a un mondo che non c'è più». E rinuncia all'appello",
-  "Scuole occupate a Milano, dall’Agnesi al Volta lezioni sospese in otto licei: no a riarmo e carovita",
   "Amministrazione giudiziaria per Revolut, Tribunale Milano: \"Riciclaggio con aggravante mafiosa\"",
-  "Sciopero della scuola a Roma, in arrivo un altro venerdì nero: studenti in piazza e lezioni a rischio"
+  "ricchezza",
+  "studente",
+  "sciopero treni 20 novembre 2026",
+  "messaggero veneto - giornale del friuli",
+  "Ucraina, massiccio attacco russo: a Kiev colpiti 2 ponti e metro. LIVE",
+  "Il Papa rientrato a Roma. Ai giornalisti: \"Classe media viva con più dignità, serve redistribuire\" - Papa: \"Vescovi siano responsabili su aiuto vittime abusi\"",
+  "Sciopero Cgil venerdì 20 novembre: trasporti, scuola, sanità a rischio stop, gli orari. In piazza anche Cobas e studenti",
+  "Pensioni, salta Quota 64 nella Legge di Bilancio 2027: cosa cambia per chi vuole uscire prima dal lavoro",
+  "Chi è Gianni De Gennaro, l'ex capo della Polizia detto «lo squalo»: la fama da duro, Falcone, il G8 di Genova e il ponte sullo Stretto",
+  "Rubate altre 50 fiale di fentanyl da una clinica romana: è il secondo furto in pochi mesi",
+  "Il piano di 5 Paesi Ue è spedire in Ruanda i migranti non in regola",
+  "Stime Ue, disavanzo dell'Italia al 2,9% nel 2026: possibile uscita dalla procedura per deficit eccessivo in primavera",
+  "Anghel Damian difende lo spettacolo di Theo Rose e spiega la scena con Ceaușescu e i pionieri",
+  "Scuole occupate a Milano, dall'Agnesi al Volta lezioni sospese in otto licei: no a riarmo e carovita",
+  "Parma-Roma trasferta a rischio per i tifosi romanisti. Ecco cos'è successo"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Il 20 novembre, organizzati",
-   "idea": "La huelga del 20 de noviembre parará trenes. Comercios y servicios pueden avisar cambios de horario y ofrecer entrega o recogida alternativa.",
-   "formato": "Historias Instagram"
+   "titulo": "Black Friday seguro",
+   "idea": "El Garante da consejos contra los fraudes online. Publica tus garantías: pago seguro, devoluciones y un contacto real.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Serata Ballando",
-   "idea": "'Ballando con le Stelle' sigue siendo lo más visto. Marcas de comida y bebida pueden proponer el 'kit del sábado noche'.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Gamer di Natale",
-   "idea": "GTA VI y la PS5 Pro están en tendencia. Tiendas de tecnología: arma bundles navideños con precio y plazos de entrega claros.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Amistad improbable",
-   "idea": "El video viral de un zorro y un jabalí amigos conquista la web. Usa la idea de 'amistades improbables' para presentar una colaboración entre dos marcas.",
+   "titulo": "Look de pista",
+   "idea": "Ballando con le stelle concentra audiencia. Marcas de moda y belleza pueden mostrar un 'look da pista' para las fiestas.",
    "formato": "TikTok"
   },
   {
-   "titulo": "IA con criterio",
-   "idea": "Federico Faggin habla del 'bivio' de la IA. Publica una reflexión en LinkedIn sobre cómo tu empresa usa la IA sin perder lo humano.",
+   "titulo": "Regalo gourmet con historia",
+   "idea": "La guía Michelin y la gastronomía generan conversación. Los productores pueden mostrar el proceso artesanal de su producto navideño.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Escapadas en Black Friday",
+   "idea": "Las promociones de vuelos atraen viajeros. Las agencias pueden anunciar escapadas de invierno con fechas y precio final claros.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Transparencia digital",
+   "idea": "La UE prepara nuevas reglas para empresas y consumidores digitales. Explica cómo tu negocio cuida la transparencia en precios y suscripciones online.",
    "formato": "LinkedIn"
   }
  ]

@@ -1,38 +1,38 @@
 {
  "pais": "DE",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "En Alemania manda el tiempo: tras los temporales llegan lluvias fuertes, heladas y algo de nieve. Black Friday ya se siente en televisores, Fire TV y herramientas de Einhell, con muchas guías para evitar 'Rabattfallen' (trampas de descuento). En redes gustan las casas decoradas de Navidad y el contenido de cocina diaria: precios honestos, regalos útiles y ambiente navideño.",
+ "lectura": "En Alemania la semana arranca con tormentas y lluvia intensa, seguidas de frío, y el clima domina las búsquedas. El consumidor está atento al bolsillo: la electricidad sube desde enero, se consulta el Weihnachtsgeld y los discounters mejor valorados son tema. El Black Friday ya está en marcha (Amazon, Otto, MediaMarkt) con foco en televisores, robots de limpieza y consolas, mientras GTA VI y el 'Tatort' del domingo marcan el entretenimiento.",
  "semaforo": [
   {
-   "termino": "altersvorsorge",
-   "color": "verde",
-   "por_que": "Interés por la nueva pensión privada y cómo ganar más.",
-   "idea": "Contenido educativo de finanzas personales para pymes y empleados."
-  },
-  {
-   "termino": "thomas saueressig",
-   "color": "verde",
-   "por_que": "Cambio de CEO en una empresa tecnológica.",
-   "idea": "Contenido de liderazgo y tecnología para LinkedIn."
-  },
-  {
-   "termino": "take-two aktie",
-   "color": "verde",
-   "por_que": "La acción de la editora de GTA 6 en el foco antes del lanzamiento.",
-   "idea": "Contenido gamer y bundles; para inversores, solo información general."
-  },
-  {
-   "termino": "t-aktie",
-   "color": "verde",
-   "por_que": "Deutsche Telekom mejora previsiones.",
-   "idea": "Contenido de conectividad y ofertas de telefonía."
-  },
-  {
-   "termino": "business class",
+   "termino": "orkan",
    "color": "amarillo",
-   "por_que": "Polémica por la nueva clase business de una aerolínea.",
-   "idea": "Si vendes viajes, destaca comodidad real con fotos honestas."
+   "por_que": "Tormentas y lluvia intensa en varias regiones.",
+   "idea": "Contenido útil de preparación; evita bromas sobre daños."
+  },
+  {
+   "termino": "wetter",
+   "color": "verde",
+   "por_que": "Consulta diaria del clima.",
+   "idea": "Ofertas según el clima del día."
+  },
+  {
+   "termino": "tatort",
+   "color": "verde",
+   "por_que": "La serie policial del domingo tiene gran audiencia.",
+   "idea": "Planes de 'noche de tele' con snacks o delivery, sin hablar de crímenes."
+  },
+  {
+   "termino": "gta grand theft auto",
+   "color": "verde",
+   "por_que": "Lanzamiento esperado que mueve a gamers.",
+   "idea": "Packs y accesorios gamer, sin mostrar escenas violentas."
+  },
+  {
+   "termino": "strompreise 2027",
+   "color": "amarillo",
+   "por_que": "Subida del precio de la electricidad desde enero.",
+   "idea": "Contenido de ahorro energético con tono útil, sin alarmismo."
   }
  ],
  "audiencias": {
@@ -1180,50 +1180,12 @@
   "friesland krimi bestatter habedank",
   "potsdamer straße",
   "ufc",
-  "Baden-Baden: Auto stürzt von Brücke – drei Tote",
   "bielefeld",
-  "Andy Burnham: Britischer Premierminister erklärt Brexit für gescheitert",
   "winfried kretschmann",
   "mütterrente nachzahlung",
-  "Führungsdebatte: Stegner hält Schwesig in SPD-Spitze für denkbar",
   "„Der neue Senat wird Namen nennen und gegen organisierte Kriminalität deutlich vorgehen“",
-  "Debatte über Stromsteuer - CSU-Chef Söder schließt Verzicht auf Erhöhung der Mütterrente aus",
   "katharina reiche",
-  "Deutschland und weitere EU-Länder einigen sich auf Abschiebezentrum in Ruanda",
-  "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen",
-  "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
-  "UN-Klimakonferenz in Antalya: Entwurf für COP-Beschluss enthält Aufruf zu Ausstieg aus Öl und Gas",
-  "(S+) Lisa T. aus Berlin: Staatsanwalt erklärt Probleme bei Verfahren zu Missbrauchsbildern",
-  "Blackout in Berlin: Warum die Polizei immer noch im Dunkeln tappt",
-  "bernd neuendorf",
-  "Belästigungsvorwürfe: Palmer leitet Gemeinderatssitzung – trotz Vorwürfen",
-  "Nord-Stream-Prozess: Jacht-Vermieter erinnert sich an kaputte Heckplattform",
-  "Russische Angriffe aus dem Nebel: Beobachter warnen vor Pokrowsk-Moment bei Dobropillja",
-  "EU setzt auf Team statt Einzelperson: Kallas verliert Einfluss in Ukraine-Krise",
   "SPD-Chef soll Bescheid wissen: Vor dem Stromsteuer-Showdown erhöht Merz den Einsatz drastisch",
-  "Hubertus Heil kandidiert für SPD-Vorsitz: Ich bin dann mal wieder da",
-  "Ukrainekrieg: Krim-Brücke bei ukrainischem Angriff beschädigt",
-  "\"Estland baut eine Mauer\": Schließung der Grenze zu Russland: Moskau warnt Estland vor Konsequenzen",
-  "sailauf",
-  "\"Kann kein Partner sein\": Gründungsmitglieder des BSW protestieren gegen AfD-Kurs",
-  "Nvidia-Skandal vor Donald Trumps China-Reise: Warum Xi Jinping triumphiert",
-  "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-  "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
-  "Newsom, Pritzker, Harris, AOC: Wer die Demokraten 2028 ins Weiße Haus führen könnte",
-  "Verteidigung: Baltikum baut neuen Eisernen Vorhang gegen Russland",
-  "NVIDIA-Aktie gibt nach: Finanzminister will Chef von außen, wohl keine Rückkehr für Huang - UBS senkt Kursziel",
-  "Eilmeldung: Nach Mbappe ist nun Yamal an der Reihe, die Chinesen zu verärgern.",
-  "john christ",
-  "engelskirchen",
-  "Vanessa Emde: Linken-Abgeordnete zweifelt an Wahlversprechen „Berlin bezahlbar machen“",
-  "Unterstützung für Heil: Franziska Giffey liebäugelt wohl mit SPD-Vorsitz",
-  "BILD-Umfrage: Klare Mehrheit will vorzeitige Neuwahlen",
-  "Japan beklagt Verletzung seines Luftraums durch russische Flugzeuge",
-  "\"Willkürlich und sachfremd\": Gericht kippt neue Visa-Regeln für Studenten und Journalisten in den USA",
-  "Drohnenangriffe auf Putins Öl: Ukraine trifft Anlage nahe wichtigem Logistikknotenpunkt",
-  "Berlin - Hisbollah-naher Verein verboten - Durchsuchungen",
-  "Hisbollah-naher Verein in Berlin verboten: Polizei durchsucht 28 Räume",
-  "Durchsuchungen am Morgen: Razzien wegen Hisbollah-Unterstützung – Verein verboten",
   "Gesundheit - Privatisierung von Krankenhäusern | rbb",
   "Google beobachtet vollständig automatisierte Cyberangriffe mit KI-Technik",
   "Positionspapier und KI - was im Politikbetrieb ankommt",
@@ -1237,42 +1199,47 @@
   "Frau will B203 bei Borgstedt überqueren, wird erfasst und stirbt",
   "Brigade Litauen: Durchhaltefähig mit neuem Logistik-Element",
   "Der Börsen-Tag: Neue US-Einschränkungen für Export von KI-Chips",
-  "gera",
-  "Ukrainekrieg: Krim-Brücke nach Angriff offenbar teilweise eingestürzt",
   "SPD-Vorsitz: Giffey hält sich Kandidatur für SPD-Bundesvorsitz offen",
-  "Haushalt: Deutschlands dritte kolossale Schuldenwette – diesmal könnte sie scheitern",
-  "Bundespräsidentenwahl 2027: SPD schickt Sänger Mickie Krause zur Abstimmung",
-  "AfD hält 10-Punkte-Vorsprung in Umfrage – Mehrheit der Deutschen will vorzeitige Neuwahlen",
-  "Serbisches Parlament konstituiert sich nach Sieg der Studentenliste",
-  "New York: Zohran Mamdani löst umstrittene Polizeieinheit auf",
-  "Razzia gegen El-Irschad: Berlin verbietet Hisbollah-nahen Moscheeverein",
-  "El-Irschad-Verbot: Polizei durchsucht 28 Räume in Berlin"
+  "El-Irschad-Verbot: Polizei durchsucht 28 Räume in Berlin",
+  "kampfflugzeug",
+  "nachzahlung",
+  "schwarz-rote koalition",
+  "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+  "Hisbollah-naher Moscheeverein verboten - Razzia in Berlin",
+  "Nach dem spektakulären Einbruch: Gutachter prüft Sicherheit der Sparkasse Gelsenkirchen",
+  "Deutschland: Friedrich Merz lobt ausländische Medien für ein »deutlich positiveres« Deutschlandbild",
+  "Türkei: Polizei stürmt Sitz von oppositionsnahem Sender Sözcü TV",
+  "US-Gericht kippt Trumps Einschränkungen für Studenten und Journalisten",
+  "Vorwurf der Wahlmanipulation: In Israel steht nun ein gefährlicher Verdacht im Raum",
+  "Textarchiv - Parlamentarische Versammlung der NATO tagt in Berlin",
+  "Berlin: Razzia gegen Hisbollah-nahen Verein – 28 Durchsuchungen",
+  "El-Irschad: Berlin verbietet Verein wegen Unterstützung der Hisbollah"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Weihnachtshaus",
-   "idea": "Una casa en Viersen con 20.000 € de decoración navideña es viral. Tiendas de decoración pueden mostrar cómo lograr el efecto con un presupuesto pequeño.",
+   "titulo": "Preparados para el temporal",
+   "idea": "Tormentas y lluvia intensa esta semana. Tiendas de hogar y outdoor pueden mostrar productos útiles para el mal tiempo con entrega rápida.",
    "formato": "Reel"
   },
   {
-   "titulo": "Sin trampas de descuento",
-   "idea": "Abundan guías sobre 'Rabattfallen' en Black Friday. Publica tu precio de los últimos 30 días junto al precio de oferta.",
+   "titulo": "Ahorra electricidad",
+   "idea": "Los precios de la electricidad suben en enero. Comparte consejos de ahorro y productos eficientes (LED, enchufes inteligentes).",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "TV-Upgrade",
-   "idea": "Fire TV Stick y televisores QD-OLED tienen ofertas. Tiendas de tecnología pueden hacer un comparativo simple para elegir pantalla antes de Navidad.",
+   "titulo": "Ofertas para el Weihnachtsgeld",
+   "idea": "El Weihnachtsgeld está entre las búsquedas. Anuncia ofertas con precio final y entrega garantizada antes de Navidad.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Rezept des Tages",
-   "idea": "Las recetas diarias son contenido viral. Marcas de alimentos pueden publicar una receta de invierno con su producto en 30 segundos.",
+   "titulo": "Compra semanal inteligente",
+   "idea": "Una encuesta revela los discounters favoritos de los alemanes. Marcas de alimentación pueden mostrar cómo armar una compra semanal inteligente con sus productos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Frost-Paket",
-   "idea": "Se esperan heladas y algo de nieve. Ofrece un paquete de invierno (raspadores, guantes, mantas) con envío rápido.",
-   "formato": "Historias Instagram"
+   "titulo": "La IA en tu empresa",
+   "idea": "La salida a bolsa de Anthropic genera búsquedas sobre IA. Comparte un caso concreto de cómo usas IA en tu empresa, sin consejos de inversión.",
+   "formato": "LinkedIn"
   }
  ]
 }

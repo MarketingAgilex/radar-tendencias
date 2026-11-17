@@ -1,105 +1,85 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El frío y la lluvia marcan el día en Portugal: el IPMA anticipa avisos amarillos y también se buscan las alertas de nieve en Reino Unido, donde vive una gran comunidad portuguesa. En redes circula el rumor de un 'apagón mundial' el 17 de noviembre, que conviene desmentir sin alarmismo, y el precio del tomate genera memes. Con Black Friday y Navidad cerca, funcionan las ofertas claras, los packs y los mensajes de confort en casa.",
+ "lectura": "En Portugal el Black Friday se adelanta: Continente, Auchan, Kiko y marcas de tecnología ya publican descuentos y entregas gratis. El mal tiempo (corriente en chorro, lluvias intensas y olas grandes) lleva a muchos consumidores a informarse sobre sus derechos ante retrasos y cortes, señal de que valoran la información clara. El fútbol y la televisión (Cristina Ferreira, Big Brother) dominan la conversación, y los conciertos anunciados para 2027 (NOS Alive, James Blunt) abren la puerta a regalar experiencias.",
  "ideas_hoy": [
   {
-   "titulo": "Kit de lluvia y frío",
-   "idea": "El IPMA anticipa aviso amarillo por lluvia fuerte en seis distritos. Tiendas de hogar y moda pueden lanzar un pack de invierno con entrega rápida y precio final.",
-   "formato": "Copy para anuncio"
+   "titulo": "Envío gratis, aviso claro",
+   "idea": "Grandes cadenas adelantan Black Friday con entregas gratis. Si vendes online, publica tus plazos de entrega y cómo actúas si el mal tiempo retrasa un pedido.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Los memes del tomate",
-   "idea": "El precio del tomate genera memes divertidos. Tiendas de alimentos y restaurantes pueden sumarse con una receta económica y una promoción.",
+   "titulo": "Regala un concierto",
+   "idea": "NOS Alive y James Blunt confirman fechas para 2027. Marcas de moda y regalos pueden mostrar un 'look de festival' o packs de regalo que incluyan la entrada.",
    "formato": "Reel"
   },
   {
-   "titulo": "Sin apagón, con entrega",
-   "idea": "Circula el rumor de un apagón mundial. Responde con calma y humor ligero: 'hoy no se apaga nada, tu pedido llega' (en portugués: 'hoje não se apaga nada, a tua encomenda chega').",
+   "titulo": "Maquillaje en promo",
+   "idea": "La promoción de Black Friday de Kiko entusiasma a las fans del maquillaje. Creadoras de belleza pueden mostrar sus tres imprescindibles de temporada con productos de su marca.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Black Friday en packs",
-   "idea": "En la Biblioteca de Anuncios de Meta dominan las ofertas tipo 5+5 gratis y el pago contra entrega. Prueba un pack con el precio por unidad bien visible.",
+   "titulo": "Precio justo y tienda oficial",
+   "idea": "Un test viral mostró un perfume de supermercado revendido al doble en Vinted. Explica por qué tu precio es justo y dónde comprar de forma oficial.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Navidad con tiempo",
-   "idea": "A poco más de cinco semanas de Navidad, publica las fechas límite de pedido para entregas en Portugal y para la diáspora.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Café para regalar en la empresa",
+   "idea": "Marcas de café adelantan Black Friday en máquinas y café de especialidad. Tostadores y cafeterías pueden ofrecer regalos corporativos de fin de año.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "vórtice polar",
-   "color": "verde",
-   "por_que": "Colapso temprano del vórtice polar que puede traer un invierno frío.",
-   "idea": "Packs de invierno y confort en casa, sin alarmismo."
-  },
-  {
-   "termino": "meo kalorama",
-   "color": "verde",
-   "por_que": "El festival vuelve en 2027 con anuncios próximos.",
-   "idea": "Regala entradas o experiencias para Navidad."
-  },
-  {
-   "termino": "iva domingues",
-   "color": "verde",
-   "por_que": "Noticia ligera de televisión.",
-   "idea": "Contenido de entretenimiento sin entrar en la vida privada."
-  },
-  {
-   "termino": "podcast",
-   "color": "verde",
-   "por_que": "Interés por podcasts de conversación.",
-   "idea": "Lanza un episodio corto sobre tu sector o patrocina un podcast local."
-  },
-  {
-   "termino": "semaglutide",
+   "termino": "corrente de jato",
    "color": "amarillo",
-   "por_que": "Debate sobre medicamentos para bajar de peso.",
-   "idea": "Evita promesas de salud; si eres marca de bienestar, habla de hábitos."
+   "por_que": "Viento fuerte, lluvia intensa y oleaje.",
+   "idea": "Contenido útil de preparación; evita bromas sobre daños."
+  },
+  {
+   "termino": "controle de tráfego aéreo",
+   "color": "amarillo",
+   "por_que": "Interrupción de vuelos en EE. UU. que afectó a viajeros.",
+   "idea": "Agencias: consejos para viajar en diciembre con margen."
+  },
+  {
+   "termino": "vasco palmeirim",
+   "color": "verde",
+   "por_que": "Gesto romántico del presentador que se volvió tema.",
+   "idea": "Contenido emotivo para regalos de pareja."
+  },
+  {
+   "termino": "eletricidade",
+   "color": "amarillo",
+   "por_que": "Cortes de electricidad programados en varias zonas.",
+   "idea": "Avisa a los clientes posibles retrasos con transparencia."
+  },
+  {
+   "termino": "cristina ferreira",
+   "color": "verde",
+   "por_que": "Presentadora muy seguida en televisión y redes.",
+   "idea": "Contenido de entretenimiento y estilo, sin tomar partido en polémicas."
   }
  ],
  "ocultar": [
   "ciberataque",
   "colisão de navios",
-  "tiago castro",
-  "roubo",
   "ufc",
   "imposto",
   "aeroporto internacional de miami",
   "[Completo] video da menina que Viralizou com 5 meninos vídeo da menina do ônibus cascavel 5 x 1",
   "volodymyr zelensky",
   "108 cães e gatos desnutridos resgatados de habitação em Ermesinde. 24 animais acabaram por morrer",
-  "Tendas regressaram ao coração de Lisboa e ficaram toda a noite nos Restauradores",
-  "Aluna hospitalizada após agressões em escola de Lisboa",
   "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende",
   "um milhão",
-  "Aluna violentamente agredida em escola de Lisboa já voltou às aulas. Agressores foram suspensos",
-  "Aluna hospitalizada depois de ser agredida \"por três colegas\" em escola de Lisboa",
-  "Jovem de 13 anos agredida com “pontapés e murros” por colegas em escola de Lisboa",
   "Ministério da Educação investiga agressão violenta a aluna partilhada nas redes sociais",
-  "Montenegro sobre investimento belga: “O CEO da VGP esqueceu-se de destacar a especial proximidade a Espinho”",
   "Um \"F\" e um ramo de oliveira: o novo partido de Isaltino Morais já tem símbolo",
-  "Manifestações podem dar “ideia errada” do país, diz Montenegro",
-  "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque",
-  "Aluna de 13 anos agredida, colegas que filmaram podem ser alvo de processo disciplinar",
-  "ucrania",
-  "Montenegro diz que “protestar é fácil” e que manifestações podem dar “ideia errada” do país",
   "Maputo, em estado de alerta, aguarda julgamento de Mondlane",
-  "Consultoria aponta Guimarães como um dos cinco ministros de Lula com maior influência nas redes sociais",
   "Inspeção-Geral da Educação abre inquérito. Alunos suspensos após agressão a colega em escola de Lisboa",
   "Aluna de 13 anos agredida, colegas que filmaram podem ser alvo de sanção disciplinar | Educação",
   "diário de notícias",
   "Que castigo pode ter a agressão filmada em escola de Lisboa?",
-  "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa",
-  "Forças ucranianas atacam Ponte da Crimeia e trânsito fica condicionado. Kremlin admite \"danos ligeiros\"",
-  "A modelo espanhola Joana Sanz confirmou o fim do casamento com o ex-jogador Daniel Alves e atribuiu parte da separação à diferença de fé entre os dois. Em publicação nas redes sociais, ela afirmou que não compartilha da religiosidade do ex-atleta e qu",
-  "deputado",
-  "lei",
-  "Deputado municipal do Porto detido à entrada da Assembleia por violência doméstica",
   "01h Saúde e humor. Médico dos presidentes junta Cavaco e Marcelo",
   "Metade das vítimas de violência doméstica acolhidas em casas-abrigo são crianças",
   "Médico Goiana da Silva sobre jovem agredida em escola: \"Que crianças é que estamos a criar e que acompanhamento estamos a dar?\"",
@@ -107,8 +87,15 @@
   "Assaltavam casas em construção na região Norte por encomenda",
   "Fumo branco nos suplementos, mas os salários vão ter de esperar: O que se passou na reunião da PSP e GNR",
   "Viralizou: Soldado que o chamou à atenção",
-  "Pedro Duarte: \"Há 30 mil pessoas no Porto a viver em casas da Câmara\"",
-  "\"Exigências absurdas\". Kallas recusa cedências perante a Moscovo"
+  "praga",
+  "amado batista",
+  "Guardas prisionais numa greve que abrange 40 prisões por todo o país",
+  "Urgências hospitalares: Adalberto Campos Fernandes fala de \"imoralidade atroz\"",
+  "Dezenas de feridos em colisão entre dois comboios em Praga",
+  "Nova administração da RTP divide membros do CGI",
+  "Imagens partilhadas nas redes sociais provam que atirador de Cracóvia era \"radical de esquerda\"?",
+  "Kylie Jenner é alvo de comentários após detalhe em seus seios repercutir nas redes sociais; entenda",
+  "Tinha apenas 23 anos! Filha de famosa socialite encontrada morta"
  ],
  "audiencias": {
   "general": {

@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El canadiense se prepara para el invierno (alertas de nieve) y para un Black Friday que llega casi en paralelo al de EE. UU. Hoy destacan la ciencia (el hallazgo de azufre del rover Curiosity), las series ('Boston Blue') y la expectativa por GTA 6, cuyo precio y reseñas se buscan mucho. Funcionan los mensajes prácticos de temporada y el contenido gamer y de entretenimiento para regalos.",
+ "lectura": "En Canadá la temporada de compras navideñas ya arrancó: ferias de artesanías, 'pasaportes navideños' en comercios locales y Black Friday adelantado en tecnología y viajes. El clima manda en la conversación (nieve en Saskatchewan, tormentas en la costa oeste) y la inflación de 3,1 %, con gasolina y alimentos más caros, hace que el consumidor compare mucho. En Quebec el hockey y la cultura local generan comunidad, y el Giller Prize da visibilidad a la literatura canadiense, una buena excusa para regalos culturales.",
  "ideas_hoy": [
   {
-   "titulo": "GTA 6: prepara tu setup",
-   "idea": "Las búsquedas de precio y reseñas de GTA 6 están en alza. Tiendas de tecnología pueden promocionar almacenamiento, mandos y auriculares para el lanzamiento.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Snow-ready",
-   "idea": "Hay alerta especial por nevadas. Publica un kit de invierno (botas, guantes, raspadores) con envío rápido y precio final.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Curiosidad de Marte",
-   "idea": "El hallazgo de azufre en Marte es tendencia. Marcas educativas o de juguetes pueden hacer un post de 'regalos para pequeños científicos'.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Look de alfombra roja",
-   "idea": "Florence Pugh brilló con un vestido de Valentino. Tiendas de moda pueden mostrar cómo llevar el metalizado a fiestas de fin de año por menos.",
+   "titulo": "Compra local este invierno",
+   "idea": "Ferias y campañas como 'Passport to Christmas' invitan a comprar en negocios locales. Muestra a tu equipo preparando pedidos y destaca 'hecho y vendido en Canadá'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Bilingual Black Friday",
-   "idea": "Canadá es bilingüe: prepara tu oferta de Black Friday en inglés y francés y explica plazos de envío para Navidad.",
-   "formato": "Facebook"
+   "titulo": "Regala un libro canadiense",
+   "idea": "Nicholas Herring ganó el Giller Prize con 'Your Breath in Charcoal'. Librerías y tiendas de regalos pueden armar una selección de libros para regalar este invierno.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Precio que rinde",
+   "idea": "La inflación sigue en 3,1 % con alimentos y gasolina más caros. Anuncia combos que muestren el ahorro real por unidad, en inglés y francés si vendes en Quebec.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Checklist de invierno",
+   "idea": "Hay avisos de nieve y tormentas. Tiendas de ropa, hogar y autos pueden hacer un 'checklist de invierno' con sus productos estrella.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "IA hecha en Montreal",
+   "idea": "Una empresa de Montreal está detrás de personajes de IA muy populares. Comparte cómo usas IA o diseño en tu negocio y conecta con el ecosistema tecnológico local.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "nasa curiosity rover",
-   "color": "verde",
-   "por_que": "Descubrimiento científico en Marte.",
-   "idea": "Contenido educativo y regalos STEM."
+   "termino": "canada emergency alert",
+   "color": "amarillo",
+   "por_que": "Prueba del sistema Alert Ready esta semana.",
+   "idea": "Recordatorio útil de preparación; no imites el tono de alerta en anuncios."
   },
   {
-   "termino": "boston blue",
+   "termino": "nasa curiosity rover",
    "color": "verde",
-   "por_que": "Interés por la serie derivada de 'Blue Bloods'.",
-   "idea": "Planes de maratón con snacks o comodidad en casa."
+   "por_que": "Hallazgo en Marte que despierta curiosidad.",
+   "idea": "Contenido educativo o de producto 'fuera de este mundo' para tecnología y juguetes."
+  },
+  {
+   "termino": "country music",
+   "color": "verde",
+   "por_que": "Interés por los premios CMA y sus presentaciones.",
+   "idea": "Playlists y moda western para regalos de temporada."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas con nieve y lluvia en la costa oeste.",
-   "idea": "Mensajes de servicio y kits de invierno, sin alarmismo."
+   "por_que": "Tormentas invernales en la costa oeste.",
+   "idea": "Productos de invierno con mensajes útiles, sin alarmismo."
   },
   {
-   "termino": "florence pugh",
+   "termino": "météo",
    "color": "verde",
-   "por_que": "Look de alfombra roja muy comentado.",
-   "idea": "Moda de fiesta y accesorios metalizados."
-  },
-  {
-   "termino": "gta 6 price",
-   "color": "verde",
-   "por_que": "Búsquedas sobre el precio del juego antes del lanzamiento.",
-   "idea": "Bundles y planes de pago para gamers; precio final claro."
+   "por_que": "Consulta del clima en Quebec.",
+   "idea": "Contenido en francés con ofertas según el clima del día."
   }
  ],
  "audiencias": {
@@ -1211,42 +1211,10 @@
   }
  ],
  "ocultar": [
-  "accident bateau croisière",
   "ontario",
-  "ufc tonight",
   "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
-  "Health Department identifies additional exposure settings to confirmed case of measles in Durham Region",
-  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
-  "mark carney",
   "russia demands world juniors relocation",
-  "One hospitalized after fire at Montreal apartment building",
-  "collective bargaining",
-  "canada lawful access bill c 22",
   "Exodus in Poilievre's office as 5 staffers plan departures",
-  "Churchill Falls ‘Will Not Be Renegotiated’ Premier Asserts Following Reports Quebec Minister Wants to ‘Rework’ Parts of Agreement",
-  "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
-  "Former ambassadors caution tariffs may stay but say Canada-U.S. trade deal possible",
-  "BC Hydro to blame for Squamish floods, some say",
-  "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
-  "5 Toronto residents among 12 charged in $4.5M auto theft investigation",
-  "pierre poilievre",
-  "clarence thomas",
-  "pierre karl péladeau",
-  "ambassadeur",
-  "Man charged after being found on girl’s bed in Vancouver break-and-enter",
-  "Downtown Eastside advocate Herb Varley remembered by Vancouver activists, family and friends",
-  "conducteur",
-  "fraud",
-  "Caught ‘GTA 6’ Leaker Pleads Guilty To Extorting Rockstar Games",
-  "PSPP and Carney have ‘very pleasant meeting’ following weeks of tensions",
-  "Toronto to help build over 9,000 new rental homes through phase 2 of plan to development incentives, Chow says",
-  "Vancouver council considers safeguards on vacant land reclassification",
-  "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
-  "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-  "Ford holds off on new cash for Stellantis plant, contradicting minister",
-  "former ambassadors canada us trade",
-  "Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen",
-  "LeBlanc to chair meeting of Canada-U.S. advisory committee Thursday",
   "New Thames Valley trustee rips 'awful' swearing-in event, seeks supervisor's expense details",
   "+@!EXCLUSIVE VIDEO!objeto pastel Viral Video)",
   "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
@@ -1258,6 +1226,14 @@
   "Parents, experts raise concerns over Quebec’s proposed ban on school kids wearing religious symbols",
   "Canada strengthens Indo-Pacific partnerships through defence education",
   "Oil slips as recovering Middle East exports blunt Gulf tensions",
-  "‘JD Habibi’ goes viral after El-Sayed’s victory speech"
+  "‘JD Habibi’ goes viral after El-Sayed’s victory speech",
+  "katy perry justin trudeau couple",
+  "journal de montréal",
+  "China and Canada expand tariff relief while Ottawa-Washington relations are strained",
+  "Big Tech Mounts Last-Ditch Push to Rewrite Canada’s Data Access Bill",
+  "SPANL, Opposition React to Government’s One-Time Benefit for Families",
+  "Ontario tribunal finds Hamilton hospital doctor touched nurse without consent and in front of patient",
+  "cyberattack",
+  "états-unis"
  ]
 }

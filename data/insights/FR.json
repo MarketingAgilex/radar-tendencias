@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Black Friday ya empezó en Francia: Maisons du Monde, Boulanger, Carrefour y las operadoras móviles adelantan descuentos de hasta 50 %. El tiempo (vientos fuertes, meteorología local) y las perturbaciones del transporte en Lyon condicionan la semana. En redes, el contenido ligero y nostálgico (fêtes foraines, tendencias TikTok para mayores de 50) conecta bien: humor, comodidad en casa y ofertas visibles.",
+ "lectura": "En Francia el Black Friday se adelanta con fuerza en tecnología (Darty, Bouygues, SFR, Amazon) y los medios publican guías para evitar trampas: el consumidor desconfía y compara mucho. El viento y las tormentas en Bretaña y la alerta en Île-de-France mantienen el clima entre lo más buscado, y GTA VI arrastra búsquedas de PS5. En entretenimiento, Star Academy y 'N'oubliez pas les paroles' sostienen la audiencia, y las ventas solidarias de Navidad muestran interés por la segunda mano.",
  "ideas_hoy": [
   {
-   "titulo": "Le salon cocooning",
-   "idea": "Maisons du Monde lanza sofás desde 199,50 €. Marcas de hogar pueden mostrar un salón 'cocooning' para el invierno con el precio de cada pieza.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Tendencia en pijama",
-   "idea": "Una tendencia de TikTok invita a mayores de 50 a moverse en pijama en casa. Marcas de bienestar o ropa cómoda pueden sumarse con un video amable.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Black Friday anticipado",
-   "idea": "Boulanger y Carrefour arrancan antes. Si vendes en Francia, publica tus 'avant-premières' para clientes registrados.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Fête foraine",
-   "idea": "Las ferias vuelven a varias comunas. Confiterías y negocios locales pueden ofrecer manzanas de caramelo o algodón de azúcar con un guiño nostálgico.",
+   "titulo": "Navidad de segunda mano",
+   "idea": "Las ventas solidarias de Navidad apuestan por la segunda mano. Tiendas de reacondicionados o vintage pueden mostrar 'regalos con segunda vida'.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lyon en movimiento",
-   "idea": "Hay perturbaciones en el transporte de Lyon. Comercios locales pueden ofrecer click & collect o entrega a domicilio esos días.",
-   "formato": "Historias Instagram"
+   "titulo": "Black Friday sin trampas",
+   "idea": "Los medios publican guías para evitar trampas. Muestra tu historial de precios y tus condiciones de devolución para ganar confianza.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Pack estreno GTA VI",
+   "idea": "GTA VI dispara las búsquedas de PS5 y accesorios. Tiendas gamer pueden anunciar un pack de estreno con stock y entrega garantizados.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Tarde de cocooning",
+   "idea": "Viento fuerte y lluvia en el oeste del país. Marcas de hogar pueden proponer una 'tarde de cocooning' con sus productos.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "IA con rostro humano",
+   "idea": "Un estudio dice que la IA hizo desaparecer 100.000 ofertas de empleo en 2026. Cuenta cómo tu empresa usa la IA para apoyar a su equipo, con un tono humano.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "mercadona",
-   "color": "verde",
-   "por_que": "Colección navideña de maquillaje muy buscada.",
-   "idea": "Ideas de regalo de belleza con precio accesible."
-  },
-  {
-   "termino": "autorisation de découvert",
+   "termino": "coup de vent",
    "color": "amarillo",
-   "por_que": "Cambia el crédito al consumo el 20 de noviembre.",
-   "idea": "Explica tus opciones de pago con transparencia; no empujes a endeudarse."
-  },
-  {
-   "termino": "élevage",
-   "color": "verde",
-   "por_que": "Historia de un emprendedor que cría caracoles.",
-   "idea": "Contenido de emprendimiento local y productos de origen."
+   "por_que": "Viento fuerte y tormenta prolongada en Bretaña.",
+   "idea": "Contenido útil de preparación; evita bromas sobre daños."
   },
   {
    "termino": "météo",
    "color": "verde",
-   "por_que": "Pronóstico con vigilancia por tormentas.",
-   "idea": "Mensajes de servicio y productos para el mal tiempo."
+   "por_que": "Consulta diaria del clima.",
+   "idea": "Ofertas según el clima del día."
   },
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "Programa musical con gran audiencia.",
-   "idea": "Contenido de 'prime del viernes' con snacks o moda."
+   "por_que": "Programa musical con audiencia joven.",
+   "idea": "Contenido musical y de estilo para la generación Z."
+  },
+  {
+   "termino": "gta vi",
+   "color": "verde",
+   "por_que": "Lanzamiento esperado que mueve a gamers.",
+   "idea": "Packs y accesorios gamer, sin mostrar escenas violentas."
+  },
+  {
+   "termino": "playstation 5 ps5",
+   "color": "verde",
+   "por_que": "Liquidación de stock de PS5 antes de GTA VI.",
+   "idea": "Comparativas de precio final y entrega para regalos."
   }
  ],
  "audiencias": {
@@ -1181,56 +1181,18 @@
   "candidats présidentielle 2027",
   "a75",
   "rmc",
-  "piéton",
   "nicolas charrier",
   "fdj",
   "denis olivennes",
   "jean gabin",
-  "manifestation",
-  "Un antiallergique glissé dans le vagin : la tendance TikTok qui alarme les pharmaciens",
   "gérard depardieu",
-  "Manifestation du 17 novembre à Paris : le parcours dévoilé",
   "gironde",
   "nantes",
   "L'Europe veut donner 15 milliards de moins à la France: la ministre de l'Agriculture dit qu'il va falloir \"se battre\" pour conserver le budget de la PAC... qui assure 66% des revenus des agriculteurs",
-  "Grève du 17 novembre : à Paris, la manifestation ira de la place de la Nation à la place d’Italie",
-  "Grève du 17 novembre et manifestations : stations de métro fermées à Paris, moins de trains… Quelles perturbations dans les transports",
-  "Grève du 17 novembre à Paris : ces stations de métro et de RER seront fermées dès 11 heures",
-  "Manifestation du 17 novembre à Paris : parcours, stations de métro fermées, fonction publique, à quoi faut-il s'attendre ce mardi de grève ?",
-  "17 octobre: face aux violences et aux pillages, l'est de Paris été \"défavorisé\" par rapport à l'ouest, estime le maire Emmanuel Grégoire",
   "sondage présidentielle 2027",
-  "catherine nay",
-  "Travailler plus pour partir plus tôt : le pari de Marine Le Pen pour ramener l'âge de la retraite à 62, voire 60 ans",
-  "6 milliards par an, 26 milliards ou quelques centaines de millions ? Les vrais chiffres de l’aide de la France à l’Ukraine",
-  "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
-  "REPORTAGE. «Un mauvais accueil» : le ministre Édouard Geffray reçu par une bronca au lycée Nelson Mandela de Nantes",
-  "Antisémitisme : Mélenchon Dénonce Un « Sondage Bidon », Arfi L’accuse De Complotisme",
-  "REPORTAGE. « On ne voit ça qu’à la télé » : stupeur après la découverte d’un corps et d’ossements dans les Côtes-d’Armor",
-  "En carte, quels pays européens ont leurs frontières ouvertes avec la Russie ?",
-  "\"La conversation n'a pas été facile\": Volodymyr Zelensky annonce les premiers pourparlers entre l'Ukraine, l'Europe et les États-Unis",
-  "Sans fournir de détail sur \"la nature et l'ampleur de l'incident\", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque",
-  "Grève du 17 novembre : jusqu'à 80 000 manifestants attendus à Paris",
   "marine le pen",
-  "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
-  "Présidentielle 2027 : Marine Le Pen joue gros en dévoilant sa réforme des retraites",
-  "Hilarant : Cnews bloquée par la jeunesse nantaise",
-  "Très lourdes peines au procès du triple assassinat de Marseille : « Ce message-là, il est envoyé à la narcocratie",
-  "Procès de la \"martyre de l'A10\": 20 ans de réclusion criminelle requis contre la mère d'Inass, 14 ans contre le père",
-  "Pourquoi l’Estonie a décidé de fermer sa frontière avec la Russie",
-  "INFO BFMTV. Manifestation du 17 novembre: 220 000 à 300 000 manifestants attendus demain en région et 30 000 à 60 000 à Paris",
-  "Une fillette de 12 ans interpellée lors de la manif contre la vie chère à Paris, ce que l’on sait",
-  "fioul",
-  "rue d'aubagne",
-  "La visite d’Édouard Geffray au lycée incendié Nelson Mandela, à Nantes est pour Johanna Rolland « une occasion manquée »",
-  "Ce coup de pression de La France insoumise dit tout des difficultés de Marine Tondelier pour 2027",
   "sénat",
-  "la presse de la manche",
-  "incendie",
-  "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
-  "Perturbations dans les transports, parcours : à quoi s'attendre pour la manifestation du 17 novembre à Grenoble",
-  "Pourquoi le ministère de l'Éducation nationale et les syndicats lycéens ne communiquent pas les mêmes chiffres sur les blocus",
   "Suivez en direct le Conseil de Paris de novembre 2026",
-  "Grève du 17 novembre : mobilisation, transports, parcours... À quoi s'attendre pour cette nouvelle journée de manifestation",
   "Besançon. Pillages du 17 octobre : ils échangeaient les vêtements Lacoste volés contre de la cocaïne",
   "« Le Café du Marin », une édition spéciale pour les 400 ans de la Marine lancée à Toulon",
   "Réforme de la Pac : Annie Genevard veut préserver le budget pour la période 2028 2034",
@@ -1248,19 +1210,21 @@
   "Mouvement social : comment la musique classique est devenue l’atout des manifestants",
   "Allier : un incendie en cours dans une entreprise de recyclage près de Montluçon",
   "Allier : un incendie en cours dans une usine de recyclage",
-  "manuel bompard",
-  "sahara occidental",
-  "fonctionnaire",
-  "vaulx-en-velin",
-  "Ce qu’il faut retenir du débat entre 5 candidats à la présidentielle : impôts, salaires, logement, retraite",
-  "\"Les grèves ça paie toujours\": Sophie Binet, secrétaire générale de la CGT, plaide pour \"un maximum de grèves\" le 17 novembre",
-  "Procès de « la petite martyre de l’A10 » : les six frères et sœurs d’Inass pris dans un conflit de loyauté",
   "EN DIRECT – Mobilisations sociales : fonctionnaires, cheminots, étudiants et lycéens dans la rue ce mardi",
-  "Emmanuel Macron annonce un partenariat stratégique entre la France et la Malaisie",
-  "Cigarette en main, lunettes de soleil… Kim Jong Un photographié sur les pistes de ski près de la frontière chinoise",
-  "Bahreïn : des explosions entendues dans la capitale Manama",
-  "\"Absolument scandaleux\" : gros malaise sur franceinfo à propos d'Anne-Cécile Mailfert et de son couple",
   "Grève du 17 novembre : par où passe le cortège parisien cet après-midi",
-  "Commerces pillés à Paris : « Nous serons aux côtés des commerçants aussi longtemps qu'il le faudra », assure la mairie"
+  "clavicular",
+  "EN DIRECT, grève du 17 novembre | Interdiction d’une AG à Marseille, perturbations dans les transports parisiens... suivez la journée avec nos envoyés spéciaux partout en France",
+  "EN DIRECT Présidentielle 2027 : « Un départ de 60 à 62 ans » et une dose de…",
+  "Présidentielle 2027 : pauvreté, pouvoir d’achat, logement… Le Pen, Melenchon, Glucksmann, Retailleau, Attal confrontent leurs visions de la solidarité aux Restos du Cœur",
+  "Présidentielle 2027 : pourquoi Jean-Luc Mélenchon va dîner avec les grands patrons Bernard Arnault et Patrick Pouyanné ce mardi 17 novembre",
+  "En Gironde, il prend rendez-vous pour une « passe » avec une mineure et tombe dans un guet-apens",
+  "Dassault contre Airbus, une rivalité industrielle qui complique le réarmement de l’Europe",
+  "Bahreïn : plusieurs explosions à Manama, l’Iran revendique une attaque de drones contre une base américaine",
+  "Le Japon dénonce l'intrusion \"inacceptable\" de deux avions présumés russes dans son espace aérien",
+  "Anghel Damian défend le spectacle de Theo Rose et explique la scène avec Ceaușescu et les pionniers",
+  "Obsolescence programmée des iPhone : Apple sera jugé à Paris en 2027",
+  "Le Mascuradar, un outil pour décrypter les discours masculinistes",
+  "Grève du 17 novembre à Paris : le parcours de la manifestation entre Nation et place d’Italie",
+  "Acte VI des Gilets jaunes : ce qui se prépare pour les 8 ans du mouvement"
  ]
 }

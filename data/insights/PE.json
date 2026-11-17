@@ -1,89 +1,74 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La visita del papa León XIV movilizó al país y dejó un ambiente emotivo, sobre todo en Chiclayo, su ciudad del corazón. En consumo, las tiendas adelantan Black Friday y la moda lidera las compras de fin de año, con la IA como aliada para encontrar ofertas. También crece la expectativa por GTA 6 y por la nueva película de 'Los Juegos del Hambre': buen momento para combos gamer y planes de cine.",
+ "lectura": "Perú cierra la visita del papa León XIV con mucha emoción y orgullo local en Lima, Chiclayo, Cusco y Pucallpa, un clima de unión que las marcas pueden acompañar con respeto. En consumo, Black Friday se adelanta con ofertas de moda y tecnología, abre el Premium Outlet del Jockey Plaza y la compra de Entel por Millicom (Tigo) anticipa movimiento en telecomunicaciones. Funcionan los mensajes de ahorro inteligente y de comprar sin endeudarse, de cara a la gratificación de diciembre y la Navidad.",
  "ideas_hoy": [
   {
-   "titulo": "Orgullo chiclayano",
-   "idea": "La emotiva vuelta del papa León XIV a Chiclayo genera orgullo regional. Negocios del norte pueden mostrar productos locales (dulces, artesanía) con un mensaje de orgullo y respeto, sin usar su imagen.",
+   "titulo": "Gracias, Perú",
+   "idea": "La visita del papa dejó momentos virales, como la canción de Pucallpa y la arenga chalaca. Las marcas locales pueden publicar un mensaje de gratitud y orgullo por su ciudad, sin fines de venta directa.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday adelantado",
-   "idea": "Varias tiendas ya adelantan sus ofertas. Publica tu calendario de descuentos y la fecha límite para recibir antes de Navidad.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Moda para fin de año",
-   "idea": "La moda lidera las compras de Black Friday y Navidad. Arma tres looks para fiestas de fin de año con precio total.",
+   "titulo": "Modo outlet",
+   "idea": "El Premium Outlet del Jockey Plaza abre esta semana. Tiendas y creadores de moda pueden enseñar 'cómo armar un look de marca gastando menos'.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Precarga GTA 6",
-   "idea": "Ya se puede precargar GTA 6. Tiendas gamer: anuncia accesorios y almacenamiento con delivery en Lima y provincias.",
+   "titulo": "Black Friday con cabeza",
+   "idea": "Circulan consejos para evitar regalos que dejan cuotas por meses. Escribe un anuncio con precio final, envío y cuotas claras: el peruano compara mucho.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Compra sin trampas",
-   "idea": "Se habla de marcas que usan IA para provocar compras impulsivas. Diferénciate con un post de 'compra con calma': precio claro, cambios y garantía.",
+   "titulo": "Tu grati en tres partes",
+   "idea": "La gratificación de diciembre está cerca. Propón 'ahorro, familia y un gusto' y conecta tu producto con ese gusto.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Telecom en movimiento",
+   "idea": "Millicom (Tigo) será la nueva dueña de Entel en Perú. Empresas de tecnología y servicios pueden explicar qué puede significar para las pymes más competencia en conectividad.",
    "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "clima",
+   "color": "verde",
+   "por_que": "Consulta diaria del pronóstico de Senamhi.",
+   "idea": "Ofertas según el clima: verano que llega, ropa ligera y protector solar."
+  },
+  {
    "termino": "el papa león xiv",
-   "color": "verde",
-   "por_que": "Cierre emotivo de la visita papal en Chiclayo.",
-   "idea": "Mensajes de orgullo y unión, sin usar su imagen con fines comerciales."
-  },
-  {
-   "termino": "the economist 2027",
-   "color": "verde",
-   "por_que": "Interés por las tendencias del próximo año.",
-   "idea": "Posts de 'qué viene en 2027' para emprendedores."
-  },
-  {
-   "termino": "cuando sale gta 6",
-   "color": "verde",
-   "por_que": "Expectativa por el lanzamiento del videojuego.",
-   "idea": "Combos gamer y contenido de cuenta regresiva."
-  },
-  {
-   "termino": "los juegos del hambre",
-   "color": "verde",
-   "por_que": "Estreno de la nueva película de la saga.",
-   "idea": "Planes de cine, trivia y sorteos de entradas."
-  },
-  {
-   "termino": "bancos eeuu",
    "color": "amarillo",
-   "por_que": "Fallas en bancos de EE. UU. que afectan pagos y envíos de dinero.",
-   "idea": "Recomienda medios de pago alternos en compras internacionales."
+   "por_que": "Tema religioso con mucha emoción popular.",
+   "idea": "Acompaña con respeto y gratitud; no lo uses como gancho de venta."
+  },
+  {
+   "termino": "temperatura lima",
+   "color": "verde",
+   "por_que": "Lima entra a la temporada cálida.",
+   "idea": "Bebidas frías, ropa de verano y planes de playa."
+  },
+  {
+   "termino": "lunes 16 de noviembre es feriado",
+   "color": "verde",
+   "por_que": "Interés por días libres y cambios en el calendario.",
+   "idea": "Contenido de 'próximos feriados de diciembre' con planes y promociones."
+  },
+  {
+   "termino": "corte luz arequipa",
+   "color": "amarillo",
+   "por_que": "Cortes de luz programados en Arequipa.",
+   "idea": "Avisa a tus clientes posibles cambios de horario con empatía."
   }
  ],
  "ocultar": [
   "haití - estados unidos",
   "ufc",
-  "Horror en Madrid: detienen a peruana acusada de matar a puñaladas a su novio en un apartahotel",
-  "Renovación Popular ganó en 26 distritos de Lima Metropolitana: ¿en qué zonas de la capital aumentó su respaldo?",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "Carlos Castillo: Policías en retiro rechazan declaraciones sobre Inti Sotelo y Bryan Pintado",
-  "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-  "Resumen de noticias del Colapso de un edificio en Brooklyn, Nueva York, del 12 de noviembre de 2026",
-  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
-  "Dos sismos de magnitudes 5.4 y 5.1 remecieron la región Ica en un lapso de menos de diez minutos",
-  "Carlos Alcántara hace sensible confesión sobre los desafíos médicos de su hijo Lorenzo: 'Me gustaría quitarle toda la medicina'\"",
-  "López Aliaga insiste en que volverá a la alcaldía de Lima: “No me interesa que me metan juicios”",
-  "Keiko Fujimori: ¿Cuál será su agenda oficial en China y Japón?",
   "Madre de Dios: PNP destruye bienes por más de S/ 14 millones vinculados a la minería ilegal",
   "Jeanette Alonzo señala que asumirá la MML si el JNE le da la credencial: \"Me siento preparada\"",
-  "Juan Carrasco Millones, exministro de Pedro Castillo, es condenado por presentar documentos falsos",
   "Airbag en Lima: la noche de topless y desenfreno en el Estadio San Marcos | CRÓNICA",
-  "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
   "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
   "vuelo del papa en vivo",
   "¿Qué ocurrió en Perú? El papa León XIV fue golpeado en el rostro con un objeto lanzado desde la multitud en Lima",
   "La Cancillería de Perú anuncia una investigación tras las quejas por fallas técnicas en la última misa del papa en Lima",
@@ -103,7 +88,12 @@
   "Kingston y el ‘street art’ contra la violencia: una ruta por los murales que han revitalizado la capital jamaicana",
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
-  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D"
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "El Papa: Es mi ministerio sanar, unir a las personas y superar las polarizaciones",
+  "‘GTA VI’ reabre el debate sobre la violencia: “conviene estar atentos pero no alarmarse”",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "Acoso a menores en TikTok LIVE: qué halló el informe",
+  "La frase de Ester Muñoz a Pedro Sánchez que se le ha vuelto en contra: los votantes del PSOE la hacen suya y la convierten en tendencia en redes"
  ],
  "audiencias": {
   "general": {

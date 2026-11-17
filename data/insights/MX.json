@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin cerró con buen balance: ocho de cada diez negocios reportaron más ventas y Profeco destaca a un consumidor más informado. La conversación salta ahora a Black Friday y a la temporada navideña, con el frío en CDMX y el estreno de 'Los Juegos del Hambre: Amanecer en la cosecha' (con Jennifer Lawrence en la alfombra roja) como temas del día. Es momento de ofertas transparentes, comparativos de precio y contenido de entretenimiento con humor.",
+ "lectura": "Con El Buen Fin recién cerrado, el consumidor mexicano hace cuentas: los comercios reportan mejores ventas y Profeco destaca que la gente compra más informada, aunque también circulan alertas por tiendas clonadas. El siguiente gancho es Black Friday (27 de noviembre) y, sobre todo, la temporada de aguinaldo, posadas e intercambios. El frente frío eleva las búsquedas de clima en el norte y el centro, y el entretenimiento (La Mansión VIP, GTA VI, Los juegos del hambre) concentra la conversación joven.",
  "ideas_hoy": [
   {
-   "titulo": "Lo que te faltó del Buen Fin",
-   "idea": "El Buen Fin terminó con alza de ventas. Lanza un 'segunda vuelta' para quien no alcanzó, con un precio claro y tiempo limitado hasta Black Friday.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Look Panem",
-   "idea": "El estreno de 'Los Juegos del Hambre' y la alfombra roja con Jennifer Lawrence están en tendencia. Marcas de moda y maquillaje pueden recrear un look inspirado en Panem en un video de 30 segundos.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Frío en CDMX: combo calientito",
-   "idea": "Hay alerta por bajas temperaturas en alcaldías de CDMX. Cafeterías, tiendas de ropa y hogar pueden promocionar chamarras, cobijas o bebidas calientes con entrega a domicilio.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Consumidor informado",
-   "idea": "Profeco destaca a un consumidor más informado. Publica un carrusel con 'cómo leer nuestras ofertas': precio anterior, precio actual, garantía y tiempo de entrega.",
+   "titulo": "Lo que te faltó en El Buen Fin",
+   "idea": "Profeco y Concanaco hicieron balance y el consumidor compró más informado. Arma un carrusel 'si no alcanzaste en El Buen Fin, aquí va tu segunda oportunidad' con tres productos y precio final claro.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Cine y combo",
-   "idea": "Con Cinépolis y Ticketmaster aún con promociones, restaurantes y snacks pueden armar el 'combo de estreno' para ver la película en grupo.",
-   "formato": "Historias Instagram"
+   "titulo": "Kit anti-frío",
+   "idea": "El frente frío trae temperaturas de hasta 6 °C. Cafeterías, restaurantes y tiendas de ropa pueden mostrar su 'kit para el frío' (chamarra, cafecito, cobija) con entrega a domicilio.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Tienda oficial, no clonada",
+   "idea": "Hay alertas por tiendas clonadas con IA y códigos QR falsos. Enseña en 30 segundos cómo reconocer tu tienda oficial (dominio, redes verificadas, formas de pago): genera confianza y ventas.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Combo noche de estreno",
+   "idea": "GTA VI está entre las búsquedas y su estreno moviliza a los gamers. Tiendas de tecnología y botanas pueden lanzar un 'combo noche de estreno' con lenguaje gamer y entrega rápida.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Regalos para el intercambio",
+   "idea": "Se acercan posadas e intercambios de oficina. Publica una guía de regalos por rango de precio para equipos de trabajo y ofrece pedidos por volumen para empresas.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "la mansion vip",
+   "color": "verde",
+   "por_que": "Reality con mucha conversación en redes.",
+   "idea": "Encuestas y memes ligeros en historias, sin burlarse de los participantes."
+  },
+  {
+   "termino": "ticketmaster",
+   "color": "verde",
+   "por_que": "Promociones de conciertos y eventos durante El Buen Fin.",
+   "idea": "Regalos de experiencias: combina tu producto con planes de concierto."
+  },
+  {
+   "termino": "gta vi",
+   "color": "verde",
+   "por_que": "Lanzamiento esperado que mueve a gamers y creadores.",
+   "idea": "Combos y accesorios gamer con lenguaje del juego, sin mostrar escenas violentas."
+  },
+  {
    "termino": "jennifer lawrence",
    "color": "verde",
-   "por_que": "Alfombra roja del nuevo filme de 'Los Juegos del Hambre'.",
-   "idea": "Contenido de moda y estilo inspirado en la premiere."
+   "por_que": "Estreno y alfombra roja de la saga Los juegos del hambre.",
+   "idea": "Contenido de moda y estilo inspirado en la alfombra roja."
   },
   {
-   "termino": "los juegos del hambre",
-   "color": "verde",
-   "por_que": "Estreno de la nueva entrega de la saga.",
-   "idea": "Trivia, sorteo de boletos o 'qué distrito eres' según tus productos."
-  },
-  {
-   "termino": "clima mañana",
-   "color": "verde",
-   "por_que": "Alerta amarilla por frío en CDMX.",
-   "idea": "Promociones de ropa abrigada, bebidas calientes y artículos para el hogar."
-  },
-  {
-   "termino": "juegos del hambre 2026",
-   "color": "verde",
-   "por_que": "Búsquedas sobre la película de este año.",
-   "idea": "Funciones privadas o maratón de la saga con snacks."
-  },
-  {
-   "termino": "aldo de nigris",
-   "color": "verde",
-   "por_que": "Estreno de 'La Mansión VIP 2', reality con mucha conversación.",
-   "idea": "Contenido de humor tipo 'qué habitante de la mansión eres' con tus productos, sin burlarte de nadie."
+   "termino": "supuesto apagón mundial",
+   "color": "amarillo",
+   "por_que": "Rumor desmentido que generó inquietud.",
+   "idea": "No lo uses para generar miedo; si vendes lámparas o baterías, habla de preparación cotidiana."
   }
  ],
  "audiencias": {
@@ -840,6 +840,76 @@
     "ES": "fiesta / juerga",
     "AR": "joda / fiesta"
    }
+  },
+  {
+   "expresion": "Godín",
+   "significado": "Oficinista con horario fijo; se usa con cariño o con humor.",
+   "uso": "Todo el país, sobre todo en ciudades grandes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Desayuno godín: listo en 5 minutos y para llevar.",
+   "equivalentes": {
+    "CO": "oficinista",
+    "EC": "oficinista",
+    "ES": "currito de oficina",
+    "AR": "oficinista"
+   }
+  },
+  {
+   "expresion": "Hacer el paro",
+   "significado": "Hacer un favor o echar la mano.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Hazme el paro y compártelo con tus amigos.",
+   "equivalentes": {
+    "CO": "hacer la segunda",
+    "EC": "dar una mano",
+    "ES": "echar un cable",
+    "AR": "hacer la gauchada"
+   }
+  },
+  {
+   "expresion": "Carnal",
+   "significado": "Amigo muy cercano, casi un hermano.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Regálale algo chido a tu carnal esta Navidad.",
+   "equivalentes": {
+    "CO": "parcero / parce",
+    "EC": "pana",
+    "ES": "colega / tío",
+    "AR": "hermano / amigo"
+   }
+  },
+  {
+   "expresion": "Chale",
+   "significado": "Expresión de decepción o fastidio.",
+   "uso": "Todo el país, sobre todo jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Chale, se te acabó el Buen Fin? Aquí sigue el descuento.",
+   "equivalentes": {
+    "CO": "¡qué embarrada!",
+    "EC": "¡chuta!",
+    "ES": "¡vaya!",
+    "AR": "¡qué garrón!"
+   }
+  },
+  {
+   "expresion": "Mero mero",
+   "significado": "El que manda o el mejor en algo.",
+   "uso": "Todo el país.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "El mero mero de los tacos al pastor está en tu colonia.",
+   "equivalentes": {
+    "CO": "el duro",
+    "EC": "el duro",
+    "ES": "el jefe",
+    "AR": "el capo"
+   }
   }
  ],
  "creadores": {
@@ -974,6 +1044,14 @@
    "hacia": "MX",
    "sector": "gaming",
    "accion": "Comparar precios finales con envío e impuestos antes de promover; contenido con streamers mexicanos."
+  },
+  {
+   "titulo": "Compras de temporada para consumidores de la frontera",
+   "senal": "Medios fronterizos publican guías para aprovechar Black Friday cruzando de Ciudad Juárez a El Paso, y el gasto navideño se reparte entre ambos lados.",
+   "desde": "US",
+   "hacia": "MX",
+   "sector": "retail",
+   "accion": "Explorar contenido comparativo de precio final (con envío e impuestos) y opciones de entrega en el lado mexicano; validar normas de importación antes de ofrecer."
   }
  ],
  "anuncios": [
@@ -1031,43 +1109,15 @@
  "ocultar": [
   "vadhir derbez",
   "colette kress nvidia",
-  "kevin holland",
-  "El periodista Eduardo Flores Salado fue hallado sin vida la noche del sábado 14 de noviembre en la zona suburbana de Acapulco, Guerrero. Su cuerpo fue localizado en inmediaciones de la colonia Canuto Nogueda, con una marca rojiza en el cuello, por lo",
-  "MILENIO. . 🔴 De manera extraoficial, se espera que los restos de Miguel Ángel Félix Gallardo lleguen a una funeraria de Guadalajara, donde preparan una sala para su despedida. Hasta el momento, no hay confirmación de autoridades ni familiares. 📺#MILE",
-  "Taddei dio por adjudicación directa 96% de 13 mil 300 contratos",
-  "Habitantes de Guadalajara protestan por agua contaminada y exigen atención sanitaria",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
-  "Así fue la detención de Miguel Ángel Félix Gallardo en Guadalajara; “Me quebraron cuatro costillas”",
-  "angelina jolie",
-  "cuauhtémoc blanco",
-  "Chente, el mapache, recula // Temor por comisión 2006 // Salmerón, críticas y derivas // Camila, ¿ por quién votó? -Astillero",
-  "Cartones",
   "Alertan por posibles bloqueos carreteros en cinco puntos estratégicos de Jalisco este martes 17 de noviembre",
   "‘El R2’ cumple una semana internado en el Antiguo Hospital de Guadalajara; continúa el operativo de seguridad en la zona https://mile.io/4t0EPzW",
   "Aseguran fusil de fabricación casera abandonado en parque de Guadalajara, Jalisco",
-  "Revelan dónde descansarán los restos de Miguel Ángel Félix Gallardo; fue cremado en Guadalajara",
-  "boda",
-  "UIF congela cuentas de Juan Carlos Cuervo Escalona, cercano a los hermanos Hernández Casillas",
-  "Anticorrupción inhabilita a Martín Borrego, ex funcionario de la SRE por usar el MUNAL para su boda",
-  "Salieron de la pobreza 17.3 millones de mexicanos entre 2018 y 2026: Banco Mundial",
-  "León XIV recibe golpe de un rosario cerca del ojo al llegar a misa de despedida en Perú",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "Destruirán documentos de procesos ciudadanos en la CDMX",
   "Harán bloqueo total en el kilómetro 40 de la carretera Guadalajara-Colima",
   "Así fue la detención de Miguel Ángel Félix Gallardo en Guadalajara; “Me quebraron cuatro costillas” https://mile.io/4C5lYYJ",
-  "Mueren hombre y niño en vivienda de Guadalajara por posible intoxicación de gas LP",
-  "guardia nacional de méxico",
   "inapam",
-  "Inhabilitan a ex funcionario de SRE por boda en el Munal",
-  "Confirman aumento a la Pensión Bienestar para 2027; esto deben saber los beneficiarios",
-  "Gobernación convoca a líderes de Tierra Blanca Copala en pugna a firmar la paz",
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
   "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
-  "Estudiantes de la UAM y apoyo a Palestina prevén movilizaciones en CDMX hoy 16 de noviembre - La Prensa",
   "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP",
-  "Paga Indaabin por hacer ¡tarjetas de cumpleaños!",
-  "Las cinco vialidades que se verán afectadas en Jalisco este martes por movilizaciones de productores",
   "CDMX: suprimen de programa urbano metropolitano el tema del predial",
   "Vestirse para gobernar: la moda del poder en América Latina",
   "Localizan restos óseos humanos y prendas de vestir durante búsqueda en Reynosa",
@@ -1094,6 +1144,15 @@
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
   "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
-  "Capitán de Sedena y agente de la AEI son localizados sin vida en Tecate"
+  "Capitán de Sedena y agente de la AEI son localizados sin vida en Tecate",
+  "escuela",
+  "Campesinos tomarán 5 puntos carreteros de Jalisco este 17 de noviembre",
+  "Ve a quién le toca la Pensión Bienestar para adultos mayores del 17 al 20 de noviembre",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "Acoso a menores en TikTok LIVE: qué halló el informe",
+  "Buen Fin 2026: Alerta por tiendas clonadas con IA y códigos QR maliciosos",
+  "Afirman legisladores que en la CDMX se garantiza el derecho al deporte",
+  "¿Por Qué Protestan los Repartidores de Aplicación en la CDMX?"
  ]
 }

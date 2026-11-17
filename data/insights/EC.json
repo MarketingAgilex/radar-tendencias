@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El ecuatoriano sigue pendiente de las lluvias: el pronóstico habla de un ciclón que aumentará las precipitaciones en la región. En consumo crecen las notas sobre Black Friday (27 de noviembre) y Cyber Monday, con consejos para comprar bien y evitar regalos de Navidad que generen gastos mensuales. También circula el rumor de un 'apagón mundial' el 17 de noviembre: es falso, y las marcas pueden ganar confianza con información clara y sin alarmismo.",
+ "lectura": "El ecuatoriano está pendiente del dinero de fin de año: el pago del décimo tercer sueldo encabeza las búsquedas y muestra que diciembre ya se planifica. Las lluvias en Guayaquil, Daule y Samborondón traen calles anegadas y cortes de luz, así que los mensajes de entrega puntual y los productos para la temporada lluviosa suman. La preventa de Don Omar para 2027 y los conciertos de noviembre reflejan apetito por experiencias, y Black Friday llega acompañado de consejos para no endeudarse.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con calendario",
-   "idea": "Los medios confirman que Black Friday cae el 27 de noviembre. Publica un calendario con tus fechas de oferta y la fecha límite para recibir antes de Navidad.",
+   "titulo": "Tu décimo, bien invertido",
+   "idea": "El décimo de Navidad está entre lo más buscado. Haz un carrusel 'cómo repartir el décimo: regalos, ahorro y un gusto' y presenta tu producto como el gusto que sí vale la pena.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Regalos sin cuotas eternas",
-   "idea": "Una nota recomienda evitar regalos navideños con gastos mensuales. Propón regalos de pago único (experiencias, kits, accesorios) con precio final claro.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Llueve, pero llegamos",
-   "idea": "Con el pronóstico de más lluvias, muestra tu protocolo de entrega en días lluviosos (empaques protegidos, horarios). Genera confianza y reduce reclamos.",
+   "titulo": "Lluvia sin estrés",
+   "idea": "Hay calles anegadas y cortes de luz en Guayaquil y Samborondón. Ofrece entregas programadas y productos útiles (linternas recargables, botas, impermeables) en un video práctico.",
    "formato": "Reel"
   },
   {
-   "titulo": "Nada de apagón: tu pedido sigue",
-   "idea": "Circula un rumor de apagón mundial. Responde con humor y datos: 'hoy no se apaga nada, tu pedido llega igual', sin burlarte de quien lo creyó.",
+   "titulo": "Outfit para el concierto",
+   "idea": "Don Omar anunció conciertos en Quito y Guayaquil para 2027 con preventa. Marcas de moda y accesorios pueden mostrar 'el outfit para el concierto' o sugerir la entrada como regalo de Navidad.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Gamer navideño",
-   "idea": "Amazon adelanta descuentos en videojuegos para PS5, Xbox y Switch. Tiendas gamer pueden hacer un top 5 de regalos con precio puesto en Ecuador.",
-   "formato": "TikTok"
+   "titulo": "Precio claro, venta segura",
+   "idea": "Circulan consejos para evitar regalos que dejan cuotas por meses. Escribe un anuncio con precio final, forma de pago y fecha de entrega en una sola línea: la transparencia convierte.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Arte popular con historia",
+   "idea": "Quito acoge una muestra sobre Olga Fisch y las artes populares del país. Los emprendimientos artesanales pueden contar el proceso de su producto y proponerlo como regalo navideño 'hecho en Ecuador'.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "telemundo",
-   "color": "amarillo",
-   "por_que": "Regreso de una telenovela de acción; el tema central no es apto para marcas.",
-   "idea": "Habla de 'maratón de novelas' con snacks o comodidad, sin referirte a la trama."
-  },
-  {
    "termino": "ciclón",
    "color": "amarillo",
    "por_que": "Pronóstico de lluvias fuertes en la región.",
-   "idea": "Contenido útil de preparación (kit de lluvias) sin alarmismo."
+   "idea": "Contenido útil de preparación; evita bromas sobre afectaciones."
+  },
+  {
+   "termino": "pago",
+   "color": "verde",
+   "por_que": "Interés por el décimo tercer sueldo y pagos de fin de año.",
+   "idea": "Promos para 'tu décimo' con cuotas y precios claros."
   },
   {
    "termino": "noviembre",
    "color": "amarillo",
-   "por_que": "Rumor viral de un apagón mundial el 17 de noviembre, desmentido.",
-   "idea": "Mensajes de calma y continuidad del servicio; no amplifiques el rumor."
-  },
-  {
-   "termino": "robert pattinson",
-   "color": "verde",
-   "por_que": "Anuncio del nuevo James Bond, conversación global de cine.",
-   "idea": "Contenido de estilo 'look de agente 007' para moda masculina o eventos de fin de año."
+   "por_que": "Asociado al rumor del supuesto apagón mundial del 17 de noviembre.",
+   "idea": "No amplifiques el rumor; habla de preparación habitual si vendes energía de respaldo."
   },
   {
    "termino": "puerto santa ana",
    "color": "amarillo",
-   "por_que": "Búsquedas por calles anegadas y cortes de luz en Guayaquil.",
-   "idea": "Informa horarios de entrega y alternativas de retiro; evita bromas sobre la situación."
+   "por_que": "Búsquedas por lluvias y calles anegadas en Guayaquil.",
+   "idea": "Comercio local: avisa horarios y rutas de entrega con empatía."
+  },
+  {
+   "termino": "robert pattinson",
+   "color": "verde",
+   "por_que": "Anuncio del actor como nuevo James Bond.",
+   "idea": "Contenido de estilo 'agente secreto' para moda masculina y regalos."
   }
  ],
  "audiencias": {
@@ -1077,15 +1077,9 @@
  "ocultar": [
   "ufc",
   "estafa",
-  "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
-  "jensen huang",
   "cáncer",
-  "vuelos cancelados estados unidos",
   "aeropuerto",
   "Profesores universitarios anuncian su participación en la protesta nacional del Black Friday",
-  "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
-  "Ecuador and Morocco Advance on Visa Agreement and Bilateral Trade",
-  "Confirman en Ecuador condena de prisión para hijo de exvicepresidenta",
   "María José Pinto entregó ayuda social en sectores de Puerto Quito, en Pichincha",
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
   "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
@@ -1107,6 +1101,15 @@
   "Estados Unidos está endureciendo los controles sobre las exportaciones de chips de Nvidia.",
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
-  "!XXX VIDEO EXCLUSIVO!Objeto Pastel RD Video Viral)"
+  "!XXX VIDEO EXCLUSIVO!Objeto Pastel RD Video Viral)",
+  "prisión",
+  "telemundo",
+  "Operación internacional contra una red dedicada al tráfico de cocaína desde Ecuador hasta Europa",
+  "Ecuador: la lucha de las \"mujeres hormiga\" contra la minería ilegal",
+  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
+  "La frase de Ester Muñoz a Pedro Sánchez que se le ha vuelto en contra: los votantes del PSOE la hacen suya y la convierten en tendencia en redes",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "Diabetes: “Acepté que me amputaran la pierna porque tenía la opción de usar una prótesis”"
  ]
 }

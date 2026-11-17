@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Sinterklaas ya llegó a Países Bajos y la temporada de regalos está en marcha, con el nuevo Sint como gran tema de la semana. Black Friday arranca en MediaMarkt, Samsung y tiendas de deporte, pero los pequeños comercios lo viven con dudas y hay alertas por webshops falsas. Noviembre más frío de lo normal y GTA 6 completan el cuadro: regalos, seguridad al comprar y comodidad en casa.",
+ "lectura": "En Países Bajos todo gira en torno a Sinterklaas: su llegada y el relevo del actor (Gijs Naber) fueron lo más buscado, y faltan pocas semanas para pakjesavond (5 de diciembre). Black Friday convive con la temporada de regalos, con ofertas en tecnología, gaming y deporte, aunque también circulan alertas por tiendas online falsas. Los anuncios activos en Meta muestran juegos de mesa, regalos personalizados y productos para mascotas con envío gratis como estándar.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "El nuevo Sinterklaas es el tema de la semana.",
-   "idea": "Ideas de regalo para el 5 de diciembre con fecha límite."
+   "por_que": "Nuevo actor de Sinterklaas, tema de conversación nacional.",
+   "idea": "Contenido festivo y familiar de Sinterklaas, sin revelar el 'secreto' a los niños."
   },
   {
-   "termino": "ariana grande",
+   "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "Cuatro nominaciones al Grammy 2027.",
-   "idea": "Contenido musical y looks inspirados en la artista."
+   "por_que": "Llegada de Sinterklaas, gran evento familiar.",
+   "idea": "Ideas de regalo y cuenta regresiva a pakjesavond."
   },
   {
-   "termino": "anwb",
-   "color": "amarillo",
-   "por_que": "Acuerdo laboral tras una huelga.",
-   "idea": "Solo mensajes de servicio; sin tomar postura."
-  },
-  {
-   "termino": "rick engelkes",
+   "termino": "grammy nominations 2027",
    "color": "verde",
-   "por_que": "Historia personal de un productor de teatro.",
-   "idea": "Mensajes de resiliencia para marcas de bienestar."
+   "por_que": "Interés por los nominados a los Grammy.",
+   "idea": "Playlists y contenido musical para la temporada."
   },
   {
-   "termino": "parasiet",
+   "termino": "houdbare melk lidl bacteriën",
    "color": "amarillo",
-   "por_que": "Historia viral de un viaje que terminó mal por un parásito.",
-   "idea": "Si vendes viajes, consejos de prevención sin alarmismo."
+   "por_que": "Retiro de un producto lácteo por seguridad.",
+   "idea": "No hagas bromas; si eres comercio, comunica retiros con transparencia."
+  },
+  {
+   "termino": "benzine",
+   "color": "verde",
+   "por_que": "La gasolina baja de dos euros por litro.",
+   "idea": "Promociones de escapadas o entregas a domicilio."
   }
  ],
  "audiencias": {
@@ -1137,42 +1137,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "pakjesavond",
-   "total": 825,
+   "busqueda": "Sinterklaas cadeau",
+   "total": 1460,
    "anunciantes": [
     {
-     "nombre": "The Grandmaster's Atelier",
-     "url": "https://www.facebook.com/ads/library/?id=2226851321230461"
+     "nombre": "Het Coffy-huys",
+     "url": "https://www.facebook.com/ads/library/?id=1136160122497815"
     },
     {
-     "nombre": "GeheimBiertje",
-     "url": "https://www.facebook.com/ads/library/?id=1045121008601919"
+     "nombre": "Momo Spel",
+     "url": "https://www.facebook.com/ads/library/?id=1686341253275747"
     },
     {
-     "nombre": "Zadelman.com",
-     "url": "https://www.facebook.com/ads/library/?id=1865540414441388"
+     "nombre": "Raqa",
+     "url": "https://www.facebook.com/ads/library/?id=3067828443552025"
     },
     {
-     "nombre": "Mivora",
-     "url": "https://www.facebook.com/ads/library/?id=1151317044048484"
+     "nombre": "Kunst in Kaart NL",
+     "url": "https://www.facebook.com/ads/library/?id=2212683912795743"
     },
     {
-     "nombre": "Bookstory",
-     "url": "https://www.facebook.com/ads/library/?id=1841427106884686"
+     "nombre": "Gear4music",
+     "url": "https://www.facebook.com/ads/library/?id=1054257581021031"
     }
    ],
-   "patron": "Regalos personalizados y 'surprises' para pakjesavond con fecha límite de pedido visible ('bestel vóór 28 nov'), mystery boxes y ganchos con humor ('este año, nada de calcetines del Sint'). Muchos combinan Sinterklaas y Navidad en una sola pieza para estirar la temporada."
+   "patron": "Sinterklaas se pauta como temporada de regalos: juegos de mesa familiares, café y chocolate con regalo incluido ('gratis Sinterklaas chocolade') y regalos personalizados como mapas de ciudades. Los titulares son cortos y directos ('Cadeautip van Sint', 'De leukste cadeau-ideeën') y varias marcas ya combinan Sinterklaas con Black Friday (3+2 gratis, hasta 50 % de descuento)."
   },
   {
-   "busqueda": "Black Friday",
-   "total": 136550,
+   "busqueda": "gratis verzending",
+   "total": 36982,
    "anunciantes": [
     {
-     "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+     "nombre": "Pure Bob",
+     "url": "https://www.facebook.com/ads/library/?id=1121446904128496"
+    },
+    {
+     "nombre": "TraumaPet",
+     "url": "https://www.facebook.com/ads/library/?id=1672676984397234"
+    },
+    {
+     "nombre": "Treeholder",
+     "url": "https://www.facebook.com/ads/library/?id=1114245208271797"
+    },
+    {
+     "nombre": "Marocstore.nl",
+     "url": "https://www.facebook.com/ads/library/?id=1002742285566307"
+    },
+    {
+     "nombre": "Charly's",
+     "url": "https://www.facebook.com/ads/library/?id=1924831922228610"
     }
    ],
-   "patron": "Volumen enorme de anuncios activos y un mismo anunciante repitiendo decenas de variantes de 'Black Friday empieza ya: hasta 62% de descuento'. El Black Friday se pauta como 'Black Week' desde dos semanas antes, con el porcentaje máximo en el titular."
+   "patron": "El envío gratis es estándar, así que el gancho se traslada a la oferta: las mascotas dominan con packs '2+1' y cajas de prueba al -50 % por Black Friday, junto a productos de nicho para Navidad (un soporte para llevar el árbol en el coche) y tiendas especializadas en cocina del mundo. Cada marca publica muchas variantes del mismo anuncio para probar creatividades."
   }
  ],
  "ocultar": [
@@ -1183,51 +1199,13 @@
   "gps signaal schiphol",
   "vvd d66 cda",
   "dochter",
-  "crisisoverleg kabinet",
-  "Omstanders bieden vrouw hulp aan nadat ze met auto in water belandt",
   "luchtvaart",
   "vliegtuig",
   "vliegtuigen",
-  "De politie werkt samen met de man die autoruiten heeft ingeslagen in Ho Chi Minh-stad.",
-  "Vermoedelijke brandbom zet pand in Tilburg in brand: buren vluchten met baby naar buiten",
   "dilan yeşilgöz-zegerius",
-  "Politieke ophef bij Amsterdamse intocht Sinterklaas, JA21 wil opheldering over ’gênante flater’",
-  "Voor de vierde keer dit jaar een geluidswal bij de A10 Amsterdam-West in de fik",
-  "Politie houdt twee verdachten aan na dodelijk ongeluk in Oudewater",
-  "Kabinet wil ‘bewijzen’ dat het kan: uitgeprocedeerde asielzoekers uitzetten naar Rwanda",
-  "Damen begint met vertraging van twee jaar aan bouw fregatten voor Nederland en België",
-  "eelco heinen",
-  "fouad l",
   "sybrand buma",
-  "elizabeth holmes",
-  "Britse premier wil banden met EU weer aanhalen: 'Meer verloren dan gewonnen'",
-  "Deze mannen zaten in omstreden appgroep, waar stiekem genomen beelden van vrouwen worden gedeeld",
-  "Vera uit Waalwijk met miljoenen volgers is opgepakt en zit vast in Amerika",
-  "Witte rook na crisisoverleg: D66, VVD en CDA schuiven Sybrand Buma naar voren",
   "Nepagenten maken voor duizenden euro's buit bij Anna (79): 'Je leeft echt in een hel'",
-  "Oekraïne onderhandelt met VS én Europa en probeert Moskou erbij te betrekken",
-  "Topambtenaar vertrekt plots uit Amsterdam midden in ict-debacle van 30 miljoen",
-  "Persoon te water Stationsplein in Amsterdam",
   "Kabinet probeert volgend jaar asielzoekers naar Rwanda te sturen",
-  "LIVE | Oekraïne overlegt met VS en Europa over onderhandeling met Moskou",
-  "Verrassend ambitieus voorstel op klimaattop, nu begint het politieke spel",
-  "Snelle toename van migratie uit Senegal naar Canarische Eilanden: waarom nu opeens?",
-  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij",
-  "iran",
-  "victoria regiadreef",
-  "hekelstraat",
-  "Uit onderzoek blijkt dat rubberboot met vluchtelingen bij Hoofdplaat te water ging",
-  "Als nabestaanden hun enorme verdriet delen, geeft de Erasmusschutter geen krimp: ‘Ik kijk mensen aan wanneer ik dat wil’",
-  "Rusland meldt nieuwe aanvallen op Krimbrug, ook Oekraïense bruggen bestookt",
-  "Nu is het officieel: in Rwanda moet eerste Europese ‘terugkeerhub’ komen, kabinet hoopt op afschrikkende werking",
-  "Politie deelt beelden van mishandeling dragqueen Reggy B. bij tramhalte in Amsterdam",
-  "oldenzaal",
-  "Britse premier Burnham: we zijn slechter af na Brexit",
-  "Bereid je voor op noodsituatie van 72 uur, zegt overheid, maar hoe zit het met chronisch zieken? Patiëntenfederatie slaat alarm",
-  "Weer raak bij hetzelfde portiek in Rotterdam: explosie en geschoten op woning",
-  "Wekdienst 17/11: Jetten geeft uitleg over herstel vertrouwen • Memoires Biden komen uit",
-  "Om mensenrechten geeft Rwanda weinig, maar Nederland stuurt toch uitgeprocedeerde asielzoekers naar het land",
-  "Lijst risicovolle pfas-vervuilingen vol fouten: 'Aanpak overheid deugt niet'",
   "Omwonenden over geplande asielopvang in Hulst: van zorgen over veiligheid tot ‘Black Friday-korting’ op hun huis",
   "Ongeval met letsel op Louwesweg in Amsterdam",
   "Hoe vrouwelijke leiders zich via kleding positioneren",
@@ -1250,40 +1228,49 @@
   "Jeroen moest na dodelijk ski-ongeluk van mede-oprichter in één klap het bedrijf runnen: ‘We moesten ook door’",
   "Webshops massaal frauduleus gekopieerd richting Black Friday",
   "rtv oost",
-  "krimbrug",
-  "luchtruim",
-  "Zo gaat het verder na reddingsplan coalitie: Jetten licht het toe na extra ministerraad",
   "Deze mannen zaten in omstreden appgroep vol ‘creepshots’ van vrouwen, nu reageren zij voor het eerst",
-  "Europa mag van Rusland meeonderhandelen, ‘Poetin denkt: ik kan ze wel aan’",
-  "Ondernemers bellen niet met de VVD en willen dat de partij inbindt",
-  "Jongen op fatbike slaat dragqueen in Amsterdam vol in het gezicht, politie deelt video van mishandeling",
-  "Politiebusje rijdt zich vast op trambaan in Amsterdam"
+  "Politiebusje rijdt zich vast op trambaan in Amsterdam",
+  "landmacht",
+  "axios",
+  "texel",
+  "operatie",
+  "Ongelukken en 250 kilometer file in Zuid-Holland, 1000 kilometer file in Nederland",
+  "Mishandeld jongetje (7) uit Stadskanaal wijst naar mogelijke rol van zijn vader. ’Hij kon nog veel bozer worden dan moeder’",
+  "LIVE Coalitiecrisis | Jetten: ‘We hebben het niet goed genoeg gedaan, dat trek ik mij ook aan’",
+  "Lijst met risicovolle pfas-vervuilingen vol fouten: 'Aanpak overheid deugt niet'",
+  "Syriër verdacht van gijzeling, mishandeling en beroving van man in wooncomplex voor statushouders en studenten",
+  "Biden in boek over zijn laatste verkiezingsrace: 'Oude vrienden lieten me vallen'",
+  "Tientallen gewonden bij botsing tussen passagierstreinen in Praag",
+  "Het klimaat telt, zelfs in oorlogstijd: ‘Dat Oekraïne hier uitpakt, is een statement’",
+  "Iran eist aanval op Amerikaanse basis in Bahrein op, derde aanval sinds vrijdag",
+  "LIVE Coalitiecrisis | Yesilgöz is milder, Jetten was ‘misschien te lief’: ‘Het moet rustiger en saaier’",
+  "Halvering van Schiphol-herrie ging van tafel: 'Veel te snel en te groot'"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Sinterklaas-cadeau",
-   "idea": "Con la llegada del nuevo Sinterklaas, publica ideas de regalo para el 5 de diciembre con fecha límite de pedido.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Echte webshop",
-   "idea": "Hay webshops copiadas de forma fraudulenta antes de Black Friday. Explica cómo verificar que tu tienda es la oficial (dominio, sellos, atención).",
+   "titulo": "Ideas de surprise",
+   "idea": "Pakjesavond es el 5 de diciembre. Muestra ideas de 'surprise' hechas con tus productos y acompáñalas de un poema corto al estilo Sinterklaas.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday local",
-   "idea": "Los emprendedores locales dudan de Black Friday pero participan. Prueba una alternativa: 'precio justo todo el año' más un regalo con la compra.",
-   "formato": "LinkedIn"
+   "titulo": "Webshop de confianza",
+   "idea": "Hay alertas por tiendas online falsas en Black Friday. Muestra tus señales de confianza: reseñas, datos de empresa y condiciones de devolución.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Personaliza tu regalo",
-   "idea": "Se promociona personalizar altavoces JBL con 25 % de descuento. Si vendes personalizados, muestra el proceso en video.",
+   "titulo": "Un regalo para tu mascota",
+   "idea": "En Meta abundan anuncios de comida y snacks para mascotas por Black Friday. Si vendes para mascotas, prueba un copy como 'ook je hond verdient een cadeautje'.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Playlist para envolver regalos",
+   "idea": "Las nominaciones a los Grammy 2027 están en tendencia. Creadores pueden compartir una playlist para envolver regalos de Sinterklaas y Navidad.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Koud weer, warm huis",
-   "idea": "Se anticipa un noviembre más frío. Ofrece mantas, calefactores eficientes o bebidas calientes con envío rápido.",
-   "formato": "Copy para anuncio"
+   "titulo": "Tarjeta regalo local",
+   "idea": "Ámsterdam tiene su propia tarjeta regalo local. Propón tarjetas regalo de comercios locales como obsequio corporativo de fin de año.",
+   "formato": "LinkedIn"
   }
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Faltan nueve días para Thanksgiving y diez para Black Friday: el consumidor estadounidense busca ofertas tempranas en Target, Macy's y Best Buy, pero desconfía, porque varios reportes cuestionan si los descuentos son reales. En entretenimiento suenan el remake de Zelda: Ocarina of Time, el estreno de la secuela de 'Cliff Booth' y las nominaciones al Grammy 2027 con muchos artistas latinos. Las marcas que muestren precios honestos y fechas de envío claras para las fiestas tienen ventaja.",
+ "lectura": "El consumidor de EE. UU. ya compra para las fiestas: Amazon adelanta ofertas, sus promociones de Cyber Monday arrancan el 19 de noviembre y Thanksgiving cae el 26. La conversación mezcla fallas tecnológicas (United Airlines, banca en línea) con lanzamientos esperados como GTA VI y el Red Cup Day de Starbucks, señal de que la confianza y la experiencia pesan tanto como el precio. Para la comunidad hispana, los Latin Grammy y los colombianos nominados a los Grammy 2027 son un gancho cultural fuerte, y el clima invernal en el oeste impulsa productos de temporada.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday honesto",
-   "idea": "Hay reportes que cuestionan si las ofertas de Black Friday son reales. Publica tu historial de precio (antes y ahora) y una garantía de 'precio más bajo de la temporada'.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Thanksgiving: last call",
-   "idea": "A nueve días de Thanksgiving, publica la última fecha de pedido para recibir antes del feriado y opciones de regalo para anfitriones.",
+   "titulo": "Thanksgiving con sazón latino",
+   "idea": "Thanksgiving es el 26 de noviembre. Restaurantes y tiendas de alimentos pueden mostrar un menú bilingüe de 'pavo con sazón latino' y abrir pedidos anticipados desde hoy.",
    "formato": "Reel"
   },
   {
-   "titulo": "Nominados latinos al Grammy",
-   "idea": "Shakira, Karol G, Feid y otros colombianos están nominados al Grammy 2027. Marcas para la comunidad latina pueden hacer un 'outfit para la fiesta de los Grammy' o una playlist con productos.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Zelda vuelve",
-   "idea": "El remake de Ocarina of Time es el juego físico más vendido de la semana. Tiendas gamer: arma un bundle (consola, juego y accesorio) como regalo navideño.",
+   "titulo": "Que la Navidad llegue a tiempo",
+   "idea": "Las ofertas tempranas de Black Friday ya están activas. Para quien envía regalos a la familia en Latinoamérica, publica fechas límite recomendadas y consejos de empaque.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Compra hoy, envía a casa",
-   "idea": "Para la diáspora latina, comparte una guía de 'qué conviene comprar en Black Friday para enviar a la familia' con plazos realistas antes de Navidad.",
-   "formato": "Facebook"
+   "titulo": "Orgullo en los Grammy",
+   "idea": "Shakira, Karol G, Feid y otros colombianos están nominados a los Grammy 2027. Marcas que hablan a la comunidad latina pueden armar una playlist o un 'outfit inspirado' sin usar imágenes de los artistas.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Tu propio Red Cup Day",
+   "idea": "El Red Cup Day de Starbucks es tendencia en Nueva York y Houston. Cafeterías independientes pueden lanzar su vaso o bebida de temporada como edición limitada.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Rebajas con reglas claras",
+   "idea": "Hay guías sobre lo que los pequeños negocios deben saber de las normas de rebajas en Black Friday. Publica tus políticas de precios y devoluciones para ganar confianza.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "owala coca-cola",
-   "color": "verde",
-   "por_que": "Colaboración de marcas que lanza una línea nueva de termos.",
-   "idea": "Ejemplo de co-branding: piensa una edición especial con una marca aliada para las fiestas."
-  },
-  {
-   "termino": "black friday sales",
-   "color": "verde",
-   "por_que": "Búsquedas de ofertas tempranas de Black Friday.",
-   "idea": "Publica tus descuentos con precio anterior visible y fechas de envío."
-  },
-  {
    "termino": "united airlines",
    "color": "amarillo",
-   "por_que": "Falla de sistemas que retrasó vuelos.",
-   "idea": "Mensajes de servicio: planifica tus viajes de Thanksgiving con margen."
+   "por_que": "Falla generalizada de sistemas que retrasó vuelos.",
+   "idea": "Agencias y viajeros: consejos para viajar en Thanksgiving con margen; no te burles de la aerolínea."
   },
   {
    "termino": "connections hint november 16",
    "color": "verde",
-   "por_que": "Juego diario de palabras del NYT, hábito masivo.",
-   "idea": "Ganchos tipo acertijo para presentar productos en redes."
+   "por_que": "Juego diario del NYT con búsquedas constantes.",
+   "idea": "Crea tu propio reto de palabras con productos de tu marca en historias."
   },
   {
    "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Pronóstico de un El Niño fuerte para el invierno.",
-   "idea": "Contenido de preparación para el clima sin alarmismo; ropa y hogar."
+   "por_que": "Fenómeno de El Niño fuerte con impacto en el clima.",
+   "idea": "Productos de temporada (lluvia, nieve) con mensajes útiles y sin alarmismo."
+  },
+  {
+   "termino": "spacex starship rocket launch",
+   "color": "verde",
+   "por_que": "Vuelo de prueba que despierta curiosidad tecnológica.",
+   "idea": "Contenido de innovación y 'cuenta regresiva' para lanzamientos de producto."
+  },
+  {
+   "termino": "nvidia earnings",
+   "color": "amarillo",
+   "por_que": "Volatilidad en bolsa y noticias sobre el liderazgo de Nvidia.",
+   "idea": "Contenido educativo sobre IA y tecnología; evita consejos de inversión."
   }
  ],
  "audiencias": {
@@ -998,43 +998,10 @@
   "dhs",
   "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
   "cancer",
-  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
-  "Mamdani disbanding controversial NYPD unit",
-  "Lindsay Clancy to face retrial for deaths of her three children in March 2027",
-  "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
   "Viral video claims woman was followed by several men at Abilene shopping center",
   "Mamdani disbands NYPD unit accused of using excessive force",
-  "Suspect in custody after report of man with gun triggers lockdown at Walnut HS, deputies say",
-  "Magali Febles acusa a Celinee Santos de intentar agredirla físicamente",
-  "'Broadview 6' prosecutors say they won't take the Fifth as potentially explosive hearing looms",
-  "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
-  "Kate Middleton apologizes for sticking to royal protocol during first overseas tour since battling cancer",
-  "Llega tercer portaaviones de Estados Unidos a Oriente Medio",
-  "Texas officials issue warning to Harris County judge from viral video of confrontation with IT tech",
-  "clarence thomas first amendment warning",
-  "clarence thomas",
-  "lawsuit",
-  "fraud",
-  "Los Angeles school walkout turns chaotic with large fight, chairs thrown at fast food restaurant",
-  "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-  "As North Korea and China literally build bridges, is Kim Jong Un ramping up to confront the U.S.?",
-  "Girl reunited with beloved cat after deadly New York City building collapse",
-  "County Approved as New Los Angeles Homelessness Response Leader",
-  "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
-  "California sues OpenAI over rogue AI hack of Hugging Face",
-  "grand canyon",
-  "jfk jr",
-  "Pentagon fails ninth straight audit despite progress in organizing finances",
-  "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
   "State issues warning to Harris County judge from viral video of confrontation with IT tech",
   "New York City votes to make support for LGBTQ+ veterans a permanent duty",
-  "san diego",
-  "apec",
-  "john kiriakou",
-  "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say",
-  "+@!EXCLUSIVE VIDEO!objeto pastel Viral Video)",
-  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
-  "Chemical release at Chiquita Canyon Landfill in Castaic prompts evacuation advisory",
   "More people perceive Washington, D.C., New York City as safe to visit",
   "Metro proposal for Westfield Fashion Square enrages Sherman Oaks residents",
   "Broad-Based Categorical Eligibility Under Threat",
@@ -1053,15 +1020,21 @@
   "Oil slips as recovering Middle East exports blunt Gulf tensions",
   "Strait of Hormuz remains perilous route for shipping",
   "Saronic to develop autonomous logistics vessel for US Marine Corps",
-  "government jobs",
-  "danielle lopez dental records confirmation",
-  "kristina bogic age",
-  "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US",
   "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office",
-  "Family Dollar To Issue Refunds In Louisiana Under FTC Price Settlement",
   "‘JD Habibi’ goes viral after El-Sayed’s victory speech",
   "Qué pasará cuando FEMA haga la prueba nacional del Sistema de Alerta de Emergencia",
   "Brooklyn building collapse highlights real estate’s industries deadly grip in New York",
-  "Student detained after report of man with gun triggers lockdown at Walnut HS, deputies say"
+  "saving private ryan",
+  "They’re Young, Frustrated and Want France to Change. They Disagree on How.",
+  "Short of time at the ASEAN",
+  "Bessent pushed new AI chips rule",
+  "Se fueron a EE.UU. para desarrollar sus carreras. Ahora México busca repatriarlos para recuperar mano de obra calificada",
+  "Hombre mata a su ex pareja y al novio de ella y luego se suicida en Miami Gardens",
+  "+@!EXCLUSIVE VIDEO!Sonakshi Sinha Viral Video)",
+  "Ontario County Sheriff’s Office shares tips on how to stay safe during holiday shopping",
+  "Will New York Raise Taxes on the Rich? Free Child Care May Depend on It.",
+  "arresto",
+  "Chemical eruption concerns Castaic residents",
+  "Dark smoke at the Chiquita Canyon Landfill in Santa Clarita Valley prompts evacuations"
  ]
 }

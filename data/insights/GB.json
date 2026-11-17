@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "La nieve y el frío dominan las búsquedas en Reino Unido, con avisos en varias zonas del país. En entretenimiento destacan 'I Am Helen' con Nicola Coughlan, Strictly Come Dancing y I'm a Celebrity, además de la nueva premiere de 'Hunger Games'. Los compradores son escépticos con las promesas de Black Friday y ya hay avisos de estafas con IA: transparencia y seguridad en el pago marcan la diferencia.",
+ "lectura": "En Reino Unido el frío y la nieve dominan las búsquedas, y los compradores se preparan para un Black Friday en el que, según Barclays, gastarán unos £10.500 millones. Tesco, Asda y el comercio local compiten con ofertas de temporada, aparcamiento gratis y menús navideños, mientras el entretenimiento de las noches (Strictly, I'm a Celebrity) concentra la conversación. Las huelgas del metro de Londres y el clima invitan a mensajes de entrega puntual y compra cómoda.",
  "ideas_hoy": [
   {
-   "titulo": "Snow day essentials",
-   "idea": "Hay avisos de nieve en varias zonas. Publica un pack de invierno (térmicos, guantes, mantas) con entrega garantizada antes del fin de semana.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Black Friday sin estafas",
-   "idea": "Akamai alerta de estafas con IA en Black Friday. Explica cómo reconocer tu web oficial y tus canales de pago seguros.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Noche de series",
-   "idea": "'I Am Helen' es la serie del momento. Marcas de comida a domicilio o snacks pueden proponer 'el plan de esta noche' con oferta.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Strictly style",
-   "idea": "Strictly Come Dancing mantiene la audiencia alta. Tiendas de moda pueden mostrar looks brillantes para fiestas navideñas.",
+   "titulo": "Listos para la nieve",
+   "idea": "Hay avisos amarillos por nieve y hielo. Tiendas de ropa y hogar pueden mostrar su 'kit para el frío' con envío al día siguiente.",
    "formato": "Reel"
   },
   {
-   "titulo": "Compras con IA",
-   "idea": "Un informe dice que el comprador británico confía en la IA para elegir pero no en el gasto final. Ofrece un comparador de precio final simple en tus anuncios.",
+   "titulo": "Presenta tu menú navideño",
+   "idea": "Restaurantes como ASK Italian ya presentan menús de Navidad. Si tienes un local, revela tu menú y abre reservas para grupos y empresas.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Look de gala para las fiestas",
+   "idea": "Strictly Come Dancing va por su semana 8. Marcas de moda y belleza pueden mostrar un look de gala para las fiestas inspirado en el baile, sin usar imágenes del programa.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "¿Huelga de metro? Te lo llevamos",
+   "idea": "Se anuncian huelgas del metro de Londres. Promociona entrega a domicilio o click & collect con un mensaje directo como 'skip the commute'.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Preparados para £10.500 millones",
+   "idea": "Barclays estima un gasto de £10.500 millones en Black Friday. Cuenta cómo tu negocio prepara stock, atención y entregas para la temporada.",
    "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
+   "termino": "weather forecast snow",
+   "color": "amarillo",
+   "por_que": "Avisos por nieve y hielo en varias zonas.",
+   "idea": "Productos de invierno con mensajes útiles, sin alarmismo."
+  },
+  {
    "termino": "weather",
    "color": "verde",
-   "por_que": "Avisos de nieve en el país.",
-   "idea": "Packs de invierno y mensajes de entrega."
+   "por_que": "Consulta diaria del clima.",
+   "idea": "Ofertas según el clima del día."
   },
   {
-   "termino": "diane morgan",
+   "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "Estreno del especial de humor 'Cunk on Cinema'.",
-   "idea": "Humor absurdo y planes de noche en casa."
+   "por_que": "Programa familiar con gran audiencia.",
+   "idea": "Moda de fiesta y contenido de baile para tu marca."
   },
   {
-   "termino": "anti bullying week 2026",
+   "termino": "what time is im a celebrity on tonight",
    "color": "verde",
-   "por_que": "Semana contra el acoso escolar.",
-   "idea": "Mensajes de amabilidad y respeto; evita usarla solo para vender."
+   "por_que": "Reality de gran audiencia nocturna.",
+   "idea": "Planes de 'noche de tele' con snacks o delivery."
   },
   {
-   "termino": "cliff booth",
-   "color": "verde",
-   "por_que": "Primeras reacciones positivas a la secuela de Brad Pitt.",
-   "idea": "Planes de cine y moda inspirada en el estreno."
-  },
-  {
-   "termino": "optimizely",
+   "termino": "chase bank outages",
    "color": "amarillo",
-   "por_que": "Webs populares usadas para estafas con criptomonedas.",
-   "idea": "Educa sobre compra segura y verifica tus propios enlaces."
+   "por_que": "Fallas en bancos de EE. UU. con eco en la prensa británica.",
+   "idea": "Si tu negocio cobra online, comunica tus medios de pago con calma."
   }
  ],
  "audiencias": {
@@ -1165,40 +1165,10 @@
   "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
   "russia",
   "adam catterall",
-  "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)",
-  "Barristers could be barred from practice over use of rape myths, warns justice secretary",
-  "SFO charges eight over London Capital & Finance collapse",
-  "Security Alert: U.S. Embassy London, November 16, 2026",
-  "GTA 6 hacker pleads guilty after release from secure hospital",
-  "richard tice",
-  "staggered age of consent",
-  "lee reeves",
-  "postcode lottery",
-  "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
-  "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
-  "Baroness Cass turns against ‘chilling’ trans law",
-  "‘I’m at a loss of words’: Grandson’s tribute as wife and daughter of DUP politician pass away hours apart",
-  "Ministers to end Palantir’s contract with NHS in England in 2029",
-  "Pope hit in the eye by worshipper hurling rosary",
-  "Why Starshield limits are hurting Ukraine against jet-powered drones",
-  "OpenAI sued by California over 80 ‘loss of control’ incidents",
-  "MP sends people to the parliament he’s not allowed to enter",
-  "Miliband plays warm-up man for Burnham’s big Brexit speech | John Crace",
-  "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people | Youth unemployment",
-  "Cass report author says she does not support draft conversion practices bill",
-  "Russell Brand investigated over message from behind bars, Downing Street says | ITV News",
-  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
-  "Milburn review to propose tax, welfare, and education changes to get young people into work",
   "Burnham says Brexit has dramatically diminished Britain’s global standing",
   "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-  "Russia says Ukraine attacked Crimean bridge",
   "+@!EXCLUSIVE VIDEO!Sonakshi Sinha Viral Video)",
-  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
   "Tragic story behind viral video of Kangaroos hero's beautiful moment of mateship",
-  "+@!EXCLUSIVE VIDEO!Sophie Rain Spiderman Viral Video)",
-  "+@!EXCLUSIVE VIDEO!Aina Asif Viral Video)",
-  "Bottled water shelves stripped at Sainsbury's as shoppers stock up amid fears",
-  "TfL staff subjected to abuse 'on daily basis'",
   "Fresh produce industry squeezes UK’s PM",
   "Royal College of Nursing 'dissatisifed' with safe staffing legislation",
   "A changing world demands a cross-government global health strategy",
@@ -1212,15 +1182,16 @@
   "Oil slips as recovering Middle East exports blunt Gulf tensions",
   "Abingdon Town Council opposes design for large new mural",
   "Machine Gun Kelly faces backlash after ‘homophobic’ tweet goes viral",
-  "cost of rejoining eu analysis",
-  "m4 traffic",
-  "Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?",
-  "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-  "A staggered age of consent could infantilise Britain’s youth",
   "Japan sends up jets after alleged Russian incursion of its airspace",
-  "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-  "Job vacancies plunge ahead of Labour’s workers’ rights reforms – latest updates",
   "‘JD Habibi’ goes viral after El-Sayed’s victory speech",
-  "Rough sleeping schemes in London get £168m in government funding"
+  "you can see everything",
+  "Milburn report proposes welfare changes, tax cuts, and apprenticeships to help young people into work",
+  "Ukraine destroys part of bridge to Crimea in fierce exchange of strikes",
+  "How Met failed to stop rape-unit detective who abused women",
+  "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
+  "UK hands Palantir two-year reprieve on NHS contract",
+  "EU considers banning Chinese companies found in breach of subsidy rules",
+  "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+  "Martha Kalifatidis hits back after viral video backlash triggered devastating thought"
  ]
 }

@@ -1,92 +1,77 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-17T09:04:16Z",
+ "actualizado": "2026-11-17T13:04:28Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El clima manda en Argentina: lluvias, tormentas y pronósticos por provincia lideran las búsquedas, y circula un rumor viral de 'apagón mundial' de 72 horas que conviene no amplificar. En consumo, Black Friday ya tiene fecha y crecen las guías para comprar tecnología de forma segura; GTA VI también acapara la atención cultural de la semana. Con el feriado del 23 de noviembre y el aguinaldo de diciembre en el horizonte, sirven las ofertas claras, en cuotas y con fechas de entrega precisas.",
+ "lectura": "En Argentina el clima manda: un ciclón y alertas con lluvias intensas en el Litoral y Entre Ríos concentran las búsquedas, así que los mensajes útiles y empáticos rinden más que la promoción pura. El aguinaldo de diciembre ya se consulta y el Black Friday aparece con consejos para comprar tecnología de forma segura y renovar la casa. LEGO abre su primera tienda oficial y la Noche de los Museos convocó a más de 1,4 millones de personas: hay apetito por experiencias y marcas con historia.",
  "ideas_hoy": [
   {
-   "titulo": "Finde largo, plan listo",
-   "idea": "Se viene el feriado del lunes 23 de noviembre. Ofrecé combos para el finde largo (escapadas, picadas, juegos) con entrega antes del viernes.",
+   "titulo": "Plan día de lluvia",
+   "idea": "Hay alertas por tormentas y lluvias intensas. Gastronomía y delivery pueden proponer un 'plan de día de lluvia' con combos para pedir a casa.",
    "formato": "Reel"
   },
   {
-   "titulo": "Lluvia y delivery",
-   "idea": "Las tormentas y alertas dominan las búsquedas. Mostrá cómo protegés los pedidos y avisá horarios de entrega en días de lluvia, con tono tranqui.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Black Friday tech sin chamuyo",
-   "idea": "Hay guías para elegir ofertas de tecnología y comprar seguro. Publicá un carrusel con precio final, cuotas y garantía, sin letra chica.",
+   "titulo": "Que el aguinaldo rinda",
+   "idea": "El aguinaldo de diciembre ya es tendencia. Mostrá en qué conviene invertirlo para la casa o el verano, con cuotas y precios claros.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "GTA VI, re manija",
-   "idea": "El lanzamiento de GTA VI es lo más comentado de la semana. Tiendas gamer: armá un 'kit manija' con mandos, auriculares y almacenamiento.",
+   "titulo": "Llegó LEGO",
+   "idea": "LEGO abrió su primera tienda oficial en el país. Jugueterías y creadores pueden sugerir regalos para fanáticos de los bloques, incluso con productos locales complementarios.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Black Friday sin trampas",
+   "idea": "Circulan notas que advierten sobre la compra impulsiva. Escribí un anuncio honesto: precio anterior y actual, envío y cuotas, sin urgencias falsas.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "No hay apagón, hay ofertas",
-   "idea": "Circula la teoría de un apagón mundial. Respondé con humor liviano: 'acá no se corta nada, tu pedido llega igual', sin burlarte de nadie.",
-   "formato": "Historias Instagram"
+   "titulo": "Regalá experiencias",
+   "idea": "La Noche de los Museos superó 1,4 millones de visitantes. Proponé talleres, visitas o cursos como regalo empresarial o de fin de año.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "pronostico",
-   "color": "verde",
-   "por_que": "Búsquedas masivas del pronóstico en Buenos Aires.",
-   "idea": "Promos de paraguas, impermeables y delivery 'llueva o no'."
-  },
-  {
-   "termino": "supuesto apagón mundial",
+   "termino": "ciclón",
    "color": "amarillo",
-   "por_que": "Rumor viral sin sustento sobre un apagón de 72 horas.",
-   "idea": "No lo amplifiques; si lo mencionás, que sea para dar calma y datos."
+   "por_que": "Pronóstico de lluvias intensas en varias regiones.",
+   "idea": "Contenido útil de preparación; evitá bromas sobre afectaciones."
   },
   {
-   "termino": "tiempo hoy",
+   "termino": "clima",
    "color": "verde",
-   "por_que": "Pronóstico del día en Buenos Aires.",
-   "idea": "Delivery 'llueva o no' y productos para días de lluvia."
+   "por_que": "Consulta diaria del pronóstico.",
+   "idea": "Ofertas según el clima del día."
   },
   {
-   "termino": "cuando sale gta 6",
-   "color": "verde",
-   "por_que": "Expectativa por el lanzamiento del juego.",
-   "idea": "Cuenta regresiva y bundles gamer en cuotas."
+   "termino": "alerta meteorológica",
+   "color": "amarillo",
+   "por_que": "Alertas por tormentas y crecida de ríos en el Litoral.",
+   "idea": "Tono empático; informá cambios de entrega si aplica."
   },
   {
-   "termino": "gta 6",
+   "termino": "lluvia",
    "color": "verde",
-   "por_que": "Conversación global sobre el videojuego.",
-   "idea": "Contenido gamer y accesorios; evita ligar tu marca a la violencia del juego."
+   "por_que": "Búsquedas por lluvias en Buenos Aires.",
+   "idea": "Productos para la lluvia y delivery 'sin mojarte'."
+  },
+  {
+   "termino": "aguinaldo",
+   "color": "verde",
+   "por_que": "Interés por fechas y montos del aguinaldo.",
+   "idea": "Promos pensadas para el aguinaldo con cuotas claras."
   }
  ],
  "ocultar": [
   "suquia",
   "granizo",
-  "ufc",
   "rocio robles",
-  "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
   "El video de Natacha Jaitt sobre el Wandagate que que se volvió viral",
   "Cómo un BMW exhibido en TikTok se convirtió en pieza clave de la causa de narcolavado",
   "club deportivo maipú",
   "deportivo madryn - deportivo maipú",
-  "juez",
-  "Renunció el convencional constituyente que reivindicó a Videla",
-  "unión tranviarios automotor",
-  "PASO sí o PASO no: por qué importa tanto",
-  "León XIV denunció explotación y violencia en la Amazonia peruana",
-  "Papa León XIV y el incidente antes de su última misa en Perú: un rosario impactó en su rostro durante recorrido en Las Palmas",
-  "Lula viaja a Madrid para respaldar a Sánchez y reforzar el frente progresista ante el avance de la ultraderecha",
-  "León XIV en la Amazonia peruana: \"La sangre de los líderes indígenas asesinados reclama justicia\"",
   "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
   "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
-  "Kicillof anunció una inversión de $3.800 millones para financiar proyectos de investigación científica, tecnológica y social",
-  "el papa león xiv",
-  "Cristina Kirchner designa a un peronista federal cercano a Sergio Massa para el Consejo de la Magistratura",
-  "El análisis de Jorge Fernández Díaz sobre la visita de León XIV: “Vino a romper una burbuja de narración hegemónica”",
-  "ARA San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
   "Nueva York le puso un freno a la inteligencia artificial",
   "Estados Unidos impuso nuevas restricciones para bloquear el acceso de China a sus chips más avanzados de Inteligencia Artificial",
   "EEUU restringirá el acceso de China a chips de inteligencia artificial",
@@ -99,7 +84,11 @@
   "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
   "Europa pone precio a la gestión aduanera del comercio electrónico",
   "Manipular las reglas: el eterno vicio de la casta",
-  "El papa León XIV fue golpeado en un ojo con un decenario cuando iba a dar su última misa en Perú"
+  "juliana awada lolo longinotti",
+  "calingasta",
+  "fuga de gas",
+  "La Provincia anunció que la oferta salarial a los docentes se otorgará por decreto y anticipó nueva paritaria",
+  "Siete provincias tabacaleras se reúnen en Buenos Aires para impulsar reformas al financiamiento del FET"
  ],
  "audiencias": {
   "general": {
