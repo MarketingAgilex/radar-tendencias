@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Tras la despedida del papa León XIV, Perú vuelve a la rutina con la mirada en el bolsillo: el BCRP subió su tasa de referencia a 4,5%, lo que encarece créditos, y Entel anunció su salida del mercado peruano. El Black Friday ya se adelanta en varias tiendas y la prensa advierte que podría ser más caro, mientras el clima en Lima y los cortes de luz programados siguen entre lo más buscado. En entretenimiento, los Latin Grammy y las canciones virales nacidas en la visita del papa marcan la conversación. Funciona ser claro con el precio, ofrecer cuotas sin sorpresas y contenido cercano.",
+ "lectura": "El Perú se despide de la visita del papa León XIV, que dejó una ola de emoción, canciones virales y mucha conversación en redes. Lima vive días de calor (sensación de 35 °C) y la búsqueda del clima es constante. En consumo llegan el Black Friday y los regalos de Navidad, con titulares que alertan sobre compras impulsivas: conviene combinar el orgullo y la cercanía del momento con ofertas claras y productos para el verano que se adelanta.",
  "ideas_hoy": [
   {
-   "titulo": "Compra sin endeudarte",
-   "idea": "El BCRP subió su tasa a 4,5% y los créditos se encarecen. Publica un carrusel con opciones para comprar sin intereses altos (pago en cuotas propias, separado con adelanto) y el precio final claro, causa.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Black Friday sin cuentos",
-   "idea": "La prensa advierte que este Black Friday podría ser más caro y varias tiendas ya adelantan ofertas. Muestra el precio de hoy y el del Black Friday de tus productos estrella para ganar confianza.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Merch que une",
-   "idea": "Universitario se convirtió en el primer club en colaborar con New Era Perú. Si vendes moda o accesorios, piensa en ediciones limitadas con identidad local (barrio, ciudad, equipo) y abre preventa.",
+   "titulo": "Calor en Lima: refréscate",
+   "idea": "El Senamhi reporta sensación térmica de 35 °C en Lima. Lanza un combo de verano (bebidas, protector solar, ropa ligera, ventiladores) con delivery el mismo día.",
    "formato": "Reel"
   },
   {
-   "titulo": "Canción viral, contenido feliz",
-   "idea": "Las canciones nacidas en la visita del papa, como la de Pucallpa, se volvieron virales en TikTok. Usa sonidos alegres en tendencia para mostrar tu producto con orgullo regional, con respeto.",
+   "titulo": "Gracias, Perú",
+   "idea": "La visita papal dejó un sentimiento de orgullo y unión. Publica un mensaje de marca sobre 'lo que nos une como peruanos', sin usar imágenes oficiales ni temas polémicos.",
+   "formato": "Post Instagram"
+  },
+  {
+   "titulo": "Black Friday sin impulsos",
+   "idea": "La prensa advierte que las marcas usan la IA para empujar la compra impulsiva. Diferénciate con un carrusel 'compra con calma': precio real, cambios y garantía.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Canciones virales, tu versión",
+   "idea": "Canciones como la de Pucallpa se hicieron virales en TikTok. Usa un audio en tendencia apropiado para mostrar tu equipo o producto con alegría local.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Ojo con el clima de Lima",
-   "idea": "El pronóstico de Lima y la temperatura siguen entre lo más buscado. Haz contenido de \"qué ponerte hoy\" o \"qué tomar hoy\" con tu producto y delivery.",
-   "formato": "Historias Instagram"
+   "titulo": "Pokémon 30 años",
+   "idea": "La colaboración de Pokémon y Apple por el aniversario 30 genera interés. Tiendas de juguetes, ropa y coleccionables pueden armar una vitrina temática para regalos de Navidad.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda diaria muy alta por el pronóstico del SENAMHI.",
-   "idea": "Contenido práctico del día con producto de temporada."
+   "por_que": "Búsqueda diaria por calor y pronóstico del Senamhi.",
+   "idea": "Productos para el calor con delivery y mensajes de hidratación."
+  },
+  {
+   "termino": "papa leon xiv misa",
+   "color": "verde",
+   "por_que": "Gran evento de interés nacional con tono emotivo.",
+   "idea": "Mensajes de gratitud y unión, respetuosos y sin uso comercial de imágenes religiosas."
   },
   {
    "termino": "ruta del papa lunes 16",
    "color": "amarillo",
-   "por_que": "La visita del papa terminó; el tema pierde vigencia y es religioso.",
-   "idea": "Si lo mencionas, que sea con respeto y sin uso comercial directo."
+   "por_que": "Búsqueda logística que ya pasó; afectó tránsito y clases.",
+   "idea": "Úsalo solo como contexto; enfoca el contenido en el regreso a la rutina."
   },
   {
    "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "Interés por el calor y la humedad en Lima.",
-   "idea": "Bebidas, ropa ligera, protector solar o ventiladores con delivery."
+   "por_que": "Calor intenso y búsquedas de temperatura.",
+   "idea": "Contenido 'cómo sobrevivir al calor en Lima' con tus productos."
   },
   {
    "termino": "lunes 16 de noviembre es feriado",
    "color": "amarillo",
-   "por_que": "Consulta ya pasada sobre suspensión de clases y feriado.",
-   "idea": "Úsalo solo para recordar horarios de atención actualizados."
-  },
-  {
-   "termino": "corte luz arequipa",
-   "color": "amarillo",
-   "por_que": "Cortes programados en distritos de Arequipa; tema de servicio.",
-   "idea": "Mensajes útiles para clientes de la zona (horarios, linternas, cargadores), sin bromas."
+   "por_que": "Dudas por suspensión de clases en el Callao.",
+   "idea": "Aclara tus horarios de atención para evitar confusiones."
   }
  ],
  "ocultar": [
@@ -77,7 +77,13 @@
   "Carlos Alcántara hace sensible confesión sobre los desafíos médicos de su hijo Lorenzo: 'Me gustaría quitarle toda la medicina'\"",
   "López Aliaga insiste en que volverá a la alcaldía de Lima: “No me interesa que me metan juicios”",
   "Keiko Fujimori: ¿Cuál será su agenda oficial en China y Japón?",
-  "Madre de Dios: PNP destruye bienes por más de S/ 14 millones vinculados a la minería ilegal"
+  "Madre de Dios: PNP destruye bienes por más de S/ 14 millones vinculados a la minería ilegal",
+  "Jeanette Alonzo señala que asumirá la MML si el JNE le da la credencial: \"Me siento preparada\"",
+  "Juan Carrasco Millones, exministro de Pedro Castillo, es condenado por presentar documentos falsos",
+  "Airbag en Lima: la noche de topless y desenfreno en el Estadio San Marcos | CRÓNICA",
+  "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
  ],
  "audiencias": {
   "general": {

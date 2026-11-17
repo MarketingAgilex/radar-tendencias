@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia arranca la semana con un fuerte golpe de viento en Bretaña y una jornada de huelga que perturba trenes y escuelas en Lyon, lo que empuja las compras online y la entrega a domicilio. GTA VI y la liquidación de consolas PS5 antes de su lanzamiento concentran la atención tecnológica, mientras Star Academy y N'oubliez pas les paroles dominan la tele. En redes gusta lo tierno y lo cotidiano: una tendencia de TikTok para moverse en pijama después de los 50 o un concierto sorpresa a bordo de un avión. Funciona la conveniencia, el humor amable y la comunidad.",
+ "lectura": "Francia está en pleno pre-Black Friday: Carrefour, Fnac, Samsung, Sonos o De'Longhi ya anuncian descuentos y Amazon rebaja las PS5 antes de la salida de GTA VI. Hoy la huelga del 17 de noviembre perturba trenes y escuelas en Lyon y otras ciudades, y un fuerte golpe de viento amenaza Bretaña. En ocio, Star Academy y los anuncios navideños (como el de John Lewis) dan conversación: hacen falta ofertas claras, entregas fiables pese a las perturbaciones y un tono cálido.",
  "ideas_hoy": [
   {
    "titulo": "Huelga: te lo llevamos",
-   "idea": "La huelga del 17 de noviembre perturba trenes y escuelas en Lyon. Ofrece entrega a domicilio o recogida flexible ese día, con tono práctico y sin opinar sobre el conflicto.",
+   "idea": "La huelga del 17 de noviembre afecta a la SNCF y a las escuelas. Ofrece recogida flexible o entrega a domicilio con un mensaje empático y sin opinar sobre el conflicto.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Kit coup de vent",
-   "idea": "Bretaña se prepara para 72 horas de viento fuerte. Marcas de hogar, ropa y comida pueden mostrar un kit para quedarse en casa con entrega antes de la tormenta.",
+   "titulo": "Kit cocooning para Bretaña",
+   "idea": "Se anuncia un temporal de 72 horas en Bretaña. Los comercios locales pueden proponer un 'kit cocooning' (mantas, velas, bebidas calientes) con entrega antes del pico.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "El precio real del Black Friday",
+   "idea": "Las ofertas ya llueven. Publica un comparativo honesto con el precio de los últimos 30 días y el precio promocional para diferenciarte de los falsos descuentos.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Bouger en pyjama",
-   "idea": "Una tendencia de TikTok invita a mayores de 50 a moverse en pijama en el salón. Marcas de bienestar, ropa cómoda o fitness pueden sumarse con un reto amable e inclusivo.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Prêt pour GTA VI",
-   "idea": "Amazon liquida stock de PS5 antes del lanzamiento de GTA VI. Tiendas de tecnología, snacks o mobiliario gamer pueden lanzar un pack \"soirée de lancement\" con entrega garantizada.",
+   "titulo": "Calendario de Adviento",
+   "idea": "Hay más de 4.600 anuncios activos de calendarios de Adviento en Meta. Crea tu versión '24 sorpresas' con tus productos y una fecha límite de pedido.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Concierto en el aire",
-   "idea": "Un grupo dio un concierto sorpresa a bordo de un avión y se hizo viral. Crea una experiencia sorpresa para tus clientes (en tienda o en directo) y grábala para redes.",
-   "formato": "Reel"
+   "titulo": "Star Academy entre bastidores",
+   "idea": "Star Academy sigue muy vista. Haz un TikTok tipo 'evaluación de la semana' donde tu equipo califica tus productos con humor.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "coup de vent",
    "color": "amarillo",
-   "por_que": "Episodio de viento fuerte y duradero en Bretaña.",
-   "idea": "Mensajes de servicio y entregas anticipadas, sin alarmismo."
+   "por_que": "Fuerte temporal anunciado en Bretaña.",
+   "idea": "Consejos prácticos y productos útiles, avisando de posibles retrasos."
   },
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "Programa musical muy seguido por jóvenes y familias.",
-   "idea": "Retos de canto o looks del programa con tu producto."
+   "por_que": "Programa muy seguido cada semana.",
+   "idea": "Formatos de evaluación y detrás de cámaras con humor."
   },
   {
    "termino": "gta vi",
    "color": "verde",
-   "por_que": "Lanzamiento del videojuego más esperado del año.",
-   "idea": "Packs de lanzamiento y contenido gamer con humor."
+   "por_que": "Salida del videojuego más esperado del año.",
+   "idea": "Kits gamer y entrega antes del jueves."
   },
   {
    "termino": "playstation 5 ps5",
    "color": "verde",
-   "por_que": "Bajadas de precio de consolas antes de GTA VI.",
-   "idea": "Comparativas útiles y accesorios con precio claro."
+   "por_que": "Rebajas de PS5 antes de GTA VI.",
+   "idea": "Packs de consola con accesorios o juegos."
   },
   {
    "termino": "arnaud sncf",
    "color": "amarillo",
-   "por_que": "Historia de un viajero en apuros tras un control de tren que generó indignación.",
-   "idea": "Evita usar el caso en anuncios; si hablas de viajes, ofrece consejos útiles."
+   "por_que": "Historia personal ligada a un control de la SNCF; tema sensible.",
+   "idea": "No lo uses en publicidad; habla mejor de atención al cliente humana."
   }
  ],
  "audiencias": {
@@ -1133,46 +1133,46 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 170269,
+   "busqueda": "Black Friday livraison offerte",
+   "total": 10738,
    "anunciantes": [
     {
      "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=1138861289079550"
+     "url": "https://www.facebook.com/ads/library/?id=4536392099982327"
     },
     {
-     "nombre": "Reactive Outdoor (versión en inglés)",
-     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+     "nombre": "Sélomia",
+     "url": "https://www.facebook.com/ads/library/?id=2379456039542875"
     }
    ],
-   "patron": "El Black Friday ya arrancó semanas antes del 27 de noviembre: los primeros resultados los acapara una sola marca outdoor con decenas de variantes del mismo anuncio en francés e inglés y un descuento máximo como gancho. Señal de pruebas creativas masivas: para destacar hace falta un ángulo propio (regalo, servicio o urgencia real), no solo el porcentaje."
+   "patron": "Volumen muy alto de anuncios activos. Pocas marcas con muchas variantes creativas: una marca de cuidado bucal prueba decenas de ganchos distintos (beneficio concreto, '60 días para probar o te devolvemos el dinero', 'precio todo incluido, envío gratis'), y el outdoor anuncia descuentos de hasta -62 %. La garantía de devolución y el precio cerrado con envío incluido son el patrón."
   },
   {
-   "busqueda": "calendrier de l'Avent",
-   "total": 4194,
+   "busqueda": "calendrier de l'avent",
+   "total": 4665,
    "anunciantes": [
     {
-     "nombre": "Palais des Thés",
-     "url": "https://www.facebook.com/ads/library/?id=2646196569175353"
+     "nombre": "La Cabane Familiale - Nayliss",
+     "url": "https://www.facebook.com/ads/library/?id=2103376763739026"
     },
     {
-     "nombre": "Carrefour Courrières",
-     "url": "https://www.facebook.com/ads/library/?id=1887527108906864"
+     "nombre": "House of Jewels",
+     "url": "https://www.facebook.com/ads/library/?id=1541193114510911"
     },
     {
-     "nombre": "Super U Antibes",
-     "url": "https://www.facebook.com/ads/library/?id=1475054868057390"
+     "nombre": "Velora",
+     "url": "https://www.facebook.com/ads/library/?id=1138554691879921"
     },
     {
-     "nombre": "Coopérative U",
-     "url": "https://www.facebook.com/ads/library/?id=1177674564612945"
+     "nombre": "Bamboo Édition",
+     "url": "https://www.facebook.com/ads/library/?id=1512594570930055"
     },
     {
-     "nombre": "U Express St Symphorien d'Ozon",
-     "url": "https://www.facebook.com/ads/library/?id=958701560409623"
+     "nombre": "Livriko",
+     "url": "https://www.facebook.com/ads/library/?id=1520639950115979"
     }
    ],
-   "patron": "Los supermercados lanzan anuncios localizados tienda por tienda con ofertas válidas del 17 al 30 de noviembre, y las marcas gourmet (té) empujan su calendario de Adviento antes del 1 de diciembre. Para una pyme, el calendario o la caja temática con fecha de entrega garantizada es un formato probado esta semana."
+   "patron": "El calendario de Adviento se vende como '24 sorpresas para coleccionar': juguetes familiares, joyería, libros y belleza. El mensaje de urgencia es 'cómpralo antes de la avalancha de regalos de Navidad', con fecha implícita del 1 de diciembre."
   }
  ],
  "ocultar": [
@@ -1218,6 +1218,10 @@
   "Procès de la \"martyre de l'A10\": 20 ans de réclusion criminelle requis contre la mère d'Inass, 14 ans contre le père",
   "Pourquoi l’Estonie a décidé de fermer sa frontière avec la Russie",
   "INFO BFMTV. Manifestation du 17 novembre: 220 000 à 300 000 manifestants attendus demain en région et 30 000 à 60 000 à Paris",
-  "Une fillette de 12 ans interpellée lors de la manif contre la vie chère à Paris, ce que l’on sait"
+  "Une fillette de 12 ans interpellée lors de la manif contre la vie chère à Paris, ce que l’on sait",
+  "fioul",
+  "rue d'aubagne",
+  "La visite d’Édouard Geffray au lycée incendié Nelson Mandela, à Nantes est pour Johanna Rolland « une occasion manquée »",
+  "Ce coup de pression de La France insoumise dit tout des difficultés de Marine Tondelier pour 2027"
  ]
 }

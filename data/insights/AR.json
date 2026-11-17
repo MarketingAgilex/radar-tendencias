@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Argentina vive días de lluvias intensas y alertas meteorológicas, con ríos creciendo en el Litoral y tormentas con granizo en Córdoba, mientras el aguinaldo de diciembre ya se busca masivamente. El Black Friday se prepara con consejos para comprar seguro y renovar la casa, LEGO abre su primera tienda oficial en el shopping más grande del país y un Malbec argentino lidera ventas en Inglaterra. En redes, lo viral es tierno y local: un loro con tonada sanjuanina o una canción hecha con IA sobre el cafecito. Funciona acompañar el bolsillo (cuotas, aguinaldo) y hablar con humor cercano.",
+ "lectura": "El clima domina la agenda argentina: un ciclón trae lluvias de más de 180 mm en varias regiones, con alertas por tormentas y granizo en Córdoba y el Paraná en crecida. En el bolsillo, el dólar volvió a subir y la gente ya busca fechas y montos del aguinaldo de diciembre, así que el ahorro y las cuotas siguen siendo clave. El Black Friday y la apertura de la primera tienda oficial de LEGO en el país marcan el tono del consumo: ofertas claras, cuotas sin interés y regalos para las fiestas.",
  "ideas_hoy": [
   {
-   "titulo": "Aguinaldo bien invertido",
-   "idea": "El aguinaldo de diciembre es de lo más buscado. Armá un carrusel de \"qué comprar con el aguinaldo\" con 3 opciones por rango de precio y cuotas sin interés si las tenés.",
+   "titulo": "Llueve: delivery al rescate",
+   "idea": "El ciclón y las alertas por tormentas son lo más buscado. Comunicá que seguís entregando con horarios realistas y ofrecé un beneficio para pedidos programados.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Planificá con el aguinaldo",
+   "idea": "Las búsquedas sobre el aguinaldo de diciembre crecen. Armá un carrusel 'en qué invertir tu aguinaldo' con opciones de tu tienda en cuotas y un precio de referencia.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit para la tormenta",
-   "idea": "Hay alertas por lluvias intensas y granizo en varias provincias. Mostrá productos útiles (impermeables, cobertores para auto, linternas) con envío rápido y tono de servicio, sin dramatizar.",
-   "formato": "Historias Instagram"
+   "titulo": "Black Friday en cuotas",
+   "idea": "Los medios explican cuándo es el Black Friday y qué se espera. Anunciá tu oferta con cuotas sin interés y precio final en pesos para dar certeza ante la suba del dólar.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "La casa lista para el Black Friday",
-   "idea": "La prensa recomienda aprovechar el Black Friday para renovar ambientes. Tiendas de deco y hogar pueden hacer un antes y después de un ambiente con productos propios y preventa.",
+   "titulo": "LEGO y los regalos de fin de año",
+   "idea": "LEGO abrió su primera tienda oficial en el país. Jugueterías y tiendas de regalos pueden aprovechar con una guía de juguetes por edad para Navidad.",
    "formato": "Reel"
   },
   {
-   "titulo": "Tu cafecito, tu jingle",
-   "idea": "La canción creada con IA sobre el cafecito y el loro con tonada sanjuanina son virales. Probá un audio pegadizo propio o un personaje tierno para presentar tu producto en 15 segundos.",
+   "titulo": "Kit anti tormenta",
+   "idea": "Granizo y lluvias fuertes: es momento de cubreautos, paraguas, impermeables y linternas. Mostrá el kit en un video corto con precio y envío.",
    "formato": "TikTok"
-  },
-  {
-   "titulo": "Malbec que conquista afuera",
-   "idea": "Un Malbec argentino es el más vendido en Inglaterra. Bodegas y productores pueden contar su historia exportadora en LinkedIn y abrir conversaciones con distribuidores.",
-   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "ciclón",
    "color": "amarillo",
-   "por_que": "Ciclón extratropical con lluvias intensas en varias regiones.",
-   "idea": "Solo contenido de servicio y prevención; evitá el humor."
+   "por_que": "Evento de lluvias intensas que afecta a varias provincias.",
+   "idea": "Mensajes de servicio y productos útiles, sin alarmismo."
   },
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva del pronóstico día a día.",
-   "idea": "Producto del día según el clima, con envío o retiro."
+   "por_que": "Búsqueda diaria y masiva de pronóstico.",
+   "idea": "Contenido útil del día con el producto que sirve."
   },
   {
    "termino": "alerta meteorológica",
    "color": "amarillo",
-   "por_que": "Alertas por eventos extremos y ríos crecidos en el Litoral.",
-   "idea": "Mensajes empáticos y horarios de atención actualizados."
+   "por_que": "Alertas por eventos extremos en el Litoral y otras zonas.",
+   "idea": "Avisos de horarios y entregas; empatía con clientes afectados."
   },
   {
    "termino": "lluvia",
    "color": "verde",
-   "por_que": "Interés constante por la lluvia en Buenos Aires.",
-   "idea": "Paraguas, botas, delivery y planes bajo techo."
+   "por_que": "Lluvias frecuentes en Buenos Aires.",
+   "idea": "Ofertas 'día de lluvia' con delivery y productos para el hogar."
   },
   {
    "termino": "aguinaldo",
    "color": "verde",
-   "por_que": "Interés por fechas y montos del aguinaldo de diciembre.",
-   "idea": "Guías de compra por presupuesto y cuotas."
+   "por_que": "Interés por fechas y montos del medio aguinaldo de diciembre.",
+   "idea": "Planes de compra en cuotas y guías de ahorro para las fiestas."
   }
  ],
  "ocultar": [
@@ -76,7 +76,13 @@
   "Renunció el convencional constituyente que reivindicó a Videla",
   "unión tranviarios automotor",
   "PASO sí o PASO no: por qué importa tanto",
-  "León XIV denunció explotación y violencia en la Amazonia peruana"
+  "León XIV denunció explotación y violencia en la Amazonia peruana",
+  "Papa León XIV y el incidente antes de su última misa en Perú: un rosario impactó en su rostro durante recorrido en Las Palmas",
+  "Lula viaja a Madrid para respaldar a Sánchez y reforzar el frente progresista ante el avance de la ultraderecha",
+  "León XIV en la Amazonia peruana: \"La sangre de los líderes indígenas asesinados reclama justicia\"",
+  "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
+  "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
+  "Kicillof anunció una inversión de $3.800 millones para financiar proyectos de investigación científica, tecnológica y social"
  ],
  "audiencias": {
   "general": {

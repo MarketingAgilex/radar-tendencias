@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal llega al Black Friday con desconfianza: casi 9 de cada 10 portugueses participarán, pero dudan de los precios, y la prensa advierte sobre el crédito y los trucos que vacían la cartera. PlayStation, Dreame y Puma ya lanzaron campañas y las empresas de mensajería refuerzan su operación para Black Friday y Navidad. El tiempo pesa (corriente en chorro, lluvia intensa y olas con aviso en varios distritos) y la descarga anticipada de GTA VI batió récords de tráfico de internet. Funciona ser transparente con el precio, rápido en la entrega y ligero en el humor.",
+ "lectura": "Portugal vive una semana de mal tiempo, con corriente en chorro fuerte, lluvia intensa y olas que dejan varios distritos bajo aviso. El Black Friday ya está en marcha (Auchan, PcComponentes, PlayStation, Dreame) y un estudio indica que el 88 % de los portugueses participará, aunque desconfía de los precios. El lanzamiento de GTA VI y la televisión (Big Brother, Cristina Ferreira) dominan el entretenimiento: gana quien muestre precio justo, entrega segura y humor local.",
  "ideas_hoy": [
   {
-   "titulo": "Preço transparente",
-   "idea": "La mayoría comprará en Black Friday pero desconfía de los precios. Muestra el precio de hoy y el de Black Friday lado a lado en tus productos estrella: la transparencia es el mejor gancho.",
+   "titulo": "Desconfianza en Black Friday",
+   "idea": "Un estudio dice que el 88 % participará en Black Friday pero desconfía de los precios. Publica el historial de precio de los últimos 30 días junto a la oferta para ganar confianza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Entrega antes de Navidad",
-   "idea": "Las mensajerías refuerzan la operación para Black Friday y Navidad. Publica las fechas límite de pedido para que llegue a tiempo, en Portugal y al extranjero, sin prometer plazos que no controlas.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Dia de chuva, dia de encomenda",
-   "idea": "Hay avisos por lluvia y olas en varios distritos. Haz contenido de \"quédate en casa que te lo llevamos\" con productos de confort y entrega rápida.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "El perfume viral",
-   "idea": "Un perfume de Mercadona se volvió viral porque lo revenden al doble en Vinted. Marcas de belleza pueden mostrar su fragancia \"que no tienes que cazar\", con precio justo y stock garantizado.",
+   "titulo": "Tiempo de quedarse en casa",
+   "idea": "Lluvia fuerte y avisos meteorológicos invitan al plan casero. Muestra mantas, calefactores, comida a domicilio o juegos con entrega rápida y un copy cálido.",
    "formato": "Reel"
   },
   {
-   "titulo": "Memes del tomate",
-   "idea": "El precio del tomate está generando memes en redes. Restaurantes y marcas de alimentación pueden sumarse con una receta económica y un toque de humor.",
+   "titulo": "Kit GTA VI",
+   "idea": "La precarga de GTA VI batió récords de tráfico en internet. Tiendas de tecnología y snacks pueden armar un 'kit de lanzamiento' con entrega antes del jueves.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Perfume viral y precio justo",
+   "idea": "Un perfume de supermercado se revende al doble en Vinted y se volvió tema. Úsalo para hablar de precio justo y mostrar tu producto con precio transparente.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Navidad a tiempo",
+   "idea": "Las empresas de mensajería refuerzan operaciones para Black Friday y Navidad. Comunica ya las fechas límite de envío para recibir antes del 24 de diciembre.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "corrente de jato",
    "color": "amarillo",
-   "por_que": "Lluvia intensa y olas fuertes con aviso en varios distritos.",
-   "idea": "Mensajes de servicio y productos útiles, sin dramatizar."
+   "por_que": "Mal tiempo con lluvia intensa y olas altas.",
+   "idea": "Contenido útil de preparación y aviso de posibles retrasos en entregas."
   },
   {
    "termino": "controle de tráfego aéreo",
    "color": "amarillo",
-   "por_que": "La falla que detuvo vuelos en EE. UU. preocupa a viajeros.",
-   "idea": "Para turismo, recordar seguros y flexibilidad con tono calmado."
+   "por_que": "Falla que paró vuelos en EE. UU.; preocupa a quien viaja.",
+   "idea": "Si dependes de envíos aéreos, comunica plazos realistas."
   },
   {
    "termino": "vasco palmeirim",
    "color": "verde",
-   "por_que": "Momento romántico del presentador que generó simpatía.",
-   "idea": "Contenido ligero sobre declaraciones y regalos especiales."
+   "por_que": "Declaración romántica de un presentador muy comentada.",
+   "idea": "Contenido ligero de 'declaraciones' para marcas de regalos y flores."
   },
   {
    "termino": "eletricidade",
    "color": "amarillo",
    "por_que": "Cortes programados de electricidad en varias zonas.",
-   "idea": "Información útil (horarios, linternas, baterías portátiles), sin alarmismo."
+   "idea": "Productos útiles (power banks, linternas) con tono informativo."
   },
   {
-   "termino": "robert pattinson novo james bond",
+   "termino": "playstation",
    "color": "verde",
-   "por_que": "Anuncio del nuevo 007 con gran interés.",
-   "idea": "Looks, regalos o \"misiones\" de compra con tono de cine."
+   "por_que": "Tráfico récord por la precarga de GTA VI.",
+   "idea": "Promociones de accesorios y juegos con entrega rápida."
   }
  ],
  "ocultar": [
@@ -91,7 +91,12 @@
   "Maputo, em estado de alerta, aguarda julgamento de Mondlane",
   "Consultoria aponta Guimarães como um dos cinco ministros de Lula com maior influência nas redes sociais",
   "Inspeção-Geral da Educação abre inquérito. Alunos suspensos após agressão a colega em escola de Lisboa",
-  "Aluna de 13 anos agredida, colegas que filmaram podem ser alvo de sanção disciplinar | Educação"
+  "Aluna de 13 anos agredida, colegas que filmaram podem ser alvo de sanção disciplinar | Educação",
+  "diário de notícias",
+  "Que castigo pode ter a agressão filmada em escola de Lisboa?",
+  "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa",
+  "Forças ucranianas atacam Ponte da Crimeia e trânsito fica condicionado. Kremlin admite \"danos ligeiros\"",
+  "A modelo espanhola Joana Sanz confirmou o fim do casamento com o ex-jogador Daniel Alves e atribuiu parte da separação à diferença de fé entre os dois. Em publicação nas redes sociais, ela afirmou que não compartilha da religiosidade do ex-atleta e qu"
  ],
  "audiencias": {
   "general": {

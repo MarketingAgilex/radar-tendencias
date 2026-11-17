@@ -1,38 +1,38 @@
 {
  "pais": "IT",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Italia sigue pendiente del mal tiempo, con inundaciones en Campania y alerta amarilla en Toscana, mientras la televisión manda con Ballando con le Stelle y sus polémicas. El Black Friday ya se anticipa en tecnología y videojuegos, con una sorpresa: los italianos ya no buscan solo smartphones, y la logística prevé paquetes un 40% por encima de lo normal, con avisos contra falsos SMS de entrega. GTA VI y la nueva estrella Michelin de Cannavacciuolo completan la conversación. Funciona la claridad en la entrega, el tono cálido y el entretenimiento compartido.",
+ "lectura": "En Italia el mal tiempo sigue siendo protagonista, con alertas y lluvias que disparan las búsquedas del pronóstico. La televisión del fin de semana (Ballando con le Stelle, Grande Fratello VIP) domina la conversación, mientras el Black Friday se extiende más allá de los smartphones y la logística prevé un 40 % más de paquetes. La huelga de transporte del 20 y 21 de noviembre y la espera por GTA VI completan el cuadro: se necesitan ofertas transparentes, entregas fiables y contenidos que aprovechen la televisión.",
  "semaforo": [
   {
    "termino": "giuliacci meteo",
    "color": "verde",
-   "por_que": "Búsqueda masiva del pronóstico por la llegada de un nuevo flujo atlántico.",
-   "idea": "Producto de temporada y entregas según la zona."
+   "por_que": "Búsqueda masiva del pronóstico con nuevas perturbaciones.",
+   "idea": "Contenido útil de 'qué ponerse hoy' con tus productos."
   },
   {
    "termino": "rai play ballando con le stelle",
    "color": "verde",
-   "por_que": "Programa de baile con altísima audiencia.",
-   "idea": "Planes de sofá, looks y encuestas ligeras."
+   "por_que": "Programa de gran audiencia con conversación en redes.",
+   "idea": "Jurados, votos y clasificaciones de tus productos."
   },
   {
    "termino": "marco bocci",
    "color": "verde",
-   "por_que": "Concursante de Ballando en tendencia.",
-   "idea": "Contenido de entretenimiento ligero sin tomar partido."
+   "por_que": "Concursante del programa muy buscado.",
+   "idea": "Úsalo como referencia ligera de entretenimiento, sin chismes."
   },
   {
    "termino": "barbara d urso puzza",
    "color": "amarillo",
-   "por_que": "Polémica entre presentadores que genera discusión.",
-   "idea": "Mejor no sumarse a la pelea; usa el programa, no el conflicto."
+   "por_que": "Polémica televisiva entre personajes conocidos.",
+   "idea": "Mejor no usarla en contenido de marca."
   },
   {
-   "termino": "monica guerritore luca urso",
+   "termino": "rockstar games gta vi",
    "color": "verde",
-   "por_que": "Pareja de baile de Ballando en tendencia por sus ensayos.",
-   "idea": "Contenido de \"detrás de cámaras\" de tu equipo con tono divertido."
+   "por_que": "Expectativa por el lanzamiento de GTA VI.",
+   "idea": "Kits gamer, accesorios y entrega antes del lanzamiento."
   }
  ],
  "audiencias": {
@@ -1182,33 +1182,37 @@
   "farouk kassam rapimento",
   "Chi sono i cinque Paesi europei che vogliono aprire un centro per i rimpatri in Ruanda entro il 2027",
   "Revolut in amministrazione giudiziaria, cosa cambia per i correntisti",
-  "Ilyes resta nel Cpr di Milano. Tutto pronto per l’espulsione"
+  "Ilyes resta nel Cpr di Milano. Tutto pronto per l’espulsione",
+  "Le notizie sul conflitto tra Ucraina e Russia di lunedì 16 novembre",
+  "Don Patriciello incontra Giorgia Meloni: «La premier mi ha promesso che finirà lavoro a Caivano»",
+  "Iran: 'Dieci nazioni sostengono il piano di due giorni per lo Stretto di Hormuz'",
+  "La cooperazione tra Italia e Stati Uniti in materia di estradizione (Milano, 24 novembre)."
  ],
  "ideas_hoy": [
   {
-   "titulo": "Il pacco arriva, quello vero",
-   "idea": "Las alertas por falsos SMS de entrega crecen con el Black Friday. Explica cómo avisas tus envíos (canal oficial, sin enlaces de pago) y gana confianza antes de las ofertas.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Ordina prima, ricevi in tempo",
-   "idea": "La logística prevé un 40% más de paquetes entre Black Friday y Navidad. Publica tus fechas límite de pedido y premia a quien compre antes con un detalle.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Serata Ballando",
-   "idea": "Ballando con le Stelle domina la conversación del sábado. Propón un plan de sofá con tus productos o una encuesta sobre el mejor look de la noche.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Más allá del smartphone",
-   "idea": "Los rankings del Black Friday muestran que se buscan otras categorías además de los móviles. Presenta tu producto como el regalo inesperado del año, con precio y beneficio claros.",
+   "titulo": "Ballando: califica tu producto",
+   "idea": "Ballando con le Stelle está entre lo más buscado. Haz un video donde el equipo califica tus productos como un jurado y publica la clasificación final.",
    "formato": "Reel"
   },
   {
-   "titulo": "Cocina de estrella",
-   "idea": "La estrella Michelin de Cannavacciuolo está en tendencia. Restaurantes y marcas de alimentación pueden mostrar una receta de autor en 30 segundos con sus productos.",
-   "formato": "TikTok"
+   "titulo": "Huelga del 20 y 21 de noviembre",
+   "idea": "Hay huelga de transporte el 20 y 21 de noviembre. Avisa a tus clientes con anticipación y ofrece recogida en tienda o entrega programada.",
+   "formato": "Historias Instagram"
+  },
+  {
+   "titulo": "Paquetes +40 %: pide antes",
+   "idea": "Black Friday y Navidad presionan la logística. Comunica las fechas límite de envío navideño y una pequeña ventaja para quien compre pronto.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "No solo smartphones",
+   "idea": "Las búsquedas de Black Friday se mueven hacia otras categorías. Crea una guía 'lo que vale la pena comprar' con tus productos de hogar, bienestar o hobbies.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Cuidado con el falso aviso de paquete",
+   "idea": "Circulan SMS falsos de entrega. Publica cómo reconocer tus mensajes oficiales y qué canal usas para contactar a tus clientes.",
+   "formato": "Post Instagram"
   }
  ]
 }

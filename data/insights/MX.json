@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin 2026 cerró con buen balance: Concanaco reporta ventas 20% arriba a mitad de la campaña, con electrónica y tecnología a la cabeza, y Profeco atendió las quejas de quienes no vieron respetadas sus ofertas. Ahora el reto es la cuesta de liquidez para las pymes y mantener la venta rumbo al Black Friday y la Navidad. Los frentes fríos 6 y 7 traen temperaturas bajo cero en varios estados, y el entretenimiento lo dominan los realities como La Mansión VIP. Funciona hablar de valor real, garantías claras y productos para el frío.",
+ "lectura": "El Buen Fin ya cerró con balance positivo (ocho de cada diez negocios reportan más ventas) y la conversación pasa a Black Friday y a los regalos de Navidad. El entretenimiento manda: La Mansión VIP 2 y La Granja VIP generan búsquedas diarias y GTA VI es el gran lanzamiento de la semana. Es buen momento para captar a quien no compró en el Buen Fin, con mensajes de 'segunda oportunidad' y contenido de pop culture.",
  "ideas_hoy": [
   {
-   "titulo": "Lo que sí respetamos",
-   "idea": "Profeco recibió quejas por ofertas no respetadas en el Buen Fin. Haz un video corto mostrando cómo garantizas tu precio, cambios y devoluciones: la confianza vende más que el descuento, compa.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El Buen Fin se queda una semana más",
-   "idea": "Muchas pymes quedaron con poca liquidez tras el Buen Fin. Ofrece una \"segunda vuelta\" de 72 horas solo para quien no alcanzó, con stock limitado y pago con tarjeta, para recuperar ventas sin bajar más el margen.",
+   "titulo": "¿Se te pasó el Buen Fin?",
+   "idea": "El Buen Fin acaba de cerrar y muchos se quedaron con ganas. Lanza una promo 'segunda oportunidad' de 48 horas con lo que más se vendió y un copy cercano: 'aquí te guardamos el descuento'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Kit frente frío",
-   "idea": "Los frentes fríos 6 y 7 traen hasta -5 grados en varios estados. Arma un kit (cobijas, chamarras, termos, cremas para resequedad) y muestra cómo lo recibes en casa en 24-48 horas donde aplique.",
+   "titulo": "Reality del día",
+   "idea": "La Mansión VIP 2 está entre lo más buscado. Haz un TikTok tipo 'si mi producto entrara a la mansión' asignando roles a tus productos; el humor de reality conecta con Gen Z y millennials.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Tu calendario de adviento, pero chido",
-   "idea": "El calendario navideño de SKIMS se volvió viral por su precio. Responde con un calendario o caja sorpresa propia a precio justo y muestra todo lo que trae, sin atacar a la otra marca.",
+   "titulo": "GTA VI llega esta semana",
+   "idea": "El lanzamiento de GTA VI mueve búsquedas de consolas y accesorios. Si vendes tecnología, snacks o delivery, arma un 'kit de maratón gamer' con entrega rápida.",
    "formato": "Reel"
   },
   {
-   "titulo": "Team Mansión VIP",
-   "idea": "La Mansión VIP es de lo más buscado. Haz una encuesta en historias para que tu comunidad elija a su favorito y regala un producto entre quienes participan, con tono ligero.",
-   "formato": "Historias Instagram"
+   "titulo": "Plan de fin de año con Ticketmaster",
+   "idea": "Ticketmaster y Cinépolis siguen en tendencia por promociones. Negocios de experiencias pueden publicar 'regala una salida' con tarjeta digital y fecha de uso flexible.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Calendario de Adviento sin sustos",
+   "idea": "El calendario navideño de una marca famosa se volvió viral por su precio. Usa la conversación para mostrar tu propio pack de regalos con precio claro y contenido real de lo que trae.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "la mansion vip",
    "color": "verde",
-   "por_que": "Reality con altísimo interés y votaciones semanales.",
-   "idea": "Encuestas y memes ligeros con tu producto como \"premio\" simbólico."
-  },
-  {
-   "termino": "inapam",
-   "color": "amarillo",
-   "por_que": "Adultos mayores buscan información del pago de diciembre; tema sensible de dinero.",
-   "idea": "Comercios pueden informar descuentos con credencial INAPAM, sin hablar del apoyo económico."
+   "por_que": "Reality con conversación diaria y votaciones.",
+   "idea": "Contenido de humor y encuestas en historias usando el formato del reality."
   },
   {
    "termino": "ticketmaster",
    "color": "verde",
-   "por_que": "Promociones de conciertos y festivales durante el Buen Fin.",
-   "idea": "Ideas de regalo de experiencias: combina tu producto con la salida al concierto."
-  },
-  {
-   "termino": "rafa mercadante",
-   "color": "verde",
-   "por_que": "Participante de reality en tendencia.",
-   "idea": "Contenido de entretenimiento ligero, sin tomar partido de forma agresiva."
+   "por_que": "Promociones de eventos durante el Buen Fin.",
+   "idea": "Ideas de 'regala una experiencia' con tarjeta digital."
   },
   {
    "termino": "cinepolis",
    "color": "verde",
-   "por_que": "Combos y promociones de cine muy buscados.",
-   "idea": "Planes de \"noche de cine en casa\" con tu producto o alianzas locales."
+   "por_que": "Combos especiales y salidas al cine.",
+   "idea": "Alianza o contenido 'plan de cine + tu producto' para el fin de semana."
+  },
+  {
+   "termino": "rafa mercadante",
+   "color": "amarillo",
+   "por_que": "Interés por un reality de convivencia; conversación cambiante.",
+   "idea": "Úsalo solo como referencia ligera de entretenimiento, sin tomar partido."
+  },
+  {
+   "termino": "gta vi",
+   "color": "verde",
+   "por_que": "El lanzamiento de videojuego más esperado del año.",
+   "idea": "Kits gamer, accesorios y snacks con entrega antes del jueves."
   }
  ],
  "audiencias": {
@@ -1056,6 +1056,15 @@
   "Destruirán documentos de procesos ciudadanos en la CDMX",
   "Harán bloqueo total en el kilómetro 40 de la carretera Guadalajara-Colima",
   "Así fue la detención de Miguel Ángel Félix Gallardo en Guadalajara; “Me quebraron cuatro costillas” https://mile.io/4C5lYYJ",
-  "Mueren hombre y niño en vivienda de Guadalajara por posible intoxicación de gas LP"
+  "Mueren hombre y niño en vivienda de Guadalajara por posible intoxicación de gas LP",
+  "guardia nacional de méxico",
+  "inapam",
+  "Inhabilitan a ex funcionario de SRE por boda en el Munal",
+  "Confirman aumento a la Pensión Bienestar para 2027; esto deben saber los beneficiarios",
+  "Gobernación convoca a líderes de Tierra Blanca Copala en pugna a firmar la paz",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
+  "Estudiantes de la UAM y apoyo a Palestina prevén movilizaciones en CDMX hoy 16 de noviembre - La Prensa",
+  "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP"
  ]
 }

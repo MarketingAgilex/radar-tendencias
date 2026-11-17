@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos está en plena temporada de Sinterklaas: Gijs Naber toma el relevo como nuevo Sint y la llegada del barco disparó las búsquedas, con el 5 de diciembre como gran fecha de regalos. El Black Friday se nota en tecnología, baterías domésticas (antes del fin del saldering) y fibra óptica a 1 euro, mientras una advertencia de seguridad sobre una leche UHT de Lidl recuerda la importancia de la confianza. Las nominaciones a los Grammy y el nuevo acuerdo de Max Verstappen con una empresa neerlandesa completan la conversación. Funciona el regalo con sorpresa, el humor familiar y la claridad en precio y entrega.",
+ "lectura": "Países Bajos está en plena temporada de Sinterklaas: la llegada del nuevo Sint (Gijs Naber) fue lo más buscado de la semana y pakjesavond (5 de diciembre) se acerca. Al mismo tiempo, las promociones de Black Friday llevan semanas y algunos minoristas ya se quejan, mientras la gasolina vuelve a bajar de dos euros y el impuesto de circulación subirá el próximo año. Ganan las marcas con regalos para el zapato, precios honestos y un guiño a la tradición.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "Nuevo intérprete de Sinterklaas con enorme interés.",
-   "idea": "Contenido familiar y regalos de Sinterklaas."
+   "por_que": "El nuevo Sinterklaas despierta enorme interés.",
+   "idea": "Contenido familiar y lúdico, sin parodiar al personaje."
   },
   {
    "termino": "stoomboot van sinterklaas",
    "color": "verde",
-   "por_que": "La llegada del barco marca el inicio de la temporada.",
-   "idea": "Campañas de regalos con fecha del 5 de diciembre."
-  },
-  {
-   "termino": "operatie",
-   "color": "amarillo",
-   "por_que": "Noticia médica sobre una operación inusual.",
-   "idea": "No usarla en anuncios; tema de salud."
+   "por_que": "La llegada del Sint es un gran momento familiar.",
+   "idea": "Ideas de regalo para el zapato y para pakjesavond."
   },
   {
    "termino": "grammy nominations 2027",
    "color": "verde",
-   "por_que": "Nominaciones con artistas muy seguidos.",
-   "idea": "Playlists, looks o regalos musicales."
+   "por_que": "Interés musical global.",
+   "idea": "Playlists y productos de música como regalo."
   },
   {
    "termino": "max verstappen vdk",
    "color": "verde",
-   "por_que": "Nuevo acuerdo del piloto con una empresa neerlandesa.",
-   "idea": "Contenido de orgullo nacional y deporte motor, sin usar su imagen."
+   "por_que": "Nuevo acuerdo de Verstappen con una empresa neerlandesa.",
+   "idea": "Contenido de alianzas y rendimiento para marcas B2B."
+  },
+  {
+   "termino": "benzine",
+   "color": "verde",
+   "por_que": "Precios de gasolina más bajos.",
+   "idea": "Promociones de escapadas y viajes en coche."
   }
  ],
  "audiencias": {
@@ -1212,33 +1212,41 @@
   "LIVE | Oekraïne overlegt met VS en Europa over onderhandeling met Moskou",
   "Verrassend ambitieus voorstel op klimaattop, nu begint het politieke spel",
   "Snelle toename van migratie uit Senegal naar Canarische Eilanden: waarom nu opeens?",
-  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij"
+  "Dragqueen ’Reggy B.’ in Amsterdam mishandeld door man op fatbike: politie geeft beelden verdachte vrij",
+  "iran",
+  "victoria regiadreef",
+  "hekelstraat",
+  "Uit onderzoek blijkt dat rubberboot met vluchtelingen bij Hoofdplaat te water ging",
+  "Als nabestaanden hun enorme verdriet delen, geeft de Erasmusschutter geen krimp: ‘Ik kijk mensen aan wanneer ik dat wil’",
+  "Rusland meldt nieuwe aanvallen op Krimbrug, ook Oekraïense bruggen bestookt",
+  "Nu is het officieel: in Rwanda moet eerste Europese ‘terugkeerhub’ komen, kabinet hoopt op afschrikkende werking",
+  "Politie deelt beelden van mishandeling dragqueen Reggy B. bij tramhalte in Amsterdam"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Cadeautjes voor de Sint",
-   "idea": "Con el nuevo Sinterklaas en tendencia y el 5 de diciembre cerca, arma una selección de regalos para el zapato (schoencadeautjes) por rangos de precio y fecha límite de pedido.",
+   "titulo": "Algo para el zapato",
+   "idea": "El nuevo Sinterklaas es la conversación de la semana. Haz un carrusel de schoencadeautjes de menos de 10 euros con fecha límite de pedido antes del 5 de diciembre.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Gedicht con tu producto",
-   "idea": "La tradición de Sinterklaas incluye poemas y sorpresas. Pide a tu comunidad un \"Sinterklaasgedicht\" divertido sobre tu producto y premia el mejor.",
-   "formato": "Historias Instagram"
+   "titulo": "Una surprise con tu producto",
+   "idea": "Pakjesavond se acerca. Muestra en un video corto cómo convertir tu producto en una surprise (regalo disfrazado) con un poema corto.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Black Friday con números",
-   "idea": "Las ofertas de baterías domésticas y fibra óptica se venden con cifras concretas. Muestra en un anuncio cuánto se ahorra al año con tu producto, de forma simple y verificable.",
+   "titulo": "Black Friday sin agobio",
+   "idea": "Un directivo del comercio critica las cuatro semanas de Black Friday. Posiciónate con una sola oferta clara de 48 horas y precio honesto.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Seguridad primero",
-   "idea": "El aviso sobre una leche de Lidl puso el foco en la seguridad alimentaria. Si vendes comida, enseña tus controles de calidad y trazabilidad con tono tranquilo, sin mencionar a otras marcas.",
-   "formato": "LinkedIn"
+   "titulo": "Gasolina más barata: escapada",
+   "idea": "La gasolina vuelve a bajar de dos euros. Marcas de viaje y hostelería pueden lanzar una promo 'fin de semana fuera' con descuento para quien llegue en coche.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Nueva cara, nueva tradición",
-   "idea": "El relevo del Sinterklaas genera curiosidad. Presenta a la nueva persona de tu equipo o un nuevo producto con un guiño a la \"intocht\" y mucho humor familiar.",
-   "formato": "Reel"
+   "titulo": "Deportes de invierno con tiempo",
+   "idea": "Ya hay ofertas de Black Friday para esquí. Tiendas de ropa y accesorios de nieve pueden publicar una checklist 'listo para la pista'.",
+   "formato": "TikTok"
   }
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España calienta el Black Friday: las previsiones apuntan a que los españoles gastarán un 10% más por la inflación y la búsqueda de ofertas, y muchas marcas ya adelantan descuentos en tecnología, café y hogar, mientras se multiplican los avisos contra estafas. Hoy hay huelga en Renfe y Rodalies con servicios mínimos, y la vivienda y el supermercado siguen entre las búsquedas más fuertes. En entretenimiento mandan GTA VI (llega esta semana), la serie vertical de Playz y los realities. Funciona el ahorro real, la compra segura y el humor cotidiano.",
+ "lectura": "España calienta motores para el Black Friday del 27 de noviembre: se prevé un gasto navideño un 10 % mayor, hasta unos 1.067 euros por persona, y marcas como Hisense, Incapto o Amazon ya adelantan descuentos. Hoy hay huelga en Renfe con servicios mínimos, lo que afecta a la movilidad en Madrid y Barcelona. En ocio suenan MasterChef Celebrity, Pasapalabra y la serie vertical de Playz; el consumidor quiere ofertas reales, envío gratis y comodidad.",
  "ideas_hoy": [
   {
-   "titulo": "Huelga de trenes, plan B",
-   "idea": "Hoy hay huelga en Renfe y Rodalies con servicios mínimos. Ofrece recogida en tienda, entrega a domicilio o horario ampliado para quien no pueda moverse, con tono majo y sin entrar en el conflicto.",
-   "formato": "Historias Instagram"
+   "titulo": "Huelga de Renfe: te lo llevamos",
+   "idea": "Hoy hay huelga en Renfe y Cercanías recomienda otros medios. Ofrece envío o recogida flexible con un mensaje empático: 'hoy no hace falta que vengas'.",
+   "formato": "Historia Instagram"
   },
   {
-   "titulo": "Black Friday sin timos",
-   "idea": "Se multiplican los avisos de estafas. Haz un carrusel de \"cómo saber que compras en nuestra web oficial\" (dominio, pago seguro, contacto real) y cierra con tu oferta anticipada.",
+   "titulo": "Gasto navideño +10 %",
+   "idea": "Los españoles gastarán un 10 % más esta Navidad, mucho en Black Friday. Publica una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) con envío gratis.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Gastar más, pero mejor",
-   "idea": "Los españoles gastarán un 10% más este Black Friday. Presenta packs con valor claro (\"lo que te ahorras al año\") en café, hogar o cuidado personal.",
-   "formato": "Copy para anuncio"
+   "titulo": "Cestas de Navidad para empresas",
+   "idea": "Hay decenas de anuncios activos de cestas de Navidad para empresas en Meta. Si vendes gourmet o regalos, lanza un formulario de presupuesto rápido para pedidos corporativos.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "El mueble viral para pisos pequeños",
-   "idea": "Un mueble barato de Lidl se hizo viral por ser práctico para casas pequeñas. Tiendas de hogar y organización pueden mostrar tres trucos para ganar espacio con sus productos.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Serie vertical, marca vertical",
-   "idea": "Playz estrenó una serie vertical que mezcla ficción e improvisación. Prueba una mini serie de tres capítulos en vertical contando la historia de tu producto o de un cliente.",
+   "titulo": "Serie vertical, formato vertical",
+   "idea": "La serie vertical de Playz está en tendencia. Cuenta la historia de tu marca en tres capítulos de un minuto en vertical, con un gancho al final de cada uno.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Comercio de barrio vs. Black Friday",
+   "idea": "Comercios locales defienden comprar con criterio frente al Black Friday. Si eres tienda de barrio, comunica tu propuesta: asesoría, cambios fáciles y producto cercano.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "play z",
    "color": "verde",
-   "por_que": "Estreno de una serie vertical que despierta curiosidad.",
-   "idea": "Formatos de mini serie vertical para presentar productos."
+   "por_que": "Interés por una serie vertical de ficción e improvisación.",
+   "idea": "Formatos de microserie vertical para contar tu marca."
   },
   {
    "termino": "renfe",
    "color": "amarillo",
-   "por_que": "Huelga con servicios mínimos que afecta desplazamientos.",
-   "idea": "Mensajes de servicio (entregas, recogida), sin opinar del conflicto."
+   "por_que": "Huelga con servicios mínimos; afecta desplazamientos.",
+   "idea": "Ofrece alternativas de entrega y empatía, sin opinar sobre el conflicto laboral."
   },
   {
    "termino": "vivienda",
    "color": "amarillo",
-   "por_que": "Tema de preocupación por precios y alquiler.",
-   "idea": "Contenido útil de ahorro y organización del hogar; evita prometer soluciones."
+   "por_que": "Debate sobre la falta de vivienda disponible.",
+   "idea": "Contenido útil para inmobiliarias o decoración, evitando posturas políticas."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Interés por precios y ofertas en la compra diaria.",
-   "idea": "Recetas o packs de ahorro con productos propios."
+   "por_que": "Aperturas de supermercados y comparación de precios.",
+   "idea": "Recetas o ideas de ahorro conectadas a tu producto."
   },
   {
    "termino": "twitch",
    "color": "verde",
-   "por_que": "Plataforma de streaming con gran audiencia joven.",
-   "idea": "Colaboraciones con streamers pequeños o directos de producto."
+   "por_que": "Conversación sobre creadores y plataformas de streaming.",
+   "idea": "Colaboraciones con streamers pequeños para directos de producto."
   }
  ],
  "ocultar": [
@@ -96,7 +96,13 @@
   "ketty garat",
   "Los primeros mensajes de la Guardia Civil sobre Marruecos por la entrada en Ceuta: “Los están dejando pasar. No quieren liarse a palos”",
   "Díaz Ayuso: “Todos los proyectos cuentan en esta sociedad pujante de Madrid donde lo importante son la solvencia, el talento y las ganas”",
-  "óscar puente"
+  "óscar puente",
+  "agencia estatal de seguridad ferroviaria",
+  "Yolanda Díaz renuncia a liderar la OIT y carga contra su dirección",
+  "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
+  "El cara a cara de Sánchez y Feijóo deja sin programa a Broncano y Pablo Motos pero Iker Jiménez aguanta",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
  ],
  "audiencias": {
   "general": {
@@ -1079,58 +1085,58 @@
  ],
  "anuncios": [
   {
-   "busqueda": "regalos de Navidad",
-   "total": 2798,
+   "busqueda": "Black Friday envío gratis",
+   "total": 6863,
    "anunciantes": [
     {
-     "nombre": "Dibaq Petcare",
-     "url": "https://www.facebook.com/ads/library/?id=1061501923617370"
+     "nombre": "La Casa del TPV",
+     "url": "https://www.facebook.com/ads/library/?id=1634514021494699"
     },
     {
-     "nombre": "RegaloOriginal.com",
-     "url": "https://www.facebook.com/ads/library/?id=2328274494622974"
+     "nombre": "Marina Cruz",
+     "url": "https://www.facebook.com/ads/library/?id=1166564979235426"
     },
     {
-     "nombre": "El Saco de Navidad",
-     "url": "https://www.facebook.com/ads/library/?id=1128712760152967"
+     "nombre": "Mia Carosso",
+     "url": "https://www.facebook.com/ads/library/?id=1124830923769336"
     },
     {
-     "nombre": "Draw My Pets",
-     "url": "https://www.facebook.com/ads/library/?id=4622815191298845"
+     "nombre": "BAMBI BRAND",
+     "url": "https://www.facebook.com/ads/library/?id=1179259811244865"
     },
     {
-     "nombre": "ViaShop",
-     "url": "https://www.facebook.com/ads/library/?id=1506889117950279"
+     "nombre": "LinguaPods",
+     "url": "https://www.facebook.com/ads/library/?id=1142616031538293"
     }
    ],
-   "patron": "Dominan los regalos personalizados con nombre o foto (sacos de Reyes, retratos de mascotas, copas grabadas) y los regalos para perros y gatos. Muchos anuncian precio de entrada visible ('desde 34,99 €', '16,99 €') y el envío gratis como gancho principal; ya se mezcla la Navidad con los Reyes Magos."
+   "patron": "El Black Friday ya arrancó en Meta diez días antes de la fecha: dominan moda y belleza con mecánicas de volumen ('compra 2, llévate 4', 2x1, regalos incluidos), liquidaciones de fin de temporada y precio cerrado visible ('solo 49,99 €'). También aparecen proveedores B2B que venden a comercios (TPV, papel térmico), y el envío gratis y el pago contra reembolso se usan como argumentos de confianza."
   },
   {
-   "busqueda": "calendario de adviento",
-   "total": 844,
+   "busqueda": "cestas de Navidad empresas",
+   "total": 77,
    "anunciantes": [
     {
-     "nombre": "Beer Republic",
-     "url": "https://www.facebook.com/ads/library/?id=1906264713874816"
+     "nombre": "Mesa y Yantar",
+     "url": "https://www.facebook.com/ads/library/?id=2722970778155546"
     },
     {
-     "nombre": "StoryDoors",
-     "url": "https://www.facebook.com/ads/library/?id=978074021665601"
+     "nombre": "Comesa Canarias S.L.",
+     "url": "https://www.facebook.com/ads/library/?id=2067727150852093"
     },
     {
-     "nombre": "Junior Palace",
-     "url": "https://www.facebook.com/ads/library/?id=1040551199054570"
+     "nombre": "Jamones Monte Dorado",
+     "url": "https://www.facebook.com/ads/library/?id=2422461115161542"
     },
     {
-     "nombre": "KiK_Espana",
-     "url": "https://www.facebook.com/ads/library/?id=1653322116485314"
+     "nombre": "Cortijo Monzón",
+     "url": "https://www.facebook.com/ads/library/?id=1851348879380978"
     },
     {
-     "nombre": "Forumshop1972",
-     "url": "https://www.facebook.com/ads/library/?id=2351885185578384"
+     "nombre": "Campos de Seralba",
+     "url": "https://www.facebook.com/ads/library/?id=1661872322065992"
     }
    ],
-   "patron": "El Adviento en España se vende como experiencia: cuentos infantiles por entregas, figuras con mensajes, cervezas artesanas y lujo de belleza. Los mensajes juegan con la escasez ('¿te vas a quedar sin él?') y con la emoción familiar de abrir una sorpresa cada día."
+   "patron": "Nicho pequeño pero muy B2B: productores de ibéricos, aceite de oliva y gourmet ofrecen cestas para empleados y clientes con 'pide presupuesto gratis' o consulta directa. Se apoyan en tradición, producto personalizado (botellas de aceite con logo) y en valores (comercio justo), con entrega programada antes de Nochebuena."
   }
  ]
 }

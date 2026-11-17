@@ -1,65 +1,53 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El colombiano ya está en modo Black Friday: la fecha oficial es el 27 de noviembre, pero las campañas arrancan esta semana y la prensa insiste en comparar precios y no caer en la compra impulsiva. Muchos aprovechan los descuentos para comprar viajes, y Barranquilla suma noticias de consumo con Expodrinks (más de 18.000 asistentes) y la nueva ruta directa a Nueva York desde febrero. El clima en Bogotá sigue siendo la búsqueda número uno y el reinado nacional de belleza da tema de entretenimiento. Gana quien ayude a decidir rápido: precio final claro, envío incluido y confianza.",
+ "lectura": "A diez días del Black Friday (27 de noviembre) el colombiano ya compara precios: la prensa habla de descuentos anticipados en tecnología, moda, viajes y hasta vivienda, y repite que hay que revisar antes de comprar. El clima en Bogotá sigue siendo la búsqueda más fuerte y en Barranquilla los hoteles están casi llenos por la final de la Sudamericana. Gana quien muestre precio final, fecha de entrega y confianza, y quien aproveche el rumor del 'apagón mundial' con contenido útil y tranquilo.",
  "ideas_hoy": [
   {
-   "titulo": "Tu lista antes del Black Friday",
-   "idea": "Faltan 10 días para el 27 de noviembre y la prensa repite que hay que comparar antes de comprar. Publica un carrusel \"haz tu lista hoy\" con tus 3 productos estrella, el precio actual y el aviso de cuándo bajan, para captar seguidores que vuelvan ese día.",
+   "titulo": "Tu lista antes del 27",
+   "idea": "Faltan diez días para el Black Friday y los medios insisten en comparar antes de comprar. Publica un carrusel 'guarda este post' con tus tres productos estrella, su precio de hoy y el que tendrán ese día, para que te sigan y vuelvan.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Black Friday para viajar",
-   "idea": "Los titulares muestran que muchos colombianos usan los descuentos para pagar tiquetes y planes. Agencias, hoteles y marcas de maletas o accesorios de viaje pueden armar un \"kit viajero\" con preventa y cupo limitado.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "Barranquilla–Nueva York sin escalas",
-   "idea": "Desde el 2 de febrero habrá vuelo directo entre Barranquilla y Nueva York. Marcas de la Costa pueden contar cómo llegarían sus productos a la diáspora en EE. UU. y abrir lista de interesados, sin prometer fechas ni tarifas.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El look del reinado",
-   "idea": "El Concurso Nacional de Belleza pone en tendencia maquillaje, peinados y vestidos. Tiendas de belleza y moda pueden recrear un look de pasarela con productos propios y un \"pídelo por WhatsApp\", con tono alegre y sin comparar cuerpos.",
+   "titulo": "Apagón mundial: lo que sí debes tener",
+   "idea": "El rumor del apagón de 72 horas circula en redes y ya fue desmentido. Haz un video corto que lo aclare sin burlas y recomiende lo básico que siempre conviene tener (power bank, linterna, pilas) con tu producto si aplica.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Clima loco en Bogotá",
-   "idea": "El pronóstico del clima de Bogotá es la búsqueda más fuerte del día. Haz contenido de \"sol a las 10, aguacero a las 3\" mostrando chaquetas, sombrillas o domicilios, con humor rolo y llamado a comprar sin salir.",
-   "formato": "Historias Instagram"
+   "titulo": "Black Friday para viajar",
+   "idea": "La prensa cuenta que los colombianos usan el Black Friday para comprar viajes. Si vendes maletas, ropa térmica o servicios turísticos, publica un 'checklist del viaje de diciembre' con oferta anticipada y fecha límite.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Bogotá: lluvia o sol, tú resuelves",
+   "idea": "El clima es la búsqueda número uno en Bogotá. Publica cada mañana una historia 'clima de hoy' con el producto que le sirve a tu cliente (paraguas, chaqueta, domicilio a casa) y un botón de compra.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Barranquilla llena: vende a visitantes",
+   "idea": "Las reservas hoteleras rozan el 100 % por la final de la Sudamericana. Negocios de comida, transporte y recuerdos pueden lanzar un combo 'visitante en Curramba' con domicilio al hotel y pago fácil.",
+   "formato": "Copy para anuncio"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva diaria por el pronóstico en Bogotá y otras ciudades.",
-   "idea": "Contenido útil del día con producto para lluvia o sol y domicilio."
-  },
-  {
-   "termino": "concurso nacional de belleza",
-   "color": "verde",
-   "por_que": "El reinado de Cartagena genera conversación de moda y belleza.",
-   "idea": "Tutoriales de maquillaje o peinado inspirados en la pasarela, sin juicios sobre las candidatas."
+   "por_que": "Búsqueda masiva diaria por el pronóstico en Bogotá.",
+   "idea": "Contenido útil del día con el producto que sirve para lluvia o sol."
   },
   {
    "termino": "bancos estados unidos",
    "color": "amarillo",
-   "por_que": "Fallas en la banca en línea de grandes bancos de EE. UU. preocupan a quienes reciben o envían dinero desde allá.",
-   "idea": "Si vendes a la diáspora, recuerda otros medios de pago disponibles con tono tranquilo; no generes alarma."
+   "por_que": "Interés por fallas en bancos digitales de EE. UU., relevante para quien recibe o envía dinero desde allá.",
+   "idea": "Explica con calma qué hacer si un pago se retrasa y ofrece alternativas de contacto, sin generar alarma."
   },
   {
-   "termino": "chase",
-   "color": "amarillo",
-   "por_que": "Interrupción técnica en un banco estadounidense que afecta pagos de colombianos en EE. UU.",
-   "idea": "Mensaje de servicio: confirma pedidos pendientes y ofrece pagar después, sin burlas."
-  },
-  {
-   "termino": "nvda",
-   "color": "amarillo",
-   "por_que": "Caída de acciones de Nvidia tras la salida de su CEO; tema financiero volátil.",
-   "idea": "Para marcas de educación financiera, explicar qué es la volatilidad sin recomendar inversiones."
+   "termino": "the economist 2027",
+   "color": "verde",
+   "por_que": "Interés por las tendencias que vienen para 2027.",
+   "idea": "Post de LinkedIn: tres tendencias de 2027 y cómo prepara tu marca o negocio."
   }
  ],
  "audiencias": {
@@ -860,6 +848,76 @@
     "ES": "ni de coña",
     "AR": "ni loco / ni a palos"
    }
+  },
+  {
+   "expresion": "Dar papaya",
+   "significado": "Dar la oportunidad de que algo salga mal o de que se aprovechen de uno, por descuido.",
+   "uso": "Todo el país, todas las edades.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No des papaya: rastrea tu pedido solo en nuestro canal oficial.",
+   "equivalentes": {
+    "EC": "dar boleto / descuidarse",
+    "MX": "dar papaya (poco usado) / dejarse",
+    "ES": "ponérselo a huevo / descuidarse",
+    "AR": "regalarse / dar ventaja"
+   }
+  },
+  {
+   "expresion": "Qué oso",
+   "significado": "Qué vergüenza, situación embarazosa.",
+   "uso": "Muy común entre jóvenes y adultos jóvenes.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Qué oso llegar a la novena sin regalo: pídelo hoy y llega mañana.",
+   "equivalentes": {
+    "EC": "qué chiro / qué vergüenza",
+    "MX": "qué oso",
+    "ES": "qué vergüenza / qué corte",
+    "AR": "qué vergüenza / qué papelón"
+   }
+  },
+  {
+   "expresion": "Estar en la olla",
+   "significado": "Estar mal, sobre todo sin plata o en una situación difícil.",
+   "uso": "Todo el país, conversación cotidiana.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿En la olla antes de la prima? Paga en cuotas sin interés.",
+   "equivalentes": {
+    "EC": "estar chiro",
+    "MX": "estar bruja / andar en la ruina",
+    "ES": "estar sin blanca / estar tieso",
+    "AR": "estar seco / estar en la lona"
+   }
+  },
+  {
+   "expresion": "Qué jartera",
+   "significado": "Qué aburrimiento o qué fastidio.",
+   "uso": "Interior del país, especialmente Bogotá y Antioquia.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Qué jartera hacer fila: compra en línea y recoge en tienda.",
+   "equivalentes": {
+    "EC": "qué pereza / qué hueva",
+    "MX": "qué flojera / qué hueva",
+    "ES": "qué rollo / qué palo",
+    "AR": "qué paja / qué embole"
+   }
+  },
+  {
+   "expresion": "Echar los perros",
+   "significado": "Coquetear o cortejar a alguien.",
+   "uso": "Todo el país, jóvenes y adultos.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "¿Le estás echando los perros? Sorpréndela con un detalle a domicilio.",
+   "equivalentes": {
+    "EC": "caerle / echar los perros",
+    "MX": "tirar la onda / echar los perros",
+    "ES": "tirar los tejos / ligar",
+    "AR": "tirar onda / chamuyar"
+   }
   }
  ],
  "creadores": {
@@ -991,7 +1049,7 @@
   },
   {
    "titulo": "Regalos de la diáspora para Navidad",
-   "senal": "Las búsquedas de Black Friday y fechas de envío crecen en EE. UU. y Colombia a pocas semanas de Navidad.",
+   "senal": "El Black Friday de EE. UU. (27 de noviembre) y el colombiano coinciden este año, y las búsquedas de ofertas anticipadas y fechas de envío crecen en ambos países.",
    "desde": "US",
    "hacia": "CO",
    "sector": "ecommerce",
@@ -999,11 +1057,11 @@
   },
   {
    "titulo": "Sabores navideños colombianos en España",
-   "senal": "La comunidad colombiana en España busca productos de su tradición (natilla, buñuelos, café) en temporada de fin de año.",
+   "senal": "La comunidad colombiana en España busca productos de su tradición (natilla, buñuelos, café) en fin de año, y en Meta hay anuncios activos de cestas de Navidad gourmet para empresas.",
    "desde": "CO",
    "hacia": "ES",
    "sector": "alimentos",
-   "accion": "Validar demanda con contenido de 'Navidad colombiana lejos de casa' y revisar requisitos sanitarios de importación antes de vender."
+   "accion": "Validar demanda de café o dulces colombianos dentro de cestas navideñas (para hogares o empresas) y revisar requisitos sanitarios y de etiquetado antes de vender."
   }
  ],
  "anuncios": [
@@ -1083,6 +1141,10 @@
   "María Fernanda Cabal llevó su carro a un taller y se llevó tremenda sorpresa con lo hallado: “Lo estaban haciendo”",
   "Manifestaciones en Bogotá: agenda del 17 al 22 de noviembre de 2026",
   "Tribunal de Barranquilla alerta por posible reducción salarial de jueces con la reforma tributaria",
-  "“Es la única sede que está en anormalidad académica”: así avanza la asamblea en la U. Nacional de Medellín"
+  "“Es la única sede que está en anormalidad académica”: así avanza la asamblea en la U. Nacional de Medellín",
+  "sinuano noche hoy",
+  "Papa León XIV fue golpeado en la cara con un rosario en medio de su recorrido en Perú",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "Milagro Week: José Manuel Restrepo anuncia que Grupo Plata aumentará su inversión en Colombia a US$400 millones"
  ]
 }

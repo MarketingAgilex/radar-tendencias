@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile ya tiene fecha: el Black Friday parte el viernes 27 de noviembre con cuatro días de ofertas online, y la prensa insiste en revisar si los descuentos son reales y en cuidar las encomiendas frente a estafas de despacho. El dólar tocó los $1.000 por primera vez desde 2025, lo que encarece lo importado, y el clima trae lluvias de hasta 100 mm en el centro-sur. En entretenimiento suena la preventa de Maluma 2027, la lluvia de estrellas Leónidas y el rumor del \"apagón mundial\", que conviene no alimentar. Funciona la transparencia de precios, el despacho seguro y lo hecho en Chile.",
+ "lectura": "El chileno ya tiene fecha: el Black Friday 2026 será desde el viernes 27 de noviembre con cuatro días de ofertas online, y la prensa insiste en proteger las encomiendas y evitar fraudes de despacho. El dólar tocó los $1.000 y eso encarece lo importado, así que el precio en pesos y el costo de envío pesan más que nunca. En entretenimiento suenan la preventa de Maluma, Los Tres y la Teletón; en clima, lluvias en el centro-sur y el bólido que iluminó el cielo.",
  "ideas_hoy": [
   {
-   "titulo": "Tu despacho, seguro",
-   "idea": "La prensa entrega consejos para evitar estafas de despacho en el Black Friday. Haz un carrusel con cómo avisas tus envíos (canal oficial, número de seguimiento, nunca pedir pagos extra por link) y gana confianza, po.",
+   "titulo": "Black Friday Chile: 27 al 30",
+   "idea": "Ya hay fecha oficial de cuatro días. Publica un 'save the date' con tu oferta principal y pide que activen notificaciones para enterarse primero.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "Tu encomienda segura",
+   "idea": "La prensa recomienda cuidarse de fraudes de despacho en Black Friday. Explica en un carrusel cómo rastrear tu pedido, por qué canal te contactas y qué nunca vas a pedir.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Precio real, no inflado",
-   "idea": "Los medios enseñan a comparar precios antes del Black Friday del 27. Muestra hoy el precio de tus productos estrella y promete que ese día será menor: es un gancho para que te guarden.",
+   "titulo": "Dólar a $1.000: precio en pesos",
+   "idea": "Con el dólar en máximos, el cliente teme precios que cambian. Comunica 'precio fijo en pesos hasta el 30 de noviembre' para dar tranquilidad.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Dólar a mil: compra local",
-   "idea": "Con el dólar en $1.000, lo importado sube. Marcas nacionales pueden destacar precio estable y fabricación en Chile, con historias de quién hace el producto.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Noche de Leónidas",
-   "idea": "La lluvia de estrellas Leónidas despierta interés. Cafeterías, tiendas outdoor o de mantas pueden armar un \"kit para mirar el cielo\" con picnic nocturno.",
+   "titulo": "El bólido y tu producto",
+   "idea": "El bólido que se vio de Santiago a Los Ríos fue muy comentado. Haz un TikTok de humor 'cuando ves el bólido y pides un deseo' con tu producto como respuesta.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Maluma 2027 ya vende",
-   "idea": "Comenzó la preventa de Maluma en Chile. Regala entradas o arma un look de concierto con tu producto para conectar con fans, sin usar la imagen del artista sin permiso.",
-   "formato": "Historias Instagram"
+   "titulo": "Maluma en Chile 2027",
+   "idea": "La preventa de Maluma genera búsquedas. Marcas de moda y belleza pueden mostrar 'el look para el concierto' o regalar entradas en un concurso con reglas claras.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido iluminó el cielo de varias regiones y generó videos virales.",
-   "idea": "Contenido curioso de \"¿lo viste?\" para marcas de tecnología, educación o outdoor."
-  },
-  {
-   "termino": "pronóstico del tiempo",
-   "color": "verde",
-   "por_que": "Cambio del calor a lluvias y bajas temperaturas.",
-   "idea": "Producto de temporada (paraguas, parkas, comida caliente) con despacho rápido."
+   "por_que": "Fenómeno visible en gran parte del país; conversación positiva y curiosa.",
+   "idea": "Contenido de curiosidad y humor ligero conectado a 'pedir un deseo'."
   },
   {
    "termino": "línea 5",
    "color": "amarillo",
-   "por_que": "Cierre de estaciones de Metro afecta traslados en Santiago.",
-   "idea": "Mensajes útiles para clientes (retiro en tienda, delivery), sin burlas."
+   "por_que": "Cierre de estaciones del Metro; afecta traslados.",
+   "idea": "Informa horarios y alternativas de retiro o despacho para clientes de la zona."
   },
   {
-   "termino": "tiempo",
-   "color": "amarillo",
-   "por_que": "Lluvias de hasta 100 mm en el centro-sur del país.",
-   "idea": "Contenido de servicio y prevención, con empatía para zonas afectadas."
+   "termino": "pronóstico del tiempo",
+   "color": "verde",
+   "por_que": "Cambio de calor a lluvias en el fin de semana.",
+   "idea": "Productos para clima cambiante y mensajes 'prepárate para el finde'."
   },
   {
    "termino": "apagon mundial",
    "color": "amarillo",
-   "por_que": "Rumor viral sin sustento sobre un apagón de 72 horas.",
-   "idea": "Si lo usas, desmiéntelo con humor suave y consejos prácticos; no alimentes el miedo."
+   "por_que": "Rumor viral ya desmentido sobre un apagón de 72 horas.",
+   "idea": "Desmiéntelo con calma y aprovecha para recomendar lo básico útil, sin miedo."
+  },
+  {
+   "termino": "robert pattinson",
+   "color": "verde",
+   "por_que": "Nuevo James Bond, tema global de cine.",
+   "idea": "Contenido de estilo y eventos de fin de año con guiño a 007."
   }
  ],
  "ocultar": [
@@ -82,7 +82,12 @@
   "pangal",
   "máximo pavez",
   "Padre del subsecretario Pavez será formalizado tras choque que dejó a un hombre en riesgo vital",
-  "Polémica en Chile por premio de poesía que fue anulado por el Ministerio de Cultura"
+  "Polémica en Chile por premio de poesía que fue anulado por el Ministerio de Cultura",
+  "claudio alvarado",
+  "Cadem: Aprobación de Kast cayó al 27% y paro camionero tuvo alto respaldo ciudadano",
+  "Acusación contra Rabat apunta a Kast y pide aclarar si ordenó rebajas de condena",
+  "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
  ],
  "audiencias": {
   "general": {

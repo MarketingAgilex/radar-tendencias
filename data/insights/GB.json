@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido vive pendiente del tiempo: avisos de nieve y hielo y alertas sanitarias por frío disparan las búsquedas del pronóstico. La televisión manda en la conversación con Strictly Come Dancing camino de Blackpool e I'm a Celebrity, y GTA VI llega esta semana con enorme expectativa. En compras, las ofertas tempranas de Black Friday conviven con estacionamiento gratis en centros urbanos para atraer compradores y con un consumidor que usa la IA para elegir pero vigila el gasto final. Funciona el plan de casa calentito, el regalo pequeño con valor claro y el apoyo al comercio local.",
+ "lectura": "Reino Unido entra en semana fría: avisos de nieve y hielo, alertas de salud por frío y lluvias en Londres. La televisión de temporada (Strictly Come Dancing e I'm A Celebrity) concentra la conversación, y GTA VI llega el jueves. En consumo, Amazon extiende su Black Friday a 12 días y los compradores dicen valorar tanto el precio como lo premium: conviene combinar ofertas claras con productos para el frío y regalos de Navidad con fecha de entrega.",
  "ideas_hoy": [
   {
-   "titulo": "Cosy night in",
-   "idea": "Con avisos de nieve y frío, la gente busca planes en casa. Propón un \"cosy night in\" para ver Strictly o I'm a Celebrity con tus productos: mantas, snacks, velas o comida a domicilio.",
+   "titulo": "Cold snap essentials",
+   "idea": "Hay avisos de nieve y alertas de salud por frío. Lanza un 'kit de ola de frío' (ropa térmica, mantas, bebidas calientes) con entrega al día siguiente.",
    "formato": "Reel"
   },
   {
-   "titulo": "Stocking fillers por menos de un tenner",
-   "idea": "Las compras navideñas arrancan con un consumidor atento al gasto final. Arma una selección de regalos pequeños por menos de 10 libras y preséntala como \"stocking fillers\" listos para enviar.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Ven al centro, aparca gratis",
-   "idea": "Varios ayuntamientos ofrecen estacionamiento gratis para impulsar el comercio en los centros urbanos. Si tienes tienda física, avisa de la iniciativa en tu zona y suma un detalle para quien te visite.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Semana GTA VI",
-   "idea": "GTA VI llega esta semana y bate récords de reservas. Marcas de comida, bebidas o tecnología pueden lanzar un \"launch night bundle\" con entrega el día del estreno y humor gamer.",
+   "titulo": "Strictly-style reveal",
+   "idea": "Strictly Come Dancing está en su semana ocho y camino a Blackpool. Presenta tu producto con un 'reveal' de baile o jurado con puntuaciones del 1 al 10.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Luces de Navidad, contenido gratis",
-   "idea": "Las luces navideñas de Carnaby Street están en tendencia. Graba tu producto en una calle iluminada de tu ciudad y conviértelo en idea de regalo con enlace directo de compra.",
-   "formato": "Reel"
+   "titulo": "12 days of Black Friday",
+   "idea": "Amazon extiende su Black Friday a 12 días. Responde con un calendario de 12 ofertas diarias en historias, una por día, para que vuelvan cada mañana.",
+   "formato": "Historia Instagram"
+  },
+  {
+   "titulo": "I'm A Celebrity snack pack",
+   "idea": "El nuevo I'm A Celebrity genera búsquedas de horario. Marcas de snacks y delivery pueden proponer un 'pack de noche de reality' para verlo en casa.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Value or premium?",
+   "idea": "Un informe dice que el comprador británico mezcla búsqueda de valor y gusto por lo premium. Publica un comparativo 'versión básica vs. versión premium' de tu producto con precios claros.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Búsqueda masiva por los avisos de nieve y frío.",
-   "idea": "Contenido práctico de invierno con producto y entrega rápida."
+   "por_que": "Búsqueda masiva por nieve y frío.",
+   "idea": "Productos para el frío con entrega rápida y tono útil."
   },
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "Interés diario por el pronóstico.",
-   "idea": "Producto del día según el tiempo de mañana."
+   "por_que": "Consulta diaria del tiempo.",
+   "idea": "Contenido 'qué ponerse mañana' con tus productos."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "El programa de baile domina la conversación de fin de semana.",
-   "idea": "Looks brillantes, maquillaje o planes de sofá para verlo."
+   "por_que": "Programa de gran audiencia con conversación semanal.",
+   "idea": "Formatos de baile, puntuaciones y encuestas en historias."
   },
   {
-   "termino": "weather",
+   "termino": "what time is im a celebrity on tonight",
    "color": "verde",
-   "por_que": "Alertas por frío y cambios bruscos de temperatura.",
-   "idea": "Consejos de abrigo y hogar cálido con tono amable."
+   "por_que": "Estreno del reality con alto interés.",
+   "idea": "Packs de 'noche de reality' y contenido de humor."
   },
   {
-   "termino": "strictly come dancing week 8 results",
+   "termino": "gta vi map",
    "color": "verde",
-   "por_que": "Resultados semanales con mucha conversación en redes.",
-   "idea": "Encuestas y reacciones ligeras, sin burlarse de concursantes."
+   "por_que": "Gran expectativa por el lanzamiento de GTA VI.",
+   "idea": "Accesorios gamer, snacks y entregas antes del jueves."
   }
  ],
  "audiencias": {
@@ -1182,6 +1182,11 @@
   "Pope hit in the eye by worshipper hurling rosary",
   "Why Starshield limits are hurting Ukraine against jet-powered drones",
   "OpenAI sued by California over 80 ‘loss of control’ incidents",
-  "MP sends people to the parliament he’s not allowed to enter"
+  "MP sends people to the parliament he’s not allowed to enter",
+  "Miliband plays warm-up man for Burnham’s big Brexit speech | John Crace",
+  "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people | Youth unemployment",
+  "Cass report author says she does not support draft conversion practices bill",
+  "Russell Brand investigated over message from behind bars, Downing Street says | ITV News",
+  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)"
  ]
 }

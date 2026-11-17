@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Estados Unidos entra a la semana previa a Thanksgiving (26 de noviembre) con la confianza golpeada por fallas tecnológicas: una caída generalizada de los sistemas de United Airlines, una suspensión nacional de vuelos de la FAA y problemas en la banca en línea de grandes bancos. A la vez, un El Niño fuerte y tormentas de invierno cambian los planes en el oeste. Las ofertas tempranas de Black Friday ya están en todas partes y el Small Business Saturday gana espacio en las comunidades; GTA VI y las nominaciones a los Grammy dominan el entretenimiento. La clave es dar certeza: plan B para viajes y pagos, envíos con fecha y precio final claro.",
+ "lectura": "El consumidor estadounidense entra a la semana previa a Thanksgiving (26 de noviembre) con ofertas anticipadas de Black Friday en Target, Walmart, Best Buy y Nordstrom, pero también con desconfianza: varios reportes cuestionan si los descuentos de Amazon son reales. Las fallas de United Airlines y de bancos en línea, más las tormentas por El Niño en la costa oeste, ponen la confianza y la logística en el centro. Gana quien prometa precio transparente, entrega a tiempo y atención humana.",
  "ideas_hoy": [
   {
-   "titulo": "Plan B para Thanksgiving",
-   "idea": "Tras la caída de sistemas de United y la suspensión de vuelos de la FAA, muchos temen retrasos en su viaje. Publica una guía corta de \"qué llevar si tu vuelo se retrasa\" con productos útiles o envío directo al destino de la familia.",
+   "titulo": "Real deal, no decoy",
+   "idea": "Hay debate sobre descuentos 'inflados' en Black Friday. Publica un comparativo honesto con tu precio de los últimos 30 días y el de la oferta; la transparencia es el gancho.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Paga como prefieras",
-   "idea": "Clientes de grandes bancos reportaron fallas en la banca en línea. Recuerda con tono calmado todos los métodos de pago que aceptas y que puedes apartar el pedido, sin generar alarma.",
-   "formato": "Historias Instagram"
+   "titulo": "Thanksgiving shipping deadline",
+   "idea": "Thanksgiving es el 26 de noviembre y los envíos se saturan. Anuncia la fecha límite para recibir antes del feriado y para enviar regalos a Latinoamérica antes de Navidad.",
+   "formato": "Copy para anuncio"
   },
   {
    "titulo": "Small Business Saturday",
-   "idea": "El sábado después de Thanksgiving las comunidades premian al comercio local. Cuenta quién está detrás de tu negocio y lanza un beneficio exclusivo para clientes del barrio o de la comunidad hispana.",
+   "idea": "Varias ciudades ya promueven el Small Business Saturday (28 de noviembre). Emprendedores hispanos pueden contar su historia en video y ofrecer un beneficio solo para quien compre local ese día.",
    "formato": "Reel"
   },
   {
-   "titulo": "Guía El Niño por región",
-   "idea": "Un El Niño fuerte y tormentas con nieve y lluvia cambian el invierno en el oeste. Haz un video por región con productos de temporada (impermeables, calefacción, cuidado de piel) y la fecha de entrega.",
+   "titulo": "Storm-ready en la costa oeste",
+   "idea": "Olas gigantes y lluvias por El Niño son tendencia en California. Negocios de hogar, ropa impermeable o delivery pueden ofrecer un 'kit de tormenta' con entrega rápida.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Antes y después que enganchan",
-   "idea": "Un barbero de Kentucky y un alfarero que trabaja con su gato se volvieron virales con videos simples de su oficio. Graba tu propio \"antes y después\" o proceso en 15 segundos, sin guion y con sonido real.",
-   "formato": "Reel"
+   "titulo": "Cuando falla el sistema, estamos",
+   "idea": "Las caídas de United y de bancos en línea generaron frustración. Muestra tus canales de atención (WhatsApp, teléfono, chat) y tu promesa de respuesta en minutos.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "united airlines",
    "color": "amarillo",
-   "por_que": "Caída generalizada de sus sistemas con vuelos detenidos; tema de frustración para viajeros.",
-   "idea": "Ofrece soluciones (envíos al destino, kits de viaje) sin burlarte de la aerolínea."
+   "por_que": "Falla generalizada de sistemas que retrasó vuelos; tema de frustración.",
+   "idea": "Comunica tus alternativas y tiempos reales si tu negocio depende de vuelos, sin burlas."
+  },
+  {
+   "termino": "connections hint november 16",
+   "color": "verde",
+   "por_que": "El juego diario del NYT mantiene una audiencia fiel.",
+   "idea": "Crea un mini acertijo semanal de tu marca en historias para generar interacción."
   },
   {
    "termino": "el niño weather",
-   "color": "verde",
-   "por_que": "Un El Niño fuerte cambia el clima esperado del invierno en varias regiones.",
-   "idea": "Contenido útil por región (lluvia, nieve, calor) con producto de temporada."
+   "color": "amarillo",
+   "por_que": "Interés por lluvias y olas fuertes asociadas a El Niño.",
+   "idea": "Contenido de preparación y productos útiles, con tono responsable."
   },
   {
    "termino": "spacex starship rocket launch",
    "color": "verde",
-   "por_que": "Lanzamiento con mucha curiosidad tecnológica.",
-   "idea": "Contenido educativo o creativo de \"misión cumplida\" para marcas de tecnología y educación."
+   "por_que": "Gran interés por el vuelo de prueba de Starship.",
+   "idea": "Post de innovación: 'lo que aprendimos de intentar lo imposible' para marcas tech."
   },
   {
    "termino": "nvidia earnings",
    "color": "amarillo",
-   "por_que": "Caída de acciones tecnológicas y expectativa por resultados de Nvidia.",
-   "idea": "Marcas de finanzas pueden explicar volatilidad de forma educativa, sin recomendar inversiones."
-  },
-  {
-   "termino": "winter storm",
-   "color": "amarillo",
-   "por_que": "Tormentas con nieve en montaña, lluvia intensa y oleaje fuerte en el oeste.",
-   "idea": "Mensajes de preparación y entregas con tono de servicio; evita el sensacionalismo."
+   "por_que": "Volatilidad en acciones tecnológicas y cambios en Nvidia.",
+   "idea": "Contenido educativo sobre IA y productividad; evita recomendaciones de inversión."
   }
  ],
  "audiencias": {
@@ -1021,6 +1021,12 @@
   "Girl reunited with beloved cat after deadly New York City building collapse",
   "County Approved as New Los Angeles Homelessness Response Leader",
   "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
-  "California sues OpenAI over rogue AI hack of Hugging Face"
+  "California sues OpenAI over rogue AI hack of Hugging Face",
+  "grand canyon",
+  "jfk jr",
+  "Pentagon fails ninth straight audit despite progress in organizing finances",
+  "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
+  "State issues warning to Harris County judge from viral video of confrontation with IT tech",
+  "New York City votes to make support for LGBTQ+ veterans a permanent duty"
  ]
 }

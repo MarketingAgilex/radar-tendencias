@@ -1,65 +1,65 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-17T01:04:19Z",
+ "actualizado": "2026-11-17T05:03:22Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador sigue con lluvias fuertes en Guayaquil, Daule y Samborondón, con calles anegadas y cortes de luz, mientras El Niño golpea la producción de cacao. En consumo destaca que la venta de camionetas creció 33% con modelos ensamblados en el país, y el Black Friday del 27 de noviembre (Cyber Monday el 30) ya domina las búsquedas de ofertas en tecnología, moda y belleza. El país lanzó además una estrategia de comercio justo 2026-2035 para impulsar exportaciones. Funciona el contenido útil para la lluvia, ofertas claras con costo final y el orgullo por lo hecho en Ecuador.",
+ "lectura": "Las lluvias en Guayaquil, Daule y Samborondón (calles anegadas y cortes de luz) y el pronóstico de más precipitaciones marcan el día a día del ecuatoriano. En entretenimiento suenan Don Omar con conciertos en 2027, la Quito Fashion Week y las telenovelas de Telemundo. Black Friday y Navidad ya aparecen en las noticias de consumo: conviene hablar de compras seguras, entrega garantizada aunque llueva y regalos con fecha.",
  "ideas_hoy": [
   {
-   "titulo": "Plan lluvia en Guayaquil",
-   "idea": "Las lluvias dejan calles anegadas y cortes de luz en Guayaquil y alrededores. Comparte cómo pedir a domicilio, horarios ajustados y productos útiles (impermeables, linternas, regletas con protección), con tono empático y sin bromas.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Hecho en Ecuador que se vende",
-   "idea": "La venta de camionetas crece 33% con modelos ensamblados en el país. Cuenta en un video quién hace tu producto y dónde: el orgullo local genera confianza, ñaño.",
+   "titulo": "Llueve en Guayaquil: llegamos igual",
+   "idea": "Las lluvias y calles anegadas son noticia en Guayaquil y Samborondón. Publica un video corto de tu equipo entregando bajo la lluvia con el mensaje 'llueva o truene, tu pedido llega' y un horario claro.",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday con costo final",
-   "idea": "El Black Friday cae el 27 y Cyber Monday el 30 de noviembre. Publica desde ya tu precio final con envío incluido y un recordatorio para activar notificaciones: la gente desconfía de los descuentos inflados.",
+   "titulo": "Kit de temporada de lluvias",
+   "idea": "Con cortes de luz y lluvias, sube la necesidad de linternas, cargadores portátiles, impermeables y botas. Arma un combo y anúncialo con precio final y entrega a domicilio.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Don Omar 2027: regalo que emociona",
+   "idea": "La preventa de Don Omar en Quito y Guayaquil genera conversación. Negocios de moda, accesorios o experiencias pueden proponer 'el outfit del concierto' o regalar entradas como premio de un sorteo.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Quito Fashion Week y diseño local",
+   "idea": "La tercera edición de la Quito Fashion Week reúne a 31 diseñadores con el concepto 'Raíces'. Las marcas de moda y artesanía pueden mostrar su lado de origen y proceso con un carrusel de 'hecho en Ecuador'.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Comercio justo con historia",
-   "idea": "Ecuador lanzó una estrategia de comercio justo para impulsar exportaciones. Productores de cacao, café o artesanía pueden explicar en LinkedIn su trazabilidad y a quién benefician, para atraer compradores y aliados.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "El look del nuevo 007",
-   "idea": "Robert Pattinson será el nuevo James Bond y sigue en tendencia. Marcas de moda, perfumería o relojería pueden hacer un \"look de agente\" con productos propios y llamado a escribir por WhatsApp.",
-   "formato": "TikTok"
+   "titulo": "Black Friday sin cuentos",
+   "idea": "Los medios publican consejos para comprar en Black Friday. Haz un post con 'cinco señales de una oferta real' y cierra con tu promoción transparente: precio antes, precio ahora y envío.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
+   "termino": "telemundo",
+   "color": "amarillo",
+   "por_que": "Interés por el regreso de una telenovela de acción; el tema central no es apto para marcas.",
+   "idea": "Habla de 'maratón de novelas' con snacks o comodidad, sin referirte a la trama."
+  },
+  {
+   "termino": "ciclón",
+   "color": "amarillo",
+   "por_que": "Pronóstico de lluvias fuertes en la región.",
+   "idea": "Contenido útil de preparación (kit de lluvias) sin alarmismo."
+  },
+  {
    "termino": "robert pattinson",
    "color": "verde",
-   "por_que": "Anunciado como nuevo James Bond: tema de entretenimiento global.",
-   "idea": "Looks, regalos o \"misiones\" de compra con tono de cine."
+   "por_que": "Anuncio del nuevo James Bond, conversación global de cine.",
+   "idea": "Contenido de estilo 'look de agente 007' para moda masculina o eventos de fin de año."
   },
   {
    "termino": "puerto santa ana",
    "color": "amarillo",
-   "por_que": "Zona de Guayaquil afectada por lluvias y cortes de luz.",
-   "idea": "Solo mensajes de servicio: horarios, domicilios y productos útiles, con empatía."
+   "por_que": "Búsquedas por calles anegadas y cortes de luz en Guayaquil.",
+   "idea": "Informa horarios de entrega y alternativas de retiro; evita bromas sobre la situación."
   },
   {
    "termino": "florida norte",
    "color": "amarillo",
-   "por_que": "Barrio de Guayaquil con calles anegadas por las lluvias.",
-   "idea": "Información práctica para clientes de la zona; evita humor."
-  },
-  {
-   "termino": "camioneta",
-   "color": "verde",
-   "por_que": "Ventas de camionetas crecen 33% con modelos ensamblados en Ecuador.",
-   "idea": "Accesorios, seguros, lavado o financiamiento con mensaje de orgullo local."
-  },
-  {
-   "termino": "fiscal",
-   "color": "amarillo",
-   "por_que": "Término ambiguo; las noticias asociadas son financieras y poco ligadas al consumo.",
-   "idea": "Evita usarlo en anuncios; si hablas de impuestos, sé educativo y neutral."
+   "por_que": "Mismo evento de lluvias en el norte de Guayaquil.",
+   "idea": "Mensajes de servicio y empatía con clientes de la zona."
   }
  ],
  "audiencias": {
@@ -1086,6 +1086,9 @@
   "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
   "Ecuador and Morocco Advance on Visa Agreement and Bilateral Trade",
   "Confirman en Ecuador condena de prisión para hijo de exvicepresidenta",
-  "María José Pinto entregó ayuda social en sectores de Puerto Quito, en Pichincha"
+  "María José Pinto entregó ayuda social en sectores de Puerto Quito, en Pichincha",
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag"
  ]
 }
