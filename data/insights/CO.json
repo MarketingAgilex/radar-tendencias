@@ -1,32 +1,32 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Colombia cierra el puente festivo de la Independencia de Cartagena con plan retorno, pico y placa regional y la coronación de Señorita Colombia, mientras la conversación de consumo ya gira por completo hacia el Black Friday del 27 de noviembre. Los medios insisten en comprar con cabeza (precios reales, metas de ahorro, compras seguras) y comparan a Mercado Libre con Temu, así que el consumidor llega desconfiado pero con ganas. También circula el rumor de un 'apagón mundial' el 17 de noviembre, ya desmentido, y crece la expectativa por GTA VI. Gana quien muestre el precio final claro, entregas antes de Navidad y un tono tranquilo que ayude a decidir.",
+ "lectura": "El colombiano ya está en modo Black Friday: la fecha oficial es el 27 de noviembre, pero las campañas arrancan esta semana y la prensa insiste en comparar precios y no caer en la compra impulsiva. Muchos aprovechan los descuentos para comprar viajes, y Barranquilla suma noticias de consumo con Expodrinks (más de 18.000 asistentes) y la nueva ruta directa a Nueva York desde febrero. El clima en Bogotá sigue siendo la búsqueda número uno y el reinado nacional de belleza da tema de entretenimiento. Gana quien ayude a decidir rápido: precio final claro, envío incluido y confianza.",
  "ideas_hoy": [
   {
-   "titulo": "Checklist anti-afán de Black Friday",
-   "idea": "Los titulares de consumo piden hacerse preguntas antes de comprar. Publica una lista de 5 preguntas (¿lo necesito?, ¿cuánto costaba antes?, ¿cuándo me llega?) y cierra con tu oferta con precio final, sin letra pequeña. Eso genera confianza, parce.",
+   "titulo": "Tu lista antes del Black Friday",
+   "idea": "Faltan 10 días para el 27 de noviembre y la prensa repite que hay que comparar antes de comprar. Publica un carrusel \"haz tu lista hoy\" con tus 3 productos estrella, el precio actual y el aviso de cuándo bajan, para captar seguidores que vuelvan ese día.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "De regreso del puente",
-   "idea": "Millones de carros vuelven hoy a Bogotá y Medellín tras el festivo. Un video corto de \"lo que se te olvidó en el viaje\" (cargadores, bloqueador, snacks) con entrega a domicilio mañana conecta con el momento.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Lo del apagón, explicado en 30 segundos",
-   "idea": "El rumor del apagón mundial del 17 de noviembre está desmentido, pero mucha gente lo busca. Marcas de tecnología o energía pueden aclararlo sin alarmar y aprovechar para recomendar una power bank o una linterna recargable \"por si acaso, no por miedo\".",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El consumidor paisa es amarrado",
-   "idea": "Un empresario contó que el consumidor de Medellín cuida mucho el bolsillo y sale menos de noche. Si vendes allá, prueba combos de valor y domicilios temprano en la tarde, con un copy que hable de \"rinde más\" en lugar de \"lujo\".",
+   "titulo": "Black Friday para viajar",
+   "idea": "Los titulares muestran que muchos colombianos usan los descuentos para pagar tiquetes y planes. Agencias, hoteles y marcas de maletas o accesorios de viaje pueden armar un \"kit viajero\" con preventa y cupo limitado.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Cuenta regresiva para GTA VI",
-   "idea": "GTA VI ya tiene álbum con Lana Del Rey y Dua Lipa y su lanzamiento se siente cerca. Tiendas de tecnología, snacks y domicilios pueden armar el \"kit noche de juego\" con preventa y entrega el día del lanzamiento.",
+   "titulo": "Barranquilla–Nueva York sin escalas",
+   "idea": "Desde el 2 de febrero habrá vuelo directo entre Barranquilla y Nueva York. Marcas de la Costa pueden contar cómo llegarían sus productos a la diáspora en EE. UU. y abrir lista de interesados, sin prometer fechas ni tarifas.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "El look del reinado",
+   "idea": "El Concurso Nacional de Belleza pone en tendencia maquillaje, peinados y vestidos. Tiendas de belleza y moda pueden recrear un look de pasarela con productos propios y un \"pídelo por WhatsApp\", con tono alegre y sin comparar cuerpos.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Clima loco en Bogotá",
+   "idea": "El pronóstico del clima de Bogotá es la búsqueda más fuerte del día. Haz contenido de \"sol a las 10, aguacero a las 3\" mostrando chaquetas, sombrillas o domicilios, con humor rolo y llamado a comprar sin salir.",
    "formato": "Historias Instagram"
   }
  ],
@@ -34,20 +34,32 @@
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva del pronóstico durante el festivo y el retorno.",
-   "idea": "Contenido útil de \"qué llevar hoy\" según la ciudad, con producto de temporada (sombrillas, chaquetas, bloqueador)."
+   "por_que": "Búsqueda masiva diaria por el pronóstico en Bogotá y otras ciudades.",
+   "idea": "Contenido útil del día con producto para lluvia o sol y domicilio."
   },
   {
-   "termino": "supuesto apagón mundial",
-   "color": "amarillo",
-   "por_que": "Rumor viral ya desmentido por medios y verificadores.",
-   "idea": "Solo contenido que aclare y tranquilice; nunca uses el miedo como gancho de venta."
-  },
-  {
-   "termino": "rockstar",
+   "termino": "concurso nacional de belleza",
    "color": "verde",
-   "por_que": "Crece la conversación por GTA VI y su álbum con artistas pop.",
-   "idea": "Kits gamer, preventas y planes de \"noche de lanzamiento\" con amigos."
+   "por_que": "El reinado de Cartagena genera conversación de moda y belleza.",
+   "idea": "Tutoriales de maquillaje o peinado inspirados en la pasarela, sin juicios sobre las candidatas."
+  },
+  {
+   "termino": "bancos estados unidos",
+   "color": "amarillo",
+   "por_que": "Fallas en la banca en línea de grandes bancos de EE. UU. preocupan a quienes reciben o envían dinero desde allá.",
+   "idea": "Si vendes a la diáspora, recuerda otros medios de pago disponibles con tono tranquilo; no generes alarma."
+  },
+  {
+   "termino": "chase",
+   "color": "amarillo",
+   "por_que": "Interrupción técnica en un banco estadounidense que afecta pagos de colombianos en EE. UU.",
+   "idea": "Mensaje de servicio: confirma pedidos pendientes y ofrece pagar después, sin burlas."
+  },
+  {
+   "termino": "nvda",
+   "color": "amarillo",
+   "por_que": "Caída de acciones de Nvidia tras la salida de su CEO; tema financiero volátil.",
+   "idea": "Para marcas de educación financiera, explicar qué es la volatilidad sin recomendar inversiones."
   }
  ],
  "audiencias": {
@@ -1051,101 +1063,21 @@
   }
  ],
  "ocultar": [
-  "ricardo roa",
-  "dirección nacional de inteligencia",
-  "congreso de la república de colombia",
-  "base aérea de raf lakenheath",
-  "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "daren",
   "justicia",
-  "toma del palacio de justicia",
-  "yamid amat",
-  "intolerancia",
-  "Super Astro Luna de hoy, sábado 14 de noviembre: consulte el número ganador y el signo zodiacal",
-  "aeropuerto internacional de miami",
   "ufc",
-  "villavicencio",
-  "el espectador",
-  "El escándalo de Jensen Huang deja a Nvidia con una pregunta: ¿quién financia ahora a la IA?",
-  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Gerson Bermont, el secretario de Salud que quiere una Bogotá sanadora",
-  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
-  "María Fernanda Cabal llevó su carro a un taller y se llevó tremenda sorpresa con lo hallado: “Lo estaban haciendo”",
-  "“El daño ya está hecho”: Arlene Tickner, sobre relaciones con EE. UU.",
-  "fragata",
-  "ley",
-  "Atentados con explosivos en Colombia EN VIVO: video muestra el momento en que abandonan carro y explota en peaje de Pipiral, vía Bogotá-Villavicencio",
-  "Defensoría alerta de posibles retaliaciones contra civiles tras captura de alias “Primo Gay”",
-  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
-  "Peligro infantil en TikTok | Noticias UNO -",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
-  "Manifestaciones en Bogotá: agenda del 10 al 15 de noviembre de 2026",
-  "Revancha cayó en Medellín: jugador ganó $5.600 millones",
-  "Acumulado de Revancha de $5.600 millones cayó por primera vez en Medellín",
-  "Desmontan valla publicitaria en defensa de ‘Juancho Kily’ en Puerto Colombia",
-  "La hora de Uribe",
-  "Bessent exige cambios en Nvidia y pide explicaciones por sus ventas a China",
-  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
-  "Los ucranianos desplazados realizan viajes repetidos a casa mientras persisten los obstáculos para el retorno",
-  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "yate",
   "suspenden vuelos eeuu",
-  "emiro",
-  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
-  "Megaspeed rompe el silencio sobre Alice Huang, la supuesta espía china en el centro del escándalo que sacude a Nvidia: ‘No desempeña ningún cargo’",
-  "Rescatan en Medellín a un tucán tras ocho meses de cautiverio y con las alas cortadas",
-  "Cayó Revancha en Medellín: jugador ganó $5.600 millones con un tiquete comprado por internet",
-  "Maestros en Caldas exigen mejoras en sistema de salud y anuncian plantones la próxima semana",
-  "RTVC fortalece los medios públicos: más patrimonio, información y deporte para Colombia #Másde100Milagros",
-  "Más de 150 mujeres y niñas convierten el deporte en un altavoz contra la violencia machista en Palma",
-  "BENEDETTI INAUGURÓ LA 34.ª FERIA NACIONAL DE ARTESANÍAS Y REAFIRMÓ SU COMPROMISO CON LA CULTURA Y EL DESARROLLO DE ARROYITO",
-  "Los 'milagros' en educación: obras por $337.000 millones, alivio a 235.000 usuarios del Icetex y auditoría al Fomag",
-  "El Milagro de la educación que no se detiene",
-  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
-  "La pugna por la norma ambiental que regirá para los autos en 2027: la industria presiona para aplazarla y 90 expertos, entre ellos el exministro Juan Carlos Muñoz, salen a defenderla",
-  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "Cómo se hizo el anuncio de Scott Colom «elige otra proteína»",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "Devolvió un televisor de $30.000 y la Justicia ordenó que le paguen más de $5,5 millones",
-  "Atentados con explosivos contra peajes en la vía al Llano y Huila: esto se sabe",
-  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
-  "Jenny López, esposa de Jhonny Rivera, habló sobre la dolorosa pérdida que vivieron sus padres y que dio un giro en su hogar",
   "sinuano noche",
-  "“EPM es y tiene que seguir siendo cien por ciento pública”: Manuel Villa | El Colombiano",
-  "“Nuevo cambio de postura”: Rodrigo Lara le cobra a Claudia López su cambio de opinión sobre el metro de Bogotá",
-  "Se conocen nuevos detalles del supuesto plan en la DNI para alterar los resultados y favorecer a Iván Cepeda | El Colombiano",
-  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
-  "Incautan casi tres toneladas de cocaína ocultas en banano y café con destino a Bélgica",
-  "Descubrieron 2,5 millones de dosis de cocaína encaletadas en un contenedor de café | El Colombiano",
-  "EE.UU. exigió explicaciones a Nvidia por presunto desvío de chips de inteligencia artificial a China",
-  "Denuncian que cinco perros fueron quemados en Santa Rosa",
-  "El Ministerio de Educación pondrá ‘bajo la lupa’ a la Universidad del Magdalena por el posgrado de Jaime Vives: revisarán cómo obtuvo el título",
-  "Alcantarillado, vías rurales, educación e inseguridad, entre las principales preocupaciones de Ponedera: Isabella Pulgar",
-  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
-  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
-  "caribeña noche hoy",
-  "semana",
   "15 de noviembre",
   "vuelos suspendidos estados unidos",
-  "Andrea Ramírez, la intocable en el caso UNGRD, declaró en otro proceso por cupos indicativos",
-  "Aviones chocan en un cruce de pistas de Miami un día después de la suspensión nacional de vuelos",
-  "Actor de ‘El patrón del mal’ reveló incómoda experiencia con Vicky Hernández: “Me sentí…”",
   "Bogotá alerta por aumento de muertes prematuras por diabetes y llama a fortalecer el diagnóstico y control médico",
-  "acusación",
-  "alejandro ordóñez",
-  "Juez legalizó captura de alias ‘Primo Gay’, señalado por graves crímenes, pero ordenó investigar lo ocurrido tras su detención: ¿qué pasó?",
   "Operativo en la comuna 1 de Medellín dejó cinco capturados e incautación de un arma de fuego",
-  "Personería abrió investigación por presunta corrupción en Secretaría de Hacienda de Medellín",
   "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
-  "Revelan video inédito de la casa de Mauricio Leal y la lista completa de sus propiedades con precios",
-  "Astro Luna de hoy, domingo 15 de noviembre: consulte el número ganador y el signo zodiacal",
-  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
-  "Tribunal de Barranquilla alerta por posible reducción salarial de jueces con la reforma tributaria",
-  "En Medellín han identificado 56 procesos con presuntas irregularidades; hay sancionados"
+  "Indepaz: 45 líderes sociales asesinados en primeros 100 días de Abelardo",
+  "Por qué están atacando los peajes en Colombia: van siete atentados en noviembre",
+  "Un rosario lanzado desde la multitud golpeó al papa León XIV en Perú: el Vaticano se pronunció",
+  "Wilfrido Vargas pierde batalla legal por 'El baile del perrito': deberá pagar millonaria indemnización por la coautoría",
+  "Hallan en Sitionuevo el cuerpo de hombre que había desaparecido en Barranquilla"
  ]
 }

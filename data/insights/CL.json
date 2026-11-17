@@ -1,158 +1,84 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Chile se prepara para el Black Friday del 27 al 30 de noviembre, cuatro días de ofertas online, con un dólar que cerró en $1.000 y advertencias sobre suplantación de identidad y descuentos falsos, así que el consumidor comparará más que nunca. El cielo también está de moda: un bólido iluminó varias regiones, se confirmó un meteorito lunar en Atacama y vienen las Leónidas. El clima cambia entre calor y lluvias fuertes en el centro-sur, y en Santiago hay cierres en la Línea 5 del Metro. Lo que conecta: ofertas verificables, contenido curioso y útil, y tono cercano.",
+ "lectura": "Chile ya tiene fecha: el Black Friday parte el viernes 27 de noviembre con cuatro días de ofertas online, y la prensa insiste en revisar si los descuentos son reales y en cuidar las encomiendas frente a estafas de despacho. El dólar tocó los $1.000 por primera vez desde 2025, lo que encarece lo importado, y el clima trae lluvias de hasta 100 mm en el centro-sur. En entretenimiento suena la preventa de Maluma 2027, la lluvia de estrellas Leónidas y el rumor del \"apagón mundial\", que conviene no alimentar. Funciona la transparencia de precios, el despacho seguro y lo hecho en Chile.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday con precio real",
-   "idea": "Los medios enseñan a revisar si los descuentos son reales. Publica el historial de precios de tus productos estrella y promete que el precio del Black Friday será el más bajo del año. Eso es bacán para la confianza.",
+   "titulo": "Tu despacho, seguro",
+   "idea": "La prensa entrega consejos para evitar estafas de despacho en el Black Friday. Haz un carrusel con cómo avisas tus envíos (canal oficial, número de seguimiento, nunca pedir pagos extra por link) y gana confianza, po.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Noche de Leónidas",
-   "idea": "La lluvia de estrellas Leónidas y el bólido visto en varias regiones tienen a todos mirando al cielo. Cafeterías, tiendas de camping y ópticas pueden armar un \"kit para ver estrellas\" con mantita, termo y snacks.",
+   "titulo": "Precio real, no inflado",
+   "idea": "Los medios enseñan a comparar precios antes del Black Friday del 27. Muestra hoy el precio de tus productos estrella y promete que ese día será menor: es un gancho para que te guarden.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Dólar a mil: compra local",
+   "idea": "Con el dólar en $1.000, lo importado sube. Marcas nacionales pueden destacar precio estable y fabricación en Chile, con historias de quién hace el producto.",
    "formato": "Reel"
   },
   {
-   "titulo": "Con el dólar a mil",
-   "idea": "El dólar llegó a $1.000. Si importas, explica en 30 segundos por qué conviene comprar ahora o qué productos mantienen su precio, sin hacer predicciones financieras.",
+   "titulo": "Noche de Leónidas",
+   "idea": "La lluvia de estrellas Leónidas despierta interés. Cafeterías, tiendas outdoor o de mantas pueden armar un \"kit para mirar el cielo\" con picnic nocturno.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Línea 5 cerrada, tu delivery no",
-   "idea": "Metro informa cierres de estaciones en la Línea 5. Negocios del sector pueden avisar que siguen atendiendo con despacho o retiro en tienda y cómo llegar.",
+   "titulo": "Maluma 2027 ya vende",
+   "idea": "Comenzó la preventa de Maluma en Chile. Regala entradas o arma un look de concierto con tu producto para conectar con fans, sin usar la imagen del artista sin permiso.",
    "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Cantar con el corazón",
-   "idea": "Un ejecutivo que cantó en la Teletón se volvió viral. Muestra a alguien de tu equipo con un talento oculto: humaniza la marca y genera conversación.",
-   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "bólido",
    "color": "verde",
-   "por_que": "Un bólido iluminó el cielo desde la Región Metropolitana hasta Los Ríos.",
-   "idea": "Contenido curioso y productos para observar el cielo."
+   "por_que": "Un bólido iluminó el cielo de varias regiones y generó videos virales.",
+   "idea": "Contenido curioso de \"¿lo viste?\" para marcas de tecnología, educación o outdoor."
   },
   {
    "termino": "pronóstico del tiempo",
    "color": "verde",
-   "por_que": "Cambios bruscos entre calor y lluvia.",
-   "idea": "Recomendaciones de \"qué ponerse\" y productos para ambos climas."
+   "por_que": "Cambio del calor a lluvias y bajas temperaturas.",
+   "idea": "Producto de temporada (paraguas, parkas, comida caliente) con despacho rápido."
   },
   {
    "termino": "línea 5",
    "color": "amarillo",
-   "por_que": "Cierre de estaciones de Metro que afecta traslados.",
-   "idea": "Información de servicio y delivery; no hagas chistes con las molestias."
+   "por_que": "Cierre de estaciones de Metro afecta traslados en Santiago.",
+   "idea": "Mensajes útiles para clientes (retiro en tienda, delivery), sin burlas."
   },
   {
    "termino": "tiempo",
    "color": "amarillo",
-   "por_que": "Hasta 100 mm de lluvia en el centro-sur.",
-   "idea": "Consejos prácticos e impermeables; tono empático con las zonas afectadas."
+   "por_que": "Lluvias de hasta 100 mm en el centro-sur del país.",
+   "idea": "Contenido de servicio y prevención, con empatía para zonas afectadas."
   },
   {
    "termino": "apagon mundial",
    "color": "amarillo",
-   "por_que": "Rumor viral sobre un apagón el 17 de noviembre, sin pruebas.",
-   "idea": "Solo para aclarar y tranquilizar; no vendas con miedo."
+   "por_que": "Rumor viral sin sustento sobre un apagón de 72 horas.",
+   "idea": "Si lo usas, desmiéntelo con humor suave y consejos prácticos; no alimentes el miedo."
   }
  ],
  "ocultar": [
   "desalojo",
-  "jesús owono",
-  "estafa",
-  "maria camila pantoja",
-  "ximena lincolao",
   "mauricio pinilla",
-  "acuerdo",
-  "alerta roja",
-  "cámara baja",
-  "justicia",
-  "afp uno",
-  "Empleo público, seis reformas para superar un modelo agotado",
   "ovalle",
-  "frente amplio",
-  "Digamos que se llamaba Josefina: un relato de Jaime Bayly",
-  "Bahréin emite una alerta e insta a sus ciudadanos a dirigirse a lugares seguros",
-  "nvidia jensen huang",
-  "Patada voladora y roja directa: la brutal entrada de un juvenil de Atlético Tucumán que se hizo viral",
-  "\"Soy un pedazo de mierda\": Jensen Huang se sincera tras bochorno de Nvidia",
-  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Conductor drogado chocó varios autos y atacó a carabineros con un chuzo y una barretilla",
-  "Cuando la negación agrava la catástrofe: presentar como combatientes a los niños asesinados en Gaza",
-  "Exdirector de la Secom llama a unir al progresismo \"desde la DC al PC\" y cuestiona diseño comunicacional de Kast",
-  "Gira de Kast por Asia busca fortalecer exportaciones chilenas y relación comercial con China",
-  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
-  "Kast no tiene uno sino seis problemas",
-  "La pugna por la norma ambiental que regirá para los autos en 2027: la industria presiona para aplazarla y 90 expertos, entre ellos el exministro Juan Carlos Muñoz, salen a defenderla",
-  "Lancha se hunde en Caleta El Membrillo de Valparaíso: 15 personas fueron rescatadas",
-  "[NOTIFICACIÓN] Juzgado de Familia de San Antonio: Alimentos RIT C-642-2025 «Vera / Cáceres»",
   "franco parisi",
-  "Franco Parisi: “Lo que yo he conversado, sí, hay una mayoría en el PDG a favor de la acusación a Rabat”",
-  "Kast toca fondo en Criteria: apenas 18% lo aprueba y 79% rechaza que mantenga a Rabat",
-  "Senapred activa mensajería SAE y solicita evacuar sectores de Ovalle tras desborde de dos ríos",
-  "Los \"niños aztecas\" : dos hermanos salvadoreños obligados a casarse en el interés del espectáculo",
-  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
-  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
-  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
-  "Peligro infantil en TikTok | Noticias UNO -",
-  "Luzu TV vs 412: día, hora y canal TV en Perú de la revancha de ‘El Gran Partido del Streaming’",
-  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
-  "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
-  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "Kast inicia gira por Asia en Vietnam con foco en ampliar el intercambio comercial y las exportaciones chilenas",
-  "jubilación",
   "Kast baja por primera vez del 20% de popularidad, desfondado por el caso Rabat y las concesiones a los camioneros",
-  "Estonia cerrará su frontera con Rusia tras denunciar intento de sabotaje",
-  "Irán reporta hundimiento de superpetrolero tras explosiones de minas navales en estrecho de Ormuz",
-  "Colegio de Profesores se suma a marcha contra el sistema de AFP en Chile",
-  "Intentó dejar de pagar pensión de alimentos alegando que solo debía 2 meses: Corte acreditó 3 y rechazó su demanda",
-  "Centro de Salud Integral Salvador Allende: 20 años de compromiso solidario con Venezuela",
-  "Actualizan estado de salud de Mauricio Pinilla: Revelan qué ocurrió antes de su paso por Vértigo",
-  "Jhendelyn Núñez revela delicado diagnóstico de salud: 'Llevo 27 años de mi vida normalizando dolores'",
-  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
-  "Corrida MagiK convocó a más de 9 mil personas en una jornada familiar por los niños y adolescentes con cáncer",
-  "Coqueluche en Chile: Coquimbo suma 352 casos notificados y crece la preocupación por los bebés",
-  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
-  "Carabineros detiene a un hombre y recupera dos autos robados y tres chasis",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
-  "Conductor atropella a siete ciclistas del Team Rengo en ruta de O’Higgins: tres quedaron con lesiones graves",
-  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
-  "Investigan a Megaspeed por posible desvío de chips Nvidia a China: Compras superan los US$4.000 millones",
-  "Quién es quién: los aspirantes que este lunes expondrán ante la Corte para quedarse con el puesto de fiscal regional de Valparaíso",
-  "coordinadora no más afp",
-  "premio",
-  "ufc",
-  "Kast aterriza en Vietnam e inicia gira por Asia con candidatura de Valparaíso entre sus prioridades",
-  "Reunión con Kast, almuerzo en Viñedo Chadwick y cóctel en el Club de Golf: la agenda de Jamie Dimon en Chile",
-  "Dramático rescate en Melipilla: familia con dos niños queda aislada por crecida del río Maipo y debe ser evacuada",
-  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
   "estrecho",
-  "Kast deposita ofrenda floral a Ho Chi Minh en Vietnam: años antes, lo tildó de \"asesino en serie\"",
-  "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”",
-  "Entre promesas y pañales: la eterna espera de las familias chilenas por una sala cuna universal",
-  "Amparo económico rechazado por licitación de buses en Santiago",
-  "Quiroz defiende concesiones a camioneros por US$700 millones pese a discurso de austeridad",
-  "Jorge Quiroz: “Para Hacienda siempre va a haber un dolorcillo de guata cuando se abre la billetera más allá de lo que se previó”",
-  "Informe anual de DDHH y “ley mordaza” a la prensa: “sería inconstitucional”",
-  "Soldados franceses operan en secreto en Ucrania desde hace meses, según reveló un reportaje de RFI",
-  "El 68% de los chilenos apoya la acusación constitucional contra Fernando Rabat, según Criteria",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Acusación impredecible: los votos en suspenso que pueden salvar o condenar a Rabat",
-  "Papá de subsecretario Máximo Pavez queda en prisión preventiva",
-  "“Inconsecuente y mentiroso”: Inspector Vallejo reacciona a comentada imagen de Kast y lamenta haberle dado su voto",
-  "Reforma tributaria: empresas sinceran pérdidas y beneficios contables por la rebaja del impuesto corporativo",
-  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok"
+  "máximo pavez cerda",
+  "daniel manouchehri",
+  "pinilla",
+  "“Voy a votar afirmativamente la acusación contra Rabat”: Jiles cambia postura y adelanta que 12 PDG apoyarían el libelo",
+  "Por unanimidad: Comisión de Hacienda de la Cámara aprueba en general y particular proyecto de ley para frenar alza de combustibles",
+  "Prisión preventiva para padre de subsecretario Pavez tras chocar ebrio en Lampa",
+  "Este es el reajuste que está solicitando la CUT para el sector público",
+  "Quién es Aldo Ulloa, el jinete que desapareció tras ir al río Maipo con sus dos yeguas",
+  "Cómo Israel cargó 3,5 millones de fotografías en plataforma de Amazon para rastrear a palestinos"
  ],
  "audiencias": {
   "general": {

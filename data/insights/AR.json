@@ -1,154 +1,79 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Argentina está pendiente del cielo: un ciclón y el 'Súper Niño' traen lluvias intensas entre el lunes 16 y el viernes 20, con alertas en media país y el Paraná crecido en el Litoral. Al mismo tiempo, la gente ya hace cuentas con el aguinaldo de diciembre y el dólar, y se acerca el fin de semana largo del 23 de noviembre. En consumo hay señales lindas para marcas: vuelve la Noche de las Heladerías con 2x1, U2 suma un cuarto estadio para 2027 y los celulares más vendidos en Mercado Libre van del Moto G06 al iPhone 17. Funciona el contenido útil para la lluvia, las cuotas sin interés y los planes de finde largo.",
+ "lectura": "Argentina vive días de lluvias intensas y alertas meteorológicas, con ríos creciendo en el Litoral y tormentas con granizo en Córdoba, mientras el aguinaldo de diciembre ya se busca masivamente. El Black Friday se prepara con consejos para comprar seguro y renovar la casa, LEGO abre su primera tienda oficial en el shopping más grande del país y un Malbec argentino lidera ventas en Inglaterra. En redes, lo viral es tierno y local: un loro con tonada sanjuanina o una canción hecha con IA sobre el cafecito. Funciona acompañar el bolsillo (cuotas, aguinaldo) y hablar con humor cercano.",
  "ideas_hoy": [
   {
-   "titulo": "Semana pasada por agua",
-   "idea": "Hay alertas por lluvias fuertes hasta el viernes. Mostrá cómo seguir comprando sin salir (envío, retiro rápido, horarios) y productos útiles como paraguas, botas o comida para el delivery, con tono empático.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Noche de las Heladerías",
-   "idea": "Después de La Noche de los Museos llega La Noche de las Heladerías con 2x1. Si tenés heladería, cafetería o pastelería, sumate con un combo y avisá horarios; si no, hacé una dinámica de \"plan helado\" con una marca aliada. Re copado.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Aguinaldo bien usado",
-   "idea": "Muchos buscan fechas y montos del aguinaldo de diciembre. Armá una guía de \"regalos que valen la pena\" en 3 o 6 cuotas sin interés, con precio final claro.",
+   "titulo": "Aguinaldo bien invertido",
+   "idea": "El aguinaldo de diciembre es de lo más buscado. Armá un carrusel de \"qué comprar con el aguinaldo\" con 3 opciones por rango de precio y cuotas sin interés si las tenés.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Finde largo del 23",
-   "idea": "Se viene el fin de semana largo del 23 de noviembre. Turismo, gastronomía y escapadas cortas pueden publicar hoy planes de 2 o 3 días con reserva por WhatsApp.",
-   "formato": "Copy para anuncio"
+   "titulo": "Kit para la tormenta",
+   "idea": "Hay alertas por lluvias intensas y granizo en varias provincias. Mostrá productos útiles (impermeables, cobertores para auto, linternas) con envío rápido y tono de servicio, sin dramatizar.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Un cafecito, riquito",
-   "idea": "Una canción hecha con inteligencia artificial sobre un cafecito se volvió viral. Cafeterías y marcas de desayuno pueden usar el audio en tendencia con su propio producto y un toque de humor local.",
+   "titulo": "La casa lista para el Black Friday",
+   "idea": "La prensa recomienda aprovechar el Black Friday para renovar ambientes. Tiendas de deco y hogar pueden hacer un antes y después de un ambiente con productos propios y preventa.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Tu cafecito, tu jingle",
+   "idea": "La canción creada con IA sobre el cafecito y el loro con tonada sanjuanina son virales. Probá un audio pegadizo propio o un personaje tierno para presentar tu producto en 15 segundos.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Malbec que conquista afuera",
+   "idea": "Un Malbec argentino es el más vendido en Inglaterra. Bodegas y productores pueden contar su historia exportadora en LinkedIn y abrir conversaciones con distribuidores.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
    "termino": "ciclón",
    "color": "amarillo",
-   "por_que": "Lluvias intensas y alertas en varias regiones durante toda la semana.",
-   "idea": "Contenido de servicio y prevención; evitá el humor y el tono alarmista."
+   "por_que": "Ciclón extratropical con lluvias intensas en varias regiones.",
+   "idea": "Solo contenido de servicio y prevención; evitá el humor."
   },
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Búsqueda masiva del pronóstico en Buenos Aires y el interior.",
-   "idea": "Recomendaciones de producto según el clima del día."
+   "por_que": "Búsqueda masiva del pronóstico día a día.",
+   "idea": "Producto del día según el clima, con envío o retiro."
   },
   {
    "termino": "alerta meteorológica",
    "color": "amarillo",
-   "por_que": "Media Argentina en alerta por eventos extremos y ríos crecidos.",
-   "idea": "Solo información útil y solidaria con las zonas afectadas."
+   "por_que": "Alertas por eventos extremos y ríos crecidos en el Litoral.",
+   "idea": "Mensajes empáticos y horarios de atención actualizados."
   },
   {
    "termino": "lluvia",
    "color": "verde",
-   "por_que": "La lluvia cambia planes y compras de la semana.",
-   "idea": "Delivery, planes bajo techo y productos para días de lluvia."
+   "por_que": "Interés constante por la lluvia en Buenos Aires.",
+   "idea": "Paraguas, botas, delivery y planes bajo techo."
   },
   {
    "termino": "aguinaldo",
    "color": "verde",
-   "por_que": "La gente planifica gastos con el aguinaldo de diciembre.",
-   "idea": "Guías de regalos en cuotas y ahorro; sin prometer montos oficiales."
+   "por_que": "Interés por fechas y montos del aguinaldo de diciembre.",
+   "idea": "Guías de compra por presupuesto y cuotas."
   }
  ],
  "ocultar": [
   "suquia",
-  "luis caputo",
-  "devolución",
-  "hugo moyano",
-  "página/12",
-  "nvidia jensen huang",
-  "\"Soy una m...\": así fueron las últimas horas de Jensen Huang como CEO de Nvidia",
-  "boc",
-  "arresto",
-  "inpres san juan",
-  "Fuerte temporal en la provincia de Buenos Aires: volaron los techos de un colegio con alumnos en clase",
-  "kayla harrison",
-  "aeropuerto internacional de miami",
-  "santiago del estero",
-  "Andrés Watson inspeccionó la construcción del nuevo edificio para la Secundaria Nº62",
-  "COCEMFE exige a los partidos vivienda accesible, el fin de las listas de espera y educación inclusiva",
-  "Choque en salón de belleza en City Bell, Argentina",
-  "Robaron una joyería en Rawson tras abrir un boquete",
-  "noticia",
-  "Revelan que Federico Beligoy compró un lujoso departamento en Villa Devoto una semana antes de viajar al Mundial 2026",
-  "Elisa Carrió, sobre Patricia Bullrich: “La quiero mucho, pero ella siempre busca el poder”",
-  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
-  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
-  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Entrega de equipamiento del Consejo Escolar, con fondos del Programa SAE de la Provincia de Buenos Aires",
-  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
-  "Investigan la compra de un departamento de lujo de Federico Beligoy por US$490.000",
-  "Denuncian que Federico Beligoy compró un departamento de lujo en Villa Devoto por US$490.000",
-  "Federico Beligoy adquirió un departamento de lujo en Villa Devoto por US$490.000",
-  "islas malvinas",
-  "La foto subida de tono de Wanda y Zaira Nara tomando sol de espaldas que se volvió viral",
-  "Federico Beligoy compró un lujoso departamento de 380 m2, siete días antes del Mundial de Fútbol",
-  "León XIV en la Amazonia peruana: \"La sangre de los líderes indígenas asesinados reclama justicia\"",
-  "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
-  "Robaron 6 millones de pesos en ropa en un comercio de Comodoro Rivadavia",
-  "Carmen Barbieri contó cómo se recupera de su salud y cuándo volverá a la TV tras la internación",
-  "Ayuso reivindica Madrid como sitio donde se celebra desde \"el deporte base a los grandes eventos\"",
-  "Egüen encabezó en Norberto de la Riestra el Primer Encuentro de Fútbol Adaptado (PCD)",
-  "Villa Mercedes: buscan a un hombre que se ausentó de su hogar hace dos días",
-  "BENEDETTI INAUGURÓ LA 34.ª FERIA NACIONAL DE ARTESANÍAS Y REAFIRMÓ SU COMPROMISO CON LA CULTURA Y EL DESARROLLO DE ARROYITO",
-  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
-  "Encontraron un cuerpo calcinado con indicios de haber sido atacado por perros",
-  "Llaryora visita la Ciudad de los Niños en Río Cuarto, una institución con 38 años de labor social | 15 de",
-  "Rocío Robles reveló que su hermana desapareció al nacer en un hospital denunciado por tráfico de bebés: “No sabemos si está viva o muerta”",
-  "Una investigación aseguró que millones de la AFA terminaron en yates de lujo en Europa",
-  "Millones y yates de lujo: las transferencias vinculadas a la AFA que generan interrogantes",
-  "El BCRA dio de baja la billetera virtual de Sur Finanzas, la financiera vinculada a Tapia",
-  "Acerbo pide actualizar la ley que regula carreras de autos",
-  "Tres personas trasladaban materiales de construcción ajenos y terminaron en la comisaría",
-  "Radicalismo auténtico: identidad, principios y construcción de una alternativa",
-  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "Alarma en Israel por un rabino que invocó una doctrina religiosa contra políticos aliados con árabes",
-  "El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias",
-  "Escándalo con Beligoy: de las SIRA para importar zapatos a la compra de una mansión en Villa Devoto",
   "granizo",
   "ufc",
-  "“La 40 por los 44″: una nueva travesía para homenajear a los marinos que dejaron la vida en el ARA San Juan",
-  "El Paraná superó el nivel de evacuación en Santa Fe y llegó a los 5,76 metros este domingo",
-  "Rocío Robles contó que su hermana desapareció al nacer en un hospital denunciado por tráfico de bebés: “No sabemos si está viva”",
-  "Denuncian que Federico Beligoy compró un departamento de lujo por US$ 490.000 | 15 de noviembre de 2026",
-  "De su frustrada inversión en La Plata al piso de lujo en Devoto: el patrimonio del árbitro Beligoy en la mira",
-  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
-  "chiqui tapia",
   "rocio robles",
-  "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
-  "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
-  "camionero",
-  "Las vueltas de Caputo para explicar por qué no llegan “los mejores 18 meses de la historia”",
-  "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
-  "El peronismo rechaza suspender las PASO y el PRO duda",
-  "Alejandra Monteoliva será sometida a una intervención quirúrgica",
-  "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "León XIV denunció explotación y violencia en la Amazonia peruana",
   "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
-  "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
-  "La defensa de Adorni que aceptó el fiscal abre interrogantes sobre el futuro del delito de enriquecimiento ilícito",
-  "Después de su remontada histórica, Lula respalda a Sánchez en Madrid",
   "El video de Natacha Jaitt sobre el Wandagate que que se volvió viral",
   "Cómo un BMW exhibido en TikTok se convirtió en pieza clave de la causa de narcolavado",
-  "El fiscal general de la Ciudad fue incorporado por unanimidad como miembro del Comité Ejecutivo de la Asociación Internacional de Fiscales",
   "club deportivo maipú",
-  "deportivo madryn - deportivo maipú"
+  "deportivo madryn - deportivo maipú",
+  "juez",
+  "Renunció el convencional constituyente que reivindicó a Videla"
  ],
  "audiencias": {
   "general": {

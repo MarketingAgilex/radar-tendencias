@@ -1,137 +1,80 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Perú cierra una semana histórica con la despedida del papa León XIV en Lima, tras su paso por Chiclayo, Cusco y Pucallpa, y una canción dedicada en Pucallpa que se volvió viral; el ánimo es de orgullo y comunidad. En lo práctico, la gente sigue el clima y la temperatura en Lima, y hay cortes programados de luz en Arequipa. En negocios, Entel anunció su salida del mercado peruano y la Sunat posterga pagos para empresas afectadas por El Niño, mientras el Black Friday del 27 de noviembre ya se cuela en los consejos de compra, incluso sobre cómo reclamar a tiendas del exterior. Funciona el contenido cálido, útil y con identidad regional.",
+ "lectura": "Tras la despedida del papa León XIV, Perú vuelve a la rutina con la mirada en el bolsillo: el BCRP subió su tasa de referencia a 4,5%, lo que encarece créditos, y Entel anunció su salida del mercado peruano. El Black Friday ya se adelanta en varias tiendas y la prensa advierte que podría ser más caro, mientras el clima en Lima y los cortes de luz programados siguen entre lo más buscado. En entretenimiento, los Latin Grammy y las canciones virales nacidas en la visita del papa marcan la conversación. Funciona ser claro con el precio, ofrecer cuotas sin sorpresas y contenido cercano.",
  "ideas_hoy": [
   {
-   "titulo": "Gracias, comunidad",
-   "idea": "Tras días de calles llenas por la visita papal, muchos negocios atendieron a miles de visitantes. Publica un agradecimiento a tus clientes y vecinos con fotos reales del equipo, sin usar la imagen del papa para vender.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El ritmo de Pucallpa",
-   "idea": "La canción \"Bienvenido santo padre a la tierra colorada\" es viral. Marcas de la selva y del oriente pueden mostrar su orgullo regional con música local y productos de la zona, con respeto.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Compras al exterior sin roche",
-   "idea": "Hay notas sobre qué hacer si tienes un reclamo con una tienda del extranjero en Black Friday. Haz un carrusel con 4 consejos (guardar comprobantes, revisar costo final, tiempos de entrega) y cierra con tu canal de atención.",
+   "titulo": "Compra sin endeudarte",
+   "idea": "El BCRP subió su tasa a 4,5% y los créditos se encarecen. Publica un carrusel con opciones para comprar sin intereses altos (pago en cuotas propias, separado con adelanto) y el precio final claro, causa.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Lima con calorcito",
-   "idea": "La temperatura en Lima es tendencia. Bebidas, helados, bloqueador y ropa fresca pueden lanzar un \"kit de calor limeño\" con delivery el mismo día. ¡Bien chévere para empezar la semana!",
-   "formato": "Historias Instagram"
+   "titulo": "Black Friday sin cuentos",
+   "idea": "La prensa advierte que este Black Friday podría ser más caro y varias tiendas ya adelantan ofertas. Muestra el precio de hoy y el del Black Friday de tus productos estrella para ganar confianza.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Mi operador, mi decisión",
-   "idea": "Entel anunció que dejará el mercado peruano y la gente se pregunta qué pasará con su línea. Si vendes celulares o accesorios, explica con calma qué revisar (portabilidad, contratos) sin alarmar.",
-   "formato": "LinkedIn"
+   "titulo": "Merch que une",
+   "idea": "Universitario se convirtió en el primer club en colaborar con New Era Perú. Si vendes moda o accesorios, piensa en ediciones limitadas con identidad local (barrio, ciudad, equipo) y abre preventa.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Canción viral, contenido feliz",
+   "idea": "Las canciones nacidas en la visita del papa, como la de Pucallpa, se volvieron virales en TikTok. Usa sonidos alegres en tendencia para mostrar tu producto con orgullo regional, con respeto.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Ojo con el clima de Lima",
+   "idea": "El pronóstico de Lima y la temperatura siguen entre lo más buscado. Haz contenido de \"qué ponerte hoy\" o \"qué tomar hoy\" con tu producto y delivery.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "clima",
    "color": "verde",
-   "por_que": "Alta búsqueda del pronóstico del Senamhi.",
-   "idea": "Recomendaciones de producto según el clima de cada ciudad."
+   "por_que": "Búsqueda diaria muy alta por el pronóstico del SENAMHI.",
+   "idea": "Contenido práctico del día con producto de temporada."
   },
   {
    "termino": "ruta del papa lunes 16",
    "color": "amarillo",
-   "por_que": "Gran interés por la agenda del papa en su último día en Perú.",
-   "idea": "Solo mensajes de servicio (horarios, cierres, movilidad); no uses su imagen para vender."
+   "por_que": "La visita del papa terminó; el tema pierde vigencia y es religioso.",
+   "idea": "Si lo mencionas, que sea con respeto y sin uso comercial directo."
   },
   {
    "termino": "temperatura lima",
    "color": "verde",
-   "por_que": "Los limeños siguen la subida de temperatura.",
-   "idea": "Bebidas, helados, ropa fresca y bloqueador con delivery."
+   "por_que": "Interés por el calor y la humedad en Lima.",
+   "idea": "Bebidas, ropa ligera, protector solar o ventiladores con delivery."
   },
   {
    "termino": "lunes 16 de noviembre es feriado",
    "color": "amarillo",
-   "por_que": "Dudas sobre suspensión de clases por la visita papal en el Callao.",
-   "idea": "Informa horarios de atención con claridad; no confundas con un feriado nacional."
+   "por_que": "Consulta ya pasada sobre suspensión de clases y feriado.",
+   "idea": "Úsalo solo para recordar horarios de atención actualizados."
   },
   {
    "termino": "corte luz arequipa",
    "color": "amarillo",
-   "por_que": "Cortes programados de electricidad en distritos de Arequipa.",
-   "idea": "Contenido útil: horarios, power banks, linternas y atención por WhatsApp."
+   "por_que": "Cortes programados en distritos de Arequipa; tema de servicio.",
+   "idea": "Mensajes útiles para clientes de la zona (horarios, linternas, cargadores), sin bromas."
   }
  ],
  "ocultar": [
-  "óscar lópez",
-  "ebola",
-  "keiko fujimori",
-  "prisión",
-  "maría camila pantoja",
-  "Vladimiro Montesinos estará preso hasta 2037",
-  "juan díaz",
-  "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
   "haití - estados unidos",
-  "nvidia jensen huang",
-  "El Papa denuncia la discriminación de los afrodescendientes en Perú",
-  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
-  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "COCEMFE exige a los partidos vivienda accesible, el fin de las listas de espera y educación inclusiva",
-  "Irán asegura haber atacado con drones un radar estadounidense en una base de Baréin",
-  "ONPE al 100 %: lista de Renovación Popular gana la Alcaldía de Lima sobre Avanza País",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
-  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
-  "Ostentación y caída: la historia detrás del BMW que “Budín” Ibáñez presumía en TikTok y terminó incautado",
-  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
-  "Frente Amplio defiende un modelo de turismo sostenible que cree empleo \"sin comprometer la conservación del territorio\"",
-  "Los ucranianos desplazados realizan viajes repetidos a casa mientras persisten los obstáculos para el retorno",
-  "Wall Street pone a prueba el boom de la IA: qué revelan los balances de la industria tras la victoria demócrata",
-  "💎 Gabito Ballesteros y su vida de lujos: así presume sus autos deportivos y joyas millonarias https://mile.io/4kdfaBO",
-  "defensor sporting - peñarol",
-  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
-  "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-  "Pronóstico España Inglaterra - Nations League 15/11/26",
-  "Pronóstico Defensor Sporting Peñarol - Primera División, Apertura 15/11/26",
-  "PJ: 'Rapi Endoso de depósitos de alimentos' obtiene Premio Buenas Prácticas en Gestión Pública 2026",
-  "NIÑO COSTERO 2026 AMENAZA LA AGRICULTURA FAMILIAR: KEIKO FUJIMORI PRIORIZÓ LAS DESCOLMATACIONES, QUE SE PRESTAN PARA LA CORRUPCIÓN, ADVIERTE DIRIGENTE GREMIAL",
-  "Huarmey: Red de Salud Pacífico Sur reporta un nuevo caso confirmado de dengue",
-  "Mindef asegura que escáneres instalados en penales no afectan la salud",
-  "Díaz Ayuso en la exposición Reyes del mundo que revive la victoria de España en el Mundial de Fútbol: “Desde el deporte base a los grandes eventos, todos tienen sitio en Madrid”",
-  "Más de 150 mujeres y niñas convierten el deporte en un altavoz contra la violencia machista en Palma",
-  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "Desde 2002, Cuauhtémoc Blanco ha señalado a Lomas de Cortés como su hogar en Morelos; esta es la colonia donde vive el ídolo americanista",
-  "BENEDETTI INAUGURÓ LA 34.ª FERIA NACIONAL DE ARTESANÍAS Y REAFIRMÓ SU COMPROMISO CON LA CULTURA Y EL DESARROLLO DE ARROYITO",
-  "El intendente Benedetti inauguró la 34° Feria Nacional de Artesanías en Arroyito",
-  "Camionetas de lujo compradas por Rivera terminan empolvándose en depósito municipal",
-  "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
-  "Gremios obreros exigen frenar la violencia contra trabajadores y dirigentes de construcción civil",
-  "Gremios de construcción civil exigen acciones urgentes para frenar violencia contra obreros y dirigentes",
-  "Un festival de música termina en caos y una gran pelea en una famosa playa mexicana",
-  "El Parlamento votará este lunes el proyecto de Ley de Finanzas 2027",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
-  "Las acciones de Nvidia caen tras investigación sobre relación de su CEO con presunta espía extranjera",
-  "islas cook",
   "ufc",
-  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
-  "Chimbote: 50 jueces de paz son capacitados en juicios por alimentos y violencia familiar",
-  "AMIC rescata a seis perros en condiciones de desnutrición y deshidratación durante dos cateos en Agua Prieta •Investigaciones permitieron intervenir dos inmuebles y rescatar a los ejemplares, que presentaban signos de abandono y problemas de salud Ag",
-  "El Ministerio de Educación pondrá ‘bajo la lupa’ a la Universidad del Magdalena por el posgrado de Jaime Vives: revisarán cómo obtuvo el título",
-  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
-  "Buque tanker embiste crucero en Nueva Orleans: 180 personas rescatadas y 32 hospitalizadas",
   "Horror en Madrid: detienen a peruana acusada de matar a puñaladas a su novio en un apartahotel",
   "Renovación Popular ganó en 26 distritos de Lima Metropolitana: ¿en qué zonas de la capital aumentó su respaldo?",
-  "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
   "El CCII exige a TikTok retirar material de presunto abuso infantil",
   "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "El Corte Inglés, Moeve, Banco Santander y Eroski, entre los anunciantes que retiraron su publicidad en TikTok",
-  "Santander, Starbucks, Samsung y otras grandes marcas retiran su publicidad de TikTok: qué hay detrás del escándalo",
   "Carlos Castillo: Policías en retiro rechazan declaraciones sobre Inti Sotelo y Bryan Pintado",
   "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
   "Resumen de noticias del Colapso de un edificio en Brooklyn, Nueva York, del 12 de noviembre de 2026",
-  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok"
+  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
+  "Dos sismos de magnitudes 5.4 y 5.1 remecieron la región Ica en un lapso de menos de diez minutos",
+  "Carlos Alcántara hace sensible confesión sobre los desafíos médicos de su hijo Lorenzo: 'Me gustaría quitarle toda la medicina'\""
  ],
  "audiencias": {
   "general": {

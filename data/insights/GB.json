@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido vive pendiente del tiempo: avisos de nieve y hielo, alertas sanitarias por frío y lluvia en Londres disparan las búsquedas del pronóstico. La televisión manda en la conversación con Strictly Come Dancing camino de Blackpool y el regreso de I'm a Celebrity, mientras el anuncio navideño de John Lewis y las luces de Carnaby Street abren oficialmente la temporada de regalos. Los compradores británicos usan la IA para elegir regalos pero se quejan del gasto final, y los ayuntamientos ofrecen aparcamiento gratis para animar el comercio local. Funciona el contenido cálido, práctico para el frío y con precios claros antes del Black Friday.",
+ "lectura": "Reino Unido vive pendiente del tiempo: avisos de nieve y hielo y alertas sanitarias por frío disparan las búsquedas del pronóstico. La televisión manda en la conversación con Strictly Come Dancing camino de Blackpool e I'm a Celebrity, y GTA VI llega esta semana con enorme expectativa. En compras, las ofertas tempranas de Black Friday conviven con estacionamiento gratis en centros urbanos para atraer compradores y con un consumidor que usa la IA para elegir pero vigila el gasto final. Funciona el plan de casa calentito, el regalo pequeño con valor claro y el apoyo al comercio local.",
  "ideas_hoy": [
   {
    "titulo": "Cosy night in",
-   "idea": "Con avisos de nieve y frío, la gente busca planes en casa. Propón un \"cosy night in\" para ver Strictly o I’m a Celebrity con tus productos: mantas, snacks, velas o comida a domicilio.",
+   "idea": "Con avisos de nieve y frío, la gente busca planes en casa. Propón un \"cosy night in\" para ver Strictly o I'm a Celebrity con tus productos: mantas, snacks, velas o comida a domicilio.",
    "formato": "Reel"
   },
   {
-   "titulo": "Tu propio anuncio navideño",
-   "idea": "El anuncio de John Lewis ya marca la temporada. Graba un mini anuncio de Navidad de 20 segundos con tu equipo y una historia sencilla: la emoción pesa más que la producción.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Gasto final sin sorpresas",
-   "idea": "Un informe dice que los compradores están contentos con lo que eligen con IA, pero no con lo que gastan al final. Publica guías de regalos con precio total, envío incluido y fecha de entrega.",
+   "titulo": "Stocking fillers por menos de un tenner",
+   "idea": "Las compras navideñas arrancan con un consumidor atento al gasto final. Arma una selección de regalos pequeños por menos de 10 libras y preséntala como \"stocking fillers\" listos para enviar.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Aparca gratis, compra local",
-   "idea": "Varios ayuntamientos ofrecen aparcamiento gratis en temporada navideña. Si tienes tienda física, avisa dónde aparcar y añade un detalle para quien venga este fin de semana.",
+   "titulo": "Ven al centro, aparca gratis",
+   "idea": "Varios ayuntamientos ofrecen estacionamiento gratis para impulsar el comercio en los centros urbanos. Si tienes tienda física, avisa de la iniciativa en tu zona y suma un detalle para quien te visite.",
    "formato": "Historias Instagram"
   },
   {
-   "titulo": "Votos del sábado",
-   "idea": "Strictly entra en su recta final rumbo a Blackpool. Haz una encuesta de \"¿quién llega a la final?\" y regala un descuento al acertar; engancha a millennials y boomers por igual.",
-   "formato": "Historias Instagram"
+   "titulo": "Semana GTA VI",
+   "idea": "GTA VI llega esta semana y bate récords de reservas. Marcas de comida, bebidas o tecnología pueden lanzar un \"launch night bundle\" con entrega el día del estreno y humor gamer.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Luces de Navidad, contenido gratis",
+   "idea": "Las luces navideñas de Carnaby Street están en tendencia. Graba tu producto en una calle iluminada de tu ciudad y conviértelo en idea de regalo con enlace directo de compra.",
+   "formato": "Reel"
   }
  ],
  "semaforo": [
   {
    "termino": "weather forecast snow",
    "color": "verde",
-   "por_que": "Avisos de nieve y hielo con alertas por frío.",
-   "idea": "Ropa de abrigo, calefacción y entregas con mensajes prácticos."
+   "por_que": "Búsqueda masiva por los avisos de nieve y frío.",
+   "idea": "Contenido práctico de invierno con producto y entrega rápida."
   },
   {
    "termino": "weather tomorrow",
    "color": "verde",
-   "por_que": "La gente planifica el día según el frío.",
-   "idea": "Contenido de \"qué ponerse mañana\" y productos de temporada."
+   "por_que": "Interés diario por el pronóstico.",
+   "idea": "Producto del día según el tiempo de mañana."
   },
   {
    "termino": "strictly come dancing 2026",
    "color": "verde",
-   "por_que": "Semana ocho del concurso con alta audiencia.",
-   "idea": "Encuestas, looks de baile y planes para ver el programa en casa."
-  },
-  {
-   "termino": "what time is im a celebrity on tonight",
-   "color": "verde",
-   "por_que": "Regreso del reality con concursantes famosos.",
-   "idea": "Snacks para el programa, memes de marca y dinámicas de encuesta."
+   "por_que": "El programa de baile domina la conversación de fin de semana.",
+   "idea": "Looks brillantes, maquillaje o planes de sofá para verlo."
   },
   {
    "termino": "weather",
    "color": "verde",
-   "por_que": "Cambio a tiempo más templado antes de nuevas alertas por frío.",
-   "idea": "Recordatorios útiles y ofertas para preparar la casa para el invierno."
+   "por_que": "Alertas por frío y cambios bruscos de temperatura.",
+   "idea": "Consejos de abrigo y hogar cálido con tono amable."
+  },
+  {
+   "termino": "strictly come dancing week 8 results",
+   "color": "verde",
+   "por_que": "Resultados semanales con mucha conversación en redes.",
+   "idea": "Encuestas y reacciones ligeras, sin burlarse de concursantes."
   }
  ],
  "audiencias": {
@@ -878,6 +878,81 @@
     "ES": "paraguas",
     "AR": "paraguas"
    }
+  },
+  {
+   "expresion": "Stocking filler",
+   "significado": "Regalito pequeño y barato que se mete en el calcetín navideño; por extensión, cualquier detalle económico de Navidad.",
+   "uso": "Todo el país, sobre todo en noviembre y diciembre.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Perfect stocking fillers under £10.",
+   "equivalentes": {
+    "CO": "detallito de Navidad",
+    "MX": "detallito / regalito",
+    "EC": "detallito",
+    "ES": "detalle / regalito para el calcetín",
+    "AR": "regalito / detalle"
+   }
+  },
+  {
+   "expresion": "Crimbo",
+   "significado": "Navidad, dicho de forma informal y cariñosa.",
+   "uso": "Todo el país, conversación y redes.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Sorted your Crimbo shopping yet?",
+   "equivalentes": {
+    "CO": "la Navidad / diciembre",
+    "MX": "la Navidad / las posadas",
+    "EC": "la Navidad",
+    "ES": "la Navidad / las fiestas",
+    "AR": "las fiestas"
+   }
+  },
+  {
+   "expresion": "Quids in",
+   "significado": "Salir ganando, quedar con dinero a favor tras una compra o un trato.",
+   "uso": "Todo el país, registro coloquial.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Buy two, get one free and you're quids in.",
+   "equivalentes": {
+    "CO": "salir ganando",
+    "MX": "salir ganando / salir tablas a favor",
+    "EC": "salir ganando",
+    "ES": "salir ganando",
+    "AR": "salir hecho / salir ganando"
+   }
+  },
+  {
+   "expresion": "Tenner",
+   "significado": "Billete o cantidad de diez libras (también 'fiver' para cinco).",
+   "uso": "Todo el país.",
+   "registro": "coloquial",
+   "apto_anuncio": "si",
+   "ejemplo": "Gifts for under a tenner.",
+   "equivalentes": {
+    "CO": "diez lucas",
+    "MX": "cien varos",
+    "EC": "un billete de diez",
+    "ES": "diez pavos",
+    "AR": "diez lucas"
+   }
+  },
+  {
+   "expresion": "Peng",
+   "significado": "Muy atractivo o muy bueno (persona, comida, ropa); jerga juvenil de origen londinense.",
+   "uso": "Jóvenes, sobre todo en Londres y redes.",
+   "registro": "juvenil",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "This hoodie is peng.",
+   "equivalentes": {
+    "CO": "bacano / chimba (este último muy informal)",
+    "MX": "chido / está bien chulo",
+    "EC": "bacán / chévere",
+    "ES": "guapísimo / brutal",
+    "AR": "re lindo / está buenísimo"
+   }
   }
  ],
  "creadores": {
@@ -1030,182 +1105,83 @@
    "hacia": "GB",
    "sector": "alimentos",
    "accion": "Validar demanda con tiendas latinas y grupos comunitarios antes de invertir en inventario."
+  },
+  {
+   "titulo": "Detalles navideños 'stocking filler' de marcas latinas",
+   "senal": "En temporada navideña crece la búsqueda de regalos pequeños por menos de 10 libras y los anunciantes destacan cajas y detalles personalizados.",
+   "desde": "MX",
+   "hacia": "GB",
+   "sector": "artesanias",
+   "accion": "Validar con tiendas de diseño o marketplaces si piezas pequeñas (bisutería, textiles, dulces típicos) encajan en ese rango de precio, revisando requisitos de importación y plazos de envío."
   }
  ],
  "anuncios": [
   {
-   "busqueda": "Christmas gifts",
-   "total": 113157,
+   "busqueda": "Christmas delivery handmade",
+   "total": 512,
    "anunciantes": [
     {
-     "nombre": "Who What Wear",
-     "url": "https://www.facebook.com/ads/library/?id=1167074932419183"
+     "nombre": "The Handmade Christmas Co.",
+     "url": "https://www.facebook.com/ads/library/?id=1484346563760982"
     },
     {
-     "nombre": "Print & Pane",
-     "url": "https://www.facebook.com/ads/library/?id=1127903383284263"
+     "nombre": "HD London Art",
+     "url": "https://www.facebook.com/ads/library/?id=1171318408766284"
     },
     {
-     "nombre": "Wembley Park",
-     "url": "https://www.facebook.com/ads/library/?id=1847196763085239"
+     "nombre": "petalandpawflorist",
+     "url": "https://www.facebook.com/ads/library/?id=1458649516235759"
     },
     {
-     "nombre": "Rich Coffin Golf Coaching",
-     "url": "https://www.facebook.com/ads/library/?id=1262037560109699"
+     "nombre": "Helioneon",
+     "url": "https://www.facebook.com/ads/library/?id=2299972030578370"
     },
     {
-     "nombre": "Pos Pilates",
-     "url": "https://www.facebook.com/ads/library/?id=2180559955866417"
+     "nombre": "Durusu Furniture",
+     "url": "https://www.facebook.com/ads/library/?id=1031438239975232"
     }
    ],
-   "patron": "Predominan los regalos personalizados (mascotas enmarcadas, nombres en la imagen), las guías de regalo de moda y los mercados navideños con entrada gratuita desde el 21 de noviembre. Los mensajes apelan a regalos 'que significan más' y a ver el regalo antes de comprarlo; abundan los rangos de precio de entrada ('desde 40 libras')."
+   "patron": "Lo hecho a mano se vende con tradiciones británicas concretas: cajas de Nochebuena ('Christmas Eve box'), sacos personalizados con nombre y crackers navideños. Aparece el 'Black Friday Month' (un mes entero de ofertas) en arte y decoración, y varios anunciantes de otros países (muebles, letreros de neón) apuntan al Reino Unido con envío internacional. Personalización y fecha de entrega antes de Navidad son los argumentos clave."
   },
   {
-   "busqueda": "advent calendar",
-   "total": 13045,
+   "busqueda": "Black Friday small business",
+   "total": 1653,
    "anunciantes": [
     {
-     "nombre": "Pott'd",
-     "url": "https://www.facebook.com/ads/library/?id=1441740851418226"
+     "nombre": "Lewis Smith - Online Business",
+     "url": "https://www.facebook.com/ads/library/?id=2017333755595299"
     },
     {
-     "nombre": "Grá",
-     "url": "https://www.facebook.com/ads/library/?id=1183180064394024"
-    },
-    {
-     "nombre": "curatecrochetbox",
-     "url": "https://www.facebook.com/ads/library/?id=2205559633694433"
-    },
-    {
-     "nombre": "Pawfect Snacks",
-     "url": "https://www.facebook.com/ads/library/?id=2298311940951780"
-    },
-    {
-     "nombre": "Coeliacs Like Beer",
-     "url": "https://www.facebook.com/ads/library/?id=1690466482419641"
+     "nombre": "Digital Ad Guide",
+     "url": "https://www.facebook.com/ads/library/?id=2181219616104635"
     }
    ],
-   "patron": "Los calendarios de Adviento se nichifican: plantas, ganchillo, snacks para mascotas, cerveza sin gluten, belleza asiática o chocolate. La urgencia gira en torno al inicio del 1 de diciembre y a las ediciones limitadas; muchos incluyen un regalo extra para subir el valor percibido."
+   "patron": "Con esta búsqueda aparecen sobre todo talleres y cursos que usan el Black Friday como gancho para vender formación sobre negocios online ('taller en vivo'), además de anuncios de bienestar con mensajes emocionales que conviene no imitar. Para pymes, la lección es que el Black Friday también vende servicios y formación, pero con promesa concreta y sin exagerar resultados."
   }
  ],
  "ocultar": [
   "new orleans cruise ship collision",
-  "carlisle vs boston united",
-  "georgia vs hungary",
-  "winter fuel payment",
-  "italy argentina",
-  "ferne mccann",
-  "abingdon fireworks",
-  "l3harris",
-  "you can see everything",
-  "gladiators",
-  "polly hudson",
-  "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
   "ufc",
-  "finance",
-  "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-  "++[【official^videos】]+ husband wife viral video original Clip in Social Media x TikTok",
-  "Geopolitics & tennis: Belarus’ Sabalenka’s tirade in Svitolina clash goes viral",
-  "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
-  "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
-  "Slough man who left dogs without water given 10-year ban",
-  "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-  "Under Capitalism, Even Kids’ Playtime Is Alienated",
-  "nizhnekamskneftekhim",
-  "ian mcnabb",
-  "starlink",
-  "Government to consider staggered age of consent after Russell Brand allegations",
-  "Trident submarine returns home after record-breaking undersea patrol",
-  "UK on brink of EU deal to bring down price of weekly shop after Brexit disaster, says Andy Burnham",
-  "Moment dad found 27 abandoned children at nanny's home",
-  "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-  "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-  "Bessent says Nvidia needs ‘shake-up’ with external CEO",
-  "Company caught up in Nvidia controversy launches internal investigation",
   "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
-  "++FULL+VIDEOS+!!Camilla Araujo Viral Video On Social Media",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin viral video , Pori Moni and Maasranga TV Instagram: Latest Search Trends",
-  "18+VIDEOS]+]Viral Video Featuring Andini Permata",
-  "SEXVIDEOXXX)video filtrado de Zao viral video de Zao intimo XVIDEOS.COM",
-  "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
-  "[[VIRAL VIDEOS]] teacher viral video link",
-  "18+VIDEOS]+]Archita Pukham Viral Video Download",
-  "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
-  "Jensen Huang’s downfall threatens the AI industry built around him",
-  "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
-  "brian mackinnon",
-  "raptors vs knicks",
   "russia",
-  "alan milburn",
-  "+ORIGINAL+CLIP+XXX+! Camilla Araujo viral video original Clip in Social Media x TikTok",
-  "18+!Videos) Camilla Araujo viral video original Clip in Social Media x TikTok",
-  "++【xxx^xxx~videos】 dr zahra viral video original Clip in Social Media x TikTok",
-  "~`(=maasranga tv=) পরিমনি pori moni viral video trending on social media X",
-  "PM to say 'Brexit hasn't worked' and set out conditions for future EU deal in major speech",
-  "Tories pledge to halt screen-based school exams and cut coursework",
-  "Shocking moment migrant reveals true intentions for coming to UK in four chilling words",
-  "Pope travels in helicopter weeks after lung cancer surgery",
-  "US and allies sign accord to protect AI supply chains from China",
-  "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
-  "Pasta, pies and paperwork errors: the reality of Brexit food checks",
-  "Mental health expert to visit Inverness in wake of concerning Highland probable suicide figures",
-  "Whitehall swamped by AI complaints",
-  "Man who left dogs without water given 10-year ban",
-  "Interview: Barack Obama, the Illuminati and Reservoir Dogs meet New Orleans Jazz",
-  "This is Amy and little Arlo. The 35-year-old mum was diagnosed with stage four brain cancer while pregnant 💔 To allow doctors to begin emergency treatment immediately, she was forced to deliver her son nine weeks prematurely via an emergency caesarean",
-  "William and Kate change India travel plans after being invited to meet Modi | ITV News",
-  "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
-  "19 to 24-year-olds to get more funding for college under benefits overhaul",
-  "Iraq Resumes Oil Exports to Mediterranean via Syria Overland Route",
-  "RFPs: Defence Industry Development Grants Program – Exports Stream (Australia)",
-  "Bulgarian thieves pose as recycling firm drivers to steal cooking oil from eateries",
-  "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
-  "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
-  "Farm payment penalties spark cross-party opposition as pressure mounts on Agriculture Minister Andrew Muir",
-  "!Dog and Woman viral video",
-  "Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal",
-  "Cut national insurance for under-25s to create jobs, Milburn report to say",
-  "Estonia to close border with Russia after second alleged sabotage attempt",
-  "Government to consider staggered age of consent after Russell Brand allegations | ITV News",
-  "Johnson: Britain would vote for Brexit again",
-  "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-  "The City of London isn’t up for more Brexit trauma",
-  "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-  "Viral Video Captures Reactions to UFC 334 Main Event",
   "adam catterall",
-  "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-  "UK exposed to polycrisis of threats amid government ‘complacency’",
-  "Women prosecuted for abortions hail ‘historic day’ after receiving pardon",
-  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
-  "++🥕[Xnxx-Videos!#] New Pakistani Teacher Viral Video",
-  "5 Minute 14 Second Viral Video Mms || 5 minute 14 Second video",
-  "Russia recruits women from Africa to produce \"Shaheds\" under the guise of education and employment – investigation",
-  "Campaign calls for pets to be covered by domestic abuse protection orders",
-  "Harry hails wounded Ukrainians as 'role models' as he watches prospective Invictus athletes on surprise trip",
-  "david cameron",
-  "allowance",
-  "housing",
-  "katy perry justin trudeau",
-  "ed miliband",
-  "Miliband says Russell Brand's crimes were 'heinous and awful'",
-  "Keep terrestrial TV to protect Britain from Russia, say peers",
-  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
-  "++FULL+VIDEOS+!!Paige Spiranac Viral Video On Social Media",
   "+@!EXCLUSIVE VIDEO!Lady pays Viral Video)",
   "Barristers could be barred from practice over use of rape myths, warns justice secretary",
-  "Nuclear submariners return ‘grey’ from record seven months at sea",
-  "SFO charges eight over £251m London Capital & Finance collapse",
   "SFO charges eight over London Capital & Finance collapse",
   "Security Alert: U.S. Embassy London, November 16, 2026",
-  "++(official^video)++surekha vani viral video original Clip in Social Media x Instagram",
-  "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
-  "US woman Lindsay Clancy to face retrial next year for deaths of her three children",
-  "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-  "Lindsay Clancy to face retrial next year for deaths of her three children",
-  "Minister Pat McFadden refuses to rule out some young people may lose benefits after Milburn review",
-  "Miliband says he won't resign if government approves Rosebank oil field",
-  "Russia aims for ‘joint statement’ from trilateral summit with US and China",
-  "Fraud office brings charges over ‘Britain’s biggest Ponzi scheme’",
-  "GTA 6 hacker pleads guilty after release from secure hospital"
+  "GTA 6 hacker pleads guilty after release from secure hospital",
+  "richard tice",
+  "staggered age of consent",
+  "lee reeves",
+  "postcode lottery",
+  "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+  "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
+  "Baroness Cass turns against ‘chilling’ trans law",
+  "‘I’m at a loss of words’: Grandson’s tribute as wife and daughter of DUP politician pass away hours apart",
+  "Ministers to end Palantir’s contract with NHS in England in 2029",
+  "Pope hit in the eye by worshipper hurling rosary",
+  "Why Starshield limits are hurting Ukraine against jet-powered drones",
+  "OpenAI sued by California over 80 ‘loss of control’ incidents",
+  "MP sends people to the parliament he’s not allowed to enter"
  ]
 }

@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra en modo invierno y compras navideñas: hay tormentas en la costa oeste, ráfagas de viento en Quebec y una prueba nacional del sistema Alert Ready el miércoles que tiene a mucha gente buscando qué es. La inflación sigue alta en gasolina y supermercado, por eso los compradores comparan precios (Dollarama frente a Loblaws) y se dividen sobre cuándo empezar las compras de Navidad, mientras Walmart y Best Buy adelantan ofertas de Black Friday. El entretenimiento suma con Taylor Swift en los CMA, GTA VI y las nominaciones a los Grammy de artistas quebequenses. Gana el mensaje de valor real, compra local en mercados navideños y planificación anticipada.",
+ "lectura": "Canadá combina clima extremo en la costa oeste (tormentas, nieve en montaña y olas enormes) con una prueba nacional del sistema de alertas de emergencia este miércoles. La inflación sigue en 3,1% por gasolina y supermercado, y el consumidor compara precios entre cadenas, mientras Walmart Canada, Lululemon y otras marcas adelantan sus ofertas de Black Friday y los mercados navideños locales abren la temporada. En entretenimiento, GTA VI y los premios de la música country concentran la conversación. Funciona el valor demostrable, lo local y el contenido útil frente al invierno.",
  "ideas_hoy": [
   {
-   "titulo": "Qué es la alerta del miércoles",
-   "idea": "Muchos buscan la prueba del sistema Alert Ready de esta semana. Marcas de tecnología o seguros pueden explicar en 20 segundos qué va a pasar y recomendar un kit básico de invierno, sin alarmar.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Regalos que rinden con la inflación",
-   "idea": "Los precios de supermercado siguen altos y la gente compara Dollarama con Loblaws. Arma una guía de regalos por presupuesto ($25, $50, $100) y destaca el precio final con impuestos.",
+   "titulo": "Alerta: esto es una prueba",
+   "idea": "El miércoles se prueba el sistema nacional de alertas de emergencia. Úsalo con tacto para un post de \"kit básico de invierno en casa\" (linterna, baterías, mantas) con tu producto, aclarando que la alerta es solo una prueba.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Mercados navideños locales",
-   "idea": "Ferias de artesanos y mercados navideños abren en Ontario y otras provincias. Si vendes hecho a mano, publica dónde estarás este fin de semana y ofrece apartado por mensaje directo.",
-   "formato": "Historias Instagram"
+   "titulo": "Precio que sí rinde",
+   "idea": "Con la inflación en 3,1% por gasolina y comida, el canadiense compara cadenas. Muestra el costo por uso de tu producto frente a alternativas baratas y cierra con una oferta de Black Friday con fecha de fin.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "¿Ya empezaste tus compras?",
-   "idea": "Una encuesta local mostró que los compradores están divididos sobre cuándo empezar a comprar regalos. Lanza la misma pregunta en historias y responde con un descuento de \"madrugador\" válido hasta el viernes.",
-   "formato": "Historias Instagram"
+   "titulo": "Del mercado navideño a tu casa",
+   "idea": "Los mercados navideños locales marcan el inicio de las compras de temporada. Si vendes artesanía o comida, graba tu puesto o taller y ofrece pedidos en línea para quien no pueda ir.",
+   "formato": "Reel"
   },
   {
-   "titulo": "Bienvenue au froid",
-   "idea": "Con la ola de viento y frío en Quebec, crea contenido bilingüe con ropa térmica, café o comida reconfortante. Un \"Attache ta tuque!\" bien usado conecta con el público francófono.",
+   "titulo": "Noche de GTA VI",
+   "idea": "GTA VI es el lanzamiento del año. Restaurantes, tiendas de snacks y de tecnología pueden armar un \"combo noche de lanzamiento\" con entrega a domicilio y humor gamer.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Botas, olas y nieve",
+   "idea": "Las tormentas del oeste traen nieve en montaña y olas gigantes. Marcas outdoor y de hogar pueden mostrar su producto en uso real con consejos prácticos para la semana.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
    "termino": "canada emergency alert",
    "color": "amarillo",
-   "por_que": "Prueba nacional de alertas que genera dudas, no una emergencia real.",
-   "idea": "Contenido explicativo y de preparación; nunca la uses como gancho de urgencia falsa."
+   "por_que": "Prueba nacional de alertas que genera dudas; no es una emergencia real.",
+   "idea": "Contenido de preparación tranquilo; aclara siempre que es una prueba."
   },
   {
    "termino": "country music",
    "color": "verde",
-   "por_que": "Taylor Swift actuará en los 60 premios CMA.",
-   "idea": "Looks country, botas, sombreros y playlists de marca."
+   "por_que": "Los premios CMA y la presencia de Taylor Swift disparan el interés.",
+   "idea": "Playlists, looks vaqueros o regalos musicales con tono festivo."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas con nieve y lluvia en la costa oeste.",
-   "idea": "Productos de invierno y entregas con tono práctico."
+   "por_que": "Tormentas fuertes en la costa oeste con nieve y oleaje.",
+   "idea": "Mensajes de servicio y producto útil, sin sensacionalismo."
   },
   {
    "termino": "météo",
    "color": "verde",
-   "por_que": "Quebec sigue el pronóstico por fuertes vientos y cambios de temperatura.",
-   "idea": "Contenido en francés con ropa y planes para el frío."
+   "por_que": "Los quebequenses siguen de cerca el pronóstico y el riesgo de tormenta.",
+   "idea": "Contenido en francés con producto de temporada y entregas."
   },
   {
    "termino": "el niño",
    "color": "verde",
-   "por_que": "Interés por el impacto de El Niño en el invierno.",
-   "idea": "Explicaciones simples y productos de temporada según la región."
+   "por_que": "El Niño fuerte cambia el invierno en Norteamérica.",
+   "idea": "Consejos de temporada y oferta según región."
   }
  ],
  "audiencias": {
@@ -1160,144 +1160,80 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 243109,
+   "busqueda": "Black Friday free shipping",
+   "total": 45974,
    "anunciantes": [
     {
      "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=2340409216733111"
+     "url": "https://www.facebook.com/ads/library/?id=1795188845034239"
+    },
+    {
+     "nombre": "Nextnecklace.com",
+     "url": "https://www.facebook.com/ads/library/?id=2169491573957974"
+    },
+    {
+     "nombre": "Italo Fine Jewelry",
+     "url": "https://www.facebook.com/ads/library/?id=1059638630470123"
+    },
+    {
+     "nombre": "Maya Winslow",
+     "url": "https://www.facebook.com/ads/library/?id=1178169241547989"
+    },
+    {
+     "nombre": "CourtStride",
+     "url": "https://www.facebook.com/ads/library/?id=1140997878860081"
     }
    ],
-   "patron": "Volumen enorme de anuncios activos: el Black Friday 'empieza ya' semanas antes de la fecha. Los primeros resultados los concentra un solo anunciante de ropa outdoor con decenas de variaciones del mismo mensaje ('hasta 62% de descuento'), señal de pruebas creativas masivas. Destacar con fecha de fin y producto concreto es clave."
+   "patron": "El Black Friday se anuncia como algo que 'empieza ya' o 'empieza antes', con descuentos altos (hasta 60-70%), 2x1 y envío gratis como remate. Dominan joyería, ropa outdoor y calzado deportivo, con muchas variaciones del mismo mensaje para probar creatividades y titulares cortos con cifra concreta ('2 pares a 79,99'). Destacar exige una oferta simple, una fecha de fin y el costo de envío resuelto."
   },
   {
-   "busqueda": "Christmas gift free shipping",
-   "total": 6658,
+   "busqueda": "GTA 6",
+   "total": 1671,
    "anunciantes": [
     {
-     "nombre": "Eco Brown Essentials",
-     "url": "https://www.facebook.com/ads/library/?id=2133971203909346"
+     "nombre": "Shots: AI Photo & Video Maker",
+     "url": "https://www.facebook.com/ads/library/?id=1715142360224646"
     },
     {
-     "nombre": "Wisp & Oak",
-     "url": "https://www.facebook.com/ads/library/?id=966258512896690"
+     "nombre": "VI Mayhem",
+     "url": "https://www.facebook.com/ads/library/?id=4096165687355111"
     },
     {
-     "nombre": "Mini Mushroom Farms",
-     "url": "https://www.facebook.com/ads/library/?id=2584754948688534"
+     "nombre": "CardFesta",
+     "url": "https://www.facebook.com/ads/library/?id=1169872862277089"
     },
     {
-     "nombre": "Halio Sonic",
-     "url": "https://www.facebook.com/ads/library/?id=2693931967717129"
-    },
-    {
-     "nombre": "Crafty Mama Builds",
-     "url": "https://www.facebook.com/ads/library/?id=2529869500828051"
+     "nombre": "Julie Edwards",
+     "url": "https://www.facebook.com/ads/library/?id=963521863224601"
     }
    ],
-   "patron": "Predominan los mensajes de 'regalo útil' ('el regalo que de verdad usarán'), sets de regalo desde un precio de entrada en dólares canadienses, regalos corporativos con logo y la 'Navidad anticipada' con 50% y envío gratis. Muchos anunciantes venden desde el extranjero y destacan el envío con seguimiento."
+   "patron": "Las marcas se suben al lanzamiento de GTA VI con apps de IA que prometen 'tu video viral de GTA 6 en segundos' y creadores que anuncian retos de contenido diario. Ojo: 'GTA' también significa Greater Toronto Area, así que muchos anuncios locales (ferias de cartas coleccionables, alquiler de fotomatón para fiestas) aparecen en la misma búsqueda; para segmentar por el juego conviene usar 'GTA VI' o 'Grand Theft Auto'."
   }
  ],
  "ocultar": [
-  "billionaires",
-  "ukraine",
-  "sarah huckabee sanders",
-  "peoria",
-  "katy perry",
   "accident bateau croisière",
-  "blue jays",
-  "thunder vs clippers",
   "ontario",
-  "saint-lin-laurentides",
-  "Carney’s big bet on debt",
-  "kimberly polman",
-  "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’",
-  "miami international airport",
-  "john mulaney",
   "ufc tonight",
-  "julie dabrusin",
-  "Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too",
-  "Brittany Renner Goes Viral After Courtside Cheeks Photo at Clippers-Thunder Game",
-  "In memoriam: Samuel Freedman",
-  "Ontario gym lockdown intervention",
-  "Quebec ready to vote independently from Canada for Francophonie leadership: premier",
-  "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
-  "Two planes collide on taxiway at Miami airport one day after national grounding",
-  "the jerusalem post",
-  "lucy beaumont",
-  "Quebec premier stands firm on U.S. outreach after first meeting with Carney",
-  "Canada, Brazil announce $540M for rainforest protection project",
-  "'A terrible mistake': B.C. ISIS bride Kimberley Polman, in her own words",
-  "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
-  "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
   "‍‍‍!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Videos",
-  "++FULL+VIDEOS+!!Camilla Araujo Viral Video On Social Media",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin viral video , Pori Moni and Maasranga TV Instagram: Latest Search Trends",
-  "18+VIDEOS]+]Viral Video Featuring Andini Permata",
-  "SEXVIDEOXXX)video filtrado de Zao viral video de Zao intimo XVIDEOS.COM",
-  "~`(=maasranga tv=) পরিমনি pori moni viral video trending on social media X",
-  "[[VIRAL VIDEOS]] teacher viral video link",
-  "belle delphine Viral Video ![XnxX]💥️XnxXX!+Xnxx$~+)",
-  "18+VIDEOS]+]Archita Pukham Viral Video Download",
-  "Carney meets with Quebec premier during Francophone summit",
-  "18+!Videos) Camilla Araujo viral video original Clip in Social Media x TikTok",
-  "+ORIGINAL+CLIP+XXX+! Camilla Araujo viral video original Clip in Social Media x TikTok",
-  "5 Minute 14 Second Viral Video Mms || 5 minute 14 Second video",
-  "~@()+XVIDEOS.COM)🥠 New Pakistani Teacher Viral Video",
-  "Bell: Danielle Smith to lay it on the line with rebellious UCP separatists",
-  "Greens elect former MP Mike Morrice, the sole candidate, to lead party",
-  "New Orleans port sues to get control of tanker that crashed into cruise ship",
-  "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-  "New AI app helps Montreal woman with ALS get her voice back",
-  "5-alarm fire breaks out at Pierrefonds-Roxboro apartment building",
-  "Five-alarm fire in Pierrefonds-Roxboro neighbourhood",
-  "venezuela",
-  "navire semi-submersible",
-  "China-U.S. Trade Council Holds First Meeting: Tariffs and Agriculture on Agenda",
   "Health Department identifies additional exposure settings to confirmed case of measles in Durham Region",
-  "IIHF confirms Russia not competing at world juniors",
-  "Beloved sports media figure Watters passes away at 83",
-  "Desk-carrying teacher raises $19K to help kids with cancer at McMaster Children's Hospital",
-  "62% of Ontarians disapprove of Ford's education policies, Torontonians react",
-  "Walking out together happens when students resist denialism in Catholic education",
-  "57,000 Education Workers Vote on Strike Action",
-  "Inside the AI-Powered Marketplace Turning Infected Computers Into Searchable Profiles",
-  "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
-  "Alzheimer’s-linked protein may help detect advanced CTE: Study | Daily Sabah",
-  "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
-  "Ottawa’s Multi-Billion Food Strategy Comes With an Asterisk",
-  "5-alarm fire at Pierrefonds-Roxboro apartment building sends one person to hospital",
-  "Canada plans up to 200,000 extra permanent residence spaces. Here’s who could benefit",
-  "Man found guilty of assaulting tourist along Vancouver seawall",
-  "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-  "Viral Video Captures Reactions to UFC 334 Main Event",
-  "ronda rousey",
   "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
-  "~~!!👙💋‍🌶️@~(.XXX-VIDEO.)™VIRAL Video Porimoni & Mehjabin intimate video Viral | Porimoni & Mehjabin viral video 3543",
-  "Parliamentary Secretary Chi highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
-  "First Chinese-Made EVs Arrive in Canada Under Deal Carney Struck With Xi",
   "mark carney",
-  "journaliste",
-  "le journal de montréal",
-  "meghan, duchess of sussex",
-  "Drone Strike Sparks Fire at One of Russia’s Largest Petrochemical Plants 800 Miles From Ukraine",
-  "CBSA demoting border officers who permanently lost ability to use sidearm",
-  "N.L.’s top-billing doctor faces malpractice lawsuits from 2 former patients",
-  "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-  "1 person in hospital following 5-alarm fire at Pierrefonds-Roxboro apartment building",
-  "++XXX+EXCLUSIVE~ Sara Sindhi .video. viral. video de Sara Sindhi",
-  "++FULL+VIDEOS+!!Paige Spiranac Viral Video On Social Media",
-  "!!~XXX!@(=NaijaRED=) kambal hayma 1v5 kinaya lahat viral Video on social media",
-  "maurice morrow",
-  "haïti",
-  "Video captures confrontation outside Chinese Consulate in Toronto",
-  "PSPP and Carney have ‘very pleasant meeting’ following weeks of tensions",
-  "Montreal Opposition wants city to appoint executive responsible for systemic racism",
-  "suisse – écosse",
-  "crimean bridge",
-  "tatiana kim",
-  "vincent leclair ftq",
   "russia demands world juniors relocation",
-  "One hospitalized after fire at Montreal apartment building"
+  "One hospitalized after fire at Montreal apartment building",
+  "collective bargaining",
+  "canada lawful access bill c 22",
+  "Exodus in Poilievre's office as 5 staffers plan departures",
+  "Churchill Falls ‘Will Not Be Renegotiated’ Premier Asserts Following Reports Quebec Minister Wants to ‘Rework’ Parts of Agreement",
+  "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+  "Former ambassadors caution tariffs may stay but say Canada-U.S. trade deal possible",
+  "BC Hydro to blame for Squamish floods, some say",
+  "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
+  "5 Toronto residents among 12 charged in $4.5M auto theft investigation",
+  "pierre poilievre",
+  "clarence thomas",
+  "pierre karl péladeau",
+  "ambassadeur",
+  "Man charged after being found on girl’s bed in Vancouver break-and-enter",
+  "Downtown Eastside advocate Herb Varley remembered by Vancouver activists, family and friends"
  ]
 }

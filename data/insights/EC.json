@@ -1,33 +1,33 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-16T21:04:46Z",
+ "actualizado": "2026-11-17T01:04:19Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Ecuador vive una semana de lluvias fuertes en Guayaquil, Daule y Samborondón, con calles anegadas y cortes de luz, mientras el fenómeno de El Niño golpea la producción de cacao. En consumo, la noticia es que la venta de camionetas creció 33% con modelos ensamblados en el país, y el Black Friday del 27 de noviembre ya domina las búsquedas de ofertas en tecnología, moda y belleza. En entretenimiento, el nombramiento de Robert Pattinson como nuevo James Bond y la agenda cultural de Quito y Cuenca dan tema ligero. Lo que funciona hoy: contenido útil para la lluvia, ofertas claras y orgullo por lo hecho en Ecuador.",
+ "lectura": "Ecuador sigue con lluvias fuertes en Guayaquil, Daule y Samborondón, con calles anegadas y cortes de luz, mientras El Niño golpea la producción de cacao. En consumo destaca que la venta de camionetas creció 33% con modelos ensamblados en el país, y el Black Friday del 27 de noviembre (Cyber Monday el 30) ya domina las búsquedas de ofertas en tecnología, moda y belleza. El país lanzó además una estrategia de comercio justo 2026-2035 para impulsar exportaciones. Funciona el contenido útil para la lluvia, ofertas claras con costo final y el orgullo por lo hecho en Ecuador.",
  "ideas_hoy": [
   {
    "titulo": "Plan lluvia en Guayaquil",
-   "idea": "Las lluvias dejan calles anegadas en Guayaquil y alrededores. Comparte cómo pedir a domicilio, horarios ajustados y productos útiles (impermeables, extensiones con protección, linternas), con tono empático y sin bromas.",
+   "idea": "Las lluvias dejan calles anegadas y cortes de luz en Guayaquil y alrededores. Comparte cómo pedir a domicilio, horarios ajustados y productos útiles (impermeables, linternas, regletas con protección), con tono empático y sin bromas.",
    "formato": "Historias Instagram"
   },
   {
    "titulo": "Hecho en Ecuador que se vende",
-   "idea": "La venta de camionetas crece 33% con modelos ensamblados en el país. Cuenta en un video quién hace tu producto y dónde: el orgullo local está de moda y genera confianza, ñaño.",
+   "idea": "La venta de camionetas crece 33% con modelos ensamblados en el país. Cuenta en un video quién hace tu producto y dónde: el orgullo local genera confianza, ñaño.",
    "formato": "Reel"
   },
   {
-   "titulo": "Guía Black Friday sin sustos",
-   "idea": "Los titulares de consumo hablan de un Black Friday más caro y de comprar con consejos. Arma un carrusel con 4 pasos para comparar precios y cierra con tu oferta y el costo final con envío incluido.",
+   "titulo": "Black Friday con costo final",
+   "idea": "El Black Friday cae el 27 y Cyber Monday el 30 de noviembre. Publica desde ya tu precio final con envío incluido y un recordatorio para activar notificaciones: la gente desconfía de los descuentos inflados.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "El nuevo 007",
-   "idea": "Robert Pattinson será el nuevo James Bond y la búsqueda está alta. Marcas de moda, perfumería o relojería pueden hacer un \"look de agente\" con productos propios y un llamado a escribir por WhatsApp.",
-   "formato": "TikTok"
+   "titulo": "Comercio justo con historia",
+   "idea": "Ecuador lanzó una estrategia de comercio justo para impulsar exportaciones. Productores de cacao, café o artesanía pueden explicar en LinkedIn su trazabilidad y a quién benefician, para atraer compradores y aliados.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Cacao y chocolate con historia",
-   "idea": "El Niño afecta la producción de cacao y el tema está en la prensa internacional. Chocolaterías y cafeterías pueden explicar de dónde viene su cacao y lanzar cajas de regalo navideñas con preventa.",
-   "formato": "LinkedIn"
+   "titulo": "El look del nuevo 007",
+   "idea": "Robert Pattinson será el nuevo James Bond y sigue en tendencia. Marcas de moda, perfumería o relojería pueden hacer un \"look de agente\" con productos propios y llamado a escribir por WhatsApp.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
@@ -35,31 +35,31 @@
    "termino": "robert pattinson",
    "color": "verde",
    "por_que": "Anunciado como nuevo James Bond: tema de entretenimiento global.",
-   "idea": "Contenido de estilo \"look 007\", moda formal y regalos elegantes."
+   "idea": "Looks, regalos o \"misiones\" de compra con tono de cine."
   },
   {
    "termino": "puerto santa ana",
    "color": "amarillo",
-   "por_que": "Búsquedas por anegamientos y cortes de luz por las lluvias en Guayaquil.",
-   "idea": "Solo contenido útil y empático (delivery, cuidado del hogar); nada de humor sobre la afectación."
+   "por_que": "Zona de Guayaquil afectada por lluvias y cortes de luz.",
+   "idea": "Solo mensajes de servicio: horarios, domicilios y productos útiles, con empatía."
   },
   {
    "termino": "florida norte",
    "color": "amarillo",
-   "por_que": "Sector de Guayaquil afectado por calles anegadas y falta de luz.",
-   "idea": "Información de servicio y apoyo; evita usarlo como gancho comercial."
+   "por_que": "Barrio de Guayaquil con calles anegadas por las lluvias.",
+   "idea": "Información práctica para clientes de la zona; evita humor."
   },
   {
    "termino": "camioneta",
    "color": "verde",
-   "por_que": "Ventas de camionetas crecen 33% con nuevos modelos ensamblados en Ecuador.",
-   "idea": "Accesorios, seguros, mantenimiento y contenido de \"hecho en Ecuador\"."
+   "por_que": "Ventas de camionetas crecen 33% con modelos ensamblados en Ecuador.",
+   "idea": "Accesorios, seguros, lavado o financiamiento con mensaje de orgullo local."
   },
   {
-   "termino": "deuda",
+   "termino": "fiscal",
    "color": "amarillo",
-   "por_que": "Búsquedas ligadas a mercados financieros y endeudamiento.",
-   "idea": "Educación financiera simple antes de las compras navideñas; no prometas crédito fácil."
+   "por_que": "Término ambiguo; las noticias asociadas son financieras y poco ligadas al consumo.",
+   "idea": "Evita usarlo en anuncios; si hablas de impuestos, sé educativo y neutral."
   }
  ],
  "audiencias": {
@@ -1075,84 +1075,16 @@
   }
  ],
  "ocultar": [
-  "sercop",
-  "visa",
-  "Suben a dos los fallecidos en medio de fuerte lluvia en ciudad ecuatoriana de Guayaquil",
-  "el universo",
-  "emergencia",
-  "prófugo",
-  "ufc en vivo",
   "ufc",
-  "kayla harrison",
   "estafa",
-  "Así es la vida de Sandra Quito, una cuencana que huyó de Ecuador por las extorsiones y ahora vende espumilla en Nueva York",
-  "#LoMásLeído | “¡Ya se ching*ron, perros!”: así recibió 'El R2' a los marinos que entraron por él al restaurante en Guadalajara",
-  "'Educar entre escombros', la escuela de Damasco que incluye a niños con autismo y síndrome de Down",
-  "Asedio social en Yüksekova: niños, mujeres y jóvenes en el punto de mira - Primera parte",
-  "Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno Bank en Paraguay",
-  "Choque en salón de belleza en City Bell, Argentina",
-  "En Turquía, Paz sella preacuerdos de cooperación en minería, hidrocarburos y tecnología",
-  "Gerson Bermont, el secretario de Salud que quiere una Bogotá sanadora",
-  "Joyas, bolsos de lujo y una cartera llena de billetes tras robar 257.000 euros: la estafadora \"Anita, la fantástica\" no se escondía",
   "Luis Planas: La innovación será decisiva para una actividad agraria rentable y sostenible",
-  "Pescadores ecuatorianos demandarán a EU tras ser atacados en el Pacífico",
-  "Robaron una joyería en Rawson tras abrir un boquete",
   "jensen huang",
-  "juez",
-  "Ecuador elige a sus autoridades locales el 29 de noviembre",
-  "++Completo+videos+!!Bhad Bhabie video viral On Redes Sociales!",
-  "~`@?+(V𝕀RAL-Link+1𝟠)@! mehejabin video viral , Pori Moni and Maasranga TV Instagram: Últimas Tendencias de Búsqueda",
-  "Pederastia en TikTok: las redes sociales son un problema de seguridad nacional",
-  "Peligro infantil en TikTok | Noticias UNO -",
-  "+🍒💋El Video Filtrado de La Sarca Biker en bikini fotos filtradas: video viral en Telegram y X de la hondureña",
-  "Cuatro fallecidos en dos siniestros de tránsito en la vía Perimetral, Guayaquil",
-  "Bullying Sin Fronteras alerta sobre la emergencia que amenaza a los niños de Gaza.",
-  "Aumento de casos de meningitis y enfermedades respiratorias entre niños de Gaza",
-  "💎 Gabito Ballesteros y su vida de lujos: así presume sus autos deportivos y joyas millonarias https://mile.io/4kdfaBO",
   "cáncer",
   "vuelos cancelados estados unidos",
-  "Exhorta SSPCM a realizar compras seguras y prevenir fraudes durante el Buen Fin",
-  "Las Fuerzas Armadas de Ecuador recibieron 5.570 nuevos fusiles IWI ARAD 5",
-  "Patrullero volcado en la Av. Simón Bolívar, norte de Quito, habría sido robado",
-  "Los vendían hasta en $ 680: siete cachorros fueron rescatados en Cumbayá",
-  "Guayaquil cerró operativo de búsqueda de 18 horas por la desaparición de un padre y su hijo",
-  "Almeida celebra que “Madrid es una de las grandes capitales del deporte”",
-  "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "Desde 2002, Cuauhtémoc Blanco ha señalado a Lomas de Cortés como su hogar en Morelos; esta es la colonia donde vive el ídolo americanista",
-  "Se divorcian y él reclama los muebles de la casa donde vivían, que era de sus suegros y que ella asegura que tenía antes de casarse: la Justicia los incluye en gananciales",
-  "Alerta de rabia canina en perros callejeros en Chennai",
-  "En México, 3.5 millones de niños trabajan",
-  "Llanos Massó: “VOX garantizará una educación de calidad, sin imposiciones ideológicas y con el español en todas las aulas”",
-  "Un festival de música termina en caos y una gran pelea en una famosa playa mexicana",
-  "La plataforma de arte contemporáneo Veo Islas presenta \"Memorias sin domicilio\", una exposición colectiva que reúne en Venecia las obras de 11 artistas de Cuba, Francia, Chile y España para reflexionar sobre el desplazamiento, la identidad y la experienc",
-  "España intensifica el riesgo de fraude online en el comercio electrónico navideño",
-  "Decenas de millones 'donados' en TikTok: el nuevo método de los narcotraficantes para blanquear dinero",
-  "Detienen a 5 mujeres por intentar robar mercancía valuada en 150 mil pesos en el Buen Fin en Ciudad de México https://mile.io/4eDQTBm",
-  "Ecuador recuerda con marchas huelga obrera de 1922",
-  "Un adolescente fue arrinconado por ladrones con cuchillos en Cumbayá, Quito",
   "aeropuerto",
-  "amanda nunes",
-  "Vio un anuncio en TikTok y recibió dinero por Bizum en su cuenta: acaba condenada por estafa",
-  "Cuba recibe un tercer cargamento humanitario, un vuelo de esperanza para familias vulnerables",
-  "El periodista Eduardo Flores Salado fue hallado sin vida la noche del sábado 14 de noviembre en la zona suburbana de Acapulco, Guerrero. Su cuerpo fue localizado en inmediaciones de la colonia Canuto Nogueda, con una marca rojiza en el cuello, por lo",
-  "Katie Hobbs prioriza vivienda, salud y seguridad fronteriza en Arizona",
-  "EEUU pidió explicaciones a Nvidia por la posible venta ilegal de sus chips de inteligencia artificial más avanzados a China",
-  "AMIC rescata a seis perros en condiciones de desnutrición y deshidratación durante dos cateos en Agua Prieta •Investigaciones permitieron intervenir dos inmuebles y rescatar a los ejemplares, que presentaban signos de abandono y problemas de salud Ag",
-  "Merkel defiende a Israel y señala que Hamás utiliza a los niños como escudos humanos",
-  "El Ministerio de Educación pondrá ‘bajo la lupa’ a la Universidad del Magdalena por el posgrado de Jaime Vives: revisarán cómo obtuvo el título",
-  "Félix Gallardo, el capo que leía a García Márquez y coleccionaba autos clásicos https://mile.io/4C6jzwR",
-  "La industria azucarera de Cuba enfrenta su peor zafra en más de un siglo y el régimen de Díaz-Canel pide una reconversión urgente",
-  "Publicación de un artículo de Xi Jinping sobre la construcción conjunta de una comunidad de futuro compartido Asia-Pacífico",
-  "Buque tanker embiste crucero en Nueva Orleans: 180 personas rescatadas y 32 hospitalizadas",
-  "EU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
-  "ley",
-  "Lluvias amenazan 21 recintos electorales a días de las votaciones en Ecuador",
   "Profesores universitarios anuncian su participación en la protesta nacional del Black Friday",
-  "Quito, Guayaquil y Cuenca: así están las intenciones de voto en estas ciudades",
   "“Nadie es Dios para juzgar”: el mensaje en TikTok de la madre de alias Primo Gay tras su captura en Briceño",
-  "El CCII exige a TikTok retirar material de presunto abuso infantil",
-  "EROSKI Suspende Su Publicidad En TikTok Y Se Suma A Otras Marcas",
-  "El vaticinio de Ester Muñoz sobre Sánchez se topa con un inesperado 'trend' en TikTok",
-  "Ecuador and Morocco Advance on Visa Agreement and Bilateral Trade"
+  "Ecuador and Morocco Advance on Visa Agreement and Bilateral Trade",
+  "Confirman en Ecuador condena de prisión para hijo de exvicepresidenta"
  ]
 }
