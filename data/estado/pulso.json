@@ -1,12 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-17T03:51:17Z",
- "duracion_seg": 113.1,
- "errores": 1,
- "muestra_errores": [
-  {
-   "url": "https://news.google.com/rss/search?q=%28%22Quito%22+when%3A1d%29+Ecuador&hl=es-419&gl=EC&ceid=EC%3Aes-419",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-17T03:51:17Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-17T04:55:39Z",
+ "duracion_seg": 104.3,
+ "errores": 0,
+ "muestra_errores": []
 }
