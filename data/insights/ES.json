@@ -1,65 +1,65 @@
 {
  "pais": "ES",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "España calienta motores para el Black Friday del 27 de noviembre: se prevé un gasto navideño un 10 % mayor, hasta unos 1.067 euros por persona, y marcas como Hisense, Incapto o Amazon ya adelantan descuentos. Hoy hay huelga en Renfe con servicios mínimos, lo que afecta a la movilidad en Madrid y Barcelona. En ocio suenan MasterChef Celebrity, Pasapalabra y la serie vertical de Playz; el consumidor quiere ofertas reales, envío gratis y comodidad.",
+ "lectura": "España calienta motores para Black Friday: los medios ya publican fechas oficiales y las marcas de moda y deporte adelantan rebajas. La huelga de maquinistas complica la movilidad en Cercanías y Rodalies, y llegan la nieve y los temporales al norte. En redes triunfan los cosméticos coreanos virales y las series verticales: contenido corto, útil y con oferta clara es lo que mejor funciona hoy.",
  "ideas_hoy": [
   {
-   "titulo": "Huelga de Renfe: te lo llevamos",
-   "idea": "Hoy hay huelga en Renfe y Cercanías recomienda otros medios. Ofrece envío o recogida flexible con un mensaje empático: 'hoy no hace falta que vengas'.",
-   "formato": "Historia Instagram"
+   "titulo": "Teletrabajo en día de huelga",
+   "idea": "La huelga de maquinistas deja Cercanías casi sin servicio. Cafeterías, coworkings y tiendas de tecnología pueden ofrecer planes para trabajar cerca de casa o entrega a domicilio.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "Gasto navideño +10 %",
-   "idea": "Los españoles gastarán un 10 % más esta Navidad, mucho en Black Friday. Publica una guía de regalos por presupuesto (menos de 20, 50 y 100 euros) con envío gratis.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Cestas de Navidad para empresas",
-   "idea": "Hay decenas de anuncios activos de cestas de Navidad para empresas en Meta. Si vendes gourmet o regalos, lanza un formulario de presupuesto rápido para pedidos corporativos.",
-   "formato": "LinkedIn"
-  },
-  {
-   "titulo": "Serie vertical, formato vertical",
-   "idea": "La serie vertical de Playz está en tendencia. Cuenta la historia de tu marca en tres capítulos de un minuto en vertical, con un gancho al final de cada uno.",
+   "titulo": "El stick coreano",
+   "idea": "El bálsamo coreano con 'efecto relleno' arrasa en TikTok. Tiendas de belleza: haz una prueba antes y después con tu producto similar y precio claro.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Comercio de barrio vs. Black Friday",
-   "idea": "Comercios locales defienden comprar con criterio frente al Black Friday. Si eres tienda de barrio, comunica tu propuesta: asesoría, cambios fáciles y producto cercano.",
+   "titulo": "Preparado para la nieve",
+   "idea": "Burgos ya instala saleros por la nieve. Tiendas de ropa y hogar pueden lanzar un pack de invierno con entrega rápida.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Black Friday con fecha",
+   "idea": "Ya se conocen las fechas oficiales de Black Friday. Publica tu calendario y aclara si tus descuentos son sobre el precio de los últimos 30 días, algo que el comprador valora.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Series verticales",
+   "idea": "Las series en formato vertical ganan público. Prueba una miniserie de tres capítulos contando la historia de tu producto o tu cliente.",
    "formato": "Reel"
   }
  ],
  "semaforo": [
   {
-   "termino": "play z",
+   "termino": "belén rueda",
    "color": "verde",
-   "por_que": "Interés por una serie vertical de ficción e improvisación.",
-   "idea": "Formatos de microserie vertical para contar tu marca."
+   "por_que": "Anécdota de cine de una actriz muy querida.",
+   "idea": "Contenido de cine español y planes de fin de semana."
+  },
+  {
+   "termino": "emma watson",
+   "color": "amarillo",
+   "por_que": "Incidente con fotógrafos y cazadores de autógrafos.",
+   "idea": "Habla de respeto y privacidad en general, sin explotar el episodio."
+  },
+  {
+   "termino": "the economist 2027",
+   "color": "verde",
+   "por_que": "Interés por las tendencias del próximo año.",
+   "idea": "Posts de 'qué viene en 2027' para emprendedores."
   },
   {
    "termino": "renfe",
    "color": "amarillo",
-   "por_que": "Huelga con servicios mínimos; afecta desplazamientos.",
-   "idea": "Ofrece alternativas de entrega y empatía, sin opinar sobre el conflicto laboral."
-  },
-  {
-   "termino": "vivienda",
-   "color": "amarillo",
-   "por_que": "Debate sobre la falta de vivienda disponible.",
-   "idea": "Contenido útil para inmobiliarias o decoración, evitando posturas políticas."
+   "por_que": "Huelga de maquinistas con servicios mínimos.",
+   "idea": "Mensajes de servicio: entregas a domicilio y alternativas para moverse."
   },
   {
    "termino": "supermercado",
    "color": "verde",
-   "por_que": "Aperturas de supermercados y comparación de precios.",
-   "idea": "Recetas o ideas de ahorro conectadas a tu producto."
-  },
-  {
-   "termino": "twitch",
-   "color": "verde",
-   "por_que": "Conversación sobre creadores y plataformas de streaming.",
-   "idea": "Colaboraciones con streamers pequeños para directos de producto."
+   "por_que": "Aperturas de supermercados y precio de la compra.",
+   "idea": "Comparativas de cesta y ofertas de temporada."
   }
  ],
  "ocultar": [
@@ -102,7 +102,27 @@
   "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
   "El cara a cara de Sánchez y Feijóo deja sin programa a Broncano y Pablo Motos pero Iker Jiménez aguanta",
   "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "carmen puente",
+  "El togolés Gilbert Houngbo es reelegido al frente de la OIT",
+  "Japón denuncia que dos aviones rusos violaron su espacio aéreo y protesta ante Moscú",
+  "El Papa, el \"cuerdo de Dios\" en Perú, el país de los extremos",
+  "🗣️ Los desalojados de la acampada en Barcelona se concentran en Sant Jaume y aseguran que seguirán \"combativos y activos\" 🎥 Europa Press #Barcelona #PlazaCatalunya #Vivienda #Cataluña #España",
+  "Collboni desaloja la acampada de Barcelona tras detectar un impacto en las encuestas",
+  "Clara Bilbao: \"La moda es una máquina tragaperras muy grande. Solo hay que pensar en todo que se vende por minuto\"",
+  "La DANA deja una importante huella en la salud mental: el 49% de las personas adultas presenta malestar psicológico y el 15,7% síntomas de estrés postraumático",
+  "Esta vez protestan los dueños de perros en Vitoria",
+  "José Manuel Soto: «La vivienda es inasequible en España, la sanidad está desbordada y la educación desprestigiada. Tan solo hay una cosa que funciona bien, Hacienda»",
+  "El BCE plantea una oleada de inspecciones a los bancos por la inteligencia artificial y el fraude",
+  "RTX (RTX) inicia la construcción de un centro de mantenimiento, reparación y revisión en India, cuya apertura está prevista para 2029",
+  "Danza, palabra y música el miércoles en la IV Gala contra la violencia de género",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "ley",
+  "china",
+  "Intrahistoria del fracaso de la candidatura de Yolanda Díaz para liderar la OIT (y de una renuncia incoherente)",
+  "Radiografía del PSOE: Los socialistas se aferran a la movilización el 29-N",
+  "Japón protesta ante Rusia y envía cazas por violar su espacio aéreo"
  ],
  "audiencias": {
   "general": {

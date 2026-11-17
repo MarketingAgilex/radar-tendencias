@@ -1,65 +1,65 @@
 {
  "pais": "US",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El consumidor estadounidense entra a la semana previa a Thanksgiving (26 de noviembre) con ofertas anticipadas de Black Friday en Target, Walmart, Best Buy y Nordstrom, pero también con desconfianza: varios reportes cuestionan si los descuentos de Amazon son reales. Las fallas de United Airlines y de bancos en línea, más las tormentas por El Niño en la costa oeste, ponen la confianza y la logística en el centro. Gana quien prometa precio transparente, entrega a tiempo y atención humana.",
+ "lectura": "Faltan nueve días para Thanksgiving y diez para Black Friday: el consumidor estadounidense busca ofertas tempranas en Target, Macy's y Best Buy, pero desconfía, porque varios reportes cuestionan si los descuentos son reales. En entretenimiento suenan el remake de Zelda: Ocarina of Time, el estreno de la secuela de 'Cliff Booth' y las nominaciones al Grammy 2027 con muchos artistas latinos. Las marcas que muestren precios honestos y fechas de envío claras para las fiestas tienen ventaja.",
  "ideas_hoy": [
   {
-   "titulo": "Real deal, no decoy",
-   "idea": "Hay debate sobre descuentos 'inflados' en Black Friday. Publica un comparativo honesto con tu precio de los últimos 30 días y el de la oferta; la transparencia es el gancho.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Thanksgiving shipping deadline",
-   "idea": "Thanksgiving es el 26 de noviembre y los envíos se saturan. Anuncia la fecha límite para recibir antes del feriado y para enviar regalos a Latinoamérica antes de Navidad.",
+   "titulo": "Black Friday honesto",
+   "idea": "Hay reportes que cuestionan si las ofertas de Black Friday son reales. Publica tu historial de precio (antes y ahora) y una garantía de 'precio más bajo de la temporada'.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Small Business Saturday",
-   "idea": "Varias ciudades ya promueven el Small Business Saturday (28 de noviembre). Emprendedores hispanos pueden contar su historia en video y ofrecer un beneficio solo para quien compre local ese día.",
+   "titulo": "Thanksgiving: last call",
+   "idea": "A nueve días de Thanksgiving, publica la última fecha de pedido para recibir antes del feriado y opciones de regalo para anfitriones.",
    "formato": "Reel"
   },
   {
-   "titulo": "Storm-ready en la costa oeste",
-   "idea": "Olas gigantes y lluvias por El Niño son tendencia en California. Negocios de hogar, ropa impermeable o delivery pueden ofrecer un 'kit de tormenta' con entrega rápida.",
+   "titulo": "Nominados latinos al Grammy",
+   "idea": "Shakira, Karol G, Feid y otros colombianos están nominados al Grammy 2027. Marcas para la comunidad latina pueden hacer un 'outfit para la fiesta de los Grammy' o una playlist con productos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Cuando falla el sistema, estamos",
-   "idea": "Las caídas de United y de bancos en línea generaron frustración. Muestra tus canales de atención (WhatsApp, teléfono, chat) y tu promesa de respuesta en minutos.",
-   "formato": "LinkedIn"
+   "titulo": "Zelda vuelve",
+   "idea": "El remake de Ocarina of Time es el juego físico más vendido de la semana. Tiendas gamer: arma un bundle (consola, juego y accesorio) como regalo navideño.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Compra hoy, envía a casa",
+   "idea": "Para la diáspora latina, comparte una guía de 'qué conviene comprar en Black Friday para enviar a la familia' con plazos realistas antes de Navidad.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
+   "termino": "owala coca-cola",
+   "color": "verde",
+   "por_que": "Colaboración de marcas que lanza una línea nueva de termos.",
+   "idea": "Ejemplo de co-branding: piensa una edición especial con una marca aliada para las fiestas."
+  },
+  {
+   "termino": "black friday sales",
+   "color": "verde",
+   "por_que": "Búsquedas de ofertas tempranas de Black Friday.",
+   "idea": "Publica tus descuentos con precio anterior visible y fechas de envío."
+  },
+  {
    "termino": "united airlines",
    "color": "amarillo",
-   "por_que": "Falla generalizada de sistemas que retrasó vuelos; tema de frustración.",
-   "idea": "Comunica tus alternativas y tiempos reales si tu negocio depende de vuelos, sin burlas."
+   "por_que": "Falla de sistemas que retrasó vuelos.",
+   "idea": "Mensajes de servicio: planifica tus viajes de Thanksgiving con margen."
   },
   {
    "termino": "connections hint november 16",
    "color": "verde",
-   "por_que": "El juego diario del NYT mantiene una audiencia fiel.",
-   "idea": "Crea un mini acertijo semanal de tu marca en historias para generar interacción."
+   "por_que": "Juego diario de palabras del NYT, hábito masivo.",
+   "idea": "Ganchos tipo acertijo para presentar productos en redes."
   },
   {
    "termino": "el niño weather",
    "color": "amarillo",
-   "por_que": "Interés por lluvias y olas fuertes asociadas a El Niño.",
-   "idea": "Contenido de preparación y productos útiles, con tono responsable."
-  },
-  {
-   "termino": "spacex starship rocket launch",
-   "color": "verde",
-   "por_que": "Gran interés por el vuelo de prueba de Starship.",
-   "idea": "Post de innovación: 'lo que aprendimos de intentar lo imposible' para marcas tech."
-  },
-  {
-   "termino": "nvidia earnings",
-   "color": "amarillo",
-   "por_que": "Volatilidad en acciones tecnológicas y cambios en Nvidia.",
-   "idea": "Contenido educativo sobre IA y productividad; evita recomendaciones de inversión."
+   "por_que": "Pronóstico de un El Niño fuerte para el invierno.",
+   "idea": "Contenido de preparación para el clima sin alarmismo; ropa y hogar."
   }
  ],
  "audiencias": {
@@ -1027,6 +1027,41 @@
   "Pentagon fails ninth straight audit despite progress in organizing finances",
   "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
   "State issues warning to Harris County judge from viral video of confrontation with IT tech",
-  "New York City votes to make support for LGBTQ+ veterans a permanent duty"
+  "New York City votes to make support for LGBTQ+ veterans a permanent duty",
+  "san diego",
+  "apec",
+  "john kiriakou",
+  "Inside Lutnick's Commerce Department, lack of action on alleged AI chip smuggling came with a side of \"chaos,\" ex-employees say",
+  "+@!EXCLUSIVE VIDEO!objeto pastel Viral Video)",
+  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
+  "Chemical release at Chiquita Canyon Landfill in Castaic prompts evacuation advisory",
+  "More people perceive Washington, D.C., New York City as safe to visit",
+  "Metro proposal for Westfield Fashion Square enrages Sherman Oaks residents",
+  "Broad-Based Categorical Eligibility Under Threat",
+  "Amid SNAP cuts, Lumbee food sovereignty fills the gap",
+  "‘Really Frustrating Bureaucracy’: Totally Tea + Coffee Owner to Create Documentary About Court Battle Against Facebook",
+  "Health Net Providing Special Assistance to Members and Providers Affected by MP18 Fire in Humboldt",
+  "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite",
+  "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+  "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+  "Strengthening NATO and allied cyber defenses with AI",
+  "Bessent pushed new AI chips rule over Commerce objections",
+  "Press play: Russia’s push to recruit through gaming",
+  "I Want to Have a Baby Because I Miss the Violence",
+  "Op-Ed: New Jersey’s next education opportunity is one decision away",
+  "Auburn City Council approves construction of new mosque for Auburn Islamic Center",
+  "Oil slips as recovering Middle East exports blunt Gulf tensions",
+  "Strait of Hormuz remains perilous route for shipping",
+  "Saronic to develop autonomous logistics vessel for US Marine Corps",
+  "government jobs",
+  "danielle lopez dental records confirmation",
+  "kristina bogic age",
+  "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US",
+  "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office",
+  "Family Dollar To Issue Refunds In Louisiana Under FTC Price Settlement",
+  "‘JD Habibi’ goes viral after El-Sayed’s victory speech",
+  "Qué pasará cuando FEMA haga la prueba nacional del Sistema de Alerta de Emergencia",
+  "Brooklyn building collapse highlights real estate’s industries deadly grip in New York",
+  "Student detained after report of man with gun triggers lockdown at Walnut HS, deputies say"
  ]
 }

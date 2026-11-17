@@ -1,65 +1,65 @@
 {
  "pais": "FR",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Francia está en pleno pre-Black Friday: Carrefour, Fnac, Samsung, Sonos o De'Longhi ya anuncian descuentos y Amazon rebaja las PS5 antes de la salida de GTA VI. Hoy la huelga del 17 de noviembre perturba trenes y escuelas en Lyon y otras ciudades, y un fuerte golpe de viento amenaza Bretaña. En ocio, Star Academy y los anuncios navideños (como el de John Lewis) dan conversación: hacen falta ofertas claras, entregas fiables pese a las perturbaciones y un tono cálido.",
+ "lectura": "Black Friday ya empezó en Francia: Maisons du Monde, Boulanger, Carrefour y las operadoras móviles adelantan descuentos de hasta 50 %. El tiempo (vientos fuertes, meteorología local) y las perturbaciones del transporte en Lyon condicionan la semana. En redes, el contenido ligero y nostálgico (fêtes foraines, tendencias TikTok para mayores de 50) conecta bien: humor, comodidad en casa y ofertas visibles.",
  "ideas_hoy": [
   {
-   "titulo": "Huelga: te lo llevamos",
-   "idea": "La huelga del 17 de noviembre afecta a la SNCF y a las escuelas. Ofrece recogida flexible o entrega a domicilio con un mensaje empático y sin opinar sobre el conflicto.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Kit cocooning para Bretaña",
-   "idea": "Se anuncia un temporal de 72 horas en Bretaña. Los comercios locales pueden proponer un 'kit cocooning' (mantas, velas, bebidas calientes) con entrega antes del pico.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "El precio real del Black Friday",
-   "idea": "Las ofertas ya llueven. Publica un comparativo honesto con el precio de los últimos 30 días y el precio promocional para diferenciarte de los falsos descuentos.",
+   "titulo": "Le salon cocooning",
+   "idea": "Maisons du Monde lanza sofás desde 199,50 €. Marcas de hogar pueden mostrar un salón 'cocooning' para el invierno con el precio de cada pieza.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Calendario de Adviento",
-   "idea": "Hay más de 4.600 anuncios activos de calendarios de Adviento en Meta. Crea tu versión '24 sorpresas' con tus productos y una fecha límite de pedido.",
+   "titulo": "Tendencia en pijama",
+   "idea": "Una tendencia de TikTok invita a mayores de 50 a moverse en pijama en casa. Marcas de bienestar o ropa cómoda pueden sumarse con un video amable.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Black Friday anticipado",
+   "idea": "Boulanger y Carrefour arrancan antes. Si vendes en Francia, publica tus 'avant-premières' para clientes registrados.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Star Academy entre bastidores",
-   "idea": "Star Academy sigue muy vista. Haz un TikTok tipo 'evaluación de la semana' donde tu equipo califica tus productos con humor.",
-   "formato": "TikTok"
+   "titulo": "Fête foraine",
+   "idea": "Las ferias vuelven a varias comunas. Confiterías y negocios locales pueden ofrecer manzanas de caramelo o algodón de azúcar con un guiño nostálgico.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Lyon en movimiento",
+   "idea": "Hay perturbaciones en el transporte de Lyon. Comercios locales pueden ofrecer click & collect o entrega a domicilio esos días.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "coup de vent",
+   "termino": "mercadona",
+   "color": "verde",
+   "por_que": "Colección navideña de maquillaje muy buscada.",
+   "idea": "Ideas de regalo de belleza con precio accesible."
+  },
+  {
+   "termino": "autorisation de découvert",
    "color": "amarillo",
-   "por_que": "Fuerte temporal anunciado en Bretaña.",
-   "idea": "Consejos prácticos y productos útiles, avisando de posibles retrasos."
+   "por_que": "Cambia el crédito al consumo el 20 de noviembre.",
+   "idea": "Explica tus opciones de pago con transparencia; no empujes a endeudarse."
+  },
+  {
+   "termino": "élevage",
+   "color": "verde",
+   "por_que": "Historia de un emprendedor que cría caracoles.",
+   "idea": "Contenido de emprendimiento local y productos de origen."
+  },
+  {
+   "termino": "météo",
+   "color": "verde",
+   "por_que": "Pronóstico con vigilancia por tormentas.",
+   "idea": "Mensajes de servicio y productos para el mal tiempo."
   },
   {
    "termino": "star academy",
    "color": "verde",
-   "por_que": "Programa muy seguido cada semana.",
-   "idea": "Formatos de evaluación y detrás de cámaras con humor."
-  },
-  {
-   "termino": "gta vi",
-   "color": "verde",
-   "por_que": "Salida del videojuego más esperado del año.",
-   "idea": "Kits gamer y entrega antes del jueves."
-  },
-  {
-   "termino": "playstation 5 ps5",
-   "color": "verde",
-   "por_que": "Rebajas de PS5 antes de GTA VI.",
-   "idea": "Packs de consola con accesorios o juegos."
-  },
-  {
-   "termino": "arnaud sncf",
-   "color": "amarillo",
-   "por_que": "Historia personal ligada a un control de la SNCF; tema sensible.",
-   "idea": "No lo uses en publicidad; habla mejor de atención al cliente humana."
+   "por_que": "Programa musical con gran audiencia.",
+   "idea": "Contenido de 'prime del viernes' con snacks o moda."
   }
  ],
  "audiencias": {
@@ -1222,6 +1222,45 @@
   "fioul",
   "rue d'aubagne",
   "La visite d’Édouard Geffray au lycée incendié Nelson Mandela, à Nantes est pour Johanna Rolland « une occasion manquée »",
-  "Ce coup de pression de La France insoumise dit tout des difficultés de Marine Tondelier pour 2027"
+  "Ce coup de pression de La France insoumise dit tout des difficultés de Marine Tondelier pour 2027",
+  "sénat",
+  "la presse de la manche",
+  "incendie",
+  "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
+  "Perturbations dans les transports, parcours : à quoi s'attendre pour la manifestation du 17 novembre à Grenoble",
+  "Pourquoi le ministère de l'Éducation nationale et les syndicats lycéens ne communiquent pas les mêmes chiffres sur les blocus",
+  "Suivez en direct le Conseil de Paris de novembre 2026",
+  "Grève du 17 novembre : mobilisation, transports, parcours... À quoi s'attendre pour cette nouvelle journée de manifestation",
+  "Besançon. Pillages du 17 octobre : ils échangeaient les vêtements Lacoste volés contre de la cocaïne",
+  "« Le Café du Marin », une édition spéciale pour les 400 ans de la Marine lancée à Toulon",
+  "Réforme de la Pac : Annie Genevard veut préserver le budget pour la période 2028 2034",
+  "Reconduction de la taxe exceptionnelle sur les complémentaires santé",
+  "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins, demandent leur interdiction",
+  "Présidentielle 2027 : le jeu vidéo phénomène GTA VI va-t-il s’inviter malgré lui dans la campagne ?",
+  "Le refuge pour chats \"4 pattes sur mon cœur\" de Simiane-Collongue vandalisé pour des croquettes et de la pâtée",
+  "\"On ne les reverra pas\" : un collectif se crée suite à la saisie de 800 chiens sauvés d'un élevage soupçonné d'escroquerie",
+  "Droit de vote des enfants, lutte contre les discriminations… Quel avenir dessine la Gen Z des Pyrénées-Orientales ?",
+  "Primaire de la droite et du centre : « On ne peut pas se payer le luxe de ces campagnes en parallèle », dénonce Marc Ferracci",
+  "Les chiffres des lycées bloqués sont-ils minimisés par l’Éducation nationale ?",
+  "Éducation à Mayotte : nouvelle journée de mobilisation ce mardi à Mamoudzou",
+  "Somalie : les États-Unis prolongent leur soutien logistique à une mission de l'ONU",
+  "Les États-Unis confirment enquêter sur Megaspeed et ses exportations de puces",
+  "Mouvement social : comment la musique classique est devenue l’atout des manifestants",
+  "Allier : un incendie en cours dans une entreprise de recyclage près de Montluçon",
+  "Allier : un incendie en cours dans une usine de recyclage",
+  "manuel bompard",
+  "sahara occidental",
+  "fonctionnaire",
+  "vaulx-en-velin",
+  "Ce qu’il faut retenir du débat entre 5 candidats à la présidentielle : impôts, salaires, logement, retraite",
+  "\"Les grèves ça paie toujours\": Sophie Binet, secrétaire générale de la CGT, plaide pour \"un maximum de grèves\" le 17 novembre",
+  "Procès de « la petite martyre de l’A10 » : les six frères et sœurs d’Inass pris dans un conflit de loyauté",
+  "EN DIRECT – Mobilisations sociales : fonctionnaires, cheminots, étudiants et lycéens dans la rue ce mardi",
+  "Emmanuel Macron annonce un partenariat stratégique entre la France et la Malaisie",
+  "Cigarette en main, lunettes de soleil… Kim Jong Un photographié sur les pistes de ski près de la frontière chinoise",
+  "Bahreïn : des explosions entendues dans la capitale Manama",
+  "\"Absolument scandaleux\" : gros malaise sur franceinfo à propos d'Anne-Cécile Mailfert et de son couple",
+  "Grève du 17 novembre : par où passe le cortège parisien cet après-midi",
+  "Commerces pillés à Paris : « Nous serons aux côtés des commerçants aussi longtemps qu'il le faudra », assure la mairie"
  ]
 }

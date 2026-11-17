@@ -1,53 +1,59 @@
 {
  "pais": "CO",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "A diez días del Black Friday (27 de noviembre) el colombiano ya compara precios: la prensa habla de descuentos anticipados en tecnología, moda, viajes y hasta vivienda, y repite que hay que revisar antes de comprar. El clima en Bogotá sigue siendo la búsqueda más fuerte y en Barranquilla los hoteles están casi llenos por la final de la Sudamericana. Gana quien muestre precio final, fecha de entrega y confianza, y quien aproveche el rumor del 'apagón mundial' con contenido útil y tranquilo.",
+ "lectura": "El colombiano está en modo Black Friday antes de tiempo: las marcas de ropa deportiva ya publican descuentos y hasta los proyectos de vivienda en Bogotá anuncian su propio Black Friday. En tecnología llama la atención la advertencia sobre apps piratas de TV como Xuper TV, una oportunidad para hablar de streaming legal y seguro. Con cortes de agua programados en Bogotá y la Navidad a la vuelta, funcionan los mensajes útiles: comprar con tiempo, comparar precios y saber exactamente cuándo llega el pedido.",
  "ideas_hoy": [
   {
-   "titulo": "Tu lista antes del 27",
-   "idea": "Faltan diez días para el Black Friday y los medios insisten en comparar antes de comprar. Publica un carrusel 'guarda este post' con tus tres productos estrella, su precio de hoy y el que tendrán ese día, para que te sigan y vuelvan.",
+   "titulo": "Tu TV, sin riesgos",
+   "idea": "Expertos piden desinstalar Xuper TV por riesgos de seguridad. Tiendas de tecnología pueden publicar un carrusel con 'cómo ver tus series de forma legal' y recomendar dispositivos o planes oficiales.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Apagón mundial: lo que sí debes tener",
-   "idea": "El rumor del apagón de 72 horas circula en redes y ya fue desmentido. Haz un video corto que lo aclare sin burlas y recomiende lo básico que siempre conviene tener (power bank, linterna, pilas) con tu producto si aplica.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Black Friday para viajar",
-   "idea": "La prensa cuenta que los colombianos usan el Black Friday para comprar viajes. Si vendes maletas, ropa térmica o servicios turísticos, publica un 'checklist del viaje de diciembre' con oferta anticipada y fecha límite.",
+   "titulo": "Black Friday sin afán",
+   "idea": "Las marcas ya adelantan descuentos y los medios piden 'hacerse cinco preguntas antes de comprar'. Haz un video corto con tu checklist de compra inteligente y cierra con tu oferta con precio antes y después.",
    "formato": "Reel"
   },
   {
-   "titulo": "Bogotá: lluvia o sol, tú resuelves",
-   "idea": "El clima es la búsqueda número uno en Bogotá. Publica cada mañana una historia 'clima de hoy' con el producto que le sirve a tu cliente (paraguas, chaqueta, domicilio a casa) y un botón de compra.",
-   "formato": "Historia Instagram"
+   "titulo": "Fecha límite navideña",
+   "idea": "A cinco semanas de Navidad, publica un calendario con la última fecha para pedir y recibir a tiempo. Reduce la ansiedad del comprador y adelanta ventas.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Barranquilla llena: vende a visitantes",
-   "idea": "Las reservas hoteleras rozan el 100 % por la final de la Sudamericana. Negocios de comida, transporte y recuerdos pueden lanzar un combo 'visitante en Curramba' con domicilio al hotel y pago fácil.",
-   "formato": "Copy para anuncio"
+   "titulo": "Tendencias 2027 para tu negocio",
+   "idea": "'The Economist 2027' es búsqueda en alza. Escribe un post para emprendedores con tres tendencias del próximo año aterrizadas a tu sector.",
+   "formato": "LinkedIn"
+  },
+  {
+   "titulo": "Kit para los días sin agua",
+   "idea": "Hay cortes de agua programados en barrios de Bogotá y Soacha del 17 al 19 de noviembre. Negocios de hogar pueden recomendar recipientes, toallas húmedas o pedidos programados, con tono de servicio.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
-   "termino": "clima",
-   "color": "verde",
-   "por_que": "Búsqueda masiva diaria por el pronóstico en Bogotá.",
-   "idea": "Contenido útil del día con el producto que sirve para lluvia o sol."
-  },
-  {
-   "termino": "bancos estados unidos",
-   "color": "amarillo",
-   "por_que": "Interés por fallas en bancos digitales de EE. UU., relevante para quien recibe o envía dinero desde allá.",
-   "idea": "Explica con calma qué hacer si un pago se retrasa y ofrece alternativas de contacto, sin generar alarma."
-  },
-  {
    "termino": "the economist 2027",
    "color": "verde",
-   "por_que": "Interés por las tendencias que vienen para 2027.",
-   "idea": "Post de LinkedIn: tres tendencias de 2027 y cómo prepara tu marca o negocio."
+   "por_que": "Interés por las tendencias del próximo año.",
+   "idea": "Contenido de 'qué viene en 2027' aplicado a tu sector, ideal para LinkedIn."
+  },
+  {
+   "termino": "xuper tv",
+   "color": "amarillo",
+   "por_que": "Alertas de seguridad sobre una app de TV no oficial.",
+   "idea": "Educa sobre streaming seguro sin señalar a usuarios; ofrece alternativas legales."
+  },
+  {
+   "termino": "clima",
+   "color": "verde",
+   "por_que": "Búsqueda alta por pronóstico en Bogotá.",
+   "idea": "Mensajes de 'llueva o no, tu pedido llega' y productos de temporada de lluvias."
+  },
+  {
+   "termino": "estados unidos bancos",
+   "color": "amarillo",
+   "por_que": "Fallas en apps de bancos de EE. UU. que afectan a quienes compran o envían desde allá.",
+   "idea": "Recuerda tener un medio de pago alterno y confirma pagos antes de despachar."
   }
  ],
  "audiencias": {
@@ -1145,6 +1151,20 @@
   "sinuano noche hoy",
   "Papa León XIV fue golpeado en la cara con un rosario en medio de su recorrido en Perú",
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
-  "Milagro Week: José Manuel Restrepo anuncia que Grupo Plata aumentará su inversión en Colombia a US$400 millones"
+  "Milagro Week: José Manuel Restrepo anuncia que Grupo Plata aumentará su inversión en Colombia a US$400 millones",
+  "16 de noviembre",
+  "indonesia",
+  "Estos son los alimentos que se salvarían del IVA en Colombia",
+  "Campesinos de Codazzi exponen sus vidas por el abandono de las vías terciarias",
+  "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP",
+  "#LoMásVisto Una mujer de 23 años y dos niños fueron arrollados cuando un carro, al parecer, se desengranó y terminó contra una casa en Manizales, a las 7:25 p. m. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+  "El BCE plantea una oleada de inspecciones a los bancos por la inteligencia artificial y el fraude",
+  "RTX (RTX) inicia la construcción de un centro de mantenimiento, reparación y revisión en India, cuya apertura está prevista para 2029",
+  "China y Canadá amplían alivio arancelario para US$280 millones en exportaciones agrícolas",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "resultado caribeña día"
  ]
 }

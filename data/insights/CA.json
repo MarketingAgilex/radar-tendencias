@@ -1,65 +1,65 @@
 {
  "pais": "CA",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Canadá entra en modo invierno: avisos de nieve en las Praderas y prueba nacional de alertas de emergencia esta semana. El consumo navideño arranca con mercados de Navidad, ventas de artesanos y ofertas anticipadas de Walmart Canada, mientras la inflación (3,1 %, impulsada por gasolina y supermercado) hace que el comprador sea más selectivo. GTA VI llega el jueves y es la gran conversación gamer; conviene ofrecer valor, practicidad para el frío y regalos con fecha de entrega.",
+ "lectura": "El canadiense se prepara para el invierno (alertas de nieve) y para un Black Friday que llega casi en paralelo al de EE. UU. Hoy destacan la ciencia (el hallazgo de azufre del rover Curiosity), las series ('Boston Blue') y la expectativa por GTA 6, cuyo precio y reseñas se buscan mucho. Funcionan los mensajes prácticos de temporada y el contenido gamer y de entretenimiento para regalos.",
  "ideas_hoy": [
   {
-   "titulo": "Winter-ready checklist",
-   "idea": "Hay avisos de nieve en las Praderas y la conversación del clima no para. Publica un checklist de invierno con tus productos (ropa térmica, accesorios para auto, delivery) y precio final.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Christmas market vibes online",
-   "idea": "Los mercados navideños locales ya abren y atraen compradores. Si eres emprendedor, crea un 'mercado navideño online' en historias con productos hechos a mano y retiro local.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Smart Black Friday",
-   "idea": "Con inflación de 3,1 % el comprador compara más. Haz un video 'cómo saber si una oferta vale la pena' y termina con tu oferta transparente y envío incluido.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "GTA VI release day",
-   "idea": "Medios anticipan ausencias laborales el día de lanzamiento de GTA VI. Marcas de comida a domicilio, snacks y tecnología pueden lanzar un combo 'release day' solo para el jueves.",
+   "titulo": "GTA 6: prepara tu setup",
+   "idea": "Las búsquedas de precio y reseñas de GTA 6 están en alza. Tiendas de tecnología pueden promocionar almacenamiento, mandos y auriculares para el lanzamiento.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Libro del año para regalar",
-   "idea": "Your Breath in Charcoal ganó el Premio Giller y es tendencia. Librerías y tiendas de regalo pueden armar un 'pack lector de invierno' con el libro, una taza y una vela.",
+   "titulo": "Snow-ready",
+   "idea": "Hay alerta especial por nevadas. Publica un kit de invierno (botas, guantes, raspadores) con envío rápido y precio final.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Curiosidad de Marte",
+   "idea": "El hallazgo de azufre en Marte es tendencia. Marcas educativas o de juguetes pueden hacer un post de 'regalos para pequeños científicos'.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Look de alfombra roja",
+   "idea": "Florence Pugh brilló con un vestido de Valentino. Tiendas de moda pueden mostrar cómo llevar el metalizado a fiestas de fin de año por menos.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Bilingual Black Friday",
+   "idea": "Canadá es bilingüe: prepara tu oferta de Black Friday en inglés y francés y explica plazos de envío para Navidad.",
+   "formato": "Facebook"
   }
  ],
  "semaforo": [
   {
-   "termino": "canada emergency alert",
-   "color": "amarillo",
-   "por_que": "Prueba nacional de alertas; puede generar dudas.",
-   "idea": "Contenido informativo breve, sin alarmismo, y recordatorio de tu canal de contacto."
+   "termino": "nasa curiosity rover",
+   "color": "verde",
+   "por_que": "Descubrimiento científico en Marte.",
+   "idea": "Contenido educativo y regalos STEM."
   },
   {
-   "termino": "country music",
+   "termino": "boston blue",
    "color": "verde",
-   "por_que": "Interés por los premios de música country.",
-   "idea": "Playlist o contenido de estilo western para moda y eventos."
+   "por_que": "Interés por la serie derivada de 'Blue Bloods'.",
+   "idea": "Planes de maratón con snacks o comodidad en casa."
   },
   {
    "termino": "winter storm",
    "color": "amarillo",
-   "por_que": "Tormentas en la costa oeste.",
-   "idea": "Productos útiles de invierno y avisos claros de posibles retrasos en entregas."
+   "por_que": "Tormentas con nieve y lluvia en la costa oeste.",
+   "idea": "Mensajes de servicio y kits de invierno, sin alarmismo."
   },
   {
-   "termino": "météo",
+   "termino": "florence pugh",
    "color": "verde",
-   "por_que": "Búsqueda de pronóstico en Quebec.",
-   "idea": "Contenido en francés con productos para el frío en Montreal."
+   "por_que": "Look de alfombra roja muy comentado.",
+   "idea": "Moda de fiesta y accesorios metalizados."
   },
   {
-   "termino": "el niño",
-   "color": "amarillo",
-   "por_que": "Fenómeno climático con olas y lluvias fuertes en la costa del Pacífico.",
-   "idea": "Educación ligera y productos de preparación, con tono responsable."
+   "termino": "gta 6 price",
+   "color": "verde",
+   "por_que": "Búsquedas sobre el precio del juego antes del lanzamiento.",
+   "idea": "Bundles y planes de pago para gamers; precio final claro."
   }
  ],
  "audiencias": {
@@ -1243,6 +1243,21 @@
   "Vancouver council considers safeguards on vacant land reclassification",
   "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
   "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-  "Ford holds off on new cash for Stellantis plant, contradicting minister"
+  "Ford holds off on new cash for Stellantis plant, contradicting minister",
+  "former ambassadors canada us trade",
+  "Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen",
+  "LeBlanc to chair meeting of Canada-U.S. advisory committee Thursday",
+  "New Thames Valley trustee rips 'awful' swearing-in event, seeks supervisor's expense details",
+  "+@!EXCLUSIVE VIDEO!objeto pastel Viral Video)",
+  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
+  "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+  "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+  "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite",
+  "Boyd Gaming Corporation (BYD) Stock Price, News, Quote & History",
+  "Press play: Russia’s push to recruit through gaming",
+  "Parents, experts raise concerns over Quebec’s proposed ban on school kids wearing religious symbols",
+  "Canada strengthens Indo-Pacific partnerships through defence education",
+  "Oil slips as recovering Middle East exports blunt Gulf tensions",
+  "‘JD Habibi’ goes viral after El-Sayed’s victory speech"
  ]
 }

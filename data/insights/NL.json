@@ -1,38 +1,38 @@
 {
  "pais": "NL",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Países Bajos está en plena temporada de Sinterklaas: la llegada del nuevo Sint (Gijs Naber) fue lo más buscado de la semana y pakjesavond (5 de diciembre) se acerca. Al mismo tiempo, las promociones de Black Friday llevan semanas y algunos minoristas ya se quejan, mientras la gasolina vuelve a bajar de dos euros y el impuesto de circulación subirá el próximo año. Ganan las marcas con regalos para el zapato, precios honestos y un guiño a la tradición.",
+ "lectura": "Sinterklaas ya llegó a Países Bajos y la temporada de regalos está en marcha, con el nuevo Sint como gran tema de la semana. Black Friday arranca en MediaMarkt, Samsung y tiendas de deporte, pero los pequeños comercios lo viven con dudas y hay alertas por webshops falsas. Noviembre más frío de lo normal y GTA 6 completan el cuadro: regalos, seguridad al comprar y comodidad en casa.",
  "semaforo": [
   {
    "termino": "gijs naber",
    "color": "verde",
-   "por_que": "El nuevo Sinterklaas despierta enorme interés.",
-   "idea": "Contenido familiar y lúdico, sin parodiar al personaje."
+   "por_que": "El nuevo Sinterklaas es el tema de la semana.",
+   "idea": "Ideas de regalo para el 5 de diciembre con fecha límite."
   },
   {
-   "termino": "stoomboot van sinterklaas",
+   "termino": "ariana grande",
    "color": "verde",
-   "por_que": "La llegada del Sint es un gran momento familiar.",
-   "idea": "Ideas de regalo para el zapato y para pakjesavond."
+   "por_que": "Cuatro nominaciones al Grammy 2027.",
+   "idea": "Contenido musical y looks inspirados en la artista."
   },
   {
-   "termino": "grammy nominations 2027",
-   "color": "verde",
-   "por_que": "Interés musical global.",
-   "idea": "Playlists y productos de música como regalo."
+   "termino": "anwb",
+   "color": "amarillo",
+   "por_que": "Acuerdo laboral tras una huelga.",
+   "idea": "Solo mensajes de servicio; sin tomar postura."
   },
   {
-   "termino": "max verstappen vdk",
+   "termino": "rick engelkes",
    "color": "verde",
-   "por_que": "Nuevo acuerdo de Verstappen con una empresa neerlandesa.",
-   "idea": "Contenido de alianzas y rendimiento para marcas B2B."
+   "por_que": "Historia personal de un productor de teatro.",
+   "idea": "Mensajes de resiliencia para marcas de bienestar."
   },
   {
-   "termino": "benzine",
-   "color": "verde",
-   "por_que": "Precios de gasolina más bajos.",
-   "idea": "Promociones de escapadas y viajes en coche."
+   "termino": "parasiet",
+   "color": "amarillo",
+   "por_que": "Historia viral de un viaje que terminó mal por un parásito.",
+   "idea": "Si vendes viajes, consejos de prevención sin alarmismo."
   }
  ],
  "audiencias": {
@@ -1220,33 +1220,70 @@
   "Als nabestaanden hun enorme verdriet delen, geeft de Erasmusschutter geen krimp: ‘Ik kijk mensen aan wanneer ik dat wil’",
   "Rusland meldt nieuwe aanvallen op Krimbrug, ook Oekraïense bruggen bestookt",
   "Nu is het officieel: in Rwanda moet eerste Europese ‘terugkeerhub’ komen, kabinet hoopt op afschrikkende werking",
-  "Politie deelt beelden van mishandeling dragqueen Reggy B. bij tramhalte in Amsterdam"
+  "Politie deelt beelden van mishandeling dragqueen Reggy B. bij tramhalte in Amsterdam",
+  "oldenzaal",
+  "Britse premier Burnham: we zijn slechter af na Brexit",
+  "Bereid je voor op noodsituatie van 72 uur, zegt overheid, maar hoe zit het met chronisch zieken? Patiëntenfederatie slaat alarm",
+  "Weer raak bij hetzelfde portiek in Rotterdam: explosie en geschoten op woning",
+  "Wekdienst 17/11: Jetten geeft uitleg over herstel vertrouwen • Memoires Biden komen uit",
+  "Om mensenrechten geeft Rwanda weinig, maar Nederland stuurt toch uitgeprocedeerde asielzoekers naar het land",
+  "Lijst risicovolle pfas-vervuilingen vol fouten: 'Aanpak overheid deugt niet'",
+  "Omwonenden over geplande asielopvang in Hulst: van zorgen over veiligheid tot ‘Black Friday-korting’ op hun huis",
+  "Ongeval met letsel op Louwesweg in Amsterdam",
+  "Hoe vrouwelijke leiders zich via kleding positioneren",
+  "Opnieuw massale staking bij kledingfabrieken in Bangladesh",
+  "Stikstofplannen zorgen voor aanscherping Nota Ruimte",
+  "Californië klaagt OpenAI aan om op hol geslagen AI-modellen en cyberaanvallen",
+  "Waarom mishandelen ouders hun kinderen? 'Het gebeurt ook in jouw buurt'",
+  "Ouders met regelmaat onder druk gezet voor ‘vrijwillige’ uithuisplaatsing",
+  "Hier slaapt Grad sinds zijn huis is verwoest: 'Kinderen kunnen niet komen'",
+  "Vooruit Kortrijk zamelt speelgoed in voor kinderen uit kwetsbare gezinnen: “Sinterklaas mag geen luxe zijn”",
+  "Meisje (13) dodelijk geraakt bij aanrijding tijdens politieachtervolging in Duitsland",
+  "Ook VVD-minister Heinen zocht contact met DENK voor deal over belastingplan",
+  "Dit stond in de appjes tussen DENK en VVD-minister van Financiën",
+  "Auto raakt van de weg op A2 bij Nieuwegein",
+  "Brand verwoest auto in Breda",
+  "Dodelijk verkeersongeluk bij Harderhaven, auto belandt onderaan dijk",
+  "Geparkeerde auto vliegt in brand in Breda, ook lantaarnpaal moet worden geblust",
+  "Junior uit Paradise Hotel krijgt op dag van nieuwe auto al aanrijding",
+  "Wat kunst ons kan leren over politiek",
+  "Jeroen moest na dodelijk ski-ongeluk van mede-oprichter in één klap het bedrijf runnen: ‘We moesten ook door’",
+  "Webshops massaal frauduleus gekopieerd richting Black Friday",
+  "rtv oost",
+  "krimbrug",
+  "luchtruim",
+  "Zo gaat het verder na reddingsplan coalitie: Jetten licht het toe na extra ministerraad",
+  "Deze mannen zaten in omstreden appgroep vol ‘creepshots’ van vrouwen, nu reageren zij voor het eerst",
+  "Europa mag van Rusland meeonderhandelen, ‘Poetin denkt: ik kan ze wel aan’",
+  "Ondernemers bellen niet met de VVD en willen dat de partij inbindt",
+  "Jongen op fatbike slaat dragqueen in Amsterdam vol in het gezicht, politie deelt video van mishandeling",
+  "Politiebusje rijdt zich vast op trambaan in Amsterdam"
  ],
  "ideas_hoy": [
   {
-   "titulo": "Algo para el zapato",
-   "idea": "El nuevo Sinterklaas es la conversación de la semana. Haz un carrusel de schoencadeautjes de menos de 10 euros con fecha límite de pedido antes del 5 de diciembre.",
+   "titulo": "Sinterklaas-cadeau",
+   "idea": "Con la llegada del nuevo Sinterklaas, publica ideas de regalo para el 5 de diciembre con fecha límite de pedido.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Una surprise con tu producto",
-   "idea": "Pakjesavond se acerca. Muestra en un video corto cómo convertir tu producto en una surprise (regalo disfrazado) con un poema corto.",
+   "titulo": "Echte webshop",
+   "idea": "Hay webshops copiadas de forma fraudulenta antes de Black Friday. Explica cómo verificar que tu tienda es la oficial (dominio, sellos, atención).",
    "formato": "Reel"
   },
   {
-   "titulo": "Black Friday sin agobio",
-   "idea": "Un directivo del comercio critica las cuatro semanas de Black Friday. Posiciónate con una sola oferta clara de 48 horas y precio honesto.",
-   "formato": "Copy para anuncio"
+   "titulo": "Black Friday local",
+   "idea": "Los emprendedores locales dudan de Black Friday pero participan. Prueba una alternativa: 'precio justo todo el año' más un regalo con la compra.",
+   "formato": "LinkedIn"
   },
   {
-   "titulo": "Gasolina más barata: escapada",
-   "idea": "La gasolina vuelve a bajar de dos euros. Marcas de viaje y hostelería pueden lanzar una promo 'fin de semana fuera' con descuento para quien llegue en coche.",
-   "formato": "Historias Instagram"
-  },
-  {
-   "titulo": "Deportes de invierno con tiempo",
-   "idea": "Ya hay ofertas de Black Friday para esquí. Tiendas de ropa y accesorios de nieve pueden publicar una checklist 'listo para la pista'.",
+   "titulo": "Personaliza tu regalo",
+   "idea": "Se promociona personalizar altavoces JBL con 25 % de descuento. Si vendes personalizados, muestra el proceso en video.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Koud weer, warm huis",
+   "idea": "Se anticipa un noviembre más frío. Ofrece mantas, calefactores eficientes o bebidas calientes con envío rápido.",
+   "formato": "Copy para anuncio"
   }
  ]
 }

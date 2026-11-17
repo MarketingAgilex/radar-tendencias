@@ -1,65 +1,65 @@
 {
  "pais": "AR",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El clima domina la agenda argentina: un ciclón trae lluvias de más de 180 mm en varias regiones, con alertas por tormentas y granizo en Córdoba y el Paraná en crecida. En el bolsillo, el dólar volvió a subir y la gente ya busca fechas y montos del aguinaldo de diciembre, así que el ahorro y las cuotas siguen siendo clave. El Black Friday y la apertura de la primera tienda oficial de LEGO en el país marcan el tono del consumo: ofertas claras, cuotas sin interés y regalos para las fiestas.",
+ "lectura": "El clima manda en Argentina: lluvias, tormentas y pronósticos por provincia lideran las búsquedas, y circula un rumor viral de 'apagón mundial' de 72 horas que conviene no amplificar. En consumo, Black Friday ya tiene fecha y crecen las guías para comprar tecnología de forma segura; GTA VI también acapara la atención cultural de la semana. Con el feriado del 23 de noviembre y el aguinaldo de diciembre en el horizonte, sirven las ofertas claras, en cuotas y con fechas de entrega precisas.",
  "ideas_hoy": [
   {
-   "titulo": "Llueve: delivery al rescate",
-   "idea": "El ciclón y las alertas por tormentas son lo más buscado. Comunicá que seguís entregando con horarios realistas y ofrecé un beneficio para pedidos programados.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Planificá con el aguinaldo",
-   "idea": "Las búsquedas sobre el aguinaldo de diciembre crecen. Armá un carrusel 'en qué invertir tu aguinaldo' con opciones de tu tienda en cuotas y un precio de referencia.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Black Friday en cuotas",
-   "idea": "Los medios explican cuándo es el Black Friday y qué se espera. Anunciá tu oferta con cuotas sin interés y precio final en pesos para dar certeza ante la suba del dólar.",
-   "formato": "Copy para anuncio"
-  },
-  {
-   "titulo": "LEGO y los regalos de fin de año",
-   "idea": "LEGO abrió su primera tienda oficial en el país. Jugueterías y tiendas de regalos pueden aprovechar con una guía de juguetes por edad para Navidad.",
+   "titulo": "Finde largo, plan listo",
+   "idea": "Se viene el feriado del lunes 23 de noviembre. Ofrecé combos para el finde largo (escapadas, picadas, juegos) con entrega antes del viernes.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit anti tormenta",
-   "idea": "Granizo y lluvias fuertes: es momento de cubreautos, paraguas, impermeables y linternas. Mostrá el kit en un video corto con precio y envío.",
+   "titulo": "Lluvia y delivery",
+   "idea": "Las tormentas y alertas dominan las búsquedas. Mostrá cómo protegés los pedidos y avisá horarios de entrega en días de lluvia, con tono tranqui.",
    "formato": "TikTok"
+  },
+  {
+   "titulo": "Black Friday tech sin chamuyo",
+   "idea": "Hay guías para elegir ofertas de tecnología y comprar seguro. Publicá un carrusel con precio final, cuotas y garantía, sin letra chica.",
+   "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "GTA VI, re manija",
+   "idea": "El lanzamiento de GTA VI es lo más comentado de la semana. Tiendas gamer: armá un 'kit manija' con mandos, auriculares y almacenamiento.",
+   "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "No hay apagón, hay ofertas",
+   "idea": "Circula la teoría de un apagón mundial. Respondé con humor liviano: 'acá no se corta nada, tu pedido llega igual', sin burlarte de nadie.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "ciclón",
+   "termino": "pronostico",
+   "color": "verde",
+   "por_que": "Búsquedas masivas del pronóstico en Buenos Aires.",
+   "idea": "Promos de paraguas, impermeables y delivery 'llueva o no'."
+  },
+  {
+   "termino": "supuesto apagón mundial",
    "color": "amarillo",
-   "por_que": "Evento de lluvias intensas que afecta a varias provincias.",
-   "idea": "Mensajes de servicio y productos útiles, sin alarmismo."
+   "por_que": "Rumor viral sin sustento sobre un apagón de 72 horas.",
+   "idea": "No lo amplifiques; si lo mencionás, que sea para dar calma y datos."
   },
   {
-   "termino": "clima",
+   "termino": "tiempo hoy",
    "color": "verde",
-   "por_que": "Búsqueda diaria y masiva de pronóstico.",
-   "idea": "Contenido útil del día con el producto que sirve."
+   "por_que": "Pronóstico del día en Buenos Aires.",
+   "idea": "Delivery 'llueva o no' y productos para días de lluvia."
   },
   {
-   "termino": "alerta meteorológica",
-   "color": "amarillo",
-   "por_que": "Alertas por eventos extremos en el Litoral y otras zonas.",
-   "idea": "Avisos de horarios y entregas; empatía con clientes afectados."
-  },
-  {
-   "termino": "lluvia",
+   "termino": "cuando sale gta 6",
    "color": "verde",
-   "por_que": "Lluvias frecuentes en Buenos Aires.",
-   "idea": "Ofertas 'día de lluvia' con delivery y productos para el hogar."
+   "por_que": "Expectativa por el lanzamiento del juego.",
+   "idea": "Cuenta regresiva y bundles gamer en cuotas."
   },
   {
-   "termino": "aguinaldo",
+   "termino": "gta 6",
    "color": "verde",
-   "por_que": "Interés por fechas y montos del medio aguinaldo de diciembre.",
-   "idea": "Planes de compra en cuotas y guías de ahorro para las fiestas."
+   "por_que": "Conversación global sobre el videojuego.",
+   "idea": "Contenido gamer y accesorios; evita ligar tu marca a la violencia del juego."
   }
  ],
  "ocultar": [
@@ -82,7 +82,24 @@
   "León XIV en la Amazonia peruana: \"La sangre de los líderes indígenas asesinados reclama justicia\"",
   "Aseguran que Mauro Icardi denunció a Martín Migueles tras el video viral: cuál es el delito",
   "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
-  "Kicillof anunció una inversión de $3.800 millones para financiar proyectos de investigación científica, tecnológica y social"
+  "Kicillof anunció una inversión de $3.800 millones para financiar proyectos de investigación científica, tecnológica y social",
+  "el papa león xiv",
+  "Cristina Kirchner designa a un peronista federal cercano a Sergio Massa para el Consejo de la Magistratura",
+  "El análisis de Jorge Fernández Díaz sobre la visita de León XIV: “Vino a romper una burbuja de narración hegemónica”",
+  "ARA San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
+  "Nueva York le puso un freno a la inteligencia artificial",
+  "Estados Unidos impuso nuevas restricciones para bloquear el acceso de China a sus chips más avanzados de Inteligencia Artificial",
+  "EEUU restringirá el acceso de China a chips de inteligencia artificial",
+  "POLÉMICA | Fondean en Ushuaia los tres yates de lujo que motivaron un conflicto en el Parque Nacional",
+  "La fintech Revolut, investigada por operaciones sospechosas de 76,5 millones de euros",
+  "Sturzenegger confunde industria con privilegio. Malestar y preocupación por sus declaraciones",
+  "Marcón informó la pavimentación de la Av. Devetach y la construcción de una prisión en Reconquista, entre otras obras presupuestadas para 2027. Aquí el listado que difundió.",
+  "ARCA clausuró depósitos aduaneros y paralizó el comercio exterior en Salta",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "Manipular las reglas: el eterno vicio de la casta",
+  "El papa León XIV fue golpeado en un ojo con un decenario cuando iba a dar su última misa en Perú"
  ],
  "audiencias": {
   "general": {
@@ -904,6 +921,81 @@
     "ES": "me flipa / me mola",
     "CL": "me encanta"
    }
+  },
+  {
+   "expresion": "Manija",
+   "significado": "Ansioso, muy entusiasmado o con muchas ganas de algo ('estar manija', 're manija').",
+   "uso": "Muy usado por jóvenes en redes, sobre todo antes de un lanzamiento, un recital o un viaje.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Estoy re manija con el lanzamiento de mañana.",
+   "equivalentes": {
+    "CO": "estar ansioso / con toda",
+    "MX": "estar emocionado / con ansias",
+    "EC": "estar emocionado",
+    "ES": "estar con ganas / flipado",
+    "CL": "estar ansioso / prendido"
+   }
+  },
+  {
+   "expresion": "Flashear",
+   "significado": "Imaginarse algo, fantasear o creer algo que no es ('flasheaste' = te lo imaginaste).",
+   "uso": "Coloquial y juvenil; frecuente en memes y comentarios.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "No flashees: este precio es real.",
+   "equivalentes": {
+    "CO": "imaginarse cosas / alucinar",
+    "MX": "alucinar / imaginarte cosas",
+    "EC": "alucinar",
+    "ES": "flipar / montarse películas",
+    "CL": "volarse"
+   }
+  },
+  {
+   "expresion": "Fachero / fachera",
+   "significado": "Que tiene buena facha: bien vestido, con estilo, atractivo.",
+   "uso": "Habitual en moda, belleza y redes sociales.",
+   "registro": "informal",
+   "apto_anuncio": "si",
+   "ejemplo": "Un look re fachero para las fiestas.",
+   "equivalentes": {
+    "CO": "pinta / con estilo",
+    "MX": "guapo / con estilo",
+    "EC": "pintoso / con estilo",
+    "ES": "con estilo / guapo",
+    "CL": "pinta / bacán"
+   }
+  },
+  {
+   "expresion": "Mandar fruta",
+   "significado": "Hablar sin saber o inventar respuestas.",
+   "uso": "Conversacional; muy usado para referirse a quien opina sin información.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Acá no mandamos fruta: te mostramos el precio final.",
+   "equivalentes": {
+    "CO": "echar carreta",
+    "MX": "echar choro / hablar sin saber",
+    "EC": "hablar por hablar",
+    "ES": "decir chorradas / hablar por hablar",
+    "CL": "hablar puras leseras"
+   }
+  },
+  {
+   "expresion": "Un afano",
+   "significado": "Algo carísimo, un precio abusivo (de 'afanar', robar).",
+   "uso": "Muy común al comparar precios; tono de queja.",
+   "registro": "informal",
+   "apto_anuncio": "con cuidado",
+   "ejemplo": "Pagar eso es un afano; acá lo tenés con precio justo.",
+   "equivalentes": {
+    "CO": "un robo / carísimo",
+    "MX": "un robo / carísimo",
+    "EC": "un robo / carísimo",
+    "ES": "un atraco / un robo",
+    "CL": "un robo / carísimo"
+   }
   }
  ],
  "creadores": {
@@ -1064,6 +1156,14 @@
    "hacia": "AR",
    "sector": "gaming",
    "accion": "Investigar la demanda de accesorios y explicar al comprador el precio final con envío e impuestos antes de que decida."
+  },
+  {
+   "titulo": "Indumentaria y calzado deportivo con descuentos de temporada",
+   "senal": "Las marcas de ropa outdoor y deportiva adelantan descuentos de Black Friday en EE. UU., y en Argentina se buscan guías para comparar ofertas y comprar seguro.",
+   "desde": "US",
+   "hacia": "AR",
+   "sector": "moda",
+   "accion": "Contenido de comparación de precio final (producto, envío e impuestos) y plazos realistas; es una señal a validar con cada cliente."
   }
  ],
  "anuncios": [

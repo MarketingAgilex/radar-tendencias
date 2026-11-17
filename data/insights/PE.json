@@ -1,65 +1,65 @@
 {
  "pais": "PE",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Perú se despide de la visita del papa León XIV, que dejó una ola de emoción, canciones virales y mucha conversación en redes. Lima vive días de calor (sensación de 35 °C) y la búsqueda del clima es constante. En consumo llegan el Black Friday y los regalos de Navidad, con titulares que alertan sobre compras impulsivas: conviene combinar el orgullo y la cercanía del momento con ofertas claras y productos para el verano que se adelanta.",
+ "lectura": "La visita del papa León XIV movilizó al país y dejó un ambiente emotivo, sobre todo en Chiclayo, su ciudad del corazón. En consumo, las tiendas adelantan Black Friday y la moda lidera las compras de fin de año, con la IA como aliada para encontrar ofertas. También crece la expectativa por GTA 6 y por la nueva película de 'Los Juegos del Hambre': buen momento para combos gamer y planes de cine.",
  "ideas_hoy": [
   {
-   "titulo": "Calor en Lima: refréscate",
-   "idea": "El Senamhi reporta sensación térmica de 35 °C en Lima. Lanza un combo de verano (bebidas, protector solar, ropa ligera, ventiladores) con delivery el mismo día.",
+   "titulo": "Orgullo chiclayano",
+   "idea": "La emotiva vuelta del papa León XIV a Chiclayo genera orgullo regional. Negocios del norte pueden mostrar productos locales (dulces, artesanía) con un mensaje de orgullo y respeto, sin usar su imagen.",
    "formato": "Reel"
   },
   {
-   "titulo": "Gracias, Perú",
-   "idea": "La visita papal dejó un sentimiento de orgullo y unión. Publica un mensaje de marca sobre 'lo que nos une como peruanos', sin usar imágenes oficiales ni temas polémicos.",
-   "formato": "Post Instagram"
-  },
-  {
-   "titulo": "Black Friday sin impulsos",
-   "idea": "La prensa advierte que las marcas usan la IA para empujar la compra impulsiva. Diferénciate con un carrusel 'compra con calma': precio real, cambios y garantía.",
+   "titulo": "Black Friday adelantado",
+   "idea": "Varias tiendas ya adelantan sus ofertas. Publica tu calendario de descuentos y la fecha límite para recibir antes de Navidad.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Canciones virales, tu versión",
-   "idea": "Canciones como la de Pucallpa se hicieron virales en TikTok. Usa un audio en tendencia apropiado para mostrar tu equipo o producto con alegría local.",
+   "titulo": "Moda para fin de año",
+   "idea": "La moda lidera las compras de Black Friday y Navidad. Arma tres looks para fiestas de fin de año con precio total.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Pokémon 30 años",
-   "idea": "La colaboración de Pokémon y Apple por el aniversario 30 genera interés. Tiendas de juguetes, ropa y coleccionables pueden armar una vitrina temática para regalos de Navidad.",
+   "titulo": "Precarga GTA 6",
+   "idea": "Ya se puede precargar GTA 6. Tiendas gamer: anuncia accesorios y almacenamiento con delivery en Lima y provincias.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Compra sin trampas",
+   "idea": "Se habla de marcas que usan IA para provocar compras impulsivas. Diferénciate con un post de 'compra con calma': precio claro, cambios y garantía.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "clima",
+   "termino": "el papa león xiv",
    "color": "verde",
-   "por_que": "Búsqueda diaria por calor y pronóstico del Senamhi.",
-   "idea": "Productos para el calor con delivery y mensajes de hidratación."
+   "por_que": "Cierre emotivo de la visita papal en Chiclayo.",
+   "idea": "Mensajes de orgullo y unión, sin usar su imagen con fines comerciales."
   },
   {
-   "termino": "papa leon xiv misa",
+   "termino": "the economist 2027",
    "color": "verde",
-   "por_que": "Gran evento de interés nacional con tono emotivo.",
-   "idea": "Mensajes de gratitud y unión, respetuosos y sin uso comercial de imágenes religiosas."
+   "por_que": "Interés por las tendencias del próximo año.",
+   "idea": "Posts de 'qué viene en 2027' para emprendedores."
   },
   {
-   "termino": "ruta del papa lunes 16",
+   "termino": "cuando sale gta 6",
+   "color": "verde",
+   "por_que": "Expectativa por el lanzamiento del videojuego.",
+   "idea": "Combos gamer y contenido de cuenta regresiva."
+  },
+  {
+   "termino": "los juegos del hambre",
+   "color": "verde",
+   "por_que": "Estreno de la nueva película de la saga.",
+   "idea": "Planes de cine, trivia y sorteos de entradas."
+  },
+  {
+   "termino": "bancos eeuu",
    "color": "amarillo",
-   "por_que": "Búsqueda logística que ya pasó; afectó tránsito y clases.",
-   "idea": "Úsalo solo como contexto; enfoca el contenido en el regreso a la rutina."
-  },
-  {
-   "termino": "temperatura lima",
-   "color": "verde",
-   "por_que": "Calor intenso y búsquedas de temperatura.",
-   "idea": "Contenido 'cómo sobrevivir al calor en Lima' con tus productos."
-  },
-  {
-   "termino": "lunes 16 de noviembre es feriado",
-   "color": "amarillo",
-   "por_que": "Dudas por suspensión de clases en el Callao.",
-   "idea": "Aclara tus horarios de atención para evitar confusiones."
+   "por_que": "Fallas en bancos de EE. UU. que afectan pagos y envíos de dinero.",
+   "idea": "Recomienda medios de pago alternos en compras internacionales."
   }
  ],
  "ocultar": [
@@ -83,7 +83,27 @@
   "Airbag en Lima: la noche de topless y desenfreno en el Estadio San Marcos | CRÓNICA",
   "Uruguay: una docente universitaria se hizo viral por tratar de \"pelot...\" a sus alumnos en cámara",
   "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "vuelo del papa en vivo",
+  "¿Qué ocurrió en Perú? El papa León XIV fue golpeado en el rostro con un objeto lanzado desde la multitud en Lima",
+  "La Cancillería de Perú anuncia una investigación tras las quejas por fallas técnicas en la última misa del papa en Lima",
+  "Vestirse para gobernar: la moda del poder en América Latina",
+  "Tumbes: Habilitan “puente terrestre” para trasladar alimentos y personas en zonas afectadas por lluvias",
+  "Amnistía y ética",
+  "PT asegura que habrá segunda encuesta por la gubernatura de Nuevo León; Morena lo niega",
+  "Magaly Medina cuestiona al Minsa y EsSalud por atención médica en misa del papa León XIV: “No tenía ni medicinas y puestos colapsaron”",
+  "EE. UU. busca bloquear el acceso de China a chips de inteligencia artificial a través de terceros países",
+  "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP",
+  "EEUU restringirá el acceso de China a chips de inteligencia artificial",
+  "Bellido anuncia reorganización del sector salud y revisión de convenios en educación",
+  "El BCE plantea una oleada de inspecciones a los bancos por la inteligencia artificial y el fraude",
+  "Chile busca en Australia y Japón ampliar la cooperación en defensa, nuevos memorándums y opciones de proveedores",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "China y Canadá amplían alivio arancelario para US$280 millones en exportaciones agrícolas",
+  "Kingston y el ‘street art’ contra la violencia: una ruta por los murales que han revitalizado la capital jamaicana",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D"
  ],
  "audiencias": {
   "general": {

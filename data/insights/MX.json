@@ -1,65 +1,65 @@
 {
  "pais": "MX",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El Buen Fin ya cerró con balance positivo (ocho de cada diez negocios reportan más ventas) y la conversación pasa a Black Friday y a los regalos de Navidad. El entretenimiento manda: La Mansión VIP 2 y La Granja VIP generan búsquedas diarias y GTA VI es el gran lanzamiento de la semana. Es buen momento para captar a quien no compró en el Buen Fin, con mensajes de 'segunda oportunidad' y contenido de pop culture.",
+ "lectura": "El Buen Fin cerró con buen balance: ocho de cada diez negocios reportaron más ventas y Profeco destaca a un consumidor más informado. La conversación salta ahora a Black Friday y a la temporada navideña, con el frío en CDMX y el estreno de 'Los Juegos del Hambre: Amanecer en la cosecha' (con Jennifer Lawrence en la alfombra roja) como temas del día. Es momento de ofertas transparentes, comparativos de precio y contenido de entretenimiento con humor.",
  "ideas_hoy": [
   {
-   "titulo": "¿Se te pasó el Buen Fin?",
-   "idea": "El Buen Fin acaba de cerrar y muchos se quedaron con ganas. Lanza una promo 'segunda oportunidad' de 48 horas con lo que más se vendió y un copy cercano: 'aquí te guardamos el descuento'.",
+   "titulo": "Lo que te faltó del Buen Fin",
+   "idea": "El Buen Fin terminó con alza de ventas. Lanza un 'segunda vuelta' para quien no alcanzó, con un precio claro y tiempo limitado hasta Black Friday.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Reality del día",
-   "idea": "La Mansión VIP 2 está entre lo más buscado. Haz un TikTok tipo 'si mi producto entrara a la mansión' asignando roles a tus productos; el humor de reality conecta con Gen Z y millennials.",
+   "titulo": "Look Panem",
+   "idea": "El estreno de 'Los Juegos del Hambre' y la alfombra roja con Jennifer Lawrence están en tendencia. Marcas de moda y maquillaje pueden recrear un look inspirado en Panem en un video de 30 segundos.",
    "formato": "TikTok"
   },
   {
-   "titulo": "GTA VI llega esta semana",
-   "idea": "El lanzamiento de GTA VI mueve búsquedas de consolas y accesorios. Si vendes tecnología, snacks o delivery, arma un 'kit de maratón gamer' con entrega rápida.",
+   "titulo": "Frío en CDMX: combo calientito",
+   "idea": "Hay alerta por bajas temperaturas en alcaldías de CDMX. Cafeterías, tiendas de ropa y hogar pueden promocionar chamarras, cobijas o bebidas calientes con entrega a domicilio.",
    "formato": "Reel"
   },
   {
-   "titulo": "Plan de fin de año con Ticketmaster",
-   "idea": "Ticketmaster y Cinépolis siguen en tendencia por promociones. Negocios de experiencias pueden publicar 'regala una salida' con tarjeta digital y fecha de uso flexible.",
+   "titulo": "Consumidor informado",
+   "idea": "Profeco destaca a un consumidor más informado. Publica un carrusel con 'cómo leer nuestras ofertas': precio anterior, precio actual, garantía y tiempo de entrega.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Calendario de Adviento sin sustos",
-   "idea": "El calendario navideño de una marca famosa se volvió viral por su precio. Usa la conversación para mostrar tu propio pack de regalos con precio claro y contenido real de lo que trae.",
-   "formato": "Reel"
+   "titulo": "Cine y combo",
+   "idea": "Con Cinépolis y Ticketmaster aún con promociones, restaurantes y snacks pueden armar el 'combo de estreno' para ver la película en grupo.",
+   "formato": "Historias Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "la mansion vip",
+   "termino": "jennifer lawrence",
    "color": "verde",
-   "por_que": "Reality con conversación diaria y votaciones.",
-   "idea": "Contenido de humor y encuestas en historias usando el formato del reality."
+   "por_que": "Alfombra roja del nuevo filme de 'Los Juegos del Hambre'.",
+   "idea": "Contenido de moda y estilo inspirado en la premiere."
   },
   {
-   "termino": "ticketmaster",
+   "termino": "los juegos del hambre",
    "color": "verde",
-   "por_que": "Promociones de eventos durante el Buen Fin.",
-   "idea": "Ideas de 'regala una experiencia' con tarjeta digital."
+   "por_que": "Estreno de la nueva entrega de la saga.",
+   "idea": "Trivia, sorteo de boletos o 'qué distrito eres' según tus productos."
   },
   {
-   "termino": "cinepolis",
+   "termino": "clima mañana",
    "color": "verde",
-   "por_que": "Combos especiales y salidas al cine.",
-   "idea": "Alianza o contenido 'plan de cine + tu producto' para el fin de semana."
+   "por_que": "Alerta amarilla por frío en CDMX.",
+   "idea": "Promociones de ropa abrigada, bebidas calientes y artículos para el hogar."
   },
   {
-   "termino": "rafa mercadante",
-   "color": "amarillo",
-   "por_que": "Interés por un reality de convivencia; conversación cambiante.",
-   "idea": "Úsalo solo como referencia ligera de entretenimiento, sin tomar partido."
+   "termino": "juegos del hambre 2026",
+   "color": "verde",
+   "por_que": "Búsquedas sobre la película de este año.",
+   "idea": "Funciones privadas o maratón de la saga con snacks."
   },
   {
-   "termino": "gta vi",
+   "termino": "aldo de nigris",
    "color": "verde",
-   "por_que": "El lanzamiento de videojuego más esperado del año.",
-   "idea": "Kits gamer, accesorios y snacks con entrega antes del jueves."
+   "por_que": "Estreno de 'La Mansión VIP 2', reality con mucha conversación.",
+   "idea": "Contenido de humor tipo 'qué habitante de la mansión eres' con tus productos, sin burlarte de nadie."
   }
  ],
  "audiencias": {
@@ -1065,6 +1065,35 @@
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
   "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
   "Estudiantes de la UAM y apoyo a Palestina prevén movilizaciones en CDMX hoy 16 de noviembre - La Prensa",
-  "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP"
+  "CDMX: caen tres presuntos ladrones de celulares durante el Tropitour de Karol G en el Estadio GNP",
+  "Paga Indaabin por hacer ¡tarjetas de cumpleaños!",
+  "Las cinco vialidades que se verán afectadas en Jalisco este martes por movilizaciones de productores",
+  "CDMX: suprimen de programa urbano metropolitano el tema del predial",
+  "Vestirse para gobernar: la moda del poder en América Latina",
+  "Localizan restos óseos humanos y prendas de vestir durante búsqueda en Reynosa",
+  "PT asegura que habrá segunda encuesta por la gubernatura de Nuevo León; Morena lo niega",
+  "MILENIO. . 🗣️ \"Estamos estableciendo un verdadero Estado de bienestar mientras fortalecemos la inversión pública, privada y mixta, la productividad y el comercio. El Plan México tiene una visión humanista, la economía al servicio de las personas y no las",
+  "Rechaza sindicato de trabajadores de salud propuestas de nuevos inmuebles para Jurisdicción de Salud en Mexicali",
+  "México espera que EU deporte al empresario Mauricio Manfred Quintanilla",
+  "EEUU restringirá el acceso de China a chips de inteligencia artificial",
+  "Moreno Guillén acompaña entrega de mejoras en la Casa Hogar Infantil de Chiapas",
+  "Juan Carlos Moreno Guillén presente en evento de la remodelación de la Casa Hogar Infantil",
+  "MORENO Guillén acompaña rehabilitación de la Casa Hogar Infantil",
+  "Aumentan denuncias por envenenamiento de perros en Morelos",
+  "Atracan tienda en Coyoacán y se llevan relojes",
+  "Exportero del Atlas es acusado de traficar relojes falsos desde Laredo Texas",
+  "Nahle justifica compra millonaria de helicópteros mientras persisten carencias en Veracruz: “no es un lujo, es una necesidad”",
+  "Jesús Seade y sus vuelos en primera clase con cargo al erario, el escándalo revive tras seis años",
+  "Quejas ante la Comisión de Derechos Humanos de Morelos: lidera educación - El Sol de Cuernavaca",
+  "Alumnos encaran a rector de la UAM por autos Tesla y Volvo de 4.9 millones de pesos",
+  "Repunta en Nuevo Laredo afiliacion de autos chocolate en ONAPAFA",
+  "China y Canadá amplían alivio arancelario para US$280 millones en exportaciones agrícolas",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "Festival de Música en Acapulco Termina en Peleas, Descontrol y Problemas Viales | En Punto | VIDEO",
+  "Discutirán tres minutas en Diputados esta semana",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "#Video | 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" https://mile.io/4kDQi6D",
+  "Capitán de Sedena y agente de la AEI son localizados sin vida en Tecate"
  ]
 }

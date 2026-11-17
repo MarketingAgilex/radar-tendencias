@@ -1,40 +1,40 @@
 {
  "pais": "EC",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Las lluvias en Guayaquil, Daule y Samborondón (calles anegadas y cortes de luz) y el pronóstico de más precipitaciones marcan el día a día del ecuatoriano. En entretenimiento suenan Don Omar con conciertos en 2027, la Quito Fashion Week y las telenovelas de Telemundo. Black Friday y Navidad ya aparecen en las noticias de consumo: conviene hablar de compras seguras, entrega garantizada aunque llueva y regalos con fecha.",
+ "lectura": "El ecuatoriano sigue pendiente de las lluvias: el pronóstico habla de un ciclón que aumentará las precipitaciones en la región. En consumo crecen las notas sobre Black Friday (27 de noviembre) y Cyber Monday, con consejos para comprar bien y evitar regalos de Navidad que generen gastos mensuales. También circula el rumor de un 'apagón mundial' el 17 de noviembre: es falso, y las marcas pueden ganar confianza con información clara y sin alarmismo.",
  "ideas_hoy": [
   {
-   "titulo": "Llueve en Guayaquil: llegamos igual",
-   "idea": "Las lluvias y calles anegadas son noticia en Guayaquil y Samborondón. Publica un video corto de tu equipo entregando bajo la lluvia con el mensaje 'llueva o truene, tu pedido llega' y un horario claro.",
-   "formato": "Reel"
+   "titulo": "Black Friday con calendario",
+   "idea": "Los medios confirman que Black Friday cae el 27 de noviembre. Publica un calendario con tus fechas de oferta y la fecha límite para recibir antes de Navidad.",
+   "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Kit de temporada de lluvias",
-   "idea": "Con cortes de luz y lluvias, sube la necesidad de linternas, cargadores portátiles, impermeables y botas. Arma un combo y anúncialo con precio final y entrega a domicilio.",
+   "titulo": "Regalos sin cuotas eternas",
+   "idea": "Una nota recomienda evitar regalos navideños con gastos mensuales. Propón regalos de pago único (experiencias, kits, accesorios) con precio final claro.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Don Omar 2027: regalo que emociona",
-   "idea": "La preventa de Don Omar en Quito y Guayaquil genera conversación. Negocios de moda, accesorios o experiencias pueden proponer 'el outfit del concierto' o regalar entradas como premio de un sorteo.",
+   "titulo": "Llueve, pero llegamos",
+   "idea": "Con el pronóstico de más lluvias, muestra tu protocolo de entrega en días lluviosos (empaques protegidos, horarios). Genera confianza y reduce reclamos.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Nada de apagón: tu pedido sigue",
+   "idea": "Circula un rumor de apagón mundial. Responde con humor y datos: 'hoy no se apaga nada, tu pedido llega igual', sin burlarte de quien lo creyó.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Quito Fashion Week y diseño local",
-   "idea": "La tercera edición de la Quito Fashion Week reúne a 31 diseñadores con el concepto 'Raíces'. Las marcas de moda y artesanía pueden mostrar su lado de origen y proceso con un carrusel de 'hecho en Ecuador'.",
-   "formato": "Carrusel Instagram"
-  },
-  {
-   "titulo": "Black Friday sin cuentos",
-   "idea": "Los medios publican consejos para comprar en Black Friday. Haz un post con 'cinco señales de una oferta real' y cierra con tu promoción transparente: precio antes, precio ahora y envío.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Gamer navideño",
+   "idea": "Amazon adelanta descuentos en videojuegos para PS5, Xbox y Switch. Tiendas gamer pueden hacer un top 5 de regalos con precio puesto en Ecuador.",
+   "formato": "TikTok"
   }
  ],
  "semaforo": [
   {
    "termino": "telemundo",
    "color": "amarillo",
-   "por_que": "Interés por el regreso de una telenovela de acción; el tema central no es apto para marcas.",
+   "por_que": "Regreso de una telenovela de acción; el tema central no es apto para marcas.",
    "idea": "Habla de 'maratón de novelas' con snacks o comodidad, sin referirte a la trama."
   },
   {
@@ -42,6 +42,12 @@
    "color": "amarillo",
    "por_que": "Pronóstico de lluvias fuertes en la región.",
    "idea": "Contenido útil de preparación (kit de lluvias) sin alarmismo."
+  },
+  {
+   "termino": "noviembre",
+   "color": "amarillo",
+   "por_que": "Rumor viral de un apagón mundial el 17 de noviembre, desmentido.",
+   "idea": "Mensajes de calma y continuidad del servicio; no amplifiques el rumor."
   },
   {
    "termino": "robert pattinson",
@@ -54,12 +60,6 @@
    "color": "amarillo",
    "por_que": "Búsquedas por calles anegadas y cortes de luz en Guayaquil.",
    "idea": "Informa horarios de entrega y alternativas de retiro; evita bromas sobre la situación."
-  },
-  {
-   "termino": "florida norte",
-   "color": "amarillo",
-   "por_que": "Mismo evento de lluvias en el norte de Guayaquil.",
-   "idea": "Mensajes de servicio y empatía con clientes de la zona."
   }
  ],
  "audiencias": {
@@ -1089,6 +1089,24 @@
   "María José Pinto entregó ayuda social en sectores de Puerto Quito, en Pichincha",
   "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
   "VIDEO #Viral | “México mágico”: viajeros bajan de sus autos y bailan “Payaso de Rodeo” para amenizar bloqueo en la Siglo XXI",
-  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag"
+  "MILENIO. . #Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lag",
+  "sin senos si hay paraiso 4",
+  "Vestirse para gobernar: la moda del poder en América Latina",
+  "ICE detiene a padre de cuatro hijos cuando iba a trabajar; su familia teme por su salud",
+  "EEUU restringirá el acceso de China a chips de inteligencia artificial",
+  "Estados Unidos impuso nuevas restricciones para bloquear el acceso de China a sus chips más avanzados de Inteligencia Artificial",
+  "Orlando Viera-Blanco: Adriano, el maestro, los perros y el Diablo",
+  "Esta vez protestan los dueños de perros en Vitoria",
+  "Tonka Tomicic responde al documental del Caso Relojes: \"Me contactaron una sola vez\"",
+  "El Ministerio de Educación abre investigaciones sobre derechos civiles en relación con los programas para docentes",
+  "Régimen cubano traslada a empresas el costo de reparar escuelas, hospitales y hogares de ancianos a cambio de incentivos fiscales",
+  "Incautan autos de lujo en cateos ligados al caso Ueno Bank en Paraguay",
+  "CBP prohibió cruzar en bici o scooter por los carriles de autos en El Paso… ¿llegará a Laredo?",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "China y Canadá amplían alivio arancelario para US$280 millones en exportaciones agrícolas",
+  "Estados Unidos está endureciendo los controles sobre las exportaciones de chips de Nvidia.",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "!XXX VIDEO EXCLUSIVO!Objeto Pastel RD Video Viral)"
  ]
 }

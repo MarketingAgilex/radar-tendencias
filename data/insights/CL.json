@@ -1,65 +1,65 @@
 {
  "pais": "CL",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "El chileno ya tiene fecha: el Black Friday 2026 será desde el viernes 27 de noviembre con cuatro días de ofertas online, y la prensa insiste en proteger las encomiendas y evitar fraudes de despacho. El dólar tocó los $1.000 y eso encarece lo importado, así que el precio en pesos y el costo de envío pesan más que nunca. En entretenimiento suenan la preventa de Maluma, Los Tres y la Teletón; en clima, lluvias en el centro-sur y el bólido que iluminó el cielo.",
+ "lectura": "Black Friday ya tiene fecha en Chile y los medios explican cuántos días dura y cómo evitar estafas en los despachos. La conversación digital mezcla la recepción dispar de GTA 6 en Metacritic, el nuevo disco de Denise Rosenthal y videos virales de la Teletón. Es buen momento para ofertas con seguimiento de envío transparente y contenido cercano y emotivo.",
  "ideas_hoy": [
   {
-   "titulo": "Black Friday Chile: 27 al 30",
-   "idea": "Ya hay fecha oficial de cuatro días. Publica un 'save the date' con tu oferta principal y pide que activen notificaciones para enterarse primero.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "Tu encomienda segura",
-   "idea": "La prensa recomienda cuidarse de fraudes de despacho en Black Friday. Explica en un carrusel cómo rastrear tu pedido, por qué canal te contactas y qué nunca vas a pedir.",
+   "titulo": "Despacho seguro",
+   "idea": "Se publican consejos para proteger encomiendas y evitar estafas de despacho. Muestra cómo rastrear tu pedido y por qué canales oficiales te contactas.",
    "formato": "Carrusel Instagram"
   },
   {
-   "titulo": "Dólar a $1.000: precio en pesos",
-   "idea": "Con el dólar en máximos, el cliente teme precios que cambian. Comunica 'precio fijo en pesos hasta el 30 de noviembre' para dar tranquilidad.",
-   "formato": "Copy para anuncio"
+   "titulo": "Cuenta regresiva Black Friday",
+   "idea": "Ya hay fecha para el Black Friday chileno con cuatro días de ofertas. Crea expectativa con 'adelantos' diarios de tus mejores precios.",
+   "formato": "Historias Instagram"
   },
   {
-   "titulo": "El bólido y tu producto",
-   "idea": "El bólido que se vio de Santiago a Los Ríos fue muy comentado. Haz un TikTok de humor 'cuando ves el bólido y pides un deseo' con tu producto como respuesta.",
+   "titulo": "GTA 6: ¿vale la pena?",
+   "idea": "Las reseñas de GTA 6 en Metacritic están divididas. Tiendas gamer pueden pedir a su comunidad su opinión y ofrecer accesorios con descuento.",
    "formato": "TikTok"
   },
   {
-   "titulo": "Maluma en Chile 2027",
-   "idea": "La preventa de Maluma genera búsquedas. Marcas de moda y belleza pueden mostrar 'el look para el concierto' o regalar entradas en un concurso con reglas claras.",
+   "titulo": "Canciones para sanar",
+   "idea": "Las nuevas canciones de Denise Rosenthal son tema. Marcas de bienestar o autocuidado pueden crear un 'kit de equilibrio' con tono positivo.",
    "formato": "Reel"
+  },
+  {
+   "titulo": "Solidaridad que vende bien",
+   "idea": "Un ejecutivo se volvió viral cantando en la Teletón. Si tu marca apoya una causa, cuéntalo con transparencia y sin exagerar.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "bólido",
+   "termino": "pensión",
    "color": "verde",
-   "por_que": "Fenómeno visible en gran parte del país; conversación positiva y curiosa.",
-   "idea": "Contenido de curiosidad y humor ligero conectado a 'pedir un deseo'."
+   "por_que": "Consultas por el pago de la Pensión Garantizada Universal de noviembre.",
+   "idea": "Ofertas y servicios pensados para adultos mayores, con letra grande y atención cercana."
   },
   {
-   "termino": "línea 5",
+   "termino": "bancos estados unidos",
    "color": "amarillo",
-   "por_que": "Cierre de estaciones del Metro; afecta traslados.",
-   "idea": "Informa horarios y alternativas de retiro o despacho para clientes de la zona."
+   "por_que": "Fallas en bancos de EE. UU. que afectan pagos.",
+   "idea": "Recomienda medios de pago alternativos en compras internacionales."
   },
   {
-   "termino": "pronóstico del tiempo",
+   "termino": "the economist 2027",
    "color": "verde",
-   "por_que": "Cambio de calor a lluvias en el fin de semana.",
-   "idea": "Productos para clima cambiante y mensajes 'prepárate para el finde'."
+   "por_que": "Interés por tendencias del próximo año.",
+   "idea": "Contenido de tendencias 2027 para emprendedores."
   },
   {
-   "termino": "apagon mundial",
+   "termino": "equilibrar la balanza denise rosenthal",
    "color": "amarillo",
-   "por_que": "Rumor viral ya desmentido sobre un apagón de 72 horas.",
-   "idea": "Desmiéntelo con calma y aprovecha para recomendar lo básico útil, sin miedo."
+   "por_que": "Canciones vinculadas a una ruptura de pareja famosa.",
+   "idea": "Habla de la música y el autocuidado, no de la vida privada."
   },
   {
-   "termino": "robert pattinson",
+   "termino": "los juegos del hambre",
    "color": "verde",
-   "por_que": "Nuevo James Bond, tema global de cine.",
-   "idea": "Contenido de estilo y eventos de fin de año con guiño a 007."
+   "por_que": "Estreno de la nueva película.",
+   "idea": "Planes de cine y sorteos de entradas."
   }
  ],
  "ocultar": [
@@ -87,7 +87,21 @@
   "Cadem: Aprobación de Kast cayó al 27% y paro camionero tuvo alto respaldo ciudadano",
   "Acusación contra Rabat apunta a Kast y pide aclarar si ordenó rebajas de condena",
   "#Video | Supuesta 'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres una nac*\" Según el periodista y conductor del programa C4 en Alerta, Carlos Jiménez, 'Lady Racista' se metió a un lago artificial d",
-  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u"
+  "'Lady Racista' vuelve a protagonizar video viral insultando a vecinos de fraccionamiento de Querétaro: \"eres u",
+  "Comisión investigadora de AC contra Rabat quedó con mayoría opositora",
+  "La billetera fiscal tiene ruedas: La Moneda obligada al pragmatismo a un costo de US$ 700 millones",
+  "“No se pueden minimizar”: crece inquietud en el oficialismo por baja de Kast en las encuestas",
+  "Presentan libro sobre Fidel en Feria de Santiago de Chile",
+  "Vestirse para gobernar: la moda del poder en América Latina",
+  "Tonka Tomicic responde al documental del Caso Relojes: \"Me contactaron una sola vez\"",
+  "El BCE plantea una oleada de inspecciones a los bancos por la inteligencia artificial y el fraude",
+  "Chile busca en Australia y Japón ampliar la cooperación en defensa, nuevos memorándums y opciones de proveedores",
+  "Economía - EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
+  "China y Canadá amplían alivio arancelario para US$280 millones en exportaciones agrícolas",
+  "El IPN denuncia suplementos falsos que usurpan su respaldo científico",
+  "Europa pone precio a la gestión aduanera del comercio electrónico",
+  "sin senos sí hay paraíso 4",
+  "Con nombre y apellido: revelan lista de diputados y senadores que más gastaron en combustible en pleno “bencinazo”"
  ],
  "audiencias": {
   "general": {

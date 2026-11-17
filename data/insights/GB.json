@@ -1,65 +1,65 @@
 {
  "pais": "GB",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Reino Unido entra en semana fría: avisos de nieve y hielo, alertas de salud por frío y lluvias en Londres. La televisión de temporada (Strictly Come Dancing e I'm A Celebrity) concentra la conversación, y GTA VI llega el jueves. En consumo, Amazon extiende su Black Friday a 12 días y los compradores dicen valorar tanto el precio como lo premium: conviene combinar ofertas claras con productos para el frío y regalos de Navidad con fecha de entrega.",
+ "lectura": "La nieve y el frío dominan las búsquedas en Reino Unido, con avisos en varias zonas del país. En entretenimiento destacan 'I Am Helen' con Nicola Coughlan, Strictly Come Dancing y I'm a Celebrity, además de la nueva premiere de 'Hunger Games'. Los compradores son escépticos con las promesas de Black Friday y ya hay avisos de estafas con IA: transparencia y seguridad en el pago marcan la diferencia.",
  "ideas_hoy": [
   {
-   "titulo": "Cold snap essentials",
-   "idea": "Hay avisos de nieve y alertas de salud por frío. Lanza un 'kit de ola de frío' (ropa térmica, mantas, bebidas calientes) con entrega al día siguiente.",
-   "formato": "Reel"
-  },
-  {
-   "titulo": "Strictly-style reveal",
-   "idea": "Strictly Come Dancing está en su semana ocho y camino a Blackpool. Presenta tu producto con un 'reveal' de baile o jurado con puntuaciones del 1 al 10.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "12 days of Black Friday",
-   "idea": "Amazon extiende su Black Friday a 12 días. Responde con un calendario de 12 ofertas diarias en historias, una por día, para que vuelvan cada mañana.",
-   "formato": "Historia Instagram"
-  },
-  {
-   "titulo": "I'm A Celebrity snack pack",
-   "idea": "El nuevo I'm A Celebrity genera búsquedas de horario. Marcas de snacks y delivery pueden proponer un 'pack de noche de reality' para verlo en casa.",
+   "titulo": "Snow day essentials",
+   "idea": "Hay avisos de nieve en varias zonas. Publica un pack de invierno (térmicos, guantes, mantas) con entrega garantizada antes del fin de semana.",
    "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Value or premium?",
-   "idea": "Un informe dice que el comprador británico mezcla búsqueda de valor y gusto por lo premium. Publica un comparativo 'versión básica vs. versión premium' de tu producto con precios claros.",
+   "titulo": "Black Friday sin estafas",
+   "idea": "Akamai alerta de estafas con IA en Black Friday. Explica cómo reconocer tu web oficial y tus canales de pago seguros.",
    "formato": "Carrusel Instagram"
+  },
+  {
+   "titulo": "Noche de series",
+   "idea": "'I Am Helen' es la serie del momento. Marcas de comida a domicilio o snacks pueden proponer 'el plan de esta noche' con oferta.",
+   "formato": "TikTok"
+  },
+  {
+   "titulo": "Strictly style",
+   "idea": "Strictly Come Dancing mantiene la audiencia alta. Tiendas de moda pueden mostrar looks brillantes para fiestas navideñas.",
+   "formato": "Reel"
+  },
+  {
+   "titulo": "Compras con IA",
+   "idea": "Un informe dice que el comprador británico confía en la IA para elegir pero no en el gasto final. Ofrece un comparador de precio final simple en tus anuncios.",
+   "formato": "LinkedIn"
   }
  ],
  "semaforo": [
   {
-   "termino": "weather forecast snow",
+   "termino": "weather",
    "color": "verde",
-   "por_que": "Búsqueda masiva por nieve y frío.",
-   "idea": "Productos para el frío con entrega rápida y tono útil."
+   "por_que": "Avisos de nieve en el país.",
+   "idea": "Packs de invierno y mensajes de entrega."
   },
   {
-   "termino": "weather tomorrow",
+   "termino": "diane morgan",
    "color": "verde",
-   "por_que": "Consulta diaria del tiempo.",
-   "idea": "Contenido 'qué ponerse mañana' con tus productos."
+   "por_que": "Estreno del especial de humor 'Cunk on Cinema'.",
+   "idea": "Humor absurdo y planes de noche en casa."
   },
   {
-   "termino": "strictly come dancing 2026",
+   "termino": "anti bullying week 2026",
    "color": "verde",
-   "por_que": "Programa de gran audiencia con conversación semanal.",
-   "idea": "Formatos de baile, puntuaciones y encuestas en historias."
+   "por_que": "Semana contra el acoso escolar.",
+   "idea": "Mensajes de amabilidad y respeto; evita usarla solo para vender."
   },
   {
-   "termino": "what time is im a celebrity on tonight",
+   "termino": "cliff booth",
    "color": "verde",
-   "por_que": "Estreno del reality con alto interés.",
-   "idea": "Packs de 'noche de reality' y contenido de humor."
+   "por_que": "Primeras reacciones positivas a la secuela de Brad Pitt.",
+   "idea": "Planes de cine y moda inspirada en el estreno."
   },
   {
-   "termino": "gta vi map",
-   "color": "verde",
-   "por_que": "Gran expectativa por el lanzamiento de GTA VI.",
-   "idea": "Accesorios gamer, snacks y entregas antes del jueves."
+   "termino": "optimizely",
+   "color": "amarillo",
+   "por_que": "Webs populares usadas para estafas con criptomonedas.",
+   "idea": "Educa sobre compra segura y verifica tus propios enlaces."
   }
  ],
  "audiencias": {
@@ -1187,6 +1187,40 @@
   "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people | Youth unemployment",
   "Cass report author says she does not support draft conversion practices bill",
   "Russell Brand investigated over message from behind bars, Downing Street says | ITV News",
-  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)"
+  "+@!EXCLUSIVE VIDEO!Jaden Newman why bebe Viral Video)",
+  "Milburn review to propose tax, welfare, and education changes to get young people into work",
+  "Burnham says Brexit has dramatically diminished Britain’s global standing",
+  "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+  "Russia says Ukraine attacked Crimean bridge",
+  "+@!EXCLUSIVE VIDEO!Sonakshi Sinha Viral Video)",
+  "++XXX+EXCLUSIVE~ de objeto pastel .video. viral. video de de objeto pastel",
+  "Tragic story behind viral video of Kangaroos hero's beautiful moment of mateship",
+  "+@!EXCLUSIVE VIDEO!Sophie Rain Spiderman Viral Video)",
+  "+@!EXCLUSIVE VIDEO!Aina Asif Viral Video)",
+  "Bottled water shelves stripped at Sainsbury's as shoppers stock up amid fears",
+  "TfL staff subjected to abuse 'on daily basis'",
+  "Fresh produce industry squeezes UK’s PM",
+  "Royal College of Nursing 'dissatisifed' with safe staffing legislation",
+  "A changing world demands a cross-government global health strategy",
+  "Government extends controversial tech contract for two years",
+  "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+  "'Digital hostile environment': How artificial intelligence is secretly changing the Home Office",
+  "Press play: Russia’s push to recruit through gaming",
+  "Around 800 handmade poppies form Remembrance trail at Rhyl’s Botanical Gardens",
+  "Pregnancy scan could have saved baby, says coroner",
+  "Matthew Elliott: SEND Matters - that's why protecting specialist education must be part of the reform agenda",
+  "Oil slips as recovering Middle East exports blunt Gulf tensions",
+  "Abingdon Town Council opposes design for large new mural",
+  "Machine Gun Kelly faces backlash after ‘homophobic’ tweet goes viral",
+  "cost of rejoining eu analysis",
+  "m4 traffic",
+  "Tuesday briefing: Andy Burnham’s government wants to get young people into work. Will cutting their benefits help?",
+  "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+  "A staggered age of consent could infantilise Britain’s youth",
+  "Japan sends up jets after alleged Russian incursion of its airspace",
+  "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+  "Job vacancies plunge ahead of Labour’s workers’ rights reforms – latest updates",
+  "‘JD Habibi’ goes viral after El-Sayed’s victory speech",
+  "Rough sleeping schemes in London get £168m in government funding"
  ]
 }

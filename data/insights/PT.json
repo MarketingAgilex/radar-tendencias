@@ -1,65 +1,65 @@
 {
  "pais": "PT",
- "actualizado": "2026-11-17T05:03:22Z",
+ "actualizado": "2026-11-17T09:04:16Z",
  "metodo": "Análisis orientativo generado con IA a partir de Google Trends, Google News y conocimiento cultural del mercado. No reemplaza un estudio con muestra.",
- "lectura": "Portugal vive una semana de mal tiempo, con corriente en chorro fuerte, lluvia intensa y olas que dejan varios distritos bajo aviso. El Black Friday ya está en marcha (Auchan, PcComponentes, PlayStation, Dreame) y un estudio indica que el 88 % de los portugueses participará, aunque desconfía de los precios. El lanzamiento de GTA VI y la televisión (Big Brother, Cristina Ferreira) dominan el entretenimiento: gana quien muestre precio justo, entrega segura y humor local.",
+ "lectura": "El frío y la lluvia marcan el día en Portugal: el IPMA anticipa avisos amarillos y también se buscan las alertas de nieve en Reino Unido, donde vive una gran comunidad portuguesa. En redes circula el rumor de un 'apagón mundial' el 17 de noviembre, que conviene desmentir sin alarmismo, y el precio del tomate genera memes. Con Black Friday y Navidad cerca, funcionan las ofertas claras, los packs y los mensajes de confort en casa.",
  "ideas_hoy": [
   {
-   "titulo": "Desconfianza en Black Friday",
-   "idea": "Un estudio dice que el 88 % participará en Black Friday pero desconfía de los precios. Publica el historial de precio de los últimos 30 días junto a la oferta para ganar confianza.",
-   "formato": "Carrusel Instagram"
+   "titulo": "Kit de lluvia y frío",
+   "idea": "El IPMA anticipa aviso amarillo por lluvia fuerte en seis distritos. Tiendas de hogar y moda pueden lanzar un pack de invierno con entrega rápida y precio final.",
+   "formato": "Copy para anuncio"
   },
   {
-   "titulo": "Tiempo de quedarse en casa",
-   "idea": "Lluvia fuerte y avisos meteorológicos invitan al plan casero. Muestra mantas, calefactores, comida a domicilio o juegos con entrega rápida y un copy cálido.",
+   "titulo": "Los memes del tomate",
+   "idea": "El precio del tomate genera memes divertidos. Tiendas de alimentos y restaurantes pueden sumarse con una receta económica y una promoción.",
    "formato": "Reel"
   },
   {
-   "titulo": "Kit GTA VI",
-   "idea": "La precarga de GTA VI batió récords de tráfico en internet. Tiendas de tecnología y snacks pueden armar un 'kit de lanzamiento' con entrega antes del jueves.",
+   "titulo": "Sin apagón, con entrega",
+   "idea": "Circula el rumor de un apagón mundial. Responde con calma y humor ligero: 'hoy no se apaga nada, tu pedido llega' (en portugués: 'hoje não se apaga nada, a tua encomenda chega').",
    "formato": "TikTok"
   },
   {
-   "titulo": "Perfume viral y precio justo",
-   "idea": "Un perfume de supermercado se revende al doble en Vinted y se volvió tema. Úsalo para hablar de precio justo y mostrar tu producto con precio transparente.",
-   "formato": "TikTok"
-  },
-  {
-   "titulo": "Navidad a tiempo",
-   "idea": "Las empresas de mensajería refuerzan operaciones para Black Friday y Navidad. Comunica ya las fechas límite de envío para recibir antes del 24 de diciembre.",
+   "titulo": "Black Friday en packs",
+   "idea": "En la Biblioteca de Anuncios de Meta dominan las ofertas tipo 5+5 gratis y el pago contra entrega. Prueba un pack con el precio por unidad bien visible.",
    "formato": "Copy para anuncio"
+  },
+  {
+   "titulo": "Navidad con tiempo",
+   "idea": "A poco más de cinco semanas de Navidad, publica las fechas límite de pedido para entregas en Portugal y para la diáspora.",
+   "formato": "Carrusel Instagram"
   }
  ],
  "semaforo": [
   {
-   "termino": "corrente de jato",
-   "color": "amarillo",
-   "por_que": "Mal tiempo con lluvia intensa y olas altas.",
-   "idea": "Contenido útil de preparación y aviso de posibles retrasos en entregas."
-  },
-  {
-   "termino": "controle de tráfego aéreo",
-   "color": "amarillo",
-   "por_que": "Falla que paró vuelos en EE. UU.; preocupa a quien viaja.",
-   "idea": "Si dependes de envíos aéreos, comunica plazos realistas."
-  },
-  {
-   "termino": "vasco palmeirim",
+   "termino": "vórtice polar",
    "color": "verde",
-   "por_que": "Declaración romántica de un presentador muy comentada.",
-   "idea": "Contenido ligero de 'declaraciones' para marcas de regalos y flores."
+   "por_que": "Colapso temprano del vórtice polar que puede traer un invierno frío.",
+   "idea": "Packs de invierno y confort en casa, sin alarmismo."
   },
   {
-   "termino": "eletricidade",
-   "color": "amarillo",
-   "por_que": "Cortes programados de electricidad en varias zonas.",
-   "idea": "Productos útiles (power banks, linternas) con tono informativo."
-  },
-  {
-   "termino": "playstation",
+   "termino": "meo kalorama",
    "color": "verde",
-   "por_que": "Tráfico récord por la precarga de GTA VI.",
-   "idea": "Promociones de accesorios y juegos con entrega rápida."
+   "por_que": "El festival vuelve en 2027 con anuncios próximos.",
+   "idea": "Regala entradas o experiencias para Navidad."
+  },
+  {
+   "termino": "iva domingues",
+   "color": "verde",
+   "por_que": "Noticia ligera de televisión.",
+   "idea": "Contenido de entretenimiento sin entrar en la vida privada."
+  },
+  {
+   "termino": "podcast",
+   "color": "verde",
+   "por_que": "Interés por podcasts de conversación.",
+   "idea": "Lanza un episodio corto sobre tu sector o patrocina un podcast local."
+  },
+  {
+   "termino": "semaglutide",
+   "color": "amarillo",
+   "por_que": "Debate sobre medicamentos para bajar de peso.",
+   "idea": "Evita promesas de salud; si eres marca de bienestar, habla de hábitos."
   }
  ],
  "ocultar": [
@@ -96,7 +96,19 @@
   "Que castigo pode ter a agressão filmada em escola de Lisboa?",
   "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa",
   "Forças ucranianas atacam Ponte da Crimeia e trânsito fica condicionado. Kremlin admite \"danos ligeiros\"",
-  "A modelo espanhola Joana Sanz confirmou o fim do casamento com o ex-jogador Daniel Alves e atribuiu parte da separação à diferença de fé entre os dois. Em publicação nas redes sociais, ela afirmou que não compartilha da religiosidade do ex-atleta e qu"
+  "A modelo espanhola Joana Sanz confirmou o fim do casamento com o ex-jogador Daniel Alves e atribuiu parte da separação à diferença de fé entre os dois. Em publicação nas redes sociais, ela afirmou que não compartilha da religiosidade do ex-atleta e qu",
+  "deputado",
+  "lei",
+  "Deputado municipal do Porto detido à entrada da Assembleia por violência doméstica",
+  "01h Saúde e humor. Médico dos presidentes junta Cavaco e Marcelo",
+  "Metade das vítimas de violência doméstica acolhidas em casas-abrigo são crianças",
+  "Médico Goiana da Silva sobre jovem agredida em escola: \"Que crianças é que estamos a criar e que acompanhamento estamos a dar?\"",
+  "Centro clandestino em Angola. Mais de 50 crianças resgatadas de cativeiro",
+  "Assaltavam casas em construção na região Norte por encomenda",
+  "Fumo branco nos suplementos, mas os salários vão ter de esperar: O que se passou na reunião da PSP e GNR",
+  "Viralizou: Soldado que o chamou à atenção",
+  "Pedro Duarte: \"Há 30 mil pessoas no Porto a viver em casas da Câmara\"",
+  "\"Exigências absurdas\". Kallas recusa cedências perante a Moscovo"
  ],
  "audiencias": {
   "general": {
@@ -1118,15 +1130,27 @@
  ],
  "anuncios": [
   {
-   "busqueda": "Black Friday",
-   "total": 86106,
+   "busqueda": "Black Friday envio grátis",
+   "total": 1053,
    "anunciantes": [
     {
-     "nombre": "Reactive Outdoor",
-     "url": "https://www.facebook.com/ads/library/?id=1444248714345043"
+     "nombre": "Romyline",
+     "url": "https://www.facebook.com/ads/library/?id=1652772079855739"
+    },
+    {
+     "nombre": "Zenvia",
+     "url": "https://www.facebook.com/ads/library/?id=2052413655471298"
+    },
+    {
+     "nombre": "SelaWell",
+     "url": "https://www.facebook.com/ads/library/?id=2092381644751410"
+    },
+    {
+     "nombre": "LoeCare",
+     "url": "https://www.facebook.com/ads/library/?id=1437736751675886"
     }
    ],
-   "patron": "Volumen alto y resultados dominados por una marca internacional que replica en Portugal la misma campaña en inglés con un descuento máximo. Hay espacio para marcas locales que hablen en portugués europeo y prometan entrega antes de Navidad."
+   "patron": "Dominan los packs 'leve mais, pague menos' (5+5 grátis, 4 meses pelo preço de 2, trios), la urgencia ('últimas horas', 'está quase a acabar') y la confianza logística: pagamento na entrega y envío gratis en 24 h. Muchos anunciantes publican varias versiones del mismo mensaje para probar titulares."
   },
   {
    "busqueda": "presentes de Natal",
