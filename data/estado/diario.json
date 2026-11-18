@@ -1,22 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-17T11:10:13Z",
- "duracion_seg": 61.5,
- "errores": 3,
- "muestra_errores": [
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/CL/all-access/2026/11/16",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-17T11:10:13Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/CL/all-access/2026/11/15",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-17T11:10:13Z"
-  },
-  {
-   "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top-per-country/CL/all-access/2026/11/14",
-   "error": "HTTP Error 404: Not Found",
-   "hora": "2026-11-17T11:10:13Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-18T11:12:28Z",
+ "duracion_seg": 27.9,
+ "errores": 0,
+ "muestra_errores": []
 }
