@@ -6100,11 +6100,11 @@
   "1998 ky26": {
    "termino": "1998 ky26",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1DbYTSaToDu1VFnHb0zh01RYyNAu2WqzCgshGCWp6f2mq9FOjHPVck-jTyq8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Harvard scientist pushes back on NASA chief over mystery space object: 'It's not an asteroid'",
     "url": "https://www.foxnews.com/us/harvard-scientist-pushes-back-nasa-chief-mystery-space-object-not-asteroid",
@@ -6114,10 +6114,10 @@
   "clima hoy": {
    "termino": "clima hoy",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA21_QA5fqdS0IvtJhilGC9TMnnv-kovK8z_YBDB3PTvUCE9CnNI6ACz6nkz0",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Clima Bogotá ayer y hoy",
@@ -6128,10 +6128,10 @@
   "paulina rubio": {
    "termino": "paulina rubio",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmN4VFnmY4hM4jcPWXJ31A6vxdLKbiL5wLCBh0YGPuIU19oNr42R75xNiJzjg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Karol G invita a Paulina Rubio a cantar con ella en su último concierto en Ciudad de México",
@@ -6147,6 +6147,48 @@
    "imagen": "",
    "ultima_vez": "2026-11-19T11:54:48Z",
    "trafico": "100+"
+  },
+  "entradas concierto don omar": {
+   "termino": "entradas concierto don omar",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnrakzx0mIKSIB8Dan8b0KknqZedf_CQC1hGzvCfC1BKiWLWUoVRSJl3E35gE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Boletas de Don Omar en Colombia 2027: precios, fecha de preventa y ciudades",
+    "url": "https://www.portafolio.co/economia/boletas-de-don-omar-en-colombia-2027-precios-fecha-de-preventa-y-ciudades-506532",
+    "fuente": "Portafolio.co"
+   }
+  },
+  "pico y placa hoy bogota": {
+   "termino": "pico y placa hoy bogota",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQewqgQjN7MOB5LXesIpR3H2BHdzErUwpy74t6LN0i_M8djXiw6bwz9jS_fZRg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pico y placa en Bogotá para hoy jueves 19 de noviembre de 2026 ¡Horarios y más!",
+    "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/pico-y-placa-en-bogota-para-el-jueves-19-de-noviembre-de-2026-horarios",
+    "fuente": "Bogota.gov.co"
+   }
+  },
+  "final de la copa sudamericana 2026": {
+   "termino": "final de la copa sudamericana 2026",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQbIrpHVDzHiBE-N6hq-wmXQSOk8-SwXx3dOaT9U4uck-QiCXDuLN0io74NPY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Atlético Mineiro vs. Boca Juniors por la Gran Conquista en Barranquilla",
+    "url": "https://www.conmebol.com/noticias/atletico-mineiro-vs-boca-juniors-por-la-gran-conquista-en-barranquilla/",
+    "fuente": "Conmebol"
+   }
   }
  },
  "MX": {
@@ -12032,15 +12074,15 @@
   "tiempo de hoy": {
    "termino": "tiempo de hoy",
    "primera_vez": "2026-11-17T11:47:04Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxb6_vXvFZ-KUN23Sum20TcV7Lu2Ya71Gv-NwoNH5Tq5sR-9pmjmcRlrAN-0g",
-   "ultima_vez": "2026-11-18T13:03:10Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiJEtrcIvJCoT_tmynv-ZNc6Oaq1W54GgL1R5IGAu5mAziWErilA85vd9mJM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Frente frío 7 traerá lluvias, fuertes vientos y oleaje elevado a Baja California este martes",
-    "url": "https://es-us.noticias.yahoo.com/frente-fr%C3%ADo-7-traer%C3%A1-lluvias-050509064.html",
-    "fuente": "Yahoo"
+    "titulo": "CNPC LLAMA A EXTREMAR PRECAUCIONES ANTE SISTEMAS FRONTALES NÚMERO 6 Y 7, LLUVIAS INTENSAS Y EVENTO DE \"NORTE\"",
+    "url": "https://www.gob.mx/sspc/prensa/cnpc-llama-a-extremar-precauciones-ante-sistemas-frontales-numero-6-y-7-lluvias-intensas-y-evento-de-norte",
+    "fuente": "Gob MX"
    }
   },
   "temperatura": {
@@ -14103,15 +14145,15 @@
   "clima guadalajara": {
    "termino": "clima guadalajara",
    "primera_vez": "2026-11-18T15:56:49Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8fm0iWuCxLNAhUMtv9qzDqT677xCn1pKFqYxSSM-et_w9EOizP9lUftSdqU",
-   "ultima_vez": "2026-11-18T16:59:22Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Clima en Guadalajara hoy: pronóstico del tiempo para este miércoles 18 de noviembre",
     "url": "https://www.milenio.com/el-clima/clima-guadalajara-pronostico-del-tiempo-guadalajara-18-de-noviembre",
-    "fuente": "Milenio"
+    "fuente": "MILENIO"
    }
   },
   "sedán": {
@@ -15386,6 +15428,99 @@
     "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
     "fuente": "Reuters"
    }
+  },
+  "andré-pierre gignac": {
+   "termino": "andré-pierre gignac",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnhOOaVmQaInKZFuQVxVLJKWrmBOxVo8ee4iuL4vK3hv-mKvqlCcDM3EzCVBY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Molesta a Gignac que le pregunten de Tigres",
+    "url": "https://www.elnorte.com/molesta-a-gignac-que-le-pregunten-de-tigres/ar3317409",
+    "fuente": "El Norte"
+   }
+  },
+  "que se celebra hoy": {
+   "termino": "que se celebra hoy",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTkZyaOUO2u8iIdGpUX7Ph8KD0b-QsrgldrqKSM2-j-BdZPRvWUFj9KRgtsbs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "¿Qué santo se celebra hoy jueves 19 de noviembre? Todo lo que debes saber del santoral de hoy",
+    "url": "https://www.univision.com/shows/primer-impacto/conoce-el-santo-que-se-conmemora-hoy-jueves-19-de-noviembre",
+    "fuente": "Univision"
+   }
+  },
+  "clima de hoy": {
+   "termino": "clima de hoy",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq9SDDN3EGnIZ16aSr1cVlvspVJcb0RJD7nucY5iQF7jFK3vQSSQWwu2CRjA4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Cielo medio nublado y probabilidad de chubascos para este jueves en Jalisco",
+    "url": "https://www.milenio.com/el-clima/clima-jalisco-preven-intervalos-chubascos-jueves_2",
+    "fuente": "MILENIO"
+   }
+  },
+  "nicolas cage": {
+   "termino": "nicolas cage",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBzjJoEuYJPAuilP953XTg-6gaKp_onO60Vj868NYlIrH7plEL9OawC1DtRX0",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
+    "url": "https://www.theguardian.com/film/2026/nov/18/madden-review-nicolas-cage",
+    "fuente": "The Guardian"
+   }
+  },
+  "19 de noviembre": {
+   "termino": "19 de noviembre",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNL-YaebX4m5a6HtDfX0nLmjRsCylCeip1jAfa5ix0Syzh-ZTowtT6ivTKFDM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Los 3 signos que pueden recibir un impulso económico este jueves 19 de noviembre",
+    "url": "https://www.lecturas.com/horoscopo/tres-signos-que-pueden-recibir-impulso-economico-este-19-noviembre_201559",
+    "fuente": "Lecturas"
+   }
+  },
+  "aguinaldo": {
+   "termino": "aguinaldo",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZwYujFqhXg61fP8Q_QzL7OztYh7urPaBSjs5NHTmkwNhw5q53qKKJvG8beF4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Aguinaldo 2026: qué trabajadores pueden recibirlo sin pagar ISR, según el SAT",
+    "url": "https://www.unotv.com/negocios/aguinaldo-2026-que-trabajadores-pueden-recibirlo-sin-pagar-isr-segun-el-sat/",
+    "fuente": "UnoTV"
+   }
+  },
+  "temperatura saltillo": {
+   "termino": "temperatura saltillo",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+"
   }
  },
  "EC": {
@@ -18439,29 +18574,127 @@
   "fútbol": {
    "termino": "fútbol",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgmJc1RCrmx811q3aC33VtP7Fly_xFv_J8eTE1qAI-O8o7Jha-K7ArHH4t1HI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0e3Fp3gcOJSwi95hTL0lnAowCQpDMla1l8f6qnc9I7vZEKPARjUaVRuKFSHU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Brilló en la última Libertadores que ganó Boca, gritó campeón del mundo con la Selección y anunció su retiro en un torneo amateur",
-    "url": "https://www.elgrafico.com.ar/articulo/la-jornada-esta-aqui/104011/brillo-en-la-ultima-libertadores-que-gano-boca-grito-campeon-del-mundo-con-la-seleccion-y-anuncio-su-retiro-en-un-torneo-amateur",
-    "fuente": "El Gráfico"
+    "titulo": "Partidos del jueves 19 de noviembre: horarios y canales de TV para ver EN VIVO el Mundial Sub 17 y Brasileirao",
+    "url": "https://rpp.pe/futbol/futbol-mundial/partidos-del-jueves-19-de-noviembre-horarios-y-canales-de-tv-para-ver-en-vivo-el-mundial-sub-17-y-brasileirao-noticia-1718485",
+    "fuente": "RPP Noticias"
    }
   },
   "ana boyer preysler": {
    "termino": "ana boyer preysler",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8fkM-JT0Nr9dc2eRJc8Anzk2ZVuYSTymLGL0eC2xqqN8_Y1gWUOQgf2Q-YTw",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Ana Boyer hace balance de su año de grandes emociones y aprendizajes: \"Fernando y yo hemos cambiado mucho como pareja\"",
     "url": "https://www.hola.com/actualidad/20261118935477/ana-boyer-hace-balance-anyo-grandes-cambios-fernando-hemos-cambiado-mucho-como-pareja/",
     "fuente": "HOLA"
+   }
+  },
+  "que se celebra hoy": {
+   "termino": "que se celebra hoy",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt51bQAmI0WvFMb8cVTOub-KGnC0Jw3busIhSwz-g3-lQzPRqHMKr3oWhyEFY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Oración para hoy 19 de noviembre: cómo a Santa Matilde de Hackeborn, la santa que protege a personas con ceguera y cantantes",
+    "url": "https://www.infobae.com/mexico/2026/11/19/oracion-para-hoy-19-de-noviembre-como-a-santa-matilde-de-hackeborn-la-santa-que-protege-a-personas-con-ceguera-y-cantantes/",
+    "fuente": "Infobae"
+   }
+  },
+  "selección de fútbol sub-17 de nueva caledonia - ecuador sub-17": {
+   "termino": "selección de fútbol sub-17 de nueva caledonia - ecuador sub-17",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsxUNcqQITb5SC-Xtvuj9z07X5hE1QCBL98j8HARAevsBjec1g0ME_C4lsxCM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Mundial Sub 17 2026: el fixture y los resultados",
+    "url": "https://www.espn.com.ar/futbol/nota/_/id/17525964/mundial-sub-17-2026-fixture-resultados-qatar",
+    "fuente": "ESPN Argentina"
+   }
+  },
+  "don omar": {
+   "termino": "don omar",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKXHXn2mYgJr4Jl2ZFx2S_8F2pI4B-fOsTJagwRn-vz1LyKUKcWoKTZDq7NNU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Conciertos de Don Omar en Ecuador: Estos son los pasos para comprar las entradas en preventa desde el 19 de noviembre",
+    "url": "https://www.primicias.ec/entretenimiento/conciertos-don-omar-ecuador-pasos-preventa-compra-entradas-registro-137465/",
+    "fuente": "Primicias"
+   }
+  },
+  "mundial sub 17": {
+   "termino": "mundial sub 17",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAe8ONj3qeV3kmqVwflvfAC4hWv2BRZ4fLunA9kCP7B0iTkm3Tr4Xd_EvcEHE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Juan Policella, el “pibe de las rabonas” que rechazó Chile, hizo historia en Vélez y va por el Mundial Sub 17",
+    "url": "https://www.lanacion.com.ar/deportes/futbol/juan-policella-el-pibe-de-las-rabonas-que-rechazo-chile-hizo-historia-en-velez-y-va-por-el-mundial-nid18112026/",
+    "fuente": "La Nación"
+   }
+  },
+  "ecuador sub 17": {
+   "termino": "ecuador sub 17",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD0hUhjK_L3ZXokMX0n7AuSz0roOWVX9OS1WCGHgbBcItKSZpa2K-g9lBIfqM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ecuador vs. Nueva Caledonia en el Mundial Sub-17: Dónde verlo gratis y EN VIVO",
+    "url": "https://www.eluniverso.com/deportes/futbol/ecuador-vs-nueva-caledonia-en-el-mundial-sub-17-donde-verlo-gratis-y-en-vivo-nota/",
+    "fuente": "El Universo"
+   }
+  },
+  "19 de noviembre": {
+   "termino": "19 de noviembre",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW3s0bbbWlPWWYQpoeSr2TmUbgQTGavO6jtL9PtTu1ZVa59yWNKQ3nfVS5b_8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Amazon abre su Black Friday el 19 de noviembre con ofertas de hasta el 60 %: no hay un solo día más barato, pero sí dos horas clave",
+    "url": "https://www.eluniverso.com/internacional/resto-del-mundo/amazon-abre-su-black-friday-el-19-de-noviembre-con-ofertas-de-hasta-60-no-hay-un-solo-dia-mas-barato-pero-si-dos-horas-clave-nota/",
+    "fuente": "El Universo"
+   }
+  },
+  "darío macas": {
+   "termino": "darío macas",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMlBxNd_9ldq99QpVwqjsrbRAaRGofgIy1FtCWxp4GJoGGyLtGKFMc6wl3H2Q",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Darío Macas, exalcalde de Machala, seguirá en prisión preventiva",
+    "url": "https://www.primicias.ec/politica/dario-macas-exalcalde-machala-prision-preventiva-caso-machalazo-137496/",
+    "fuente": "Primicias"
    }
   }
  },
@@ -31012,6 +31245,118 @@
     "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-lego-deals-2026-11-14",
     "fuente": "CNN"
    }
+  },
+  "gary sinise": {
+   "termino": "gary sinise",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6kXfpWFtLDiHKyxJ9ar7TgJCuvfMokyknvWbEl9nKTI2x7-GrGIambfQ4s_I",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Things to do Nov. 20-26: Christmas at Cantigny, tree lightings, Thanksgiving events, Gary Sinise and more",
+    "url": "https://www.dailyherald.com/20261117/entertainment/things-to-do-nov-20-26-christmas-at-cantigny-tree-lightings-thanksgiving-events-gary-sinise-and/",
+    "fuente": "Daily Herald"
+   }
+  },
+  "us winter 2026 2027 snow outlook": {
+   "termino": "us winter 2026 2027 snow outlook",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkl8teDF_39aLqy34jz86-NfjyHtddLHo9I6T2-BgdJuYn-0LpRUXTWNmDXTk",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Mark Reynolds’ 2026-2027 Winter Weather Outlook",
+    "url": "https://www.wjhl.com/wjhl-weather/mark-reynolds-2026-2027-winter-weather-outlook/",
+    "fuente": "WJHL"
+   }
+  },
+  "movie directors": {
+   "termino": "movie directors",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9wrVnO66FKeIcaI1AJZv3bLArI2VQRESOYw2NxL1LwJCZRYIRN2QbBf2T89c",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Daniel Roebuck hits back at Chris Columbus’ claims he was ‘horrible’ in ‘Home Alone’ screen test",
+    "url": "https://ew.com/daniel-roebuck-hits-back-chris-columbus-home-alone-firing-12261353",
+    "fuente": "Entertainment Weekly"
+   }
+  },
+  "jax taylor": {
+   "termino": "jax taylor",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCtz1PmEEJ-DBFXsS-4hKID72DDyjc73nXK9qA8oSX3P_gUEPigPjiB84gEVM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jax Taylor Reveals Cancer Diagnosis, Says ‘It’s Been a Really Scary Few Months’ (Exclusive)",
+    "url": "https://people.com/jax-taylor-reveals-cancer-diagnosis-says-its-been-scary-few-months-exclusive-12264354",
+    "fuente": "People.com"
+   }
+  },
+  "cignetti": {
+   "termino": "cignetti",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-QjCy1H9Q2FTlJiGzPB2OLcP4v9gJcdYQHMHHYe2C0cZa-U3QLF20AZEzKY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cignetti: Narrative surrounding Indiana serves as motivation",
+    "url": "https://www.espn.com/college-football/story/_/id/50503441/narrative-surrounding-indiana-serves-motivation",
+    "fuente": "ESPN"
+   }
+  },
+  "fútbol": {
+   "termino": "fútbol",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmaBMHIoWFjVfwGCzyZQyemrTFV-_Cm9FAunL77EdtJNXKd6b5PBKo_4HT_Eg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Se retira Juan Mata, campeón del mundo con España: \"A veces amar es dejar ir\"",
+    "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17529407/juan-mata-espana-se-retira-amar-dejar-ir",
+    "fuente": "ESPN Deportes"
+   }
+  },
+  "dolar hoje": {
+   "termino": "dolar hoje",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qMURPpfX-OFuOkEspGl9NyLA1Du-sys_3ZScc5hkxXUSObblDArF_Grfckk",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Dólar dispara a R$ 5,86, maior valor desde abril de 2025; Ibovespa cai com impasse no ajuste fiscal",
+    "url": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml",
+    "fuente": "G1"
+   }
+  },
+  "noah kahan tour supporting acts 2027": {
+   "termino": "noah kahan tour supporting acts 2027",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvDJ9B8fw8SLIwWc_BtbTCX1_ub6Z6wLDe_lzp3V-ubYlpanTkQrJSkIwnF7c",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Noah Kahan sells out all North American dates on 2027 tour, including a record-setting 6 shows at Fenway",
+    "url": "https://www.bostonglobe.com/2026/11/18/metro/noah-kahan-sold-out-fenway-park-2027-tour/",
+    "fuente": "The Boston Globe"
+   }
   }
  },
  "US/nueva-york": {
@@ -36464,15 +36809,15 @@
   "cyberattack": {
    "termino": "cyberattack",
    "primera_vez": "2026-11-17T04:55:39Z",
-   "veces": 6,
+   "veces": 7,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGX4ve_vPtNpX5UvBFYXHAn6LAJrbvxdUkggS1Cdw7xDqsNVvubduEEinY4yE",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7oCZ0Cq9z38XC2lYqoW6p0c_u7cHPYIv_RG0zDR-y-MBBH5Z_ik5xNuoxapg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "European Commission systems were hit by a cyberattack.",
-    "url": "https://www.theverge.com/tech/1037484/european-commission-systems-were-hit-by-a-cyberattack",
-    "fuente": "The Verge"
+    "titulo": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+    "url": "https://www.seattletimes.com/business/technology/a-cyberattack-using-artificial-intelligence-targeted-the-eu-in-october-official-says/",
+    "fuente": "The Seattle Times"
    }
   },
   "mike mcdaniel": {
@@ -36604,10 +36949,10 @@
   "sri lanka vs pakistan": {
    "termino": "sri lanka vs pakistan",
    "primera_vez": "2026-11-17T08:55:34Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6j2tPIl0v5CpgZsURpNdrMApfYhr8D8aIVgyhZvbBjrUGkgbFzwS2JBaka3w",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Ball by Ball Commentary & Live Score - PAK vs SL, 2nd Test",
@@ -39796,10 +40141,10 @@
   "ny mets": {
    "termino": "ny mets",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqNu0VhG_C_Fk9EL8nKAWqISUz5v0OP9k5BmOBoX-VPX0eZBY3Z1BDmFuiIY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Sources: Mets favorite to sign Tarik Skubal as teams ramp up pursuit of FA ace",
@@ -39833,6 +40178,76 @@
     "titulo": "Gold recoups from 14-month low, tighter Fed outlook caps gains",
     "url": "https://www.reuters.com/world/india/gold-edges-up-14-month-low-markets-assess-fed-rate-outlook-2026-11-19/",
     "fuente": "Reuters"
+   }
+  },
+  "the altruists": {
+   "termino": "the altruists",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNwzeb6SFM2QYA965SNpkBXmOzBftFmeayoQcphEej4Z76ZXExR2R1vKZlV0",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
+    "fuente": "The Guardian"
+   }
+  },
+  "cloud gaming": {
+   "termino": "cloud gaming",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4uIFZvugcqmekpzElm_U_J_F9sOp4fVSf-9ef2D-ei0ZJRteqftHjq9QBkko",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "3 Things to Know About GTA 6 on PC",
+    "url": "https://www.pcmag.com/news/3-things-to-know-about-gta-6-on-pc-launch",
+    "fuente": "PCMag"
+   }
+  },
+  "wordle nyt": {
+   "termino": "wordle nyt",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWTFs9otYzqS9eHZbldTpbyCOcgKyIP3yZhB7Iqfex58sxKAVg4MeUQhBwOY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Wordle today: The answer and hints for November 16, 2026",
+    "url": "https://mashable.com/entertainment/wordle-today-answer-november-16-2026",
+    "fuente": "Mashable"
+   }
+  },
+  "international mens day": {
+   "termino": "international mens day",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6VWx-XFO48EtKAh7IFhkghdiat5tr_FEC_BPLn9GyHUTh9j_PheIp3ltqws",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Happy International Men’s Day November 19 – ‘The Future is Everyone’",
+    "url": "https://www.detroitnews.com/press-release/story/202721/happy-international-mens-day-november-19-the-future-is-everyone/",
+    "fuente": "The Detroit News"
+   }
+  },
+  "medicare part b premium changes 2027": {
+   "termino": "medicare part b premium changes 2027",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOlm8eKjx8BLqIV_yqVVfUpfchcyPzxgrEjzo3MskbgsukJKMwPMQX1x5z8Y",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medicare Part B Adjustment for 2027: Here's How Much the New Premiums Will Eat Into Social Security Checks",
+    "url": "https://money.com/medicare-part-b-adjustment-2027-social-security/",
+    "fuente": "money.com"
    }
   }
  },
@@ -45650,10 +46065,10 @@
   "météo": {
    "termino": "météo",
    "primera_vez": "2026-11-17T11:47:04Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzkTs1EIeq53VklJ5AhASJgJ8KgPt-U0LPFFAWIdgQV2adoZzJt6RbHEnPDAo",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Météo. La météo du jeudi 19 novembre 2026 à Montaigu-Vendée et ses environs",
@@ -45664,15 +46079,15 @@
   "clima": {
    "termino": "clima",
    "primera_vez": "2026-11-17T11:47:04Z",
-   "veces": 4,
-   "max_trafico": 10000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYcNQC_D2EmvJZLKeFOsi2_wmQLNqZXKe-JiWOBjhqbin8bdy2LWQNy1MO2Rk",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "10000+",
+   "veces": 5,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBFTT_BzjaoN0CCtNuJsOm0zGdcTi-SnD67L66pFo2Ju5cj5gGZXacWyLn5RQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "20000+",
    "noticia": {
-    "titulo": "Pronóstico del tiempo en Chicago: se esperan temperaturas estables y ráfagas de hasta 25 mph para este jueves",
-    "url": "https://www.univision.com/noticias/pronostico-del-tiempo-en-chicago-se-esperan-temperaturas-estables-y-rafagas-de-hasta-25-mph-para-este-jueves-video",
-    "fuente": "Univision"
+    "titulo": "Clima de hoy en Austin para este jueves 19 de noviembre",
+    "url": "https://laopinion.com/2026/11/19/clima-de-hoy-en-austin-para-este-jueves-19-de-noviembre/",
+    "fuente": "La Opinión"
    }
   },
   "singapura x brasil": {
@@ -48763,6 +49178,76 @@
     "url": "https://www.abc10.com/article/weather/weather-impact/risk-of-tornadoes-for-the-valley-as-a-major-storm-rolls-through-northern-california/103-73a32110-5aac-4449-92f6-5446337cb8df",
     "fuente": "ABC10"
    }
+  },
+  "charlotte sweeney ice colorado ruling": {
+   "termino": "charlotte sweeney ice colorado ruling",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY5_HM0EcNUDNl2RZxs2SjWa2RrtHNB3UdZ0J1W1qfSizVJ2xTg_zGu3fAgEI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "U.S. judge says ICE ‘made a mockery of court orders’ in Colorado",
+    "url": "https://www.nbcnews.com/news/us-news/us-judge-says-ice-made-mockery-court-orders-colorado-rcna610167",
+    "fuente": "NBC News"
+   }
+  },
+  "fútbol": {
+   "termino": "fútbol",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmaBMHIoWFjVfwGCzyZQyemrTFV-_Cm9FAunL77EdtJNXKd6b5PBKo_4HT_Eg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Se retira Juan Mata, campeón del mundo con España: \"A veces amar es dejar ir\"",
+    "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17529407/juan-mata-espana-se-retira-amar-dejar-ir",
+    "fuente": "ESPN Deportes"
+   }
+  },
+  "quinnen williams press conference response": {
+   "termino": "quinnen williams press conference response",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBO95JTpXQYH7oZ5ytFsJ_UHs3r2ui5Z-JchH1oDPYhjQlC7WFB29ThrKTy6s",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change",
+    "url": "https://www.foxnews.com/outkick-sports/cowboys-star-quinnen-williams-repeats-six-word-answer-12-times-presser-major-coaching-change",
+    "fuente": "Fox News"
+   }
+  },
+  "silo": {
+   "termino": "silo",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_VOpu-PTg_h8wsboTm-kWJ6gPSNfP-zYDavWrYWqGdsXuipSxueQZb1GmzIg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Everything to know about ‘Silo’ Season 4",
+    "url": "https://decider.com/2026/11/18/silo-season-4-release-date-when-is-season-4-of-silo-coming-out/",
+    "fuente": "Decider"
+   }
+  },
+  "погода": {
+   "termino": "погода",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcwxMyB8muk1CMDk1_mWY-kFO1gZRyC0AAhQVeSoi4PZO-GhtxMCBTfR5KXDI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Астану ждут снег и сильный ветер, а Алматы — ещё больше тепла",
+    "url": "https://tengrinews.kz/kazakhstan_news/astanu-jdut-sneg-silnyiy-veter-almatyi-esch-tepla-613462/",
+    "fuente": "TengriNews"
+   }
   }
  },
  "US/los-angeles": {
@@ -49511,15 +49996,15 @@
   "tormenta": {
    "termino": "tormenta",
    "primera_vez": "2026-11-14T13:47:59Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSItn_2DAeJlYxJ5fm21I02crM3H49EG7AfbGHOQIR0ik5mufIsPeXs4Qqsko0",
-   "ultima_vez": "2026-11-14T15:34:08Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQycx0E7-TwAmcSNCvFx1R04H69-O0mbSj-cxWfMBPUq31pPNADxy0LYeOfDpQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Chaco bajo alerta por tormentas fuertes y granizo",
-    "url": "https://www.identidadcorrentina.com.ar/noticia/46065_chaco-bajo-alerta-por-tormentas-fuertes-y-granizo.htm",
-    "fuente": "Identidad Correntina"
+    "titulo": "Hay alerta amarilla por tormentas en 12 provincias",
+    "url": "https://elchorrillero.com/nota/2026/11/19/679991-hay-alerta-amarilla-por-tormentas-en-12-provincias/amp/",
+    "fuente": "El Chorrillero"
    }
   },
   "go": {
@@ -53216,15 +53701,15 @@
   "weather today": {
    "termino": "weather today",
    "primera_vez": "2026-11-16T14:58:40Z",
-   "veces": 3,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHVwKp1Ok_xWwhPlrnAC8WTEalSWbvm_pkTjP7PsKuxI46Jz_cpAn_EBELyMg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "500+",
+   "veces": 4,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYo1sHqteI4qh1EWDW9ooX9tKPbKZMd0w0kK4bRiRSmx0TPuEWxST9QTE9SE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "The chances for a late-season tropical storm are growing. These states could be impacted.",
-    "url": "https://www.washingtonpost.com/weather/2026/11/19/chances-late-season-tropical-storm-are-growing-these-states-could-be-impacted/",
-    "fuente": "The Washington Post"
+    "titulo": "Development chances rise for system near Florida's coast; dangerous surf likely",
+    "url": "https://www.wesh.com/article/florida-tropical-development-chances-rise-bahamas-system/74475177",
+    "fuente": "WESH"
    }
   },
   "nvda stock price": {
@@ -58405,10 +58890,10 @@
   "chris pratt": {
    "termino": "chris pratt",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCmQGwA3rgURUegeMxlvKWbBC7R0cVPAddTfS868ZdvNI7rHtmYLasRCT2nJw",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Chris Pratt To Star In Paramount’s Feature Take Of Joseph Eckert Novel ‘The Traveler’",
@@ -58419,24 +58904,24 @@
   "fix railing gta 6": {
    "termino": "fix railing gta 6",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSCJXRxWe7yd1_ngBHOvB4-RJNVKPZKYXVAhZWKImw0vC6CtQc2vC3pFX7MU",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi6e-To1zET1Sg2XaSr1rO6hLUt77qdCFXPf22L85istegZytKdUTifjOdwMI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "How To Fix All Projects At Jason’s House In GTA 6",
-    "url": "https://www.gamespot.com/articles/how-to-fix-all-projects-at-jasons-house-in-gta-6/",
-    "fuente": "GameSpot"
+    "titulo": "How to fix the railing in GTA 6 explained",
+    "url": "https://www.radiotimes.com/technology/gaming/gta-6-how-to-fix-railing/",
+    "fuente": "Radio Times"
    }
   },
   "stanislaus wildlife care center": {
    "termino": "stanislaus wildlife care center",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvsSz8VI2eKRUEAieBzyOSoXkKVsZt2tvZ2AU4mggVreQygHOph1KglThCUmQ",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Fire at Stanislaus County wildlife center kills approximately 40 animals",
@@ -58461,10 +58946,10 @@
   "gta 6 reddit": {
    "termino": "gta 6 reddit",
    "primera_vez": "2026-11-19T09:59:39Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIrPQbK_RnJDC2V_y6D0d3UirPjlaZAKR0-XtkWMTvizBuSdUHy9jMAgu1FQI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Birdwatchers Are Apparently Buying 'GTA 6' Just to Watch Birds. Here's How Many Are in the Game.",
@@ -58475,10 +58960,10 @@
   "does gta 6 auto save": {
    "termino": "does gta 6 auto save",
    "primera_vez": "2026-11-19T09:59:39Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 2000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCtcFGJYg6VMab7HC-8T99LGShET98bgHyejV3tgs_VDPk7LL3WDdMLf3bDi8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "2000+",
    "noticia": {
     "titulo": "GTA 6 Doesn’t Let You Replay Story Missions — Here’s Why That Makes Sense",
@@ -58489,29 +58974,43 @@
   "black friday": {
    "termino": "black friday",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSAc3zx4BS88Npb6BvfYPyliIrYs7DQh2lba4auw5d8weGe5UtO_gQ_d7mItY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzFwP9EDtdEwFEeMwpx2QzaoqbE2tWsFwXIVVgY6rPsHql56mEd52WQfieXY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Amazon Black Friday is here and we’re tracking the best deals live",
-    "url": "https://www.usatoday.com/story/shopping/deals/black-friday/2026/11/19/best-amazon-black-friday-deals-2026-live-updates--live/92807075007/",
-    "fuente": "USA Today"
+    "titulo": "Don’t Wait Until Black Friday! We Found Giftable Finds on Sale at up to 88% Off",
+    "url": "https://www.today.com/shop/black-friday-best-gifts-on-sale-2026-rcna608785",
+    "fuente": "TODAY.com"
    }
   },
   "madison beer": {
    "termino": "madison beer",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE9zT1rv304zA2zJpwHVQndfzPLca6gQD-dYIP7hPOFypRvrIoJA8jBipyJWI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "LAPD swarms home of singer Madison Beer and her fiancé Justin Herbert",
     "url": "https://abc7.com/post/lapd-swarms-hollywood-hills-home-singer-madison-beer-fiance-la-chargers-qb-justin-herbert/20054082/",
     "fuente": "ABC7 Los Angeles"
+   }
+  },
+  "resin": {
+   "termino": "resin",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oBPWOXBKTOVK-AG5siWqqBAX1ZPRg-qc4tjOX8ojAfKGFK8GvzPzKSzvwXI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Elegoo's 9K resin 3D printer with AI camera makes miniature printing easy",
+    "url": "https://www.techradar.com/pro/elegoo-mars-5-ultra-resin-3d-printer-deal-drops-to-usd259-for-black-friday",
+    "fuente": "TechRadar"
    }
   }
  },
@@ -64207,15 +64706,15 @@
   "cyberattack": {
    "termino": "cyberattack",
    "primera_vez": "2026-11-17T12:59:01Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGX4ve_vPtNpX5UvBFYXHAn6LAJrbvxdUkggS1Cdw7xDqsNVvubduEEinY4yE",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7oCZ0Cq9z38XC2lYqoW6p0c_u7cHPYIv_RG0zDR-y-MBBH5Z_ik5xNuoxapg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "European Commission systems were hit by a cyberattack.",
-    "url": "https://www.theverge.com/tech/1037484/european-commission-systems-were-hit-by-a-cyberattack",
-    "fuente": "The Verge"
+    "titulo": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+    "url": "https://www.seattletimes.com/business/technology/a-cyberattack-using-artificial-intelligence-targeted-the-eu-in-october-official-says/",
+    "fuente": "The Seattle Times"
    }
   },
   "spectrum outage": {
@@ -65714,15 +66213,15 @@
   "centerpoint energy": {
    "termino": "centerpoint energy",
    "primera_vez": "2026-11-18T14:16:57Z",
-   "veces": 2,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVAAleSKg50TwZSnN36pXI4-fGCowVJrBxm09pTx31uejUW0nTjJz4Ma7j0o",
-   "ultima_vez": "2026-11-18T15:56:49Z",
-   "trafico": "100+",
+   "veces": 3,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS26dUGq4AK1D-GWBcnTCxMvscxzm-ZGHQc0I_BNBwHS0pY41xLoDGeQ4u1IOg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Dems campaign promise to freeze energy costs faces glaring reality check",
-    "url": "https://www.foxnews.com/politics/dems-campaign-promise-freeze-energy-costs-faces-glaring-reality-check",
-    "fuente": "Fox News"
+    "titulo": "Can Gina Hinojosa Lower Texans’ Electricity Bills?",
+    "url": "https://www.texasmonthly.com/news-politics/gina-hinojosa-electricity-rates/",
+    "fuente": "Texas Monthly"
    }
   },
   "glastonbury festival": {
@@ -67016,10 +67515,10 @@
   "does gta 6 auto save": {
    "termino": "does gta 6 auto save",
    "primera_vez": "2026-11-19T09:59:39Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCtcFGJYg6VMab7HC-8T99LGShET98bgHyejV3tgs_VDPk7LL3WDdMLf3bDi8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "1000+",
    "noticia": {
     "titulo": "GTA 6 Doesn’t Let You Replay Story Missions — Here’s Why That Makes Sense",
@@ -67030,15 +67529,71 @@
   "quinnen williams press conference response": {
    "termino": "quinnen williams press conference response",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 5000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBO95JTpXQYH7oZ5ytFsJ_UHs3r2ui5Z-JchH1oDPYhjQlC7WFB29ThrKTy6s",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "5000+",
    "noticia": {
     "titulo": "Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change",
     "url": "https://www.foxnews.com/outkick-sports/cowboys-star-quinnen-williams-repeats-six-word-answer-12-times-presser-major-coaching-change",
     "fuente": "Fox News"
+   }
+  },
+  "resin": {
+   "termino": "resin",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oBPWOXBKTOVK-AG5siWqqBAX1ZPRg-qc4tjOX8ojAfKGFK8GvzPzKSzvwXI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Elegoo's 9K resin 3D printer with AI camera makes miniature printing easy",
+    "url": "https://www.techradar.com/pro/elegoo-mars-5-ultra-resin-3d-printer-deal-drops-to-usd259-for-black-friday",
+    "fuente": "TechRadar"
+   }
+  },
+  "daily mail": {
+   "termino": "daily mail",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMzLK_oXsNyUavY3qBkbhH0Jjnn_KhHmERN37totaKHKxRSvqQnkRcUWd9iZ0",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Mail Metro Media’s next creator play is representing them",
+    "url": "https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/",
+    "fuente": "Digiday"
+   }
+  },
+  "international mens day": {
+   "termino": "international mens day",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6VWx-XFO48EtKAh7IFhkghdiat5tr_FEC_BPLn9GyHUTh9j_PheIp3ltqws",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Happy International Men’s Day November 19 – ‘The Future is Everyone’",
+    "url": "https://www.detroitnews.com/press-release/story/202721/happy-international-mens-day-november-19-the-future-is-everyone/",
+    "fuente": "The Detroit News"
+   }
+  },
+  "medicare part b premium changes 2027": {
+   "termino": "medicare part b premium changes 2027",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOlm8eKjx8BLqIV_yqVVfUpfchcyPzxgrEjzo3MskbgsukJKMwPMQX1x5z8Y",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medicare Part B Adjustment for 2027: Here's How Much the New Premiums Will Eat Into Social Security Checks",
+    "url": "https://money.com/medicare-part-b-adjustment-2027-social-security/",
+    "fuente": "money.com"
    }
   }
  },
@@ -67508,10 +68063,10 @@
   "blue jays": {
    "termino": "blue jays",
    "primera_vez": "2026-11-14T06:53:25Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqNu0VhG_C_Fk9EL8nKAWqISUz5v0OP9k5BmOBoX-VPX0eZBY3Z1BDmFuiIY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Sources: Mets favorite to sign Tarik Skubal as teams ramp up pursuit of FA ace",
@@ -77302,11 +77857,11 @@
   "american thanksgiving 2026": {
    "termino": "american thanksgiving 2026",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgKJW8p_cZ6Q3ClSDQ5Jj3z2qu-Z2YYrsZVLlNgNu6vVlydEFxCqeHVig7Sno",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Parade Memory 9: \"We'd go inside and have hot chocolate to warm up\"",
     "url": "https://www.clickondetroit.com/video/features/2026/11/18/parade-memory-9-we-d-go-inside-and-have-hot-chocolate-to-warm-up/",
@@ -77316,15 +77871,15 @@
   "black friday 2026": {
    "termino": "black friday 2026",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxUaz8f9gwHrijsZQsDxZ6cY-ZkoafJvEhlnfzmuG9AH0oDzCnaWd-Hh-MuAY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "1000+",
+   "veces": 2,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V7B-_MHCycl0NfC3_je64EwQfwTZf3bKwM6-kcOmPLXKcOQNkq_88CShUnA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "5000+",
    "noticia": {
-    "titulo": "Amazon Canada’s Black Friday deals start tomorrow: These are the deals worth shopping - National",
-    "url": "https://globalnews.ca/the-curator/12155718/early-amazon-canadas-black-friday-deals/",
-    "fuente": "Global News"
+    "titulo": "Amazon’s annual Black Friday sale is officially live with 12 days of the year’s best deals",
+    "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-19",
+    "fuente": "CNN"
    }
   },
   "horoscope": {
@@ -77353,6 +77908,76 @@
     "titulo": "Arnold Schwarzenegger Reveals Why He and Ex-Wife Maria Shriver Still Spend Christmas Together: ‘The Kids Love That’ (Exclusive)",
     "url": "https://ca.news.yahoo.com/arnold-schwarzenegger-reveals-why-ex-203500832.html",
     "fuente": "Yahoo News Canada"
+   }
+  },
+  "paul bettany": {
+   "termino": "paul bettany",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvcTb__xPHDOHvLhRC7QKq-baQx5BUJk3ek0UP44Dw9DAReuK9i2tpHsgjJU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Marvel Removes VisionQuest As A Disney+ Exclusive Following Paul Bettany's Comments Pushing For His MCU Return Post-Avengers: Doomsday",
+    "url": "https://thedirect.com/article/marvel-visionquest-disney-plus-paul-bettany-mcu-avengers-doomsday",
+    "fuente": "The Direct"
+   }
+  },
+  "nasa voyager 1": {
+   "termino": "nasa voyager 1",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGm06VTVoOgPuZskVlDhpcRGZJTN9vMYXIpHqdgH_Vsn3oIgzf6oB73-IohHs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Voyager 1 is now one light-day from Earth",
+    "url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day",
+    "fuente": "CNN"
+   }
+  },
+  "thanksgiving usa 2026": {
+   "termino": "thanksgiving usa 2026",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8A_9fF1i_Cd-3yxoy_w-_-SOtnhszAra4IRBkUhrOM0IXXr-yjgXRpngMRRA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "When is Thanksgiving 2026? Date, Black Friday, NFL games, Macy's parade",
+    "url": "https://www.yahoo.com/lifestyle/articles/thanksgiving-2026-date-black-friday-093549002.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "bell": {
+   "termino": "bell",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5cDm6wow2y65-LNbzZiippARZsiFK5fRDmCRWyn_khAdFRwvfpND4KzSe1dc",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Stuart Bell sets sights on UF's future at presidential inauguration",
+    "url": "https://www.pembrokepinesflnews.com/news/article318149183.html",
+    "fuente": "Pembroke Pines News"
+   }
+  },
+  "missing person": {
+   "termino": "missing person",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicWlwYHlH3fgQ1rXVSEPMZkvfanPqhfR3VuT_A91ACJj1hM9f4fcJs-OGra8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Missing person alert cancelled for 86-year-old Marysville man",
+    "url": "https://cwcolumbus.com/news/local/missing-marysville-man-86-needs-medication-police-urge-public-to-help-billy-jones-claudia-lane?teaserSource=trending",
+    "fuente": "The CW Columbus"
    }
   }
  },
@@ -85456,10 +86081,10 @@
   "dominican professional baseball league": {
    "termino": "dominican professional baseball league",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx-tmAQvWuqIJO8InWTNfj-0pbsAK-7bdFhrUh4WDOw-iQFr2fXcaYZ1aZ_FI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "1000+",
    "noticia": {
     "titulo": "Blue Jays' Guerrero Jr. traded in Dominican winter league",
@@ -85470,10 +86095,10 @@
   "black friday": {
    "termino": "black friday",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJbeG_bvIL0XmKhFn3d29gnjy8lgaWMtheSq5HPxVi3R-_I9ERmNnBi19grZU",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Dyson’s Black Friday Deals Start Today. Here Are the Ones Worth Shopping",
@@ -85484,11 +86109,11 @@
   "american thanksgiving 2026": {
    "termino": "american thanksgiving 2026",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgKJW8p_cZ6Q3ClSDQ5Jj3z2qu-Z2YYrsZVLlNgNu6vVlydEFxCqeHVig7Sno",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Parade Memory 9: \"We'd go inside and have hot chocolate to warm up\"",
     "url": "https://www.clickondetroit.com/video/features/2026/11/18/parade-memory-9-we-d-go-inside-and-have-hot-chocolate-to-warm-up/",
@@ -85521,6 +86146,90 @@
     "titulo": "Bucket-list vacation destination just got a lot tougher for Americans to reach",
     "url": "https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach",
     "fuente": "Fox News"
+   }
+  },
+  "nasa voyager 1": {
+   "termino": "nasa voyager 1",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGm06VTVoOgPuZskVlDhpcRGZJTN9vMYXIpHqdgH_Vsn3oIgzf6oB73-IohHs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Voyager 1 is now one light-day from Earth",
+    "url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day",
+    "fuente": "CNN"
+   }
+  },
+  "toronto maple leafs news": {
+   "termino": "toronto maple leafs news",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcCCE_FA1fzYMdGZKENpAIsrNv7HflZTwS4v0QGifiHBltsArN7ya085HiNtk",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Maple Leafs' loss to Blackhawks 'really disappointing' for Hiller",
+    "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-loss-to-blackhawks-really-disappointing-for-hiller/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "playstation 5": {
+   "termino": "playstation 5",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfAXS2_ILJV9RZp7IGlarei-Ve9ZMaPhc2a8n9eAKq71OzzOzCAdiByzkXfQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
+    "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
+    "fuente": "Reuters"
+   }
+  },
+  "the further mis-adventures of cliff booth": {
+   "termino": "the further mis-adventures of cliff booth",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4M9y12dNTbu18wGze_bqHM0_VsJ8SdkP9ICdT8LEE-ZDalgggWhun8A1isiQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Elizabeth Debicki Lights Up THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+    "url": "https://www.netflix.com/tudum/features/elizabeth-debicki-cliff-booth-cover-story",
+    "fuente": "Netflix"
+   }
+  },
+  "satya nadella": {
+   "termino": "satya nadella",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSt7OH708BhuOp5R_IsTW7t3zdUmDzDbPh0ZiOsRTAHyeCM7cvEC4X5Pyn2Pw",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+    "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
+    "fuente": "CNBC"
+   }
+  },
+  "property": {
+   "termino": "property",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Q6ObVYmKicAhNEnAN-TpdBr4tYCrv2THi8l59F7XhoqWv2uaYhDn7ZkTb6c",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Home insurance is becoming a bigger burden than property taxes in some states",
+    "url": "https://www.consumeraffairs.com/news/home-insurance-is-becoming-a-bigger-burden-than-property-taxes-in-some-states-111926.html",
+    "fuente": "ConsumerAffairs"
    }
   }
  },
@@ -91498,10 +92207,10 @@
   "rds": {
    "termino": "rds",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGsq4RwE_y4Ya3-I_qgW9MTkRFNa4KPPIYCNMavfHI_coQXmZlPePVdXTlXl0",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Amazon RDS for MySQL LTS version 9.7 is now generally available",
@@ -91554,15 +92263,85 @@
   "black friday 2026": {
    "termino": "black friday 2026",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxUaz8f9gwHrijsZQsDxZ6cY-ZkoafJvEhlnfzmuG9AH0oDzCnaWd-Hh-MuAY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V7B-_MHCycl0NfC3_je64EwQfwTZf3bKwM6-kcOmPLXKcOQNkq_88CShUnA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Amazon Canada’s Black Friday deals start tomorrow: These are the deals worth shopping - National",
-    "url": "https://globalnews.ca/the-curator/12155718/early-amazon-canadas-black-friday-deals/",
-    "fuente": "Global News"
+    "titulo": "Amazon’s annual Black Friday sale is officially live with 12 days of the year’s best deals",
+    "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-19",
+    "fuente": "CNN"
+   }
+  },
+  "black friday": {
+   "termino": "black friday",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJbeG_bvIL0XmKhFn3d29gnjy8lgaWMtheSq5HPxVi3R-_I9ERmNnBi19grZU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Dyson’s Black Friday Deals Start Today. Here Are the Ones Worth Shopping",
+    "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
+    "fuente": "WIRED"
+   }
+  },
+  "fuel": {
+   "termino": "fuel",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYSwLZ90D_fsbC_LQuHoNTW_tOgffJxxCn_zPG7dyGi6lul246xdGzDhcXPCQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Iran braces for natural gas shortages during winter energy imbalance",
+    "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance",
+    "fuente": "Al Jazeera"
+   }
+  },
+  "mark carney": {
+   "termino": "mark carney",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM9Kv09Bi4Ko6MzjMfb07Nz5oKkCCdwUET6ZSpstAFG2Sq3UzLlV_hsV3aTXY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
+    "url": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568",
+    "fuente": "CBC"
+   }
+  },
+  "pompe": {
+   "termino": "pompe",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyJsWWWIrev-g44JgUukkT8Qpdoec2yiQ5lmKadf_h1Ldo6NslY4MCbQbsV8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Gazole : après la baisse des prix, faudra-t-il reconstituer les stocks stratégiques et qui paiera ?",
+    "url": "https://www.ladepeche.fr/2026/11/19/gazole-apres-la-baisse-des-prix-faudra-t-il-reconstituer-les-stocks-strategiques-et-qui-paiera-13659181.php",
+    "fuente": "ladepeche.fr"
+   }
+  },
+  "cyberattack": {
+   "termino": "cyberattack",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHYsYN60l2_XOSR7rvVqqpRtX4FEb_9zesWqXfeK8WwHQd8dQDz1k-9JJfDOI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "EU Commission hit by large-scale cyberattack with data leakage unknown",
+    "url": "https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown",
+    "fuente": "Euronews.com"
    }
   }
  },
@@ -95938,10 +96717,10 @@
   "john madden": {
    "termino": "john madden",
    "primera_vez": "2026-11-19T04:59:41Z",
-   "veces": 7,
+   "veces": 8,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBzjJoEuYJPAuilP953XTg-6gaKp_onO60Vj868NYlIrH7plEL9OawC1DtRX0",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
@@ -96022,10 +96801,10 @@
   "brooks and dunn": {
    "termino": "brooks and dunn",
    "primera_vez": "2026-11-19T05:58:37Z",
-   "veces": 6,
+   "veces": 7,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxyxdX2ufLCqxrWFL2xONc0kwzNSgyscauJclrKhCdWxCE3E8WhfvkQQjn-IY",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Halestorm, Brothers Osborne, Hardy Sing for Brooks & Dunn at Ferocious 2026 CMA Tribute",
@@ -96036,29 +96815,29 @@
   "이진우": {
    "termino": "이진우",
    "primera_vez": "2026-11-19T05:58:37Z",
-   "veces": 6,
+   "veces": 7,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc4v0ZEgqBO66ou5RaykyKI-OTjApYB-FNe0O7RHpKawtRN0PT3_yu6aqXJQ",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYmLEymHDxsn7j4viVJTl7kfMBKAK2uuCVCpJIhH4mOxZvgzs2EXfl5B5atXU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "‘리트 만점자’ 숨진채 발견... 유서엔 “몸과 마음 지쳤다”",
-    "url": "https://www.chosun.com/national/national_general/2026/11/19/4YSNOEOWXVEV7AYNL2LYF6GQYU/",
+    "titulo": "경찰 \"이진우 수사 계속\"… 서울대 \"사망 제적 처리\"",
+    "url": "https://www.chosun.com/national/national_general/2026/11/19/BQTVIJQFVRHXLDWHOTRNRXCJ3U/",
     "fuente": "조선일보"
    }
   },
   "celtics vs nuggets": {
    "termino": "celtics vs nuggets",
    "primera_vez": "2026-11-19T05:58:37Z",
-   "veces": 6,
+   "veces": 7,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMXCxLGjMNj5l-4W38e0_zMVtoP_Us4VOHsiDcFwweMdyEvm2dgqgr-JrWB4s",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrW2wkauCREvym4AZPqQN5z_BnWr6IS9CVZV5pnHga9g45LUoObUyA1hq9W84",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "NBA Highlights: Nuggets 105, Celtics 101",
-    "url": "https://www.sportsnet.ca/nba/video/nba-highlights-nuggets-105-celtics-101/",
-    "fuente": "Sportsnet.ca"
+    "titulo": "Nuggets 105-101 Celtics (Nov 18, 2026) Game Recap",
+    "url": "https://www.espn.com/nba/recap?gameId=401910015",
+    "fuente": "ESPN"
    }
   },
   "gta 5": {
@@ -96078,11 +96857,11 @@
   "mandy gta 6": {
    "termino": "mandy gta 6",
    "primera_vez": "2026-11-19T09:59:39Z",
-   "veces": 3,
-   "max_trafico": 100,
+   "veces": 4,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmhrjpVitso2f8yzrQisyBjM1lXx3559wqgBYqN3dy4lkPJikad96RL1vK7Hg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy",
     "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
@@ -96092,10 +96871,10 @@
   "best buy": {
    "termino": "best buy",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg1zlj-Mr2So3IxKJ8SokYs11C8P9P0lob2Cs3gD3l0983aoTn7q2UD6v5Y-A",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Best Buy’s Black Friday sale begins Nov. 19",
@@ -96106,15 +96885,57 @@
   "playstation 5": {
    "termino": "playstation 5",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfAXS2_ILJV9RZp7IGlarei-Ve9ZMaPhc2a8n9eAKq71OzzOzCAdiByzkXfQ",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
     "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/",
     "fuente": "Reuters"
+   }
+  },
+  "black friday 2026": {
+   "termino": "black friday 2026",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2V7B-_MHCycl0NfC3_je64EwQfwTZf3bKwM6-kcOmPLXKcOQNkq_88CShUnA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Amazon’s annual Black Friday sale is officially live with 12 days of the year’s best deals",
+    "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-19",
+    "fuente": "CNN"
+   }
+  },
+  "lucia gta 6": {
+   "termino": "lucia gta 6",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzcP3L6N950qW5YlAL-gCglqNp_LcG5ilkWWmvntSG9KHeThFxKn5J6tpQWgI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Can you hire prostitutes in GTA 6?",
+    "url": "https://www.shacknews.com/article/151386/prostitutes-gta6",
+    "fuente": "Shacknews"
+   }
+  },
+  "colorado avalanche": {
+   "termino": "colorado avalanche",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-DYJcla9Hh22NadJ3PCMQCgQ2ItrPSPjpgffnwtejoQWkAKADbcZb08yObic",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Winter Classic jerseys get rave reviews from Mammoth players, fans",
+    "url": "https://www.nhl.com/news/winter-classic-jerseys-for-colorado-avalanche-utah-mammoth-reach-new-heights",
+    "fuente": "NHL.com"
    }
   }
  },
@@ -102213,10 +103034,10 @@
   "julio velarde": {
    "termino": "julio velarde",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8MMQtfido2-h7HS88v4UEQ1i9F17ZF2gRFHABbBELaMN5GPIOis9q7Ui6Dbk",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Julio Velarde destaca que la autonomía del BCRP ha permitido mantener una inflación baja en Perú",
@@ -102227,11 +103048,11 @@
   "juez": {
    "termino": "juez",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtKXKgAP5ydRByOrI1YpMrSy2zi4RdddUqo2z43ki1-h0_YePRDrPwAG89l0w",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Destituyen a juez que utilizó su investidura para convocar a dos menores a su despacho sin justificación procesal",
     "url": "https://lpderecho.pe/destituyen-juez-utilizo-investidura-convocar-dos-menores-despacho-justificacion-procesal/",
@@ -102241,10 +103062,10 @@
   "sedapal": {
    "termino": "sedapal",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5auSDSvkYF4bTH2LYLPJDrr9VrS4VKm1yezcZC59f6Jzo2Udfcxi0Pdu3Rt8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Corte de agua en Lima: horarios y distritos afectados este jueves 19 de noviembre",
@@ -102278,6 +103099,48 @@
     "titulo": "His comments raise questions: Bayern Munich chief Jan-Christian Dreesen weighs in on Jamal Musiala debate",
     "url": "https://www.goal.com/en/news/his-comments-raise-questions-bayern-munich-chief-jan-christian-dreesen-weighs-in-on-jamal-musiala-debate/bltec589c2c85f30498",
     "fuente": "Goal.com"
+   }
+  },
+  "sensación térmica": {
+   "termino": "sensación térmica",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9raKMldIot0pH_v95i_aEqoqsLodSM4_qdHSX02dCUpSWEX7lCRUHDazsDs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Senamhi prevé que Lima Este podría superar los 36 grados este verano y alcanzar una sensación térmica de hasta 39 °C",
+    "url": "https://rpp.pe/peru/actualidad/senamhi-preve-que-lima-este-podria-superar-los-36-grados-este-verano-y-alcanzar-una-sensacion-termica-de-hasta-39-0c-noticia-1718483",
+    "fuente": "RPP Noticias"
+   }
+  },
+  "don omar": {
+   "termino": "don omar",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSro8xpW-KjiNT3Dt9eeM6HFeCRqKTMTGN990a5rzr28tdzT20KEDnb_ZKJ2Kg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Precio de entradas para ver a Don Omar en el Estadio Nacional 2027: Descuentos desde 130 soles, dónde comprar y más detalles",
+    "url": "https://www.infobae.com/peru/2026/11/17/don-omar-confirma-concierto-en-el-estadio-nacional-precio-de-entradas-descuentos-donde-comprar-y-mas-detalles/",
+    "fuente": "Infobae"
+   }
+  },
+  "club cienciano": {
+   "termino": "club cienciano",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN0r1-N3IcUhELr40v5DVtfTwgTDN5HOVVOAVzGTlfUvG9w_wptIzqOzz12BA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Cienciano aseguró la continuidad de cuatro jugadores para la temporada 2027",
+    "url": "https://ovacion.pe/noticias/cienciano/cienciano-aseguro-continuidad-cuatro-jugadores-temporada-2027",
+    "fuente": "ovacion.pe"
    }
   }
  },
@@ -103997,10 +104860,10 @@
   "black friday 2026": {
    "termino": "black friday 2026",
    "primera_vez": "2026-11-15T12:43:58Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCOTSViRY2bZlUSExD6E7hsSMv4jDt9bjbY-TEdpsmD130iA0pLYXNO3IJlcs",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Black Friday 2026: ¿Cuándo comienza el evento de ofertas en línea?",
@@ -105219,15 +106082,15 @@
   "dia": {
    "termino": "dia",
    "primera_vez": "2026-11-16T12:02:20Z",
-   "veces": 8,
+   "veces": 9,
    "max_trafico": 5000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSoX2ZZPlh1o3KD5I7LcEVbKaMqrYCq4pXkdd5zpyW_eVyox707tXalOXkkwg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHluLQ4U3IPCFn_ww7rIK2OMqATz_uw1rXHIxZoOfTu0T-kA9isPg91GD_wwM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "5000+",
    "noticia": {
-    "titulo": "A mensagem secreta gravada pela Nasa para os alienígenas",
-    "url": "https://www.bbc.com/portuguese/watch/cjg4650491d1o",
-    "fuente": "BBC"
+    "titulo": "Hospitais estaduais mantêm atendimento de urgência e emergência no feriado da Consciência Negra",
+    "url": "https://agencia.go.gov.br/hospitais-estaduais-mantem-atendimento-de-urgencia-e-emergencia-no-feriado-da-consciencia-negra/",
+    "fuente": "Agência Goiás de Notícias"
    }
   },
   "estrecho": {
@@ -106296,10 +107159,10 @@
   "clima": {
    "termino": "clima",
    "primera_vez": "2026-11-17T09:58:05Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 100000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEtIFjatzWzkvkaUqXaK6L9xQrWZUny1Kg8mbnKNZixPjYx8SUfqQyJHoL-nA",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100000+",
    "noticia": {
     "titulo": "El Tiempo: Lunes 16 con cielos poco nubosos en Gandia y la Safor ONC",
@@ -106338,15 +107201,15 @@
   "weather": {
    "termino": "weather",
    "primera_vez": "2026-11-17T10:57:43Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2nUbMUhB3CJtSV8MMVNOZnX8OIgxNDAmyN0OySO78dqv6rkM4KhvhkBPUnM",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-Apxu8Kzm3X_FT7O_ouJ2knrISV8V3vbItdPrNlMg33obWpCaB1-h91Aw0LU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Suspect in deadly Las Vegas truck theft appears in federal court",
-    "url": "https://news3lv.com/news/local/suspect-in-deadly-las-vegas-truck-theft-appears-in-federal-court",
-    "fuente": "KSNV"
+    "titulo": "Windy and even warmer today, but big changes are coming soon",
+    "url": "https://www.wbay.com/2026/11/19/windy-even-warmer-today-big-changes-are-coming-soon/",
+    "fuente": "WBAY"
    }
   },
   "madre": {
@@ -108591,11 +109454,11 @@
   "gustavo gotti": {
    "termino": "gustavo gotti",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 500,
+   "veces": 3,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uLlFdwxLLDS6j2pdjpHWnP3uUSBWijUSf52sjT7ttB63mpPedB6vi9jutAs",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Cobreloa y San Luis definirán el título tras el cierre de la Fecha 30",
     "url": "https://www.campeonatochileno.cl/noticias/cobreloa-y-san-luis-definiran-el-titulo-tras-el-cierre-de-la-fecha-30/",
@@ -108605,25 +109468,25 @@
   "19 de noviembre": {
    "termino": "19 de noviembre",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNL-YaebX4m5a6HtDfX0nLmjRsCylCeip1jAfa5ix0Syzh-ZTowtT6ivTKFDM",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRIhfOxx5webYIQViUUKPXsMd6LE2UK290S3fYnAzkeLgxXCtk78SgzUuGye4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Los 3 signos que pueden recibir un impulso económico este jueves 19 de noviembre",
-    "url": "https://www.lecturas.com/horoscopo/tres-signos-que-pueden-recibir-impulso-economico-este-19-noviembre_201559",
-    "fuente": "Lecturas"
+    "titulo": "HORÓSCOPO DEL JUEVES 19 DE NOVIEMBRE",
+    "url": "https://www.elrancaguino.cl/2026/11/19/horoscopo-del-jueves-19-de-noviembre/",
+    "fuente": "El Rancagüino"
    }
   },
   "don omar": {
    "termino": "don omar",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 5000,
+   "veces": 3,
+   "max_trafico": 20000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXqJO1MnkyyzxJdc23emmOqWiS-YZ6Q1Z-bRPQZ6wArXwdeWqq7qZWbJJvfq4",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "5000+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "20000+",
    "noticia": {
     "titulo": "Don Omar en Chile: revisa la fecha y cuándo comienza la venta de entradas",
     "url": "https://www.latercera.com/servicios/noticia/don-omar-en-chile-revisa-la-fecha-y-cuando-comienza-la-venta-de-entradas/",
@@ -108675,11 +109538,11 @@
   "que dia se celebra hoy": {
    "termino": "que dia se celebra hoy",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8zQTKzG0xZF3zmblkbIIyqlRLO9ksUSpoc56H1GshLI_hdceJQ0iKBWDfmA",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "¿Qué santo celebramos hoy, 17 de noviembre?",
     "url": "https://www.eldebate.com/religion/santoral/20261117/santo-celebramos-hoy-17-noviembre_479674.html",
@@ -108698,6 +109561,20 @@
     "titulo": "¿Sabías que hoy es el Día del Hombre? Por qué se celebra este 19 de noviembre y cuál es su origen",
     "url": "https://www.elmorrocotudo.cl/noticia/sociedad/sabias-que-hoy-es-el-dia-del-hombre-por-que-se-celebra-este-19-de-noviembre-y-cual-",
     "fuente": "El MorroCotudo"
+   }
+  },
+  "ticketmaster": {
+   "termino": "ticketmaster",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGRnIiZD1mUzwoyD_XT777WZUwZAsJl4WZk99EjT-9ikO31kDgBlcOCPDW5LY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Stevie Wonder's two sold-out Fox Theatre concerts in Detroit canceled, Ticketmaster says",
+    "url": "https://www.cbsnews.com/detroit/news/stevie-wonder-detroit-fox-theatre-concerts-canceled-refunds/",
+    "fuente": "CBS News"
    }
   }
  },
@@ -111168,11 +112045,11 @@
   "apagón eléctrico": {
    "termino": "apagón eléctrico",
    "primera_vez": "2026-11-15T16:37:24Z",
-   "veces": 3,
-   "max_trafico": 200,
+   "veces": 4,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJHRQRFiTnLKc5B9N7ixXDYHrSQR4u9662fTZ3HCsT_pUT8Zawa2hL-bjthk",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Desinformación sobre simulacro de FEMA pone de relieve desconfianza en comunidades hispanas de EEUU",
     "url": "https://www.clarin.com/estados-unidos/desinformacion-sobre-simulacro-de-fema-pone-de-relieve-desconfianza-en-comunidades-hispanas-de-eeuu_0_5gtwnjwGC7.html",
@@ -116392,43 +117269,71 @@
   "anthropic": {
    "termino": "anthropic",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Nsm9ouRphD6Gn27ItoOkpCUCtNW1snCNaieVUUubwkSVWcWZI1ZDR48zl9o",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Anthropic raises $81bn in record-breaking stock market debut",
-    "url": "https://www.bbc.com/news/articles/c6742m39xgzxo",
-    "fuente": "BBC"
+    "titulo": "Anthropic IPO live: Company prices stock at $83, set to begin trading Thursday",
+    "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+    "fuente": "Yahoo Finance"
    }
   },
   "dia de la soberania nacional": {
    "termino": "dia de la soberania nacional",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnPLmj896lm4uWX0jc3iXZtnKDzrHR1lrFi2qJpQGMPdEihi-STKetBJazNQw",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjRWcohxHOwvypkTB3d5MTRsuBdtok7Fmv_hyW3vaLYbAKabqKNcuKurHSPL0",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Por qué es feriado el lunes 23 de noviembre en Argentina y qué pasa con el viernes 20",
-    "url": "https://www.clarin.com/informacion-general/feriado-lunes-23-noviembre-argentina-pasa-viernes-20_0_a5HXX4f0ux.html",
-    "fuente": "Clarin.com"
+    "titulo": "Feriado del lunes 23 de noviembre: por qué se traslada y cuántos días de descanso quedan en 2026",
+    "url": "https://www.eldia.com/informacion-general/feriado-del-lunes-23-de-noviembre-por-que-se-traslada-y-cuantos-dias-de-descanso-quedan-en-2026-informacion-general_1795090165",
+    "fuente": "Diario El Día de La Plata"
    }
   },
   "mundial sub 17": {
    "termino": "mundial sub 17",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXt9HB1y8I9wQOTET9pZzGwGvlaupqUfv-pUI-o0M4FJDElw_v7u3h-Jm0Xhw",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9JW1j3KSNzearZ-MBBICacCV8P3nPLTkEAVKPTl65c7aqIJgagOfYdwQJGks",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Comienza el Mundial Sub 17: las figuras a seguir de cerca, el dueño de la N° 10 de Argentina y todo lo que hay que saber",
-    "url": "https://www.infobae.com/deportes/2026/11/19/comienza-el-mundial-sub-17-las-figuras-a-seguir-de-cerca-el-dueno-de-la-n-10-de-argentina-y-todo-lo-que-hay-que-saber/",
+    "titulo": "La Selección debuta contra Australia en el Mundial Sub 17: el registro sin precedentes que es un reflejo de la actualidad del fútbol argentino",
+    "url": "https://www.clarin.com/deportes/seleccion-debuta-australia-mundial-sub-17-registro-precedentes-reflejo-actualidad-futbol-argentino_0_x3M5qvjNq3.html",
+    "fuente": "Clarin.com"
+   }
+  },
+  "mario pergolini": {
+   "termino": "mario pergolini",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQs61aaVwqJjgwsTmYZx2UZxUFUt6-zaTEjsMQ55avJdnCf744yaoEU46lRiQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Mario Pergolini fue drástico con Graciela Alfano y sus sensuales fotos en un jacuzzi por una terapia alternativa: “No existe”",
+    "url": "https://www.infobae.com/teleshow/2026/11/19/mario-pergolini-fue-drastico-con-graciela-alfano-y-sus-sensuales-fotos-en-un-jacuzzi-por-una-terapia-alternativa-no-existe/",
     "fuente": "Infobae"
+   }
+  },
+  "crédito": {
+   "termino": "crédito",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXF153b6jkgNmeBgd5381f45Sruf4o3HPlXsfYZ-dKhBCaqoR_pfEY3TA0TCc",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Sacar un crédito personal en la Argentina es más caro que en otros 29 países",
+    "url": "https://www.clarin.com/economia/sacar-credito-personal-argentina-caro-29-paises_0_vcOzCrZ2aQ.html",
+    "fuente": "Clarin.com"
    }
   }
  },
@@ -126461,11 +127366,11 @@
   "skyshowtime": {
    "termino": "skyshowtime",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 1000,
+   "veces": 3,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXVF1xSDgLFjkw53ezCBDeOuhq2Oa-vKYZ9rkTP-nI0K3EYSyEiNtYZHptZI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "1000+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España",
     "url": "https://elpais.com/television/2026-11-19/cierra-skyshowtime-la-plataforma-de-streaming-de-dexter-star-trek-yellowstone-y-los-estrenos-de-paramount-y-universal-en-espana.html",
@@ -126559,11 +127464,11 @@
   "jorge lorenzo": {
    "termino": "jorge lorenzo",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMHG1C6QewQzouNZRJEQGfVHDRF49hLONZIeZ6gxXhftlUKH1SKdSUvdX1EyM",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "Lorenzo: \"Marc Márquez es el mejor piloto de todos los tiempos\"",
     "url": "https://www.motogp.com/es/videos/2026/11/18/lorenzo-marc-marquez-ist-der-grote-aller-zeiten/1185769",
@@ -126578,6 +127483,90 @@
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7zBPo9shahhdd1Fxnc-JZmedldNrbEleGlOKG9tEziPoGNE8KT7TFC1pK_ec",
    "ultima_vez": "2026-11-19T11:54:48Z",
    "trafico": "200+",
+   "noticia": {
+    "titulo": "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles",
+    "url": "https://www.xataka.com/seleccion/chollazo-nintendo-switch-2-antes-black-friday-2026-aqui-oferta-que-se-agotara-rapido-varios-descuentos-disponibles",
+    "fuente": "Xataka"
+   }
+  },
+  "alicante": {
+   "termino": "alicante",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRHVzwEFb3HcEewQT-cFT5ZysgPqIr8QBscMsHR-9RSWuWrID6tw1ZB8TKbE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Así es el alumbrado navideño de Alicante que se enciende este viernes con 130 calles iluminadas",
+    "url": "https://alicanteplaza.es/alicanteplaza/alicante/asi-es-el-alumbrado-navideno-de-alicante-que-se-enciende-este-viernes-con-130-calles-iluminadas",
+    "fuente": "Alicante Plaza"
+   }
+  },
+  "noticia": {
+   "termino": "noticia",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr2kh4K_kqPc8JMXPzvjN5rp71caZAEhWsdtnGy6XyBuNBCOJ5VLdh-OdLaY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "La muralla de Zamora gana terreno con una nueva demolición",
+    "url": "https://www.laopiniondezamora.es/zamora/2026/11/19/muralla-zamora-gana-terreno-nueva-136613254.html",
+    "fuente": "La Opinión de Zamora"
+   }
+  },
+  "frente frío": {
+   "termino": "frente frío",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKYq1m4TxM82Hp-R8kwUqRWPHG5ARf-VdBi2i11eiXBNqb42zPD0FOpwJc4So",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Clima Hoy en México: Continúan las Bajas Temperaturas por nuevo Frente Frío",
+    "url": "https://www.nmas.com.mx/clima/pronostico-del-tiempo/clima-hoy-en-mexico-continuan-las-bajas-temperaturas-por-nuevo-frente-frio/",
+    "fuente": "N+"
+   }
+  },
+  "máximo huerta": {
+   "termino": "máximo huerta",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe0yTiU1K5x3YWHFsa5u7ANNn397uQ8w1-aCabVPW4JWIv_nvLT4S39ppE7QI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Máximo Huerta: «Pedro Sánchez ni siente ni padece. Tiene a sus beatas, que le defienden como a un Dios único, y ha conseguido que hablemos de lo que él quiere»",
+    "url": "https://www.abc.es/play/television/noticias/maximo-huerta-pedro-sanchez-siente-padece-beatas-20261119122208-nt.html",
+    "fuente": "ABC"
+   }
+  },
+  "david sims": {
+   "termino": "david sims",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNh69QgSYlOILHo_hbBLZRwHcQeAi8UmFN1OV13YmyKj-D6JdxBAjhb6YzH4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "La élite de la moda arropa a Marta Ortega en A Coruña en la apertura de la exposición sobre David Sims",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/18/elite-moda-arropa-marta-ortega-coruna-apertura-exposicion-sobre-david-sims/00031795012673998813604.htm",
+    "fuente": "La Voz de Galicia"
+   }
+  },
+  "nintendo switch 2 black friday": {
+   "termino": "nintendo switch 2 black friday",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7zBPo9shahhdd1Fxnc-JZmedldNrbEleGlOKG9tEziPoGNE8KT7TFC1pK_ec",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles",
     "url": "https://www.xataka.com/seleccion/chollazo-nintendo-switch-2-antes-black-friday-2026-aqui-oferta-que-se-agotara-rapido-varios-descuentos-disponibles",
@@ -132131,10 +133120,10 @@
   "entradas maluma": {
    "termino": "entradas maluma",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 2000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHmMccxincSOaF02LS2SCvmupdZsuF_4eKrXacx-LtrDfVLx_ogv8E6jG-j0E",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "2000+",
    "noticia": {
     "titulo": "Maluma regresa al Movistar Arena de Madrid con Loco x Volver World Tour 2027",
@@ -132145,24 +133134,24 @@
   "javier calvo": {
    "termino": "javier calvo",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqnM0Ik8VqE9qEs4yrQd7knBWU3ARySlnjOWKvJ9UI8RgjoCMkHPkWcR2exvs",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU0v1GAxtinFbngwRromG6XjUt2WL6Cto_BzCHhDRTVFy--88Y3U2NLbJ_G-E",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Javier Calvo, sobre ‘La bola negra’: Por muy cansado que esté ahora, tengo que parar y pensar en todas las vidas que he tenido. Yo no me he dejado nada sin hacer. Siento que soy una persona que nunca se ha cortado”",
-    "url": "https://www.instyle.es/celebrities/javier-calvo-sobre-bola-negra-por-muy-cansado-que-este-ahora-tengo-que-parar-y-pensar-todas-vidas_74082",
-    "fuente": "InStyle"
+    "titulo": "Javier Calvo, sobre su serie de culto «Paquita Salas»: «Tampoco es para tanto»",
+    "url": "https://www.lavozdegalicia.es/noticia/television/2026/11/18/javier-calvo-sobre-serie-culto-paquita-salas-tampoco-/00031795021729910852407.htm",
+    "fuente": "La Voz de Galicia"
    }
   },
   "pensión de viudedad": {
    "termino": "pensión de viudedad",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 10000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6kdkR1pAcgascLY3YPtxT9OfKGFL7BXJqOOF_ud9u4qhkgkAeV1jx-_aihng",
-   "ultima_vez": "2026-11-19T10:57:23Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "10000+",
    "noticia": {
     "titulo": "La pensión de viudedad llega a más beneficiarios: estos son los nuevos requisitos",
@@ -132173,11 +133162,11 @@
   "mercado de invierno": {
    "termino": "mercado de invierno",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdy-NZBEc8_mkfC0dmVKtlMrrvNn4wYJ6XchuZNy8wu7bweIB8Zsc1h2jgkYI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Sato saldrá cedido en el mercado de invierno y Dovbyk es la opción que más gusta para la delantera del Valencia",
     "url": "https://www.lasprovincias.es/valenciacf/sato-saldra-cedido-mercado-invierno-dovbyk-opcion-20261118154449-nt.html",
@@ -132187,11 +133176,11 @@
   "skyshowtime": {
    "termino": "skyshowtime",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXVF1xSDgLFjkw53ezCBDeOuhq2Oa-vKYZ9rkTP-nI0K3EYSyEiNtYZHptZI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España",
     "url": "https://elpais.com/television/2026-11-19/cierra-skyshowtime-la-plataforma-de-streaming-de-dexter-star-trek-yellowstone-y-los-estrenos-de-paramount-y-universal-en-espana.html",
@@ -132201,15 +133190,71 @@
   "josé luis ábalos": {
    "termino": "josé luis ábalos",
    "primera_vez": "2026-11-19T11:54:48Z",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK2GO2aYorXY-jXTwB-CeMGBl6AUYFFGENx__r5zwKAdCZZsMJ_DOJ9NduUM8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ábalos tirará, por fin, de la manta (pero no de la que ustedes creen)",
+    "url": "https://www.vozpopuli.com/opinion/abalos-tirara-por-fin-de-la-manta-pero-no-de-la-que-ustedes-creen.html",
+    "fuente": "Vozpopuli"
+   }
+  },
+  "empresario": {
+   "termino": "empresario",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCfxsrk5pa8dbV4Xg03AYyQfpp199AuDWX6L22hIW90zPV1Um55Z9RPlhIpHs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "José Elías, empresario: “Me parece bien la jornada laboral de 4 días, pero un trabajador debería cobrar por pr",
+    "url": "https://as.com/actualidad/sociedad/jose-elias-empresario-me-parece-bien-la-jornada-laboral-de-4-dias-pero-un-trabajador-deberia-cobrar-por-produccion-no-por-horas-f202611-n/",
+    "fuente": "Diario AS"
+   }
+  },
+  "máximo huerta": {
+   "termino": "máximo huerta",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe0yTiU1K5x3YWHFsa5u7ANNn397uQ8w1-aCabVPW4JWIv_nvLT4S39ppE7QI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Máximo Huerta: «Pedro Sánchez ni siente ni padece. Tiene a sus beatas, que le defienden como a un Dios único, y ha conseguido que hablemos de lo que él quiere»",
+    "url": "https://www.abc.es/play/television/noticias/maximo-huerta-pedro-sanchez-siente-padece-beatas-20261119122208-nt.html",
+    "fuente": "ABC"
+   }
+  },
+  "jorge lorenzo": {
+   "termino": "jorge lorenzo",
+   "primera_vez": "2026-11-19T13:06:46Z",
    "veces": 1,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdZzHU1IfYHFrbGEStmQoArMy6_mguKGg4u6FOe9aS5aI6SbTDIrVTBb4OlvE",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMHG1C6QewQzouNZRJEQGfVHDRF49hLONZIeZ6gxXhftlUKH1SKdSUvdX1EyM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "El exchófer de Sánchez invitó a Ábalos a una finca privada en Andújar para cazar tras su cese: «Allí no nos ve ni Dios»",
-    "url": "https://www.abc.es/espana/andalucia/cordoba/exchofer-sanchez-ofrecio-abalos-finca-privada-andujar-20261117022753-nts.html",
-    "fuente": "ABC"
+    "titulo": "Lorenzo: \"Marc Márquez es el mejor piloto de todos los tiempos\"",
+    "url": "https://www.motogp.com/es/videos/2026/11/18/lorenzo-marc-marquez-ist-der-grote-aller-zeiten/1185769",
+    "fuente": "www.motogp.com"
+   }
+  },
+  "luis tosar": {
+   "termino": "luis tosar",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAlpwGqjjdjiaU3VDCnIoMwc_TDhJAdc8G4dSPB32Jwq_EadjGAH1yJ2U191s",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Luis Tosar, actor, 54 años: “Me produce mucha tristeza que ahora haya niños por ahí hablando de Franco, reivindicando su figura”",
+    "url": "https://www.genbeta.com/espana/luis-tosar-actor-54-anos-me-produce-mucha-tristeza-que-ahora-haya-ninos-ahi-hablando-franco-reivindicando-su-figura",
+    "fuente": "Genbeta"
    }
   }
  },
@@ -137381,24 +138426,24 @@
   "sector públic": {
    "termino": "sector públic",
    "primera_vez": "2026-11-19T07:08:34Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0IwYz4X9vOQaLgkclSp-BrZyNqjBF3cFTeqrGHzj6OkhgVjSHRJKDrmJZk6k",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBSrZWO7M_Zy61OVA0vloAUOQtyNJInXSOgVPZRotyi6ApM-t5EMDClm4Ozs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "NJ lawmakers launch bid to restore cost-of-living adjustments for public retirees",
-    "url": "https://www.njspotlightnews.org/2026/11/nj-lawmakers-launch-bid-to-restore-cost-of-living-adjustments-for-public-retirees/",
-    "fuente": "NJ Spotlight News"
+    "titulo": "Giving public sector ICT teams the space to deliver digital change",
+    "url": "https://www.techradar.com/pro/giving-public-sector-ict-teams-the-space-to-deliver-digital-change",
+    "fuente": "TechRadar"
    }
   },
   "emilio aragón": {
    "termino": "emilio aragón",
    "primera_vez": "2026-11-19T07:08:34Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQekA1tUBA1HvchaA3VMwvKpWYZ3aIDaps4dMjesap-fnlJZfc3Yfeb5ISGPKc",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Emilio Aragón dirige a la OEx en el estreno absoluto de 'Luz, Cámara… ¡Orquesta!'",
@@ -137409,10 +138454,10 @@
   "anthropic bolsa": {
    "termino": "anthropic bolsa",
    "primera_vez": "2026-11-19T07:08:34Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSiiCfE51EnvsuagfVgo0pVpBGR3VIEEMlEQx0Capchf3BXP962iB9iPMyySo",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "OPV de Anthropic: los analistas se preguntan si los inversores ya se han perdido lo mejor de la fiesta",
@@ -137423,10 +138468,10 @@
   "el rubius": {
    "termino": "el rubius",
    "primera_vez": "2026-11-19T07:08:34Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rDjizTFARXlmEndh_JHcYKqZJtzRtb9GwKg-8AJohTiYFTwfXjGWZdCvNIg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "La sorpresa de El Rubius tras probar GTA VI antes de su estreno oficial: \"No sé qué magia negra han hecho. Los 30 fps no se notan\"",
@@ -137493,43 +138538,43 @@
   "pp": {
    "termino": "pp",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhsuPVPfI-tjmHswfVgfClI8yNQ8iZRXngkmBXuR_hxQHx_jBBVEEonOEgs20",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlYgZ7_iAbpzBw6Ae-MWf8GhNj11T3KRZnHTE2-1oTiMMuXObZul7oi9PbRPQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Feijóo y Sánchez, a cara de perro",
-    "url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
-    "fuente": "La Vanguardia"
+    "titulo": "Puigdemont: \"Aproveché la ambición desmedida de Sánchez para derrotar a España\"",
+    "url": "https://www.elmundo.es/espana/2026/11/18/6afde4a4fc6c8315138b45b0.html",
+    "fuente": "El Mundo"
    }
   },
   "unión europea": {
    "termino": "unión europea",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpy7iS0ITLZr1pChe5njgq2R1Y4w6iNlruSdU1tfVKKuwlX79ykI1xnz8CvY",
-   "ultima_vez": "2026-11-19T10:57:23Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStmVhXKYYbnsf-_ZOk6DC9s2dz_xkdOjU48Xq8AcLhFntBM-UpKKbO8HBMjs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
-    "url": "https://www.elconfidencial.com/mundo/europa/2026-11-17/kit-emergencia-72-horas-apagon-recomienda-union-europea-casa-1qrt_4466532/",
-    "fuente": "El Confidencial"
+    "titulo": "Bruselas expedienta a España por incumplir las normas contra la malversación de fondos europeos",
+    "url": "https://www.20minutos.es/internacional/bruselas-expedienta-espana-por-incumplir-las-normas-contra-malversacion-fondos-europeos_7063147_0.html",
+    "fuente": "20 Minutos"
    }
   },
   "desalojo": {
    "termino": "desalojo",
    "primera_vez": "2026-11-19T08:57:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8UlgYGyPcIj6GUNO8MtwNcUtk88GAZUeEqXPgSYjKuDp1geegY1vnWwSaaeU",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacv2R-OZi1uidF9GJ2-n0gq9E5uRw2tJviq0A8rYuC0iaWRuuA7XY5pQpb8o",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "La justicia tumba el desalojo inmediato de dos 'okupas' de una gasolinera de Repsol cerrada desde hace seis años",
-    "url": "https://www.elmundo.es/economia/empresas/2026/11/19/6afc8b0efc6c83920e8b45b1.html",
-    "fuente": "El Mundo"
+    "titulo": "El rastro digital puede conducir al autor de las amenazas a los colegios: «Lo más seguro es que les pillen»",
+    "url": "https://www.lavozdegalicia.es/noticia/coruna/2026/11/19/falsas-amenazas-bomba-colegios-pueden-acarrear-ano-carcel/00031795083055796357941.htm",
+    "fuente": "La Voz de Galicia"
    }
   },
   "puigdemont": {
@@ -137549,11 +138594,11 @@
   "skyshowtime": {
    "termino": "skyshowtime",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXVF1xSDgLFjkw53ezCBDeOuhq2Oa-vKYZ9rkTP-nI0K3EYSyEiNtYZHptZI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España",
     "url": "https://elpais.com/television/2026-11-19/cierra-skyshowtime-la-plataforma-de-streaming-de-dexter-star-trek-yellowstone-y-los-estrenos-de-paramount-y-universal-en-espana.html",
@@ -137563,15 +138608,29 @@
   "javier calvo": {
    "termino": "javier calvo",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqnM0Ik8VqE9qEs4yrQd7knBWU3ARySlnjOWKvJ9UI8RgjoCMkHPkWcR2exvs",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU0v1GAxtinFbngwRromG6XjUt2WL6Cto_BzCHhDRTVFy--88Y3U2NLbJ_G-E",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Javier Calvo, sobre ‘La bola negra’: Por muy cansado que esté ahora, tengo que parar y pensar en todas las vidas que he tenido. Yo no me he dejado nada sin hacer. Siento que soy una persona que nunca se ha cortado”",
-    "url": "https://www.instyle.es/celebrities/javier-calvo-sobre-bola-negra-por-muy-cansado-que-este-ahora-tengo-que-parar-y-pensar-todas-vidas_74082",
-    "fuente": "InStyle"
+    "titulo": "Javier Calvo, sobre su serie de culto «Paquita Salas»: «Tampoco es para tanto»",
+    "url": "https://www.lavozdegalicia.es/noticia/television/2026/11/18/javier-calvo-sobre-serie-culto-paquita-salas-tampoco-/00031795021729910852407.htm",
+    "fuente": "La Voz de Galicia"
+   }
+  },
+  "jorge lorenzo": {
+   "termino": "jorge lorenzo",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMHG1C6QewQzouNZRJEQGfVHDRF49hLONZIeZ6gxXhftlUKH1SKdSUvdX1EyM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Lorenzo: \"Marc Márquez es el mejor piloto de todos los tiempos\"",
+    "url": "https://www.motogp.com/es/videos/2026/11/18/lorenzo-marc-marquez-ist-der-grote-aller-zeiten/1185769",
+    "fuente": "www.motogp.com"
    }
   }
  },
@@ -138288,10 +139347,10 @@
   "daniela melchior": {
    "termino": "daniela melchior",
    "primera_vez": "2026-11-14T14:38:50Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM2jTtjQHDZvuEhlnBEL33PyjT5QPJ3BKifWgUa5HbvWmF2vFEDq4URWxXSDw",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "De Viana do Castelo para o mundo, a história do filme de animação português que custou 10 milhões de euros",
@@ -143792,11 +144851,11 @@
   "nuno homem de sá": {
    "termino": "nuno homem de sá",
    "primera_vez": "2026-11-19T09:59:39Z",
-   "veces": 3,
-   "max_trafico": 200,
+   "veces": 4,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjKr6mj5moTXQ5-2BuXT_-4iBInI7EeRzHOUjFsSmt-0bIZf7QCSNaqPZqdg",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Frederica Lima reage após tribunal retirar pulseira eletrónica de Nuno Homem de Sá",
     "url": "https://www.cmjornal.pt/vidas/detalhe/frederica-lima-reage-apos-tribunal-retirar-pulseira-eletronica-de-nuno-homem-de-sa",
@@ -143848,10 +144907,10 @@
   "bertrand": {
    "termino": "bertrand",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjUFGm1JG0-etC1NIYRnl2_QDHlVDakqaYUX5544lCz_V4kAbDELRWEoDroF8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Ancien patron de Canal+, le Breton Bertrand Méheut est décédé",
@@ -143862,11 +144921,11 @@
   "kelly bailey": {
    "termino": "kelly bailey",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
-   "max_trafico": 100,
+   "veces": 3,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9-I4tMeOGbKwT1zD5TsNm-GMKK7KdLlx97ZzIHa6QCFJcwk9HlQl4lY56q84",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Kelly Bailey revela surpresa de Lourenço Ortigão",
     "url": "https://www.cmjornal.pt/vidas/detalhe/kelly-bailey-revela-surpresa-de-lourenco-ortigao",
@@ -143876,10 +144935,10 @@
   "ladrão": {
    "termino": "ladrão",
    "primera_vez": "2026-11-19T10:57:23Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiXcMQGKVlndclvv0e4MELotBZMgPph1yOMLCHTD5ap-9hF-b_tzTYZhU4sLM",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "VÍDEO: Ladrão faz buraco no teto, invade loja e furta mais de 3 kg de creme de avelã e chocolates em Taubaté",
@@ -143890,10 +144949,10 @@
   "lactogal": {
    "termino": "lactogal",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW3vWAmPJx6b6BKWZWi1uRMQWaSWpjzOm94j8YTnOJRaWSw-fjltRhS0rP5Tc",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Lactogal e Pascual preparam fusão para criar gigante ibérico nos lacticínios",
@@ -143904,15 +144963,43 @@
   "boeing 747": {
    "termino": "boeing 747",
    "primera_vez": "2026-11-19T11:54:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8gzx55_Ye_H3Fjb-DUp90WNVtz0nUBXzgXakyAoLuQY9vvvPTOoSw6Qz3IHI",
-   "ultima_vez": "2026-11-19T11:54:48Z",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Denza Bao 5 tows a Boeing 747 on two wheels, all-electric",
     "url": "https://www.autonext.co/news/denza-bao-5-tows-jumbo-jet-two-wheels",
     "fuente": "AutoNext.co"
+   }
+  },
+  "esporotricose": {
+   "termino": "esporotricose",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxW5JspDpg3hEMvbDPENPFukPyzuMznS7m0wBYevkZ-MCXc3SmBU5p7eTCCvg",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "O que é esporotricose? Cidade do RS registra 25 casos em humanos após surto em gatos",
+    "url": "https://saude.abril.com.br/vida-animal/o-que-e-esporotricose-cidade-do-rs-registra-25-casos-em-humanos-apos-surto-em-gatos/",
+    "fuente": "Assine Abril"
+   }
+  },
+  "skyshowtime": {
+   "termino": "skyshowtime",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkMW60UcwxZF8E5NCaeEiexA8nKRvLwzwaxe0BxgsAYav9ci4S_xLmFNHqy_w",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "SkyShowtime to Shut Down, CEO Exiting",
+    "url": "https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993/",
+    "fuente": "The Hollywood Reporter"
    }
   }
  },
@@ -144326,15 +145413,15 @@
   "you can see everything": {
    "termino": "you can see everything",
    "primera_vez": "2026-11-14T07:56:40Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToQYS3NCTNgXQbFYzXxrz3wWAyY8t4QLIyJkvkce-epdjxrZhD0-bHALg01K8",
-   "ultima_vez": "2026-11-17T02:08:51Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnYAGrvP5buP5q3fDqmTJC65-0905G_GfCZw-9CpmmIfztm6rdB9n7Nt7CylQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Elizabeth Holmes’s partner says he hasn’t spoken to Nathan Fielder since seeing film",
-    "url": "https://www.washingtonpost.com/entertainment/movies/2026/11/15/billy-evans-discusses-nathan-fielder-nude-scene-you-can-see-everything/",
-    "fuente": "The Washington Post"
+    "titulo": "You Can See Everything review – unblinking, unhinged and unmissable",
+    "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+    "fuente": "The Guardian"
    }
   },
   "robert carlyle": {
@@ -153653,15 +154740,15 @@
   "sue barker": {
    "termino": "sue barker",
    "primera_vez": "2026-11-18T17:53:52Z",
-   "veces": 2,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScGIMRDc_8MQp53xNMO2jX-6YQzJDdT2r3Qv78QJhM6PShdnAdN8xbHadChu8",
-   "ultima_vez": "2026-11-19T11:54:48Z",
-   "trafico": "1000+",
+   "veces": 3,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfEGMR46FqYeAS4BlvX-sa8KXDjdX60G6IQhc6HDg9QYYx6iGjYWB_j8ZWjWM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "Question of sport comes to Brighton",
-    "url": "https://brightonjournal.co.uk/beloved-sporting-quiz-trio-come-to-brighton/",
-    "fuente": "Brighton Journal"
+    "titulo": "The Question of Sport trio on their final tour",
+    "url": "https://www.itv.com/thismorning/articles/the-question-of-sport-trio-on-their-final-tour",
+    "fuente": "ITVX"
    }
   },
   "macau": {
@@ -155192,6 +156279,76 @@
     "titulo": "The Biz: Q3 Earnings Takeaways; LN Bites Back In BOTS Act Suit; HYBE’s New Front",
     "url": "https://news.pollstar.com/2026/11/17/the-biz-q3-earnings-takeaways-ln-bites-back-in-bots-act-suit-hybes-new-front/",
     "fuente": "Pollstar News"
+   }
+  },
+  "ageing": {
+   "termino": "ageing",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxMfxE7ijhEuSvpER5F6jJIMLTQfQO0M8LspJIy-pytzDl1LKgIvLuWSX0K8E",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "How to combat brain ageing with 5 exercises every day",
+    "url": "https://www.gq-magazine.co.uk/article/how-to-combat-brain-ageing-with-5-exercises-every-day",
+    "fuente": "British GQ"
+   }
+  },
+  "us winter 2026 2027 snow outlook": {
+   "termino": "us winter 2026 2027 snow outlook",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXedqSYfivMVQKSxPhgTwk9V8o8hDYEjg0CWf3ETiBeQXthYTOv8Ho-m-iVHM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "New Snowfall Forecast for Winter 2026/2027: More Snow and a First Look at Christmas",
+    "url": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-snowfall-forecast-november-update-christmas-week-snow-united-states-canada-europe-fa/",
+    "fuente": "Severe Weather Europe"
+   }
+  },
+  "asda merger": {
+   "termino": "asda merger",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkzLuUf5BulTFT5oUN2yrRAXpOXgFIfpXlt-US-w08bWY7cqDbwv_j8qqwYI",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Asda explores deals as UK supermarkets brace for merger wave",
+    "url": "https://www.ft.com/content/7aea68e4-0164-4324-b66f-43ab1a24337d?syn-25a6b1a6=1",
+    "fuente": "Financial Times"
+   }
+  },
+  "tennis": {
+   "termino": "tennis",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTm5GhBZB9mpEs9FlRTGqv4kUNyonVEP-7FYOXahLECQWQLRWUhd_etKZiIjo",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Alexander Zverev to defend himself against fresh lawsuit from ex-partner Brenda Patea",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/c60rkq9kweego",
+    "fuente": "BBC"
+   }
+  },
+  "tom read wilson": {
+   "termino": "tom read wilson",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3YkxhZBl7N05Ygyd3sy5NGahMeT8Uqr8_Icor0Lasyk1n3KAqoDKCxQZw4Go",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘Local boy’ Tom Read Wilson joins Creative Communities charity as honorary patron",
+    "url": "https://www.newburytoday.co.uk/lifestyle/local-boy-tom-read-wilson-joins-creative-communities-chari-9491590/",
+    "fuente": "Newbury Today"
    }
   }
  },
@@ -160331,15 +161488,15 @@
   "saint-malo": {
    "termino": "saint-malo",
    "primera_vez": "2026-11-16T04:05:48Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI3fISGYEq7aGUDby4egyB4yeK3LUIosz1ryiTbdgqj-EaXkz05hSQIyV9sIA",
-   "ultima_vez": "2026-11-16T04:05:48Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBSAXcfRmlIfIHcflRarRnehO-vvcRW4iQgjemJxLwL7COK7CKfxhaBp0Pmec",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Qualité de l'air : pourquoi Saint-Malo va-t-elle être placée sous surveillance renforcée ?",
-    "url": "https://actu.fr/bretagne/saint-malo_35288/qualite-de-lair-pourquoi-saint-malo-va-t-elle-etre-placee-sous-surveillance-renforcee_65045960.html",
-    "fuente": "Actu.fr"
+    "titulo": "Une personne meurt après une chute : une enquête ouverte pour assassinat à Saint-Malo",
+    "url": "https://www.ouest-france.fr/bretagne/saint-malo-35400/une-personne-meurt-apres-avoir-chute-dune-fenetre-dimmeuble-dans-le-centre-ville-de-saint-malo-4a4b7e26-e3a3-11f1-9a72-32f9104dab1b",
+    "fuente": "Ouest-France"
    }
   },
   "licenciement": {
@@ -167060,6 +168217,76 @@
     "url": "https://www.20minutes.fr/arts-stars/television/koh_lanta/4263740-20261118-koh-lanta-gagne-finale-vote",
     "fuente": "20 Minutes"
    }
+  },
+  "rassemblement national": {
+   "termino": "rassemblement national",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2J7lbZxcTOsaxwksfZ_IILQtBHD4SxQq_W70VWiIHjGHv5dmkmvCkh173Ik4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Retraites : le RN piégé par ses promesses",
+    "url": "https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html",
+    "fuente": "Le Monde.fr"
+   }
+  },
+  "metro c lyon": {
+   "termino": "metro c lyon",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvFL9l6PgqpiJyoErSFCrS1jhBZ181QLUqu6DD4_t-1Ac-tnYflE9LTrwTpFE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Métropole de Lyon. Grève des TCL : l’état du trafic est connu, de grosses perturbations sont à prévoir",
+    "url": "https://www.leprogres.fr/social/2026/11/18/greve-des-tcl-l-etat-du-trafic-est-connu-de-grosses-perturbations-sont-a-prevoir",
+    "fuente": "Le Progrès"
+   }
+  },
+  "jeu de grattage": {
+   "termino": "jeu de grattage",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRSyBLpNR75IojsT51I99FjhvkiZilJb9dOgmeXRuyJ7l1Ga5bt8qCarnMXrE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "\"Je suis restée très calme\" : un million d’euros remportés à un jeu de grattage au pied des Cévennes",
+    "url": "https://www.midilibre.fr/2026/11/19/sur-le-moment-je-nai-pas-eu-de-reaction-particuliere-je-suis-restee-tres-calme-un-million-deuros-remportes-a-un-jeu-de-grattage-au-pied-des-cevennes-13660871.php",
+    "fuente": "Midi Libre"
+   }
+  },
+  "éric ciotti": {
+   "termino": "éric ciotti",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb05CPSbDateY9oLpxvJAhh_qQkg-Un7SMSsRSxC1qlvZNMVeuS4N2DiycL88",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Éric Ciotti avec des cheveux ! Le maire de Nice dévoile une photo d’archive qui étonne les internautes : “La classe”",
+    "url": "https://www.gala.fr/politique/eric-ciotti-avec-des-cheveux-le-maire-de-nice-devoile-une-photo-d-archive-qui-etonne-les-internautes-la-classe-20261118",
+    "fuente": "Gala"
+   }
+  },
+  "adam driver": {
+   "termino": "adam driver",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgIy8jMMlAc3zOTpBC2ZU9aFLd2xkw2WaSs7RjkUYHjOs_vTW1R3RO80vv_Y",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "The ‘Star Wars’ Actor Fans Are ‘Manifesting’ As The Next James Bond Villain, According to Kalshi",
+    "url": "https://uk.news.yahoo.com/star-wars-actor-fans-manifesting-163000082.html",
+    "fuente": "Yahoo News UK"
+   }
   }
  },
  "IT": {
@@ -170374,15 +171601,15 @@
   "harry & meghan": {
    "termino": "harry & meghan",
    "primera_vez": "2026-11-15T09:43:46Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8q0YQznXN9ktII3vz1jNabAqov3h9ThAenonoh_ZEBofiib4rh7V4Z4WKK7s",
-   "ultima_vez": "2026-11-17T16:58:41Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuuhI9iiJc0tJacTcmlx1hvSxWHScZV37FkbpxkZopQA7BWd_zEKzDL_eKS1Q",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Harry e Meghan, nuovo gelo nella famiglia reale: niente invito al concerto di Natale organizzato da Kate Middleton",
-    "url": "https://www.corriere.it/moda/26_novembre_17/harry-e-meghan-nuovo-gelo-nella-famiglia-reale-niente-invito-al-concerto-di-natale-organizzato-da-kate-middleton-cc7aad1b-a171-47b0-8976-f1a8b526bxlk.shtml",
-    "fuente": "Corriere della Sera"
+    "titulo": "Harry vuole combattere in Ucraina e implora Carlo per il Natale",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/19/harry-e-meghan-implorano-re-carlo-di-trascorrere-il-natale-insieme-a-sandringham-ma-william-non-vuole-saperne-e-il-principe-rilancia-tornerei-nellesercito-per-combattere-in-ucraina/8576913/",
+    "fuente": "Il Fatto Quotidiano"
    }
   },
   "luca nardi": {
@@ -172707,15 +173934,15 @@
   "auto elettrica": {
    "termino": "auto elettrica",
    "primera_vez": "2026-11-16T14:58:40Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpqZcMRap9szoKFCQUUQlcoTI4xIYQGf9hTLDFfWMKiIQin9qEHRwJxHrM4gM",
-   "ultima_vez": "2026-11-16T14:58:40Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS3IyYNhKdETwFQG305m9jNEa5R9_c3Dt7gnFcCbn8-doPHLXSSh1WowcjPgE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Audi A2 e-tron: la compatta che punta tutto sull'efficienza",
-    "url": "https://www.gazzetta.it/motori/la-mia-auto/prove-auto/16-11-2026/audi-a2-e-tron-la-prova-dati-tecnici-prezzi-come-va.shtml",
-    "fuente": "La Gazzetta dello Sport"
+    "titulo": "IEA: \"Ora serve più energia per raffrescare gli edifici che per riscaldarli\"",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/19/crisi-hormuz-energia-iea-world-energy-outlook-notizie/8576921/",
+    "fuente": "Il Fatto Quotidiano"
    }
   },
   "barca": {
@@ -177964,6 +179191,104 @@
     "titulo": "Lascia la magistratura a 55 anni per girare il mondo: \"Ho fatto i conti, posso vivere senza lavorare\"",
     "url": "https://www.modenatoday.it/cronaca/alberto-lippini-magistrato-dimissioni-viaggi-intervista.html",
     "fuente": "ModenaToday"
+   }
+  },
+  "milo ventimiglia": {
+   "termino": "milo ventimiglia",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9lsxiPi1E2_FHVhlUV744Z1uvitdvNEd_zHPKevSukHA2paN2dJAJQ13IimM",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jared Padalecki cries over Milo Ventimiglia in new ‘Gilmore Girls’ doc",
+    "url": "https://ew.com/jared-padalecki-cries-over-milo-ventimiglia-gilmore-girls-doc-12259853",
+    "fuente": "Entertainment Weekly"
+   }
+  },
+  "liceo": {
+   "termino": "liceo",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRy-WUs5wJa9X9Twlst1y-AV3Z28XEkswE2X9wyrzPGrg-wtRlcXxkX7Ob-sc",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Giovanna Mezzatesta, preside del liceo Bottoni, ai prof: «Basta compiti ai ragazzi che occupano, non sono in vacanza»",
+    "url": "https://milano.corriere.it/notizie/cronaca/26_novembre_19/giovanna-mezzatesta-preside-del-liceo-bottoni-ai-prof-basta-compiti-ai-ragazzi-che-occupano-non-sono-in-vacanza-294cbf32-b512-4948-b907-d40026b0cxlk.shtml",
+    "fuente": "Corriere Milano"
+   }
+  },
+  "expert": {
+   "termino": "expert",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcpxOjLqVqESY-C0CJhDLGMjaZV-QGZFp8XRCfsxAkFnb6uq_sOyxlPLbTjl4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "What on Earth Is Going On?",
+    "url": "https://www.theatlantic.com/ideas/2026/11/major-server-outage-response/689486/",
+    "fuente": "The Atlantic"
+   }
+  },
+  "dan peterson": {
+   "termino": "dan peterson",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyMS87dDj50riOtrwg6OYK5QBaK1SkJcUppHd_cwXko2wvFp96C30gq-LIjYA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Una leggenda del basket in Valtellina: Dan Peterson ospite a Tirano per una serata speciale",
+    "url": "https://www.altarezianews.it/2026/11/una-leggenda-del-basket-valtellina-dan-peterson-ospite-tirano-una-serata-speciale",
+    "fuente": "AltaReziaNews"
+   }
+  },
+  "peres jepchirchir": {
+   "termino": "peres jepchirchir",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFF-YraMLuIFCGoQAd_y5BIYmRV2fDDBGjg86bLWqLpXTh7XZUo7--Mk9ljKA",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Peres Jepchirchir: three-year doping ban for the world marathon champion",
+    "url": "https://www.repubblica.it/en/sport/other-sports/2026/11/19/news/peres_jepchirchir_three-year_doping_ban_for_the_world_marathon_champion-425734179/",
+    "fuente": "la Repubblica"
+   }
+  },
+  "l.a. guns": {
+   "termino": "l.a. guns",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaatnsvJtTJ0JYHt145Z7rI6GMRcqNs69L2wjtunt_0R-8tue26Ifs9bbN9Vk",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "L. A. Guns, interrotto il concerto allo Slaughter Club",
+    "url": "https://www.metalhammer.it/2026/11/18/l-a-guns-interrotto-il-concerto-allo-slaughter-club/",
+    "fuente": "Metal Hammer Italia"
+   }
+  },
+  "play station 5": {
+   "termino": "play station 5",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg7PPUS6TTiiqL1haiaW0UEwk_CsDezdoqh-1txLtmzafjZ-8mFMxriE-Co8E",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "GTA VI invade l'NBA, i Miami Heat diventano protagonisti del gioco per la sfida coi Bucks",
+    "url": "https://video.gazzetta.it/basket/nba/video-nba-miami-heat-in-versione-gta-vi-per-la-sfida-coi-bucks/bf1102f5-20eb-45a4-a610-ceedcb305xlk",
+    "fuente": "La Gazzetta dello Sport"
    }
   }
  },
@@ -187656,14 +188981,14 @@
   "alles was zählt": {
    "termino": "alles was zählt",
    "primera_vez": "2026-11-18T04:56:58Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxV0RNR12uL-tQ8o5a03Tv02bJ742s-lIEjRdJxngx3H7B6q89pvnbrk8xL2Q",
-   "ultima_vez": "2026-11-18T04:56:58Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6u9ecN-RaHUQlXDNmqqWAfSjs2BkTx5nBz2lxfugl2wcD5ebNOLfNpfadshY",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "AWZ Folge 5081 bei RTL+: Daniela und Henning bekommen einen neuen Nachbarn",
-    "url": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-awz-folge-5081-bei-rtl-daniela-und-henning-bekommen-einen-neuen-nachbarn-79710441.html",
+    "titulo": "Neue Rolle bei AWZ ab 19.11.26 bei RTL+: Anton Blümler spielt Collin Hansen",
+    "url": "https://www.swp.de/unterhaltung/tv/alles-was-zaehlt-seifenoper-neues-gesicht-bei-awz-ab-191126-bei-rtl-anton-bluemler-spielt-collin-hansen-79699518.html",
     "fuente": "swp.de"
    }
   },
@@ -190598,6 +191923,118 @@
     "titulo": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
     "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
     "fuente": "The Guardian"
+   }
+  },
+  "leihani zoric": {
+   "termino": "leihani zoric",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoeQ4UC54K6CYp1u09SNwPTz9nCMCvy4dedHbzikZDfoqTvuiTEHr42DKlrB4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion",
+    "url": "https://www.nytimes.com/athletic/7786502/2026/11/16/leihani-zoric-surfing-age-world-champion/",
+    "fuente": "The New York Times"
+   }
+  },
+  "prozess": {
+   "termino": "prozess",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMCbTVx4DDETDc1gGkR3kGpmcXew_dQWdHNKU-JV37ukXgytpxIMyVwAh8b48",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Elfjähriges Mädchen stirbt nach OP: Drei Mediziner ab Donnerstag in Altona vor Gericht",
+    "url": "https://www.ndr.de/nachrichten/hamburg/maedchen-nach-eingriff-gestorben-drei-aerzte-vor-gericht,prozess-1124.html",
+    "fuente": "NDR.de"
+   }
+  },
+  "charlène von monaco": {
+   "termino": "charlène von monaco",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9sNnIv1hHxwnsQKdQX_UWBYJEW2t8p_CHeoum4BNfjJdqwAsaeFIenE74_c",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Selfies und Salut: Monacos Fürstenfamilie sorgt am Nationalfeiertag für Getuschel",
+    "url": "https://www.gala.de/royals/monaco/monacos-fuerstenfamilie-sorgt-am-nationalfeiertag-fuer-getuschel_24720146-24716312.html",
+    "fuente": "GALA.de"
+   }
+  },
+  "handball-bundesliga": {
+   "termino": "handball-bundesliga",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjIuMeRo8XOQ6dd8Jh8nhdRL9snCbPlHc8CQx1v8LFN2SvzAc_mIR9mtdzP7Q",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Handball Bundesliga 13. Spieltag Wett-Tipps, Spielplan & Prognosen - Hamburg muss gegen den Meister ran!",
+    "url": "https://www.wettbasis.com/sportwetten-tipps/handball-bundesliga-13-spieltag-wett-tipps-spielplan-prognosen-2026",
+    "fuente": "Wettbasis"
+   }
+  },
+  "was hast du mit mir gemacht helene fischer": {
+   "termino": "was hast du mit mir gemacht helene fischer",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-AVhHeYiCPsIp0bmWn-rk8g-kyg0uz21gXVZ0oWKyCZewQqmqE-v2Y-PWUJE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Helene Fischer: TikTok-Hype zieht „Was hast du mit mir gemacht“ vor",
+    "url": "https://www.bild.de/unterhaltung/musik/helene-fischer-tiktok-hype-zieht-was-hast-du-mit-mir-gemacht-vor-6afdea22ac0218f630fd0452",
+    "fuente": "BILD"
+   }
+  },
+  "banken": {
+   "termino": "banken",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRi2cYPuUJV31vavEbqyLnXFlGqKl40m0MMFbxW1_dgIYzqmIoOceHplocVAE",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Deutsche-Bank-Leak: Die Banken brauchen Kontrolle, kein Vertrauen - Meinung",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-leak-die-banken-brauchen-kontrolle-kein-vertrauen-meinung-a-d2c0adcd-16a0-4f51-bf24-4783d106faae",
+    "fuente": "Spiegel"
+   }
+  },
+  "gewitter": {
+   "termino": "gewitter",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv9OqXCkz4-Hx8OvzAfn6Pnh5KVi7OFwtMlAbI8EWMx_X9Ta6UnFDKJhxa13o",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Wetter morgen am Freitag: Kräftiger Starkregen mit bis zu 50 Litern, Sturmböen und Schnee – es wird turbulent!",
+    "url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-freitag-20-november-2026-kraeftiger-starkregen-mit-bis-zu-50-litern-sturmboeen-und-schnee-es-wird-turbulent_aid_6afea1dedd7318bd73073101.html",
+    "fuente": "wetter.com"
+   }
+  },
+  "nicolej krickau": {
+   "termino": "nicolej krickau",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6sTyhGMenLqOMwkwX7jEIjVjxSZZIw1Y6vcO7xlssxHPFVqH1wZRIx-zBSCU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Füchse nach Pleite gegen Knorr und Co. unter Druck",
+    "url": "https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-handball-fuechse-aalborg-champions-league-spielbericht.html",
+    "fuente": "rbb24.de"
    }
   }
  },
@@ -199469,6 +200906,132 @@
     "titulo": "Spookbaan is al 17 jaar speelklaar en wacht op golfers: hoe heeft dat kunnen gebeuren?",
     "url": "https://www.golf.nl/nieuws/2026/nov/1911-ghost-golfbaan-in-schotland-verkocht-nooit-open-gegaan",
     "fuente": "Golf.nl"
+   }
+  },
+  "eerste kamer der staten-generaal": {
+   "termino": "eerste kamer der staten-generaal",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-upgUwuIRo3w_qQFKDuyTUe3DST8IQVUDKQEFLMHxXikpHA0RZpexq4oAtTw",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Eerste Kamer akkoord met alcoholmeter en verbetering aanpak rijden onder invloed",
+    "url": "https://ede.nieuws.nl/nieuws/eerste-kamer-akkoord-met-alcoholmeter-en-verbetering-aanpak-rijden-onder-invloed",
+    "fuente": "Ede.nieuws.nl"
+   }
+  },
+  "a2": {
+   "termino": "a2",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_fRhuY34zcD9DRjkoFISt07DEUs-PQyupzRk_jRPIW1dLJDdZfbwuMiEuwGQ",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Veel vertraging op A2 na ongeluk",
+    "url": "https://www.rtvutrecht.nl/nieuws/4121082/veel-vertraging-op-a2-na-ongeluk",
+    "fuente": "RTV Utrecht"
+   }
+  },
+  "de telegraaf": {
+   "termino": "de telegraaf",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcDdSEQn-kXpggpNTEyd7CjD-Jwjq3hKl0WGf5-XdrrjP7xx2DrxHxM8oIH8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Volgetatoeëerd door ex: Joke (53) deelt haar verhaal en vertelt hoe ze nu weer optimistisch kan zijn",
+    "url": "https://www.telegraaf.nl/binnenland/joke-53-werd-door-haar-ex-gedwongen-volgetatoeeerd-maar-is-positiever-dan-ooit-ik-ben-zo-dankbaar-dat-ik-mijn-kinderen-kan-zien/164610271.html",
+    "fuente": "De Telegraaf"
+   }
+  },
+  "corona": {
+   "termino": "corona",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz0t1qw0Ne38HY6r46dFQKp0alNqvKof37pIsYjivGZGHO69kwubZ-tUDFQz0",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
+    "url": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
+    "fuente": "tagesschau.de"
+   }
+  },
+  "schuttevaer": {
+   "termino": "schuttevaer",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Piu3ACrMbwQ1j8LVeLtorOIsqOJrpOiPUHJgDxCQfcJzyzh2caTX4_HJ0VU",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "[Video] Bemanning RPG Bristol beleeft hachelijke momenten bij aanvaring met bulkcarrier",
+    "url": "https://www.schuttevaer.nl/nieuws/actueel/2026/11/19/video-bemanning-rpg-bristol-beleeft-hachelijke-momenten-bij-aanvaring-met-bulkcarrier/",
+    "fuente": "Schuttevaer.nl"
+   }
+  },
+  "arnold schwarzenegger": {
+   "termino": "arnold schwarzenegger",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8cQKTRrJxwx7PHfkxSrmgt2fCVGo_sxPwWrS0dVmsRXeVLxwXjXOMfSLBJP8",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Arnold Schwarzenegger, 79, Opens Up About the Joy of Being a Grandpa (Exclusive)",
+    "url": "https://www.womansworld.com/entertainment/celebrities/arnold-schwarzenegger-79-on-the-joy-of-being-a-grandpa-excl",
+    "fuente": "Woman's World"
+   }
+  },
+  "europese commissie": {
+   "termino": "europese commissie",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwo6v3pQ2H1_YWLu3G6ZjMx8zj5Vj1ddT-5-D39eVfEPZGrkOtOCOnr0eRyQo",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Grote cyberaanval treft Europese Commissie, datalek is niet uitgesloten",
+    "url": "https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html",
+    "fuente": "Tweakers"
+   }
+  },
+  "krist gruijthuijsen": {
+   "termino": "krist gruijthuijsen",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYZZnwBS_JsuMuHCRfA4xY8NnpHvy2x03JO-YyZorb6L8zonQOMRh8OCEECxs",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Krist Gruijthuijsen wordt de nieuwe directeur Stedelijk Museum Amsterdam",
+    "url": "https://www.nrc.nl/nieuws/2026/11/19/krist-gruijthuijsen-wordt-de-nieuwe-directeur-stedelijk-museum-amsterdam-a4941819",
+    "fuente": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek"
+   }
+  },
+  "taiwan": {
+   "termino": "taiwan",
+   "primera_vez": "2026-11-19T13:06:46Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo_02M_PR2w8uW_z1D0R2glf1q3bb6qCVSvaZemOCx6K5aEd7b4Kb9Fh0P_R4",
+   "ultima_vez": "2026-11-19T13:06:46Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
+    "url": "https://www.reuters.com/world/china/chinas-xi-says-us-should-do-right-thing-taiwan-avoid-setbacks-relations-2026-11-19/",
+    "fuente": "Reuters"
    }
   }
  }
