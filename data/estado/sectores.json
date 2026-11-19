@@ -1,6 +1,17 @@
 {
- "ultima_ejecucion": "2026-11-19T01:52:57Z",
- "duracion_seg": 496.7,
- "errores": 0,
- "muestra_errores": []
+ "ultima_ejecucion": "2026-11-19T07:55:03Z",
+ "duracion_seg": 527.6,
+ "errores": 2,
+ "muestra_errores": [
+  {
+   "url": "https://news.google.com/rss/search?q=%28art+OR+design%29+when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-19T07:55:03Z"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=%28b%C3%A9b%C3%A9+OR+enfants+OR+parentalit%C3%A9%29+when%3A1d&hl=fr&gl=FR&ceid=FR%3Afr",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-19T07:55:03Z"
+  }
+ ]
 }
