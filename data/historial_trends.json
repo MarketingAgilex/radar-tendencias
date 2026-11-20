@@ -7313,11 +7313,11 @@
   "posiciones de al-ahli saudi contra al-nassr": {
    "termino": "posiciones de al-ahli saudi contra al-nassr",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 5000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROJPxgxBolsu2QpiCBUzW4Z3_t4vSSKYX0NrPFud7cPhISWJDljQiQjJATC94",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "5000+",
+   "veces": 2,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg9skvf_c1_87bOncqUvdkwmpARkXUKn8sdEzwo88DiolhYNfS-66sTdCUwPU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "10000+",
    "noticia": {
     "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
     "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
@@ -7327,15 +7327,15 @@
   "athletic - rcd espanyol": {
    "termino": "athletic - rcd espanyol",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMVeHv8VMJ_gJQ6DE8snVtA7PcwtqGC6f-zYnXafcm7id-rLpUbCKJF48CMaQ",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "1000+",
+   "veces": 2,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmrovjQvWaJSsFFjJEvIAfoU5yBgoBNgzX1ERhcs0mAQ6FpgTUH4LOL-E66v4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
-    "url": "https://www.marca.com/futbol/laliga-ea-sports/athletic-espanyol/2026/11/20/01_0101_20261120_174_177-directo.html",
-    "fuente": "MARCA"
+    "titulo": "Espanyol y su partido previa con el Bilbao",
+    "url": "http://diariodelcauca.com.co/noticias/espanyol-y-su-partido-previa-con-el-bilbao",
+    "fuente": "Diario del Cauca"
    }
   },
   "bayer vs": {
@@ -7378,6 +7378,76 @@
     "titulo": "Hollman Morris denunció que una camioneta de su esquema de seguridad fue desactivada sin previo aviso: “El riesgo extremo se mantiene”",
     "url": "https://www.infobae.com/colombia/2026/11/20/hollman-morris-denuncio-que-una-camioneta-de-su-esquema-de-seguridad-fue-desactivada-sin-previo-aviso-el-riesgo-extremo-se-mantiene/",
     "fuente": "Infobae"
+   }
+  },
+  "porto - usc paredes": {
+   "termino": "porto - usc paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShZdTz6Y6RZmVU5Ekk7OkoBtc49jgpRNzELZjMGTLfkyIIbZPgSjMA7sovryM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "POLÉMICA NA TAÇA: PAREDES INDIGNADO COM O FC PORTO",
+    "url": "https://24horas.pt/noticia/polemica-na-taca-paredes-indignado-com-o-fc-porto",
+    "fuente": "24Horas.pt"
+   }
+  },
+  "luis felipe henao": {
+   "termino": "luis felipe henao",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzs4fa2tEayJklJ2J44esHkMgIrnD18SXbbggJt7YMhFEy980jAQCyyPJ2Oo",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Luis Felipe Henao pierde en dos instancias tutela contra exdirector de cumplimiento de Ecopetrol",
+    "url": "https://caracol.com.co/2026/11/20/luis-felipe-henao-pierde-en-dos-instancias-tutela-contra-exdirector-de-cumplimiento-de-ecopetrol/",
+    "fuente": "Caracol Radio"
+   }
+  },
+  "troyes - le havre": {
+   "termino": "troyes - le havre",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ivddFDEnycoF3J32yCPekYWSNY0oEvzhwQxUp2HrgMlF8ODq4-CHFw0c0DI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "DIRECT. Troyes-Le Havre: Mille remet les compteurs à zéro, le duel du bas de tableau s'enflamme",
+    "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-troyes-le-havre-suivez-le-match-d-ouverture-de-la-11e-journee-de-ligue-1_LS-202611200719.html",
+    "fuente": "RMC Sport"
+   }
+  },
+  "bayer": {
+   "termino": "bayer",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5eO2z0Q2qR4I1G-0uFnvMAfwsdYkXzkO3db3eDsxwWBpShNaPeBkGtlEdD4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bayer Aktie: KI-Ausverkauf drückt Kurs ins Minus",
+    "url": "https://www.boerse-express.com/news/articles/bayer-aktie-ki-ausverkauf-drueckt-kurs-ins-minus-965120",
+    "fuente": "Börse Express"
+   }
+  },
+  "bayern vs": {
+   "termino": "bayern vs",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlEHbgEC0lyB-nhlCGYFcpWlJqmbKYiOlUsEMQtzA3haOu6n-tLvaR2YjL6dQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cw99ex0kn0p4t",
+    "fuente": "BBC"
    }
   }
  },
@@ -15638,15 +15708,15 @@
   "frances tiafoe": {
    "termino": "frances tiafoe",
    "primera_vez": "2026-11-18T20:51:00Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8Q90OSHQs63JHL0_436jsMjYgEjfqVNABj9k_vn2Ll8YABwdzLbF9SP2K_wE",
-   "ultima_vez": "2026-11-18T20:51:00Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "ATP Finals 2026: Carlos Alcaraz borró de la cancha a Daniil Medvedev y está prácticamente clasificado a semifinales",
-    "url": "https://www.espn.com.mx/tenis/nota/_/id/17526376/carlos-alcaraz-vs-daniil-medvedev-a-que-hora-juegan-y-donde-ver-en-vivo-las-atp-finals-2026",
-    "fuente": "ESPN México"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "tamara gorro": {
@@ -18617,6 +18687,127 @@
    "noticia": {
     "titulo": "Bayer Leverkusen vs Paderborn live today: Who is showing the match on TV and via live stream?",
     "url": "https://www.goal.com/en-ca/news/bayer-leverkusen-vs-paderborn-live-today-who-is-showing-the-match-on-tv-and-via-live-stream/bltbcec6a581988cb68",
+    "fuente": "Goal.com"
+   }
+  },
+  "jesús hernández moreno": {
+   "termino": "jesús hernández moreno",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGjuSJHWARJxvATDURAGffCDyaaOQfyML4RQ7hlNI388_g8iF2-2oeneqMJkU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jesús Hernández, delantero con experiencia europea y que pertenece a Xolos de Tijuana ya habría sido adquirido parcialmente por las Chivas",
+    "url": "https://www.tvazteca.com/aztecadeportes/liga-mx/chivas-habria-concretado-fichaje-de-delantero-que-a-sus-22-anos-ya-tiene-experiencia-europea-es-el-sustituto-buscado-en-la-posicion-de-hormiga-gonzalez/",
+    "fuente": "TV Azteca"
+   }
+  },
+  "joaquín lópez-dóriga": {
+   "termino": "joaquín lópez-dóriga",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFZZ7RoLoEN-lDyT4gwibE_YN7l6-VHmo6pnA8nDoFHBL9aI6UqcDObWIWUW0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Por hoy, un 'mea culpa'",
+    "url": "https://www.milenio.com/opinion/joaquin-lopez-doriga/en-privado/por-hoy-un-mea-culpa",
+    "fuente": "Milenio"
+   }
+  },
+  "daniil medvédev": {
+   "termino": "daniil medvédev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+"
+  },
+  "espanyol vs": {
+   "termino": "espanyol vs",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYWtkMvVkgewgYV6nPy-UcCE0kts9k7hX0pWtQMKSPr-FmpXEjjSaX8U2aEHE",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "How to get Espanyol vs Celta Vigo tickets: LaLiga prices, fixture information, last-minute sales & more",
+    "url": "https://www.goal.com/en-sg/tickets-travel/match/espanyol-celta-vigo-tickets/A~blt20d79b0209f8feb2",
+    "fuente": "Goal.com"
+   }
+  },
+  "fc andorra - leganés": {
+   "termino": "fc andorra - leganés",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBViM6jhIPw6lG1ubo6d7f-ni9EaNrgCTi8sChvnEqcQaah46gECo8nXPDHQQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Dónde ver hoy en directo el FC Andorra contra el Leganés: TV y streaming",
+    "url": "https://www.goal.com/es/noticias/donde-ver-hoy-en-directo-el-fc-andorra-contra-el-leganes-tv-y-streaming/blt9b6166e3acb0533e",
+    "fuente": "Goal.com"
+   }
+  },
+  "porto - usc paredes": {
+   "termino": "porto - usc paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShZdTz6Y6RZmVU5Ekk7OkoBtc49jgpRNzELZjMGTLfkyIIbZPgSjMA7sovryM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "POLÉMICA NA TAÇA: PAREDES INDIGNADO COM O FC PORTO",
+    "url": "https://24horas.pt/noticia/polemica-na-taca-paredes-indignado-com-o-fc-porto",
+    "fuente": "24Horas.pt"
+   }
+  },
+  "bayer": {
+   "termino": "bayer",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5eO2z0Q2qR4I1G-0uFnvMAfwsdYkXzkO3db3eDsxwWBpShNaPeBkGtlEdD4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bayer Aktie: KI-Ausverkauf drückt Kurs ins Minus",
+    "url": "https://www.boerse-express.com/news/articles/bayer-aktie-ki-ausverkauf-drueckt-kurs-ins-minus-965120",
+    "fuente": "Börse Express"
+   }
+  },
+  "mikey moore": {
+   "termino": "mikey moore",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEvT-iHkcPVUOQGRywTZ3IQy6QccF43e3zS-31TpziItjCXyZegKUbCD-9DM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
+    "url": "https://www.thenational.scot/sport/26750251.watch-moore-opens-koln-account-style-goal-bayern/",
+    "fuente": "The National Scot"
+   }
+  },
+  "athletic bilbao": {
+   "termino": "athletic bilbao",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRuI0nZhTH6Oxk0dV76d4CUt6RHT9wD12NkT_JyEOfKeuCurrz1vdKQUT3v-E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "How to get Deportivo de A Coruna vs Athletic Bilbao tickets: LaLiga prices, fixture information, last-minute sales & more",
+    "url": "https://www.goal.com/en-sg/tickets-travel/match/deportivo-de-a-coruna-athletic-bilbao-tickets/A~blt94749f8b4f4a94a9",
     "fuente": "Goal.com"
    }
   }
@@ -22255,24 +22446,24 @@
   "bayern - colonia": {
    "termino": "bayern - colonia",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 5000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQggI32PwkmsM0qW1aIWBwzWU1F59SZMpj6ykChn-UMJzvBXJyg09QuXCNKjVw",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "5000+",
    "noticia": {
-    "titulo": "Preview: Bayern Munich vs FC Koln - prediction, team news, lineups",
-    "url": "https://www.sportsmole.co.uk/football/bayern-munich/bundesliga-title-race/preview/bayern-vs-fc-koln-prediction-team-news-lineups_609217.html",
-    "fuente": "Sports Mole"
+    "titulo": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
+    "url": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+    "fuente": "FC Bayern"
    }
   },
   "cristiano ronaldo": {
    "termino": "cristiano ronaldo",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToU8ZzDlzFNHDVmOZYc8KS_zfHyekeDXFEHjaOvsIU3x2rmCZlkz2vxkuY1zc",
-   "ultima_vez": "2026-11-20T18:55:30Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "(VIDEO) LLEGÓ EL 986: Nuevo gol de Cristiano Ronaldo en Arabia",
@@ -22283,25 +22474,25 @@
   "bayern": {
    "termino": "bayern",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjhagdieQLTqG3Snxn52Ih4KnX7GhVTZ9_HY7g1NG3iGXSaut2VTuz2g7h2Mk",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGGy7C0b7JhCzqyAnw__yGZwcD_VtOAFMRO6ZbZCOFFBq99celABPQysVBSwg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Fußball-Bundesliga: Auflagen in München: Kölner Fans reisen vorzeitig wieder ab",
-    "url": "https://www.zeit.de/news/2026-11/20/auflagen-in-muenchen-koelner-fans-reisen-vorzeitig-wieder-ab",
-    "fuente": "DIE ZEIT"
+    "titulo": "Harry Kane verletzt raus: Schock für den FC Bayern vor Lille",
+    "url": "https://www.tufutbolero.com/de/nachrichten/harry-kane-verletzt-raus-schock-fur-den-fc-bayern-vor-lille-06a41a",
+    "fuente": "Tu Futbolero"
    }
   },
   "athletic - rcd espanyol": {
    "termino": "athletic - rcd espanyol",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7vfLOb-9OGhizUJaaVAsoVuUOwCfpEQG5GBbEyjiczW1YewyNKy2R22c_NHo",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Motivación extra en rojiblanco",
     "url": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253173/motivacion-extra-rojiblanco.html",
@@ -22320,6 +22511,62 @@
     "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
     "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
     "fuente": "Diario AS"
+   }
+  },
+  "bundesliga": {
+   "termino": "bundesliga",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5eSsLmqvhRSuU15iZqciIbnLfKtI4UcpdQxF-6eSo8GmVfF-RVMRjeFXUK1U",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liveticker | Bayern München - 1. FC Köln : | 10. Spieltag | Bundesliga 2026/27",
+    "url": "https://www.kicker.at/bayern-gegen-koeln-2026-bundesliga-5226890/ticker",
+    "fuente": "kicker"
+   }
+  },
+  "khvicha kvaratskhelia": {
+   "termino": "khvicha kvaratskhelia",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhKnGenFTNN7VFGHXSKC1yHj72PmDhhB4swdBf3ED2SxXbf1fpj7noTmLSVM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Khvicha Kvaratskhelia reveals PSG return date as Georgian star provides major injury update on ACL recovery",
+    "url": "https://www.goal.com/en-om/news/khvicha-kvaratskhelia-injury-psg-return-timeline/bltb6ce9cc1bfe9119f",
+    "fuente": "Goal.com"
+   }
+  },
+  "posiciones de al-ahli saudi contra al-nassr": {
+   "termino": "posiciones de al-ahli saudi contra al-nassr",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg9skvf_c1_87bOncqUvdkwmpARkXUKn8sdEzwo88DiolhYNfS-66sTdCUwPU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
+    "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "posiciones de independiente del valle contra macará": {
+   "termino": "posiciones de independiente del valle contra macará",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 50000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsR8k2gtwuTCh9wvTJ9h456r-VXvUZjlj2MOEpwQPcKER1ymgTqTCmNew0heU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "50000+",
+   "noticia": {
+    "titulo": "La hinchada de Independiente del Valle responde: el estadio Banco Guayaquil luce casi lleno ante Macará",
+    "url": "https://www.eluniverso.com/deportes/campeonato-ecuatoriano/la-hinchada-de-independiente-del-valle-responde-el-estadio-banco-guayaquil-luce-casi-lleno-ante-macara-nota/",
+    "fuente": "El Universo"
    }
   }
  },
@@ -37665,6 +37912,132 @@
     "url": "https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-princeton-phd-neuroscience-student-detained-by-immigration-customs-and-enforcement-ice",
     "fuente": "The Daily Princetonian"
    }
+  },
+  "dell stock": {
+   "termino": "dell stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1bEUOPxJjthVnuOCfnIwnP20qK-aWGB10MZpjOeOSo5_30Ye2E6nnZR5PtYA",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "AI Backlog Might Change The Case For Investing In Dell Technologies (DELL)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-backlog-might-change-case-171345062.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "meta stock": {
+   "termino": "meta stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4L1uzbZJhqdUz-3EAB9WNQkQ6RUOqTaeCFECKUFGWPWqxi5AWYj4Oozx3P-E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Meta Stock Down 21%: Too Much AI Spending?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-down-21-too-181015251.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "virginia tech vs northwestern": {
+   "termino": "virginia tech vs northwestern",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMxzlK4DL166zEezOkpKwlTffdTDN64voyF--oW8Ju84_r3UxzOLb-YNcoGzk",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Game Preview: Virginia Tech against Northwestern",
+    "url": "https://247sports.com/college/virginia-tech/article/virginia-tech-northwestern-game-preview-mens-basketball-26-293000100/",
+    "fuente": "247Sports"
+   }
+  },
+  "nolan gorman": {
+   "termino": "nolan gorman",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2HgqoAnkL5G2fzzhCgq3dtobapW1toXBG9XoSRKfDvVPrJPR6o-rQKNIP2-E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Cardinals non-tender former first-round pick Nolan Gorman (report)",
+    "url": "https://www.mlb.com/news/nolan-gorman-non-tendered-by-cardinals",
+    "fuente": "MLB.com"
+   }
+  },
+  "is taylor swift pregnant": {
+   "termino": "is taylor swift pregnant",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBaXn9taAbn-IzsgxLvjgZWEKC_vdesGqdOX8tpunYZuxLb3KhnyoyoZGXnxw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Patrick and Brittany Mahomes use unique method for gender reveal of fourth child",
+    "url": "https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article318128907.html",
+    "fuente": "Kansas City Star"
+   }
+  },
+  "apple stock price": {
+   "termino": "apple stock price",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjP3HaeQz3nT794CDJF2HdGeIXlVTV81doK-kd6m-nU3vUfPair41R0gSeVA8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Apple works to restore services after outage caused by internal update",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-works-restore-services-after-outage-caused-by-internal-update-2026-11-17/",
+    "fuente": "Reuters"
+   }
+  },
+  "farrah aldjufrie": {
+   "termino": "farrah aldjufrie",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFhxRcIHzI7qogrC-1OZqM9U4wgsHmz0obzgAlEfIzBE6aiNU3LUvNn4Z1lo",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Real Estate Tycoon Farrah Aldjufrie and Zach Goldsmith Welcome Their First Child",
+    "url": "https://www.realtor.com/news/reality-tv/kyle-richards-daughter-farrah-aldjufrie-zach-goldstein-welcome-baby-umansky-family-plans/",
+    "fuente": "Realtor.com"
+   }
+  },
+  "kathy hochul food additive veto": {
+   "termino": "kathy hochul food additive veto",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XmIxnxtRpY6hFUOS7WmtcsqODvLk8gwzqVPIQ1UGfeiAWYrX27gXHNR2s08",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Hochul vetos ban on food additives over cost concerns",
+    "url": "https://www.timesunion.com/capitol/article/hochul-vetos-ban-food-additives-cost-concerns-22541729.php",
+    "fuente": "Times Union"
+   }
+  },
+  "wall street hard landing risk forecast": {
+   "termino": "wall street hard landing risk forecast",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8Hey81pp_GD1TD75POW0hOOLNA9X138wgmQxgj0FLu7Jfb5Q97qBcdTG8Aw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
+    "url": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57",
+    "fuente": "MarketWatch"
+   }
   }
  },
  "US/nueva-york": {
@@ -45595,15 +45968,15 @@
   "frances tiafoe": {
    "termino": "frances tiafoe",
    "primera_vez": "2026-11-18T20:51:00Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUmNKTRxFjtSbywF6Fv5Ay5Bht1crgBYtzzcaGK6GuEOisJw_9ZhApMOSgDCg",
-   "ultima_vez": "2026-11-18T21:50:13Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "ATP Finals 2026 live updates: Tiafoe bagels Cobolli in first ATP Finals win after Alcaraz eases past Medvedev",
-    "url": "https://www.nytimes.com/athletic/live-blogs/atp-finals-2026-live-updates-schedule-scores-results/1DOjWbMEJi6q/",
-    "fuente": "The New York Times"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "jason movie cast": {
@@ -48138,11 +48511,11 @@
   "voo": {
    "termino": "voo",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyH1rVUzH_H2iiHIq7AzNZ4EelkK7peAE2F2gZlFSEqGxCUQwP63ivgFZQUzw",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Where Will VOO Be in 30 Years? Here's What History Says.",
     "url": "https://finance.yahoo.com/markets/stocks/articles/where-voo-30-years-heres-135000036.html",
@@ -48152,11 +48525,11 @@
   "spy stock": {
    "termino": "spy stock",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9XkUg8zGdX0WDCpguUUA8vibbfEotZy_ypPZc-2aRQFoAiYyhTURwRBb01s",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Stocks trail SPY after analyst initiations, and a few big winners flatter the average",
     "url": "https://www.quantisnow.com/articles/stocks-trail-spy-after-analyst-initiations-few-big-winners-lift-average",
@@ -48189,6 +48562,76 @@
     "titulo": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head",
     "url": "https://www.bbc.com/sport/football/live/cw99ex0kn0p4t",
     "fuente": "BBC"
+   }
+  },
+  "fidelity": {
+   "termino": "fidelity",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ80NTJDdLpXGLgaiM2563b-ohWNK95VBNRNhmbJiY6WQelI1zCMCJYrxf3T_M",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "How Many Americans Have Banked a Cool $5 Million for Retirement?",
+    "url": "https://finance.yahoo.com/markets/articles/many-americans-banked-cool-5-141526076.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "athletic - rcd espanyol": {
+   "termino": "athletic - rcd espanyol",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMVeHv8VMJ_gJQ6DE8snVtA7PcwtqGC6f-zYnXafcm7id-rLpUbCKJF48CMaQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
+    "url": "https://www.marca.com/futbol/laliga-ea-sports/athletic-espanyol/2026/11/20/01_0101_20261120_174_177-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "why is the stock market crashing": {
+   "termino": "why is the stock market crashing",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlXdUhSDTf8BLsQ0uAhQvTB28EwGD2Lu-vvNFecEI0u7QrV66si67t2tIzU9Y",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "fibula": {
+   "termino": "fibula",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrMx6G4OCb1hS5CmydB25flZIyXDCh4GYvm_sa4MQSHUZ994SDcGuswB4S5eM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Patriots QB Drake Maye has fractured fibula, sources say",
+    "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+    "fuente": "ESPN"
+   }
+  },
+  "stocks": {
+   "termino": "stocks",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEIH60g1_OSrpaeLdt5HFltgXWg1wb03bo-U1IXNeuDCPxjN917A5H8MNZAEg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Anthropic IPO live: Anthropic stock drops after first day of trading",
+    "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
+    "fuente": "Yahoo Finance"
    }
   }
  },
@@ -56227,15 +56670,15 @@
   "frances tiafoe": {
    "termino": "frances tiafoe",
    "primera_vez": "2026-11-18T21:50:13Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUmNKTRxFjtSbywF6Fv5Ay5Bht1crgBYtzzcaGK6GuEOisJw_9ZhApMOSgDCg",
-   "ultima_vez": "2026-11-18T21:50:13Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "ATP Finals 2026 live updates: Tiafoe bagels Cobolli in first ATP Finals win after Alcaraz eases past Medvedev",
-    "url": "https://www.nytimes.com/athletic/live-blogs/atp-finals-2026-live-updates-schedule-scores-results/1DOjWbMEJi6q/",
-    "fuente": "The New York Times"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "jason movie cast": {
@@ -58663,15 +59106,15 @@
   "athletic - rcd espanyol": {
    "termino": "athletic - rcd espanyol",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT40Z0aHeLJGKMXi7DI6cRtfbMfnnl3NT2hzJTUUVj9YyXgd_eL49ol-9nM8Wo",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMVeHv8VMJ_gJQ6DE8snVtA7PcwtqGC6f-zYnXafcm7id-rLpUbCKJF48CMaQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "🚨 ONCES del Athletic Club-Espanyol: ¡Beñat Prados titular; Dolan suplente!",
-    "url": "https://es-us.noticias.yahoo.com/deportes/onces-athletic-club-espanyol-be%C3%B1at-185100828.html",
-    "fuente": "Yahoo"
+    "titulo": "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
+    "url": "https://www.marca.com/futbol/laliga-ea-sports/athletic-espanyol/2026/11/20/01_0101_20261120_174_177-directo.html",
+    "fuente": "MARCA"
    }
   },
   "colts depth chart": {
@@ -58700,6 +59143,90 @@
     "titulo": "Video: Cristiano Ronaldo scores 986th career goal for Al Nassr vs Al Ahli, later misses a penalty",
     "url": "https://bolavip.com/en/soccer/video-cristiano-ronaldo-scores-986th-career-goal-for-al-nassr-vs-al-ahli-later-misses-a-penalty",
     "fuente": "Bolavip US"
+   }
+  },
+  "qqq stock": {
+   "termino": "qqq stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToeIHxaey-ArZ8TwnkbTDiPgPHJcua8h5AqE-K7AJ9A6rBv21qVKhpBPRN6wU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "AI Credit Risk Gauges Worsen as Tech Selloff Roils Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+    "fuente": "Bloomberg.com"
+   }
+  },
+  "vix": {
+   "termino": "vix",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq1ESR5fXEraX1hmJ93NxxWaYFi17ZY7A2XEaEc3LH2vhj_bSFZ2Vm3uUt2og",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Wall Street's fear gauge touches seven-month high as AI worries mount",
+    "url": "https://www.reuters.com/business/wall-streets-fear-gauge-touches-seven-month-high-ai-worries-mount-2026-11-20/",
+    "fuente": "Reuters"
+   }
+  },
+  "voo": {
+   "termino": "voo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyH1rVUzH_H2iiHIq7AzNZ4EelkK7peAE2F2gZlFSEqGxCUQwP63ivgFZQUzw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Where Will VOO Be in 30 Years? Here's What History Says.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/where-voo-30-years-heres-135000036.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "stock market": {
+   "termino": "stock market",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRshcZ9syJeEZqn26wB-iMj4jupbRMJYxOFX1xA2ZjKD0GRzRqqecbYzkzlMmY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "fuente": "CNBC"
+   }
+  },
+  "fibula": {
+   "termino": "fibula",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrMx6G4OCb1hS5CmydB25flZIyXDCh4GYvm_sa4MQSHUZ994SDcGuswB4S5eM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Patriots QB Drake Maye has fractured fibula, sources say",
+    "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+    "fuente": "ESPN"
+   }
+  },
+  "qqq": {
+   "termino": "qqq",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OA1T4qjviSi3t9Gj7JThI5uKHXDaxfQpKNNquIFXNHA0laaTWls-IsgeMoM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Invesco QQQ Is 14% Below Its October Record. Here's Where I Think It Will Be in 2030.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-14-below-october-224301407.html",
+    "fuente": "Yahoo Finance"
    }
   }
  },
@@ -70597,15 +71124,15 @@
   "sp500": {
    "termino": "sp500",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScNC0hz8qm3nmVcI7La2BVZ4wzNzc2Af3bw7RQy5AGO7Y7JmYJIcaeoniu8Uw",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDbn5YPq0uajWcw8JjHxYZJam9SvfZadOX9er3usK5YjTqq71aGILp48AaZB0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Anthropic Shares Drop in After-Hours Trading",
-    "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026/card/anthropic-shares-drop-in-after-hours-trading-5BjfR4Pji2nsQENXHPsJ",
-    "fuente": "WSJ"
+    "titulo": "Without a recession, this is a correction not a bear market, says Ed Yardeni",
+    "url": "https://www.cnbc.com/video/2026/11/20/without-a-recession-this-is-a-correction-not-a-bear-market-says-ed-yardeni.html",
+    "fuente": "CNBC"
    }
   },
   "athletic - rcd espanyol": {
@@ -70648,6 +71175,90 @@
     "titulo": "Princeton neuroscience Ph.D. student detained by ICE",
     "url": "https://www.dailyprincetonian.com/article/2026/11/princeton-news-broadfocus-princeton-phd-neuroscience-student-detained-by-immigration-customs-and-enforcement-ice",
     "fuente": "The Daily Princetonian"
+   }
+  },
+  "home alone": {
+   "termino": "home alone",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Fy--q9YIRB3JmOeRW_WTBzrug2Oq3FC6IddR9g6MxAdi7tQwaBIf5Opz5P0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "‘Home Alone’ Sequel With Macaulay Culkin In Early Works With Seth Rogen & Evan Goldberg Writing & Producing",
+    "url": "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/",
+    "fuente": "Deadline"
+   }
+  },
+  "why is the stock market crashing": {
+   "termino": "why is the stock market crashing",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWgp-NMpUj77Qpe9oLjf9BoBaGhrlykteKptELnqClr3DSDa1lEb4lXO9stqQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Chips are crashing like it's 2008 as the Nasdaq 100 nears a bear market",
+    "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "aleksandre topuria": {
+   "termino": "aleksandre topuria",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMWaFnYErLSYiKWFzAwBD7xAsvM1LPdqDS8qWcWQmD_4wlgSN3gT9NR755Y0w",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Aleksandre Topuria: 'I Don't Plan On Letting Him Win' | UFC Qatar",
+    "url": "https://www.ufc.com/video/162216",
+    "fuente": "UFC.com"
+   }
+  },
+  "daniil medvedev": {
+   "termino": "daniil medvedev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
+   }
+  },
+  "voo": {
+   "termino": "voo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8BWLVpQV1XuAkf7D77xYtq8lOdByn4G2gEXMUiucgSFG1wBn12YtqSeEQ1Bs",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Where Will VOO Be in 30 Years? Here's What History Says.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/where-voo-30-years-heres-135000036.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "fibula": {
+   "termino": "fibula",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrMx6G4OCb1hS5CmydB25flZIyXDCh4GYvm_sa4MQSHUZ994SDcGuswB4S5eM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Patriots QB Drake Maye has fractured fibula, sources say",
+    "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+    "fuente": "ESPN"
    }
   }
  },
@@ -80622,15 +81233,15 @@
   "sp500": {
    "termino": "sp500",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScNC0hz8qm3nmVcI7La2BVZ4wzNzc2Af3bw7RQy5AGO7Y7JmYJIcaeoniu8Uw",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDbn5YPq0uajWcw8JjHxYZJam9SvfZadOX9er3usK5YjTqq71aGILp48AaZB0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Anthropic Shares Drop in After-Hours Trading",
-    "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026/card/anthropic-shares-drop-in-after-hours-trading-5BjfR4Pji2nsQENXHPsJ",
-    "fuente": "WSJ"
+    "titulo": "Without a recession, this is a correction not a bear market, says Ed Yardeni",
+    "url": "https://www.cnbc.com/video/2026/11/20/without-a-recession-this-is-a-correction-not-a-bear-market-says-ed-yardeni.html",
+    "fuente": "CNBC"
    }
   },
   "athletic - rcd espanyol": {
@@ -80659,6 +81270,104 @@
     "titulo": "Where Will VOO Be in 30 Years? Here's What History Says.",
     "url": "https://finance.yahoo.com/markets/stocks/articles/where-voo-30-years-heres-135000036.html",
     "fuente": "Yahoo Finance"
+   }
+  },
+  "google stock": {
+   "termino": "google stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeyrDeqfUYr8yNoGBK8zFyvjoglIKM6zWNJPhMB0Rv--6OixLYYVoZGOAXuuk",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+    "url": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+    "fuente": "CNBC"
+   }
+  },
+  "sandisk stock": {
+   "termino": "sandisk stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjhtammLIszKoKrLFjO5E78_jjyb3i9n0bamlZ4HnLZWYKsHxJWLdkiQvxVrk",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Sandisk stock begins trading at 8-for-1 split, shares sink",
+    "url": "https://finance.yahoo.com/markets/article/sandisk-shares-begin-trading-at-8-for-1-split-stock-sinks-as-chip-sector-sells-off-142041917.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "fibula": {
+   "termino": "fibula",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrMx6G4OCb1hS5CmydB25flZIyXDCh4GYvm_sa4MQSHUZ994SDcGuswB4S5eM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Patriots QB Drake Maye has fractured fibula, sources say",
+    "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+    "fuente": "ESPN"
+   }
+  },
+  "daniil medvedev": {
+   "termino": "daniil medvedev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
+   }
+  },
+  "vix": {
+   "termino": "vix",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq1ESR5fXEraX1hmJ93NxxWaYFi17ZY7A2XEaEc3LH2vhj_bSFZ2Vm3uUt2og",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Wall Street's fear gauge touches seven-month high as AI worries mount",
+    "url": "https://www.reuters.com/business/wall-streets-fear-gauge-touches-seven-month-high-ai-worries-mount-2026-11-20/",
+    "fuente": "Reuters"
+   }
+  },
+  "bayern": {
+   "termino": "bayern",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyO9mbwetvbLIT8h91TZ_1BEuTfo9AvvT8TLw402GGua5URyIb-SCmBYbTP1s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bundesliga: Köln erwischt den FC Bayern bei Kompanys Rückkehr kalt",
+    "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-den-fc-bayern-bei-kompanys-rueckkehr-kalt.html",
+    "fuente": "WELT"
+   }
+  },
+  "nasdaq": {
+   "termino": "nasdaq",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRshcZ9syJeEZqn26wB-iMj4jupbRMJYxOFX1xA2ZjKD0GRzRqqecbYzkzlMmY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "fuente": "CNBC"
    }
   }
  },
@@ -93334,10 +94043,10 @@
   "justin trudeau": {
    "termino": "justin trudeau",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKniJpNOEFMv0BnaD4VW66tlJtyEpJBqH08NFExaCHo0ixThed_pjdxoiP18I",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7HBXd0F_jCGHrrOwj2o8sfGkftRUjlu1jykXXQ1uPX-HuVThCG4t8qegVVg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Are Katy Perry and Justin Trudeau getting married? Rumours swirl as the couple look loved up in Paris — but there's a catch",
@@ -93441,6 +94150,90 @@
     "titulo": "Original Grand Theft Auto writer says GTA VI is ‘something close to a miracle’",
     "url": "https://www.cbc.ca/radio/asithappens/grand-theft-auto-evolution-9.7428823",
     "fuente": "CBC"
+   }
+  },
+  "tempête": {
+   "termino": "tempête",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX8Lt0tRtGnDBB7XM9rU3ewVRHM4vpBcNms6jGiHSqNRd8bXpRqSb6mP_a4HU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Une tempête détruit des milliers d'habitations au Brésil",
+    "url": "https://www.france24.com/fr/info-en-continu/20261120-une-temp%C3%AAte-d%C3%A9truit-des-milliers-d-habitations-au-br%C3%A9sil",
+    "fuente": "France 24"
+   }
+  },
+  "clay stevenson": {
+   "termino": "clay stevenson",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8HAAE4xDtwfmB-8l4xbTn6MMtsb1wTazh77QIK5WZRLZ86d49YN0ave68BhI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jets place G Clay Stevenson on waivers",
+    "url": "https://www.sportsnet.ca/nhl/article/jets-place-g-clay-stevenson-on-waivers/",
+    "fuente": "Sportsnet.ca"
+   }
+  },
+  "daniil medvedev": {
+   "termino": "daniil medvedev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
+   }
+  },
+  "why is the stock market crashing": {
+   "termino": "why is the stock market crashing",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf9-VWg7E0qXaMK9Jz1YB3cBo7hXg5C5yxq74QD0txVhYW21UjnclwoPQG7l0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "The stock market could be headed for more turbulence. How one investor is preparing",
+    "url": "https://www.cnbc.com/2026/11/19/the-stock-market-could-be-headed-for-more-turbulence-how-one-investor-is-preparing.html",
+    "fuente": "CNBC"
+   }
+  },
+  "athletic vs espanyol": {
+   "termino": "athletic vs espanyol",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsY6Msataq8LcWFCvZ8u9xfckMWBHTimBLi3-9ayo69QEt_EYeswlZfZ9urzw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Athletic vs Espanyol: horario y dónde ver hoy por TV gratis y online el partido de LaLiga 2026/27 a través de DAZN",
+    "url": "https://www.dazn.com/es-ES/news/futbol/athletic-vs-espanyol-horario-donde-ver-hoy-gratis-tv-online-partido-laliga-2026-2027/1l6k09dc7ifpm1sc6869ayd5n9",
+    "fuente": "DAZN"
+   }
+  },
+  "al-ahli saudi fc vs al-nassr standings": {
+   "termino": "al-ahli saudi fc vs al-nassr standings",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAp3LXCCJJOd9za44grUtm0uHvUt8xe7bkTbvrfNkoPu5Et__MGXQNqBDZ2g",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
+    "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-misses-penalty-al-nassr-falls-3rd-saudio-pro-league",
+    "fuente": "FOX Sports"
    }
   }
  },
@@ -95347,15 +96140,15 @@
   "btc": {
    "termino": "btc",
    "primera_vez": "2026-11-15T02:47:47Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwMfeqAEviEsow6wAKLfHpkNdQzalBYIxSLpFLrt8zIHAjLj-GxmpRDnig44U",
-   "ultima_vez": "2026-11-15T02:47:47Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszVKjR2ov3hRsb4VWgWjZAZ--j32c5s2wIshKyrL_1at1uQe6CBvbApIKCt4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html",
-    "fuente": "Yahoo Finance"
+    "titulo": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+    "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+    "fuente": "CNBC"
    }
   },
   "islanders vs ducks": {
@@ -103546,15 +104339,15 @@
   "qqq": {
    "termino": "qqq",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVu2StNsUqdEs3ibBcCCzpTSo4hXUhjL89LFO9BuXSlXQWkR2gLWnZG1ZFEeI",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO4t9QisifLAsjv6JvgjSuXEdDrHOPHZF7eZLHKLG28UQKAdJY5gzETk2pN_Q",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "fuente": "The Guardian"
+    "titulo": "Growth Engine vs. Shock Absorber: Inside QQQ’s Low-Volatility Sibling",
+    "url": "https://etfdb.com/innovative-etfs-content-hub/inside-qqq-low-volatility-sibling/",
+    "fuente": "ETF Database"
    }
   },
   "gasoline": {
@@ -103597,6 +104390,76 @@
     "titulo": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
     "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
     "fuente": "BBC"
+   }
+  },
+  "athletic vs espanyol": {
+   "termino": "athletic vs espanyol",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsY6Msataq8LcWFCvZ8u9xfckMWBHTimBLi3-9ayo69QEt_EYeswlZfZ9urzw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Athletic vs Espanyol: horario y dónde ver hoy por TV gratis y online el partido de LaLiga 2026/27 a través de DAZN",
+    "url": "https://www.dazn.com/es-ES/news/futbol/athletic-vs-espanyol-horario-donde-ver-hoy-gratis-tv-online-partido-laliga-2026-2027/1l6k09dc7ifpm1sc6869ayd5n9",
+    "fuente": "DAZN"
+   }
+  },
+  "bayern munich": {
+   "termino": "bayern munich",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlEHbgEC0lyB-nhlCGYFcpWlJqmbKYiOlUsEMQtzA3haOu6n-tLvaR2YjL6dQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cw99ex0kn0p4t",
+    "fuente": "BBC"
+   }
+  },
+  "qqq stock": {
+   "termino": "qqq stock",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJFSJbgDGIbCgOvFpvqN9COrX7sBJuuByzcTyidxKUHfUpGSXogQKFQDGQuWg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Anthropic shares fall a day after blockbuster IPO",
+    "url": "https://www.bbc.com/news/articles/c6808ym10vzgo",
+    "fuente": "BBC"
+   }
+  },
+  "al-ahli saudi fc vs al-nassr standings": {
+   "termino": "al-ahli saudi fc vs al-nassr standings",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAp3LXCCJJOd9za44grUtm0uHvUt8xe7bkTbvrfNkoPu5Et__MGXQNqBDZ2g",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
+    "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-misses-penalty-al-nassr-falls-3rd-saudio-pro-league",
+    "fuente": "FOX Sports"
+   }
+  },
+  "saudi pro league": {
+   "termino": "saudi pro league",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRch6o9ROEuzcbbaYb-PzQDLG9N-KTZQDmmyJSeP3tGVkHebyseRaAKzplQslY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Video: a flag and a rare award as Demiral wins his battle with Al-Nassr fans",
+    "url": "https://www.goal.com/en/news/video-a-flag-and-a-rare-award-as-demiral-wins-his-battle-with-al-nassr-fans/bltf47224a846f3f8b5",
+    "fuente": "Goal.com"
    }
   }
  },
@@ -110782,10 +111645,10 @@
   "daniel jones": {
    "termino": "daniel jones",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMixEMKG6u5bQfm2XfSvxKN8sX8LwT5CohXtE0htXqo4FhMLKURn749n8rC6I",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
@@ -110810,13 +111673,13 @@
   "nasdaq": {
    "termino": "nasdaq",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8fhlmVR1uUh4MLxCursthSt7k2Vk6MNCF3HK105IOaPa9PDUneWDv3x4wN8",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM3IYCykhWoxf9_BnjdPRyPFFkRDTZdukeMoOnoTgoiPKCd4ec5YbKia34nBA",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Nasdaq wipes out 2026 gains, S&P 500 falls into correction territory",
+    "titulo": "Nasdaq wipes out 2026 gains, Dow & S&P 500 fall into correction territory",
     "url": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534",
     "fuente": "CBC"
    }
@@ -110824,11 +111687,11 @@
   "justin trudeau": {
    "termino": "justin trudeau",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKniJpNOEFMv0BnaD4VW66tlJtyEpJBqH08NFExaCHo0ixThed_pjdxoiP18I",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7HBXd0F_jCGHrrOwj2o8sfGkftRUjlu1jykXXQ1uPX-HuVThCG4t8qegVVg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Are Katy Perry and Justin Trudeau getting married? Rumours swirl as the couple look loved up in Paris — but there's a catch",
     "url": "https://ca.style.yahoo.com/are-katy-perry-and-justin-trudeau-getting-married-rumours-swirl-as-the-couple-look-loved-up-in-paris--but-theres-a-catch-192243659.html",
@@ -110838,11 +111701,11 @@
   "bayern vs köln": {
    "termino": "bayern vs köln",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj6y_KV7KKzz8_vlQBEOq63mDZebd6_1cOVEkateAnvaH2T4va3SbFkMnXGzg",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Livestream: FC Bayern gegen Köln sehen",
     "url": "https://www.dazn.com/de-DE/news/fussball/livestream-fc-bayern-gegen-koeln-sehen-bundesliga/1hvwreihxuy0e10taug4c28xub",
@@ -110852,43 +111715,71 @@
   "noel thorpe": {
    "termino": "noel thorpe",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWhhFKdXYupZJZutHJM3vreFPXsSTdGf2FjA9fcdTwpvzCln-8HmwWlrjB5ik",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv_ldcjaPv2rMWEr09GIzW2xywvVhN7r9rv85TiQRfgfwA9oynD4n4WUiuL7E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Les Alouettes congédient leur coordonnateur défensif Noel Thorpe",
-    "url": "https://www.lapresse.ca/sports/football/2026-11-20/les-alouettes-congedient-leur-coordonnateur-defensif-noel-thorpe.php",
+    "titulo": "Les Alouettes | Le coordonnateur défensif Noel Thorpe congédié",
+    "url": "https://www.lapresse.ca/sports/football/2026-11-20/les-alouettes/le-coordonnateur-defensif-noel-thorpe-congedie.php",
     "fuente": "La Presse"
    }
   },
   "bayern – cologne": {
    "termino": "bayern – cologne",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxaYHwI62I8MDkP9KjJuNi-6micuAKPLgO7t1B5Ux_htOOe-2lVac3Kcm7uZI",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlEHbgEC0lyB-nhlCGYFcpWlJqmbKYiOlUsEMQtzA3haOu6n-tLvaR2YjL6dQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Bayern-Cologne: Kane leads the line, Olise starts on the right",
-    "url": "https://www.tufutbolero.com/en/news/bayern-cologne-kane-leads-the-line-olise-starts-on-the-right-1e8520",
-    "fuente": "Tu Futbolero"
+    "titulo": "Bayern Munich vs Köln LIVE: German Bundesliga stream, text, stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cw99ex0kn0p4t",
+    "fuente": "BBC"
    }
   },
   "al nassr": {
    "termino": "al nassr",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHbDb3D8gjjzjawGdwcb8oNosENtKVOSPIdF2Gdii19cFz3g4tJGi_Ydh4kHs",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAp3LXCCJJOd9za44grUtm0uHvUt8xe7bkTbvrfNkoPu5Et__MGXQNqBDZ2g",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Cristiano Ronaldo upstaged by England star as Al-Nassr beaten",
-    "url": "https://www.independent.co.uk/bulletin/sport/al-ahli-al-nassr-result-cristiano-ronaldo-ivan-toney-b3088954.html",
-    "fuente": "The Independent"
+    "titulo": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
+    "url": "https://www.foxsports.com/stories/soccer/cristiano-ronaldo-misses-penalty-al-nassr-falls-3rd-saudio-pro-league",
+    "fuente": "FOX Sports"
+   }
+  },
+  "ath. bilbao – espanyol": {
+   "termino": "ath. bilbao – espanyol",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsY6Msataq8LcWFCvZ8u9xfckMWBHTimBLi3-9ayo69QEt_EYeswlZfZ9urzw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Athletic vs Espanyol: horario y dónde ver hoy por TV gratis y online el partido de LaLiga 2026/27 a través de DAZN",
+    "url": "https://www.dazn.com/es-ES/news/futbol/athletic-vs-espanyol-horario-donde-ver-hoy-gratis-tv-online-partido-laliga-2026-2027/1l6k09dc7ifpm1sc6869ayd5n9",
+    "fuente": "DAZN"
+   }
+  },
+  "tempête": {
+   "termino": "tempête",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX8Lt0tRtGnDBB7XM9rU3ewVRHM4vpBcNms6jGiHSqNRd8bXpRqSb6mP_a4HU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Une tempête détruit des milliers d'habitations au Brésil",
+    "url": "https://www.france24.com/fr/info-en-continu/20261120-une-temp%C3%AAte-d%C3%A9truit-des-milliers-d-habitations-au-br%C3%A9sil",
+    "fuente": "France 24"
    }
   }
  },
@@ -115684,11 +116575,11 @@
   "justin herbert": {
    "termino": "justin herbert",
    "primera_vez": "2026-11-19T23:41:38Z",
-   "veces": 2,
-   "max_trafico": 200,
+   "veces": 3,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE9zT1rv304zA2zJpwHVQndfzPLca6gQD-dYIP7hPOFypRvrIoJA8jBipyJWI",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "LAPD swarms home of singer Madison Beer and her fiancé Justin Herbert",
     "url": "https://abc7.com/post/lapd-swarms-hollywood-hills-home-singer-madison-beer-fiance-la-chargers-qb-justin-herbert/20054082/",
@@ -116314,10 +117205,10 @@
   "daniel jones": {
    "termino": "daniel jones",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMixEMKG6u5bQfm2XfSvxKN8sX8LwT5CohXtE0htXqo4FhMLKURn749n8rC6I",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
@@ -116328,24 +117219,24 @@
   "nasdaq": {
    "termino": "nasdaq",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRshcZ9syJeEZqn26wB-iMj4jupbRMJYxOFX1xA2ZjKD0GRzRqqecbYzkzlMmY",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM3IYCykhWoxf9_BnjdPRyPFFkRDTZdukeMoOnoTgoiPKCd4ec5YbKia34nBA",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
-    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-    "fuente": "CNBC"
+    "titulo": "Nasdaq wipes out 2026 gains, Dow & S&P 500 fall into correction territory",
+    "url": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534",
+    "fuente": "CBC"
    }
   },
   "al-ahli vs al-nassr": {
    "termino": "al-ahli vs al-nassr",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbpmvZidL3JjqdfJuPtlzXmp6-kitug8MwU3nTcvbpGGyMSW1mACSuVqeb0E",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Licensable picture: Saudi Pro League - Al Ahli v Al Nassr",
@@ -116370,11 +117261,11 @@
   "pancreatic cancer pill": {
    "termino": "pancreatic cancer pill",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnFaF3gX9Q2l_afldwZY5pfMXzd17AlCwsErudbubj1BsGj6ZR4aUdWhiiFiA",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
     "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
@@ -116384,10 +117275,10 @@
   "peter milobar": {
    "termino": "peter milobar",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8MhPaE5Sg7iOxtxyLpgSqEee4BruHIfnxbhoAiQ8zUxiSU1Gb46mSJLPQwSk",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Lorne Doerkson becomes B.C.’s 38th premier, cabinet positions announced",
@@ -116398,11 +117289,11 @@
   "bayern vs köln": {
    "termino": "bayern vs köln",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj6y_KV7KKzz8_vlQBEOq63mDZebd6_1cOVEkateAnvaH2T4va3SbFkMnXGzg",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Livestream: FC Bayern gegen Köln sehen",
     "url": "https://www.dazn.com/de-DE/news/fussball/livestream-fc-bayern-gegen-koeln-sehen-bundesliga/1hvwreihxuy0e10taug4c28xub",
@@ -116412,15 +117303,29 @@
   "bo derek": {
    "termino": "bo derek",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZUoJhpRszhHD8nGey11iub0f1cDq5Dsz4dJlHTDoDErNqp3rmlwjgcAl7TnQ",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Bo Derek Is 70! Here’s the Sweet Way She and John Corbett Celebrate Her Birthdays (Exclusive)",
     "url": "https://people.com/bo-derek-shares-sweet-idea-husband-john-corbett-had-for-her-birthday-exclusive-12240640",
     "fuente": "People.com"
+   }
+  },
+  "vix": {
+   "termino": "vix",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "MKTS; VIX OSCILLATES ABOVE AND BELOW 30 AS US STOCKS REVERT TO LOSSES AFTER EARLIER BOUNCE; NASDAQ NOW NEGATIVE FOR THE YEAR",
+    "url": "https://www.tradingview.com/news/macenews:31de94c8d094b:0-mkts-vix-oscillates-above-and-below-30-as-us-stocks-revert-to-losses-after-earlier-bounce-nasdaq-now-negative-for-the-year/",
+    "fuente": "TradingView"
    }
   }
  },
@@ -123695,11 +124600,11 @@
   "posiciones de al-ahli saudi contra al-nassr": {
    "termino": "posiciones de al-ahli saudi contra al-nassr",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 2000,
+   "veces": 2,
+   "max_trafico": 10000,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg9skvf_c1_87bOncqUvdkwmpARkXUKn8sdEzwo88DiolhYNfS-66sTdCUwPU",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "2000+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "10000+",
    "noticia": {
     "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
     "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
@@ -123709,29 +124614,29 @@
   "troyes - le havre": {
    "termino": "troyes - le havre",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1XnMgW8pXkVNXFHR7uuKA_KFIkfZv-QWDqPmoa3wBcTcqM5jpTU8XgeDkxPY",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ivddFDEnycoF3J32yCPekYWSNY0oEvzhwQxUp2HrgMlF8ODq4-CHFw0c0DI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Joueur de Bundesliga puis entraîneur grand voyageur, Valérien Ismaël s'apprête à diriger son premier match sur le banc d'un club français avec Le Havre à 51 ans",
-    "url": "https://www.lequipe.fr/Football/Article/Joueur-de-bundesliga-puis-entraineur-grand-voyageur-valerien-ismael-s-apprete-a-diriger-son-premier-match-sur-le-banc-d-un-club-francais-avec-le-havre-a-51-ans/1744724",
-    "fuente": "L'Équipe"
+    "titulo": "DIRECT. Troyes-Le Havre: Mille remet les compteurs à zéro, le duel du bas de tableau s'enflamme",
+    "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-troyes-le-havre-suivez-le-match-d-ouverture-de-la-11e-journee-de-ligue-1_LS-202611200719.html",
+    "fuente": "RMC Sport"
    }
   },
   "magdeburg fc": {
    "termino": "magdeburg fc",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1PdmQpMk5gREdn_ZMHzTo6TqMnckYdty26AYK61A8P3GVCOevCqF5fefP34U",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtgBJf-H9-ZepDtz2W90u3DdZxmsmXSn5W60VBau3uPIr882i8JD91tAQyQL8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Confirmed 2. Bundesliga Lineups: Arminia Bielefeld vs. 1. FC Magdeburg",
-    "url": "https://onefootball.com/en/news/confirmed-2-bundesliga-lineups-arminia-bielefeld-vs-1-fc-magdeburg-43808333",
-    "fuente": "OneFootball"
+    "titulo": "Arminia Bielefeld v Magdeburg (20/11/2026)",
+    "url": "https://www.flashscore.co.za/match/soccer/arminia-bielefeld-pp38UXK8/magdeburg-YFuz2RLm/standings/standings/overall/?mid=dCvCMTz8",
+    "fuente": "Flashscore.co.za"
    }
   },
   "athletic - rcd espanyol": {
@@ -123830,6 +124735,76 @@
     "titulo": "LASK vs Bodø/Glimt Prediction for Nov. 24, 2026",
     "url": "https://ats.io/matchup/champions-league/lask-vs-bod-glimt-prediction-24-11-2026/",
     "fuente": "ATS.io"
+   }
+  },
+  "porto - usc paredes": {
+   "termino": "porto - usc paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShZdTz6Y6RZmVU5Ekk7OkoBtc49jgpRNzELZjMGTLfkyIIbZPgSjMA7sovryM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "POLÉMICA NA TAÇA: PAREDES INDIGNADO COM O FC PORTO",
+    "url": "https://24horas.pt/noticia/polemica-na-taca-paredes-indignado-com-o-fc-porto",
+    "fuente": "24Horas.pt"
+   }
+  },
+  "bundesliga": {
+   "termino": "bundesliga",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvF2zA6qtSXux69d5l_w_I6Dr9W3PwUi4FOOGA5Y5hPZMwvIzUcR0Df_dmyeQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Ultras des 1. FC Köln fehlen gegen den FC Bayern in der Allianz Arena",
+    "url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/ultras-des-1-fc-koeln-fehlen-gegen-den-fc-bayern-in-der-allianz-arena",
+    "fuente": "SPORT1"
+   }
+  },
+  "athletic bilbao vs": {
+   "termino": "athletic bilbao vs",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQzmBVGJ2A2kEmyLkLgTJMD5aFPGfsKuxl2knIvU_WxQikfu4X1e4dp5tf7Y",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Preview: Athletic Bilbao vs Espanyol - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/athletic-bilbao/preview/athletic-bilbao-vs-espanyol-prediction-team-news-lineups_609275.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "bayer": {
+   "termino": "bayer",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5eO2z0Q2qR4I1G-0uFnvMAfwsdYkXzkO3db3eDsxwWBpShNaPeBkGtlEdD4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bayer Aktie: KI-Ausverkauf drückt Kurs ins Minus",
+    "url": "https://www.boerse-express.com/news/articles/bayer-aktie-ki-ausverkauf-drueckt-kurs-ins-minus-965120",
+    "fuente": "Börse Express"
+   }
+  },
+  "posiciones de independiente del valle contra macará": {
+   "termino": "posiciones de independiente del valle contra macará",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPoOJ-VfdAleP_25zJ071pWbTSEgiUJl0yGZv8i8weFv-1dnyctt5KsSayv4E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Joaquín Papa celebra el título de IDV, confirmando que se queda al frente del proyecto en 2027",
+    "url": "https://onefootball.com/es/noticias/joaquin-papa-celebra-el-titulo-de-idv-confirmando-que-se-queda-al-frente-del-proyecto-en-2027-43809538",
+    "fuente": "OneFootball"
    }
   }
  },
@@ -125922,15 +126897,15 @@
   "colo colo femenino": {
    "termino": "colo colo femenino",
    "primera_vez": "2026-11-15T18:40:27Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlrCSGLtOANppRmgahuYKReBf83lXAhJU_H-zZYOETbUWlOtFY3hwJD-XtAY",
-   "ultima_vez": "2026-11-15T18:40:27Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwbIkKUXRG9YmQUgILf1_GI1-hB1pxVCZ1J-K6jYDOpoa1dO61-SkSc1mtnTQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "¿Dónde ver la semifinal de Colo Colo femenino? Somos Chile transmitirá en vivo desde el Monumental",
-    "url": "https://www.somoschile.cl/donde-ver-colo-colo-femenino-coquimbo-semifinal-somos-chile-youtube/",
-    "fuente": "Somos Chile"
+    "titulo": "Se viene la gran final inédita del fútbol femenino entre Colo Colo y la UC: Cómo llegan, a qué hora es este viernes y el \"hito\" que se dará",
+    "url": "https://www.emol.com/noticias/Deportes/2026/11/19/1217555/final-futbolfemenino-colocolouc.html",
+    "fuente": "Emol"
    }
   },
   "76ers - pacers": {
@@ -131291,6 +132266,118 @@
     "url": "https://www.espn.cl/futbol/nota/_/id/17538562/cristiano-ronaldo-video-gol-al-nassr-vs-al-ahli-record-cerca-1000",
     "fuente": "ESPN Chile"
    }
+  },
+  "cobresal - audax italiano": {
+   "termino": "cobresal - audax italiano",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhFzUaZMT9nOcLRLOVtJld7-F-y4tbqLRejkmBPtZI9iQVU6kE-RUk5m4ogdo",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Partidos del fútbol chileno hoy 20 de noviembre: ¿qué duelos se juegan y dónde ver en vivo, por TV y online?",
+    "url": "https://www.adnradio.cl/2026/11/20/partidos-del-futbol-chileno-hoy-20-de-noviembre-que-duelos-se-juegan-y-donde-ver-en-vivo-por-tv-y-online/",
+    "fuente": "ADN Radio"
+   }
+  },
+  "recoleta - santiago wanderers": {
+   "termino": "recoleta - santiago wanderers",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_3TBCUsBUmNTBlXYgGyeO6TQSTf1uNHm3WaTWTwVZcuFps1YjrXg0OuGogHo",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Recoleta y Santiago Wanderers dan inicio a la Liguilla con el sueño de llegar a Primera",
+    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/recoleta-y-santiago-wanderers-dan-inicio-a-la-liguilla-con-el-sueno-de/2026-11-19/165617.html",
+    "fuente": "Cooperativa"
+   }
+  },
+  "medvedev": {
+   "termino": "medvedev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6n_pHbKO6p20hl4DKd8rzmGGPrLyS92vNKGcodZHDoJm6BBSJ8zCKe__jzVs",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Daniil Medvedev picks the player with the best serve at this year’s ATP Finals",
+    "url": "https://sports.yahoo.com/articles/daniil-medvedev-picks-player-best-020000613.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "bundesliga": {
+   "termino": "bundesliga",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5eSsLmqvhRSuU15iZqciIbnLfKtI4UcpdQxF-6eSo8GmVfF-RVMRjeFXUK1U",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liveticker | Bayern München - 1. FC Köln : | 10. Spieltag | Bundesliga 2026/27",
+    "url": "https://www.kicker.at/bayern-gegen-koeln-2026-bundesliga-5226890/ticker",
+    "fuente": "kicker"
+   }
+  },
+  "sanae takaichi": {
+   "termino": "sanae takaichi",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbiBV3909sMlk1aoJfjwhjJq_reGa4uREaSqVzHN74ltP49hZnx5Q4HTHn5RY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Declaración conjunta: Kast agradece a Takaichi apoyo de Japón a Chile en carrera por sede de BBNJ",
+    "url": "https://www.emol.com/noticias/Nacional/2026/11/20/1217653/declaracion-conjunta-kast-takaichi-bbnj.html",
+    "fuente": "Emol"
+   }
+  },
+  "daniil medvédev": {
+   "termino": "daniil medvédev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hRbarzbPo7auq_bonGDyt70US8Ed6enVt_uEusQ5Z3-zo7HthxGJNqyaQj8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "La hilarante frase de Daniil Medvedev: “Pasé toda mi infancia deseando que perdiera Federer”",
+    "url": "https://redgol.cl/tenis/la-hilarante-frase-de-daniil-medvedev-pase-toda-mi-infancia-deseando-que-perdiera-federer",
+    "fuente": "RedGol"
+   }
+  },
+  "bayern": {
+   "termino": "bayern",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGGy7C0b7JhCzqyAnw__yGZwcD_VtOAFMRO6ZbZCOFFBq99celABPQysVBSwg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Harry Kane verletzt raus: Schock für den FC Bayern vor Lille",
+    "url": "https://www.tufutbolero.com/de/nachrichten/harry-kane-verletzt-raus-schock-fur-den-fc-bayern-vor-lille-06a41a",
+    "fuente": "Tu Futbolero"
+   }
+  },
+  "bayern vs": {
+   "termino": "bayern vs",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjOo-7uSeSW3EhiZMhlNKQ6rygxmnJm98bY7lobbJSUTaw7nzZH7X_5wCQwSw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Preview: FC Bayern vs. 1. FC Köln, Bundesliga",
+    "url": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+    "fuente": "FC Bayern"
+   }
   }
  },
  "AR": {
@@ -134660,15 +135747,15 @@
   "pronostico mar del plata": {
    "termino": "pronostico mar del plata",
    "primera_vez": "2026-11-16T10:37:05Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeLnwUQSqjnpytn1hxbUVNIxj6UYMCYK_TtI-cbtjVzxcuYR27t94KlmXF-yk",
-   "ultima_vez": "2026-11-17T10:57:43Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy3gh9_OBX_ntOltA066dd3N3ZScCjN-2DfQIAZccrOGUAdhIHcfqniLvunQc",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Clima hoy en Mar del Plata, Buenos Aires: el pronóstico del tiempo para este martes 17 noviembre de 2026",
-    "url": "https://www.clarin.com/informacion-general/clima-hoy-mar-plata-buenos-aires-pronostico-tiempo-martes-17-noviembre-2026_0_RSiSaQ5gtX.html",
-    "fuente": "Clarin.com"
+    "titulo": "Cómo estará el clima este viernes en Mar del Plata",
+    "url": "https://www.lacapitalmdp.com/como-estara-el-clima-este-viernes-en-mar-del-plata-211/",
+    "fuente": "Diario La Capital de Mar del Plata"
    }
   },
   "vulcan": {
@@ -135262,14 +136349,14 @@
   "medvedev": {
    "termino": "medvedev",
    "primera_vez": "2026-11-16T21:45:07Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpiDscv2ZCVgAtlZqGZPNvTjf7rJnDESR78XMTUi35pkD1zhIpQtHyjCh3xos",
-   "ultima_vez": "2026-11-16T22:44:16Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2XcEVTQbW4kgqOtF_BNaAbHJ-FN8zms-x7f-PSzGE2RaQ8W_URH_PKiqJI9Q",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "VIDEO: resumen de Medvedev vs. Cobolli en las ATP Finals 2026",
-    "url": "https://www.espn.com.ar/tenis/nota/_/id/17523704/video-resumen-de-medvedev-vs-cobolli-en-las-atp-finals-2026",
+    "titulo": "Daniil Medvedev vs. Frances Tiafoe: a qué hora juegan y dónde ver en vivo las ATP Finals 2026",
+    "url": "https://www.espn.com.ar/tenis/nota/_/id/17534194/daniil-medvedev-vs-frances-tiafoe-a-que-hora-juegan-y-donde-ver-en-vivo-las-atp-finals-2026-resultado",
     "fuente": "ESPN Argentina"
    }
   },
@@ -135990,14 +137077,14 @@
   "clima mar del plata": {
    "termino": "clima mar del plata",
    "primera_vez": "2026-11-17T09:58:05Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeLnwUQSqjnpytn1hxbUVNIxj6UYMCYK_TtI-cbtjVzxcuYR27t94KlmXF-yk",
-   "ultima_vez": "2026-11-17T09:58:05Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw6294la7dS-gvD9rAWUCMj-y9FFXqwX-N9IikPbUQCRE3sYC44TI8IvLpoy8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Clima hoy en Mar del Plata, Buenos Aires: el pronóstico del tiempo para este martes 17 noviembre de 2026",
-    "url": "https://www.clarin.com/informacion-general/clima-hoy-mar-plata-buenos-aires-pronostico-tiempo-martes-17-noviembre-2026_0_RSiSaQ5gtX.html",
+    "titulo": "Clima hoy en Mar del Plata, Buenos Aires: el pronóstico del tiempo para este viernes 20 noviembre de 2026",
+    "url": "https://www.clarin.com/informacion-general/clima-hoy-mar-plata-buenos-aires-pronostico-tiempo-viernes-20-noviembre-2026_0_BGInwYTZEy.html",
     "fuente": "Clarin.com"
    }
   },
@@ -138257,15 +139344,15 @@
   "frances tiafoe": {
    "termino": "frances tiafoe",
    "primera_vez": "2026-11-18T20:51:00Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8S32mDs8u3BpEWFnD75oE4HlxFqZKQQQ5_ll95-AiWAjGe6-3I75BnzrcSKw",
-   "ultima_vez": "2026-11-18T20:51:00Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSULHriKq5bMDZQNfMn4G4jL1o-DbM37R9mpomdiWHmbO3lPkcpPMiuwHshza4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Ben Shelton’s ATP Finals and the marginal gains of turning an entertainer into a player - The Athletic",
-    "url": "https://www.nytimes.com/athletic/7787307/2026/11/17/ben-shelton-tennis-strength-weakness-atp-finals/",
-    "fuente": "The New York Times"
+    "titulo": "The risk that Alcaraz is exposed to",
+    "url": "https://www.puntodebreak.com/en/2026/11/19/the-risk-that-alcaraz-is-exposed-to",
+    "fuente": "Punto de Break"
    }
   },
   "flavio cobolli": {
@@ -140631,6 +141718,57 @@
     "url": "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
     "fuente": "FC Bayern"
    }
+  },
+  "wall street": {
+   "termino": "wall street",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmzNsPNV22O2j07C2UrhCsD-zZCw4TzytyoXl0aTc1HSqu_QKE0IlKgSnu8wU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Supply Chain Stocks Sink Amid Wall Street Sell-Off, Though Air Freight Shows Resilience",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/supply-chain-stocks-sink-amid-183457945.html",
+    "fuente": "Yahoo Finance"
+   }
+  },
+  "bundesliga": {
+   "termino": "bundesliga",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSy7YT132UDdonErJbY-DKXmkBVx8uGo7qbBrkoyUgOjQaDFwCYfHtqQaaZjg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Hier läuft FC Bayern vs. Köln jetzt live in TV und Stream",
+    "url": "https://www.sport.de/news/ne17334999/hier-laeuft-fc-bayern-vs-1-fc-koeln-jetzt-live-in-tv-und-stream/",
+    "fuente": "sport.de"
+   }
+  },
+  "club atlético newell's old boys": {
+   "termino": "club atlético newell's old boys",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx6iWs6aDDeNOmbRsxwugJW-mQtwd_qU8OaThcxHtz_4DeqljrP-n988RnSc4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Avanzan las obras del nuevo microestadio",
+    "url": "https://www.newellsoldboys.com.ar/noticias/avanzan-las-obras-del-nuevo-microestadio",
+    "fuente": "Newell's Old Boys | Sitio Oficial"
+   }
+  },
+  "daniil medvédev": {
+   "termino": "daniil medvédev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+"
   }
  },
  "ES": {
@@ -150886,15 +152024,15 @@
   "peio etxeberria": {
    "termino": "peio etxeberria",
    "primera_vez": "2026-11-19T14:23:13Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj1r30iW7omBCly4ArnhxC0j6xexjsVR6jPcpSH3h6EkKB7utFKCckQUcQLyI",
-   "ultima_vez": "2026-11-19T14:23:13Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWESzWXm3r_lmw3aLkBvLCf4i7w_mB4hSZyQK3IXNjRa3QQNqtcAjc0Ukh4FQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Peio Etxeberria hace saltar las alarmas a tres días de la final: «Veo borroso»",
-    "url": "https://www.diariovasco.com/deportes/pelota/cuatro-y-medio/peio-exteberria-saltar-alarmas-bizkaia-20261119121006-nt.html",
-    "fuente": "El Diario Vasco"
+    "titulo": "Peio Etxeberria jugará la final del Cuatro y Medio",
+    "url": "https://kirolakeitb.eus/es/pelota/pelota-mano/cuatro-y-medio/2026/11/20/peio-etxeberria-jugara-la-final-del-cuatro-medio/",
+    "fuente": "kirolakeitb.eus"
    }
   },
   "magdalena pérez-castejón": {
@@ -152972,6 +154110,132 @@
     "url": "https://elpais.com/smoda/2026-11-20/la-alfombra-roja-de-los40-music-awards-santander.html",
     "fuente": "EL PAÍS"
    }
+  },
+  "porto - usc paredes": {
+   "termino": "porto - usc paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfG-X4PoWmL5Skdio4oc9JFZLc4DQ8Oz67AlYB9qnZHrLsb3FMm4nfplmE5Ms",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cláudio Ramos e mais dez: o onze provável do FC Porto para o Paredes",
+    "url": "https://www.abola.pt/noticias/claudio-ramos-e-mais-dez-o-onze-provavel-do-fc-porto-para-o-paredes-2026111918140012358",
+    "fuente": "A Bola"
+   }
+  },
+  "partizan - beşiktaş": {
+   "termino": "partizan - beşiktaş",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSltIAECJwsYs8Cd2ll-gHsmkKdgcLdPgWq8hCDEBgjFeYZP3rFB7avrRxK580",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Dusan Alimpijevic: Beşiktaş bugün Real Madrid'i yendi",
+    "url": "https://www.cnnturk.com/spor/basketbol/dusan-alimpijevic-besiktas-bugun-real-madridi-yendi-3495129",
+    "fuente": "CNN Türk"
+   }
+  },
+  "brahim díaz": {
+   "termino": "brahim díaz",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmv2w2mEzK2z8FNznl9QNgxtrEzJUVFmMLDOZNt8zmEeqbQRaVop690ua1T8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Brahim 2031: pactada hace un año, anunciada en breve... y tras rechazar ofertas millonarias",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/20/brahim-2031-pactada-ano-anunciada-breve-rechazar-ofertas-millonarias.html",
+    "fuente": "MARCA"
+   }
+  },
+  "hernandez de cos": {
+   "termino": "hernandez de cos",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpxm75gXwSNErihweHA9VY1yY4EZ8SzgWNyysIp5udMGNpkWzLIQNDJ0Stkb8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "El acuerdo francoalemán para la dirección del BCE coloca a Hernández de Cos a un paso de la presidencia",
+    "url": "https://elpais.com/economia/2026-11-20/hernandez-de-cos-roza-la-presidencia-del-bce-tras-conocerse-los-candidatos-de-francia-y-alemania-a-la-direccion.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "selección de fútbol sub-17 de españa": {
+   "termino": "selección de fútbol sub-17 de españa",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUCoW33W9lHYAJyaMQeYsabLp5O8xQwPcdM7IN2xEVwMxAPd6NK4A8u6KR-Y",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "España Sub-17 5 - 0 China Sub-17: resumen, goles y resultado.",
+    "url": "https://as.com/futbol/seleccion/espana-sub-17-china-sub-17-en-directo-mundial-sub-17-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "aleksandre topuria": {
+   "termino": "aleksandre topuria",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWnyHMZg4UJUaFrm-SbNNhjbBN9Sym3EvowllEposfDv3YNUwuI2ZIRg0pzKs",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Así ha sido el cara a cara entre Aleksandre Topuria y Luna en el UFC Qatar bajo la atenta mirada de Ilia",
+    "url": "https://www.marca.com/combates-ufc/2026/11/20/asi-sido-cara-cara-aleksandre-topuria-luna-ufc-qatar-atenta-mirada-ilia.html",
+    "fuente": "MARCA"
+   }
+  },
+  "baloncesto": {
+   "termino": "baloncesto",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqucAh5o1K3PigFxXjMked_CZ8AytoZi9Orn-51A8M9kFqTtM0UvqbscBT8_M",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Barcelona - Estrella Roja en directo | Última hora de Euroliga en vivo hoy",
+    "url": "https://www.marca.com/baloncesto/euroliga/barcelona-estrella-roja/2026/11/20/02_0203_20261120_6216_7800-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "alberto puig": {
+   "termino": "alberto puig",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4CqXC8t1HAzuOjslOelsmowHK0DC_8g1loI46_UdZ6NUYN26bgXER7rnDH-E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Honda se rinde a Márquez a las puertas de su décimo Mundial: \"Es la persona más humilde...\"",
+    "url": "https://www.lasexta.com/noticias/deportes/motor/honda-rinde-marquez-puertas-decimo-mundial-persona-mas-humilde_202611206b0053c8c0d5c85b96c334bb.html",
+    "fuente": "LaSexta"
+   }
+  },
+  "la ley de las bestias": {
+   "termino": "la ley de las bestias",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDzSX51uViVchyX71rbnSds2VahSgck7zIUvwmaWUKHes6TFJ58VzVlcMS7QA",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Críticas profesionales de La ley de las bestias (Serie de TV) 2026",
+    "url": "https://m.filmaffinity.com/es/moviereviews.php?id=217667",
+    "fuente": "Filmaffinity"
+   }
   }
  },
  "ES/madrid": {
@@ -155026,15 +156290,15 @@
   "weather tomorrow": {
    "termino": "weather tomorrow",
    "primera_vez": "2026-11-15T20:36:17Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8baZ9WbR-c81i3YXkeGhS5aKR3SX_6zXgHzn6fqijg3FK8SgHbOPu1pHovjM",
-   "ultima_vez": "2026-11-17T20:50:56Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpB3qGJxILXxkdo4gz0gzUIJ0NBN7TyUJ-uCjdrDvcINN8s0y-h1nwVW0SE2Y",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Weather Forecast for Wednesday, November 18, 2026: BMKG Issues Heavy Rain Alert for 19 Provinces",
-    "url": "https://aktualita.co/en/weather-disaster/weather-forecast-for-wednesday-november-18-2026-bmkg-issues-heavy-rain-alert-for-19-provinces",
-    "fuente": "Aktualita.co"
+    "titulo": "Maui Weather Forecast for November 20, 2026",
+    "url": "https://mauinow.com/2026/11/20/maui-weather-forecast-for-november-20-2026/",
+    "fuente": "Maui Now"
    }
   },
   "marc pubill": {
@@ -156015,15 +157279,15 @@
   "daniil medvédev": {
    "termino": "daniil medvédev",
    "primera_vez": "2026-11-16T20:46:38Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpE0Wcaq-29LqkJV_bFCaP4IbY_ILJk46tiZLF5RNNUkFpTc9__RNndQ8Uh7A",
-   "ultima_vez": "2026-11-16T21:45:07Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Licensable picture: Tennis 2026: Nitto ATP Finals: Medvedev Cobolli",
-    "url": "https://www.reutersconnect.com/item/tennis-2026-nitto-atp-finals-medvedev-cobolli/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYU1hIRE4",
-    "fuente": "Reuters Connect"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "suiza - escocia": {
@@ -160027,56 +161291,112 @@
   "antonio de la rúa": {
    "termino": "antonio de la rúa",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb45a5OpO-WPqUe3P6DZOx0vmLLEKg0RXqQsw_83FKRA2pIwY3x2O2r3sMCxk",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZXdppP6nrE93gJUzOn0N5TME3g833P1M4qqTV433gP8VDOH7qkydy6jnAQZw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Shakira y Antonio de la Rúa no han vuelto: su entorno aclara la verdad de su relación 16 años después de su ruptura",
-    "url": "https://www.hola.com/actualidad/20261120936302/shakira-y-antonio-de-la-rua-no-han-vuelto/",
-    "fuente": "HOLA"
+    "titulo": "¿Shakira y Antonio de la Rúa, juntos de nuevo?",
+    "url": "https://www.lavanguardia.com/gente/20261120/11689352/shakira-antonio-rua-nuevo.html",
+    "fuente": "La Vanguardia"
    }
   },
   "athletic - rcd espanyol": {
    "termino": "athletic - rcd espanyol",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHJftuqdWKMI6XMDTFpNV4BjTeFeC3lyLaJuIbhx00lGBuW2x_Ja7JvfWkBg",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBSyy0Q-Nx6HV3xa_Wex--MWB2VLKMrKvIHY4NexgCdJZWWIW8PBdGq0MskEg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "2000+",
    "noticia": {
-    "titulo": "Un nuevo San Mamés y otro Sarabia en el césped",
-    "url": "https://as.com/futbol/un-nuevo-san-mames-y-otro-sarabia-en-el-cesped-f202611-n/",
+    "titulo": "Athletic - Espanyol en directo: LaLiga EA Sports hoy, en vivo",
+    "url": "https://as.com/futbol/primera/athletic-espanyol-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
     "fuente": "Diario AS"
    }
   },
   "los 40 music awards 2026": {
    "termino": "los 40 music awards 2026",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREuzdKoSn8ol5SMqRDijDB-Kh5lqD2dJ7VZ5qDTPhgo8Pi5dVpjdNbdAdrkYM",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTmfnc8bjJQW2sm8gPR6MJvjWAkZndv4fjNl4FIF8taMgL0UM-7jEHJRKvO3A",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Rosalía, con un gran pájaro blanco en la cabeza: la alfombra roja de LOS40 Music Awards Santander",
-    "url": "https://elpais.com/smoda/2026-11-20/la-alfombra-roja-de-los40-music-awards-santander.html",
-    "fuente": "EL PAÍS"
+    "titulo": "Sigue en directo la alfombra roja de Los 40 Music Awards Santander 2026 este viernes a partir de las 18:00 horas",
+    "url": "https://cadenaser.com/nacional/2026/11/20/sigue-en-directo-la-alfombra-roja-de-los-40-music-awards-santander-2026-este-viernes-a-partir-de-las-1800-horas-cadena-ser/",
+    "fuente": "Cadena SER"
    }
   },
   "fc andorra - leganés": {
    "termino": "fc andorra - leganés",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagIs9SaeC_BGWhku2WwEnEyCQLRODS7OkVjb-DvA_oomKxDy4pz7zsXx7iWM",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pAHjyYiTPuzfu790uKUgvSygRsEoC_UpTw-Ua_T2qwTMc1A-_aYfz5PKbxw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "FC Andorra - Leganés en directo",
-    "url": "https://www.elmundo.es/deportes/futbol/laliga-hypermotion/fc-andorra-leganes/2026/11/20/01_0102_20261120_16310_957-directo.html",
+    "titulo": "Andorra - Leganés en directo | Última hora de LALIGA Hypermotion en vivo hoy",
+    "url": "https://www.marca.com/futbol/laliga-hypermotion/fc-andorra-leganes/2026/11/20/01_0102_20261120_16310_957-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "andreas christensen": {
+   "termino": "andreas christensen",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqSkFFZSpmTKlXNYp4GhsJKeymiYf34N5hT81Cv0GTtQ_uI3_lgjBLf1g3ceU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Christensen, con molestias, es seria duda para el partido contra el Villarreal",
+    "url": "https://www.lavanguardia.com/deportes/futbol/20261120/11689305/christensen-molestias-seria-duda-partido-villarreal-lesiones-barca.html",
+    "fuente": "La Vanguardia"
+   }
+  },
+  "posiciones de al-ahli saudi contra al-nassr": {
+   "termino": "posiciones de al-ahli saudi contra al-nassr",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg9skvf_c1_87bOncqUvdkwmpARkXUKn8sdEzwo88DiolhYNfS-66sTdCUwPU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
+    "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "nasdaq 100": {
+   "termino": "nasdaq 100",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROaHpUdo5Ayi2J4Pyw9aJUKTSeFin8sBJDCQSEO7Q1_rVTHHrkaWIJyTmT_z0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "fuente": "The Verge"
+   }
+  },
+  "huevo": {
+   "termino": "huevo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpr4kNVpDBUulPc7DG9PbHmkd0yyl12ebFQqJ4D7sNsYFOo8qRewr6HIwJsXs",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Consumo activa una alerta por huevos con posible salmonella distribuidos en ocho autonomías",
+    "url": "https://www.elmundo.es/salud/2026/11/20/6b007c53fc6c83ae3e8b4572.html",
     "fuente": "El Mundo"
    }
   }
@@ -163187,15 +164507,15 @@
   "daniil medvédev": {
    "termino": "daniil medvédev",
    "primera_vez": "2026-11-16T21:45:07Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpE0Wcaq-29LqkJV_bFCaP4IbY_ILJk46tiZLF5RNNUkFpTc9__RNndQ8Uh7A",
-   "ultima_vez": "2026-11-16T21:45:07Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Licensable picture: Tennis 2026: Nitto ATP Finals: Medvedev Cobolli",
-    "url": "https://www.reutersconnect.com/item/tennis-2026-nitto-atp-finals-medvedev-cobolli/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYU1hIRE4",
-    "fuente": "Reuters Connect"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "franganillo": {
@@ -166499,15 +167819,15 @@
   "bayern - colonia": {
    "termino": "bayern - colonia",
    "primera_vez": "2026-11-20T18:55:30Z",
-   "veces": 2,
-   "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagIs9SaeC_BGWhku2WwEnEyCQLRODS7OkVjb-DvA_oomKxDy4pz7zsXx7iWM",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "1000+",
+   "veces": 3,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7X_YZY9bICCMdOUeLb3bFsdONaVd6KdCtV-XU9P6e5H36tffXuhO1wmKjld8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
    "noticia": {
-    "titulo": "Bayern Múnich - 1. FC Köln en directo",
-    "url": "https://www.elmundo.es/deportes/futbol/bundesliga/bayern-munich-1-fc-koln/2026/11/20/01_0108_20261120_156_387-directo.html",
-    "fuente": "El Mundo"
+    "titulo": "Bayern - Colonia, en directo: Bundesliga, hoy en vivo",
+    "url": "https://as.com/futbol/internacional/bayern-colonia-en-directo-bundesliga-hoy-en-vivo-f202611-n/",
+    "fuente": "Diario AS"
    }
   },
   "antonio de la rúa": {
@@ -166583,11 +167903,11 @@
   "andreas christensen": {
    "termino": "andreas christensen",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqSkFFZSpmTKlXNYp4GhsJKeymiYf34N5hT81Cv0GTtQ_uI3_lgjBLf1g3ceU",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Christensen, con molestias, es seria duda para el partido contra el Villarreal",
     "url": "https://www.lavanguardia.com/deportes/futbol/20261120/11689305/christensen-molestias-seria-duda-partido-villarreal-lesiones-barca.html",
@@ -166597,25 +167917,25 @@
   "fc andorra - leganés": {
    "termino": "fc andorra - leganés",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagIs9SaeC_BGWhku2WwEnEyCQLRODS7OkVjb-DvA_oomKxDy4pz7zsXx7iWM",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "200+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pAHjyYiTPuzfu790uKUgvSygRsEoC_UpTw-Ua_T2qwTMc1A-_aYfz5PKbxw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "FC Andorra - Leganés en directo",
-    "url": "https://www.elmundo.es/deportes/futbol/laliga-hypermotion/fc-andorra-leganes/2026/11/20/01_0102_20261120_16310_957-directo.html",
-    "fuente": "El Mundo"
+    "titulo": "Andorra - Leganés en directo | Última hora de LALIGA Hypermotion en vivo hoy",
+    "url": "https://www.marca.com/futbol/laliga-hypermotion/fc-andorra-leganes/2026/11/20/01_0102_20261120_16310_957-directo.html",
+    "fuente": "MARCA"
    }
   },
   "athletic - rcd espanyol": {
    "termino": "athletic - rcd espanyol",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 5000,
+   "veces": 2,
+   "max_trafico": 10000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHJftuqdWKMI6XMDTFpNV4BjTeFeC3lyLaJuIbhx00lGBuW2x_Ja7JvfWkBg",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "5000+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "10000+",
    "noticia": {
     "titulo": "Un nuevo San Mamés y otro Sarabia en el césped",
     "url": "https://as.com/futbol/un-nuevo-san-mames-y-otro-sarabia-en-el-cesped-f202611-n/",
@@ -166625,11 +167945,11 @@
   "pilar eyre": {
    "termino": "pilar eyre",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp_o2AQ1Mwob1hnsJe6nSU_x8Ob7TPVRT2nPuQmKWWhM43gOueSW8U0j0DGdM",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Pilar Eyre, \"Si yo no supiese todo contra lo que ha luchado la reina Letizia probablemente no me caería bien\"",
     "url": "https://www.elle.com/es/star-style/noticias-famosos/a74488658/pilar-eyre-sobre-reina-letizia-libro-sucesion/",
@@ -166639,10 +167959,10 @@
   "olympiacos - real madrid": {
    "termino": "olympiacos - real madrid",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtf5nBn3o-hpwl7KHG5JlixLPSfPSqQYjWiCyf9tO9p5cCMwEqm6OCbytOUaY",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
     "titulo": "Olympiacos-Real Madrid: la reedición de la final de la Supercopa",
@@ -166662,6 +167982,48 @@
     "titulo": "Al-Ahli SFC 3-1 Al Nassr: Visitors suffer loss as Ronaldo scores but misses penalty",
     "url": "https://www.allfootballapp.com/articles/6010437-al-ahli-sfc-3-1-al",
     "fuente": "AllFootball"
+   }
+  },
+  "barça basket": {
+   "termino": "barça basket",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqucAh5o1K3PigFxXjMked_CZ8AytoZi9Orn-51A8M9kFqTtM0UvqbscBT8_M",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Barcelona - Estrella Roja en directo | Última hora de Euroliga en vivo hoy",
+    "url": "https://www.marca.com/baloncesto/euroliga/barcelona-estrella-roja/2026/11/20/02_0203_20261120_6216_7800-directo.html",
+    "fuente": "MARCA"
+   }
+  },
+  "posiciones de al-ahli saudi contra al-nassr": {
+   "termino": "posiciones de al-ahli saudi contra al-nassr",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROJPxgxBolsu2QpiCBUzW4Z3_t4vSSKYX0NrPFud7cPhISWJDljQiQjJATC94",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Al Ahli 3 - Al Nassr 1: resumen, goles y resultado | Liga de Arabia Saudí, hoy en vivo",
+    "url": "https://as.com/futbol/internacional/al-ahli-al-nassr-en-directo-liga-de-arabia-saudi-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "huevo": {
+   "termino": "huevo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpr4kNVpDBUulPc7DG9PbHmkd0yyl12ebFQqJ4D7sNsYFOo8qRewr6HIwJsXs",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Consumo activa una alerta por huevos con posible salmonella distribuidos en ocho autonomías",
+    "url": "https://www.elmundo.es/salud/2026/11/20/6b007c53fc6c83ae3e8b4572.html",
+    "fuente": "El Mundo"
    }
   }
  },
@@ -174235,10 +175597,10 @@
   "diogo dalot": {
    "termino": "diogo dalot",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_jiPMPBxzz2yxKTxyVLg6zCySdsXemkZuT6AqWrKzSi2IeLukK0uu1PJLDUw",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "Dalot fala em Ronaldo \"insubstituível\": «Tenho a certeza de que agora está em casa a apoiar-nos»",
@@ -174263,25 +175625,25 @@
   "aviso laranja": {
    "termino": "aviso laranja",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLuM0ghBur9ngIje4GBpm3gQwpwzPnz6iCg-UDZU371_jwVOjgdGLHVOkQjN0",
-   "ultima_vez": "2026-11-20T19:57:10Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRb077BzUTmxvPf1ycLNYuOT7GQqUYOfFxL2YaztNfSHUDMAGM3pNleIzsOHU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Rio Atmosférico chega a Portugal entre sexta 20 e sábado 21: estas serão as zonas mais atingidas pela chuva forte",
-    "url": "https://www.tempo.pt/noticias/previsao/rio-atmosferico-chega-a-portugal-entre-sexta-20-e-sabado-21-estas-serao-as-zonas-mais-atingidas-pela-chuva-forte.html",
-    "fuente": "Meteored Portugal"
+    "titulo": "Proteção Civil alerta para chuva e ventos fortes sobretudo no Norte e Centro",
+    "url": "https://eco.sapo.pt/2026/11/20/protecao-civil-alerta-para-chuva-e-ventos-fortes-sobretudo-no-norte-e-centro/",
+    "fuente": "ECO"
    }
   },
   "volkswagen id. polo": {
    "termino": "volkswagen id. polo",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWzOA-SEwN6FSh6tH9mgdbAkZIhpyP1kp-tdl7IMBSExSIdqvo_DTWFRYsQI",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "New ID. Polo GTI Clubsport Concept: this electric GTI is ready for the racetrack",
     "url": "https://www.volkswagen-newsroom.com/en/press-releases/new-id-polo-gti-clubsport-concept-this-electric-gti-is-ready-for-the-racetrack-20873",
@@ -174291,15 +175653,71 @@
   "carolina do mónaco": {
    "termino": "carolina do mónaco",
    "primera_vez": "2026-11-20T19:57:10Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX03D3zo1-b0hbbv19MlosOz7SHXzhHqREsl0eCfsjCQs8TDt9VNUIzt8JDdc",
-   "ultima_vez": "2026-11-20T19:57:10Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Flores, vermelho e muita classe! Charlotte Casiraghi brilha em dia de festa no Mónaco",
     "url": "https://sic.pt/sic-caras/realeza/2026-11-19-flores-vermelho-e-muita-classe-charlotte-casiraghi-brilha-em-dia-de-festa-no-monaco-c9bfe361",
     "fuente": "SIC"
+   }
+  },
+  "paredes": {
+   "termino": "paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pv7oq1BIi--sSL-7C6Dj_WtqYJUiqHjyZtcKMGDfWrAFYmjiSI90VZXyqnc",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Mientras Leandro Paredes gana 3 millones en Boca, el salario de Fred en Atlético Mineiro",
+    "url": "https://bolavip.com/copa-sudamericana/mientras-leandro-paredes-gana-3-millones-en-boca-el-salario-de-fred-en-atletico-mineiro",
+    "fuente": "Bolavip"
+   }
+  },
+  "fisiculturismo": {
+   "termino": "fisiculturismo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVoUzuAbTQN5o8u69DV32_B9xGh3_O9fNVasux10ItigLejfk5DlvNRI2O_E8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Músculo: Morre aos 31 anos o fisiculturista brasileiro Itemberg Nunes",
+    "url": "https://www1.folha.uol.com.br/blogs/musculo/2026/11/morre-aos-31-anos-o-fisiculturista-brasileiro-itemberg-nunes.shtml",
+    "fuente": "Folha de S.Paulo"
+   }
+  },
+  "bayern vs köln": {
+   "termino": "bayern vs köln",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5eSsLmqvhRSuU15iZqciIbnLfKtI4UcpdQxF-6eSo8GmVfF-RVMRjeFXUK1U",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Liveticker | Bayern München - 1. FC Köln : | 10. Spieltag | Bundesliga 2026/27",
+    "url": "https://www.kicker.at/bayern-gegen-koeln-2026-bundesliga-5226890/ticker",
+    "fuente": "kicker"
+   }
+  },
+  "classificações de al-ahli x al-nassr": {
+   "termino": "classificações de al-ahli x al-nassr",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgGzlNWZRgGbfL-6pxKuqjWkXaKU0sov2l1b2xOkw2T6gk_Fd3ijxJuJfG--E",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Al Ahli-Al Nassr: Trincão recebe Ronaldo, Félix e Samu",
+    "url": "https://www.abola.pt/futebol/jogo/al-ahli-al-nassr-11284022/liveblog",
+    "fuente": "A Bola"
    }
   }
  },
@@ -185738,11 +187156,11 @@
   "the altruists": {
    "termino": "the altruists",
    "primera_vez": "2026-11-19T14:23:13Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNwzeb6SFM2QYA965SNpkBXmOzBftFmeayoQcphEej4Z76ZXExR2R1vKZlV0",
-   "ultima_vez": "2026-11-19T14:23:13Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
@@ -187949,6 +189367,118 @@
     "titulo": "Jodie Foster Reveals Her Unusual Ritual for Every Movie Premiere (Exclusive)",
     "url": "https://people.com/jodie-foster-reveals-her-unusual-ritual-for-every-movie-premiere-exclusive-12263397",
     "fuente": "People.com"
+   }
+  },
+  "porto vs paredes": {
+   "termino": "porto vs paredes",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfG-X4PoWmL5Skdio4oc9JFZLc4DQ8Oz67AlYB9qnZHrLsb3FMm4nfplmE5Ms",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cláudio Ramos e mais dez: o onze provável do FC Porto para o Paredes",
+    "url": "https://www.abola.pt/noticias/claudio-ramos-e-mais-dez-o-onze-provavel-do-fc-porto-para-o-paredes-2026111918140012358",
+    "fuente": "A Bola"
+   }
+  },
+  "trade agreement": {
+   "termino": "trade agreement",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe3LMipkaoQ3mFIIywrvNbFBD0tBOOun2oL5YN7wO-_8nb7BwurxoHSKLOSfQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+    "fuente": "BBC"
+   }
+  },
+  "david allan whip ban 63 days": {
+   "termino": "david allan whip ban 63 days",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo79RpZK0yPQWZs1ew9ek-2_IwE5cxbaXMfiRcvsEjKKzO-1v5NBRrRc0H4ew",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "David Allan given 63-day ban for whip breaches with panel citing jockey's 'attitude of resignation rather than remorse'",
+    "url": "https://www.racingpost.com/news/people/jockeys/david-allan-given-63-day-ban-for-whip-breaches-with-panel-citing-jockeys-attitude-of-resignation-rather-than-remorse-a7VXn7V7BzTt/",
+    "fuente": "Racing Post"
+   }
+  },
+  "paul opacic": {
+   "termino": "paul opacic",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cVUdmK9tOVbFMT5AtxZCE4nb-CP10akBHWvhvpgYoGbxAtfDPbHBbTD0GUI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Emmerdale star calls out ignorant comments about his 'normal' jobs in between TV work",
+    "url": "https://www.digitalspy.com/soaps/emmerdale/a74476571/emmerdale-paul-opacic-normal-job/",
+    "fuente": "Digital Spy"
+   }
+  },
+  "bayern": {
+   "termino": "bayern",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGGy7C0b7JhCzqyAnw__yGZwcD_VtOAFMRO6ZbZCOFFBq99celABPQysVBSwg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Harry Kane verletzt raus: Schock für den FC Bayern vor Lille",
+    "url": "https://www.tufutbolero.com/de/nachrichten/harry-kane-verletzt-raus-schock-fur-den-fc-bayern-vor-lille-06a41a",
+    "fuente": "Tu Futbolero"
+   }
+  },
+  "barnsley": {
+   "termino": "barnsley",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROOyWdGlAz0K_zpOQD3jsUUsD6SkC9Qzi-V9G1-QWR61GCIVA0AFNZeWSnjGI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Aston Villa set to sanction loan exit for 19-year-old defender with Portsmouth, Swansea City interested",
+    "url": "https://uk.sports.yahoo.com/news/aston-villa-set-sanction-loan-084728249.html",
+    "fuente": "Yahoo"
+   }
+  },
+  "farrah aldjufrie": {
+   "termino": "farrah aldjufrie",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCPDVWYA9HxcoOfzXLT6q1RVql2mBVKo-rozlJ0WXkUYyQFO86P-YEN0LQoQM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Kyle Richards’ daughter Farrah gives birth to first baby after ‘RHOBH’ star made frantic dash to the hospital mid-event",
+    "url": "https://pagesix.com/2026/11/17/parents/kyle-richards-daughter-farrah-gives-birth-to-first-baby-after-rhobh-star-made-frantic-dash-to-the-hospital-mid-event/",
+    "fuente": "Page Six"
+   }
+  },
+  "victoria beckham": {
+   "termino": "victoria beckham",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtUrY0D5yblntUjXIBE-D9LkBbpU3UPrpIJ9mrTgbtn4FhJl-uGIcvc4Pe4g",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Is Brooklyn homesick? Estranged Beckham son launches page selling British delicacies",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16307513/Is-Brooklyn-homesick-Estranged-son-David-Victoria-Beckham-launches-page-selling-British-delicasies-moving-LA-cutting-family.html",
+    "fuente": "Daily Mail"
    }
   }
  },
@@ -195407,11 +196937,11 @@
   "lola dewaere": {
    "termino": "lola dewaere",
    "primera_vez": "2026-11-17T11:47:04Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGzE4BfJlmRjYNuUwrSlM43Lo-nEi12P2FFKnP6EKryUwGCFi8_QZVp1KsFQI",
-   "ultima_vez": "2026-11-17T11:47:04Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "Lola Dewaere est « en phase de reconstruction » après un burn-out sur le tournage d’« Astrid et Raphaëlle »",
     "url": "https://www.20minutes.fr/arts-stars/people/4263479-20261117-lola-dewaere-phase-reconstruction-apres-burn-out-tournage-astrid-raphaelle",
@@ -198491,15 +200021,15 @@
   "leighton meester": {
    "termino": "leighton meester",
    "primera_vez": "2026-11-18T20:51:00Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3tXNd78ZuWcVsNZQ2pfo-AoAFXA0A2WiQZEOrtjdVzV892-7LYMuaiXfDOdc",
-   "ultima_vez": "2026-11-18T20:51:00Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtFzEQaSek1kon_OBea3Kv5i_PFLXowRj2MWtH56hdYgvMdkUIzAJZDJPvhPg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Calgary area stands in for New York and Montana – in the same new movie!",
-    "url": "https://calgaryherald.com/entertainment/movies/guarding-stars-netflixs-alberta-shot-christmas-romance-to-stream-nov-18",
-    "fuente": "Calgary Herald"
+    "titulo": "Guarding Stars review – Leighton Meester is a delight in fizzy Netflix holiday romance",
+    "url": "https://www.theguardian.com/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester",
+    "fuente": "The Guardian"
    }
   },
   "emily blunt": {
@@ -202549,6 +204079,118 @@
    "noticia": {
     "titulo": "Athletic Bilbao - Espanyol Barcelone, La Liga, match en direct le 20/11/2026",
     "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/athletic-bilbao-espanyol-barcelone-live/693198",
+    "fuente": "L'Équipe"
+   }
+  },
+  "bayern": {
+   "termino": "bayern",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGGy7C0b7JhCzqyAnw__yGZwcD_VtOAFMRO6ZbZCOFFBq99celABPQysVBSwg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Harry Kane verletzt raus: Schock für den FC Bayern vor Lille",
+    "url": "https://www.tufutbolero.com/de/nachrichten/harry-kane-verletzt-raus-schock-fur-den-fc-bayern-vor-lille-06a41a",
+    "fuente": "Tu Futbolero"
+   }
+  },
+  "noemie star academy": {
+   "termino": "noemie star academy",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ym_2C31mPjP9ET2xbMi0TF6b-PJ7eQ5G6xdaiyPLGPJ85EKyhGluvMaZQTY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Remplaçante en 2025, recalée de «The Voice», son idole espagnole… Ce que vous ignoriez sur Noémie de «Star Academy»",
+    "url": "https://tvmag.lefigaro.fr/programme-tv/tele-realite/remplacante-en-2025-recalee-de-the-voice-son-idole-espagnole-ce-que-vous-ignoriez-sur-noemie-de-star-academy-20261120",
+    "fuente": "TV Magazine"
+   }
+  },
+  "bradley barcola": {
+   "termino": "bradley barcola",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwCHJJloa4sBFz0isE9jFqc1Ivpa9lXdzus1LxpyezPRmW4DC7rOEf_FAHqR0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liverpool news: Florian Wirtz analysis - a fan's view",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm5y1elwvp2no",
+    "fuente": "BBC"
+   }
+  },
+  "hunger games 1": {
+   "termino": "hunger games 1",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu9Qs9eZZQOq4U7jscTLoZL0W460pgGm1nPxGKZHhE0KK2lvBdiVMi3SbBd74",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+    "url": "https://www.bbc.com/news/articles/c8752w5vz2zqo",
+    "fuente": "BBC"
+   }
+  },
+  "macias": {
+   "termino": "macias",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvQeiwoHZEti3-KAQbhzeWHylU8w_IKfm-ALnr14z-12GB-haboj5Ac5AzQV0",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Descarta Felifer Macías aperturar la Alameda Hidalgo las 24 horas del día",
+    "url": "https://plazadearmas.com.mx/descarta-felifer-macias-aperturar-la-alameda-hidalgo-las-24-horas-del-dia/",
+    "fuente": "Plaza de Armas | Querétaro"
+   }
+  },
+  "adele": {
+   "termino": "adele",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1lIarO2XGmW8x5duSUbXJXjDH9dOUVuTUfOSjuc1r_p2epCaBSP6unF9tuXE",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Adèle Castillon, visage de la nouvelle scène musicale féminine",
+    "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/20/adele-castillon-visage-de-la-nouvelle-scene-musicale-feminine_6813627_4500055.html",
+    "fuente": "Le Monde.fr"
+   }
+  },
+  "scandale chemsex acteur": {
+   "termino": "scandale chemsex acteur",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7dcl3ltBKnmhmh_h0QdHdNwdigFutHCTIF9R3VzpMqLTMkuGgbnx-lLOqc8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Trafic de drogue et libertinage à Paris : les liaisons dangereuses du gendarme et du dealer pour personnalités médiatiques",
+    "url": "https://www.leparisien.fr/faits-divers/trafic-de-drogue-et-libertinage-a-paris-les-liaisons-dangereuses-du-gendarme-et-du-dealer-pour-personnalites-mediatiques-14-11-2026-ZZCRUYOB4NELVH6RH5ZVGDHWPM.php",
+    "fuente": "Le Parisien"
+   }
+  },
+  "marvin caperan": {
+   "termino": "marvin caperan",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqVKWEFS4H7t8bQOaxhE4zt1zQGhpvrYuuP3XG7e_82E10Ky_-fQbmle6B6f4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "« Le KOTS, on ne conseille à personne d'y aller » : des combats clandestins au MMA professionnel, l'ascension sulfureuse de « Tortank » et « Silverback »",
+    "url": "https://www.lequipe.fr/Mma/Article/Des-combats-clandestins-au-mma-professionnel-l-ascension-sulfureuse-de-tortank-et-silverback/1744555",
     "fuente": "L'Équipe"
    }
   }
@@ -215859,6 +217501,118 @@
     "url": "https://www.mutuionline.it/news/aggiornamento-tassi/00048895-aggiornamento-tassi-giovedi-19-novembre-2026.asp",
     "fuente": "MutuiOnline.it"
    }
+  },
+  "harry potter serie tv": {
+   "termino": "harry potter serie tv",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvuHQMZS2JMjoenshqKF6zAZTahsToFFkVbmw780zSvyak4R5_sus-X1EJGg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "“Harry Potter”, la prima clip della serie fa litigare i fan: c’entrano un coro e i colori",
+    "url": "https://www.iodonna.it/video-iodonna/spettacoli-video/harry-potter-la-prima-clip-della-serie-fa-litigare-i-fan-centrano-un-coro-e-i-colori/",
+    "fuente": "iO Donna"
+   }
+  },
+  "francesca schiavone": {
+   "termino": "francesca schiavone",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAW64m3Lpdb5Zny4hT2NxRHKPAbvynuPLcLhSe0c8M_GjdV8leJ4y2zz46DDY",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Schiavone: \"Finals? Complimenti a Cobolli, è il n.6 al mondo. Italia, devi essere orgogliosa di lui\"",
+    "url": "https://www.gazzetta.it/Tennis/ATP/20-11-2026/francesca-schiavone-intervista-atp-finals-complimenti-a-cobolli-e-il-n-6-al-mondo.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "harry potter tv": {
+   "termino": "harry potter tv",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwcYq4QIjapYi496l2II6ha_RsProb56RRFoQbqJU4qHPltwN5MF-mkDQVGFE",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "5 Harry Potter Characters Who Deserve Bigger Roles In The HBO TV Series",
+    "url": "https://www.imdb.com/it/news/ni66118034/?ref_=nm_nwr_1",
+    "fuente": "IMDb"
+   }
+  },
+  "italia 1": {
+   "termino": "italia 1",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOWwsGLs4w_gHjE3Y2bwrhJezDl9jnl3XvCl5O4AvxqJTERN8YPVifbGCtiEw",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Agli italiani piace Sinner, non il tennis, e se n'è accorto pure Binaghi: un flop le ATP Finals senza Jannik",
+    "url": "https://www.virgilio.it/sport/atp-finals-flop-senza-sinner-ammissione-binaghi-dipendenti-da-jannik-dominio-alcaraz-980977",
+    "fuente": "Virgilio"
+   }
+  },
+  "meravigliosamente": {
+   "termino": "meravigliosamente",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRin9JCZhSa402sY3sO4dGKv4Zu-ByX_GBXXf88oWIcSiTkwgfL3WtsdHTQplM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Meravigliosamente, ospiti e scaletta dello show che celebra Sal Da Vinci",
+    "url": "https://tg24.sky.it/spettacolo/musica/2026/11/20/meravigliosamente-scaletta",
+    "fuente": "Sky TG24"
+   }
+  },
+  "verissimo": {
+   "termino": "verissimo",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROXX47ommpie7ADIRLPBXIwifT1E6uGY7nA1JPkRatHh5ucBiYZHoKWuVEG4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Gli ospiti di Verissimo del 21 e 22 novembre 2026",
+    "url": "https://mediasetinfinity.mediaset.it/news/mediasetinfinity/verissimo/ospiti-21-22-novembre-2026_SE000000000023_t3IjtppE5OVxTsxTpgxUkWl",
+    "fuente": "Mediaset Infinity"
+   }
+  },
+  "questore": {
+   "termino": "questore",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFh8CCdTI-odNQI6P5Fm1qmXtCjXpgT2XzroBZ2eN7XDPPc6QBnFwhkbJSUB4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Sovraffollamento e porte bloccate, il questore chiude un locale a Pescara",
+    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/sovraffollamento-e-porte-bloccate-il-questore-chiude-un-locale-a-pescara_39d45418-e6ef-4931-9f48-85d56feea93b.html",
+    "fuente": "ANSA"
+   }
+  },
+  "harry potter in tv": {
+   "termino": "harry potter in tv",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-C1o6Az-2ax_9Rtub7kMH9VRH_jeE9EL1OTrDQkpN3zSlH1EZ4VzTAn0lixg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Harry Potter to Pride and Prejudice: 10 of the best TV shows to watch this December",
+    "url": "https://www.bbc.com/culture/article/20261117-10-of-the-best-tv-shows-to-watch-this-december",
+    "fuente": "BBC"
+   }
   }
  },
  "DE": {
@@ -220904,15 +222658,15 @@
   "harry kane": {
    "termino": "harry kane",
    "primera_vez": "2026-11-15T22:36:22Z",
-   "veces": 1,
-   "max_trafico": 2000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaVGCIKiKpad73sltjlaVITWv0m-tc1PteRDkLxI2Cc3tc2ZGUNu4YgMBoISY",
-   "ultima_vez": "2026-11-15T22:36:22Z",
-   "trafico": "2000+",
+   "veces": 2,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5ty53CJs8Ivva4HFrByCuV6F_xrKQd32_GbclxS9sXbDs6gZeOrEh0iBVbg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "5000+",
    "noticia": {
-    "titulo": "Das gab es seit 1948 nicht mehr! Harry Kane schreibt mal wieder Geschichte für England",
-    "url": "https://www.spox.com/fussball/news/per-elfmetertor-gegen-spanien-harry-kane-stellt-fuer-england-78-jahre-alten-rekord-ein/blt873b1cd03007e642",
-    "fuente": "SPOX.com"
+    "titulo": "FC Bayern: Harry Kane muss verletzt raus!",
+    "url": "https://www.bild.de/sport/fussball/fc-bayern-harry-kane-muss-verletzt-raus-6b00a48b95c2d662f69473ba",
+    "fuente": "BILD"
    }
   },
   "chris tall": {
@@ -221963,15 +223717,15 @@
   "frances tiafoe": {
    "termino": "frances tiafoe",
    "primera_vez": "2026-11-16T14:58:40Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjDK1npKEV6dK8iXy3Di7KodAmLPg69Yampos8toLRVAf4uZxuC-ok7Ns7H94",
-   "ultima_vez": "2026-11-16T14:58:40Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "Carlos Alcaraz v Frances Tiafoe: ATP Finals tennis group stage – live",
-    "url": "https://www.theguardian.com/sport/live/2026/nov/16/carlos-alcaraz-v-frances-tiafoe-atp-finals-tennis-group-stage-live",
-    "fuente": "The Guardian"
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
    }
   },
   "stuttgart – leverkusen": {
@@ -227038,14 +228792,14 @@
   "darts live": {
    "termino": "darts live",
    "primera_vez": "2026-11-18T19:56:44Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUy86NvuJT6Hb9PM7HvosRj5P4lwH14E3Lh0bqJDu9kq5BlUaGUUQmxjAG8UI",
-   "ultima_vez": "2026-11-18T19:56:44Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdwG9y3XwnR2CfgJMqRsM32clftnofegqe7sw_Cq4LoJuQqh1nwQg-gOx7tU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "10000+",
    "noticia": {
-    "titulo": "Thomas Müller verrät: Hätte den FC Bayern vielleicht schon früher verlassen sollen",
-    "url": "https://www.sport1.de/news/internationaler-fussball/mls/2026/11/thomas-mueller-verraet-haette-den-fc-bayern-vielleicht-schon-frueher-verlassen-sollen",
+    "titulo": "Darts heute live: Grand Slam of Darts im Free-TV, Stream & Ticker - nächster Springer-Coup?",
+    "url": "https://www.sport1.de/news/darts-sport/grand-slam-of-darts/2026/11/darts-heute-live-grand-slam-of-darts-im-free-tv-stream-ticker-naechster-springer-coup",
     "fuente": "SPORT1"
    }
   },
@@ -231329,6 +233083,85 @@
     "titulo": "BILD kennt die erste Kandidatin: Schlager-Ikone zieht ins Dschungelcamp!",
     "url": "https://www.bild.de/unterhaltung/tv-fernsehformate/bild-kennt-die-erste-kandidatin-schlager-ikone-zieht-ins-dschungelcamp-6b004bf539a3e8110f0e41db",
     "fuente": "BILD"
+   }
+  },
+  "ο καιρόσ αύριο": {
+   "termino": "ο καιρόσ αύριο",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+"
+  },
+  "soko leipzig windschatten": {
+   "termino": "soko leipzig windschatten",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGnbTf57ckD4SYBT_7xB9aRffnvSTmi5IPCl3_DHKnuJNFOLFEAJ_bYiSIzCg",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Louise Sophie Arnold (‚Nella Döhler‘) & Johannes Hendrik Langer (‚Moritz Brenner‘) in einer neue Folge „SOKO Leipzig – Windschatten“ am 20.11.2026 um 21:15 Uhr im ZDF",
+    "url": "https://crush.de/news/louise-sophie-arnold-nella-doehler-johannes-hendrik-langer-moritz-brenner-in-einer-neue-folge-soko-leipzig-windschatten-am-20-11-2026-um-2115-uhr-im-zdf/",
+    "fuente": "CRUSH agency"
+   }
+  },
+  "mika baur": {
+   "termino": "mika baur",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC_ThJS55n8gf54xK7ociEdJJ1DWxYsIz7j51t73BY9bc8zIVBJ89HwrJvjO4",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "\"Ein herber Rückschlag\": Baur fehlt Celtic Glasgow monatelang",
+    "url": "https://www.kicker.de/ein-herber-rueckschlag-baur-fehlt-celtic-glasgow-monatelang-1273291/artikel",
+    "fuente": "Kicker"
+   }
+  },
+  "fibula": {
+   "termino": "fibula",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrMx6G4OCb1hS5CmydB25flZIyXDCh4GYvm_sa4MQSHUZ994SDcGuswB4S5eM",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Patriots QB Drake Maye has fractured fibula, sources say",
+    "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+    "fuente": "ESPN"
+   }
+  },
+  "bärbel bas": {
+   "termino": "bärbel bas",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRWSPS_GGNbNQr5L7YGyExfJRrpGlTkFlXNweTvbOAIsQ-EQfAVCvJGtW2duQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Nach Bas-Rücktritt: Wie geht es mit der „Rente mit 63“ und der Rentenreform weiter?",
+    "url": "https://www.mainpost.de/geld-leben/rente/nach-bas-ruecktritt-wie-geht-es-mit-der-rente-mit-63-und-der-rentenreform-weiter-22-115488029",
+    "fuente": "Main-Post"
+   }
+  },
+  "olise": {
+   "termino": "olise",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ4zmhWA0kUbqcz5GAYJzcjbb65QdeluKfam4AYPk7R53KwRL7MbYXqv2V8OI",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "FC Bayern: Ex-Frankreich-Star warnt Bayern wegen Olise!",
+    "url": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-ex-frankreich-star-warnt-bayern-wegen-olise-6afb2a2ebfa018bfcc98922e",
+    "fuente": "Sport Bild"
    }
   }
  },
@@ -237956,15 +239789,15 @@
   "darts live": {
    "termino": "darts live",
    "primera_vez": "2026-11-17T22:51:36Z",
-   "veces": 5,
+   "veces": 6,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-qj3FnmFA2glQT1uf5pV31pDE8zkpgeX2gCrefMt0o-8niXBS4Ay4x1DYPQA",
-   "ultima_vez": "2026-11-19T21:47:30Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7gMkrWupo96DPf-JnCE_vVIBRGnSvtv9I62bhPCKMdhV1jTdJSJj946aEY50",
+   "ultima_vez": "2026-11-20T20:47:25Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "LIVE Grand Slam of Darts | Gian van Veen op voorsprong tegen Martin Schindler, Michael van Gerwen in de laatste partij van de avond",
-    "url": "https://www.ad.nl/darts/live-grand-slam-of-darts-gian-van-veen-op-voorsprong-tegen-martin-schindler-michael-van-gerwen-in-de-laatste-partij-van-de-avond~a44ced04/",
-    "fuente": "AD.nl"
+    "titulo": "LIVE Grand Slam of Darts | Tien legs op rij en twee 170-finishes: Kevin Doets geeft ‘beste vriend’ Wattimena pak slaag",
+    "url": "https://www.gelderlander.nl/sport/live-grand-slam-of-darts-tien-legs-op-rij-en-twee-170-finishes-kevin-doets-geeft-beste-vriend-wattimena-pak-slaag~aa1feedd/",
+    "fuente": "De Gelderlander"
    }
   },
   "national security agency": {
@@ -242547,6 +244380,132 @@
     "titulo": "Verregende trainingen, onbeduidende kwalificatie: F1 heeft Las Vegas weinig te bieden",
     "url": "https://nos.nl/artikel/2640291-verregende-trainingen-onbeduidende-kwalificatie-f1-heeft-las-vegas-weinig-te-bieden",
     "fuente": "NOS"
+   }
+  },
+  "frans van seumeren": {
+   "termino": "frans van seumeren",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc7KDbi9LPwS1XXcSu3E-72iN5SyOuEEh-PjmCDUqbc6jYBi2o-slCboZRgt8",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Frans van Seumeren over FC Utrecht-trainer Anthony Correia: 'We wilden hem allemaal, maar het werkt tot op heden nog niet'",
+    "url": "https://www.rtvutrecht.nl/sport/4121821/frans-van-seumeren-over-fc-utrecht-trainer-anthony-correia-we-wilden-hem-allemaal-maar-het-werkt-tot-op-heden-nog-niet",
+    "fuente": "RTV Utrecht"
+   }
+  },
+  "prijzengeld grand slam of darts": {
+   "termino": "prijzengeld grand slam of darts",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiDM1lG94IUZG3V_6vXm5MGU7tNrD0lf3wtdsIY_Y1qTBvls7C9cK99Ywn0k",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Van Veen en Van Gerwen voegen zich bij laatste acht op Grand Slam of Darts",
+    "url": "https://nos.nl/artikel/2640207-van-veen-en-van-gerwen-voegen-zich-bij-laatste-acht-op-grand-slam-of-darts",
+    "fuente": "NOS"
+   }
+  },
+  "klaas otto": {
+   "termino": "klaas otto",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG6gP0e5yYA2bglfXSrdjACLKvhy_9NY6a4uy7mm4iJ073-oJtEQ6rBj_834Y",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Klaas Otto opnieuw veroordeeld maar lijkt toch klaar met celstraf",
+    "url": "https://www.omroepbrabant.nl/nieuws/6035194/klaas-otto-opnieuw-veroordeeld-maar-lijkt-toch-klaar-met-celstraf",
+    "fuente": "Omroep Brabant"
+   }
+  },
+  "carlos sainz jr.": {
+   "termino": "carlos sainz jr.",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzGo4Q2EhSob0d2YM5T61sOmqR2dEA4Se_vBqvsTPJ7npVCY1TCyMoOmYt8Rc",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "All the stories that got the Las Vegas paddock talking",
+    "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
+    "fuente": "Formula 1"
+   }
+  },
+  "isabel grevelt": {
+   "termino": "isabel grevelt",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0S9CJtzwKOeMCfkIMkNjQFnxeYzFoRSSIj7Lq0tEJcwkE4Jln5EDyX-6fHuU",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "LIVE schaatsen | Conijn pakt zilver op 3000 meter, machtige Daleman grijpt goud en breekt baanrecord Takagi",
+    "url": "https://www.ad.nl/schaatsen/live-schaatsen-conijn-pakt-zilver-op-3000-meter-machtige-daleman-grijpt-goud-en-breekt-baanrecord-takagi~a9633da1/",
+    "fuente": "AD.nl"
+   }
+  },
+  "gerard joling": {
+   "termino": "gerard joling",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrhfttfXVRp-a5lVm9jMCJkT0J8Eia3Vu5U7YwrK0kYdg88xfcMuR4ZKwgkBk",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "'Tino Martin volgt Gerard Joling op bij De Toppers'",
+    "url": "https://wnl.tv/2026/11/18/tino-martin-volgt-gerard-joling-op-bij-de-toppers",
+    "fuente": "WNL"
+   }
+  },
+  "daniil medvedev": {
+   "termino": "daniil medvedev",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROaRA7VOFscgjpBAESzVaOVbWrOdiGujBGlPIYVbMkFECIwL9pLyxDxdVzP7s",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Medvedev, Tiafoe set for win-or-go-home clash; Alcaraz faces Cobolli",
+    "url": "https://www.atptour.com/en/news/alcaraz-cobolli-medvedev-tiafoe-nitto-atp-finals-2026-day-6-preview",
+    "fuente": "ATP Tour"
+   }
+  },
+  "bayern munchen": {
+   "termino": "bayern munchen",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBWTCP24ziiSwNlO9PZ8sJIg_pE9rDl3xMB3kJGkOKsUzCPOo-hm5VCSHJgA",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Manchester City (FORCE) v FC Bayern Munchen (HOLLYWOOD) Odds",
+    "url": "https://sportsbook.fanduel.com/soccer/esoccer-h2h-gg-league-2x4mins/manchester-city-(force)-v-fc-bayern-munchen-(hollywood)-36342833",
+    "fuente": "FanDuel Sportsbook"
+   }
+  },
+  "ath. bilbao - espanyol": {
+   "termino": "ath. bilbao - espanyol",
+   "primera_vez": "2026-11-20T20:47:25Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMVeHv8VMJ_gJQ6DE8snVtA7PcwtqGC6f-zYnXafcm7id-rLpUbCKJF48CMaQ",
+   "ultima_vez": "2026-11-20T20:47:25Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
+    "url": "https://www.marca.com/futbol/laliga-ea-sports/athletic-espanyol/2026/11/20/01_0101_20261120_174_177-directo.html",
+    "fuente": "MARCA"
    }
   }
  }
