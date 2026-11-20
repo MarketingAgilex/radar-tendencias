@@ -1,6 +1,12 @@
 {
- "ultima_ejecucion": "2026-11-20T07:52:01Z",
- "duracion_seg": 489.7,
- "errores": 0,
- "muestra_errores": []
+ "ultima_ejecucion": "2026-11-20T13:51:50Z",
+ "duracion_seg": 494.4,
+ "errores": 1,
+ "muestra_errores": [
+  {
+   "url": "https://news.google.com/rss/search?q=%28alimentos+OR+bebidas+OR+gastronom%C3%ADa%29+when%3A1d&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-20T13:51:50Z"
+  }
+ ]
 }
