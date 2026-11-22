@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T10:53:57Z",
+ "actualizado": "2026-11-22T10:53:04Z",
  "paises": {
   "CO": [
    {
@@ -861,7 +861,7 @@
    },
    {
     "fecha": "2027-05-01",
-    "nombre": "Día del Trabajo",
+    "nombre": "Día Nacional del Trabajo",
     "nombre_en": "Labour Day"
    },
    {
@@ -881,7 +881,7 @@
    },
    {
     "fecha": "2027-07-16",
-    "nombre": "Virgen del Carmen",
+    "nombre": "Día de la Virgen del Carmen",
     "nombre_en": "Our Lady of Mount Carmel"
    },
    {
@@ -890,8 +890,13 @@
     "nombre_en": "Assumption of Mary"
    },
    {
+    "fecha": "2027-09-17",
+    "nombre": "Feriado adicional de Fiestas Patrias",
+    "nombre_en": "Additional National Holiday"
+   },
+   {
     "fecha": "2027-09-18",
-    "nombre": "Fiestas Patrias",
+    "nombre": "Independencia Nacional",
     "nombre_en": "National holiday"
    },
    {
@@ -901,7 +906,7 @@
    },
    {
     "fecha": "2027-10-11",
-    "nombre": "Día del Descubrimiento de Dos Mundos",
+    "nombre": "Encuentro de Dos Mundos",
     "nombre_en": "Columbus Day"
    },
    {
