@@ -1,12 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-24T01:54:35Z",
- "duracion_seg": 561.0,
- "errores": 1,
- "muestra_errores": [
-  {
-   "url": "https://news.google.com/rss/search?q=%28caff%C3%A8+OR+cacao+OR+cioccolato%29+when%3A1d&hl=it&gl=IT&ceid=IT%3Ait",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-24T01:54:35Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-24T07:58:18Z",
+ "duracion_seg": 488.4,
+ "errores": 0,
+ "muestra_errores": []
 }
