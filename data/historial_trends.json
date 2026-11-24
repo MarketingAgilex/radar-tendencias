@@ -8542,15 +8542,15 @@
   "partidos champions hoy": {
    "termino": "partidos champions hoy",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNjS4gOsHaASVl6Fd0shA-eQLsDTRsP1lHxgjWhz9um1H3eyTBwN-_1kDB7es",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVX1U84V8FnkPKfR-bMM0FnHzb03f4SSjcaHLaiz275Gyyx-AjQXsk-61olks",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
-    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-    "fuente": "Diario AS"
+    "titulo": "Cuándo juegan Manchester City vs. Napoli por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.co/futbol/champions-league/nota/_/id/17553269/manchester-city-vs-napoli-fecha-5-champions-equipo-fecha-hora-y-tv-en-vivo",
+    "fuente": "ESPN Colombia"
    }
   },
   "iván márquez": {
@@ -8578,6 +8578,132 @@
    "noticia": {
     "titulo": "Ineos renueva a Egan Bernal: \"Es una gran parte de este equipo\"",
     "url": "https://www.espn.com.co/ciclismo/nota/_/id/17556610/ineos-renueva-a-egan-bernal-es-una-gran-parte-de-este-equipo",
+    "fuente": "ESPN Colombia"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2FcaDrkVniSO_0CSxavrdIonYiW3Ot0rh1_Ekm_d5Rs3fSz8kifGP_ABbIjo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "(1) Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+    "fuente": "The Guardian"
+   }
+  },
+  "posiciones de champions league": {
+   "termino": "posiciones de champions league",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiIHjhT9RHw9MLkhT3PhX4U1OQ_4C0gXx423Ifs_pIqW4omeZZA_gitNPJUA0",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "La fecha 5 de los equipos con colombianos en UEFA Champions League",
+    "url": "https://www.espn.com.co/futbol/champions-league/nota/_/id/17551812/la-fecha-5-de-los-equipos-con-colombianos-en-uefa-champions-league",
+    "fuente": "ESPN Colombia"
+   }
+  },
+  "feyenoord - porto": {
+   "termino": "feyenoord - porto",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAT59U26PIzaOvpEM7FxW3WxHIfjjX3TX6Mx1keSq8HK0-Hegp0Xia5tKHkAY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Hadj Moussa declared fit ahead of Feyenoord–Porto · SNA",
+    "url": "https://sportnewsafrica.com/en/news/hadj-moussa-declared-fit-for-porto-clash/",
+    "fuente": "Sport News Africa"
+   }
+  },
+  "psv": {
+   "termino": "psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb-cOAh7SXhlpnd9MH9EBe7s5NcF4clJKAzMTCAGRQumnISzu0kbgibc4GTZ4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "MULTILIVE. Thibaut Courtois uiteraard onder de lat bij Real, ook Maarten Vandevoordt (Leipzig) en Charles Vanhoutte (Feyenoord) starten",
+    "url": "https://www.hln.be/champions-league/multilive-thibaut-courtois-uiteraard-onder-de-lat-bij-real-ook-maarten-vandevoordt-leipzig-en-charles-vanhoutte-feyenoord-starten~abc7a0ad/",
+    "fuente": "HLN"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 50000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTkbaB7SVlQEgWDoPh6S8o8o5gCynV5rmotNcf-PR02J2W-940A2GpwF3aRbA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "50000+",
+   "noticia": {
+    "titulo": "Real Madrid without Bellingham: Mourinho's XI vs PSV",
+    "url": "https://www.tufutbolero.com/en/news/real-madrid-without-bellingham-mourinho-s-xi-vs-psv-efb078",
+    "fuente": "Tu Futbolero"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Team news: Gyokeres starts against Dortmund",
+    "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+    "fuente": "Arsenal.com"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+    "url": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+    "fuente": "365Scores"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_pckXdMpgBzlF_ON3Lg28urT-hmtz5irs9kGTLvFgKmTq4kSBSC38jLTLobo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Cuándo juegan Como vs. AEK Atenas por la fecha 5 de la Champions League: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.com.co/futbol/europa/nota/_/id/17553087/como-vs-aek-atenas-fecha-5-champions-league-equipo-fecha-hora-y-tv-en-vivo",
     "fuente": "ESPN Colombia"
    }
   }
@@ -20916,6 +21042,146 @@
     "url": "https://variety.com/2026/shopping/news/best-black-friday-streaming-deals-1235441075/",
     "fuente": "Variety"
    }
+  },
+  "hbo": {
+   "termino": "hbo",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCK2r0aShXoNrp11KloA1TCi8CNFOcSoiseqnFS_jyN6oPf_kAWxsAKo4z2vw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Tras 233 días por fin llegó a HBO Max una de las adaptaciones de videojuegos más esperadas: tiene 87% de aprobación",
+    "url": "https://www.xataka.com.mx/cine-y-tv/233-dias-fin-llego-a-hbo-max-adaptaciones-videojuegos-esperadas-tiene-87-aprobacion",
+    "fuente": "Xataka México"
+   }
+  },
+  "como fc": {
+   "termino": "como fc",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBf8C1FVBdeguaOEo1jDq2O-JSf9AtBYK3z4gxY9o7YLIk10xaP80cQisi0XQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liga de Campeones",
+    "url": "https://www.elcorreo.com/deportes/futbol/directos/liga-campeones/2026-2027/real-madrid-cf-psv-eindhoven-6339-249-6339-10-5-sd.html",
+    "fuente": "El Correo"
+   }
+  },
+  "luciano herrera": {
+   "termino": "luciano herrera",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMBIPLTND-C2YnoW3OueuVu8i-wG4QU5dJnpatJq4wj0IlwBm9iGj3hYD2uO4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Los jugadores de Pumas que estarían por SALIR del equipo para el Clausura 2027",
+    "url": "https://www.tvazteca.com/aztecadeportes/los-jugadores-de-pumas-que-estarian-por-salir-del-equipo-para-el-clausura-2027/",
+    "fuente": "TV Azteca"
+   }
+  },
+  "championship": {
+   "termino": "championship",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOKvBDwQlhe9S9M-nYo4JM47z1E9H4oQTo6yMWCOAQv2DWG58rNo1iunncUJo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Mavs head to first North State Championship",
+    "url": "https://www.onlinemadison.com/gluckstadt-journal/mavs-head-to-first-north-state-championship-game-in-tupleo-f3e28e72/",
+    "fuente": "Madison County Journal"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2FcaDrkVniSO_0CSxavrdIonYiW3Ot0rh1_Ekm_d5Rs3fSz8kifGP_ABbIjo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "(1) Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+    "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+    "fuente": "The Guardian"
+   }
+  },
+  "uefa": {
+   "termino": "uefa",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuUsQc6fKsjAiuTPHR1P8umEcYh5wdE-i1jrFMpFGXyu_TChKizMlx1PSv6PA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bakan Bak: Galatasaray taraftarımızın vicdanlı ve onurlu duruşunu selamlıyorum",
+    "url": "https://www.avrupagazete.co.uk/bakan-bak-galatasaray-taraftarimizin-vicdanli-ve-onurlu-durusunu-selamliyorum",
+    "fuente": "Avrupa Gazete"
+   }
+  },
+  "wolves - derby county": {
+   "termino": "wolves - derby county",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjKHrRjEj3lXEOC_wzQJxpRuzHHHmgK_SNfmGRc35Yx4I48bU3BxtASqWY_cQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Peixoto | 'We’re building a winning mentality' | Men's First-Team | Latest News",
+    "url": "https://www.wolves.co.uk/news/mens-first-team/20261123-peixoto-we-re-building-a-winning-mentality/",
+    "fuente": "Wolverhampton Wanderers FC"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 50000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNjS4gOsHaASVl6Fd0shA-eQLsDTRsP1lHxgjWhz9um1H3eyTBwN-_1kDB7es",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "50000+",
+   "noticia": {
+    "titulo": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
+    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Team news: Gyokeres starts against Dortmund",
+    "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+    "fuente": "Arsenal.com"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
   }
  },
  "EC": {
@@ -23175,15 +23441,15 @@
   "como vs": {
    "termino": "como vs",
    "primera_vez": "2026-11-21T14:47:52Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "ultima_vez": "2026-11-21T14:47:52Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLBWb1q-oMVB9QJsTgb7CsarpBSzkIQxkERhXcNURLSz-wcnsPsOsI9QtmWZU",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Como vs Cagliari: Italian Serie A stats & head-to-head",
-    "url": "https://www.bbc.com/sport/football/live/cm62p3w22wnwt",
-    "fuente": "BBC"
+    "titulo": "Champions League line-ups: Como vs. AEK Athens",
+    "url": "https://sports.yahoo.com/articles/champions-league-line-ups-como-184800716.html",
+    "fuente": "Yahoo Sports"
    }
   },
   "chelsea - leeds": {
@@ -25419,11 +25685,11 @@
   "papa francisco": {
    "termino": "papa francisco",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJRz7c3XH50HjTSqlfGWsq4NUfFVjVqjaAwBFopr2N8HIc9C76y-tb5yeAES4",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "El diario espiritual del papa Francisco: asegura haber visto al diablo 3 veces y las puertas del infierno",
     "url": "https://www.eltelegrafo.com.ec/noticias/internacionales/211/el-diario-espiritual-del-papa-francisco-asegura-haber-visto-al-diablo-3-veces-y-las-puertas-del-infierno",
@@ -25433,29 +25699,29 @@
   "galatasaray vs": {
    "termino": "galatasaray vs",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq6UzH9DOO6wJafCpVQPSJKtvLVCnFydeJKlSMrUPnxfoXXiYZH1D4OWtCa9Y",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "500+",
+   "veces": 2,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbmAvOtOBknoDZQs72Zdkad9JGstpmhH944JEka8KCpO3q9Va17g03ICR5uwA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "Licensable picture: Galatasaray training session ahead of UEFA Champions League match against Aston Villa",
-    "url": "https://www.reutersconnect.com/item/galatasaray-training-session-ahead-of-uefa-champions-league-match-against-aston-villa/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSTNONkpS",
-    "fuente": "Reuters Connect"
+    "titulo": "Team news for Galatasaray encounter",
+    "url": "https://www.avfc.co.uk/news/2026/november/23/prematch-team-news-for-galatasaray-encounter/",
+    "fuente": "Aston Villa"
    }
   },
   "champions hoy": {
    "termino": "champions hoy",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYm_zM5J3dVgak9OWyfJIfPCUy3iN9q8zPz8OUyPU7oR24X2JnW-EZEPCrD-4",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU68VNUiO9-u2vMTD55XfGvEP73I9-9K339PR_BzgzKb10rLvsXMAsvYgCqVI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "¿Dónde ver Manchester City vs Nápoles hoy EN VIVO?",
-    "url": "https://www.365scores.com/es/news/donde-ver-manchester-city-vs-napoles-hoy/",
-    "fuente": "365Scores"
+    "titulo": "De Bruyne estalla en su regreso a Mánchester: \"No conocéis mi vida\"",
+    "url": "https://www.flashscore.es/noticias/futbol-champions-league-city-napoles-de-bruyne-estalla-en-su-regreso-a-manchester/j9HFRiFi/",
+    "fuente": "Flashscore.es"
    }
   },
   "avianca": {
@@ -25484,6 +25750,90 @@
     "titulo": "Champions League starting and predicted line-ups: Matchday 5 team news, injuries, suspensions",
     "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2223c67db015-c4f7874e074e-1000--champions-league-starting-and-predicted-line-ups-matchday-5-/",
     "fuente": "UEFA.com"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+    "url": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+    "fuente": "365Scores"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmnTYBRWPFe8SY74HuTu-VWZsTuIspR4EXaVak5ggHt4L7eVozzgkMT02pFIk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pronóstico Como 1907 AEK Atenas - Champions League 24/11/26",
+    "url": "https://www.sportytrader.com/es/pronosticos/como-calcio-aek-atenas-389394/",
+    "fuente": "SportyTrader"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeAuUZaXOaWyucwBDm3VmvajHWgZyqjGa7ltVEFV0TSFxVAZ9Ti_v6UGdb214",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League online",
+    "url": "https://www.managingmadrid.com/115745/real-madrid-psv-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online",
+    "fuente": "Managing Madrid"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYiH9XvJ6dR7VlMJAt5k39zipjJcO6U9-eU6J8ZYYlXlIibjcYMXMwlDIc9M",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Kepa starts in goal, Nwaneri on the visitors’ bench: Arsenal vs Borussia Dortmund line-ups announced",
+    "url": "https://fc-arsenal.com/kepa-starts-in-goal-nwaneri-on-the-visitors-bench-arsenal-vs-borussia-dortmund-line-ups-announced/",
+    "fuente": "fc-arsenal.com"
+   }
+  },
+  "liga de campeones de la afc": {
+   "termino": "liga de campeones de la afc",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_QaVNXaMcQeQCyd5rT7gKAwP56A5OvJK0RWjSA6E_Gs_c17h4_xCfNP00Ts",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El CAHN continúa su racha ganadora en la Liga de Campeones de la AFC, y el entrenador Polking revela un detalle especial.",
+    "url": "https://www.vietnam.vn/es/cahn-tiep-tuc-thang-o-cup-c1-chau-a-hlv-polking-ke-dieu-dac-biet",
+    "fuente": "Vietnam.vn"
    }
   }
  },
@@ -41208,6 +41558,146 @@
     "url": "https://www.semafor.com/article/11/23/2026/mcconnell-may-block-former-rivals-year-end-ambassadorial-confirmation",
     "fuente": "Semafor"
    }
+  },
+  "voyager 1 data glitch nasa": {
+   "termino": "voyager 1 data glitch nasa",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrgYME01rkIfIogfMLz6hm3Y67VN25aSyI3nsnuIPmqobT4ujlqLKA6CCLtVI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Voyager 1 hits new data glitch while making history",
+    "url": "https://www.cnn.com/2026/11/24/science/voyager-1-nasa-communication-breakdown-data-glitch",
+    "fuente": "CNN"
+   }
+  },
+  "skyler gill howard": {
+   "termino": "skyler gill howard",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSis0bZha-afTsZ6_9T2v8UDLsFDCCMU5VzkJYP3NLWbhBOkU8NoslbZVSlrZI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Lions DT Skyler Gill-Howard out for season with knee injury",
+    "url": "https://sports.yahoo.com/articles/lions-dt-skyler-gill-howard-193159904.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "rb leipzig vs lens": {
+   "termino": "rb leipzig vs lens",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvkvHAzoXQqNkHFMS3GOJmnPS12WSauaP-Cd4eHXg-nqEgkuBG9rQiOyIaBNc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Confirmed UCL lineups: RB Leipzig vs. RC Lens",
+    "url": "https://sports.yahoo.com/articles/confirmed-ucl-lineups-rb-leipzig-185700162.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "lincoln fa'alafi": {
+   "termino": "lincoln fa'alafi",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlZtb8i6YNSwnSjx6FUSdks10LvvASiY9yAlFSkf-7AiahS60RTQLMBscAvFI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class",
+    "url": "https://www.espn.com/college-football/story/_/id/50584881/notre-dame-gets-2028-commitment-ot-lincoln-faalafi",
+    "fuente": "ESPN"
+   }
+  },
+  "middlesbrough vs swansea": {
+   "termino": "middlesbrough vs swansea",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQSnC2EtQ_Ifg55aJmnb_s8ymt0Db-66FC1gfhpuFafz4e53SgOY8po-3G4Ro",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Middlesbrough v Swansea City: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cmkgd1j51wx1t",
+    "fuente": "BBC"
+   }
+  },
+  "jerricho cotchery": {
+   "termino": "jerricho cotchery",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiYjCz5nr0fh03ZxWqbPfr1x7rkobrI82gA9a6_aVhVcFMW_LSDMzDmXKUMjk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Another former Wolfpack football player joins new NC State coach Rivers’ staff",
+    "url": "https://www.wral.com/sports/ncstate-jerricho-cotchery-wide-receivers-coach-philip-rivers-staff-november-2026/",
+    "fuente": "WRAL"
+   }
+  },
+  "class action": {
+   "termino": "class action",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8IJhnQvt2YmOK20sewC3Uo-yEatZOjnLObPcRyH_J7RdHC84rpUEIbnhjdPI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "$9.5M Natera genetic screening class action settlement",
+    "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/9-5m-natera-genetic-screening-class-action-settlement/",
+    "fuente": "Top Class Actions"
+   }
+  },
+  "adrian morejon": {
+   "termino": "adrian morejon",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNHIKOOngWfagmqGIVWNK297ZNywz2Qr0REz0DUBh1Ef8cSmkaRwbVn9Y44Ho",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Padres could face unexpected challenge from Yankees in Adrian Morejon sweepstakes",
+    "url": "https://sports.yahoo.com/articles/padres-could-face-unexpected-challenge-181313216.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "wolves vs derby county": {
+   "termino": "wolves vs derby county",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQSnC2EtQ_Ifg55aJmnb_s8ymt0Db-66FC1gfhpuFafz4e53SgOY8po-3G4Ro",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Wolverhampton Wanderers v Derby County: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cm9q84xw47z5t",
+    "fuente": "BBC"
+   }
+  },
+  "high wind warning": {
+   "termino": "high wind warning",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1hSLjHnU0FWE2cyB16xP4VziRraaKaLXgU896k6BIPYjzxjMn3xmvCkh2tOA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Wind advisory for Rockland and Westchester counties for Thursday and Friday — gusts could peak at 55 mph",
+    "url": "https://www.syracuse.com/weather-alerts/2026/11/wind-advisory-for-rockland-and-westchester-counties-for-thursday-and-friday-gusts-could-peak-at-55-m.html",
+    "fuente": "Syracuse.com"
+   }
   }
  },
  "US/nueva-york": {
@@ -52138,6 +52628,141 @@
     "url": "https://ohiobobcats.com/news/2026/11/23/ohio-mens-basketball-set-to-take-on-new-mexico-state-rice-at-2026-scout-jacksonville-classic",
     "fuente": "ohiobobcats.com"
    }
+  },
+  "new york knicks": {
+   "termino": "new york knicks",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4C3AsgqszOlaSRPc_HQMsoEaRhE0XmqgAaIOvvT3tt_75SKsMLwXYdJFyyr8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Josh Hart makes Knicks triple-double history",
+    "url": "https://www.nba.com/watch/video/josh-hart-makes-knicks-triple-double-history",
+    "fuente": "NBA.com"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "champions league standings": {
+   "termino": "champions league standings",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRTmzmMn-rEByEdoFIzdRv1z0dfZ5grtDm_dDC5dwjmpnViy7ci1k5FNv_1eY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Who will earn UEFA Champions League byes? Who will make playoffs? League phase at the halfway point",
+    "url": "https://www.nbcsports.com/soccer/news/who-will-earn-uefa-champions-league-byes-who-will-make-playoffs-and-exit-league-phase-at-the-halfway-point",
+    "fuente": "NBC Sports"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "kaima taira": {
+   "termino": "kaima taira",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+"
+  },
+  "adrian morejon": {
+   "termino": "adrian morejon",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNHIKOOngWfagmqGIVWNK297ZNywz2Qr0REz0DUBh1Ef8cSmkaRwbVn9Y44Ho",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Padres could face unexpected challenge from Yankees in Adrian Morejon sweepstakes",
+    "url": "https://sports.yahoo.com/articles/padres-could-face-unexpected-challenge-181313216.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "arsenal vs dortmund": {
+   "termino": "arsenal vs dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStbidkTKlogKBcO1JsaSe_UVaE8ScuoNZIoYq_f17QnZBMNmH_Am3DfoHEkh8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Arsenal vs Borussia Dortmund: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cr4gnp24p0e6t",
+    "fuente": "BBC"
+   }
+  },
+  "wind advisory": {
+   "termino": "wind advisory",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUn1zJ5aywSx1bZLrNSp6ZShxQpCm-S5L4apoFkKs_iKik9yomBC7A_tPYLM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Western North Carolina under a wind advisory Wednesday and Thursday",
+    "url": "https://www.newsobserver.com/news/weather-news/article318236137.html",
+    "fuente": "Raleigh News & Observer"
+   }
+  },
+  "liv morgan": {
+   "termino": "liv morgan",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6OWj7LZ-lpGI6KYL9BRZ7p4QYEQ3ckUJe4jUToyxcOXGuzBXQQlOBzBsGtB8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
+    "url": "https://deadline.com/2026/11/hooters-the-movie-sets-cast-1237232108/",
+    "fuente": "Deadline"
+   }
   }
  },
  "US/miami": {
@@ -59046,15 +59671,15 @@
   "trinity rodman": {
    "termino": "trinity rodman",
    "primera_vez": "2026-11-22T02:52:37Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwgxVmwOcSBgb7rMd5jgA2_qhnS_19AXPWRDub5Vk08lMooBoEIy3t5qgq0x4",
-   "ultima_vez": "2026-11-22T02:52:37Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2of_gMUgTElepwo8DFlBt6MBOgD9_dnfhX-8OR47T3Q6FRp-cJovO49ahmOM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Trinity Rodman became the best-paid women’s soccer star — then backed up the investment",
-    "url": "https://www.washingtonpost.com/sports/2026/11/20/trinity-rodman-became-best-paid-womens-soccer-star-then-backed-up-investment/",
-    "fuente": "The Washington Post"
+    "titulo": "Ben Shelton and Trinity Rodman SPLIT: Sports' biggest power couple call time on romance after two years",
+    "url": "https://www.dailymail.com/sport/tennis/article-16318175/ben-shelton-trinity-rodman-split.html",
+    "fuente": "Daily Mail"
    }
   },
   "zion williamson": {
@@ -63045,6 +63670,118 @@
     "titulo": "Al-Nassr handed gifts by Al-Sadd: five absences hit the Qatari side",
     "url": "https://www.goal.com/en/news/al-nassr-handed-gifts-by-al-sadd-five-absences-hit-the-qatari-side/bltbe8bd5dac117f3d0",
     "fuente": "Goal.com"
+   }
+  },
+  "real madrid": {
+   "termino": "real madrid",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5fHsQ4oMJZEXkE4gt6DxoIHvXVPNdSdIh46IE591Uxuohe-nA2mXtagoUcYY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
+    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "como vs aek": {
+   "termino": "como vs aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjWXtUtcu_Fw7iaahlpH5V-0aOrN6OCG7zhtYTcu8yge9Laq5jkehFgxVt5rA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Como - AEK, en directo: Champions League hoy en vivo",
+    "url": "https://as.com/futbol/champions/como-aek-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "slovan bratislava vs betis": {
+   "termino": "slovan bratislava vs betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdC-E9MNxubediFsOXXRtHJLA8j0OemUCytSMO4xXpqOx07x9XUqnfcMbSiKM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Yaya Toure relishes reunion with former Man City boss Pellegrini",
+    "url": "https://www.besoccer.com/new/yaya-toure-relishes-reunion-with-former-man-city-boss-pellegrini-1443061",
+    "fuente": "BeSoccer Livescore"
+   }
+  },
+  "champions league standings": {
+   "termino": "champions league standings",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRTmzmMn-rEByEdoFIzdRv1z0dfZ5grtDm_dDC5dwjmpnViy7ci1k5FNv_1eY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Who will earn UEFA Champions League byes? Who will make playoffs? League phase at the halfway point",
+    "url": "https://www.nbcsports.com/soccer/news/who-will-earn-uefa-champions-league-byes-who-will-make-playoffs-and-exit-league-phase-at-the-halfway-point",
+    "fuente": "NBC Sports"
+   }
+  },
+  "man overboard": {
+   "termino": "man overboard",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ23TLzr32yyuntGpsnXONRR5ehs352qG-wD1f9t6bRl7l-CdnDkqoIKjZHzx0",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Man on cruise ship goes overboard off Bahamas, search underway",
+    "url": "https://www.cbsnews.com/news/royal-caribbean-allure-of-the-seas-man-overboard-bahamas/",
+    "fuente": "CBS News"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "retriever": {
+   "termino": "retriever",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1NOd1uUg7s1rknAImhln9Gg3RoemENPiVkIme6h5DAmd4vpn-pnzFMGOzSQk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Golden Retriever Caught on Camera Leaping into Pool to Save Drowning Toddler",
+    "url": "https://people.com/golden-retriever-caught-on-camera-leaping-into-pool-to-save-drowning-toddler-12276754",
+    "fuente": "People.com"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
    }
   }
  },
@@ -75801,6 +76538,127 @@
     "url": "https://www.dailymail.com/sport/tennis/article-16318175/ben-shelton-trinity-rodman-split.html",
     "fuente": "Daily Mail"
    }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqwUVc_qWy2yjiUxMYKwXAE7QXTqOEWWaZQ4UGRVw35yxI5AzXRLJTBvXcgUY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "[𝙇𝙄𝙑𝙀𝙎𝙏𝙍𝙀𝘼𝙈𝙨]**Real Madrid vs PSV Eindhoven Live Free UEFA Champions League Soccer 2026",
+    "url": "https://www.tallahatchienews.ms/node/457355",
+    "fuente": "Charleston Sun-Sentinel"
+   }
+  },
+  "real madrid schedule": {
+   "termino": "real madrid schedule",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzuI1i_mSGmFqiIOgM6O7DpfhqNgnLzLAvDxv3iMJYW6mLONW5Il6bpWFLghg",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Medical Report: Endrick",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/parte-medico-de-endrick-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "bambu lab p3c 3d printer": {
+   "termino": "bambu lab p3c 3d printer",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHOXLiLqcFpboOyh-LRQ4QMf0hPgY-EXZme_QqS9NQ7llM--xudMtmmxzqTQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+    "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+    "fuente": "The Verge"
+   }
+  },
+  "como vs aek": {
+   "termino": "como vs aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjWXtUtcu_Fw7iaahlpH5V-0aOrN6OCG7zhtYTcu8yge9Laq5jkehFgxVt5rA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Como - AEK, en directo: Champions League hoy en vivo",
+    "url": "https://as.com/futbol/champions/como-aek-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "slovan bratislava vs betis": {
+   "termino": "slovan bratislava vs betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdC-E9MNxubediFsOXXRtHJLA8j0OemUCytSMO4xXpqOx07x9XUqnfcMbSiKM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Yaya Toure relishes reunion with former Man City boss Pellegrini",
+    "url": "https://www.besoccer.com/new/yaya-toure-relishes-reunion-with-former-man-city-boss-pellegrini-1443061",
+    "fuente": "BeSoccer Livescore"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "kaima taira": {
+   "termino": "kaima taira",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+"
+  },
+  "bristol city vs wrexham": {
+   "termino": "bristol city vs wrexham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbm_X_CZghactxfx3KkGhDCpgtqYpNgiM2G-1h-G8gRyItxk9WGOwS1yMDZwM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bristol City v Wrexham: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cm7527rd7d3lt",
+    "fuente": "BBC"
+   }
+  },
+  "hbo max black friday": {
+   "termino": "hbo max black friday",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr5_zfmbfS-UYgUSLS9HlzxVnVVDoaxZXCXjMoA8jt3bFZw8l3MZDExxdz3vE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Hulu, Disney+, Apple TV, HBO Max and More Streamers Up to 80% Off For Black Friday",
+    "url": "https://variety.com/2026/shopping/news/best-black-friday-streaming-deals-1235441075/",
+    "fuente": "Variety"
+   }
   }
  },
  "US/houston": {
@@ -82541,15 +83399,15 @@
   "trinity rodman": {
    "termino": "trinity rodman",
    "primera_vez": "2026-11-22T03:51:57Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwgxVmwOcSBgb7rMd5jgA2_qhnS_19AXPWRDub5Vk08lMooBoEIy3t5qgq0x4",
-   "ultima_vez": "2026-11-22T03:51:57Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2of_gMUgTElepwo8DFlBt6MBOgD9_dnfhX-8OR47T3Q6FRp-cJovO49ahmOM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Trinity Rodman became the best-paid women’s soccer star — then backed up the investment",
-    "url": "https://www.washingtonpost.com/sports/2026/11/20/trinity-rodman-became-best-paid-womens-soccer-star-then-backed-up-investment/",
-    "fuente": "The Washington Post"
+    "titulo": "Ben Shelton and Trinity Rodman SPLIT: Sports' biggest power couple call time on romance after two years",
+    "url": "https://www.dailymail.com/sport/tennis/article-16318175/ben-shelton-trinity-rodman-split.html",
+    "fuente": "Daily Mail"
    }
   },
   "ryan garcia": {
@@ -86096,6 +86954,118 @@
     "titulo": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
     "url": "https://deadline.com/2026/11/hooters-the-movie-sets-cast-1237232108/",
     "fuente": "Deadline"
+   }
+  },
+  "bristol city vs wrexham": {
+   "termino": "bristol city vs wrexham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbm_X_CZghactxfx3KkGhDCpgtqYpNgiM2G-1h-G8gRyItxk9WGOwS1yMDZwM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bristol City v Wrexham: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cm7527rd7d3lt",
+    "fuente": "BBC"
+   }
+  },
+  "slovan bratislava vs betis": {
+   "termino": "slovan bratislava vs betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdC-E9MNxubediFsOXXRtHJLA8j0OemUCytSMO4xXpqOx07x9XUqnfcMbSiKM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Yaya Toure relishes reunion with former Man City boss Pellegrini",
+    "url": "https://www.besoccer.com/new/yaya-toure-relishes-reunion-with-former-man-city-boss-pellegrini-1443061",
+    "fuente": "BeSoccer Livescore"
+   }
+  },
+  "ilhan omar": {
+   "termino": "ilhan omar",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9dU26MMmay_kvRzCTf8zFQ-6DHYEBi0XSB6ciPXXQs-0Kum6u1LvDi4ttLys",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Ilhan Omar Investigation Covers Most of Her Life, Unsealed Records Show",
+    "url": "https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c",
+    "fuente": "WSJ"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "jalen hurts": {
+   "termino": "jalen hurts",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXOjPqOP739wNdzedOGKRmpe4IsyvDmaI6LRDQcBhNcbhjP6CBivZnbVQYhgs",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Jalen Hurts demands a trade from Philadelphia Eagles viral rumour explained",
+    "url": "https://sports.yahoo.com/articles/jalen-hurts-demands-trade-philadelphia-101923080.html",
+    "fuente": "Yahoo Sports"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "champions league standings": {
+   "termino": "champions league standings",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRTmzmMn-rEByEdoFIzdRv1z0dfZ5grtDm_dDC5dwjmpnViy7ci1k5FNv_1eY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Who will earn UEFA Champions League byes? Who will make playoffs? League phase at the halfway point",
+    "url": "https://www.nbcsports.com/soccer/news/who-will-earn-uefa-champions-league-byes-who-will-make-playoffs-and-exit-league-phase-at-the-halfway-point",
+    "fuente": "NBC Sports"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
    }
   }
  },
@@ -95122,15 +96092,15 @@
   "trinity rodman": {
    "termino": "trinity rodman",
    "primera_vez": "2026-11-22T03:51:57Z",
-   "veces": 1,
-   "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwgxVmwOcSBgb7rMd5jgA2_qhnS_19AXPWRDub5Vk08lMooBoEIy3t5qgq0x4",
-   "ultima_vez": "2026-11-22T03:51:57Z",
-   "trafico": "100+",
+   "veces": 2,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2of_gMUgTElepwo8DFlBt6MBOgD9_dnfhX-8OR47T3Q6FRp-cJovO49ahmOM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
-    "titulo": "Trinity Rodman became the best-paid women’s soccer star — then backed up the investment",
-    "url": "https://www.washingtonpost.com/sports/2026/11/20/trinity-rodman-became-best-paid-womens-soccer-star-then-backed-up-investment/",
-    "fuente": "The Washington Post"
+    "titulo": "Ben Shelton and Trinity Rodman SPLIT: Sports' biggest power couple call time on romance after two years",
+    "url": "https://www.dailymail.com/sport/tennis/article-16318175/ben-shelton-trinity-rodman-split.html",
+    "fuente": "Daily Mail"
    }
   },
   "wild – canucks": {
@@ -99936,6 +100906,104 @@
     "titulo": "Wildlife Officers Respond To Grizzly Bear Roaming Slopes of Canadian Ski Resort",
     "url": "https://unofficialnetworks.com/2026/11/23/wildlife-officers-respond-to-grizzly-bear-roaming-slopes-of-canadian-ski-resort/",
     "fuente": "Unofficial Networks"
+   }
+  },
+  "feyenoord vs porto": {
+   "termino": "feyenoord vs porto",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_asqy2BYc_BIgUg7QaOf2-zSJNnFjZcBlFu6eMo_xBvUyXLh_nNb7R2sn5q8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Feyenoord v Porto Odds",
+    "url": "https://sportsbook.fanduel.com/soccer/uefa-champions-league/feyenoord-v-porto-36288672",
+    "fuente": "FanDuel Sportsbook"
+   }
+  },
+  "como vs aek": {
+   "termino": "como vs aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtWstpICz4W72_7rvMG2VkoRF2u1QAAswRdyMq2NPOwoq93lWhxhGQHelqzA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pronóstico Como vs AEK Athens FC: Ventaja de jugar en casa",
+    "url": "https://www.vietnam.vn/es/nhan-dinh-como-vs-aek-athens-fc-diem-tua-san-nha",
+    "fuente": "Vietnam.vn"
+   }
+  },
+  "bristol city vs wrexham": {
+   "termino": "bristol city vs wrexham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbm_X_CZghactxfx3KkGhDCpgtqYpNgiM2G-1h-G8gRyItxk9WGOwS1yMDZwM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Bristol City v Wrexham: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cm7527rd7d3lt",
+    "fuente": "BBC"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBZlJRBsyKSq6p-ey8aaQPq3HQzZzPgX1YbUwbbIfAYoWu5kpQAF0IkFHrajw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "How to watch Manchester City vs. Napoli in the US today",
+    "url": "https://www.dazn.com/en-US/news/soccer/watch-manchester-city-vs-napoli-us-today/bg4l25ufuqu1sqmjbam94w52",
+    "fuente": "DAZN"
+   }
+  },
+  "simon edvinsson": {
+   "termino": "simon edvinsson",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjjTz94Xy67lALpM2x6BIqrVY4zalOQd7nr9NZ_J4iBZoLJtS1b3qgpVeO44",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Early Trading: Edvinsson talks picking up a week out from deadline",
+    "url": "https://www.tsn.ca/nhl/article/early-trading-edvinsson-talks-picking-up-a-week-out-from-deadline/",
+    "fuente": "TSN"
+   }
+  },
+  "bodo glimt": {
+   "termino": "bodo glimt",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5uomcN2fznaeC5t7UGS4d6p9vZ2PK-zbROy-03n1VFadlFv2a4TtQjv3xIug",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Samuel Adeniran's Odds to Score vs. Bodo/Glimt Today",
+    "url": "https://news.bet365.com/en-us/article/samuel-adenirans-odds-to-score-vs-bodoglimt-today/2026112416261141336",
+    "fuente": "news.bet365.com"
    }
   }
  },
@@ -111016,11 +112084,11 @@
   "days of our lives": {
    "termino": "days of our lives",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHm8VnPInibluR4aFL8dai6FySjYLr2IrIFP-t6MzCBid14rR0nFfm99avTCQ",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "‘Days of Our Lives’ Star AnnaLynne McCord Says the Soap ‘Saved’ Her During Financial Struggles",
     "url": "https://people.com/days-of-our-lives-star-annalynne-mccord-says-the-soap-saved-me-during-financial-struggles-12276383",
@@ -111044,11 +112112,11 @@
   "blood sugar": {
    "termino": "blood sugar",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 200,
+   "veces": 2,
+   "max_trafico": 500,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4WkM3hVMlfOsJMJyGf5DiqMexAih3S5qKV46wC8d7O9QvHV3ecfnZ25zVSY",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "200+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
    "noticia": {
     "titulo": "Short walks throughout the day may help keep blood sugar in check",
     "url": "https://www.medicalnewstoday.com/articles/short-walking-breaks-may-offer-advantage-blood-sugar-management",
@@ -111058,11 +112126,11 @@
   "microsoft code red": {
    "termino": "microsoft code red",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGZajGeZ3Q1CYfYVEduLKaYeKbO9xDgN9maUxWb2GCF2yo3Uk2Xxg0pAvrx3E",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show",
     "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
@@ -111095,6 +112163,104 @@
     "titulo": "MLB rumors: Guardians add veteran pitcher; Mets, Cubs may not be done yet; what's next for Blue Jays",
     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-cubs-twins-guardians-kris-bubic/",
     "fuente": "CBS Sports"
+   }
+  },
+  "bristol city vs wrexham": {
+   "termino": "bristol city vs wrexham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbm_X_CZghactxfx3KkGhDCpgtqYpNgiM2G-1h-G8gRyItxk9WGOwS1yMDZwM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bristol City v Wrexham: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cm7527rd7d3lt",
+    "fuente": "BBC"
+   }
+  },
+  "electric vehicle battery": {
+   "termino": "electric vehicle battery",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ1kqdfddjZhZdsiKu-85fGzp-cwoLhT0ETITDJLG6tDndDnv9pLkzNXHqqY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Instead of getting recycled, many EV batteries are being repurposed",
+    "url": "https://www.cbc.ca/news/science/repurposing-ev-batteries-9.7432934",
+    "fuente": "CBC"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBZlJRBsyKSq6p-ey8aaQPq3HQzZzPgX1YbUwbbIfAYoWu5kpQAF0IkFHrajw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "How to watch Manchester City vs. Napoli in the US today",
+    "url": "https://www.dazn.com/en-US/news/soccer/watch-manchester-city-vs-napoli-us-today/bg4l25ufuqu1sqmjbam94w52",
+    "fuente": "DAZN"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "champions league standings": {
+   "termino": "champions league standings",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRTmzmMn-rEByEdoFIzdRv1z0dfZ5grtDm_dDC5dwjmpnViy7ci1k5FNv_1eY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Who will earn UEFA Champions League byes? Who will make playoffs? League phase at the halfway point",
+    "url": "https://www.nbcsports.com/soccer/news/who-will-earn-uefa-champions-league-byes-who-will-make-playoffs-and-exit-league-phase-at-the-halfway-point",
+    "fuente": "NBC Sports"
+   }
+  },
+  "rep ilhan omar": {
+   "termino": "rep ilhan omar",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRf3i2oFOLgWpyFneJu0eBpAN1HUma2dOR9zXpHMJfBrMXGARf-WGQ3Hm6I54",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "US court unseals heavily redacted records on Ilhan Omar home search",
+    "url": "https://www.bbc.com/news/articles/c6n831lzl5y1o",
+    "fuente": "BBC"
+   }
+  },
+  "dragon age": {
+   "termino": "dragon age",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaXl6up1vFIcOGxmUxkgiKV_XrMkajWwSik6zIKZGy4tbme0ulXANoB8Zw4No",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Former Dragon Age boss questions whether BioWare should have become 'a one project studio' dropping either Mass Effect or Dragon Age to survive EA",
+    "url": "https://www.pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea/",
+    "fuente": "PC Gamer"
    }
   }
  },
@@ -118351,15 +119517,15 @@
   "galatasaray vs aston villa": {
    "termino": "galatasaray vs aston villa",
    "primera_vez": "2026-11-24T17:52:05Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3hRTwFhtzLcv-BnWPrBX2arF6ZcpHGmNB-ZHo1T25pRxhEShgOKLe8u66pI",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAftfsxMSlT7hJEvRTODs9TpgNfux32atH5lwA09WZCtDhnSgXYMtalmJv3LY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "The familiar faces of Galatasaray ready to halt Villa's Champions League charge",
-    "url": "https://www.dazn.com/en-CA/news/soccer/aston-villa-galatasaray-champions-league-gundogan-sane/1hcpir6u29dlm16z3afkakgdn0",
-    "fuente": "DAZN"
+    "titulo": "Galatasaray 1-0 Aston Villa: Deniz Gul breaks Villa's resistance in the Champions League",
+    "url": "https://www.bbc.com/sport/football/live/c8wy5dq7dn3wt",
+    "fuente": "BBC"
    }
   },
   "uefa champions league": {
@@ -118379,43 +119545,43 @@
   "galatasaray – aston villa": {
    "termino": "galatasaray – aston villa",
    "primera_vez": "2026-11-24T17:52:05Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiFn8DAEUytF52YMYfu_aPfLOED8E6jYBKiBWSRd-njmdmNkxsLvyqGuVw858",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_HML5LkrtMoPDbhG0Rxma0S7XG6ZRylA9DdYaKk2bXHmSyEUrTyJzD7vUc3Y",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "CANLI | Galatasaray - Aston Villa maçı TRT 1'de",
-    "url": "https://www.trtspor.com.tr/haber/futbol/canli-or-galatasaray-aston-villa-maci-trt-1de-34204004",
-    "fuente": "TRTSpor"
+    "titulo": "Galatasaray-Aston Villa maçında Batrakov ve McGinn sarı kart gördü",
+    "url": "https://www.haber.tr/galatasaray-aston-villa-macinda-batrakov-ve-mcginn-sari-kart-gordu",
+    "fuente": "Haber TR"
    }
   },
   "ligue des champions": {
    "termino": "ligue des champions",
    "primera_vez": "2026-11-24T17:52:05Z",
-   "veces": 2,
-   "max_trafico": 200,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5tPh6w0V1bEwOq4qPBIdYfvxiRAkc5rKZwapjHt8Dy5y5n9I_PhwfT1e5UKI",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "200+",
+   "veces": 3,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lOJifm5QjEyog-jk_wV3f_t_CY_N0CVch9RHn0pWhGUWkEzNOxHanr687EQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
    "noticia": {
-    "titulo": "Classement, chocs, situation des Français… Ce qu’il faut savoir avant la reprise de la Ligue des champions",
-    "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/classement-chocs-situation-des-francais-ce-qu-il-faut-savoir-avant-la-reprise-de-la-ligue-des-champions-20261124",
-    "fuente": "Le Figaro"
+    "titulo": "Lens : Digard est «comme à Disney» avant ses débuts en Ligue des Champions",
+    "url": "https://www.footmercato.net/a1442215723281581093-lens-digard-est-comme-a-disney-avant-ses-debuts-en-ligue-des-champions",
+    "fuente": "Foot Mercato"
    }
   },
   "ilhan omar": {
    "termino": "ilhan omar",
    "primera_vez": "2026-11-24T17:52:05Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPuaI5oLnBCTblw-EoiS_-IyaSN-DEFStwzDfBoFlZhFe4JG_elJ0DarpOEY",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRf3i2oFOLgWpyFneJu0eBpAN1HUma2dOR9zXpHMJfBrMXGARf-WGQ3Hm6I54",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Judge unseals records on Ilhan Omar’s home search amid constitutional debate",
-    "url": "https://www.theguardian.com/us-news/2026/nov/24/ilhan-omar-home-search-judge-ruling",
-    "fuente": "The Guardian"
+    "titulo": "US court unseals heavily redacted records on Ilhan Omar home search",
+    "url": "https://www.bbc.com/news/articles/c6n831lzl5y1o",
+    "fuente": "BBC"
    }
   },
   "lac": {
@@ -118435,11 +119601,11 @@
   "al-nassr fc – al sadd": {
    "termino": "al-nassr fc – al sadd",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 500,
+   "veces": 2,
+   "max_trafico": 1000,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98gGQh-Btqc4qllJSO7Ty-fyNuvR0HSlAYPP7DzXgpplUoZUav6eT8Nz2mRM",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "500+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
    "noticia": {
     "titulo": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
     "url": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
@@ -118458,6 +119624,57 @@
     "titulo": "Installation des pneus d’hiver: le temps doux offre un répit aux garagistes",
     "url": "https://www.noovo.info/nouvelles/societe/article/le-temps-clement-retarde-la-ruee-vers-linstallation-des-pneus-dhiver-a-lapproche-de-la-date-limite/",
     "fuente": "Noovo Info"
+   }
+  },
+  "kaima taira": {
+   "termino": "kaima taira",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+"
+  },
+  "manchester city – naples": {
+   "termino": "manchester city – naples",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBZlJRBsyKSq6p-ey8aaQPq3HQzZzPgX1YbUwbbIfAYoWu5kpQAF0IkFHrajw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "How to watch Manchester City vs. Napoli in the US today",
+    "url": "https://www.dazn.com/en-US/news/soccer/watch-manchester-city-vs-napoli-us-today/bg4l25ufuqu1sqmjbam94w52",
+    "fuente": "DAZN"
+   }
+  },
+  "real madrid – psv eindhoven": {
+   "termino": "real madrid – psv eindhoven",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "ucl": {
+   "termino": "ucl",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8v03mxHWIFclrLJ2FlpDi8hFFXyYVcqfNrksp0ONePfVN6Y2WH8uuL91d_Ns",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Watch again: BVB executives' speeches at the 2026 AGM",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/watch-again-bvb-executives-speeches-180700908.html",
+    "fuente": "Yahoo Finance"
    }
   }
  },
@@ -123136,15 +124353,15 @@
   "s&p 500": {
    "termino": "s&p 500",
    "primera_vez": "2026-11-23T14:58:37Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBPPmIwG1RM3SbCvv6Ls5xmHmtnQxDTEpo89UfVL5LKAGETPukEFDTob56Kdg",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQicDZ6nrY_guk3-tvxJVLNHLQPKQQYF3jO7WJIA7uYwIzJ78MzN5lPLs2cAWE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO",
-    "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
-    "fuente": "Yahoo Finance"
+    "titulo": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate",
+    "url": "https://www.goldmansachs.com/insights/articles/us-stocks-predicted-to-extend-historic-rally-as-gains-moderate",
+    "fuente": "Goldman Sachs"
    }
   },
   "bitcoin price usd": {
@@ -123934,11 +125151,11 @@
   "champions league": {
    "termino": "champions league",
    "primera_vez": "2026-11-24T16:02:54Z",
-   "veces": 4,
-   "max_trafico": 1000,
+   "veces": 5,
+   "max_trafico": 2000,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC90G3N-9oIHsYhd9Fye66FBOaS-pRlxlfOPWEe452lGj_ZRRTAtEnJpFIbYA",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "1000+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
    "noticia": {
     "titulo": "Why Dortmund’s defensive transformation makes them a dangerous opponent for Arsenal",
     "url": "https://www.dazn.com/en-CA/news/soccer/dortmunds-arsenal-champions-league/y0vr9s19bup71b0hq9vin0jx2",
@@ -123948,10 +125165,10 @@
   "天气": {
    "termino": "天气",
    "primera_vez": "2026-11-24T16:02:54Z",
-   "veces": 4,
+   "veces": 5,
    "max_trafico": 100,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIIyA9GFC90fK_VOpIR8qP8U_hYjKh9mfytw7XDCV0XaI1OpxpCgMcok4HNMg",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
     "titulo": "【多伦多天气】本周气温急降 今晚跌至零下4度 北部或飘雪",
@@ -124004,15 +125221,15 @@
   "galatasaray vs aston villa": {
    "termino": "galatasaray vs aston villa",
    "primera_vez": "2026-11-24T17:52:05Z",
-   "veces": 2,
-   "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3hRTwFhtzLcv-BnWPrBX2arF6ZcpHGmNB-ZHo1T25pRxhEShgOKLe8u66pI",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "500+",
+   "veces": 3,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAftfsxMSlT7hJEvRTODs9TpgNfux32atH5lwA09WZCtDhnSgXYMtalmJv3LY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
    "noticia": {
-    "titulo": "The familiar faces of Galatasaray ready to halt Villa's Champions League charge",
-    "url": "https://www.dazn.com/en-CA/news/soccer/aston-villa-galatasaray-champions-league-gundogan-sane/1hcpir6u29dlm16z3afkakgdn0",
-    "fuente": "DAZN"
+    "titulo": "Galatasaray 1-0 Aston Villa: Deniz Gul breaks Villa's resistance in the Champions League",
+    "url": "https://www.bbc.com/sport/football/live/c8wy5dq7dn3wt",
+    "fuente": "BBC"
    }
   },
   "uefa champions league": {
@@ -124032,15 +125249,66 @@
   "al-nassr vs al sadd": {
    "termino": "al-nassr vs al sadd",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98gGQh-Btqc4qllJSO7Ty-fyNuvR0HSlAYPP7DzXgpplUoZUav6eT8Nz2mRM",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
     "url": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
     "fuente": "SportsAdda"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBZlJRBsyKSq6p-ey8aaQPq3HQzZzPgX1YbUwbbIfAYoWu5kpQAF0IkFHrajw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "How to watch Manchester City vs. Napoli in the US today",
+    "url": "https://www.dazn.com/en-US/news/soccer/watch-manchester-city-vs-napoli-us-today/bg4l25ufuqu1sqmjbam94w52",
+    "fuente": "DAZN"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOYcfdoiifmNV3Sl_hqGtKQNf0oK3jjJKAHYv3hKasLomBmbKoZuEi_79r8k",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Mourinho: ‘The 12 points give us some breathing space, but we don’t want to be in the Champions League play-offs’",
+    "url": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-23-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "kaima taira": {
+   "termino": "kaima taira",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+"
+  },
+  "blood sugar": {
+   "termino": "blood sugar",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4WkM3hVMlfOsJMJyGf5DiqMexAih3S5qKV46wC8d7O9QvHV3ecfnZ25zVSY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Short walks throughout the day may help keep blood sugar in check",
+    "url": "https://www.medicalnewstoday.com/articles/short-walking-breaks-may-offer-advantage-blood-sugar-management",
+    "fuente": "Medical News Today"
    }
   }
  },
@@ -128168,15 +129436,15 @@
   "como fc": {
    "termino": "como fc",
    "primera_vez": "2026-11-21T14:47:52Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7u758FmUlKmfaDsALqftL59JO51rIwPs00RCcu-vjFFPETdzC3dCSK-GeS24",
-   "ultima_vez": "2026-11-21T15:41:55Z",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBf8C1FVBdeguaOEo1jDq2O-JSf9AtBYK3z4gxY9o7YLIk10xaP80cQisi0XQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Champions League upstarts Como suffer Moise Kean injury blow",
-    "url": "https://www.espn.com/soccer/story/_/id/50542117/como-moise-kean-injury-champions-league-italy-serie-a",
-    "fuente": "ESPN"
+    "titulo": "Liga de Campeones",
+    "url": "https://www.elcorreo.com/deportes/futbol/directos/liga-campeones/2026-2027/real-madrid-cf-psv-eindhoven-6339-249-6339-10-5-sd.html",
+    "fuente": "El Correo"
    }
   },
   "ranking sunedu universidades públicas": {
@@ -128602,15 +129870,15 @@
   "feyenoord": {
    "termino": "feyenoord",
    "primera_vez": "2026-11-21T18:42:02Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 100,
-   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgdzvWfSL3Zh_fPqQ_g_7oa3QXZ_61VNEIpsEBwqIVDqf8kx-lE8PKgCrabWE",
-   "ultima_vez": "2026-11-21T18:42:02Z",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqNnqZ73Pe_QjkzH6t_iqBdwDzCMbIO1ib0YkcxVd3B2cAuEwP_Bz62Vuvti8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "100+",
    "noticia": {
-    "titulo": "Feyenoord treft tegenstander met problemen: \"We moeten terug naar de basis\"",
-    "url": "https://www.fr12.nl/nieuws/feyenoord-treft-tegenstander-met-problemen-we-moeten-terug-naar-de-basis",
-    "fuente": "FR12.nl"
+    "titulo": "Tjark Ernst en the point of no return",
+    "url": "https://www.vi.nl/pro/tjark-ernst-en-the-point-of-no-return",
+    "fuente": "Voetbal International"
    }
   },
   "nice vs psg": {
@@ -132432,6 +133700,104 @@
     "titulo": "Champions League: Lookman out, Osimhen doubtful · SNA",
     "url": "https://sportnewsafrica.com/en/alerts/champions-league-lookman-out-osimhen-doubtful/",
     "fuente": "Sport News Africa"
+   }
+  },
+  "leipzig vs": {
+   "termino": "leipzig vs",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHtLL6sedoRLq7psMzj8PW0BOMKHvMQ9V_h8Z7muMNtUyNJizBLWT98_t57U",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Aufwind gegen Krise: Ein Sieg ist für Leipzig Pflicht",
+    "url": "https://www.kicker.de/aufwind-gegen-krise-ein-sieg-ist-fuer-leipzig-pflicht-1274418/artikel",
+    "fuente": "Kicker"
+   }
+  },
+  "porto vs. napoli": {
+   "termino": "porto vs. napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "como vs. cagliari": {
+   "termino": "como vs. cagliari",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yFCA_H12roYdtaPTPyXUGNYDQC-1CH7hGK68-M0rWsz4xWlHkri7LENlMLQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Kings vs. Canadiens (Nov 23, 2026) Live Score",
+    "url": "https://www.espn.com/nhl/game/_/gameId/401892774",
+    "fuente": "ESPN"
+   }
+  },
+  "rb leipzig - lens": {
+   "termino": "rb leipzig - lens",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11yH234jo7610oMQHjnoCrYzSgg3v79bgBPHWMw3gMLE6PvqRTuVP6kML9Ko",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Preview: RB Leipzig vs Lens - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/rb-leipzig/champions-league/preview/rb-leipzig-vs-lens-prediction-team-news-lineups_609645.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+    "url": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+    "fuente": "365Scores"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Team news: Gyokeres starts against Dortmund",
+    "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+    "fuente": "Arsenal.com"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
    }
   }
  },
@@ -140196,11 +141562,11 @@
   "liga de campeones de la afc": {
    "termino": "liga de campeones de la afc",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
-   "max_trafico": 100,
+   "veces": 2,
+   "max_trafico": 200,
    "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA-cqEExJv2v2XclImpiVUgVSK0gKI7acP4VlK4OZ0VUbUn8TQ7ABczJRUviI",
-   "ultima_vez": "2026-11-24T18:56:31Z",
-   "trafico": "100+",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
    "noticia": {
     "titulo": "Avance del partido: Al Quwa Al Jawiya vs Al-Gharafa, ronda élite de la Liga de Campeones AFC 5",
     "url": "https://www.vietnam.vn/es/nhan-dinh-al-quwa-al-jawiya-vs-al-gharafa-vong-5-afc-champions-league-elite",
@@ -140210,10 +141576,10 @@
   "yacare": {
    "termino": "yacare",
    "primera_vez": "2026-11-24T18:56:31Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
    "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwbMyTNdchcbGEfUNR9eKI4bK-hGfU6IoAsOBoJvOhjEqi8OQBGsutfujQO1Q",
-   "ultima_vez": "2026-11-24T18:56:31Z",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "200+",
    "noticia": {
     "titulo": "Hombre ofrecía caimán yacaré por $750 mil en Hualpén: Habría lanzado especies por WC al llegar la PDI",
@@ -140233,6 +141599,118 @@
     "titulo": "Simeone: My next record is to beat Viking",
     "url": "https://onefootball.com/en/news/simeone-my-next-record-is-to-beat-viking-43831019",
     "fuente": "OneFootball"
+   }
+  },
+  "psv": {
+   "termino": "psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb-cOAh7SXhlpnd9MH9EBe7s5NcF4clJKAzMTCAGRQumnISzu0kbgibc4GTZ4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "MULTILIVE. Thibaut Courtois uiteraard onder de lat bij Real, ook Maarten Vandevoordt (Leipzig) en Charles Vanhoutte (Feyenoord) starten",
+    "url": "https://www.hln.be/champions-league/multilive-thibaut-courtois-uiteraard-onder-de-lat-bij-real-ook-maarten-vandevoordt-leipzig-en-charles-vanhoutte-feyenoord-starten~abc7a0ad/",
+    "fuente": "HLN"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_pckXdMpgBzlF_ON3Lg28urT-hmtz5irs9kGTLvFgKmTq4kSBSC38jLTLobo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Cuándo juegan Como vs. AEK Atenas por la fecha 5 de la Champions League: equipo, fecha, hora y TV en vivo",
+    "url": "https://www.espn.cl/futbol/europa/nota/_/id/17553087/como-vs-aek-atenas-fecha-5-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+    "fuente": "ESPN Chile"
+   }
+  },
+  "iván poduje": {
+   "termino": "iván poduje",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF687fScjAreAdQmH41SR36yr-9Rv_2wiDLtYZy6ll9A9RdzY7kT1Zqi5TQMA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "\"¿Quiere irse con carabineros?\": Tenso cruce de Poduje en desalojo de Federación de Tenis en Las Condes",
+    "url": "https://www.emol.com/noticias/Nacional/2026/11/24/1218054/poduje-enfrentamiento-desalojo-federacion-tenis.html",
+    "fuente": "Emol"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+    "url": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+    "fuente": "365Scores"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Team news: Gyokeres starts against Dortmund",
+    "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+    "fuente": "Arsenal.com"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeAuUZaXOaWyucwBDm3VmvajHWgZyqjGa7ltVEFV0TSFxVAZ9Ti_v6UGdb214",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League online",
+    "url": "https://www.managingmadrid.com/115745/real-madrid-psv-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online",
+    "fuente": "Managing Madrid"
+   }
+  },
+  "río atmosférico": {
+   "termino": "río atmosférico",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJp_QYFSziTp1CVqPvFSEAcD7-QH7yFD6tVsov1ZkNudRzdBNG4IOBF88dVVc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Anuncian tres sistemas frontales esta semana: a qué regiones de Chile afectarán",
+    "url": "https://www.latercera.com/tendencias/noticia/anuncian-tres-sistemas-frontales-esta-semana-a-que-regiones-de-chile-afectaran/",
+    "fuente": "La Tercera"
    }
   }
  },
@@ -150940,6 +152418,132 @@
     "titulo": "Team news for Galatasaray encounter",
     "url": "https://www.avfc.co.uk/news/2026/november/23/prematch-team-news-for-galatasaray-encounter/",
     "fuente": "Aston Villa"
+   }
+  },
+  "feyenoord - porto": {
+   "termino": "feyenoord - porto",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_asqy2BYc_BIgUg7QaOf2-zSJNnFjZcBlFu6eMo_xBvUyXLh_nNb7R2sn5q8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Feyenoord v Porto Odds",
+    "url": "https://sportsbook.fanduel.com/soccer/uefa-champions-league/feyenoord-v-porto-36288672",
+    "fuente": "FanDuel Sportsbook"
+   }
+  },
+  "superluna castor": {
+   "termino": "superluna castor",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuPgq6qTuJfzRQTwQ-QDjKaHr7o1ogJbcgsD9A68hcjjweK7KsQx49bXPIB8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Hoy es la Luna llena en Géminis 2026: estos son los signos que la sentirán con más intensidad",
+    "url": "https://www.clarin.com/astrologia/hoy-luna-llena-geminis-2026-signos-sentiran-intensidad_0_blLrvfohx7.html",
+    "fuente": "Clarin.com"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUUl9Q33uT5OLKpB5ACo0bpfXQMubIDmpHUSyh-LTKepA1hgj9RzgwwEVuxI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "City-Napoli, i numeri: 19 dei 25 gol del City nella ripresa",
+    "url": "https://www.365scores.com/it/news/champions-league/city-napoli-i-numeri-19-dei-25-gol-del-city-nella-ripresa/",
+    "fuente": "365Scores"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUBiV7aZj0zHQo3vZQl3DIKzEAwSH7OSw1qBGVIFUT94pYnrEBhTRxB6ThiCE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Como vs. AEK Atenas, hoy EN VIVO por la Champions League: posibles formaciones, horario y por dónde ver",
+    "url": "https://www.ole.com.ar/futbol-internacional/champions/champions-league-nico-paz-aek-atenas-hora-transmite-vivo-resultado_0_kFGckyMzdR.html",
+    "fuente": "Olé"
+   }
+  },
+  "cebra phone": {
+   "termino": "cebra phone",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLijx_DnVvTr7_cwzy1F-sINzSq1BQqNV3H3nu3AxdIJDGSFLr64kodDgtz8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Caso Cebra Phone: condenaron a seis años a Obregón y a su pareja a tres años en suspenso",
+    "url": "https://www.diarionorte.com/337191-caso-cebra-phone-condenaron-a-seis-anos-a-obregon-y-a-su-pareja-a-tres-anos-en-suspenso",
+    "fuente": "Diario Norte"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTkbaB7SVlQEgWDoPh6S8o8o5gCynV5rmotNcf-PR02J2W-940A2GpwF3aRbA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Real Madrid without Bellingham: Mourinho's XI vs PSV",
+    "url": "https://www.tufutbolero.com/en/news/real-madrid-without-bellingham-mourinho-s-xi-vs-psv-efb078",
+    "fuente": "Tu Futbolero"
+   }
+  },
+  "arsenal - dortmund": {
+   "termino": "arsenal - dortmund",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Team news: Gyokeres starts against Dortmund",
+    "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+    "fuente": "Arsenal.com"
+   }
+  },
+  "liga de campeones de la afc": {
+   "termino": "liga de campeones de la afc",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_QaVNXaMcQeQCyd5rT7gKAwP56A5OvJK0RWjSA6E_Gs_c17h4_xCfNP00Ts",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El CAHN continúa su racha ganadora en la Liga de Campeones de la AFC, y el entrenador Polking revela un detalle especial.",
+    "url": "https://www.vietnam.vn/es/cahn-tiep-tuc-thang-o-cup-c1-chau-a-hlv-polking-ke-dieu-dac-biet",
+    "fuente": "Vietnam.vn"
    }
   }
  },
@@ -162199,15 +163803,15 @@
   "arantxa del sol": {
    "termino": "arantxa del sol",
    "primera_vez": "2026-11-23T19:58:56Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4jqeagNFhMW42iirTVYH6-RYTQa3dVEA3WBHsU0WGSOXe_qPDb-QWC-d7z4",
-   "ultima_vez": "2026-11-23T19:58:56Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFmbfz_9QU81E2SUW36157GYVxK2_Ew9_r9JufDEYblCqEXXXGy1rflv5BF-s",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Quiénes son los invitados de \"Pasapalabra\" hoy: Norma Ruiz, Adrián Lastra, Arantxa del Sol y Poty",
-    "url": "https://www.europafm.com/noticias/tv-cine/quienes-son-invitados-pasapalabra-hoy-norma-ruiz-adrian-lastra-arantxa-sol-poty_202611236b04817050b7057c6d148e09.html",
-    "fuente": "EuropaFM"
+    "titulo": "Priego se convierte en escenario del cortometraje «Cuando la luna se esconde», protagonizado por Arantxa del Sol y Luna Martínez",
+    "url": "https://priegodigital.es/noticia/17101-priego-se-convierte-en-escenario-del-cortometraje-cuando-la-luna-se-esconde-protagonizado-por-arantxa-del-sol-y-luna-martinez",
+    "fuente": "Priego Digital"
    }
   },
   "pepa millan": {
@@ -163748,6 +165352,132 @@
    "imagen": "",
    "ultima_vez": "2026-11-24T18:56:31Z",
    "trafico": "1000+"
+  },
+  "movistar plus": {
+   "termino": "movistar plus",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCSZ6LRzU-IwOuh9ZQyhyQ5VNZ87t8ac3wzb2l96jcwN0tgUeCdx56NijLEv4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Qué ver de deporte esta semana en Movistar Plus (23-29 de noviembre)",
+    "url": "https://www.movistarplus.es/comunicacion/blog/que-ver-de-deporte-esta-semana-en-movistar-plus-23-29-de-noviembre/",
+    "fuente": "Movistar Plus"
+   }
+  },
+  "الريال ضد بي اس في": {
+   "termino": "الريال ضد بي اس في",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3ZtifBiT7utaju4TXS4NcruTTL7KXwvNUjw4YkuvnMrYea2W_tkZRWs5UkLw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "التشكيلة الأساسية لريال مدريد ضد آيندهوفن",
+    "url": "https://www.realmadrid.com/ar-AE/news/football/first-team/latest-news/once-inicial-del-real-madrid-ante-el-psv-24-11-2026",
+    "fuente": "Real Madrid CF | Web Oficial"
+   }
+  },
+  "portsmouth - west ham": {
+   "termino": "portsmouth - west ham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwkMo4pFIB6jolwzvzNlJib5LNOIZ7lqSaJQhVnrwIU0NaZNeLvX3spBbzydI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Portsmouth v West Ham United: Championship stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cxj05qmzq474t",
+    "fuente": "BBC"
+   }
+  },
+  "rb leipzig - lens": {
+   "termino": "rb leipzig - lens",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Gp5x0bSeySKppfVXTvy-V4AuHSAoaEmyZxaq8GmKFsLnF7pZtHDSVXUJ2fg",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "RB Leipzig - Lens, en directo: Champions League, hoy en vivo",
+    "url": "https://as.com/futbol/champions/rb-leipzig-lens-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "реал мадрид – псв": {
+   "termino": "реал мадрид – псв",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2ReO56OE41ZHMVaYWrZpONehI0l4CRz_zir-AMfsUXxFDbY42o53asiFUjBg",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "«Реал Мадрид» – «ПСВ». Петер Бос: «Моуриньо добился невероятных результатов за свою профессиональную карьеру»",
+    "url": "https://fondoruso.ru/news/26671-real-madrid-psv-peter-bos-mourino-dobilsya-neveroyatnyix-rezultatov/",
+    "fuente": "Fondo Ruso"
+   }
+  },
+  "miguel bernardeau": {
+   "termino": "miguel bernardeau",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc4cq32ykppUi8SFX1ocNiuaBisuB0_O9nM05hBMl_m3NYHnPkLNk8RM479mk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Miguel Bernardeau: \"Me siento muy agobiado cuando se me define, cuando solo soy una cosa\"",
+    "url": "https://www.esquire.com/es/actualidad/cine/a74504493/miguel-bernardeau-entrevista-la-bola-negra-los-javis-guitarricadelafuente/",
+    "fuente": "Esquire"
+   }
+  },
+  "ruben van bommel": {
+   "termino": "ruben van bommel",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFAij3l238EwLaQHmGOgfCsiEXHzDLLpN_SXws1MxlsHsaysydiO60WHy5wQ4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bijna 20 jaar nadat Mark van Bommel Bernabéu woest kreeg met goal én obscene viering: kan ook zoon Ruben Thibaut Courtois & co pijn doen?",
+    "url": "https://www.hln.be/champions-league/bijna-20-jaar-nadat-mark-van-bommel-bernabeu-woest-kreeg-met-goal-en-obscene-viering-kan-ook-zoon-ruben-thibaut-courtois-en-co-pijn-doen~abc7a0ad/",
+    "fuente": "HLN"
+   }
+  },
+  "francisco tomás y valiente": {
+   "termino": "francisco tomás y valiente",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuE2EyE1esDwmuofa1bI2MFx6ODpY3ZImsgCLjywpL3Gjq1Z6wzKIxt9SiCCM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "El hijo de Tomás y Valiente, el día de la libertad de su etarra asesino: \"Ni se ha arrepentido... Sánchez traiciona la memoria democrática\"",
+    "url": "https://www.elmundo.es/espana/2026/11/24/6b058de621efa0c3348b45a0.html",
+    "fuente": "El Mundo"
+   }
+  },
+  "bodo": {
+   "termino": "bodo",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagIs9SaeC_BGWhku2WwEnEyCQLRODS7OkVjb-DvA_oomKxDy4pz7zsXx7iWM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bodø/Glimt - LASK en directo",
+    "url": "https://www.elmundo.es/deportes/futbol/champions-league/bodglimt-lask/2026/11/24/01_0103_20261124_2744_280-directo.html",
+    "fuente": "El Mundo"
+   }
   }
  },
  "ES/madrid": {
@@ -168746,15 +170476,15 @@
   "movistar plus": {
    "termino": "movistar plus",
    "primera_vez": "2026-11-21T20:38:05Z",
-   "veces": 3,
+   "veces": 4,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCcwb22clTLV3lmpgbTKmNmjHcIIfkv336puTSpMWj_8B3OWcAxZOFdrOO6ik",
-   "ultima_vez": "2026-11-22T21:39:15Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCSZ6LRzU-IwOuh9ZQyhyQ5VNZ87t8ac3wzb2l96jcwN0tgUeCdx56NijLEv4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "Movistar Plus estrenará el nuevo thriller de acción protagonizado por Jason Statham",
-    "url": "https://www.adslzone.net/noticias/streaming-tv/motin-jason-statham-movistar-plus/",
-    "fuente": "ADSLZone"
+    "titulo": "Qué ver de deporte esta semana en Movistar Plus (23-29 de noviembre)",
+    "url": "https://www.movistarplus.es/comunicacion/blog/que-ver-de-deporte-esta-semana-en-movistar-plus-23-29-de-noviembre/",
+    "fuente": "Movistar Plus"
    }
   },
   "expropiación": {
@@ -171480,6 +173210,104 @@
     "titulo": "Bruselas amenaza a España con abrir un expediente por exceso de gasto público mientras Sánchez acumula promesas electorales",
     "url": "https://www.elmundo.es/economia/2026/11/24/6b059b66fc6c837c2b8b4585.html",
     "fuente": "El Mundo"
+   }
+  },
+  "carys zeta": {
+   "termino": "carys zeta",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlZogGLoZV70jO9LKMNA4Njf16n7LTimHscSs6PEhjlKJzy04jbkr2vmGt0M4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Catherine Zeta-Jones' Daughter Just Wore Her 30-Year-Old Gucci Top, and It Looks Better Than Ever",
+    "url": "https://graziamagazine.com/articles/catherine-zeta-jones-daughter-just-wore-her-30-year-old-gucci-top-and-it-looks-better-than-ever-ga1/",
+    "fuente": "graziamagazine.com"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagIs9SaeC_BGWhku2WwEnEyCQLRODS7OkVjb-DvA_oomKxDy4pz7zsXx7iWM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Como - AEK Athens en directo",
+    "url": "https://www.elmundo.es/deportes/futbol/champions-league/como-aek-athens/2026/11/24/01_0103_20261124_1065_234-directo.html",
+    "fuente": "El Mundo"
+   }
+  },
+  "valencia - panathinaikos": {
+   "termino": "valencia - panathinaikos",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWbEvepgTXmqUKIbhfLZxmMW0MS8ChMWL8nHr8isoMRTjmaF5fxw0Gr5PYsO4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jornada 14 de la Euroliga: horarios, resultados de los partidos y resumen",
+    "url": "https://elpais.com/deportes/baloncesto/2026-11-24/jornada-14-de-la-euroliga-horarios-resultados-de-los-partidos-y-resumen.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "bayern - maccabi tel aviv": {
+   "termino": "bayern - maccabi tel aviv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQYfxbRikNAVAAkLuVDNR5mFp3WNTmOuIrj77gnyIG3716NPrJ5w_vlbHvVY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Facts: Bayern vs. Maccabi",
+    "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs14-game-facts-mun-tel/",
+    "fuente": "Euroleague Basketball"
+   }
+  },
+  "aston villa": {
+   "termino": "aston villa",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAftfsxMSlT7hJEvRTODs9TpgNfux32atH5lwA09WZCtDhnSgXYMtalmJv3LY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Galatasaray 1-0 Aston Villa: Deniz Gul breaks Villa's resistance in the Champions League",
+    "url": "https://www.bbc.com/sport/football/live/c8wy5dq7dn3wt",
+    "fuente": "BBC"
+   }
+  },
+  "bodo glimt": {
+   "termino": "bodo glimt",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bodø/Glimt - LASK LIVE. Champions League latest updates",
+    "url": "https://www.marca.com/en/soccer/champions-league/bodglimt-lask/2026/11/24/01_0103_20261124_2744_280-live.html",
+    "fuente": "MARCA"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
    }
   }
  },
@@ -178555,6 +180383,146 @@
     "titulo": "Arsenal vs Borussia Dortmund: UEFA Champions League stats & head-to-head",
     "url": "https://www.bbc.com/sport/football/live/cr4gnp24p0e6t",
     "fuente": "BBC"
+   }
+  },
+  "valencia - panathinaikos": {
+   "termino": "valencia - panathinaikos",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWbEvepgTXmqUKIbhfLZxmMW0MS8ChMWL8nHr8isoMRTjmaF5fxw0Gr5PYsO4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Jornada 14 de la Euroliga: horarios, resultados de los partidos y resumen",
+    "url": "https://elpais.com/deportes/baloncesto/2026-11-24/jornada-14-de-la-euroliga-horarios-resultados-de-los-partidos-y-resumen.html",
+    "fuente": "EL PAÍS"
+   }
+  },
+  "manchester city - nàpols": {
+   "termino": "manchester city - nàpols",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "ucl": {
+   "termino": "ucl",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11yH234jo7610oMQHjnoCrYzSgg3v79bgBPHWMw3gMLE6PvqRTuVP6kML9Ko",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Preview: RB Leipzig vs Lens - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/rb-leipzig/champions-league/preview/rb-leipzig-vs-lens-prediction-team-news-lineups_609645.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "iñigo errejon": {
+   "termino": "iñigo errejon",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-SlQZzGu5-FskLofaRl6MJZATX5CGgLY-Ac3LsZrnjvxPmiQyElUeIC8WFzo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "El jefe de la Oficina Económica de Moncloa niega haber apreciado conflicto de intereses en el rescate de Ait Europa",
+    "url": "https://www.elmundo.es/espana/2026/11/24/6b057db7e85ece73128b457e.html",
+    "fuente": "El Mundo"
+   }
+  },
+  "bodo glimt": {
+   "termino": "bodo glimt",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Bodø/Glimt - LASK LIVE. Champions League latest updates",
+    "url": "https://www.marca.com/en/soccer/champions-league/bodglimt-lask/2026/11/24/01_0103_20261124_2744_280-live.html",
+    "fuente": "MARCA"
+   }
+  },
+  "barça - fenerbahçe": {
+   "termino": "barça - fenerbahçe",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGCOoofWQKUxBkWip641G0a4JaWbBPCwGTYCvUXeDWqes0Q-AzIQrOo1CS8U",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Barça Basket - Fenerbahçe: horario, dónde ver, bajas, estadísticas y pronósticos",
+    "url": "https://www.betfair.es/blog/baloncesto/euroliga/barca-basket---fenerbahce-horario-donde-ver-bajas-estadisticas-y-pronosticos-231126-1377.html",
+    "fuente": "Betfair"
+   }
+  },
+  "bayern - maccabi tel aviv": {
+   "termino": "bayern - maccabi tel aviv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQYfxbRikNAVAAkLuVDNR5mFp3WNTmOuIrj77gnyIG3716NPrJ5w_vlbHvVY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Game Facts: Bayern vs. Maccabi",
+    "url": "https://www.euroleaguebasketball.net/en/euroleague/news/tae2627-rs14-game-facts-mun-tel/",
+    "fuente": "Euroleague Basketball"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5fHsQ4oMJZEXkE4gt6DxoIHvXVPNdSdIh46IE591Uxuohe-nA2mXtagoUcYY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
+    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDyiaoH_EG-7evN4ihJxEQnEwbAdiu-1j0EN5ife72Yt439EPchqb1Fa1mH8A",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Slovan Bratislava - Real Betis, en directo hoy el partido de la Champions League",
+    "url": "https://www.rtve.es/deportes/20261124/slovan-bratislava-real-betis-directo-hoy-partido-champions-league/17325692.shtml",
+    "fuente": "RTVE.es"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
    }
   }
  },
@@ -186758,6 +188726,132 @@
     "titulo": "Champions League LIVE: Galatasaray vs Aston Villa before Arsenal vs Borussia Dortmund & Manchester City vs Napoli",
     "url": "https://www.bbc.com/sport/football/live/cwly0rk8v8mrt",
     "fuente": "BBC"
+   }
+  },
+  "tempo": {
+   "termino": "tempo",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYfHVaiHlhIDVJ_aGomtJ212i5GGocGtXwFGz6fNQx8cJYyjaPABthuLOBPwk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Os humanos serão capazes de retroceder no tempo? Entenda!",
+    "url": "https://aventurasnahistoria.com.br/noticias/historia-hoje/os-humanos-serao-capazes-de-retroceder-no-tempo-entenda.phtml",
+    "fuente": "Aventuras na História"
+   }
+  },
+  "real madrid x psv": {
+   "termino": "real madrid x psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzWRXHszSIRCwIPMZUbIbbfG26VYsEw-cthVuwMjem0ctTDA3PhF8lGBPDOY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Liga dos Campeões. Real Madrid recebe o PSV com Vinícius Júnior a titular",
+    "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-real-madrid-recebe-o-psv-com-vinicius-junior-a-titular_v1781262",
+    "fuente": "RTP"
+   }
+  },
+  "liga dos campeões da afc": {
+   "termino": "liga dos campeões da afc",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA-cqEExJv2v2XclImpiVUgVSK0gKI7acP4VlK4OZ0VUbUn8TQ7ABczJRUviI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Antevisão do jogo: Al Quwa Al Jawiya x Al-Gharafa, 5ª Rodada de Elite da Liga dos Campeões da AFC",
+    "url": "https://www.vietnam.vn/pt/nhan-dinh-al-quwa-al-jawiya-vs-al-gharafa-vong-5-afc-champions-league-elite",
+    "fuente": "Vietnam.vn"
+   }
+  },
+  "aston villa": {
+   "termino": "aston villa",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgSTwgZKguUvlOIGVdu3gAxlWRH6K1x9aQZDWFclu0pZ_dwZg5y68i5Pmdaq0",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "VÍDEO: Deniz Gül estreia-se a marcar e Galatasaray vence Aston Villa",
+    "url": "https://cnnportugal.iol.pt/champions/galatasaray/video-deniz-gul-estreia-se-a-marcar-e-galatasaray-vence-aston-villa",
+    "fuente": "CNN Portugal"
+   }
+  },
+  "campeonato africano das nações de 2025": {
+   "termino": "campeonato africano das nações de 2025",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5O1XJjRg2Ygz_HPoQ1u-Y1Sh_-XN5-W8aA_xMZFNW4X81bGFWs4L8oUZgB4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Marrocos vai esgotar \"todas as vias legais de recurso\" para contestar decisão do TAS",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/amp/marrocos-vai-esgotar-todas-as-vias-legais-de-recurso-para-contestar-decisao-do-tas",
+    "fuente": "Record"
+   }
+  },
+  "arsenal - borussia": {
+   "termino": "arsenal - borussia",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2PFEKU3Qmalq3SoY3IXpCpJkntZst4Qs3IdGPTw56R_JuE_jv2DTajDb5p9E",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Arsenal - Dortmund: confrontos anteriores na Champions League",
+    "url": "https://pt.uefa.com/uefachampionsleague/video/02ab-222384dca1bd-778746acbf73-1000--arsenal-dortmund-confrontos-anteriores-na-champions-league/",
+    "fuente": "UEFA.com"
+   }
+  },
+  "real madrid - psv": {
+   "termino": "real madrid - psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeAuUZaXOaWyucwBDm3VmvajHWgZyqjGa7ltVEFV0TSFxVAZ9Ti_v6UGdb214",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League online",
+    "url": "https://www.managingmadrid.com/115745/real-madrid-psv-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online",
+    "fuente": "Managing Madrid"
+   }
+  },
+  "city - napoli": {
+   "termino": "city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
+  },
+  "feyenoord - porto": {
+   "termino": "feyenoord - porto",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 20000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-YjxAbvYmP2blzAaa_xb6sO3exxGe_vbdPCYO4TNLtYVTXOcUlX91ClK6Ijw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "20000+",
+   "noticia": {
+    "titulo": "Duas surpresas no onze de Farioli para o Feyenoord",
+    "url": "https://www.abola.pt/noticias/duas-surpresas-no-onze-de-farioli-para-o-feyenoord-2026112417313197529",
+    "fuente": "A Bola"
    }
   }
  },
@@ -201056,6 +203150,132 @@
     "titulo": "In 2006, Rowan Atkinson paid £2,647,500 for Handsmooth House in Ipsden, Oxfordshire, and years later moved into a ‘space-age’ mansion at the centre of a planning row",
     "url": "https://britishheritage.com/history/rowan-atkinson-handsmooth-house-ipsden/",
     "fuente": "British Heritage Travel"
+   }
+  },
+  "iphone duo": {
+   "termino": "iphone duo",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOJp5S_KYPHq3ezUvNd5bvCoQ8MZiI3c5cQaMIerpD99q6otMV7MXz7NEfjnE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "「iPhone Duoの画面をひたすらパカパカする」耐久ライブ配信で、とうとう異変が起き始める。それでも無慈悲に開閉は続く",
+    "url": "https://automaton-media.com/articles/newsjp/20261124-480727/",
+    "fuente": "AUTOMATON"
+   }
+  },
+  "east kilbride vs partick thistle": {
+   "termino": "east kilbride vs partick thistle",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "East Kilbride vs Partick Thistle: Challenge Cup stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/cq39gvzjv0m7t",
+    "fuente": "BBC"
+   }
+  },
+  "fylde vs fc halifax town": {
+   "termino": "fylde vs fc halifax town",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvpB1n8X9J6wJ5OFVAdZ-whIIaqqbp8I9VS5yS1DcSBGocCCYkcjzga5xsA3Y",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Fylde vs Halifax Town: National League stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/ckvg254n5n4zt",
+    "fuente": "BBC"
+   }
+  },
+  "ross county vs stenhousemuir": {
+   "termino": "ross county vs stenhousemuir",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkSLfyp2ispZ2-Wv5SD_dR0G7YtvdIJepP3ZONZRR1XmowosJq8Pmaeif5IUM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Ross County vs Stenhousemuir: Challenge Cup stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/c64gn08r9784t",
+    "fuente": "BBC"
+   }
+  },
+  "bambu p3c": {
+   "termino": "bambu p3c",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHOXLiLqcFpboOyh-LRQ4QMf0hPgY-EXZme_QqS9NQ7llM--xudMtmmxzqTQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+    "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+    "fuente": "The Verge"
+   }
+  },
+  "leonida github gta vi": {
+   "termino": "leonida github gta vi",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEpPzzVTh_RWvOKLNT0hrqWZrRr1keQDwb42Et0s1bWtMV-CqHG7KCUF5xgJo",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+    "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+    "fuente": "GamesIndustry.biz"
+   }
+  },
+  "rb leipzig vs lens": {
+   "termino": "rb leipzig vs lens",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "RB Leipzig vs Lens: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/c8qlqy06yzzrt",
+    "fuente": "BBC"
+   }
+  },
+  "bromley vs wycombe": {
+   "termino": "bromley vs wycombe",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPQFnOx9j3LC9tEqNstz1wH4bAdb908xTrVjtPqNFIHqT84V7yx21caJa3lrY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bromley vs Wycombe Wanderers: League One stats & head-to-head",
+    "url": "https://www.bbc.co.uk/sport/football/live/c68x04v84dldt",
+    "fuente": "BBC"
+   }
+  },
+  "slovan bratislava vs betis": {
+   "termino": "slovan bratislava vs betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEvBHq3DFgBp_iGDcMwQP5Dxqcy7YP7beWZS6hIUtESO8PkjgDXP7c1uTfAfk",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Tigran Barseghyan's Penalty Secures Slovan Victory in Slovak League",
+    "url": "https://sportaran.com/en/post/gol-tigrana-barsegyana-s-penalti-prinyos-slovanu-pobedu-v-chempionate-slovakii/",
+    "fuente": "Sportaran"
    }
   }
  },
@@ -216157,6 +218377,132 @@
     "url": "https://lessentieldeleco.fr/9783-chine-le-porte-avions-nucleaire-geant-qui-inquiete-tokyo-et-washington/",
     "fuente": "L'Essentiel de l'Éco"
    }
+  },
+  "montbrial": {
+   "termino": "montbrial",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Asq_99mUExZBRKrG4aZpittYvj8fASbo5k905u-rSHmHkEYHgVW48HDVAA4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "«On va te faire une Paty»: Thibault de Montbrial s'alarme de la banalisation de la menace à l'école",
+    "url": "https://www.europe1.fr/societe/on-va-te-faire-une-paty-thibault-de-montbrial-salarme-de-la-banalisation-de-la-menace-a-lecole-1243681",
+    "fuente": "Europe 1"
+   }
+  },
+  "cristina cordula": {
+   "termino": "cristina cordula",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfE4lKqb_LkyPk_r3wjuRySzp1lfO9koB7ca4i6sbfAALKLoRXiGGJkwUzYmg",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "“Shopping illimité : 24h pour tout changer” : notre critique",
+    "url": "https://www.telerama.fr/television/shopping-illimite-24h-pour-tout-changer-notre-critique_cri-7046978.php",
+    "fuente": "Télérama"
+   }
+  },
+  "ceuta": {
+   "termino": "ceuta",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgl4NdVT9aWaUgeV9GUnpZ-WEurpvPzi5avyA6wr0obgEG3vxO7ziw3ZcgTPM",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "AD Ceuta FC 2 - 3 UD Almería: resumen, goles y resultado",
+    "url": "https://as.com/futbol/segunda/ad-ceuta-ud-almeria-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
+    "fuente": "Diario AS"
+   }
+  },
+  "الريال ضد بي اس في": {
+   "termino": "الريال ضد بي اس في",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EqY2AP1KGcObkMcqa7OQRHjx08VQKma5P0_hjKNg4-y-agCwCGpUXm4oT10",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "مشاهدة مباراة ريال مدريد وآيندهوفن مباشرة على قناة beIN Sports Mena 1 في دوري أبطال أوروبا",
+    "url": "https://www.akhbrna.ae/sports/mshahda-mbaraa-ryal-mdryd-waayndhwfn/",
+    "fuente": "صحيفة اخبارنا"
+   }
+  },
+  "real psv": {
+   "termino": "real psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb-cOAh7SXhlpnd9MH9EBe7s5NcF4clJKAzMTCAGRQumnISzu0kbgibc4GTZ4",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "MULTILIVE. Thibaut Courtois uiteraard onder de lat bij Real, ook Maarten Vandevoordt (Leipzig) en Charles Vanhoutte (Feyenoord) starten",
+    "url": "https://www.hln.be/champions-league/multilive-thibaut-courtois-uiteraard-onder-de-lat-bij-real-ook-maarten-vandevoordt-leipzig-en-charles-vanhoutte-feyenoord-starten~abc7a0ad/",
+    "fuente": "HLN"
+   }
+  },
+  "jeremy ferrari": {
+   "termino": "jeremy ferrari",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgA5gmzNitsViud1u-QU9RDnyVJRD6QozcJwIW6ANEOKzvUdjnKM67KzBcW4A",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "\"Billie, à la croisée des mondes\", le film Disney de Noël présenté par ses voix françaises",
+    "url": "https://www.franceinfo.fr/culture/cinema/films-animation/billie-a-la-croisee-des-mondes-le-film-disney-de-noel-presente-par-ses-voix-francaises_8297814.html",
+    "fuente": "franceinfo"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "lask": {
+   "termino": "lask",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt-0Kx0YUdFA9scTz3-_I0Nuzx_kmejTGg3ibQFWq5tAUjLR-K8vj_jpclruA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Bodo Glimt Hosts LASK in Crucial Champions League Clash",
+    "url": "https://cwibc.co.id/en/bodo-glimt-hosts-lask-champions-league",
+    "fuente": "cwibc.co.id"
+   }
+  },
+  "jodie foster": {
+   "termino": "jodie foster",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzOaUadQdid_4Sw5Q4R2ElecwlvBaxr1ly9UVjG7a7aLM6IrXoZ9yiMWSNp5U",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Hexed review – Disney’s witchy caper is a wicked disappointment",
+    "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
+    "fuente": "The Guardian"
+   }
   }
  },
  "IT": {
@@ -218990,25 +221336,30 @@
   "погода завтра": {
    "termino": "погода завтра",
    "primera_vez": "2026-11-18T19:56:44Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaLYsL4Uk7-J76ZY3dm0vCBu2wuKJlyqpuPVNnQFR2fSheJXRrT8Fz3UfW8VA",
-   "ultima_vez": "2026-11-18T19:56:44Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwK8M1MkmTX6wAq4_dmZvSQgesb8L7Pb9Itfd827ANhnbyFiDG0AN_kbdVcFA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "1000+",
    "noticia": {
-    "titulo": "В Баку объявлено желтое предупреждение",
-    "url": "https://minval.az/news/124563187",
-    "fuente": "Minval Politika"
+    "titulo": "Сильный снег и порывистый ветер ожидаются в Иркутской области 25 ноября",
+    "url": "https://www.irk.ru/news/20261124/weather/",
+    "fuente": "Твой Иркутск"
    }
   },
   "vremea de mâine": {
    "termino": "vremea de mâine",
    "primera_vez": "2026-11-18T19:56:44Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 1000,
-   "imagen": "",
-   "ultima_vez": "2026-11-18T19:56:44Z",
-   "trafico": "1000+"
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6wRequuYcU9mk0u-EjhnosVEPi1PQFOUi-_Ecp61YY-ovdHIhvVw8SrcfqeE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "După codul portocaliu, România va fi lovită de un nou ciclon. Cum va fi vremea la începutul minivacanței...",
+    "url": "https://www.digi24.ro/meteo/dupa-codul-portocaliu-romania-va-fi-lovita-de-un-nou-ciclon-cum-va-fi-vremea-la-inceputul-minivacantei-de-1-decembrie-4047951",
+    "fuente": "Digi24"
+   }
   },
   "clima para amanhã": {
    "termino": "clima para amanhã",
@@ -230520,6 +232871,118 @@
     "url": "https://www.palermofc.com/it/news/palermo-sudtirol-i-convocati-5",
     "fuente": "Palermo F.C."
    }
+  },
+  "meteo di domani": {
+   "termino": "meteo di domani",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEBnMXByC1EqagV-H2BveFhBKkQZk6-cdrvu8smFjasb5FVOET5FCNKZBIbVQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100000+",
+   "noticia": {
+    "titulo": "Allerta pioggia (GIALLA) dal mattino di mercoledì 25 Novembre 2026 e per le successive 18-24 ore",
+    "url": "https://www.comune.roma.it/web/it/informazione-di-servizio.page?contentId=IDS1682075",
+    "fuente": "Roma Capitale"
+   }
+  },
+  "weather tomorrow": {
+   "termino": "weather tomorrow",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 5000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRalY5QCWXPlmTahnjqFOgt8LQmjTaQWEfVAwGWMMZ4P02kT--Nb6ttpWpY9sU",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "5000+",
+   "noticia": {
+    "titulo": "Weather tomorrow and in the coming days",
+    "url": "https://periskopi.com/en/2026/11/weather-tomorrow-coming-days",
+    "fuente": "Periskopi"
+   }
+  },
+  "martelli": {
+   "termino": "martelli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8H-ysqe_9roRpi7bhTGh5tl3tlaVRuCoh3y1b1B9LR5V1RvScdcU0I89EQjY",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Rai: cordoglio per la scomparsa di Massimo Martelli",
+    "url": "https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2026/11/Rai--1ae5e059-aa89-482e-be31-08d9af4063b3-ssi.html",
+    "fuente": "Rai.it"
+   }
+  },
+  "risultati champions": {
+   "termino": "risultati champions",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQounOBkcRkEG408rr9MhCObUbYwuERxuZkWKgKw_RmwTuhyX8Jt2o0UI4MSQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Quinta giornata Champions League: probabili formazioni, infortuni, squalifiche e ultime notizie",
+    "url": "https://it.uefa.com/uefachampionsleague/news/02ab-2223d152a1db-8ba704b975e8-1000--quinta-giornata-champions-league-probabili-formazioni-inf/",
+    "fuente": "UEFA.com"
+   }
+  },
+  "portsmouth - west ham": {
+   "termino": "portsmouth - west ham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZBubzTBx-sa4-1Ul9NXJTd2Yy601tfwZSuCUkB4EPtvY_gBUzPqkqjdDGXNA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Portsmouth Faced West Ham in Championship Matchday 17",
+    "url": "https://cwibc.co.id/en/portsmouth-west-ham-championship-matchday-17",
+    "fuente": "cwibc.co.id"
+   }
+  },
+  "elisabetta gardini": {
+   "termino": "elisabetta gardini",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQTmpcx46QoFaYW26tWjisuTtLuRrWOB0o9t76QB3cgXFdCr_PhtKkfIWwLqE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Padova, Elena Cappellini rompe gli indugi: «Sono disponibile a candidarmi sindaco, voglio rappresentare chi vuole svoltare a destra",
+    "url": "https://www.lapiazzaweb.it/news/attualita/831873/padova-elena-cappellini-rompe-gli-indugi-sono-disponibile-a-candidarmi-sindaco-voglio-rappresentare-chi-vuole-svoltare-a-destra.html",
+    "fuente": "La Piazza Web"
+   }
+  },
+  "intercettazione": {
+   "termino": "intercettazione",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgURxgNY6UQLzqE9rdIeeJUG3Kuz_-iFfKWMlYVsHdJFxO9L-JmAZIANDatq8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Garlasco, Alberto Stasi e il padre Nicola intercettati sulle indagini del Ris di Parma: \"La nostra speranza\"",
+    "url": "https://www.virgilio.it/notizie/garlasco-alberto-stasi-e-il-padre-nicola-intercettati-sulle-indagini-del-ris-di-parma-la-nostra-speranza-1798757",
+    "fuente": "Virgilio"
+   }
+  },
+  "serie b": {
+   "termino": "serie b",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 10000,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6nwTh0Vz-QU-r0nT29bp9QV_XctFUVY3jG8Sn_NBh3wsWZbnqCWFGZQg9kaQ",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "10000+",
+   "noticia": {
+    "titulo": "Palermo-Sudtirol: i convocati",
+    "url": "https://www.palermofc.com/it/news/palermo-sudtirol-i-convocati-5",
+    "fuente": "Palermo F.C."
+   }
   }
  },
  "DE": {
@@ -231473,15 +233936,15 @@
   "tv total": {
    "termino": "tv total",
    "primera_vez": "2026-11-17T20:50:56Z",
-   "veces": 1,
+   "veces": 2,
    "max_trafico": 200,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqqTcgs0fhGQ4ZqKkDhH86duT6Druy98oj9QGoiOuX0jlJ-qCi1t1tquAmoM",
-   "ultima_vez": "2026-11-17T20:50:56Z",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtNkm2SOpRsMmGdeQoCSumbHaxsFY7CwYjsovCnI3WFMnlMRc70l50E1sExfg",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "200+",
    "noticia": {
-    "titulo": "\"Vor Shirin David hab ich Angst\": Sebastian Pufpaff verrät seine \"TV total\"-Wunsch-Gäst:innen",
-    "url": "https://www.joyn.de/bts/serien/tv-total/diese-stars-wuenscht-sich-sebastian-pufpaff-doch-vor-shirin-david-hat-er-angst-214828",
-    "fuente": "Joyn"
+    "titulo": "„Faculty – Trau keinem Lehrer!“ erscheint im Februar 2027 auf 4K UHD",
+    "url": "https://collectors-junkies.com/faculty-trau-keinem-lehrer-erscheint-im-februar-2027-auf-4k-uhd/",
+    "fuente": "Collectors-Junkies"
    }
   },
   "niger vs morocco": {
@@ -246727,6 +249190,90 @@
     "url": "https://www.skysports.com/darts/news/13615574/gerwyn-price-four-time-grand-slam-champion-casts-doubt-over-accepting-premier-league-darts-spot",
     "fuente": "Sky Sports"
    }
+  },
+  "portsmouth – west ham": {
+   "termino": "portsmouth – west ham",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMFKFLTjwJAFu-xYXNBRW6BhnRW7_j16wizgCoVgvd6iA9eG70z_zJsLrQC8o",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Portsmouth vs West Ham - Prediction, where to watch, kick-off time and line-ups 24-11-2026",
+    "url": "https://onefootball.com/en/betting/predictions/portsmouth-vs-west-ham-24-11-2026",
+    "fuente": "OneFootball"
+   }
+  },
+  "κόμο εναντίον αεκ": {
+   "termino": "κόμο εναντίον αεκ",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3hR_MsdS7r3ZVQBfiSDlT2cJ9VVrUtbciXY1a4Lz9z7mWFTVTJLic9AQGxRE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Fabregas: ‘Como dream in Champions League, proud of players’",
+    "url": "https://onefootball.com/en/news/fabregas-como-dream-in-champions-league-proud-of-players-43833302",
+    "fuente": "OneFootball"
+   }
+  },
+  "liga mistrzów": {
+   "termino": "liga mistrzów",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwehRVsqf08YZgMTQK3JvwBS8RlA30uM-58uJekWfSJrEOUskhGrmkd3XkLaE",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Paris Saint-Germain – AS Roma już 25 listopada. Gdzie oglądać mecz na żywo?",
+    "url": "https://pilot.wp.pl/strefapilota/paris-saint-germain-as-roma-juz-25-listopada-gdzie-ogladac-mecz-na-zywo",
+    "fuente": "Pilot WP"
+   }
+  },
+  "francesco schettino": {
+   "termino": "francesco schettino",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc4F46sFRB_jAMiQLFKe8Jp_YIw2Xb0xbIm_pfRbjHEpCyJnWz8pH1TUTTtg0",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Schettino, nuova vita dopo la condanna: lavorerà nel settore turistico in Costiera",
+    "url": "https://www.tgcom24.mediaset.it/cronaca/schettino-fuori-carcere-nuovo-lavoro_119349420-202602k.shtml",
+    "fuente": "Tgcom24"
+   }
+  },
+  "feyenoord – fc porto": {
+   "termino": "feyenoord – fc porto",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_asqy2BYc_BIgUg7QaOf2-zSJNnFjZcBlFu6eMo_xBvUyXLh_nNb7R2sn5q8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Feyenoord v Porto Odds",
+    "url": "https://sportsbook.fanduel.com/soccer/uefa-champions-league/feyenoord-v-porto-36288672",
+    "fuente": "FanDuel Sportsbook"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
+   }
   }
  },
  "NL": {
@@ -257487,15 +260034,15 @@
   "annechien steenhuizen": {
    "termino": "annechien steenhuizen",
    "primera_vez": "2026-11-23T19:58:56Z",
-   "veces": 2,
+   "veces": 3,
    "max_trafico": 500,
-   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvwqrA4PEiboEitpw7mdNJRW-KcnpGxLY-CKpa36QcFjxPePnREea9CN009N0",
-   "ultima_vez": "2026-11-23T20:50:07Z",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBRq5bDYBGrxjX9abdidkdtTUqNhpyHqE3VUVfJ2h4LZW9bGMXZBEQrXEZbng",
+   "ultima_vez": "2026-11-24T19:59:18Z",
    "trafico": "500+",
    "noticia": {
-    "titulo": "Na bijna 3 jaar afwezigheid keert Project Rembrandt terug op tv",
-    "url": "https://www.rtl.nl/boulevard/artikel/5666682/project-rembrandt-keert-januari-na-bijna-drie-jaar-terug-op-tv",
-    "fuente": "RTL.nl"
+    "titulo": "Jan de Hoop kritisch op terugkeer Annechien Steenhuizen: ‘Dat vond ik wel gek’",
+    "url": "https://weekbladparty.nl/jan-de-hoop-kritisch-op-terugkeer-annechien-steenhuizen-dat-vond-ik-wel-gek/",
+    "fuente": "Weekblad Party"
    }
   },
   "fomo": {
@@ -258975,6 +261522,132 @@
     "titulo": "Kamer wil omstreden term 'remigratie' uit de wet hebben",
     "url": "https://nos.nl/artikel/2640852-kamer-wil-omstreden-term-remigratie-uit-de-wet-hebben",
     "fuente": "NOS"
+   }
+  },
+  "real madryt – psv": {
+   "termino": "real madryt – psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 500,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuxziBWxZCDNJ1hBwPECY5TP3dWZSimQR31XqiyZtlAB24imDqfIRZCjZIe34",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "500+",
+   "noticia": {
+    "titulo": "Oud-PSV'er Linskens 38 jaar na rollertje terug in Madrid • 'Feyenoord-keeper Ernst gepasseerd'",
+    "url": "https://nos.nl/liveblog/2640824-oud-psv-er-linskens-38-jaar-na-rollertje-terug-in-madrid-feyenoord-keeper-ernst-gepasseerd",
+    "fuente": "NOS"
+   }
+  },
+  "slovan bratislava - real betis": {
+   "termino": "slovan bratislava - real betis",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo9Fa1eMPmCbsmyayy5moxHTDjsOhun-8Vdt2spjdbhljhf1MCI5jtfG1SAXc",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Slovan Bratislava vs Real Betis Confirmed Lineups",
+    "url": "https://www.whoscored.com/news/C87rjGh-ZUS9LPsg59T9sw/show/cng112-20261124-slovan-bratislava-vs-real-betis-confirmed-lineup-1795546528",
+    "fuente": "WhoScored.com"
+   }
+  },
+  "man city vs napoli": {
+   "termino": "man city vs napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRycwdAxsumFLwNxMoYaI1KxaxsfTcTilN6J118pwIxFjiGkmDuuH7mHODCRs8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/c3j4rne5ny5et",
+    "fuente": "BBC"
+   }
+  },
+  "como - aek": {
+   "termino": "como - aek",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtWstpICz4W72_7rvMG2VkoRF2u1QAAswRdyMq2NPOwoq93lWhxhGQHelqzA",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Pronóstico Como vs AEK Athens FC: Ventaja de jugar en casa",
+    "url": "https://www.vietnam.vn/es/nhan-dinh-como-vs-aek-athens-fc-diem-tua-san-nha",
+    "fuente": "Vietnam.vn"
+   }
+  },
+  "roosendaal": {
+   "termino": "roosendaal",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 100,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElV3Q3Wl39B72Q7i0mhyFFLOR9UvzzFveUWr0DzuktCV331S-9h76SPVlxqI",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "100+",
+   "noticia": {
+    "titulo": "Mark Buijs liep bijna 40 breuken op bij fietsongeval en is nu terug als burgemeester Roosendaal: ‘Ik heb een tweede kans gekregen’",
+    "url": "https://www.bndestem.nl/roosendaal/mark-buijs-liep-bijna-40-breuken-op-bij-fietsongeval-en-is-nu-terug-als-burgemeester-roosendaal-ik-heb-een-tweede-kans-gekregen~a67ae43c/",
+    "fuente": "BN DeStem"
+   }
+  },
+  "ucl": {
+   "termino": "ucl",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 200,
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11yH234jo7610oMQHjnoCrYzSgg3v79bgBPHWMw3gMLE6PvqRTuVP6kML9Ko",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "200+",
+   "noticia": {
+    "titulo": "Preview: RB Leipzig vs Lens - prediction, team news, lineups",
+    "url": "https://www.sportsmole.co.uk/football/rb-leipzig/champions-league/preview/rb-leipzig-vs-lens-prediction-team-news-lineups_609645.html",
+    "fuente": "Sports Mole"
+   }
+  },
+  "arsenal - bvb": {
+   "termino": "arsenal - bvb",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 2000,
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStbidkTKlogKBcO1JsaSe_UVaE8ScuoNZIoYq_f17QnZBMNmH_Am3DfoHEkh8",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "2000+",
+   "noticia": {
+    "titulo": "Arsenal vs Borussia Dortmund: UEFA Champions League stats & head-to-head",
+    "url": "https://www.bbc.com/sport/football/live/cr4gnp24p0e6t",
+    "fuente": "BBC"
+   }
+  },
+  "real madrid vs psv": {
+   "termino": "real madrid vs psv",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdJG9_qMDKbXjgwK8qpqd-QI1vge5yIgrn-SG-94EVrMrXzKLFJOtxsO168ds",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Press Conference | “We always adapt.”",
+    "url": "https://www.psv.nl/en/media/artikel/persconferentie-wij-passen-ons-altijd-aan",
+    "fuente": "PSV"
+   }
+  },
+  "manchester city - napoli": {
+   "termino": "manchester city - napoli",
+   "primera_vez": "2026-11-24T19:59:18Z",
+   "veces": 1,
+   "max_trafico": 1000,
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz5-z_nSBVlKG7TW3hmDfdLLRKqVZ6-ojzfW5j74bAV-NkF0dV7aJ9NA6zQ4w",
+   "ultima_vez": "2026-11-24T19:59:18Z",
+   "trafico": "1000+",
+   "noticia": {
+    "titulo": "Allegri: \"City davvero fortissimo\". De Bruyne: \"Non ho più 20 anni\". Poi attacca la stampa",
+    "url": "https://www.gazzetta.it/Calcio/Champions-League/23-11-2026/napoli-allegri-prima-del-city-speriamo-nel-risultato-ma-non-basta-e-su-de-bruyne.shtml",
+    "fuente": "La Gazzetta dello Sport"
    }
   }
  }
