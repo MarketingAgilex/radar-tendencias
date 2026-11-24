@@ -1,6 +1,12 @@
 {
- "ultima_ejecucion": "2026-11-24T03:55:26Z",
- "duracion_seg": 59.7,
- "errores": 0,
- "muestra_errores": []
+ "ultima_ejecucion": "2026-11-24T05:01:40Z",
+ "duracion_seg": 89.0,
+ "errores": 1,
+ "muestra_errores": [
+  {
+   "url": "https://news.google.com/rss/search?q=%28%28%22m%C3%A1s+vendido%22+OR+%22m%C3%A1s+vendidos%22+OR+agotado+OR+%22se+agot%C3%B3%22+OR+%22Black+Friday%22+OR+%22Buen+Fin%22+OR+%22Cyber+Monday%22+OR+%22Cyber",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-24T05:01:40Z"
+  }
+ ]
 }
