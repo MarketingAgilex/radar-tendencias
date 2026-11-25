@@ -1,12 +1,6 @@
 {
- "ultima_ejecucion": "2026-11-25T16:00:34Z",
- "duracion_seg": 115.4,
- "errores": 1,
- "muestra_errores": [
-  {
-   "url": "https://news.google.com/rss?hl=it&gl=IT&ceid=IT%3Ait",
-   "error": "HTTP Error 429: Too Many Requests",
-   "hora": "2026-11-25T16:00:34Z"
-  }
- ]
+ "ultima_ejecucion": "2026-11-25T17:01:57Z",
+ "duracion_seg": 96.2,
+ "errores": 0,
+ "muestra_errores": []
 }
