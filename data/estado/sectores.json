@@ -1,6 +1,12 @@
 {
- "ultima_ejecucion": "2026-11-26T08:00:00Z",
- "duracion_seg": 560.4,
- "errores": 0,
- "muestra_errores": []
+ "ultima_ejecucion": "2026-11-26T13:53:52Z",
+ "duracion_seg": 516.9,
+ "errores": 1,
+ "muestra_errores": [
+  {
+   "url": "https://news.google.com/rss/search?q=%28Gesundheit+OR+Wellness%29+when%3A1d&hl=de&gl=DE&ceid=DE%3Ade",
+   "error": "HTTP Error 429: Too Many Requests",
+   "hora": "2026-11-26T13:53:52Z"
+  }
+ ]
 }
